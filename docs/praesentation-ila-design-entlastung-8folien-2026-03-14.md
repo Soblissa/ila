@@ -17,7 +17,8 @@ Ziel: Pilotfreigabe für 4 Wochen
 ## Folie 2 – Ausgangslage
 **Kernaussagen:**
 - Hohe Komplexität und Reibung zwischen Fachlichkeit und Design
-- Standard-Screens binden viel Designkapazität
+- Angespannte Ressourcenlage bei gleichzeitig hohem Stakeholder-Druck
+- Wiederkehrende Standardscreens (z. B. Formular-, Listen- und Detailansichten) binden viel Designkapazität
 - Iterationen dauern zu lange
 
 ---
