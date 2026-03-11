@@ -27,3 +27,4 @@ Ob und wann beim Auftraggeber echtes Interesse an KI-Einsatz entsteht.
 - `docs/vorschlag-design-entlastung-mit-agenten-2026-03-13.md`
 - `docs/management-onepager-design-entlastung-2026-03-13.md`
 - `docs/praesentation-ila-design-entlastung-8folien-2026-03-14.md`
+- `docs/vorschlag-design-entlastung-mit-agenten-6-schritte-v2.md`
