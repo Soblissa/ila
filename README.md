@@ -22,3 +22,6 @@ Zugriff auf relevante, freigegebene Projektdokumente strukturieren.
 
 ## Offene Frage
 Ob und wann beim Auftraggeber echtes Interesse an KI-Einsatz entsteht.
+
+## Aktueller Entscheidungsunterstützer
+- `docs/vorschlag-design-entlastung-mit-agenten-2026-03-13.md`
