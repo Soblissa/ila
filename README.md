@@ -25,3 +25,4 @@ Ob und wann beim Auftraggeber echtes Interesse an KI-Einsatz entsteht.
 
 ## Aktueller Entscheidungsunterstützer
 - `docs/vorschlag-design-entlastung-mit-agenten-2026-03-13.md`
+- `docs/management-onepager-design-entlastung-2026-03-13.md`
