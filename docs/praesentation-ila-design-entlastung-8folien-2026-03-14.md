@@ -23,12 +23,13 @@ Ziel: Pilotfreigabe für 4 Wochen
 
 ---
 
-## Folie 3 – Schritt 1 + 2
-**Titel:** Voraussetzung: Regeln + Referenzset
+## Folie 3 – Vorschlag
 **Kernaussagen:**
-- Designstandard verbindlich dokumentieren
-- 30 bis 80 Referenzscreens mit Metadaten kuratieren
-- Ziel: konsistente Grundlage statt Einzelmeinungen
+- Pilotversuch in kontrolliertem technischem Setup.
+- Klare Governance für Datenschutz, Rollen und Freigaben.
+- Agent erstellt Figma-Erstentwürfe auf Basis definierter Designspezifikationen.
+- Fokus auf aktuelles Teilziel: BSLRR (besondere Schwierigkeiten im Lesen, Rechtschreiben und Rechnen).
+- Mensch bleibt für Entscheidung und Freigabe verantwortlich.
 
 ---
 
