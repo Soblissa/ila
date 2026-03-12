@@ -51,11 +51,12 @@ Ziel: Pilotfreigabe für 4 Wochen
 
 ---
 
-## Folie 6 – Schritt 6
-**Titel:** Datenbasierte Entscheidung
+## Folie 6 – Pilotrisiken
 **Kernaussagen:**
-- Messgrößen: Zeit, Schleifen, Konsistenz, Akzeptanz
-- Ergebnis: Go, Teil-Go oder No-Go
+- Risiko 1: Der Test zeigt, dass Agenteneinsatz im aktuellen Rahmen nicht realisierbar ist.
+- Mögliche Ursachen: unklare Designspezifikation, zu viele Sonderfälle, instabile Verfügbarkeit im Pilotprozess.
+- Risiko 2: Arbeitszeit von Sebastian Felgenhauer, Markus Deibel und Sarah Bonhoff wird gebunden, ohne verwertbaren Mehrwert.
+- Konsequenz: Entscheidung nach 4 Wochen klar als Go, Teil-Go oder No-Go.
 
 ---
 
