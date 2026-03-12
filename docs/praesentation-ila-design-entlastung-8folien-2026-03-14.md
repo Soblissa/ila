@@ -1,4 +1,4 @@
-# Präsentationsvorlage (8 Folien) – inhaltlich nach 6-Schritte-Modell
+# Präsentationsvorlage (7 Folien) – inhaltlich nach 6-Schritte-Modell
 
 Thema: Entlastung UX/UI durch Agenten-Pilot in ILA  
 Stand: 2026-03-11  
@@ -59,17 +59,9 @@ Ziel: Pilotfreigabe für 4 Wochen
 
 ---
 
-## Folie 7 – Nicht-Ziele
+## Folie 7 – Pilotziele
 **Kernaussagen:**
-- Kein vollständiger Ersatz von Design-Rollen
-- Kein Big-Bang-Umbau
-- Keine ungeprüfte Automatisierung
-
----
-
-## Folie 8 – Benötigte Freigaben heute
-**Kernaussagen:**
-1. 4-Wochen-Pilot freigeben
-2. Seitentypen festlegen
-3. Verantwortliche benennen
-4. Entscheidungstermin am Pilotende fixieren
+- Machbarkeitsprüfung: Ist Agenteneinsatz als Ergänzung zur Designrolle im Projekt tragfähig?
+- Evaluierung: Welchen konkreten Nutzen bringt der Ansatz im Pilotbetrieb?
+- Skalierungspotential: In welchem Umfang ist ein Rollout sinnvoll und realistisch?
+- Bereitstellung einer Entscheidungsvorlage: Klare Grundlage für die weitere Entscheidung nach Pilotabschluss.
