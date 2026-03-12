@@ -42,11 +42,12 @@ Ziel: Pilotfreigabe für 4 Wochen
 
 ---
 
-## Folie 5 – Schritt 5
-**Titel:** Qualität verbindlich sichern
+## Folie 5 – Erfolgsmessung (im Agententeam)
 **Kernaussagen:**
-- Pflichtchecks: Fachlichkeit, UX, UI, Barrierefreiheit, Konsistenz
-- Kein Screen ohne vollständige Checkliste
+- Agentenzeit pro Entwurf (reine Lauf-/Erstellzeit des Agenten).
+- Time-to-First-Draft (Anforderung bis erster belastbarer Figma-Entwurf).
+- End-to-End-Zeit pro Screen (Anforderung bis reviewfähiger Entwurf).
+- Rework-Aufwand (Anzahl und Dauer der Korrekturschleifen).
 
 ---
 
