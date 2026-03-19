@@ -7,11 +7,12 @@ Stand: 2026-03-18
 ## Kontext
 - Komplexes fachliches und organisatorisches Umfeld
 - SCRUM ist formal vorhanden
-- In der Praxis Spannungen zwischen Fachlichkeit und Design
+- keine stringentes Zusammenarbeitsmodell vorhanden
+- größter Zeitfresser: Abstimmung zwischen Fachlichkeit und Design
 
 ## Arbeitsziel (Sarah)
-Prüfen, ob und wie KI den Entwicklungsprozess beschleunigen und verbessern kann.  
-**Zielbild:** UI/UX-Design durch Agenten unterstützen/ersetzen  
+Prüfen, ob und wie KI den Entwicklungsprozess beschleunigen und verbessern kann, in diesem Pilotprojekt primär Fokus auf Übersetzung fachliche Anforderungen in Flows und Screens:
+**Zielbild:** UI/UX-Design durch Agenten unterstützen  
 → Input: Anforderungen + bestehende Designlogik  
 → Output: neue Figma-Screens (konsistent, barrierearm, fachlich korrekt)
 
@@ -24,9 +25,9 @@ Jedes Teammitglied erhält einen eigenen Agenten. Alle Agenten kommunizieren üb
 **Gemeinsame Signal-Gruppe:** Menschen + Agenten zusammen.
 
 ## Agenten-Architektur (geplant)
-1. **ILA-Hauptagent (Sarah):** Koordination, Entscheidungen, Qualitäts-Gates, finale Freigabe  
-2. **Fachlichkeits-Agent (Sebastian):** Anforderungen, ARIS-Modelle, fachliche Regeln  
-3. **Design-Agent (Yves):** Figma-Zugriff, Design-System, Screen-Entwürfe
+1. **ILA-Hauptagent (Sarah) Claude:** Koordination, Entscheidungen, Qualitäts-Gates, finale Freigabe  
+2. **Fachlichkeits-Agent - Perplexity (Sebastian):** Lieferung und QS Anforderungen, fachliche Regeln  
+3. **Design-Agent - Claude (Yves):** Bereitstellung und Anpassung Design-System, QS und Weiterentwicklung Screen-Entwürfe
 
 **Wichtig:** Alle Agenten haben Figma-Zugriff, aber oberste Steuerungsebene bleibt beim ILA-Hauptagenten.
 
@@ -42,7 +43,6 @@ Jedes Teammitglied erhält einen eigenen Agenten. Alle Agenten kommunizieren üb
 ## Vorgehen (7-Schritte-Modell, validiert)
 
 ### Stufenplan
-**Agent als Junior → Co-Designer → Teilübernahme** (nicht Big Bang)
 
 ### 1) Design-System explizit machen
 - Komponenten (Buttons, Tabellen, Formulare)
@@ -51,7 +51,7 @@ Jedes Teammitglied erhält einen eigenen Agenten. Alle Agenten kommunizieren üb
 - Do und Don't
 
 ### 2) Goldstandard-Daten bauen
-- 30–80 gute bestehende Screens
+- 80 bis 100 gute bestehende Screens
 - Je Screen: Metadaten (Zweck, Nutzerrolle, Pflichtinfos, fachliche Regeln)
 - Markieren, was als „gut" gilt
 
@@ -67,7 +67,6 @@ Template mit immer gleicher Struktur:
 5. Review gegen Checkliste
 
 ### 5) Qualitäts-Gates einziehen
-Kein Screen geht ungeprüft live:
 - Fachlicher Check
 - UX-Check
 - UI-Check
@@ -75,7 +74,7 @@ Kein Screen geht ungeprüft live:
 - Konsistenz mit Bestand
 
 ### 6) Pilot mit engem Scope
-- 1–2 Seitentypen (Fokus: BSLRR)
+- 2 - 3 Seitentypen (Fokus: BSLRR)
 - 4 Wochen
 - Messen: Time-to-First-Draft, End-to-End-Zeit, Rework-Aufwand
 
@@ -91,26 +90,25 @@ Sonst reproduziert der Agent nur den Konflikt in schneller.
 ## Realistische Erwartung
 - **Kurzfristig:** 30–50% schneller bei Standard-Screens
 - **Mittelfristig:** Starke Entlastung bei Routine und Varianten
-- **Vollständiger Ersatz:** Nur bei eng standardisierten Oberflächen realistisch
+
 
 ## Zielgruppe im Projekt
 - Auftraggeber
-- Referatsleitung
-- internes Pendant
+- ila Team
+
 
 ## Nächster Schritt
 1. Präsentation auswerten (`docs/praesentationen/ila_Agenten_Pilot_Design-Entlastung.pptx`)  
-2. ILA-Hauptagent auf Claude Sonnet 4-5 aufsetzen  
-3. Signal-Setup für 3 Bots (Token + Konfiguration)  
-4. Steuerungs- und Freigabe-Matrix erstellen  
-5. Figma-Zugriff und Design-System-Schnittstelle definieren
+2. ILA-Hauptagent auf Claude Sonnet 4-5 aufsetzen  (OpenRouter Sarah)
+3. Signal-Setup für 3 Bots (Token + Konfiguration)
+4. Handlungsanweisung - erste SChritte für Kollgen schreiben
+5. Steuerungs- und Freigabe-Matrix erstellen  
+6. Figma-Zugriff und Design-System-Schnittstelle definieren
+7. Zugriffe der Kollegen auf Repository klären und sichern 
 
-## Offene Frage
+
+## Offene Fragen
 Ob und wann beim Auftraggeber echtes Interesse an KI-Einsatz entsteht.
+Wenn Pilot erfolgreich - n#ächste Schritte
 
-## Aktueller Entscheidungsunterstützer
-- `docs/vorschlag-design-entlastung-mit-agenten-2026-03-13.md`
-- `docs/management-onepager-design-entlastung-2026-03-13.md`
-- `docs/praesentation-ila-design-entlastung-7folien-2026-03-12.md`
-- `docs/vorschlag-design-entlastung-mit-agenten-6-schritte-v2.md`
-- `docs/praesentationen/ila_Agenten_Pilot_Design-Entlastung.pptx` (neueste, 2026-03-18)
+
