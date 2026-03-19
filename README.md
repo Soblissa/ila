@@ -98,17 +98,16 @@ Sonst reproduziert der Agent nur den Konflikt in schneller.
 
 
 ## Nächster Schritt
-1. Präsentation auswerten (`docs/praesentationen/ila_Agenten_Pilot_Design-Entlastung.pptx`)  
-2. ILA-Hauptagent auf Claude Sonnet 4-5 aufsetzen  (OpenRouter Sarah)
-3. Signal-Setup für 3 Bots (Token + Konfiguration)
-4. Handlungsanweisung - erste SChritte für Kollgen schreiben
-5. Steuerungs- und Freigabe-Matrix erstellen  
-6. Figma-Zugriff und Design-System-Schnittstelle definieren
-7. Zugriffe der Kollegen auf Repository klären und sichern 
+1. ILA-Hauptagent auf Claude Sonnet 4-5 aufsetzen  (OpenRouter Sarah)
+2. Signal-Setup für 3 Bots (Token + Konfiguration)
+3. Handlungsanweisung - erste Schritte für Kollgen schreiben
+4. Steuerungs- und Freigabe-Matrix erstellen  
+5. Figma-Zugriff und Design-System-Schnittstelle definieren
+6. Zugriffe der Kollegen auf Repository klären und sichern 
 
 
 ## Offene Fragen
 Ob und wann beim Auftraggeber echtes Interesse an KI-Einsatz entsteht.
-Wenn Pilot erfolgreich - n#ächste Schritte
+Wenn Pilot erfolgreich - nächste Schritte
 
 
