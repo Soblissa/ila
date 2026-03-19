@@ -33,8 +33,65 @@ Jedes Teammitglied erhält einen eigenen Agenten. Alle Agenten kommunizieren üb
 ## Technische Rahmenbedingungen
 - Agenten-Steuerung: **Signal**  
 - Dokumentation: **GitHub**  
-- Design-Plattform: **Figma** (eigene Instanz für Agent-Zugriff)  
+- Design-Plattform: **Figma (lokales Setup / Sandbox)**  
+  - Eigener Figma-Account (Sarah)  
+  - Kopie der Produktiv-Figma-Instanz als Sandbox  
+  - Agent arbeitet dort (kein Risiko für Live-System)  
 - Fachlicher Kontext: **ARIS-Modelle + Word + Prompts**
+
+## Vorgehen (7-Schritte-Modell, validiert)
+
+### Stufenplan
+**Agent als Junior → Co-Designer → Teilübernahme** (nicht Big Bang)
+
+### 1) Design-System explizit machen
+- Komponenten (Buttons, Tabellen, Formulare)
+- Regeln (Abstände, Farben, Zustände)
+- Muster je Seitentyp
+- Do und Don't
+
+### 2) Goldstandard-Daten bauen
+- 30–80 gute bestehende Screens
+- Je Screen: Metadaten (Zweck, Nutzerrolle, Pflichtinfos, fachliche Regeln)
+- Markieren, was als „gut" gilt
+
+### 3) Prompt-Blueprint definieren
+Template mit immer gleicher Struktur:
+- Kontext, Seitentyp, Pflichtinhalte, Designregeln, Accessibility, Outputformat
+
+### 4) Agent-Workflow bauen
+1. Anforderungen rein  
+2. Agent macht Wireframe  
+3. Agent macht High Fidelity  
+4. Export nach Figma  
+5. Review gegen Checkliste
+
+### 5) Qualitäts-Gates einziehen
+Kein Screen geht ungeprüft live:
+- Fachlicher Check
+- UX-Check
+- UI-Check
+- Accessibility-Check
+- Konsistenz mit Bestand
+
+### 6) Pilot mit engem Scope
+- 1–2 Seitentypen (Fokus: BSLRR)
+- 4 Wochen
+- Messen: Time-to-First-Draft, End-to-End-Zeit, Rework-Aufwand
+
+### 7) Entscheidungslogik
+- Wenn Qualität stabil → Agent übernimmt Erstentwurf standardmäßig
+- Wenn nicht → Agent nur für Varianten und Vorarbeit
+
+## Wichtig: Spannungen strukturiert klären
+Bei ila gibt es Spannungen zwischen Fachlichkeit und Design.  
+**Vor Agenteneinsatz:** Gemeinsame Definition von „gut genug" erarbeiten.  
+Sonst reproduziert der Agent nur den Konflikt in schneller.
+
+## Realistische Erwartung
+- **Kurzfristig:** 30–50% schneller bei Standard-Screens
+- **Mittelfristig:** Starke Entlastung bei Routine und Varianten
+- **Vollständiger Ersatz:** Nur bei eng standardisierten Oberflächen realistisch
 
 ## Zielgruppe im Projekt
 - Auftraggeber
