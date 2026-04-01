@@ -73,7 +73,7 @@ Besonders bei Buttons, Navigationspunkten und Überschriften:
 | Modal Wizard | Mehrstufiger Assistent | — je nach Kontext | |
 | Slot/User Feedback | Feedback-Formular | Rückmeldung | |
 | Evaluation | Bewertung des Förderziels | Evaluation / Einschätzung | Klären: Welcher Begriff ist in der Schule üblich? |
-| Notiz | Notiz | Notiz | Passt |
+| Notiz | Verlaufsdokumentation einer Maßnahme | "Verlauf" oder "Dokumentation" | ⚠️ **Bekanntes Problem:** "Notiz" zu offen — Pilotteilnehmer haben das Feld uneinheitlich genutzt. Fachlich korrekt: "Dokumentationseintrag". UI-Begriff offen, muss abgestimmt werden. |
 | Tag | Markierung / Label | — je nach Kontext | |
 | Badge | Status-Kennzeichnung | — je nach Kontext | |
 | Snackbar | Kurze Statusmeldung | — nicht direkt sichtbar | |
