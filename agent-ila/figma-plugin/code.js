@@ -111,8 +111,15 @@ async function applyLabel(node, label) {
  */
 async function buildScreen(spec) {
   const errors = [];
-  const sizeKey = spec.size in FRAME_SIZES ? spec.size : "desktop";
-  const { width, height } = FRAME_SIZES[sizeKey];
+  let width, height;
+  if (spec.width && spec.height) {
+    width = spec.width;
+    height = spec.height;
+  } else {
+    const sizeKey = spec.size in FRAME_SIZES ? spec.size : "desktop";
+    width = FRAME_SIZES[sizeKey].width;
+    height = FRAME_SIZES[sizeKey].height;
+  }
 
   // Seite aktivieren
   const targetPage = getOrCreatePage(spec.page);
