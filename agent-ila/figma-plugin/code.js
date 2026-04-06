@@ -234,9 +234,18 @@ figma.ui.onmessage = async (msg) => {
   }
 
   if (msg.type === "build-screen" && msg.json) {
-    // Alle Seiten laden (Figma-Pflicht bei documentAccess: dynamic-page)
-    figma.ui.postMessage({ type: "status", message: "Lade Seiten..." });
-    await figma.loadAllPagesAsync();
+    // Prüfen ob alle Komponenten per nodeId angegeben sind — dann kein loadAllPages nötig
+    const allHaveNodeId = spec.components && spec.components.every(c => c.nodeId);
+    figma.ui.postMessage({ type: "status", message: allHaveNodeId ? "Starte..." : "Lade Seiten..." });
+    
+    if (!allHaveNodeId) {
+      // Nur laden wenn Name-Suche nötig
+      await figma.loadAllPagesAsync();
+    } else {
+      // Nur Zielseite laden
+      const targetPage = figma.root.children.find(p => p.name === spec.page);
+      if (targetPage) await targetPage.loadAsync();
+    }
     let spec;
 
     try {
