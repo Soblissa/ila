@@ -150,6 +150,16 @@ async function buildScreen(spec) {
     }
 
     try {
+      // Fonts laden bevor Instanz eingefügt wird
+      try {
+        await figma.loadFontAsync({ family: "Noto Sans Display", style: "Medium" });
+        await figma.loadFontAsync({ family: "Noto Sans Display", style: "Regular" });
+        await figma.loadFontAsync({ family: "Noto Sans Display", style: "SemiBold" });
+        await figma.loadFontAsync({ family: "Inter", style: "Regular" });
+        await figma.loadFontAsync({ family: "Inter", style: "Medium" });
+        await figma.loadFontAsync({ family: "Inter", style: "SemiBold" });
+      } catch (fontErr) { /* ignorieren */ }
+
       const instance = component.createInstance();
       instance.x = compSpec.x;
       instance.y = compSpec.y;
