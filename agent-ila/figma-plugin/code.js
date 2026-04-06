@@ -16,29 +16,54 @@ const FRAME_SIZES = {
  * Sucht eine Komponente per Name in allen lokalen und eingebetteten Libraries.
  */
 async function findComponentByName(name) {
-  // 1. Lokale Komponenten (im aktuellen Dokument)
-  const localComponents = figma.root.findAll(
+  // Normalisierung: Sonderzeichen und Emojis aus dem Namen entfernen für flexiblen Match
+  const normalize = (s) => s.replace(/[\u{1F000}-\u{FFFF}]/gu, '').replace(/\s+/g, ' ').trim();
+  const normalizedName = normalize(name);
+
+  // 1. Exakter Match — lokale Komponenten
+  const exactMatch = figma.root.findAll(
     (node) => node.type === "COMPONENT" && node.name === name
   );
+  if (exactMatch.length > 0) return exactMatch[0];
 
-  if (localComponents.length > 0) {
-    return localComponents[0];
-  }
+  // 2. Normalisierter Match — ignoriert Emojis (z.B. 🆕)
+  const normalizedMatch = figma.root.findAll(
+    (node) => node.type === "COMPONENT" && normalize(node.name) === normalizedName
+  );
+  if (normalizedMatch.length > 0) return normalizedMatch[0];
 
-  // 2. Über importierte Component-Sets suchen (Varianten)
-  const componentSets = figma.root.findAll(
+  // 3. Component-Sets — exakter Match
+  const exactSet = figma.root.findAll(
     (node) => node.type === "COMPONENT_SET" && node.name === name
   );
-
-  if (componentSets.length > 0) {
-    const firstSet = componentSets[0];
-    const children = firstSet.children.filter((c) => c.type === "COMPONENT");
-    if (children.length > 0) {
-      return children[0];
-    }
+  if (exactSet.length > 0) {
+    const children = exactSet[0].children.filter((c) => c.type === "COMPONENT");
+    if (children.length > 0) return children[0];
   }
 
-  // 3. Kein Match gefunden
+  // 4. Component-Sets — normalisierter Match
+  const normalizedSet = figma.root.findAll(
+    (node) => node.type === "COMPONENT_SET" && normalize(node.name) === normalizedName
+  );
+  if (normalizedSet.length > 0) {
+    const children = normalizedSet[0].children.filter((c) => c.type === "COMPONENT");
+    if (children.length > 0) return children[0];
+  }
+
+  // 5. Partial Match — Name enthält den Suchbegriff
+  const partialMatch = figma.root.findAll(
+    (node) => (node.type === "COMPONENT" || node.type === "COMPONENT_SET") && 
+              normalize(node.name).includes(normalizedName)
+  );
+  if (partialMatch.length > 0) {
+    const node = partialMatch[0];
+    if (node.type === "COMPONENT_SET") {
+      const children = node.children.filter((c) => c.type === "COMPONENT");
+      if (children.length > 0) return children[0];
+    }
+    return node;
+  }
+
   return null;
 }
 
@@ -96,6 +121,16 @@ async function buildScreen(spec) {
 
   // Hintergrundfarbe (Standard: Weiß)
   frame.fills = [{ type: "SOLID", color: { r: 1, g: 1, b: 1 } }];
+
+  // Fonts vorab laden
+  try {
+    await figma.loadFontAsync({ family: "Noto Sans Display", style: "Medium" });
+    await figma.loadFontAsync({ family: "Noto Sans Display", style: "Regular" });
+    await figma.loadFontAsync({ family: "Inter", style: "Regular" });
+    await figma.loadFontAsync({ family: "Inter", style: "Medium" });
+  } catch (e) {
+    // Font nicht verfügbar — kein Abbruch, nur Warnung
+  }
 
   // Komponenten einfügen
   for (const compSpec of spec.components) {
