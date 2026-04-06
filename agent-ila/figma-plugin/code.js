@@ -71,14 +71,10 @@ async function findComponentByName(name) {
   }
 
   // 6. INSTANCE suchen — für aus Libraries importierte Komponenten
-  // Wir suchen eine Instanz mit passendem Namen und klonen sie
   const instanceMatch = figma.root.findAll(
     (node) => node.type === "INSTANCE" && normalize(node.name) === normalizedName
   );
   if (instanceMatch.length > 0) {
-    // Instanz gefunden — als "Fake-Komponente" zurückgeben
-    // Der Aufrufer muss .clone() statt .createInstance() verwenden
-    instanceMatch[0]._isInstance = true;
     return instanceMatch[0];
   }
 
@@ -187,9 +183,9 @@ async function buildScreen(spec) {
         await figma.loadFontAsync({ family: "Inter", style: "SemiBold" });
       } catch (fontErr) { /* ignorieren */ }
 
-      // Instance oder Clone — je nachdem ob Komponente oder Instanz
+      // Clone für Instanzen, createInstance für Komponenten
       let instance;
-      if (component.type === "INSTANCE") {
+      if (component.type === "INSTANCE" || component.type === "FRAME" || component.type === "GROUP") {
         instance = component.clone();
       } else {
         instance = component.createInstance();
