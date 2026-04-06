@@ -143,14 +143,21 @@ async function buildScreen(spec) {
   // Hintergrundfarbe (Standard: Weiß)
   frame.fills = [{ type: "SOLID", color: { r: 1, g: 1, b: 1 } }];
 
-  // Fonts vorab laden
-  try {
-    await figma.loadFontAsync({ family: "Noto Sans Display", style: "Medium" });
-    await figma.loadFontAsync({ family: "Noto Sans Display", style: "Regular" });
-    await figma.loadFontAsync({ family: "Inter", style: "Regular" });
-    await figma.loadFontAsync({ family: "Inter", style: "Medium" });
-  } catch (e) {
-    // Font nicht verfügbar — kein Abbruch, nur Warnung
+  // Alle benötigten Fonts vorab laden
+  const fontsToLoad = [
+    { family: "Noto Sans Display", style: "Regular" },
+    { family: "Noto Sans Display", style: "Medium" },
+    { family: "Noto Sans Display", style: "SemiBold" },
+    { family: "Noto Sans Display", style: "Bold" },
+    { family: "Inter", style: "Regular" },
+    { family: "Inter", style: "Medium" },
+    { family: "Inter", style: "SemiBold" },
+    { family: "Inter", style: "Bold" },
+    { family: "Roboto", style: "Regular" },
+    { family: "Roboto", style: "Medium" },
+  ];
+  for (const font of fontsToLoad) {
+    try { await figma.loadFontAsync(font); } catch(e) {}
   }
 
   // Komponenten einfügen
