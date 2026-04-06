@@ -188,15 +188,9 @@ figma.ui.onmessage = async (msg) => {
   }
 
   if (msg.type === "build-screen" && msg.json) {
-    // Nur Komponenten-Seiten (🧩) + Zielseite laden — nicht alle 24 Seiten
-    let pageName = '';
-    try { pageName = JSON.parse(msg.json).page || ''; } catch(e) {}
-    const componentPages = figma.root.children.filter(
-      (p) => p.name.indexOf('\uD83E\uDDE9') !== -1 || p.name === pageName
-    );
-    for (const page of componentPages) {
-      await page.loadAsync();
-    }
+    // Alle Seiten laden (Figma-Pflicht bei documentAccess: dynamic-page)
+    figma.ui.postMessage({ type: "status", message: "Lade Seiten..." });
+    await figma.loadAllPagesAsync();
     let spec;
 
     try {
