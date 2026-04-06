@@ -190,6 +190,13 @@ async function buildScreen(spec) {
         await figma.loadFontAsync({ family: "Inter", style: "SemiBold" });
       } catch (fontErr) { /* ignorieren */ }
 
+      // Fonts laden bevor appendChild
+      const fontStyles = ["Thin", "ExtraLight", "Light", "Regular", "Medium", "SemiBold", "Bold", "ExtraBold", "Black"];
+      for (const style of fontStyles) {
+        try { await figma.loadFontAsync({ family: "Noto Sans Display", style }); } catch(e) {}
+        try { await figma.loadFontAsync({ family: "Inter", style }); } catch(e) {}
+      }
+
       // Clone für Instanzen, createInstance für Komponenten
       let instance;
       if (component.type === "INSTANCE" || component.type === "FRAME" || component.type === "GROUP") {
