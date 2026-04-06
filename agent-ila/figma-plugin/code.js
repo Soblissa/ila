@@ -188,8 +188,15 @@ figma.ui.onmessage = async (msg) => {
   }
 
   if (msg.type === "build-screen" && msg.json) {
-    // Alle Seiten laden bevor wir auf das Dokument zugreifen
-    await figma.loadAllPagesAsync();
+    // Nur Komponenten-Seiten (🧩) + Zielseite laden — nicht alle 24 Seiten
+    let pageName = '';
+    try { pageName = JSON.parse(msg.json).page || ''; } catch(e) {}
+    const componentPages = figma.root.children.filter(
+      (p) => p.name.indexOf('\uD83E\uDDE9') !== -1 || p.name === pageName
+    );
+    for (const page of componentPages) {
+      await page.loadAsync();
+    }
     let spec;
 
     try {
