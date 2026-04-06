@@ -245,14 +245,8 @@ figma.ui.onmessage = async (msg) => {
     const allHaveNodeId = spec.components && spec.components.every(c => c.nodeId);
     figma.ui.postMessage({ type: "status", message: allHaveNodeId ? "Starte..." : "Lade Seiten..." });
     
-    if (!allHaveNodeId) {
-      // Nur laden wenn Name-Suche nötig
-      await figma.loadAllPagesAsync();
-    } else {
-      // Nur Zielseite laden
-      const targetPage = figma.root.children.find(p => p.name === spec.page);
-      if (targetPage) await targetPage.loadAsync();
-    }
+    // Immer alle Seiten laden — figma.getNodeById braucht geladene Seiten
+    await figma.loadAllPagesAsync();
     let spec;
 
     try {
