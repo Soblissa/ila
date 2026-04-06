@@ -17,7 +17,13 @@ const FRAME_SIZES = {
  */
 async function findComponentByName(name) {
   // Normalisierung: Sonderzeichen und Emojis aus dem Namen entfernen für flexiblen Match
-  const normalize = (s) => s.replace(/[^\x00-\x7F]/g, '').replace(/\s+/g, ' ').trim();
+  const normalize = (s) => {
+    let result = '';
+    for (let i = 0; i < s.length; i++) {
+      if (s.charCodeAt(i) < 128) result += s[i];
+    }
+    return result.replace(/\s+/g, ' ').trim();
+  };
   const normalizedName = normalize(name);
 
   // 1. Exakter Match — lokale Komponenten
