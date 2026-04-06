@@ -147,6 +147,8 @@ figma.ui.onmessage = async (msg) => {
   }
 
   if (msg.type === "build-screen" && msg.json) {
+    // Alle Seiten laden bevor wir auf das Dokument zugreifen
+    await figma.loadAllPagesAsync();
     let spec;
 
     try {
