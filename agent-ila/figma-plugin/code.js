@@ -159,7 +159,15 @@ async function buildScreen(spec) {
 
   // Komponenten einfügen
   for (const compSpec of spec.components) {
-    const component = await findComponentByName(compSpec.name);
+    // Node-ID direkt verwenden wenn angegeben — schneller als Suche
+    let component = null;
+    if (compSpec.nodeId) {
+      try {
+        const node = figma.getNodeById(compSpec.nodeId);
+        if (node) component = node;
+      } catch(e) {}
+    }
+    if (!component) component = await findComponentByName(compSpec.name);
 
     if (!component) {
       errors.push(
