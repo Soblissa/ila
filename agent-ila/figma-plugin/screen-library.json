@@ -1,0 +1,27 @@
+{
+  "screens": {
+    "iFoe-L/Foerderplan/Initial": {
+      "frameId": "5:43555",
+      "width": 1280,
+      "height": 1018,
+      "components": {
+        "Navigation Bar Main": {
+          "nodeId": "5:43556",
+          "originalName": "Navigation Bar Main 🆕",
+          "x": 0,
+          "y": 0,
+          "width": 64,
+          "height": 1018
+        },
+        "Navigation Bar Content": {
+          "nodeId": "5:43558",
+          "originalName": "Navigation Bar Content",
+          "x": 64,
+          "y": 0,
+          "width": 1216,
+          "height": 64
+        }
+      }
+    }
+  }
+}

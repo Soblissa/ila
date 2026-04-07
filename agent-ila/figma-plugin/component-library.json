@@ -1,0 +1,72 @@
+{
+  "Navigation Bar Main": {
+    "nodeId": "5:43556",
+    "originalName": "Navigation Bar Main 🆕",
+    "width": 64,
+    "height": 1018,
+    "foundIn": "iFoe-L/Foerderplan/Initial"
+  },
+  "Navigation Bar Content": {
+    "nodeId": "5:43558",
+    "originalName": "Navigation Bar Content",
+    "width": 1216,
+    "height": 64,
+    "foundIn": "iFoe-L/Foerderplan/Initial"
+  },
+  "Header Page Support": {
+    "nodeId": "1:4192",
+    "originalName": "Header Page Support",
+    "width": 1104,
+    "height": 136,
+    "foundIn": "iFoe-L/Foerderakte"
+  },
+  "Title": {
+    "nodeId": "155:17016",
+    "originalName": "Title",
+    "width": 954,
+    "height": 40,
+    "foundIn": "ila-L/Foerderungen"
+  },
+  "Button Floating": {
+    "nodeId": "155:17029",
+    "originalName": "Button Floating",
+    "width": 234,
+    "height": 56,
+    "foundIn": "ila-L/Foerderungen"
+  },
+  "Icon": {
+    "nodeId": "I155:17029;4096:948",
+    "originalName": "Icon",
+    "width": 24,
+    "height": 24,
+    "foundIn": "ila-L/Foerderungen"
+  },
+  "_Top-Level Navigation Item": {
+    "nodeId": "I4:58300;7902:11879",
+    "originalName": "_Top-Level Navigation Item",
+    "width": 48,
+    "height": 48,
+    "foundIn": "iFoe-L/Foerderziel-in-Planung"
+  },
+  "FAQ": {
+    "nodeId": "I4:58300;7902:11881",
+    "originalName": "FAQ",
+    "width": 48,
+    "height": 48,
+    "foundIn": "iFoe-L/Foerderziel-in-Planung"
+  },
+  "Favorites": {
+    "nodeId": "I4:58300;7902:11883",
+    "originalName": "Favorites",
+    "width": 48,
+    "height": 48,
+    "foundIn": "iFoe-L/Foerderziel-in-Planung"
+  },
+  "Open/Close": {
+    "nodeId": "I4:58300;7903:12117",
+    "originalName": "Open/Close",
+    "width": 48,
+    "height": 48,
+    "foundIn": "iFoe-L/Foerderziel-in-Planung"
+  }
+}
