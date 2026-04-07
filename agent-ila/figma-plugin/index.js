@@ -128,9 +128,19 @@ async function buildScreen(spec) {
     }
 
     try {
-      // Alle Fonts vorab laden
-      const fontFamilies = ["Noto Sans Display", "Noto Sans Display Condensed", "Inter", "Roboto", "Arial"];
-      const fontStyles = ["Thin", "ExtraLight", "Light", "Regular", "Medium", "SemiBold", "Bold", "ExtraBold", "Black"];
+      // Alle möglichen Fonts laden
+      const fontFamilies = [
+        "Noto Sans Display", "Noto Sans Display Condensed", 
+        "Noto Sans", "Inter", "Roboto", "Arial", "Helvetica",
+        "SF Pro Display", "SF Pro Text"
+      ];
+      const fontStyles = [
+        "Thin", "Thin Italic", "ExtraLight", "ExtraLight Italic",
+        "Light", "Light Italic", "Regular", "Italic",
+        "Medium", "Medium Italic", "SemiBold", "SemiBold Italic",
+        "Bold", "Bold Italic", "ExtraBold", "ExtraBold Italic",
+        "Black", "Black Italic"
+      ];
       for (const family of fontFamilies) {
         for (const style of fontStyles) {
           try { await figma.loadFontAsync({ family, style }); } catch(e) {}
