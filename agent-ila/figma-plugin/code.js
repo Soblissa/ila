@@ -89,6 +89,20 @@ async function buildScreen(spec) {
     height = FRAME_SIZES[sizeKey].height;
   }
 
+  // Alle Fonts zuerst laden — vor allem anderen
+  figma.ui.postMessage({ type: "status", message: "Lade Fonts..." });
+  const allFonts = [
+    ["Noto Sans Display", ["Thin","ExtraLight","Light","Regular","Medium","SemiBold","Bold","ExtraBold","Black"]],
+    ["Noto Sans", ["Thin","ExtraLight","Light","Regular","Medium","SemiBold","Bold","ExtraBold","Black"]],
+    ["Inter", ["Thin","ExtraLight","Light","Regular","Medium","SemiBold","Bold","ExtraBold","Black"]],
+    ["Roboto", ["Thin","Light","Regular","Medium","Bold","Black"]],
+  ];
+  for (const [family, styles] of allFonts) {
+    for (const style of styles) {
+      try { await figma.loadFontAsync({ family, style }); } catch(e) {}
+    }
+  }
+
   // Zielseite laden
   figma.ui.postMessage({ type: "status", message: "Bereite Seite vor..." });
   const targetPage = figma.root.children.find(p => p.name === spec.page);
