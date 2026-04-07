@@ -32,21 +32,21 @@ async function findComponentByName(name) {
   // 1. Exakter Match im Index
   if (index[name]) {
     const entry = index[name];
-    const node = figma.getNodeById(entry.nodeId);
+    const node = await figma.getNodeByIdAsync(entry.nodeId);
     if (node) return node;
   }
   
   // 2. Normalisierter Match im Index
   if (index[norm]) {
     const entry = index[norm];
-    const node = figma.getNodeById(entry.nodeId);
+    const node = await figma.getNodeByIdAsync(entry.nodeId);
     if (node) return node;
   }
   
   // 3. Partial Match im Index
   for (const [key, entry] of Object.entries(index)) {
     if (normalize(key).includes(norm) || norm.includes(normalize(key))) {
-      const node = figma.getNodeById(entry.nodeId);
+      const node = await figma.getNodeByIdAsync(entry.nodeId);
       if (node) return node;
     }
   }
@@ -116,7 +116,7 @@ async function buildScreen(spec) {
     let component = null;
     if (compSpec.nodeId) {
       try {
-        const node = figma.getNodeById(compSpec.nodeId);
+        const node = await figma.getNodeByIdAsync(compSpec.nodeId);
         if (node) component = node;
       } catch(e) {}
     }
