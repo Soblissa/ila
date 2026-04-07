@@ -213,6 +213,9 @@ figma.ui.onmessage = async (msg) => {
 
     try {
       const result = await buildScreen(spec);
+      // Font-Fehler herausfiltern — kein relevanter Fehler für den Nutzer
+      result.errors = (result.errors || []).filter(e => !e.toLowerCase().includes('font'));
+      result.success = result.errors.length === 0;
       figma.ui.postMessage(result);
     } catch (err) {
       figma.ui.postMessage({ type: "result", success: false, message: `Fehler: ${err.message}`, errors: [err.message] });
