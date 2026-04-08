@@ -76,6 +76,32 @@
 
 ---
 
+## 4b. Icons
+
+- **Standard: Google Material Icons** — kostenlos, lizenzfrei, skalierbar
+- Farbig: Weiß auf Blau/Rot, Blau auf Weiß
+- Direkt für Web-Apps geeignet
+
+---
+
+## 4c. Layoutsystem
+
+- Basiert auf dem **5:8-Streifen-Raster** (abgeleitet aus den Streifen des Löwen)
+- Zwangfrei — Orientierung, nicht Einschränkung
+- Fokus auf **ein Element je Layout**
+- Bold, klar, auf den Punkt
+
+---
+
+## 4d. Website-Vorgaben
+
+- Hessenmarke digital präsent, min. 100 px
+- Alle Markenelemente stimmig auf allen Screens
+- Dark-Theme möglich (Blau/Weiß)
+- Klare Navigation, alphabetische Listen, Icon-Kacheln
+
+---
+
 ## 5. Auswirkungen auf ILA
 
 ### Was muss geändert werden (wenn Erlass gilt)
