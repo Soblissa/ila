@@ -352,10 +352,57 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 6. Förderpläne
 
-- **180 Förderpläne** erstellt
-- **89 von 133 Nutzern (67%)** haben mind. 1 Förderplan erstellt
-- **44 Nutzer** haben **keinen Förderplan** fertiggestellt
-- Ø 2,0 Förderpläne pro aktivem Nutzer
+- **181 Förderpläne** insgesamt erstellt
+- **134 Nutzer** haben mind. 1 Förderplan — das sind alle Nutzer mit Daten (kein einziger Nutzer mit Förderung hat keinen Plan)
+- Ø **1,9 Förderpläne pro Nutzer** | Max: 13 (ein Vielnutzer)
+
+**Verteilung Förderpläne pro Nutzer:**
+
+| Anzahl FP | Nutzer |
+|---|---|
+| 1 FP | 82 |
+| 2 FP | 27 |
+| 3 FP | 11 |
+| 4 FP | 2 |
+| 5 FP | 4 |
+| 6 FP | 3 |
+| 7 FP | 1 |
+| 8 FP | 2 |
+| 9 FP | 1 |
+| 13 FP | 1 |
+
+**Erstellungszeitpunkt — Wann wurde der FP nach der Förderung angelegt?**
+
+- **145 von 176 messbaren FP (82%) wurden in der gleichen Sitzung erstellt** (< 1 Stunde nach der Förderungsanlage)
+- **151 FP (86%) innerhalb eines Tages**
+- Nur 15 FP wurden erst mehr als 7 Tage später erstellt
+- Median: 0 Tage — der Förderplan entsteht typischerweise direkt im Anschluss, nicht als separate Aufgabe
+
+**Befund:** Lehrkräfte legen Förderung und Förderplan in einer Sitzung an. Das spricht für eine gute Workflow-Integration — aber auch dafür, dass der Plan möglicherweise eher formal erstellt wird als inhaltlich durchdacht.
+
+**Nachträgliche Änderungen:**
+
+- **42 von 181 FP (23%) wurden nach Erstellung noch geändert**
+- 139 FP (77%) wurden nie wieder angetastet
+
+**Befund:** Drei Viertel der Pläne werden nach dem ersten Speichern nie mehr geöffnet — in Kombination mit der Feedback-Kritik (keine Bearbeitungsmöglichkeit) ist das ein Widerspruch: Entweder funktioniert das Bearbeiten doch bei manchen, oder diese 23% haben einen Workaround gefunden.
+
+**Füllung der Felder:**
+
+- **Stärken-Feld:** 155 von 181 FP ausgefüllt (**86%**) — sehr gut genutzt
+- **FP-eigene Maßnahme:** 126 von 181 FP (**70%**) — aktiv genutzt
+
+**Förderpläne nach Jahrgang:**
+
+| Jahrgang | FP | Anteil |
+|---|---|---|
+| Jahrgang 1 | 58 | 32% |
+| Jahrgang 4 | 40 | 22% |
+| Jahrgang 3 | 36 | 20% |
+| Jahrgang 2 | 35 | 19% |
+| Vorklasse (Jg. 0) | 4 | 2% |
+
+**Befund:** Die Vorklasse hat 4.526 Einträge im Nutzungsverhalten — aber nur 4 Förderpläne (2%). Das ist der größte Bruch im Datensatz: Vorklasse-Lehrkräfte arbeiten viel in der App, erstellen aber kaum Förderpläne. Mögliche Erklärung: Die App bildet die Förderarbeit in der Vorklasse fachlich nicht ausreichend ab, sodass kein Plan erstellt werden kann oder will.
 
 ### 7. Anlässe
 
