@@ -100,14 +100,14 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **93% aus Katalog**, 7% selbst geschrieben (974 eigene Maßnahmen)
 - **1.044 eindeutige Maßnahmentexte** insgesamt
 - **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** — Abbruch mitten im Prozess
-- **1 Nutzer** hat Maßnahmen deaktiviert
+- Deaktivierungen: keine nachweisbar
 
 #### Maßnahmentypen
 
 | Typ | Einträge | Anteil |
 |---|---|---|
-| Katalog | 13.971 | 97% |
-| Eigene | 974 | 3% |
+| Katalog | 13.970 | 93% |
+| Eigene | 974 | 7% |
 
 #### Notizen zu Maßnahmen
 
@@ -398,7 +398,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **179 eindeutige Förderpläne** erstellt
 - **88 Nutzer (66%)** haben mind. 1 Förderplan erstellt
 - **45 Nutzer (34%)** haben **keinen Förderplan** erstellt
-- Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 13
+- Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 12
 
 *Methodischer Hinweis: Die FP-ID-Spalte ist in jeder Maßnahmen-Zeile befüllt und eignet sich daher nicht zur Zählung. Maßgeblich ist die Spalte "FP erstellt durch" — nur dort ist der tatsächliche FP-Ersteller eingetragen.*
 
@@ -406,16 +406,15 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 | Anzahl FP | Nutzer |
 |---|---|
-| 1 FP | 82 |
-| 2 FP | 27 |
-| 3 FP | 11 |
-| 4 FP | 2 |
+| 1 FP | 55 |
+| 2 FP | 17 |
+| 3 FP | 3 |
+| 4 FP | 3 |
 | 5 FP | 4 |
-| 6 FP | 3 |
-| 7 FP | 1 |
+| 6 FP | 2 |
 | 8 FP | 2 |
 | 9 FP | 1 |
-| 13 FP | 1 |
+| 12 FP | 1 |
 
 **Erstellungszeitpunkt — Wann wurde der FP nach der Förderung angelegt?**
 
