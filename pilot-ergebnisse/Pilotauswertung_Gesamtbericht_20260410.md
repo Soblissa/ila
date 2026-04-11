@@ -395,18 +395,19 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 6. Förderpläne
 
-- **179 eindeutige Förderpläne** erstellt
-- **88 Nutzer (66%)** haben mind. 1 Förderplan erstellt
-- **45 Nutzer (34%)** haben **keinen Förderplan** erstellt
-- Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 12
+*3 FPs mit Datenfehler (FP-Datum liegt vor Förderungs-Datum) werden in allen Zahlen ausgeschlossen. Basis: 176 valide FPs.*
 
+- **176 valide Förderpläne**
+- **87 Nutzer (65%)** haben mind. 1 Förderplan erstellt
+- **46 Nutzer (35%)** haben **keinen Förderplan** erstellt
+- Ø **2,0 Förderpläne pro Nutzer** | Max: 12
 
 **Verteilung Förderpläne pro Nutzer:**
 
 | Anzahl FP | Nutzer |
 |---|---|
-| 1 FP | 55 |
-| 2 FP | 17 |
+| 1 FP | 56 |
+| 2 FP | 15 |
 | 3 FP | 3 |
 | 4 FP | 3 |
 | 5 FP | 4 |
@@ -417,9 +418,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 **Erstellungszeitpunkt — Wann wurde der FP nach der Förderung angelegt?**
 
-Von 179 FPs haben 3 einen negativen Zeitabstand (FP-Datum liegt vor dem Förderungs-Datum) — vermutlich Datenfehler in der Quelldatei. Diese 3 werden aus der Zeitberechnung ausgeschlossen; die folgenden Werte basieren auf den verbleibenden 176 FPs:
-
-- **145 von 176 FPs (82%) wurden in der gleichen Sitzung erstellt** (< 1 Stunde nach der Förderungsanlage)
+- **145 von 176 FPs (82%) in der gleichen Sitzung** (< 1 Stunde nach der Förderungsanlage)
 - **151 von 176 FPs (86%) innerhalb eines Tages**
 - 10 FPs nach 1–7 Tagen, 15 FPs erst nach mehr als 7 Tagen
 - Median: 0 Tage — der Förderplan entsteht typischerweise direkt im Anschluss
@@ -428,27 +427,27 @@ Von 179 FPs haben 3 einen negativen Zeitabstand (FP-Datum liegt vor dem Förderu
 
 **Nachträgliche Änderungen:**
 
-- **42 von 179 FP (23%) wurden nach Erstellung noch geändert**
-- 137 FP (77%) wurden nie wieder angetastet
+- **41 von 176 FPs (23%) nach Erstellung noch geändert**
+- **135 FPs (77%) nie wieder geöffnet**
 
 **Befund:** Drei Viertel der Pläne werden nach dem ersten Speichern nie mehr geöffnet — in Kombination mit der Feedback-Kritik (keine Bearbeitungsmöglichkeit) ist das ein Widerspruch: Entweder funktioniert das Bearbeiten doch bei manchen, oder diese 23% haben einen Workaround gefunden.
 
 **Füllung der Felder:**
 
-- **Stärken-Feld:** 155 von 181 FP ausgefüllt (**86%**) — sehr gut genutzt. Zusätzlich haben 76 Nutzer insgesamt 12.890 Zeilen mit Stärken-Text produziert — das Feld wird aktiv und ausführlich befüllt.
-- **FP-eigene Maßnahme:** 126 von 181 FP (**70%**) — aktiv genutzt
+- **Stärken-Feld:** 151 von 176 FPs ausgefüllt (**86%**) — sehr aktiv genutzt
+- **FP-eigene Maßnahme:** 123 von 176 FPs (**70%**) — aktiv genutzt
 
 **Förderpläne nach Jahrgang:**
 
 | Jahrgang | FP | Anteil |
 |---|---|---|
-| Jahrgang 1 | 58 | 32% |
-| Jahrgang 4 | 40 | 22% |
-| Jahrgang 3 | 36 | 20% |
-| Jahrgang 2 | 35 | 19% |
-| Vorklasse (Jg. 0) | 4 | 2% |
+| Jahrgang 1 | 56 | 31,8% |
+| Jahrgang 4 | 40 | 22,7% |
+| Jahrgang 2 | 35 | 19,9% |
+| Jahrgang 3 | 35 | 19,9% |
+| Vorklasse (Jg. 0) | 4 | 2,3% |
 
-**Befund:** Die Vorklasse hat 4.526 Einträge im Nutzungsverhalten — aber nur 4 Förderpläne (2%). Das ist der größte Bruch im Datensatz: Vorklasse-Lehrkräfte arbeiten viel in der App, erstellen aber kaum Förderpläne. Mögliche Erklärung: Die App bildet die Förderarbeit in der Vorklasse fachlich nicht ausreichend ab, sodass kein Plan erstellt werden kann oder will.
+**Befund:** Die Vorklasse hat 4.526 Einträge im Nutzungsverhalten — aber nur 4 Förderpläne (2,3%). Das ist der größte Bruch im Datensatz: Vorklasse-Lehrkräfte arbeiten viel in der App, erstellen aber kaum Förderpläne. Mögliche Erklärung: Die App bildet die Förderarbeit in der Vorklasse fachlich nicht ausreichend ab.
 
 ### 7. Anlässe
 
