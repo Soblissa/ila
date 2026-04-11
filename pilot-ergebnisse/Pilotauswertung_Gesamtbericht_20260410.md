@@ -417,10 +417,12 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 **Erstellungszeitpunkt — Wann wurde der FP nach der Förderung angelegt?**
 
-- **145 von 176 messbaren FP (82%) wurden in der gleichen Sitzung erstellt** (< 1 Stunde nach der Förderungsanlage)
-- **151 FP (86%) innerhalb eines Tages**
-- Nur 15 FP wurden erst mehr als 7 Tage später erstellt
-- Median: 0 Tage — der Förderplan entsteht typischerweise direkt im Anschluss, nicht als separate Aufgabe
+Von 179 FPs haben 3 einen negativen Zeitabstand (FP-Datum liegt vor dem Förderungs-Datum) — vermutlich Datenfehler in der Quelldatei. Diese 3 werden aus der Zeitberechnung ausgeschlossen; die folgenden Werte basieren auf den verbleibenden 176 FPs:
+
+- **145 von 176 FPs (82%) wurden in der gleichen Sitzung erstellt** (< 1 Stunde nach der Förderungsanlage)
+- **151 von 176 FPs (86%) innerhalb eines Tages**
+- 10 FPs nach 1–7 Tagen, 15 FPs erst nach mehr als 7 Tagen
+- Median: 0 Tage — der Förderplan entsteht typischerweise direkt im Anschluss
 
 **Befund:** Lehrkräfte legen Förderung und Förderplan in einer Sitzung an. Das spricht für eine gute Workflow-Integration — aber auch dafür, dass der Plan möglicherweise eher formal erstellt wird als inhaltlich durchdacht.
 
