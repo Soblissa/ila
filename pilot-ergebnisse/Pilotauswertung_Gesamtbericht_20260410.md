@@ -58,12 +58,12 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 2. Förderungen
 
-- **335 Förderungen** insgesamt angelegt
+- **334 Förderungen** insgesamt angelegt
 - Ø **2,5 Förderungen pro Nutzer**
 - Verteilung: 65 Nutzer mit 1 Förderung, wenige Vielnutzer bis 14 Förderungen
 - **9 Nutzer** haben eine Förderung angelegt, aber **keine Maßnahme ausgewählt** (Abbruch)
 - **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** (Abbruch mitten im Prozess)
-- **1 Nutzer** hat Maßnahmen deaktiviert
+- Deaktivierungen: keine nachweisbar
 
 ### 3. Förderbereiche
 
@@ -96,8 +96,8 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 #### Überblick
 
-- **14.945 Zeilen** mit Maßnahmen-Einträgen
-- **97% aus Katalog**, 3% selbst geschrieben (974 eigene Maßnahmen)
+- **14.944 Zeilen** mit Maßnahmen-Einträgen
+- **93% aus Katalog**, 7% selbst geschrieben (974 eigene Maßnahmen)
 - **1.044 eindeutige Maßnahmentexte** insgesamt
 - **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** — Abbruch mitten im Prozess
 - **1 Nutzer** hat Maßnahmen deaktiviert
@@ -396,8 +396,8 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 ### 6. Förderpläne
 
 - **179 eindeutige Förderpläne** erstellt
-- **89 Nutzer (67%)** haben mind. 1 Förderplan erstellt
-- **44 Nutzer (33%)** haben **keinen Förderplan** erstellt
+- **88 Nutzer (66%)** haben mind. 1 Förderplan erstellt
+- **45 Nutzer (34%)** haben **keinen Förderplan** erstellt
 - Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 13
 
 *Methodischer Hinweis: Die FP-ID-Spalte ist in jeder Maßnahmen-Zeile befüllt und eignet sich daher nicht zur Zählung. Maßgeblich ist die Spalte "FP erstellt durch" — nur dort ist der tatsächliche FP-Ersteller eingetragen.*
