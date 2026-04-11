@@ -1,31 +1,36 @@
 # Pilotauswertung ILA — Gesamtbericht
-*Erstellt: 2026-04-10 | Analysiert von: Cheko (ILA-Hauptagent)*
-*Datenbasis: Pilotauswertungen_Arbeitsdatei_Analysedatei_Chefkoch.xlsm*
+*Erstellt: 2026-04-10 | Zuletzt aktualisiert: 2026-04-11 | Analysiert von: Cheko (ILA-Hauptagent)*
 *Pilotlaufzeit: 30.01.2026 – 31.03.2026 (60 Tage)*
 
 ---
 
 ## Datenbasis
 
-Die Datei enthält zwei inhaltlich relevante Datenblätter:
+Drei Erkenntnisquellen:
 
-- **Sheet 1: Nutzerverhalten Report** — Systemdaten aus diSAF: Förderungen, Maßnahmen, Förderpläne, Ziele, Zeitstempel (15.342 Datenzeilen)
-- **Sheet 2: Feedback Report** — In-App-Bewertungen und Freitexte der Nutzerinnen (32 Einträge, davon 31 mit Freitext)
+| Quelle | Datei | Inhalt |
+|---|---|---|
+| **Nutzerverhalten** | `Pilotauswertungen_Arbeitsdatei_Analysedatei_Chefkoch.xlsm` | Systemdaten aus diSAF: Förderungen, Maßnahmen, Förderpläne, Zeitstempel (15.342 Zeilen) |
+| **Feedback** | Sheet 2 derselben Datei | In-App-Bewertungen und Freitexte (32 Einträge) |
+| **Fragebogen** | `2026-04-10-Rohdaten von Umfrage Pilot_AS1 (alle beendeten).csv` | Abschlussumfrage (19 Teilnehmende) |
 
-*Hinweis: Sheet 3 (Freitextrückmeldungen) ist ein Auszug aus Sheet 2 und kein eigenständiger Datensatz.*
+*Hinweis: Sheet 3 ist ein Auszug aus dem Feedback-Sheet und kein eigenständiger Datensatz.*
 
 ---
 
-## WAS WIR WISSEN
+## Kapitel 1: Nutzerverhalten
 
-### 1. Nutzung
+### Was wir wissen
 
-- **133 eindeutige Nutzer** (anonymisiert)
+#### 1.1 Nutzung & Reichweite
+
+- **133 eindeutige Nutzer** (anonymisiert, Formelartefakte bereinigt)
+- Pilotlaufzeit: **60 Tage** (30.01.–31.03.2026)
 - Stärkster Wochentag: **Montag** (mehr als doppelt so viele Ereignisse wie Di–Fr)
-- Nutzungspeak in **KW 11/2026** (~20.000 Ereignisse) — vermutlich durch externe Abgabepflicht oder Schulveranstaltung ausgelöst
-- 9 Tage ohne jede Aktivität im Pilotfenster (überwiegend Wochenenden und Ferientage)
+- Nutzungspeak: **KW 11/2026** (~20.000 Ereignisse) — externer Auslöser wahrscheinlich
+- 9 Tage ohne jede Aktivität (überwiegend Wochenenden und Ferientage)
 
-#### Rückkehrverhalten
+#### 1.2 Rückkehrverhalten
 
 | Aktivitätstage | Nutzer | Anteil |
 |---|---|---|
@@ -39,9 +44,9 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 **57 von 133 Nutzern (42,9%) sind nach ihrer ersten Sitzung zurückgekommen.** 76 Nutzer (57,1%) haben die App nur an einem einzigen Tag genutzt.
 
-#### Sitzungsdauer pro Aktivitätstag
+#### 1.3 Sitzungsdauer pro Aktivitätstag
 
-*Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag — 230 Nutzer-Tage insgesamt.*
+*Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag — 230 Nutzer-Tage gesamt.*
 
 | Dauer | Sitzungen | Anteil |
 |---|---|---|
@@ -52,20 +57,20 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | 1–2 Stunden | 14 | 6,1% |
 | > 2 Stunden | 10 | 4,3% |
 
-- **Median: 7 Minuten** pro Sitzungstag | Ø 25 Minuten (durch wenige intensive Nutzer nach oben verzerrt)
-- **57% aller Sitzungen dauerten unter 10 Minuten** — kurzes Reinschauen dominiert
+- **Median: 7 Minuten** | Ø 25 Minuten (durch wenige intensive Nutzer verzerrt)
+- **57% aller Sitzungen unter 10 Minuten** — kurzes Reinschauen dominiert
 - Nur 24 Sitzungen (10,4%) über eine Stunde
 
-### 2. Förderungen
+#### 1.4 Förderungen
 
-- **334 Förderungen** insgesamt angelegt
-- Ø **2,5 Förderungen pro Nutzer**
-- Verteilung: 65 Nutzer mit 1 Förderung, wenige Vielnutzer bis 14 Förderungen
+- **334 Förderungen** angelegt
+- Ø **2,5 Förderungen pro Nutzer** | Max: 14
+- 65 Nutzer mit nur 1 Förderung
 - **9 Nutzer** haben eine Förderung angelegt, aber **keine Maßnahme ausgewählt** (Abbruch)
-- **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** (Abbruch mitten im Prozess)
+- **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert**
 - Deaktivierungen: keine nachweisbar
 
-### 3. Förderbereiche
+#### 1.5 Förderbereiche
 
 | Förderbereich | Einträge | Anteil |
 |---|---|---|
@@ -78,47 +83,42 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | Sprache | 32 | <1% |
 | Wahrnehmung | 10 | <1% |
 
-### 4. Jahrgangsstufen
+#### 1.6 Jahrgangsstufen
 
 | Jahrgang | Einträge | Eindeutige Nutzer | Anteil aller Nutzer |
 |---|---|---|---|
-| Vorklasse (Jg. 0) | 4.526 — **meistgenutzter Jahrgang** | 17 | 12,7% |
+| Vorklasse (Jg. 0) | **4.526** — meistgenutzter Jahrgang | 17 | 12,7% |
 | Jahrgang 1 | 3.934 | 51 | 38,1% |
 | Jahrgang 2 | 2.191 | 44 | 32,8% |
 | Jahrgang 3 | 2.030 | 36 | 26,9% |
 | Jahrgang 4 | 2.600 | 29 | 21,6% |
 
-*Hinweis: Ein Nutzer kann mehrere Jahrgänge bedient haben, daher addieren sich die Prozentwerte auf mehr als 100%.*
+*Ein Nutzer kann mehrere Jahrgänge bedient haben — Prozentwerte addieren sich auf mehr als 100%.*
 
-**Befund:** Nur 17 Nutzer (12,7%) haben die Vorklasse bedient — aber sie haben 4.526 Einträge produziert, mehr als jeder andere Jahrgang. Vorklasse-Lehrkräfte sind überproportional aktiv gewesen und wurden gleichzeitig am schlechtesten vom Katalogangebot unterstützt. Jahrgang 1 ist mit 51 Nutzern (38,1%) der am breitesten genutzte Jahrgang.
+**Befund:** Nur 17 Nutzer (12,7%) haben die Vorklasse bedient — aber sie haben 4.526 Einträge produziert, mehr als jeder andere Jahrgang. Überproportional aktiv, und gleichzeitig am schlechtesten unterstützt.
 
-### 5. Maßnahmen
+#### 1.7 Maßnahmen
 
-#### Überblick
+**Überblick:**
 
 - **14.944 Zeilen** mit Maßnahmen-Einträgen
 - **93% aus Katalog**, 7% selbst geschrieben (974 eigene Maßnahmen)
-- **1.044 eindeutige Maßnahmentexte** insgesamt
-- **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** — Abbruch mitten im Prozess
-- Deaktivierungen: keine nachweisbar
-
-#### Maßnahmentypen
 
 | Typ | Einträge | Anteil |
 |---|---|---|
 | Katalog | 13.970 | 93% |
 | Eigene | 974 | 7% |
 
-#### Notizen zu Maßnahmen
+**Notizen zu Maßnahmen:**
 
-- **79 Zeilen** mit Notiztext, aber nur **18 eindeutige Texte** von **14 Nutzern**
-- Die hohe Zahl entsteht durch Wiederholungen: dieselbe Notiz erscheint auf mehreren Maßnahmen-Zeilen derselben Förderung
+- 79 Zeilen mit Notiztext, 18 eindeutige Texte von 14 Nutzern
+- Die hohe Zeilenzahl entsteht durch Wiederholung derselben Notiz auf mehreren Maßnahmen-Zeilen
 
 | Bereich | Jg. | Notiztext |
 |---|---|---|
 | Rechnen | 2 | "BFZ Anja" |
-| Rechnen | 3 | "Eine Abbildung, eine Darstellung der Gegebenheit hilft Havin sich in die Aufgabe hineinzudenken." |
-| Rechnen | 3 | "Tagesform wichtig — in frühen Stunden Ergebnisse besser als wenn in späteren Stunden durchgeführt." |
+| Rechnen | 3 | "Eine Abbildung hilft Havin sich in die Aufgabe hineinzudenken." |
+| Rechnen | 3 | "Tagesform wichtig — in frühen Stunden Ergebnisse besser." |
 | Lesen | 1 | "erledigt" |
 | Rechtschreiben | 1 | "Bekannte, lautgetreue Wörter werden geübt (Zebraheft, Wörter der Woche)" |
 | Rechnen | 1 | "Übungen dazu auch zu Hause" |
@@ -128,30 +128,25 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | Lesen | 3 | "Lesen mit der Lesepatin immer mittwochs" |
 | Rechtschreiben | 1 | "Nick nutzt zum Schreiben von Wörtern die Anlauttabelle." |
 | Rechnen | 1 | "schafft er mit Abzählen, Plusaufgaben leichter als Minusaufgaben" |
-| Rechnen | 1 | "Rechengeschichten ausdenken fällt ihm noch schwer, kann sich Zahlen nicht behalten" |
+| Rechnen | 1 | "Rechengeschichten ausdenken fällt ihm noch schwer" |
 | Selbstständigkeit | 0 | "Ablaufplan auf dem Tisch." |
 | Rechnen | 4 | "Multiplikationsaufgaben (1ner, 2er, 10er Reihe) gelingen ihr." |
 | Rechnen | 4 | "a" |
 | Rechnen | 2 | "diese Maßnahme möchte gelöscht werden, funktioniert aber nicht" |
 
-**Interpretation der Notizen:**
-- **Echte Beobachtungsnotizen** (Tagesform-Einfluss, Rechenschwierigkeiten): genau wofür das Feld gedacht ist — individuelle Beobachtungen die nicht in vordefinierte Felder passen
-- **Organisations-Notizen** ("Lesepatin mittwochs", "BFZ Anja"): Lehrkräfte wollen externe Kooperationspartner festhalten — das Unterstützer-Feld reicht dafür nicht
-- **"erledigt"**: Notizfeld als Statusmarkierung genutzt — Hinweis auf fehlendes Status-/Erledigungsfeld
-- **Hilferuf**: "diese Maßnahme möchte gelöscht werden, funktioniert aber nicht" — kein anderer Meldeweg verfügbar
-- **Testdaten/Versehen**: "a" und Formelreste aus der Tabellenkalkulation
+**Interpretation:** Echte Beobachtungsnotizen (Tagesform, Lernstand) stehen neben Organisations-Notizen (Lesepatin, BFZ), Statusmarkierungen ("erledigt") und einem Hilferuf im Notizfeld. Die Notizen zeigen Bedarfe, die die App noch nicht strukturiert abbildet.
 
-#### Eigene Maßnahmen im Detail
+**Eigene Maßnahmen:**
 
-- 974 Einträge mit Typ "Eigene"
-- **235 eindeutige Texte** davon
-- **140 mehrfach verwendet** — von verschiedenen Lehrkräften unabhängig ähnlich formuliert, quasi standardisiert
-- **95 einmalig verwendet** — wirklich individuelle, schülerspezifische Maßnahmen
-- Häufigster Eigentext: *"Förderheft/Fördermaterial"* (36x) — sehr allgemein, vermutlich eine Ausweichantwort wenn der Katalog nichts Passendes bot
-- Die konkreteren eigenen Maßnahmen sind methodisch präzise und schülerbezogen (z.B. *"übt täglich 10 Minuten Silbenteppiche"*, *"arbeitet mit Meister Cody Talasia"*, *"nutzt Anschauungsmaterial für Rechenoperationen"*)
-**Befund:** Die eigenen Maßnahmen sind ein Goldschatz für die Katalog-Weiterentwicklung. Dass 140 von 235 Texten mehrfach auftauchen, zeigt: Es gibt einen geteilten Bedarf, der im Katalog noch nicht abgedeckt ist.
+- 974 Einträge, **235 eindeutige Texte**
+- **140 mehrfach verwendet** (von verschiedenen Lehrkräften unabhängig ähnlich formuliert)
+- **95 einmalig verwendet** (individuell, schülerspezifisch)
+- Häufigster Text: *"Förderheft/Fördermaterial"* (36x) — Verlegenheitsantwort wenn Katalog nichts Passendes bietet
+- Vollständige Liste: `pilot-ergebnisse/Eigene_Massnahmen_235_eindeutig.md`
 
-#### Vollständige Liste der 235 eindeutigen eigenen Maßnahmen
+**Befund:** 140 von 235 Texten tauchen mehrfach auf — geteilter Bedarf, der im Katalog nicht abgedeckt ist. Goldschatz für Katalog-Weiterentwicklung.
+
+**Vollständige Liste der 235 eindeutigen eigenen Maßnahmen:**
 
 **Mehrfach verwendete Maßnahmen (140)** — sortiert nach Häufigkeit:
 
@@ -195,7 +190,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **[7x]** Abiha übt täglich die Anwendung der Rechtschreibstrategien mithilfe des Satzes der Woche.
 - **[7x]** Abiha nimmt am Förderunterricht Deutsch teil.
 - **[7x]** Abiha kann die wichtigen Aussagen eines Textes mithilfe von Fragen beantworten.
-- **[7x]** Häufiges schriftliches Modellieren und begleitendes lautes Denken. Dabei Nutzung kleiner Erfolgskontrollen „Kann ich mein Wort selbst noch lesen?“
+- **[7x]** Häufiges schriftliches Modellieren und begleitendes lautes Denken. Dabei Nutzung kleiner Erfolgskontrollen „Kann ich mein Wort selbst noch lesen?"
 - **[7x]** Begleitete regelmäßige Schreibübungen
 - **[7x]** Fynn lässt Geschriebenes von seinen Eltern oder der Lehrkraft überprüfen und verbessert unleserliche Wörter und Buchstaben.
 - **[7x]** Fynn nimmt am LRS Kurs der Schule teil.
@@ -391,18 +386,27 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - nutzt Antolin zu Hause.
 - wiederholt die eingeführten Rechenverfahren in ihrem eigenen Tempo.
 
-*Hinweis: Einige Einträge enthalten offensichtliche Testdaten ("XY", "hallo") — diese wurden nicht bereinigt, da sie im Originaldatensatz enthalten sind.*
+*Hinweis: Einige Einträge enthalten Testdaten ("XY", "hallo") — im Originaldatensatz enthalten, nicht bereinigt.*
 
-### 6. Förderpläne
+#### 1.8 Anlässe
 
-*3 FPs mit Datenfehler (FP-Datum liegt vor Förderungs-Datum) werden in allen Zahlen ausgeschlossen. Basis: 176 valide FPs.*
+| Anlass | Einträge | Anteil |
+|---|---|---|
+| Drohendes Leistungsversagen | 7.423 | 48% |
+| Teilnahme an besonderer Fördermaßnahme | 6.218 | 41% |
+| Drohende Nichtversetzung | 1.691 | 11% |
+| Nichtversetzung | 9 | <1% |
+
+#### 1.9 Förderpläne
+
+*3 FPs mit Datenfehler (FP-Datum vor Förderungs-Datum) ausgeschlossen. Basis: 176 valide FPs.*
 
 - **176 valide Förderpläne**
 - **87 Nutzer (65%)** haben mind. 1 Förderplan erstellt
 - **46 Nutzer (35%)** haben **keinen Förderplan** erstellt
 - Ø **2,0 Förderpläne pro Nutzer** | Max: 12
 
-**Verteilung Förderpläne pro Nutzer:**
+**Verteilung FPs pro Nutzer:**
 
 | Anzahl FP | Nutzer |
 |---|---|
@@ -416,41 +420,32 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | 9 FP | 1 |
 | 12 FP | 1 |
 
-**Erstellungszeitpunkt — Wann wurde der FP nach der Förderung angelegt?**
+**Erstellungszeitpunkt:**
 
-- **145 von 176 FPs (82%) in der gleichen Sitzung** (< 1 Stunde nach der Förderungsanlage)
+- **145 von 176 FPs (82%) in der gleichen Sitzung** (< 1 Stunde nach Förderungsanlage)
 - **151 von 176 FPs (86%) innerhalb eines Tages**
-- 10 FPs nach 1–7 Tagen, 15 FPs erst nach mehr als 7 Tagen
-- Median: 0 Tage — der Förderplan entsteht typischerweise direkt im Anschluss
-
-**Befund:** Lehrkräfte legen Förderung und Förderplan in einer Sitzung an. Das spricht für eine gute Workflow-Integration — aber auch dafür, dass der Plan möglicherweise eher formal erstellt wird als inhaltlich durchdacht.
+- 10 FPs nach 1–7 Tagen, 15 FPs nach mehr als 7 Tagen
+- Median: 0 Tage — FP entsteht typischerweise direkt im Anschluss
 
 **Nachträgliche Änderungen:**
 
 - **41 von 176 FPs (23%) nach Erstellung noch geändert**
 - **135 FPs (77%) nie wieder geöffnet**
 
-**Befund:** Drei Viertel der Pläne werden nach dem ersten Speichern nie mehr geöffnet — in Kombination mit der Feedback-Kritik (keine Bearbeitungsmöglichkeit) ist das ein Widerspruch: Entweder funktioniert das Bearbeiten doch bei manchen, oder diese 23% haben einen Workaround gefunden.
-
 **Füllung der Felder:**
 
-- **Stärken-Feld:** 151 von 176 FPs ausgefüllt (**86%**) — sehr aktiv genutzt
-- **FP-eigene Maßnahme:** 123 von 176 FPs (**70%**) — aktiv genutzt
+- **Stärken-Feld:** 151 von 176 FPs ausgefüllt (86%)
+- **FP-eigene Maßnahme:** 123 von 176 FPs (70%)
 
 **Stärken — inhaltliche Analyse:**
 
 | Kennzahl | Wert |
 |---|---|
-| FPs mit ausgefülltem Stärken-Feld | 151 (86%) |
-| Durchschnittliche Textlänge | 190 Zeichen |
+| Ø Textlänge | 190 Zeichen |
 | Median Textlänge | 158 Zeichen |
 | Sehr kurz (< 50 Zeichen) | 27 Einträge |
 | Mittel (50–200 Zeichen) | 65 Einträge |
 | Ausführlich (> 200 Zeichen) | 59 Einträge |
-| Kürzester Eintrag | "Toll" (4 Zeichen) |
-| Längster Eintrag | 958 Zeichen |
-
-**Stärken nach Jahrgang:**
 
 | Jahrgang | FPs mit Stärken | FPs gesamt | Anteil |
 |---|---|---|---|
@@ -460,16 +455,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | Jahrgang 3 | 29 | 35 | 83% |
 | Jahrgang 4 | 30 | 40 | 75% |
 
-**Inhaltliche Muster:**
-
-- **Sozial-emotionale Beschreibungen dominieren** — die häufigste Kategorie: „freundlich und hilfsbereit“, „gut in die Klassengemeinschaft integriert“, „motiviert“. Diese Formulierungen sind oft generisch und wenig förderrelevant.
-- **Fachliche Stärken werden genannt, aber seltener** — z.B. Rechnen im ZR bis 5, sichere Buchstaben-Laut-Zuordnung, lautgetreues Schreiben. Diese sind präziser und hilfreicher.
-- **Einige Einträge enthalten Lernausgangslage statt Stärken** — z.B. „Rechnen im Zahlenraum bis 5“ oder „Addition/Subtraktion in ZR bis 100 ohne Übergang“. Das Feld wird von einigen Lehrkräften als Ausgangsbeschreibung, nicht als Stärken-Beschreibung verstanden.
-- **Sehr kurze Einträge** wie „Toll“, „ist nett“, „Fröhlich, aufgeschlossen“ — Pflichtbefüllung ohne echten Informationsgehalt.
-- **6 FPs ohne Jahrgangsangabe** (Jg. None) — Datenfehler, aber inhaltlich ausführliche Texte.
-- **Jg. 4 hat den niedrigsten Anteil** (75%) — bei älteren Jahrgangsstufen wird das Feld seltener ausgefüllt.
-
-**Befund:** Das Stärken-Feld wird aktiv genutzt, aber uneinheitlich. Es fehlt eine Anleitung was dort hineingehört — fachliche Stärken vs. soziale Beschreibungen vs. Lernausgangslage. Das Feld hat Potenzial als strukturierter Einstieg in die Förderplanung, ist aktuell aber mehr eine Freitextbox ohne klares Ziel.
+Inhaltliche Muster: Sozial-emotionale Beschreibungen dominieren ("freundlich und hilfsbereit", "motiviert") — oft generisch und wenig förderrelevant. Fachliche Stärken präziser, aber seltener. Einige Lehrkräfte nutzen das Feld als Lernausgangslage-Beschreibung. Sehr kurze Einträge ("Toll", "ist nett") zeigen Pflichtbefüllung. **Das Feld braucht klarere Anleitung.**
 
 **Förderpläne nach Jahrgang:**
 
@@ -481,23 +467,42 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | Jahrgang 3 | 35 | 19,9% |
 | Vorklasse (Jg. 0) | 4 | 2,3% |
 
-**Befund:** Die Vorklasse hat 4.526 Einträge im Nutzungsverhalten — aber nur 4 Förderpläne (2,3%). Das ist der größte Bruch im Datensatz: Vorklasse-Lehrkräfte arbeiten viel in der App, erstellen aber kaum Förderpläne. Mögliche Erklärung: Die App bildet die Förderarbeit in der Vorklasse fachlich nicht ausreichend ab.
+**Befund:** Die Vorklasse hat 4.526 Einträge — aber nur 4 Förderpläne (2,3%). Größter Bruch im Datensatz.
 
-### 7. Anlässe
+#### 1.10 Weitere Felder
 
-| Anlass | Einträge |
-|---|---|
-| Drohendes Leistungsversagen | 7.423 (48%) |
-| Teilnahme an besonderer Fördermaßnahme | 6.218 (41%) |
-| Drohende Nichtversetzung | 1.691 (11%) |
-| Nichtversetzung | 9 (<1%) |
+- **Stärken-Feld:** Details siehe 1.9
+- **Notizen:** Details siehe 1.7
 
-### 8. Weitere Felder
+---
 
-- **Notizen zu Maßnahmen:** Details und Interpretation siehe Abschnitt 5 (Maßnahmen → Notizen zu Maßnahmen)
-- **Stärken-Feld:** Details siehe Abschnitt 6 (Förderpläne → Füllung der Felder)
+### Was wir nicht wissen
 
-### 9. Bewertungen (Feedback Report)
+**Warum haben 57% die App nur einmal genutzt?**
+Ob wegen technischer Probleme, Zeitmangel, Frust oder fehlendem Auftrag — die Daten sagen es nicht.
+
+**Wo genau brechen Nutzer ab?**
+9 Nutzer haben eine Förderung angelegt aber keine Maßnahme gewählt, 7 haben Maßnahmen gewählt aber nie aktiviert. Wo im Prozess der Abbruch passiert, ist nicht rekonstruierbar.
+
+**Was bedeutet der KW-11-Peak?**
+Fast dreimal mehr Ereignisse als in anderen Wochen. Externer Auslöser wahrscheinlich — unbekannt.
+
+**Wie lange hat eine typische Sitzung gedauert?**
+Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in dieser Zeit konkret passiert ist (Abbruch vs. abgeschlossen), bleibt offen.
+
+**Wurden Förderpläne tatsächlich verwendet?**
+46 Nutzer haben keinen Plan erstellt. Ob die restlichen 87 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben — vollständig unbekannt.
+
+**Was haben die Lehrkräfte mit den eigenen Maßnahmen bezweckt?**
+974 eigene Maßnahmen geschrieben. Inhaltlich ein Goldschatz, aber nicht systematisch kategorisiert.
+
+---
+
+## Kapitel 2: Feedback (In-App)
+
+### Was wir wissen
+
+#### 2.1 Bewertungen
 
 - **32 Feedback-Einträge** insgesamt
 - **20 mit Stern-Bewertung (1–5)**, 12 ohne Bewertung (Null = nicht bewertet)
@@ -521,7 +526,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 | Startseite | 3,00 | 3 |
 | Förderziel | 3,00 | 2 |
 
-### 10. Themen aus den Freitexten (32 Feedback-Einträge, 31 mit Text)
+#### 2.2 Themen aus den Freitexten (31 inhaltliche Einträge)
 
 **① Unterstützer-Feld zu eingeschränkt** *(mind. 7 Nennungen)*
 Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Von mehreren als „absolut unzureichend" bezeichnet.
@@ -530,30 +535,42 @@ Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte,
 Maßnahmen wirken wie Ziele, nicht wie konkrete Handlungsschritte. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit- und Sozialverhalten, LRS, DaZ.
 
 **③ Keine Bearbeitungsmöglichkeit nach dem Speichern** *(mind. 4 Nennungen)*
-Einmal gespeicherte Ziele, Maßnahmen und Pläne sind nicht mehr editierbar. Für den Schulalltag nicht praxistauglich.
+Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar. Für den Schulalltag nicht praxistauglich.
 
 **④ Fehlende Förderbereiche** *(mehrfach)*
 Lernverhalten, Sozialverhalten, Arbeit-und-Sozial, DaZ, Vorklasse komplett fehlend.
 
 **⑤ Bedienbarkeit OK, Inhalt nicht** *(mehrfach)*
-Die Navigation wird als intuitiv beschrieben — das einzige durchgängig Positive. Der fachliche Inhalt enttäuscht.
+Navigation wird als intuitiv beschrieben — das einzige durchgängig Positive. Fachlicher Inhalt enttäuscht.
 
-**Weitere Einzelpunkte:** Förderplan-Layout, kein sichtbarer Druck-Button, Schüler nicht angezeigt, Grammatikfehler (Genuskongruenz bei Schülerinamen), Schullogo gewünscht, Uhrzeit auf Eltern-Dokument unnötig, Anlass-Optionen zu eingeschränkt (fehlt: LRS, AD(H)S, Autismus, chronische Erkrankung).
+**Weitere Einzelpunkte:** Förderplan-Layout unbeliebt, kein sichtbarer Druckbutton, Schüler nicht angezeigt, Grammatikfehler (Genuskongruenz bei Schülerinamen), Schullogo gewünscht, Uhrzeit auf Elterndokument unnötig, Anlassoptionen zu eingeschränkt (fehlt: LRS, AD(H)S, Autismus, chronische Erkrankung).
 
 ---
 
-## FRAGEBOGEN — ABSCHLUSSUMFRAGE (19 Teilnehmende)
-*Datenbasis: 2026-04-10-Rohdaten von Umfrage Pilot_AS1 (alle beendeten).csv*
+### Was wir nicht wissen
 
-### Teilnehmende & Vollständigkeit
+**Wer hat bewertet?**
+Keine Verknüpfung zwischen Feedback-Einträgen und Anonymus-Nummern aus Sheet 1. Ob die Kritischsten auch die Aktivsten waren — unbekannt.
+
+**Was haben die "Null-Sterne" gemeint?**
+Das System unterscheidet nicht zwischen "keine Bewertung" und "bewusst schlechteste Note". 12 Einträge nicht eindeutig interpretierbar.
+
+**Was denken die anderen 101 Nutzer?**
+133 Nutzer im System, 32 Feedback-Einträge. Über 100 Nutzer haben sich gar nicht gemeldet.
+
+---
+
+## Kapitel 3: Fragebogen (Abschlussumfrage)
+
+### Was wir wissen
+
+#### 3.1 Teilnehmende & Vollständigkeit
 
 - **19 Fragebögen** abgeschlossen
 - Rollen: 10 Lehrkräfte, 4 Schulleitungsmitglieder, 2 Schulverwaltung, 3 ohne Angabe
 - Schulämter: Offenbach (4), Marburg (3), Bad Vilbel (3), Frankfurt, Wiesbaden, Gießen, Kassel, Darmstadt (je 1), 4 ohne Angabe
-- **Ø Antwortquote: 62%** — nur 1 Fragebogen vollständig ausgefüllt (100%), 6 unter 50%
+- **Ø Antwortquote: 62%** — nur 1 vollständig ausgefüllt (100%), 6 unter 50%
 - Ø Ausfülldauer: **5,3 Minuten (Median)** — Ausreißer ID 17 (6,5h, offen gelassen) bereinigt
-
-Vollständigkeit im Überblick:
 
 | ID | Quote | Rolle | Schule |
 |---|---|---|---|
@@ -577,11 +594,9 @@ Vollständigkeit im Überblick:
 | 35 | 80% | Lehrkraft | Geschwister Scholl Schule Mühlheim |
 | 36 | 90% | Schulleitung | Baunsbergschule |
 
-*Hinweis: IDs 6, 16, 18 haben 10% Quote und keine Angaben zu Rolle/Schule — kaum auswertbar. ID 12 hat Testdaten ("lorem ipsum") eingegeben.*
+*IDs 6, 16, 18: 10% Quote, keine Angaben — kaum auswertbar. ID 12: Testdaten.*
 
----
-
-### Frage 4: Bedienbarkeit & Nützlichkeit (Skala 1–4, n=13 auswertbar)
+#### 3.2 Frage 4: Bedienbarkeit & Nützlichkeit (Skala 1–4, n=13)
 
 | Aussage | Ø gesamt | Ø Lehrkräfte | Ø Schulltg. | Verteilung |
 |---|---|---|---|---|
@@ -591,35 +606,21 @@ Vollständigkeit im Überblick:
 | Arbeit erleichtert | **3,00** | 2,62 | 3,60 | 5x absolut, 3x überwiegend, 5x eher nicht |
 | Sinnvoll für Förderarbeit einsetzbar | **2,92** | 2,75 | 3,20 | 3x absolut, 6x überwiegend, 4x eher nicht |
 
-**Befunde:**
-- Technische Stabilität: klar positiv, kein einziges negatives Votum
-- Bedienbarkeit: positiv, aber nicht begeistert
-- Fachlicher Nutzen (Arbeit erleichtert, sinnvoll einsetzbar): gespalten — je 4–5 Nennungen „eher nicht“
-- **Auffallend: Schulleitung bewertet durchgängig besser als Lehrkräfte** — bei "Arbeit erleichtert" Differenz von fast einem Punkt (3,60 vs. 2,62). Mögliche Erklärung: Schulleitung hat weniger direkten Umgang mit dem fachlichen Inhalt und bewertet eher die organisatorische Perspektive.
+**Befunde:** Technik klar positiv. Fachlicher Nutzen gespalten. Schulleitung bewertet durchgängig besser als Lehrkräfte — bei "Arbeit erleichtert" fast ein Punkt Differenz (3,60 vs. 2,62).
 
----
-
-### Frage 5: Persönliche Erfahrungen (Freitext, 8 inhaltliche Antworten)
+#### 3.3 Frage 5: Persönliche Erfahrungen (Freitext)
 
 | ID | Rolle | Aussage |
 |---|---|---|
 | 10 | Lehrkraft | "Gut aber nicht gut genug" |
 | 26 | Lehrkraft | BFZ als Unterstützer fehlt; Förderstunden/Einzelförderungen nicht eingebbar |
 | 27 | Schulleitung | Flexible Eingangsstufe nicht erfasst — Kinder fehlen im System |
-| 28 | Schulleitung | Arbeits-/Sozialverhalten fehlt; Sachunterricht fehlt; Kolleginnen nutzen bisherige Formulare weiter, weil umfassender |
-| 29 | Lehrkraft | Förderplan gut anzulegen — aber Maßnahmen scheitern an fehlendem Material |
-| 35 | Lehrkraft | Förderschullehrkräfte und Sozialarbeiter als Unterstützer fehlen; Arbeits-/Sozialverhalten fehlt |
-| 36 | Schulleitung | Wunsch nach Stepper (Schritt-für-Schritt-Navigation); einzelne Seiten direkt anwählbar |
+| 28 | Schulleitung | Arbeits-/Sozialverhalten fehlt; Kolleginnen nutzen bisherige Formulare weiter |
+| 29 | Lehrkraft | Förderplan gut anzulegen — Maßnahmen scheitern an fehlendem Material |
+| 35 | Lehrkraft | Förderschullehrkräfte und Sozialarbeiter als Unterstützer fehlen |
+| 36 | Schulleitung | Wunsch nach Stepper-Navigation |
 
-**Befunde:**
-- Unterstützer-Feld: Kritik aus mehreren Perspektiven — BFZ, Förderschullehrkräfte, Sozialarbeiter, außerschulische Institutionen fehlen
-- Arbeits- und Sozialverhalten: wiederholt als fehlender Bereich genannt
-- Konkurrenz zu bisherigen Formularen: ein klares Warnsignal — wenn Kolleginnen parallel weiter die alten Formulare verwenden, hat die App noch keine ausreichende Tiefe
-- Materialbezug fehlt: Maßnahmen ohne verlinktes Material sind schwer umsetzbar
-
----
-
-### Frage 6: Gewünschte Funktionen (Skala 1–4, n=11–13)
+#### 3.4 Frage 6: Gewünschte Funktionen (Skala 1–4)
 
 | Aussage | Ø | n | Verteilung |
 |---|---|---|---|
@@ -629,15 +630,7 @@ Vollständigkeit im Überblick:
 | Kompetenzen für Lernausgangslage ausreichend | **3,23** | 13 | 5x absolut, 6x überwiegend, 2x eher nicht |
 | Immer vordefinierter Anlass verwendet | **2,64** | 11 | 1x absolut, 6x überwiegend, 3x eher nicht, 1x absolut nicht |
 
-**Befunde:**
-- DaZ-Anzeige und Kollegiums-Austausch sind die stärksten Wünsche für die nächste Stufe
-- Schuleigene Förderkurse: 8 von 11 wollen das absolut — sehr klares Signal
-- Lernausgangslage mit vorhandenen Kompetenzen bestimmen: überwiegend positiv (3,23), aber mit Luft nach oben
-- Vordefinierter Anlass wird nicht immer genutzt (2,64) — bestätigt: die vorhandene Anlassliste deckt die Realität nicht vollständig ab
-
----
-
-### Frage 7: Fachpraxis & App-Bewertung (Skala 1–4, n=11–13)
+#### 3.5 Frage 7: Fachpraxis & App-Bewertung (Skala 1–4)
 
 | Aussage | Ø | n | Verteilung |
 |---|---|---|---|
@@ -649,96 +642,94 @@ Vollständigkeit im Überblick:
 | Notenschutz häufig angewendet | **2,54** | 13 | 1x absolut, 7x überwiegend, 3x eher nicht, 2x absolut nicht |
 | **Förderziele in App reichen aus** | **2,15** | 13 | 1x absolut, 4x überwiegend, 4x eher nicht, 4x absolut nicht |
 
-**Befunde:**
-- **"Förderziele reichen aus" ist der absolute Tiefstwert im gesamten Fragebogen: Ø 2,15.** 4 von 13 sagen absolut nicht, 4 sagen eher nicht — das ist eine klare Ablehnung von mehr als der Hälfte der Befragten.
-- Die Lehrkräfte evaluieren regelmäßig und orientieren sich professionell an der BSLRR-Handreichung — sie sind fachlich anspruchsvoll. Das macht das schwache Urteil über die Förderziele noch bedeutsamer.
-- Nachteilsausgleich und Abweichung von Leistungsfeststellung werden häufig angewendet — das sind Themen, die die App aktuell nicht abbildet.
-- DaZ ist für die Mehrheit kein dominierender Schwerpunkt (2,45) — der Wunsch nach DaZ-Anzeige (F6) kommt trotzdem stark: es geht um Übersicht, nicht um Volumen.
+**Tiefstwert im gesamten Fragebogen: Ø 2,15.** 8 von 13 lehnen ausreichende Förderziele ab.
 
----
+#### 3.6 Frage 8: Priorisierung Querschnittsfunktionen (Rang 1 = höchste Priorität)
 
-### Frage 8: Priorisierung Querschnittsfunktionen (Rang 1 = höchste Priorität)
+| Funktion | Ø Rang | Rang-1-Nennungen |
+|---|---|---|
+| Diskussionsfunktion (Kollegium) | **2,11** | 9x |
+| Hilfestellungen integriert | **2,32** | 5x |
+| Dokumentenablage | **2,69** | 4x |
+| Kalender/Erinnerung | **2,79** | 1x |
 
-| Funktion | Ø Rang | Rang-1-Nennungen | Interpretation |
-|---|---|---|---|
-| Diskussionsfunktion (Kollegium) | **2,11** | 9x | Höchste Priorität — klarer Spitzenreiter |
-| Hilfestellungen integriert | **2,32** | 5x | Zweite Priorität |
-| Dokumentenablage | **2,69** | 4x | Mittlere Priorität |
-| Kalender/Erinnerung | **2,79** | 1x | Niedrigste Priorität |
-
-**Befunde:**
-- Diskussionsfunktion: mit Abstand höchste Priorität — 9 von 19 nennen sie auf Rang 1. Lehrkräfte wollen miteinander arbeiten, nicht isoliert.
-- Hilfestellungen: 5x Rang 1 — bestätigt, dass die App noch nicht selbsterklärend genug ist
-- Kalender/Erinnerung: kaum Interesse — passt zum Schulalltag, wo Termine über andere Kanäle laufen
-
----
-
-### Frage 9: Anregungen Ausbaustufe 2 (Freitext)
+#### 3.7 Frage 9: Anregungen Ausbaustufe 2
 
 | ID | Anregung |
 |---|---|
-| 26 | Außerschulische Institutionen als Unterstützer oder Maßnahme ermöglichen |
-| 29 | Fördermaßnahmen konkretisieren + Zugangswege zu empfohlenem Material verlinken |
+| 26 | Außerschulische Institutionen als Unterstützer oder Maßnahme |
+| 29 | Fördermaßnahmen konkretisieren + Materialzugänge verlinken |
 | 30 | Einbezug der Förderlehrkräfte des zuständigen BFZ |
-| 36 | Stepper-Navigation: Schritte einzeln anwählbar (wird zweimal erwähnt) |
+| 36 | Stepper-Navigation (zweimal erwähnt) |
+
+#### 3.8 Freiwillige Weiterarbeit (Frage 10)
+
+**Olivia Scozzari-Dingel** (Ernst-Reuter-Schule, olivia.scozzari-dingel@schule.hessen.de) — Interesse für emotional-sozialen Bereich
 
 ---
 
-### Freiwillige Weiterarbeit (Frage 10)
-Eine Person hat sich explizit gemeldet:
-- **Olivia Scozzari-Dingel** (Ernst-Reuter-Schule, olivia.scozzari-dingel@schule.hessen.de) — Interesse für emotional-sozialen Bereich
+### Was wir nicht wissen
+
+**Sind die 19 Teilnehmenden repräsentativ?**
+Ø Antwortquote 62%, nur 1 vollständig ausgefüllt. Die kritischsten oder passivsten Nutzer könnten systematisch fehlen.
+
+**Warum haben so viele den Fragebogen abgebrochen?**
+IDs 6, 16, 18 mit 10% Quote, keine Angaben. Ob Desinteresse, technische Probleme oder Zeit — unbekannt.
+
+**Unterscheiden sich Lehrkräfte und Schulleitung wirklich inhaltlich?**
+Der Datensatz (n=13 auswertbar) ist zu klein für statistisch belastbare Aussagen über Rollenunterschiede.
 
 ---
 
-## WAS WIR NICHT WISSEN
+## Kapitel 4: Gesamtresümee
 
-### Aus Sheet 1: Nutzerverhalten
+### Was funktioniert — beibehalten
 
-**Warum haben 57% die App nur einmal genutzt?**
-Ob wegen technischer Probleme, Zeitmangel, Frust über den Inhalt oder weil kein Auftrag mehr kam — die Daten sagen es nicht.
+- **Technische Stabilität:** Ø 3,85 von 4 im Fragebogen — kein einziges negatives Votum
+- **Bedienbarkeit/Navigation:** intuitiv, von vielen explizit gelobt
+- **Namenssuche:** "bereits nach den ersten Buchstaben alle Daten verfügbar" — Lob, beibehalten
+- **Stärken-Feld:** 86% der Förderpläne ausgefüllt — gut in Workflow integriert
+- **FP-Erstellung in einer Sitzung:** 82% erstellen FP direkt nach Förderungsanlage — Workflow funktioniert
 
-**Wo genau brechen Nutzer ab?**
-9 Nutzer haben eine Förderung angelegt aber keine Maßnahme gewählt, 7 haben Maßnahmen gewählt aber nie aktiviert. Wo im Prozess der Abbruch passiert, ist nicht rekonstruierbar.
+### Was nicht funktioniert — muss behoben werden
 
-**Was bedeutet der KW-11-Peak?**
-Fast dreimal mehr Ereignisse als in anderen Wochen. Externer Auslöser (Abgabe, Schulveranstaltung) wahrscheinlich — aber unbekannt.
+**① Unterstützer-Feld** *(höchste Dringlichkeit)*
+Nur Vater/Mutter. Realität: BFZ, Förderschullehrkräfte, Ergotherapie, Logopädie, Sozialarbeiter, außerschulische Institutionen — alles fehlt. Mindestens Freitextoption oder erweiterbare Liste.
 
-**Was haben die Lehrkräfte mit den eigenen Maßnahmen bezweckt?**
-974 eigene Maßnahmen wurden geschrieben — das ist ein Goldschatz für Katalog-Weiterentwicklung, aber nicht systematisch kategorisiert oder ausgewertet.
+**② Maßnahmen zu abstrakt, lückenhaft, falsche Ebene** *(höchste Dringlichkeit)*
+Maßnahmen wirken wie Ziele. Fehlende Bereiche: Vorklasse, Klasse 1 (Buchstaben-Laut-Ebene), Lesegeschwindigkeit, Arbeits-/Sozialverhalten, LRS, DaZ, Sachunterricht. Die 235 eigenen Maßnahmen sind Vorlage für fehlende Katalogeinträge.
 
-**Wie lange hat eine typische Sitzung gedauert?**
-Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag (230 Nutzer-Tage insgesamt):
-- Median: **7 Minuten pro Tag**
-- Ø 25 Minuten (nach oben verzerrt durch wenige intensive Nutzer)
-- 40 Sitzungen unter 1 Minute (reines Reinschauen)
-- 131 von 230 Sitzungen (57%) unter 10 Minuten
-- Nur 24 Sitzungen über 1 Stunde
+**③ Keine Bearbeitungsmöglichkeit nach Speichern** *(höchste Dringlichkeit)*
+Showstopper für den Schulalltag. Lehrkräfte nutzen Notizfeld als Hilferuf ("möchte gelöscht werden, funktioniert aber nicht").
 
-Die typische Nutzung ist kurz. Wer länger dabei bleibt, ist die Ausnahme. Was in diesen Sitzungen konkret passiert ist (Abbruch vs. erfolgreich abgeschlossen), bleibt offen.
+**④ Anlassliste zu einschränkend**
+Fehlend: LRS, AD(H)S, Autismus, chronische Erkrankung, DaZ. Vordefinierter Anlass wird nicht immer genutzt (Fragebogen: Ø 2,64 von 4).
 
-**Wurden Förderpläne tatsächlich verwendet?**
-46 Nutzer haben keinen Plan erstellt. Ob die restlichen 87 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben — vollständig unbekannt.
+**⑤ Fehlende Förderbereiche**
+Lernverhalten, Sozialverhalten, Vorklasse nicht abgebildet.
 
-### Aus Sheet 2: Feedback Report
+**⑥ Förderplan-Layout und Druckfunktion**
+Schlechteste Bewertung im Feedback (Ø 2,00). Kein sichtbarer Druckbutton. Uhrzeit auf Elterndokument unnötig.
 
-**Wer hat bewertet?**
-Keine Verknüpfung zwischen Feedback-Einträgen und Anonymus-Nummern aus Sheet 1. Ob die Kritischsten auch die Aktivsten waren oder die Passivsten — unbekannt.
+**⑦ Stärken-Feld ohne Anleitung**
+Wird für drei verschiedene Dinge genutzt: echte Stärken, Lernausgangslage, soziale Beschreibungen. Braucht klarere Strukturierung.
 
-**Was haben die "Null-Sterne" gemeint?**
-Das System unterscheidet nicht zwischen "keine Bewertung abgegeben" und "bewusst schlechteste Note". 12 Einträge sind damit nicht eindeutig interpretierbar.
+### Wünsche für Ausbaustufe 2 (priorisiert)
 
-**Was denken die anderen 101 Nutzer?**
-133 Nutzer im System, 32 Feedback-Einträge. Über 100 Nutzer haben sich gar nicht gemeldet — ihre Meinung ist vollständig unbekannt.
+1. **Diskussionsfunktion** — Austausch mit Kollegium (9 von 19 auf Rang 1)
+2. **Maßnahmen anderer Lehrkräfte** einsehen (Ø 3,46 von 4)
+3. **Schuleigene Förderkurse** als Maßnahme (Ø 3,45 von 4, 8 von 11 absolut)
+4. **DaZ-Kinder anzeigen** (Ø 3,55 von 4)
+5. **Hilfestellungen integriert** — Kontext-Hilfe in der App (5x Rang 1)
+6. **Außerschulische Institutionen** als Unterstützer oder Maßnahme
+7. **Materialzugänge verlinken** — Maßnahmen ohne Material sind schwer umsetzbar
+8. **Stepper-Navigation** — einzelne Seiten direkt anwählbar
+9. Schullogo, Sonstige Vereinbarungen, Schüler "auf Null setzen"
 
-### Übergreifend — der größte blinde Fleck
+### Größter blinder Fleck
 
-**Was ist nach dem Pilot passiert?**
-Wir wissen was in der App passiert ist. Wir wissen nicht ob die Förderpläne genutzt wurden, ob sich für die Kinder etwas verändert hat, ob die Lehrkräfte das System weiterempfohlen oder davon abgeraten haben. Das wären die Fragen, die den eigentlichen Pilot-Erfolg messen würden.
+Wir wissen was in der App passiert ist. Wir wissen nicht ob die Förderpläne genutzt wurden, ob sich für die Kinder etwas verändert hat, und ob die Lehrkräfte das System weiterempfohlen oder davon abgeraten haben. Das sind die Fragen, die den eigentlichen Pilot-Erfolg messen würden.
 
----
+### Fazit in einem Satz
 
-## GESAMTFAZIT
-
-Die Anwendung ist **bedienbar, aber fachlich nicht reif**. Lehrkräfte finden sich in der Navigation zurecht — das ist der einzige durchgängige Pluspunkt. Was sie dann vorfinden, passt nicht zu ihrem Arbeitsalltag. Die Hauptprobleme sind nicht technischer Natur, sondern inhaltlicher: Das Maßnahmen-Angebot ist zu abstrakt, zu lückenhaft und deckt zentrale Jahrgänge und Förderbereiche nicht ab. Das Unterstützer-Feld bildet die Schulrealität nicht ab. Und einmal Gespeichertes lässt sich nicht mehr bearbeiten.
-
-Wer diese drei Punkte nicht tiefgreifend überarbeitet, wird die Bewertungen in einem nächsten Pilot nicht verbessern.
+Die App ist **bedienbar, aber fachlich nicht reif** — wer die drei zentralen Probleme (Unterstützer, Maßnahmen, Bearbeitbarkeit) nicht löst, wird in einem nächsten Pilot keine besseren Ergebnisse sehen.
