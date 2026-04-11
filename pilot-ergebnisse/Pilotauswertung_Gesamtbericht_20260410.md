@@ -400,7 +400,6 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **45 Nutzer (34%)** haben **keinen Förderplan** erstellt
 - Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 12
 
-*Methodischer Hinweis: Die FP-ID-Spalte gibt die Anzahl der Förderpläne (179 eindeutige IDs). Die Spalte "FP erstellt durch" gibt Aufschluss darüber, welche Nutzer einen FP angelegt haben (88 Nutzer). Beide Spalten sind konsistent — alle 179 FPs haben einen Ersteller-Eintrag. Gezählt werden echte Nutzer nach Bereinigung eines Excel-Formelartefakts in der Nutzer-ID-Spalte.*
 
 **Verteilung Förderpläne pro Nutzer:**
 
