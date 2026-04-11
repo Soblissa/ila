@@ -428,8 +428,8 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 **Nachträgliche Änderungen:**
 
-- **42 von 181 FP (23%) wurden nach Erstellung noch geändert**
-- 139 FP (77%) wurden nie wieder angetastet
+- **42 von 179 FP (23%) wurden nach Erstellung noch geändert**
+- 137 FP (77%) wurden nie wieder angetastet
 
 **Befund:** Drei Viertel der Pläne werden nach dem ersten Speichern nie mehr geöffnet — in Kombination mit der Feedback-Kritik (keine Bearbeitungsmöglichkeit) ist das ein Widerspruch: Entweder funktioniert das Bearbeiten doch bei manchen, oder diese 23% haben einen Workaround gefunden.
 
