@@ -716,6 +716,8 @@ Das System unterscheidet nicht zwischen "keine Bewertung" und "bewusst schlechte
 
 *Skala 1–4 | n=13 auswertbar*
 
+**Zur Skala:** Die Antwortoptionen wurden für die Auswertung in Zahlenwerte übersetzt: "Trifft absolut zu" = 4, "Trifft überwiegend zu" = 3, "Trifft eher nicht zu" = 2, "Trifft absolut nicht zu" = 1. Der Durchschnittswert (Ø) gibt an, wie stark eine Aussage insgesamt zustimmung erhalten hat. Ein Wert über 3 bedeutet überwiegende Zustimmung, unter 2,5 überwiegende Ablehnung.
+
 | Aussage | Ø gesamt | Ø Lehrkräfte | Ø Schulltg. | Verteilung |
 |---|---|---|---|---|
 | Stabil und zuverlässig | **3,85** | 3,88 | 3,80 | 11x absolut, 2x überwiegend |
