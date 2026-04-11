@@ -609,7 +609,7 @@ Nur Vater/Mutter auswählbar (6 Nennungen). BFZ, Ergotherapie, Logopädie, ander
 
 ##### 2.1.3.2 Maßnahmen zu unkonkret, lückenhaft, falsche Ebene
 
-Maßnahmen wirken wie Ziele. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit-/Sozialverhalten, LRS, DaZ. Nur 3 Maßnahmen zur Auswahl.
+Maßnahmen wirken wie Ziele (8 Nennungen). Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit-/Sozialverhalten, LRS, DaZ. Nur 3 Maßnahmen zur Auswahl (1 Nennung).
 
 - [3] *„Die Maßnahmen sind zu hoch angesetzt. Das Ziel muss bei einigen Kindern auf Silbenebene oder der Buchstaben-Laut-Zuordnung angesetzt werden."*
 - [4] *„Mir fehlt ein Feld zur Lesegeschwindigkeit."*
@@ -622,7 +622,7 @@ Maßnahmen wirken wie Ziele. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-L
 
 ##### 2.1.3.3 Keine Bearbeitungsmöglichkeit nach Speichern
 
-Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar.
+Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar (3 Nennungen).
 
 - [10] *„Ist es richtig, dass einmal eingegebene Ziele oder Maßnahmen nicht mehr korrigiert werden können? Wir finden keine Bearbeitungsmöglichkeit."*
 - [11] *„Leider kann ich den Plan im Nachhinein nicht mehr bearbeiten."*
@@ -630,7 +630,7 @@ Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar.
 
 ##### 2.1.3.4 Fehlende Förderbereiche und Anlässe
 
-Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erkrankung fehlend.
+Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erkrankung fehlend (3 Nennungen).
 
 - [2] *„Die 3 Bereiche sind gut, mir fehlt der Bereich zum Lernverhalten sowie im Sozialverhalten."*
 - [16] *„Keine Förderziele für Arbeit- und Sozialverhalten."*
@@ -638,7 +638,7 @@ Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erk
 
 ##### 2.1.3.5 Bedienbarkeit OK, Inhalt nicht
 
-Navigation intuitiv — einziger durchgehender Pluspunkt. Fachlicher Inhalt enttäuscht.
+Navigation intuitiv — einziger durchgehender Pluspunkt (2 Nennungen). Fachlicher Inhalt enttäuscht (2 Nennungen).
 
 - [12] *„Zurechtgefunden habe ich mich gut in der Anwendung. Allerdings empfinde ich die Möglichkeiten viel zu eingeschränkt … Mein Fazit fällt daher leider sehr ernüchternd aus."* (Marion Neff)
 - [17] *„Ich finde die Handhabung sehr intuitiv und leicht, das ist sehr gelungen!!"* (Claudia Gernand)
