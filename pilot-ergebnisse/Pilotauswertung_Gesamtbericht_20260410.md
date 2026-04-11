@@ -598,7 +598,7 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 
 ##### 2.1.3.1 Unterstützer-Feld zu eingeschränkt
 
-Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Pflichtfeld blockiert zusätzlich das Speichern.
+Nur Vater/Mutter auswählbar (6 Nennungen). BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Pflichtfeld blockiert zusätzlich das Speichern (1 Nennung).
 
 - [7] *„Wie kann ich andere Unterstützer eintragen?"*
 - [8] *„Dabei kann ich allerdings nur zwischen Vater und Mutter auswählen. Das ist absolut unzureichend. Wenn Eltern nicht helfen können, braucht es das BFZ, die Ergotherapie, die Logopädie …"*
