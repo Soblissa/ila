@@ -1,6 +1,6 @@
-# Pilotauswertung ILA — Gesamtbericht
+# Pilotauswertung ILA - Gesamtbericht
 *Erstellt: 2026-04-10 | Zuletzt aktualisiert: 2026-04-11 | Analysiert von: Cheko (ILA-Hauptagent)*
-*Pilotlaufzeit: 30.01.2026 – 31.03.2026 (60 Tage)*
+*Pilotlaufzeit: 30.01.2026 - 31.03.2026 (60 Tage)*
 
 ---
 
@@ -25,9 +25,9 @@ Drei Erkenntnisquellen:
 #### 1.1 Nutzung & Reichweite
 
 - **133 eindeutige Nutzer** (anonymisiert, Formelartefakte bereinigt)
-- Pilotlaufzeit: **60 Tage** (30.01.–31.03.2026)
-- Stärkster Wochentag: **Montag** (mehr als doppelt so viele Ereignisse wie Di–Fr)
-- Nutzungspeak: **KW 11/2026** (~20.000 Ereignisse) — externer Auslöser wahrscheinlich
+- Pilotlaufzeit: **60 Tage** (30.01.-31.03.2026)
+- Stärkster Wochentag: **Montag** (mehr als doppelt so viele Ereignisse wie Di-Fr)
+- Nutzungspeak: **KW 11/2026** (~20.000 Ereignisse) - externer Auslöser wahrscheinlich
 - 9 Tage ohne jede Aktivität (überwiegend Wochenenden und Ferientage)
 
 #### 1.2 Rückkehrverhalten
@@ -46,19 +46,19 @@ Drei Erkenntnisquellen:
 
 #### 1.3 Sitzungsdauer pro Aktivitätstag
 
-*Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag — 230 Nutzer-Tage gesamt.*
+*Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag - 230 Nutzer-Tage gesamt.*
 
 | Dauer | Sitzungen | Anteil |
 |---|---|---|
 | < 1 Minute | 40 | 17,4% |
-| 1–10 Minuten | 91 | 39,6% |
-| 10–30 Minuten | 62 | 27,0% |
-| 30–60 Minuten | 13 | 5,7% |
-| 1–2 Stunden | 14 | 6,1% |
+| 1-10 Minuten | 91 | 39,6% |
+| 10-30 Minuten | 62 | 27,0% |
+| 30-60 Minuten | 13 | 5,7% |
+| 1-2 Stunden | 14 | 6,1% |
 | > 2 Stunden | 10 | 4,3% |
 
 - **Median: 7 Minuten** | Ø 25 Minuten (durch wenige intensive Nutzer verzerrt)
-- **57% aller Sitzungen unter 10 Minuten** — kurzes Reinschauen dominiert
+- **57% aller Sitzungen unter 10 Minuten** - kurzes Reinschauen dominiert
 - Nur 24 Sitzungen (10,4%) über eine Stunde
 
 #### 1.4 Förderungen
@@ -87,15 +87,15 @@ Drei Erkenntnisquellen:
 
 | Jahrgang | Einträge | Eindeutige Nutzer | Anteil aller Nutzer |
 |---|---|---|---|
-| Vorklasse (Jg. 0) | **4.526** — meistgenutzter Jahrgang | 17 | 12,7% |
+| Vorklasse (Jg. 0) | **4.526** - meistgenutzter Jahrgang | 17 | 12,7% |
 | Jahrgang 1 | 3.934 | 51 | 38,1% |
 | Jahrgang 2 | 2.191 | 44 | 32,8% |
 | Jahrgang 3 | 2.030 | 36 | 26,9% |
 | Jahrgang 4 | 2.600 | 29 | 21,6% |
 
-*Ein Nutzer kann mehrere Jahrgänge bedient haben — Prozentwerte addieren sich auf mehr als 100%.*
+*Ein Nutzer kann mehrere Jahrgänge bedient haben - Prozentwerte addieren sich auf mehr als 100%.*
 
-**Befund:** Nur 17 Nutzer (12,7%) haben die Vorklasse bedient — aber sie haben 4.526 Einträge produziert, mehr als jeder andere Jahrgang. Überproportional aktiv, und gleichzeitig am schlechtesten unterstützt.
+**Befund:** Nur 17 Nutzer (12,7%) haben die Vorklasse bedient - aber sie haben 4.526 Einträge produziert, mehr als jeder andere Jahrgang. Überproportional aktiv, und gleichzeitig am schlechtesten unterstützt.
 
 #### 1.7 Maßnahmen
 
@@ -118,7 +118,7 @@ Drei Erkenntnisquellen:
 |---|---|---|
 | Rechnen | 2 | "BFZ Anja" |
 | Rechnen | 3 | "Eine Abbildung hilft Havin sich in die Aufgabe hineinzudenken." |
-| Rechnen | 3 | "Tagesform wichtig — in frühen Stunden Ergebnisse besser." |
+| Rechnen | 3 | "Tagesform wichtig - in frühen Stunden Ergebnisse besser." |
 | Lesen | 1 | "erledigt" |
 | Rechtschreiben | 1 | "Bekannte, lautgetreue Wörter werden geübt (Zebraheft, Wörter der Woche)" |
 | Rechnen | 1 | "Übungen dazu auch zu Hause" |
@@ -141,14 +141,14 @@ Drei Erkenntnisquellen:
 - 974 Einträge, **235 eindeutige Texte**
 - **140 mehrfach verwendet** (von verschiedenen Lehrkräften unabhängig ähnlich formuliert)
 - **95 einmalig verwendet** (individuell, schülerspezifisch)
-- Häufigster Text: *"Förderheft/Fördermaterial"* (36x) — Verlegenheitsantwort wenn Katalog nichts Passendes bietet
+- Häufigster Text: *"Förderheft/Fördermaterial"* (36x) - Verlegenheitsantwort wenn Katalog nichts Passendes bietet
 - Vollständige Liste: `pilot-ergebnisse/Eigene_Massnahmen_235_eindeutig.md`
 
-**Befund:** 140 von 235 Texten tauchen mehrfach auf — geteilter Bedarf, der im Katalog nicht abgedeckt ist. Goldschatz für Katalog-Weiterentwicklung.
+**Befund:** 140 von 235 Texten tauchen mehrfach auf - geteilter Bedarf, der im Katalog nicht abgedeckt ist. Goldschatz für Katalog-Weiterentwicklung.
 
 **Vollständige Liste der 235 eindeutigen eigenen Maßnahmen:**
 
-**Mehrfach verwendete Maßnahmen (140)** — sortiert nach Häufigkeit:
+**Mehrfach verwendete Maßnahmen (140)** - sortiert nach Häufigkeit:
 
 - **[36x]** Förderheft/Fördermaterial
 - **[26x]** Plan für Strukturierung des Arbeitens (was packe ich zuerst ein/aus)
@@ -190,7 +190,7 @@ Drei Erkenntnisquellen:
 - **[7x]** Abiha übt täglich die Anwendung der Rechtschreibstrategien mithilfe des Satzes der Woche.
 - **[7x]** Abiha nimmt am Förderunterricht Deutsch teil.
 - **[7x]** Abiha kann die wichtigen Aussagen eines Textes mithilfe von Fragen beantworten.
-- **[7x]** Häufiges schriftliches Modellieren und begleitendes lautes Denken. Dabei Nutzung kleiner Erfolgskontrollen „Kann ich mein Wort selbst noch lesen?"
+- **[7x]** Häufiges schriftliches Modellieren und begleitendes lautes Denken. Dabei Nutzung kleiner Erfolgskontrollen "Kann ich mein Wort selbst noch lesen?"
 - **[7x]** Begleitete regelmäßige Schreibübungen
 - **[7x]** Fynn lässt Geschriebenes von seinen Eltern oder der Lehrkraft überprüfen und verbessert unleserliche Wörter und Buchstaben.
 - **[7x]** Fynn nimmt am LRS Kurs der Schule teil.
@@ -291,7 +291,7 @@ Drei Erkenntnisquellen:
 - **[2x]** Alicia nutzt Anschauungsmaterialien zur Lösung von Aufgabenstellungen.
 - **[2x]** Alicia arbeitet in einem zusätzlichen Heft zur Festigung des Zahlenraums bis 100.
 
-**Einmalig verwendete Maßnahmen (95)** — alphabetisch:
+**Einmalig verwendete Maßnahmen (95)** - alphabetisch:
 
 - Abigail-Lee addiert mit Hilfe des Rechenrahmens.
 - Alessio Fabio nimmt am LRS Kurs der Schule teil.
@@ -386,7 +386,7 @@ Drei Erkenntnisquellen:
 - nutzt Antolin zu Hause.
 - wiederholt die eingeführten Rechenverfahren in ihrem eigenen Tempo.
 
-*Hinweis: Einige Einträge enthalten Testdaten ("XY", "hallo") — im Originaldatensatz enthalten, nicht bereinigt.*
+*Hinweis: Einige Einträge enthalten Testdaten ("XY", "hallo") - im Originaldatensatz enthalten, nicht bereinigt.*
 
 #### 1.8 Anlässe
 
@@ -424,8 +424,8 @@ Drei Erkenntnisquellen:
 
 - **145 von 176 FPs (82%) in der gleichen Sitzung** (< 1 Stunde nach Förderungsanlage)
 - **151 von 176 FPs (86%) innerhalb eines Tages**
-- 10 FPs nach 1–7 Tagen, 15 FPs nach mehr als 7 Tagen
-- Median: 0 Tage — FP entsteht typischerweise direkt im Anschluss
+- 10 FPs nach 1-7 Tagen, 15 FPs nach mehr als 7 Tagen
+- Median: 0 Tage - FP entsteht typischerweise direkt im Anschluss
 
 **Nachträgliche Änderungen:**
 
@@ -437,14 +437,14 @@ Drei Erkenntnisquellen:
 - **Stärken-Feld:** 151 von 176 FPs ausgefüllt (86%)
 - **FP-eigene Maßnahme:** 123 von 176 FPs (70%)
 
-**Stärken — inhaltliche Analyse:**
+**Stärken - inhaltliche Analyse:**
 
 | Kennzahl | Wert |
 |---|---|
 | Ø Textlänge | 190 Zeichen |
 | Median Textlänge | 158 Zeichen |
 | Sehr kurz (< 50 Zeichen) | 27 Einträge |
-| Mittel (50–200 Zeichen) | 65 Einträge |
+| Mittel (50-200 Zeichen) | 65 Einträge |
 | Ausführlich (> 200 Zeichen) | 59 Einträge |
 
 | Jahrgang | FPs mit Stärken | FPs gesamt | Anteil |
@@ -455,7 +455,7 @@ Drei Erkenntnisquellen:
 | Jahrgang 3 | 29 | 35 | 83% |
 | Jahrgang 4 | 30 | 40 | 75% |
 
-Inhaltliche Muster: Sozial-emotionale Beschreibungen dominieren ("freundlich und hilfsbereit", "motiviert") — oft generisch und wenig förderrelevant. Fachliche Stärken präziser, aber seltener. Einige Lehrkräfte nutzen das Feld als Lernausgangslage-Beschreibung. Sehr kurze Einträge ("Toll", "ist nett") zeigen Pflichtbefüllung. **Das Feld braucht klarere Anleitung.**
+Inhaltliche Muster: Sozial-emotionale Beschreibungen dominieren ("freundlich und hilfsbereit", "motiviert") - oft generisch und wenig förderrelevant. Fachliche Stärken präziser, aber seltener. Einige Lehrkräfte nutzen das Feld als Lernausgangslage-Beschreibung. Sehr kurze Einträge ("Toll", "ist nett") zeigen Pflichtbefüllung. **Das Feld braucht klarere Anleitung.**
 
 **Förderpläne nach Jahrgang:**
 
@@ -467,7 +467,7 @@ Inhaltliche Muster: Sozial-emotionale Beschreibungen dominieren ("freundlich und
 | Jahrgang 3 | 35 | 19,9% |
 | Vorklasse (Jg. 0) | 4 | 2,3% |
 
-**Befund:** Die Vorklasse hat 4.526 Einträge — aber nur 4 Förderpläne (2,3%). Größter Bruch im Datensatz.
+**Befund:** Die Vorklasse hat 4.526 Einträge - aber nur 4 Förderpläne (2,3%). Größter Bruch im Datensatz.
 
 #### 1.10 Weitere Felder
 
@@ -479,19 +479,19 @@ Inhaltliche Muster: Sozial-emotionale Beschreibungen dominieren ("freundlich und
 ### Was wir nicht wissen
 
 **Warum haben 57% die App nur einmal genutzt?**
-Ob wegen technischer Probleme, Zeitmangel, Frust oder fehlendem Auftrag — die Daten sagen es nicht.
+Ob wegen technischer Probleme, Zeitmangel, Frust oder fehlendem Auftrag - die Daten sagen es nicht.
 
 **Wo genau brechen Nutzer ab?**
 9 Nutzer haben eine Förderung angelegt aber keine Maßnahme gewählt, 7 haben Maßnahmen gewählt aber nie aktiviert. Wo im Prozess der Abbruch passiert, ist nicht rekonstruierbar.
 
 **Was bedeutet der KW-11-Peak?**
-Fast dreimal mehr Ereignisse als in anderen Wochen. Externer Auslöser wahrscheinlich — unbekannt.
+Fast dreimal mehr Ereignisse als in anderen Wochen. Externer Auslöser wahrscheinlich - unbekannt.
 
 **Wie lange hat eine typische Sitzung gedauert?**
 Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in dieser Zeit konkret passiert ist (Abbruch vs. abgeschlossen), bleibt offen.
 
 **Wurden Förderpläne tatsächlich verwendet?**
-46 Nutzer haben keinen Plan erstellt. Ob die restlichen 87 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben — vollständig unbekannt.
+46 Nutzer haben keinen Plan erstellt. Ob die restlichen 87 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben - vollständig unbekannt.
 
 **Was haben die Lehrkräfte mit den eigenen Maßnahmen bezweckt?**
 974 eigene Maßnahmen geschrieben. Inhaltlich ein Goldschatz, aber nicht systematisch kategorisiert.
@@ -505,8 +505,8 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 #### 2.1 Bewertungen
 
 - **32 Feedback-Einträge** insgesamt
-- **20 mit Stern-Bewertung (1–5)** | 12 ohne Rating
-- **27 mit echtem Freitext** | 5 haben nur „keine Eingabe“ geschrieben
+- **20 mit Stern-Bewertung (1-5)** | 12 ohne Rating
+- **27 mit echtem Freitext** | 5 haben nur "keine Eingabe" geschrieben
 - **15 Einträge** haben beides (Rating + Text) | **5** nur Rating | **12** nur Text
 - **Ø Rating: 2,70 von 5** | Median: 2
 
@@ -522,45 +522,77 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 
 | Seite | Schritt | Bewertungen | Ø Rating |
 |---|---|---|---|
-| Förderplan | — | 4 | 2,00 |
+| Förderplan | - | 4 | 2,00 |
 | Förderziel hinzufügen | Schritt 2 | 3 | 3,00 |
 | Förderziel hinzufügen | Schritt 3 | 1 | 2,00 |
-| Förderakte | — | 7 | 2,86 |
-| Startseite | — | 3 | 3,00 |
-| Förderziel | — | 2 | 3,00 |
+| Förderakte | - | 7 | 2,86 |
+| Startseite | - | 3 | 3,00 |
+| Förderziel | - | 2 | 3,00 |
 | **Gesamt** | | **20** | **2,70** |
 
-#### 2.2 Themen aus den Freitexten (27 inhaltliche Einträge)
+#### 2.2 Alle 27 Freitexte
 
-**① Unterstützer-Feld zu eingeschränkt** *(mind. 7 Nennungen)*
-Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Von mehreren als „absolut unzureichend" bezeichnet.
+| # | Seite | Schritt | Rating | Freitext |
+|---|---|---|---|---|
+| 1 | Startseite | — | 4 Sterne | Wie kann ich ein Kind „wieder auf Null“ setzen? Wie kann ich eine Förderung ganz löschen? |
+| 2 | Förderziel hinzufügen | Schritt 1 | — | Die 3 Bereiche sind gut, mir fehlt der Bereich zum Lernverhalten sowie im Sozialverhalten |
+| 3 | Startseite | — | 3 Sterne | Die Maßnahmen sind zu hoch angesetzt. Beispiel Lesen: Ziel muss auf Silbenebene oder Buchstaben-Laut-Zuordnung angesetzt werden. Darstellung des Förderplans ungeeignet. Integration von Quop/HSP wäre sinnvoll. |
+| 4 | Förderziel hinzufügen | Schritt 2 | — | Mir fehlt ein Feld zur Lesegeschwindigkeit |
+| 5 | Förderziel | — | 4 Sterne | Die Auswahl der Maßnahmen ist noch ausbaufähig. Anregungen bieten vielleicht unterschiedliche eigene Maßnahmen |
+| 6 | Förderplan | — | 2 Sterne | Mir gefällt das Layout des Förderplans gar nicht. |
+| 7 | Förderplan | — | 2 Sterne | Wie kann ich andere Unterstützer eintragen? |
+| 8 | FAQ | — | — | Zurechtfinden kein Problem. Aber: Unterstützer-Auswahl nur Vater/Mutter — absolut unzureichend. BFZ, Ergotherapie, Logopädie, Nachhilfe fehlen. |
+| 9 | Förderung anlegen | Schritt 2 | — | Kennzeichnung für DaZ-Kind notwendig |
+| 10 | Förderakte | — | 2 Sterne | Ist es richtig, dass einmal eingegebene Ziele oder Maßnahmen nicht mehr korrigiert werden können? Wir finden keine Bearbeitungsmöglichkeit. |
+| 11 | Förderplan | — | 2 Sterne | Lernbereiche zu ungenau abgebildet. Maßnahmen zu eingeschränkt. Nur Eltern als Unterstützer. Keine Nachbearbeitung möglich. Grammatikfehler (s am Nachnamen). Für mich umständlicher als bisheriger Plan. |
+| 12 | Startseite | — | — | Möglichkeiten viel zu eingeschränkt. Nur eine Anlassoption möglich. Inhalte aus früheren Schuljahren fehlen. Fazit: werde ila für weitere Förderpläne nicht nutzen. (Marion Neff) |
+| 13 | Förderziel hinzufügen | Schritt 3 | 2 Sterne | Förderschwerpunkte für Kl. 1 nicht differenziert genug. Fehlen: Buchstaben erkennen, Laute unterscheiden, Silben und Vokale erkennen. |
+| 14 | Startseite | — | 2 Sterne | Namenssuche gut. Nur eine Maßnahme auswählbar — manchmal betrifft es alle Bereiche. Schullogo wäre schön. |
+| 15 | Startseite | — | — | Wo finden wir den Fragebogen? |
+| 16 | Förderziel | — | 2 Sterne | Keine Maßnahmen für Vorklasse, keine Förderziele für Arbeit- und Sozialverhalten |
+| 17 | Förderakte | — | 5 Sterne | Handhabung sehr intuitiv! Anmerkungen: Uhrzeit auf Elterndokument unnötig. Feld „Ausgangssituation“ zusätzlich zu Stärken sinnvoll. Anlässe fehlen (LRS, Autismus, AD(H)S, chron. Erkrankung). Unterstützende sollten auch Lehrkräfte sein können. Schullogo und „Sonstige Vereinbarungen“ erwünscht. (Claudia Gernand) |
+| 18 | Förderplan | — | 2 Sterne | Nicht aussagekräftig genug. Kind hat viel mehr Probleme. |
+| 19 | Förderakte | — | 2 Sterne | Wie kann ich den Förderplan ausdrucken? |
+| 20 | Förderung anlegen | Schritt 1 | — | Eine Schülerin aus meiner Klasse wird nicht angezeigt. |
+| 21 | Förderziel | — | — | Maßnahme ohne Unterstützer nicht speicherbar — Pflichtfeld blockiert. Workaround: anklicken, dann löschen. |
+| 22 | Förderziel | — | — | Maßnahme löschen funktioniert nicht. |
+| 23 | Förderakte | — | 2 Sterne | Ich hätte gerne die BFZ-Kraft als Unterstützerin eingefügt |
+| 24 | Förderakte | — | 3 Sterne | Bisher stehen immer nur drei Maßnahmen zur Auswahl. Mehr wären wünschenswert |
+| 25 | Förderziel | — | — | Bei der Operation im Zahlenraum bis 100 gab es keine passende Förderung |
+| 26 | Förderakte | — | — | Es fehlt aus meiner Sicht Lesetempo/flüssiges Lesen |
+| 27 | Förderplan | — | — | Förderpläne sind leicht zu erstellen, informativ und kurz |
 
-**② Maßnahmen zu unkonkret, zu wenig, falsche Ebene** *(mind. 8 Nennungen)*
-Maßnahmen wirken wie Ziele, nicht wie konkrete Handlungsschritte. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit- und Sozialverhalten, LRS, DaZ.
+#### 2.3 Thematische Zusammenfassung
 
-**③ Keine Bearbeitungsmöglichkeit nach dem Speichern** *(mind. 4 Nennungen)*
-Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar. Für den Schulalltag nicht praxistauglich.
+**① Unterstützer-Feld zu eingeschränkt** *(Einträge: 7, 8, 11, 17, 23)*
+Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Pflichtfeld blockiert zusätzlich das Speichern.
 
-**④ Fehlende Förderbereiche** *(mehrfach)*
-Lernverhalten, Sozialverhalten, Arbeit-und-Sozial, DaZ, Vorklasse komplett fehlend.
+**② Maßnahmen zu unkonkret, lückenhaft, falsche Ebene** *(Einträge: 3, 4, 5, 13, 16, 24, 25, 26)*
+Maßnahmen wirken wie Ziele. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit-/Sozialverhalten, LRS, DaZ. Nur 3 Maßnahmen zur Auswahl.
 
-**⑤ Bedienbarkeit OK, Inhalt nicht** *(mehrfach)*
-Navigation wird als intuitiv beschrieben — das einzige durchgängig Positive. Fachlicher Inhalt enttäuscht.
+**③ Keine Bearbeitungsmöglichkeit nach Speichern** *(Einträge: 10, 11, 22)*
+Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar.
 
-**Weitere Einzelpunkte:** Förderplan-Layout unbeliebt, kein sichtbarer Druckbutton, Schüler nicht angezeigt, Grammatikfehler (Genuskongruenz bei Schülerinamen), Schullogo gewünscht, Uhrzeit auf Elterndokument unnötig, Anlassoptionen zu eingeschränkt (fehlt: LRS, AD(H)S, Autismus, chronische Erkrankung).
+**④ Fehlende Förderbereiche und Anlässe** *(Einträge: 2, 16, 17)*
+Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erkrankung fehlend.
+
+**⑤ Bedienbarkeit OK, Inhalt nicht** *(Einträge: 12, 17)*
+Navigation intuitiv — einziger durchgehender Pluspunkt. Fachlicher Inhalt enttäuscht.
+
+**Weitere Einzelpunkte:** Förderplan-Layout (6, 11, 18), kein Druckbutton (19), Schüler nicht angezeigt (20), Grammatikfehler Nachnamen (11), Schullogo (14, 17), Uhrzeit auf Elterndokument (17), Feld „Sonstige Vereinbarungen“ (17), Basisinhalte früherer Schuljahre fehlen (12), DaZ-Kennzeichnung (9), Fragebogen nicht gefunden (15).
 
 ---
 
 ### Was wir nicht wissen
 
 **Wer hat bewertet?**
-Keine Verknüpfung zwischen Feedback-Einträgen und Anonymus-Nummern aus Sheet 1. Ob die Kritischsten auch die Aktivsten waren — unbekannt.
+Keine Verknüpfung zwischen Feedback-Einträgen und Anonymus-Nummern aus Sheet 1. Ob die Kritischsten auch die Aktivsten waren - unbekannt.
 
 **Was haben die "Null-Sterne" gemeint?**
 Das System unterscheidet nicht zwischen "keine Bewertung" und "bewusst schlechteste Note". 12 Einträge nicht eindeutig interpretierbar.
 
 **Worauf beziehen sich die Bewertungen genau?**
-Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Unterscheidung ob die Note die Bedienbarkeit, den Inhalt, eine konkrete Funktion oder das allgemeine Erlebnis bewertet. Bewertungen wie 2 Sterne auf der Startseite können viele verschiedene Gründe haben — der Freitext hilft, erklärt aber nicht immer.
+Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Unterscheidung ob die Note die Bedienbarkeit, den Inhalt, eine konkrete Funktion oder das allgemeine Erlebnis bewertet. Bewertungen wie 2 Sterne auf der Startseite können viele verschiedene Gründe haben - der Freitext hilft, erklärt aber nicht immer.
 
 **Was denken die anderen 101 Nutzer?**
 133 Nutzer im System, 32 Feedback-Einträge. Über 100 Nutzer haben sich gar nicht gemeldet.
@@ -576,34 +608,34 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 - **19 Fragebögen** abgeschlossen
 - Rollen: 10 Lehrkräfte, 4 Schulleitungsmitglieder, 2 Schulverwaltung, 3 ohne Angabe
 - Schulämter: Offenbach (4), Marburg (3), Bad Vilbel (3), Frankfurt, Wiesbaden, Gießen, Kassel, Darmstadt (je 1), 4 ohne Angabe
-- **Ø Antwortquote: 62%** — nur 1 vollständig ausgefüllt (100%), 6 unter 50%
-- Ø Ausfülldauer: **5,3 Minuten (Median)** — Ausreißer ID 17 (6,5h, offen gelassen) bereinigt
+- **Ø Antwortquote: 62%** - nur 1 vollständig ausgefüllt (100%), 6 unter 50%
+- Ø Ausfülldauer: **5,3 Minuten (Median)** - Ausreißer ID 17 (6,5h, offen gelassen) bereinigt
 
 | ID | Quote | Rolle | Schule |
 |---|---|---|---|
-| 6 | 10% | (keine Angabe) | — |
+| 6 | 10% | (keine Angabe) | - |
 | 10 | 90% | Lehrkraft | Das ganze Leben ist Schule |
 | 12 | 40% | Lehrkraft | (Testdaten: lorem ipsum) |
-| 16 | 10% | (keine Angabe) | — |
+| 16 | 10% | (keine Angabe) | - |
 | 17 | 90% | Schulverwaltung | Baumschule |
-| 18 | 10% | (keine Angabe) | — |
-| 21 | 30% | Lehrkraft | — |
-| 22 | 20% | Schulverwaltung | — |
+| 18 | 10% | (keine Angabe) | - |
+| 21 | 30% | Lehrkraft | - |
+| 22 | 20% | Schulverwaltung | - |
 | 25 | 70% | Lehrkraft | Ludwig-Weber-Schule |
 | 26 | **100%** | Lehrkraft | Ernst-Reuter-Schule |
 | 27 | 80% | Schulleitung | Eichbaumschule |
 | 28 | 90% | Schulleitung | Geschwister-Scholl-Schule Mühlheim |
 | 29 | 90% | Lehrkraft | Gustav-Stresemann-Schule |
 | 30 | 80% | Lehrkraft | Geschwister-Scholl-Schule Mühlheim |
-| 31 | 60% | Lehrkraft | — |
+| 31 | 60% | Lehrkraft | - |
 | 33 | 70% | Lehrkraft | Limesschule Pohlheim |
 | 34 | 70% | Schulleitung | Eichbaumschule Vonhausen |
 | 35 | 80% | Lehrkraft | Geschwister Scholl Schule Mühlheim |
 | 36 | 90% | Schulleitung | Baunsbergschule |
 
-*IDs 6, 16, 18: 10% Quote, keine Angaben — kaum auswertbar. ID 12: Testdaten.*
+*IDs 6, 16, 18: 10% Quote, keine Angaben - kaum auswertbar. ID 12: Testdaten.*
 
-#### 3.2 Frage 4: Bedienbarkeit & Nützlichkeit (Skala 1–4, n=13)
+#### 3.2 Frage 4: Bedienbarkeit & Nützlichkeit (Skala 1-4, n=13)
 
 | Aussage | Ø gesamt | Ø Lehrkräfte | Ø Schulltg. | Verteilung |
 |---|---|---|---|---|
@@ -613,7 +645,7 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 | Arbeit erleichtert | **3,00** | 2,62 | 3,60 | 5x absolut, 3x überwiegend, 5x eher nicht |
 | Sinnvoll für Förderarbeit einsetzbar | **2,92** | 2,75 | 3,20 | 3x absolut, 6x überwiegend, 4x eher nicht |
 
-**Befunde:** Technik klar positiv. Fachlicher Nutzen gespalten. Schulleitung bewertet durchgängig besser als Lehrkräfte — bei "Arbeit erleichtert" fast ein Punkt Differenz (3,60 vs. 2,62).
+**Befunde:** Technik klar positiv. Fachlicher Nutzen gespalten. Schulleitung bewertet durchgängig besser als Lehrkräfte - bei "Arbeit erleichtert" fast ein Punkt Differenz (3,60 vs. 2,62).
 
 #### 3.3 Frage 5: Persönliche Erfahrungen (Freitext)
 
@@ -621,13 +653,13 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 |---|---|---|
 | 10 | Lehrkraft | "Gut aber nicht gut genug" |
 | 26 | Lehrkraft | BFZ als Unterstützer fehlt; Förderstunden/Einzelförderungen nicht eingebbar |
-| 27 | Schulleitung | Flexible Eingangsstufe nicht erfasst — Kinder fehlen im System |
+| 27 | Schulleitung | Flexible Eingangsstufe nicht erfasst - Kinder fehlen im System |
 | 28 | Schulleitung | Arbeits-/Sozialverhalten fehlt; Kolleginnen nutzen bisherige Formulare weiter |
-| 29 | Lehrkraft | Förderplan gut anzulegen — Maßnahmen scheitern an fehlendem Material |
+| 29 | Lehrkraft | Förderplan gut anzulegen - Maßnahmen scheitern an fehlendem Material |
 | 35 | Lehrkraft | Förderschullehrkräfte und Sozialarbeiter als Unterstützer fehlen |
 | 36 | Schulleitung | Wunsch nach Stepper-Navigation |
 
-#### 3.4 Frage 6: Gewünschte Funktionen (Skala 1–4)
+#### 3.4 Frage 6: Gewünschte Funktionen (Skala 1-4)
 
 | Aussage | Ø | n | Verteilung |
 |---|---|---|---|
@@ -637,7 +669,7 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 | Kompetenzen für Lernausgangslage ausreichend | **3,23** | 13 | 5x absolut, 6x überwiegend, 2x eher nicht |
 | Immer vordefinierter Anlass verwendet | **2,64** | 11 | 1x absolut, 6x überwiegend, 3x eher nicht, 1x absolut nicht |
 
-#### 3.5 Frage 7: Fachpraxis & App-Bewertung (Skala 1–4)
+#### 3.5 Frage 7: Fachpraxis & App-Bewertung (Skala 1-4)
 
 | Aussage | Ø | n | Verteilung |
 |---|---|---|---|
@@ -671,7 +703,7 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 
 #### 3.8 Freiwillige Weiterarbeit (Frage 10)
 
-**Olivia Scozzari-Dingel** (Ernst-Reuter-Schule, olivia.scozzari-dingel@schule.hessen.de) — Interesse für emotional-sozialen Bereich
+**Olivia Scozzari-Dingel** (Ernst-Reuter-Schule, olivia.scozzari-dingel@schule.hessen.de) - Interesse für emotional-sozialen Bereich
 
 ---
 
@@ -681,7 +713,7 @@ Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Untersc
 Ø Antwortquote 62%, nur 1 vollständig ausgefüllt. Die kritischsten oder passivsten Nutzer könnten systematisch fehlen.
 
 **Warum haben so viele den Fragebogen abgebrochen?**
-IDs 6, 16, 18 mit 10% Quote, keine Angaben. Ob Desinteresse, technische Probleme oder Zeit — unbekannt.
+IDs 6, 16, 18 mit 10% Quote, keine Angaben. Ob Desinteresse, technische Probleme oder Zeit - unbekannt.
 
 **Unterscheiden sich Lehrkräfte und Schulleitung wirklich inhaltlich?**
 Der Datensatz (n=13 auswertbar) ist zu klein für statistisch belastbare Aussagen über Rollenunterschiede.
@@ -690,47 +722,47 @@ Der Datensatz (n=13 auswertbar) ist zu klein für statistisch belastbare Aussage
 
 ## Kapitel 4: Gesamtresümee
 
-### Was funktioniert — beibehalten
+### Was funktioniert - beibehalten
 
-- **Technische Stabilität:** Ø 3,85 von 4 im Fragebogen — kein einziges negatives Votum
+- **Technische Stabilität:** Ø 3,85 von 4 im Fragebogen - kein einziges negatives Votum
 - **Bedienbarkeit/Navigation:** intuitiv, von vielen explizit gelobt
-- **Namenssuche:** "bereits nach den ersten Buchstaben alle Daten verfügbar" — Lob, beibehalten
-- **Stärken-Feld:** 86% der Förderpläne ausgefüllt — gut in Workflow integriert
-- **FP-Erstellung in einer Sitzung:** 82% erstellen FP direkt nach Förderungsanlage — Workflow funktioniert
+- **Namenssuche:** "bereits nach den ersten Buchstaben alle Daten verfügbar" - Lob, beibehalten
+- **Stärken-Feld:** 86% der Förderpläne ausgefüllt - gut in Workflow integriert
+- **FP-Erstellung in einer Sitzung:** 82% erstellen FP direkt nach Förderungsanlage - Workflow funktioniert
 
-### Was nicht funktioniert — muss behoben werden
+### Was nicht funktioniert - muss behoben werden
 
-**① Unterstützer-Feld** *(höchste Dringlichkeit)*
-Nur Vater/Mutter. Realität: BFZ, Förderschullehrkräfte, Ergotherapie, Logopädie, Sozialarbeiter, außerschulische Institutionen — alles fehlt. Mindestens Freitextoption oder erweiterbare Liste.
+**1 Unterstützer-Feld** *(höchste Dringlichkeit)*
+Nur Vater/Mutter. Realität: BFZ, Förderschullehrkräfte, Ergotherapie, Logopädie, Sozialarbeiter, außerschulische Institutionen - alles fehlt. Mindestens Freitextoption oder erweiterbare Liste.
 
-**② Maßnahmen zu abstrakt, lückenhaft, falsche Ebene** *(höchste Dringlichkeit)*
+**2 Maßnahmen zu abstrakt, lückenhaft, falsche Ebene** *(höchste Dringlichkeit)*
 Maßnahmen wirken wie Ziele. Fehlende Bereiche: Vorklasse, Klasse 1 (Buchstaben-Laut-Ebene), Lesegeschwindigkeit, Arbeits-/Sozialverhalten, LRS, DaZ, Sachunterricht. Die 235 eigenen Maßnahmen sind Vorlage für fehlende Katalogeinträge.
 
-**③ Keine Bearbeitungsmöglichkeit nach Speichern** *(höchste Dringlichkeit)*
+**3 Keine Bearbeitungsmöglichkeit nach Speichern** *(höchste Dringlichkeit)*
 Showstopper für den Schulalltag. Lehrkräfte nutzen Notizfeld als Hilferuf ("möchte gelöscht werden, funktioniert aber nicht").
 
-**④ Anlassliste zu einschränkend**
+**4 Anlassliste zu einschränkend**
 Fehlend: LRS, AD(H)S, Autismus, chronische Erkrankung, DaZ. Vordefinierter Anlass wird nicht immer genutzt (Fragebogen: Ø 2,64 von 4).
 
-**⑤ Fehlende Förderbereiche**
+**5 Fehlende Förderbereiche**
 Lernverhalten, Sozialverhalten, Vorklasse nicht abgebildet.
 
-**⑥ Förderplan-Layout und Druckfunktion**
+**6 Förderplan-Layout und Druckfunktion**
 Schlechteste Bewertung im Feedback (Ø 2,00). Kein sichtbarer Druckbutton. Uhrzeit auf Elterndokument unnötig.
 
-**⑦ Stärken-Feld ohne Anleitung**
+**7 Stärken-Feld ohne Anleitung**
 Wird für drei verschiedene Dinge genutzt: echte Stärken, Lernausgangslage, soziale Beschreibungen. Braucht klarere Strukturierung.
 
 ### Wünsche für Ausbaustufe 2 (priorisiert)
 
-1. **Diskussionsfunktion** — Austausch mit Kollegium (9 von 19 auf Rang 1)
+1. **Diskussionsfunktion** - Austausch mit Kollegium (9 von 19 auf Rang 1)
 2. **Maßnahmen anderer Lehrkräfte** einsehen (Ø 3,46 von 4)
 3. **Schuleigene Förderkurse** als Maßnahme (Ø 3,45 von 4, 8 von 11 absolut)
 4. **DaZ-Kinder anzeigen** (Ø 3,55 von 4)
-5. **Hilfestellungen integriert** — Kontext-Hilfe in der App (5x Rang 1)
+5. **Hilfestellungen integriert** - Kontext-Hilfe in der App (5x Rang 1)
 6. **Außerschulische Institutionen** als Unterstützer oder Maßnahme
-7. **Materialzugänge verlinken** — Maßnahmen ohne Material sind schwer umsetzbar
-8. **Stepper-Navigation** — einzelne Seiten direkt anwählbar
+7. **Materialzugänge verlinken** - Maßnahmen ohne Material sind schwer umsetzbar
+8. **Stepper-Navigation** - einzelne Seiten direkt anwählbar
 9. Schullogo, Sonstige Vereinbarungen, Schüler "auf Null setzen"
 
 ### Größter blinder Fleck
@@ -739,4 +771,4 @@ Wir wissen was in der App passiert ist. Wir wissen nicht ob die Förderpläne ge
 
 ### Fazit in einem Satz
 
-Die App ist **bedienbar, aber fachlich nicht reif** — wer die drei zentralen Probleme (Unterstützer, Maßnahmen, Bearbeitbarkeit) nicht löst, wird in einem nächsten Pilot keine besseren Ergebnisse sehen.
+Die App ist **bedienbar, aber fachlich nicht reif** - wer die drei zentralen Probleme (Unterstützer, Maßnahmen, Bearbeitbarkeit) nicht löst, wird in einem nächsten Pilot keine besseren Ergebnisse sehen.
