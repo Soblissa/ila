@@ -106,9 +106,249 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **95 einmalig verwendet** — wirklich individuelle, schülerspezifische Maßnahmen
 - Häufigster Eigentext: *"Förderheft/Fördermaterial"* (36x) — sehr allgemein, vermutlich eine Ausweichantwort wenn der Katalog nichts Passendes bot
 - Die konkreteren eigenen Maßnahmen sind methodisch präzise und schülerbezogen (z.B. *"übt täglich 10 Minuten Silbenteppiche"*, *"arbeitet mit Meister Cody Talasia"*, *"nutzt Anschauungsmaterial für Rechenoperationen"*)
-- **Vollständige Liste der 235 eindeutigen Maßnahmen:** `pilot-ergebnisse/Eigene_Massnahmen_235_eindeutig.md`
-
 **Befund:** Die eigenen Maßnahmen sind ein Goldschatz für die Katalog-Weiterentwicklung. Dass 140 von 235 Texten mehrfach auftauchen, zeigt: Es gibt einen geteilten Bedarf, der im Katalog noch nicht abgedeckt ist.
+
+#### Vollständige Liste der 235 eindeutigen eigenen Maßnahmen
+
+**Mehrfach verwendete Maßnahmen (140)** — sortiert nach Häufigkeit:
+
+- **[36x]** Förderheft/Fördermaterial
+- **[26x]** Plan für Strukturierung des Arbeitens (was packe ich zuerst ein/aus)
+- **[24x]** bearbeitet im Unterricht reduzierte Aufgaben.
+- **[24x]** arbeitet regelmäßig mit dem Programm "Meister Cody Talasia"
+- **[16x]** Arbeit mit Rechtschreibkarteien und Lernsoftware (Anton App).
+- **[15x]** arbeitet in der Schule regelmäßig am Budenberg-Programm.
+- **[15x]** arbeitet regelmäßig mit dem Programm "Meister Cody Namagi"
+- **[13x]** Kurze Sätze zu Bildern formulieren.
+- **[13x]** Wortschatzerweiterung
+- **[12x]** Lautgebärden nutzen
+- **[12x]** Vorstrukturiertes Lesematerial
+- **[12x]** arbeitet in der Einzelförderung mit der Förderschullehrkraft
+- **[12x]** schreibt regelmäßig Lernwörter und kurze Sätze.
+- **[12x]** sammelt Aufkleber in einem Motivationsheft nach einer erledigten Aufgabe (Verstärkerplan).
+- **[12x]** nutzt bei Bedarf zur Motivation und Zeittranzparenz eine Sanduhr.
+- **[12x]** Louis übt Additions- und Subtraktionsaufgaben (Kopfrechnen).
+- **[12x]** bearbeitet die Aufgaben des Flex und Flo Lehrgangs (Zahlenraum 20).
+- **[11x]** Amadeus beantwortet bei Anton Quizze zu gelesenen Texten.
+- **[10x]** Johanna bearbeitet im Austausch mit einem Partnerkind Sachaufgaben zu Bildern.
+- **[10x]** Johanna bearbeitet Aufgabenformate zum Thema mit Partnerkind (Austausch)
+- **[10x]** Rechnen mit Anschauungsmaterial (Steckwürfel, Matinko)
+- **[10x]** Feniks arbeitet mit einer Sanduhr an seinem Platz. Bei Bedarf wechselt Feniks zum Arbeiten in ein Lernbüro oder darf sich Lärmschutz-Kopfhörer nehmen
+- **[10x]** Sara bearbeitet zusätzliche Aufgabenstellungen.
+- **[10x]** Sara nutzt aufbauend die Zahlzerlegung der 10 und erweitert diese im Zahlenraum bis 20.
+- **[10x]** Sara nutzt den Rechenrahmen als Anschauungsmaterial.
+- **[10x]** Sara anhand der Unterscheidung von Wortarten, Wörter groß- oder klein schreiben.
+- **[9x]** Zuhause auswendig lernen der Einmaleins Reihen
+- **[9x]** Übt Rechnungen mit Zehnerübergang
+- **[9x]** Tägliches lautes Lesen zu Hause.
+- **[9x]** Gemeinsames Formulieren einfacher Sätze und Satzbauübungen.
+- **[9x]** Regelmäßiges Üben mit Schreibhilfen (Lineatur, Schreibraster).
+- **[8x]** regelmäßiges Arbeiten im Rechtschreiben-Heft
+- **[8x]** Angelina trainiert Kopfrechnen in alltäglichen Situationen (beim Autofahren, Einkaufen, etc.)
+- **[7x]** Jana bearbeitet gelesene Bücher und Texte auf Antolin.
+- **[7x]** Jana übt täglich mindestens 10 Minuten das laute Vorlesen (und sammelt dabei Perlen für die Leseraupe mit ihrem Leseausweis).
+- **[7x]** Jana übt mit der ANTON-App.
+- **[7x]** Jana übt die Übungswörter (auch mit Hilfe der ANTON-App).
+- **[7x]** Abiha übt täglich die Anwendung der Rechtschreibstrategien mithilfe des Satzes der Woche.
+- **[7x]** Abiha nimmt am Förderunterricht Deutsch teil.
+- **[7x]** Abiha kann die wichtigen Aussagen eines Textes mithilfe von Fragen beantworten.
+- **[7x]** Häufiges schriftliches Modellieren und begleitendes lautes Denken. Dabei Nutzung kleiner Erfolgskontrollen „Kann ich mein Wort selbst noch lesen?“
+- **[7x]** Begleitete regelmäßige Schreibübungen
+- **[7x]** Fynn lässt Geschriebenes von seinen Eltern oder der Lehrkraft überprüfen und verbessert unleserliche Wörter und Buchstaben.
+- **[7x]** Fynn nimmt am LRS Kurs der Schule teil.
+- **[7x]** Regelmäßiges, tägliches Lesen
+- **[7x]** Wortschatzarbeit im DaZ-Förderunterricht
+- **[7x]** Vertiefung von Inhalten des Deutschunterrichts in der Förderstunde
+- **[7x]** Leseverständnisaufgaben im Förderunterricht
+- **[6x]** Comfort liest täglich in der Lesezeit einfache Wörter.
+- **[6x]** Comfort kann neben den Anlauten eines Wortes und einer Silbe auch die Vokale einer Silbe schreiben.
+- **[6x]** Comfort beteiligt sich im täglichen Morgenkreis bei der Frage zum aktuellen, vergangenen und folgenden Tag.
+- **[6x]** Max erhält Unterrichtsmaterialien zur Visualisierung
+- **[6x]** Max wird durch individuelle Beratung innerhalb der Lernzeit unterstützt
+- **[6x]** Titus orientiert sich am Tagesplan.
+- **[6x]** Bei Konfliktsituationen benötigt er die Begleitung des Klassenteams, um Probleme sprachlich zu lösen.
+- **[6x]** Yael bearbeitet täglich die Leseaufgabe in ihrem Übungsheft.
+- **[6x]** Yael schreibt täglich 5 Wörter in ihrem Übungsheft.
+- **[6x]** Yael bearbeitet täglich eine Aufgabe in ihrem Übungsheft.
+- **[6x]** Yael bearbeitet täglich ein Rechenpäckchen in ihrem Übungsheft.
+- **[6x]** Yael bearbeitet täglich ein Zerlegungshaus in ihrem Übungsheft.
+- **[6x]** Teilnahme an der Deutsch-Förderstunde
+- **[5x]** Noelia kann sicher Zahlen in die Stellenwerttafel eintragen und Stellenwerte benennen.
+- **[5x]** Nedzhat kann mit vorgegebenen Wortbausteinen (flexibel) eigene deutsche Sätze bilden.
+- **[5x]** Luiz übt Kopfrechnen im Zahlenraum bis 1000.
+- **[5x]** Luiz kann Nachbarzahlen bestimmen.
+- **[5x]** Luiz kann Zahlen der Größe nach ordnen.
+- **[5x]** Luiz trägt Zahlen in der Stellenwerttafel ein.
+- **[5x]** Ian automatisiert das Lesen von den häufigsten Wörtern (Blitzlesen).
+- **[5x]** Ian liest mehrfach kurze Sätze, bis er diese problemlos lesen kann.
+- **[5x]** Ian liest kurze Texte und beantwortet 2-3 Fragen dazu.
+- **[5x]** Ian liest wiederholt immer einen Text, bis er diesen flüssig lesen kann.
+- **[5x]** Zhikar Karwan Talaat kann mündlich mit der Lehrerin in einen Austausch über den Textinhalt kommen.
+- **[5x]** Zhikar Karwan Talaat übt aus einem einfachen Text heraus fehlende Bildelemente zu ergänzen.
+- **[5x]** Zhikar Karwan Talaat wiederholt die verliebten Zahlen durch Anwendung von ihrer Vorlage. Sie versucht, die verliebten Zahlen immer sicherer zu beherrschen.
+- **[5x]** Da Zhikar Karwan Talaat Mengen optisch erfassen kann, benutzt sie den Rechenschieber, um sicherer in den Zerlegungen zu werden, ohne immer zählen zu müssen.
+- **[5x]** Sanah übt mit der Lernapp Anton
+- **[5x]** Taylor speichert Laute richtig ab und kann Silben erlesen.
+- **[5x]** Emylia übt täglich ihre Lernwörter.
+- **[5x]** Setayesh formuliert und verschriftlicht eigene kurze und längere Texte in sauberer Handschrift.
+- **[5x]** Setayesh erstellt unter Anleitung eine eigene Rechtschreibkartei mit einfachen Wörtern.
+- **[5x]** Regelmäßiges Lesen
+- **[5x]** Zoi übt mit dem Satz der Woche Rechtschreibstrategien
+- **[4x]** Hibo liest Texte mit Tandempartner und beantwortet Fragen zum Text.
+- **[4x]** Hibo formuliert mündlich und schreibt danach schriftlich vollständige Sätze.
+- **[4x]** Brayen übt mit dem Lies-mal-Heft, Logico, Leserätseln, Lesespuren.
+- **[4x]** Brayen übt das laute Vorlesen mit der täglichen Lesehausaufgabe im Lesebuch.
+- **[4x]** Mika Noel übt neue Lernwörter im Grundwortschatzheft, von Montag bis Freitag, jeden Tag auf eine andere Weise.
+- **[4x]** Er bildet aus vorgegebenen Silben Wörter, erliest diese und schreibt sie auf.
+- **[4x]** Thomas erzählt zu Bildern und formuliert dazu kurze Sätze.
+- **[4x]** nutzt die Zahlenfreunde-Hefte zum Üben.
+- **[4x]** Taylor liest täglich 10 Minuten Leseteppiche (Silben).
+- **[4x]** Taylor sichert Laute mithilfe von Gebärdenbilder.
+- **[4x]** Taylor übt täglich 10 Minuten Silbenteppiche zu erlesen.
+- **[4x]** Kyrylo markiert mit einem Textmarker die Kernaussagen des Textes.
+- **[3x]** Gemeinsames erarbeiten einer 3 Punkte Liste, mit deren Hilfe sich ihre schlechten Gefühle besser benennen/ kategorisieren kann.
+- **[3x]** Pustet ihre schlechten Gefühle in die Hand, um sie sich bewusst zu machen und trotzdem weiter arbeiten zu können.
+- **[3x]** Verstärkerplan für gelungene Stunden ohne Heimweh.
+- **[3x]** Ceylin schreibt eigene Wörter/ Lieblingswörter mithilfe der Schreibtabelle.
+- **[3x]** Ceylin übt das richtige Abschreiben von Wörtern und kurzen Sätzen. Sie achtet dabei auf die Lineatur.
+- **[3x]** Lennox nimmt wöchentlich am Mathematik-Förderunterricht teil.
+- **[3x]** übt regelmäßig mit Frau Hassner die einzelnen Laute.
+- **[3x]** wird an die Regeln erinnert und dann gelobt für das Warten.
+- **[3x]** Joel liest 2- bis 3-mal in der Woche. (15 Minuten leise oder 10 Minuten laut)
+- **[3x]** Joel übt 2- bis 3-mal in der Woche die GWS-Wörter mit Karteikarten oder arbeitet in seinem Delfinheft.
+- **[3x]** arbeitet in der Einzelförderung mit der Förderschullehrkraft.
+- **[3x]** schreibt Wörter und kurze Sätze in Lineatur.
+- **[3x]** Jinistan kann Fragen passend beantworten.
+- **[3x]** Besuch des Förderunterrichts DaZ
+- **[3x]** Lina gibt in eigenen Worten den Inhalt der einzelnen Sätze wieder.
+- **[3x]** Lernförderung Faultier wiederholt Themen aus Klassenstufe 2
+- **[3x]** Mariam nutzt Stellenwerttabellen zur Zahldarstellung
+- **[3x]** Lars erhält bei der Bearbeitung seiner Aufgaben, wenn möglich, eine enge Begleitung durch eine weitere Lehrkraft.
+- **[3x]** arbeitet regelmäßig im Heft 'Schreiben zu Bildern' (Delfinheft).
+- **[3x]** regelmäßiges Lesen
+- **[3x]** Etienne übt mit dem Satz der Woche
+- **[2x]** Naya wiederholt eingeführte Rechenstrategien mehrfach.
+- **[2x]** Zahlenstrahl, dort Vorgänger und Nachfolger, Nachbarzehner und Nachbarhunderter benennen können. Zahldiktate und Rechenhäuser, in denen man Zahlen zusammensetzt.
+- **[2x]** Malik übt regelmäßig das Schreiben phonologischer Wörter mit der Anlauttabelle.
+- **[2x]** Malik übt in der Lernzeit, im Lernclub und im häuslichen Umfeld mit dem Leseblatt das Lesen.
+- **[2x]** Cleo übt mit der Lernapp Anton
+- **[2x]** Helena übt die GWS-Wörter regelmäßig zu Hause, um ihre Schreibflüssigkeit zu erhöhen.
+- **[2x]** Maria festigt die gelernten Buchstaben und mit Spielen zur Schreibtabelle.
+- **[2x]** Sie schreibt lautgetreue Wörter zu Bildern und verwendet die richtigen Buchstaben,
+- **[2x]** Leny übt (auch zu Hause) das halbschriftliche Rechenverfahren für die Multiplikation sowie Division.
+- **[2x]** Leny übt regelmäßig (auch zu Hause) das kleine Einmaleins (und Zehnereinmaleins).
+- **[2x]** Regelmäßiges, intensives Üben der Lernwörter
+- **[2x]** Nutzung des Niko Wörterbuchs
+- **[2x]** Nachteilsausgleich Stufe 1-3
+- **[2x]** Dimitrios nutzt Lesehilfen für die Auseinandersetzung mit Texten.
+- **[2x]** Dimitrios nutzt Anschauungsmaterial und Rechentricks.
+- **[2x]** Ethan nutzt Lesehilfen für die Auseinandersetzung mit Texten.
+- **[2x]** Ethan nutzt Anschauungsmaterial und Rechentricks für Rechenoperationen.
+- **[2x]** Gloria nutzt die Buchstabenübersicht der VA bei Schreibaufträgen.
+- **[2x]** Gloria nutzt Anschauungsmaterial für Rechenoperationen.
+- **[2x]** Matteo nutzt Lesehilfen für die Auseinandersetzung mit Texten.
+- **[2x]** Matteo nutzt Anschauungsmaterial und Rechentricks für Rechenoperationen.
+- **[2x]** Tim nutzt die gelernten Strategien mit Hilfe der Rechtschreibvorlage.
+- **[2x]** Alicia führt die Mathekonferenzen im Zahlenraum bis 100 durch, um flexible Rechenstrategien im Zahlenraum bis 100 zu beherrschen.
+- **[2x]** Alicia nutzt Anschauungsmaterialien zur Lösung von Aufgabenstellungen.
+- **[2x]** Alicia arbeitet in einem zusätzlichen Heft zur Festigung des Zahlenraums bis 100.
+
+**Einmalig verwendete Maßnahmen (95)** — alphabetisch:
+
+- Abigail-Lee addiert mit Hilfe des Rechenrahmens.
+- Alessio Fabio nimmt am LRS Kurs der Schule teil.
+- Alessio lässt Geschriebenes von seinen Eltern oder der Lehrkraft überprüfen und verbessert unleserliche Wörter und Buchstaben.
+- Amalia entwickelt eigene Stützpunktvorstellungen im Bereich Längen.
+- Amalia nutzt die Stellenwerttafel zur Umrechnung von Längen.
+- Amelie übt weiterhin das Lesen mit einfachen Lese-Malheften und wird zusätzlich unterstützt
+- Amira löst Aufgaben mit dem Rechenrahmen. Sie versteht dabei wichtige Elemente wie Aufbau und Übergang.
+- Amira nimmt am Förderunterricht Mathe teil.
+- Antonio beantwortet Fragen zu ausgewählten Texten.
+- Arian bearbeitet regelmäßig die Antolin-Fragen von gelesenen Texten/Büchern.
+- Arian besucht wöchentlich den DaZ-Förderunterricht.
+- Arian wendet gezielt Strategien zur Groß- und Kleinschreibung an.
+- Aufbau und Erweiterung seines Wortschatzes
+- Aufgabe mit Piktogramm am Platz zeigen
+- Ayham nimmt am Förderunterricht Deutsch teil.
+- Besuch des DaZ Förderunterrichts
+- Besuch des Förderunterrichts Deutsch
+- Chadya nutzt einen Einmaleins-Fächer oder eine Einmaleins-Kartei, um die Aufgaben regelmäßig zu wiederholen und zu üben.
+- Cynthia besucht wöchentlich den Mathematik-Förderunterricht.
+- Cynthia übt das schrittweise Zählen im ZR 1000 mithilfe des Tausenderbuchs.
+- David besucht wöchentlich den DaZ-Förderunterricht.
+- David wendet die bekannten Strategien zur Groß- und Kleinschreibung von Worten an.
+- Dina sagt Stopp, wenn Sie in einem Konflikt ist.
+- Einzelförderung mit der Förderschullehrkraft
+- Elanur markiert in Rechenaufgaben Zehner und Einer.
+- Elior kehrt während einer Konfliktsituation erst einmal in sich und reflektiert über mögliche Folgen seiner möglichen Reaktionen. Er konsultiert einen Lehrer, bevor er eigenständig ein Problem klärt.
+- Emilia arbeitet mit Steckwürfeln und mit dem Abaco
+- Emilia arbeitet mit dem Zahlenstrahl.
+- Emilia bearbeitet regelmäßig Antolin-Fragen zu kurzen Texten.
+- Emilia besucht wöchentlich das Lesetraining mit der BFZ-Kraft Frau Geist.
+- Emilia übt das schrittweise Zählen im ZR 1000 mithilfe des Tausenderbuchs.
+- Emily erhält Lernplan mit Uhr zum Einstellen zu vollen, halben und viertel Stunden
+- Er bildet aus zwei Silben Wörter, erliest das Wort und schreibt es.
+- Er hat Schwierigkeiten beim Falten, Schneiden
+- Gabriel kann sich in der Kleingruppe zu den Ereignissen äußern.
+- Giulia löst Additions- und Subtraktionsaufgaben mit dem Rechenrahmen.
+- Hridoy nutzt Anschauungsmaterial und Rechentricks für Rechenoperationen.
+- Julius übt täglich 10 min mit Silbenkärtchen.
+- Juna nutzt Anschauungsmaterial und Rechentricks für Rechenoperationen.
+- Konstantina nutzt die Stellenwerttafel zur Umrechnung von Längeneinheiten.
+- Konstantina baut Stützpunktvorstellungen auf.
+- Leni übt Schreibgeschwindigkeit mit Abschreiben von kurzen Sätzen.
+- Lera besucht wöchentlich den Mathematik-Förderunterricht.
+- Lera besucht wöchentlich die Kleingruppenförderung mit der BFZ-Kraft Frau Geist.
+- Lera nimmt wöchentlich am DaZ-Förderunterricht teil.
+- Lera nutzt das Wörterbuch, um Schreibungen zu kontrollieren.
+- Leseliste mit Unterschrift
+- Levin erhält beim Arbeiten eine Sanduhr.
+- Linda übt täglich das Lesen mithilfe von Kinderbüchern.
+- Linda übt wöchentlich das Schreiben im Schreibschriftheft.
+- Linus übt mit dem Zahlen-Freunde-Heft.
+- Liyah wiederholt Buchstaben und zugehörige Laute, versucht, Silben und Wörter zu lesen, in der Schule ggf. in Kleingruppen.
+- Luca legt Zahlen mit Material (z.B. Dienes-Material) nach oder stellt sie zeichnerisch dar.
+- Luca nutzt eine Einmaleins-Übersicht zur regelmäßigen Übung und Wiederholung.
+- Luca übt das schrittweise Zählen im ZR 1000 mithilfe des Tausenderbuchs oder des Zahlenstrahls.
+- Luis liest gemeinsam mit einer Lehrkraft einfache Sätze und gibt den Inhalt wieder. Zur weiteren Übung werden Leseblätter IntraAct Plus genutzt.
+- Marie schreibt geübte Wörter orthographisch richtig.
+- Martha nutzt Lesehilfen für die Auseinandersetzung mit Texten.
+- Max hat von Schreibschrift auf Druckschrift umgestellt und schreibt weiterhin in gut lesbarer Druckschrift.
+- Max schreibt in gemäßigtem Tempo und achtet dabei auf ein sauberes Schriftbild.
+- Max überarbeitet markierte Stellen im Text mit rechtschriftlich falsch geschriebenen Wörtern und verbessert diese Wörter.
+- Max übt täglich zu Hause und im Rahmen einer Lernförderung das Lesen.
+- Maximilian nutzt Stifte mit Griffmulden zum Schreiben und Malen.
+- Maximilian wird immer wieder an die korrekte Stifthaltung erinnert.
+- Maximilian übt das Ausschneiden und Aufkleben beim regelmäßigen Basteln.
+- Maximilian übt regelmäßig die Lernwörter mithilfe der Grundwortschatzkartei.
+- Muhammad übt das Einmaleins mit einem Einmaleinsheft und nutzt einen Einmaleinsfacher als Hilfestellung.
+- Nathanael bildet aus zwei Silben einfache Wörter und schreibt diese auf.
+- Nathanael schreibt ein- und zweisilbige, lautgetreue Wörter mithilfe der Schreibtabelle.
+- Nathanael übt das Schreiben einfacher Wörter (ein- und zweisilbig) mithilfe der Schreibtabelle.
+- Nora nutzt die Zahlenfreunde-Hefte zum Üben.
+- Nuar liest täglich mit seiner Mutter.
+- Nuar nimmt wöchentlich am Lesetraining der BFZ-Kraft Frau Geist teil.
+- Nutzung des Wörterbuchs
+- Rosa nutzt das Wörterbuch, um Schreibungen zu kontrollieren.
+- Rosa nutzt die Lernwörterübungen, um sich intensiv auf Diktate vorzubereiten.
+- Sebastian nutzt Karopapier, Buntstifte und eine Checkliste, um das Rechenverfahren besser visualisieren und anwenden zu können.
+- Sebastian rechnet Aufgaben gemeinsam mit der Lehrkraft aus (Schritt für Schritt Anleitung, zusätzliche Erklärungen, gemeinsame Fehleranalyse).
+- Sophia benennt die Zahlen von elf bis zwanzig und festigt die Zahlennamen.
+- Sura besucht wöchentlich das Lesetraining bei der BFZ-Kraft Frau Geist.
+- Sura liest täglich 10 Minuten mit ihrer Mutter.
+- Sura nimmt wöchentlich am Mathematik-Förderunterricht teil.
+- Sura nimmt wöchentlich an der Kleingruppenförderung bei der BFZ-Kraft Frau Geist teil.
+- Teilnahme am Viertelstündchen@school
+- Teilnahme an Übungsstunden
+- Vorbeugende Maßnahme - Besuch des Förderunterrichts bei Frau Glaser
+- Wiederholung von Additions- und Subtraktionsaufgaben anhand von Schulbuchmaterial
+- Yasin nutzt Lesehilfen und wiederkehrende Leseübungen für die Auseinandersetzung mit Texten.
+- aktive Unterstützung durch die Lehrkraft
+- bearbeitet im Unterricht eine reduzierte Form des Zebra-Hefts (Förderblock)
+- nutzt Antolin zu Hause.
+- wiederholt die eingeführten Rechenverfahren in ihrem eigenen Tempo.
+
+*Hinweis: Einige Einträge enthalten offensichtliche Testdaten ("XY", "hallo") — diese wurden nicht bereinigt, da sie im Originaldatensatz enthalten sind.*
 
 ### 6. Förderpläne
 
