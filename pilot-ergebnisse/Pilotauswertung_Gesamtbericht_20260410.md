@@ -395,11 +395,12 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 6. Förderpläne
 
-- **181 Förderpläne** insgesamt erstellt
-- **Alle 133 Nutzer** haben mind. 1 Förderplan erstellt — kein einziger ohne
-- Ø **1,9 Förderpläne pro Nutzer** | Max: 13 (ein Vielnutzer)
+- **179 eindeutige Förderpläne** erstellt
+- **89 Nutzer (67%)** haben mind. 1 Förderplan erstellt
+- **44 Nutzer (33%)** haben **keinen Förderplan** erstellt
+- Ø **2,0 Förderpläne pro Nutzer** (unter denen die einen haben) | Max: 13
 
-*Technischer Hinweis: Eine Formelzeile aus der Excel-Quelldatei (=ROWS(...)) wurde als 134. Nutzer gezählt — nach Bereinigung sind es korrekt 133 echte Nutzer.*
+*Methodischer Hinweis: Die FP-ID-Spalte ist in jeder Maßnahmen-Zeile befüllt und eignet sich daher nicht zur Zählung. Maßgeblich ist die Spalte "FP erstellt durch" — nur dort ist der tatsächliche FP-Ersteller eingetragen.*
 
 **Verteilung Förderpläne pro Nutzer:**
 
