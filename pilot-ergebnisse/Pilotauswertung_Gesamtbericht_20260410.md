@@ -396,8 +396,10 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 ### 6. Förderpläne
 
 - **181 Förderpläne** insgesamt erstellt
-- **134 Nutzer** haben mind. 1 Förderplan — das sind alle Nutzer mit Daten (kein einziger Nutzer mit Förderung hat keinen Plan)
+- **Alle 133 Nutzer** haben mind. 1 Förderplan erstellt — kein einziger ohne
 - Ø **1,9 Förderpläne pro Nutzer** | Max: 13 (ein Vielnutzer)
+
+*Technischer Hinweis: Eine Formelzeile aus der Excel-Quelldatei (=ROWS(...)) wurde als 134. Nutzer gezählt — nach Bereinigung sind es korrekt 133 echte Nutzer.*
 
 **Verteilung Förderpläne pro Nutzer:**
 
