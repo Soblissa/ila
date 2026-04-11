@@ -73,11 +73,11 @@ def berechne_kennzahlen(rows):
             foerderungen.add(fid)
             user_foerderung[u].add(fid)
 
-        # FP: NUR via fp_durch + fp_am zählen (nicht via fp_id-Spalte!)
+        # FP-IDs zählen eindeutige Pläne; fp_durch zählt welche Nutzer einen FP erstellt haben
+        if fp_id and not is_artefakt(str(fp_id)):
+            fp_ids.add(fp_id)
         if fp_durch and fp_am and not is_artefakt(str(fp_durch)):
             user_fp_erstellt.add(u)
-            if fp_id and not is_artefakt(str(fp_id)):
-                fp_ids.add(fp_id)
 
         if massnahme:
             user_massnahme[u].append(massnahme)
@@ -134,7 +134,7 @@ def drucke_bericht(k):
     print(f"  Nutzer ausgewählt aber nie aktiviert: {len(nur_ausgewaehlt)}")
     print(f"  Nutzer mit deaktivierten Maßnahmen: {len(k['massnahmen_deaktiviert'])}")
 
-    print(f"\n[ FÖRDERPLÄNE ]  ← via 'FP erstellt durch', NICHT fp_id-Spalte!")
+    print(f"\n[ FÖRDERPLÄNE ]")
     mit_fp = len(k['user_fp_erstellt'])
     ohne_fp = len(k['alle_user']) - mit_fp
     print(f"  Eindeutige FP-IDs: {len(k['fp_ids'])}")
