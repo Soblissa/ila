@@ -80,22 +80,35 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 4. Jahrgangsstufen
 
-| Jahrgang | Einträge |
-|---|---|
-| Vorklasse (Jg. 0) | 4.526 — **meistgenutzter Jahrgang** |
-| Jahrgang 1 | 3.934 |
-| Jahrgang 4 | 2.600 |
-| Jahrgang 2 | 2.191 |
-| Jahrgang 3 | 2.030 |
+| Jahrgang | Einträge | Eindeutige Nutzer | Anteil aller Nutzer |
+|---|---|---|---|
+| Vorklasse (Jg. 0) | 4.526 — **meistgenutzter Jahrgang** | 17 | 12,7% |
+| Jahrgang 1 | 3.934 | 51 | 38,1% |
+| Jahrgang 2 | 2.191 | 44 | 32,8% |
+| Jahrgang 3 | 2.030 | 36 | 26,9% |
+| Jahrgang 4 | 2.600 | 29 | 21,6% |
 
-**Befund:** Die Vorklasse ist der meistgenutzte Jahrgang — und genau dort fehlen laut Feedback Förderziele und Maßnahmen am stärksten. Die Lehrkräfte, die am meisten gearbeitet haben, wurden am schlechtesten unterstützt.
+*Hinweis: Ein Nutzer kann mehrere Jahrgänge bedient haben, daher addieren sich die Prozentwerte auf mehr als 100%.*
+
+**Befund:** Nur 17 Nutzer (12,7%) haben die Vorklasse bedient — aber sie haben 4.526 Einträge produziert, mehr als jeder andere Jahrgang. Vorklasse-Lehrkräfte sind überproportional aktiv gewesen und wurden gleichzeitig am schlechtesten vom Katalogangebot unterstützt. Jahrgang 1 ist mit 51 Nutzern (38,1%) der am breitesten genutzte Jahrgang.
 
 ### 5. Maßnahmen
 
 - **14.945 Zeilen** mit Maßnahmen-Einträgen
 - **97% aus Katalog**, 3% selbst geschrieben (974 eigene Maßnahmen)
 - **1.044 eindeutige Maßnahmentexte** insgesamt
-- Die eigenen Maßnahmen sind konkret, schülerbezogen und methodisch präzise — wertvoller Hinweis für Katalog-Weiterentwicklung (z.B.: *"übt täglich 10 Minuten Silbenteppiche"*, *"nutzt Anschauungsmaterial für Rechenoperationen"*)
+
+#### Eigene Maßnahmen im Detail
+
+- 974 Einträge mit Typ "Eigene"
+- **235 eindeutige Texte** davon
+- **140 mehrfach verwendet** — von verschiedenen Lehrkräften unabhängig ähnlich formuliert, quasi standardisiert
+- **95 einmalig verwendet** — wirklich individuelle, schülerspezifische Maßnahmen
+- Häufigster Eigentext: *"Förderheft/Fördermaterial"* (36x) — sehr allgemein, vermutlich eine Ausweichantwort wenn der Katalog nichts Passendes bot
+- Die konkreteren eigenen Maßnahmen sind methodisch präzise und schülerbezogen (z.B. *"übt täglich 10 Minuten Silbenteppiche"*, *"arbeitet mit Meister Cody Talasia"*, *"nutzt Anschauungsmaterial für Rechenoperationen"*)
+- **Vollständige Liste der 235 eindeutigen Maßnahmen:** `pilot-ergebnisse/Eigene_Massnahmen_235_eindeutig.md`
+
+**Befund:** Die eigenen Maßnahmen sind ein Goldschatz für die Katalog-Weiterentwicklung. Dass 140 von 235 Texten mehrfach auftauchen, zeigt: Es gibt einen geteilten Bedarf, der im Katalog noch nicht abgedeckt ist.
 
 ### 6. Förderpläne
 
