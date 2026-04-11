@@ -683,7 +683,7 @@ Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag (230 Nutzer-Ta
 Die typische Nutzung ist kurz. Wer länger dabei bleibt, ist die Ausnahme. Was in diesen Sitzungen konkret passiert ist (Abbruch vs. erfolgreich abgeschlossen), bleibt offen.
 
 **Wurden Förderpläne tatsächlich verwendet?**
-44 Nutzer haben keinen Plan fertiggestellt. Ob die restlichen 89 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben — vollständig unbekannt.
+46 Nutzer haben keinen Plan erstellt. Ob die restlichen 87 ihren Plan ausgedruckt, mit Eltern geteilt oder im Unterricht genutzt haben — vollständig unbekannt.
 
 ### Aus Sheet 2: Feedback Report
 
