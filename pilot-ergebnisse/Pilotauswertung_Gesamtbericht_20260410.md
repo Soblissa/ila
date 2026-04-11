@@ -94,9 +94,52 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 5. Maßnahmen
 
+#### Überblick
+
 - **14.945 Zeilen** mit Maßnahmen-Einträgen
 - **97% aus Katalog**, 3% selbst geschrieben (974 eigene Maßnahmen)
 - **1.044 eindeutige Maßnahmentexte** insgesamt
+- **7 Nutzer** haben Maßnahmen ausgewählt, aber **nie aktiviert** — Abbruch mitten im Prozess
+- **1 Nutzer** hat Maßnahmen deaktiviert
+
+#### Maßnahmentypen
+
+| Typ | Einträge | Anteil |
+|---|---|---|
+| Katalog | 13.971 | 97% |
+| Eigene | 974 | 3% |
+
+#### Notizen zu Maßnahmen
+
+- **79 Zeilen** mit Notiztext, aber nur **18 eindeutige Texte** von **14 Nutzern**
+- Die hohe Zahl entsteht durch Wiederholungen: dieselbe Notiz erscheint auf mehreren Maßnahmen-Zeilen derselben Förderung
+
+| Bereich | Jg. | Notiztext |
+|---|---|---|
+| Rechnen | 2 | "BFZ Anja" |
+| Rechnen | 3 | "Eine Abbildung, eine Darstellung der Gegebenheit hilft Havin sich in die Aufgabe hineinzudenken." |
+| Rechnen | 3 | "Tagesform wichtig — in frühen Stunden Ergebnisse besser als wenn in späteren Stunden durchgeführt." |
+| Lesen | 1 | "erledigt" |
+| Rechtschreiben | 1 | "Bekannte, lautgetreue Wörter werden geübt (Zebraheft, Wörter der Woche)" |
+| Rechnen | 1 | "Übungen dazu auch zu Hause" |
+| Rechnen | 1 | "Johanna übt zu Hause." |
+| Rechnen | 1 | "Kopfrechnen Addition und Subtraktion zu Hause üben" |
+| Lesen | 3 | "Er schafft nur zwei Sätze" |
+| Lesen | 3 | "Lesen mit der Lesepatin immer mittwochs" |
+| Rechtschreiben | 1 | "Nick nutzt zum Schreiben von Wörtern die Anlauttabelle." |
+| Rechnen | 1 | "schafft er mit Abzählen, Plusaufgaben leichter als Minusaufgaben" |
+| Rechnen | 1 | "Rechengeschichten ausdenken fällt ihm noch schwer, kann sich Zahlen nicht behalten" |
+| Selbstständigkeit | 0 | "Ablaufplan auf dem Tisch." |
+| Rechnen | 4 | "Multiplikationsaufgaben (1ner, 2er, 10er Reihe) gelingen ihr." |
+| Rechnen | 4 | "a" |
+| Rechnen | 2 | "diese Maßnahme möchte gelöscht werden, funktioniert aber nicht" |
+
+**Interpretation der Notizen:**
+- **Echte Beobachtungsnotizen** (Tagesform-Einfluss, Rechenschwierigkeiten): genau wofür das Feld gedacht ist — individuelle Beobachtungen die nicht in vordefinierte Felder passen
+- **Organisations-Notizen** ("Lesepatin mittwochs", "BFZ Anja"): Lehrkräfte wollen externe Kooperationspartner festhalten — das Unterstützer-Feld reicht dafür nicht
+- **"erledigt"**: Notizfeld als Statusmarkierung genutzt — Hinweis auf fehlendes Status-/Erledigungsfeld
+- **Hilferuf**: "diese Maßnahme möchte gelöscht werden, funktioniert aber nicht" — kein anderer Meldeweg verfügbar
+- **Testdaten/Versehen**: "a" und Formelreste aus der Tabellenkalkulation
 
 #### Eigene Maßnahmen im Detail
 
@@ -415,51 +458,8 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 ### 8. Weitere Felder
 
-#### Notizfeld
-
-- **79 Zeilen** mit Notiztext, aber nur **18 eindeutige Texte** von **14 Nutzern**
-- Die hohe Zahl (79) entsteht durch Wiederholungen: dieselbe Notiz erscheint auf mehreren Maßnahmen-Zeilen derselben Förderung
-
-**Alle Notizen im Überblick:**
-
-| Bereich | Jg. | Notiztext |
-|---|---|---|
-| Rechnen | 2 | "BFZ Anja" |
-| Rechnen | 3 | "Eine Abbildung, eine Darstellung der Gegebenheit hilft Havin sich in die Aufgabe hineinzudenken." |
-| Rechnen | 3 | "Tagesform wichtig — in frühen Stunden Ergebnisse besser als wenn in späteren Stunden durchgeführt." |
-| Lesen | 1 | "erledigt" |
-| Rechtschreiben | 1 | "Bekannte, lautgetreue Wörter werden geübt (Zebraheft, Wörter der Woche)" |
-| Rechnen | 1 | "Übungen dazu auch zu Hause" |
-| Rechnen | 1 | "Johanna übt zu Hause." |
-| Rechnen | 1 | "Kopfrechnen Addition und Subtraktion zu Hause üben" |
-| Lesen | 3 | "Er schafft nur zwei Sätze" |
-| Lesen | 3 | "Lesen mit der Lesepatin immer mittwochs" |
-| Rechtschreiben | 1 | "Nick nutzt zum Schreiben von Wörtern die Anlauttabelle." |
-| Rechnen | 1 | "schafft er mit Abzählen, Plusaufgaben leichter als Minusaufgaben" |
-| Rechnen | 1 | "Rechengeschichten ausdenken fällt ihm noch schwer, kann sich Zahlen, die er benutzt hat, öfter nicht behalten (Da waren 5 Katzen, 3 gehen weg. Äh wie viele waren da?)" |
-| Selbstständigkeit | 0 | "Ablaufplan auf dem Tisch." |
-| Rechnen | 4 | "Multiplikationsaufgaben (1ner, 2er, 10er Reihe) gelingen ihr." |
-| Rechnen | 4 | "a" |
-| Rechnen | 2 | "diese Maßnahme möchte gelöscht werden, funktioniert aber nicht" |
-
-**Interpretation:**
-
-Die Notizen sind spärlich, aber die, die vorhanden sind, sagen einiges:
-
-- **Echte Beobachtungsnotizen** (z.B. Tagesform-Einfluss bei Havin, Rechenschwierigkeiten bei Kl.1-Kind): genau das, wofür ein Notizfeld gedacht ist — individuelle Beobachtungen, die nicht in vordefinierte Felder passen
-- **Organisations-Notizen** ("Lesen mit der Lesepatin immer mittwochs", "BFZ Anja"): zeigt, dass Lehrkräfte externe Kooperationspartner irgendwo festhalten wollen — das Unterstützerfeld reicht dafür nicht
-- **"erledigt"**: eine Lehrkraft nutzt das Notizfeld als Statusmarkierung — ein Hinweis, dass ein eigenes Status- oder Erledigungs-Feld fehlt
-- **"diese Maßnahme möchte gelöscht werden, funktioniert aber nicht"**: ein Hilferuf direkt im Notizfeld — die Lehrkraft hat keinen anderen Weg gefunden, das Problem zu melden
-- **"a"**: Testklick oder versehentlicher Eintrag
-- **Formelreste** (=ROWS(...)): eine Tabellenformel ist als Datensatz ins System gerutscht — technisches Artefakt, kein echter Nutzer
-
-**Fazit:** Das Notizfeld wird kaum genutzt (14 von 133 Nutzern), aber wenn, dann sinnvoll. Die Inhalte zeigen Bedarfe, die die App noch nicht strukturiert abbildet: Statusverfolgung, freie Beobachtungen, Kooperationspartner-Dokumentation.
-
-#### Stärken-Feld
-
-- **76 Nutzer** haben das Stärken-Feld ausgefüllt (12.890 Zeilen mit Text)
-- Im Vergleich zum Notizfeld: deutlich aktiver genutzt
-- Das Stärken-Feld scheint besser in den Arbeitsablauf integriert zu sein — es ist Teil des Förderplans, nicht optional
+- **Notizen zu Maßnahmen:** Details und Interpretation siehe Abschnitt 5 (Maßnahmen → Notizen zu Maßnahmen)
+- **Stärken-Feld:** 76 Nutzer haben es ausgefüllt (12.890 Zeilen mit Text) — deutlich aktiver genutzt als das Notizfeld, weil es Teil des Förderplans ist und nicht optional erscheint
 
 ### 9. Bewertungen (Feedback Report)
 
