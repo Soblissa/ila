@@ -505,7 +505,9 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 #### 2.1 Bewertungen
 
 - **32 Feedback-Einträge** insgesamt
-- **20 mit Stern-Bewertung (1–5)**, 12 ohne Bewertung (Null = nicht bewertet)
+- **20 mit Stern-Bewertung (1–5)** | 12 ohne Rating
+- **27 mit echtem Freitext** | 5 haben nur „keine Eingabe“ geschrieben
+- **15 Einträge** haben beides (Rating + Text) | **5** nur Rating | **12** nur Text
 - **Ø Rating: 2,70 von 5** | Median: 2
 
 | Sterne | Anzahl |
@@ -528,7 +530,7 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 | Förderziel | — | 2 | 3,00 |
 | **Gesamt** | | **20** | **2,70** |
 
-#### 2.2 Themen aus den Freitexten (31 inhaltliche Einträge)
+#### 2.2 Themen aus den Freitexten (27 inhaltliche Einträge)
 
 **① Unterstützer-Feld zu eingeschränkt** *(mind. 7 Nennungen)*
 Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Von mehreren als „absolut unzureichend" bezeichnet.
