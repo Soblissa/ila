@@ -21,12 +21,40 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 ### 1. Nutzung
 
 - **133 eindeutige Nutzer** (anonymisiert)
-- **57 Nutzer (43%)** sind nach Tag 1 an weiteren Tagen wiedergekommen
-- **76 Nutzer (57%)** haben die App nur einmal genutzt
-- Ø Nutzungsspanne pro Nutzer: **8,1 Tage** — ein Nutzer über 50 Tage aktiv
 - Stärkster Wochentag: **Montag** (mehr als doppelt so viele Ereignisse wie Di–Fr)
 - Nutzungspeak in **KW 11/2026** (~20.000 Ereignisse) — vermutlich durch externe Abgabepflicht oder Schulveranstaltung ausgelöst
 - 9 Tage ohne jede Aktivität im Pilotfenster (überwiegend Wochenenden und Ferientage)
+
+#### Rückkehrverhalten
+
+| Aktivitätstage | Nutzer | Anteil |
+|---|---|---|
+| 1 Tag (nie zurückgekommen) | 76 | 57,1% |
+| 2 Tage | 37 | 27,8% |
+| 3 Tage | 8 | 6,0% |
+| 4 Tage | 8 | 6,0% |
+| 5 Tage | 1 | 0,8% |
+| 6 Tage | 2 | 1,5% |
+| 7 Tage | 1 | 0,8% |
+
+**57 von 133 Nutzern (42,9%) sind nach ihrer ersten Sitzung zurückgekommen.** 76 Nutzer (57,1%) haben die App nur an einem einzigen Tag genutzt.
+
+#### Sitzungsdauer pro Aktivitätstag
+
+*Berechnet über ersten und letzten Zeitstempel pro Nutzer und Tag — 230 Nutzer-Tage insgesamt.*
+
+| Dauer | Sitzungen | Anteil |
+|---|---|---|
+| < 1 Minute | 40 | 17,4% |
+| 1–10 Minuten | 91 | 39,6% |
+| 10–30 Minuten | 62 | 27,0% |
+| 30–60 Minuten | 13 | 5,7% |
+| 1–2 Stunden | 14 | 6,1% |
+| > 2 Stunden | 10 | 4,3% |
+
+- **Median: 7 Minuten** pro Sitzungstag | Ø 25 Minuten (durch wenige intensive Nutzer nach oben verzerrt)
+- **57% aller Sitzungen dauerten unter 10 Minuten** — kurzes Reinschauen dominiert
+- Nur 24 Sitzungen (10,4%) über eine Stunde
 
 ### 2. Förderungen
 
