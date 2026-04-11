@@ -432,7 +432,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 
 **Füllung der Felder:**
 
-- **Stärken-Feld:** 155 von 181 FP ausgefüllt (**86%**) — sehr gut genutzt
+- **Stärken-Feld:** 155 von 181 FP ausgefüllt (**86%**) — sehr gut genutzt. Zusätzlich haben 76 Nutzer insgesamt 12.890 Zeilen mit Stärken-Text produziert — das Feld wird aktiv und ausführlich befüllt.
 - **FP-eigene Maßnahme:** 126 von 181 FP (**70%**) — aktiv genutzt
 
 **Förderpläne nach Jahrgang:**
@@ -459,7 +459,7 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 ### 8. Weitere Felder
 
 - **Notizen zu Maßnahmen:** Details und Interpretation siehe Abschnitt 5 (Maßnahmen → Notizen zu Maßnahmen)
-- **Stärken-Feld:** 76 Nutzer haben es ausgefüllt (12.890 Zeilen mit Text) — deutlich aktiver genutzt als das Notizfeld, weil es Teil des Förderplans ist und nicht optional erscheint
+- **Stärken-Feld:** Details siehe Abschnitt 6 (Förderpläne → Füllung der Felder)
 
 ### 9. Bewertungen (Feedback Report)
 
