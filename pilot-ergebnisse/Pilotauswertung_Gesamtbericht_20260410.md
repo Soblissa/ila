@@ -520,12 +520,13 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 
 | Seite | Schritt | Bewertungen | Ø Rating |
 |---|---|---|---|
-| Förderplan | — | 4 | **2,00** |
-| Förderziel hinzufügen | Schritt 2 | 3 | **3,00** |
-| Förderziel hinzufügen | Schritt 3 | 1 | **2,00** |
-| Förderakte | — | 7 | **2,86** |
-| Startseite | — | 3 | **3,00** |
-| Förderziel | — | 2 | **3,00** |
+| Förderplan | — | 4 | 2,00 |
+| Förderziel hinzufügen | Schritt 2 | 3 | 3,00 |
+| Förderziel hinzufügen | Schritt 3 | 1 | 2,00 |
+| Förderakte | — | 7 | 2,86 |
+| Startseite | — | 3 | 3,00 |
+| Förderziel | — | 2 | 3,00 |
+| **Gesamt** | | **20** | **2,70** |
 
 #### 2.2 Themen aus den Freitexten (31 inhaltliche Einträge)
 
