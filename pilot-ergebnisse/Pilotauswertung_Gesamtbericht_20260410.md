@@ -516,15 +516,20 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 | 4 | 3x |
 | 5 | 1x |
 
-**Rating nach Seite (nur bewertete Einträge):**
+**Rating nach Seite und Prozessschritt:**
 
-| Seite | Ø Rating | Bewertungen |
-|---|---|---|
-| Förderplan | 2,00 | 4 |
-| Förderziel hinzufügen | 2,75 | 4 |
-| Förderakte | 2,86 | 7 |
-| Startseite | 3,00 | 3 |
-| Förderziel | 3,00 | 2 |
+| Seite | Schritt | Einträge gesamt | Davon bewertet | Ø Rating |
+|---|---|---|---|---|
+| Förderplan | — | 5 | 4 | **2,00** |
+| Förderziel hinzufügen | Schritt 1 | 1 | 0 | (keine) |
+| Förderziel hinzufügen | Schritt 2 | 4 | 3 | **3,00** |
+| Förderziel hinzufügen | Schritt 3 | 1 | 1 | **2,00** |
+| Förderakte | — | 8 | 7 | **2,86** |
+| Startseite | — | 5 | 3 | **3,00** |
+| Förderziel | — | 5 | 2 | **3,00** |
+| Förderung anlegen | Schritt 1 | 1 | 0 | (keine) |
+| Förderung anlegen | Schritt 2 | 1 | 0 | (keine) |
+| faq | — | 1 | 0 | (keine) |
 
 #### 2.2 Themen aus den Freitexten (31 inhaltliche Einträge)
 
@@ -554,6 +559,9 @@ Keine Verknüpfung zwischen Feedback-Einträgen und Anonymus-Nummern aus Sheet 1
 
 **Was haben die "Null-Sterne" gemeint?**
 Das System unterscheidet nicht zwischen "keine Bewertung" und "bewusst schlechteste Note". 12 Einträge nicht eindeutig interpretierbar.
+
+**Worauf beziehen sich die Bewertungen genau?**
+Das Feedback-System erlaubt eine Bewertung pro Seite/Schritt, aber keine Unterscheidung ob die Note die Bedienbarkeit, den Inhalt, eine konkrete Funktion oder das allgemeine Erlebnis bewertet. Bewertungen wie 2 Sterne auf der Startseite können viele verschiedene Gründe haben — der Freitext hilft, erklärt aber nicht immer.
 
 **Was denken die anderen 101 Nutzer?**
 133 Nutzer im System, 32 Feedback-Einträge. Über 100 Nutzer haben sich gar nicht gemeldet.
