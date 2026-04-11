@@ -562,24 +562,58 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 | 26 | Förderakte | — | — | Es fehlt aus meiner Sicht Lesetempo/flüssiges Lesen |
 | 27 | Förderplan | — | — | Förderpläne sind leicht zu erstellen, informativ und kurz |
 
-#### 2.3 Thematische Zusammenfassung
+#### 2.3 Thematische Cluster der Freitexte
 
-**① Unterstützer-Feld zu eingeschränkt** *(Einträge: 7, 8, 11, 17, 23)*
+##### ① Unterstützer-Feld zu eingeschränkt
 Nur Vater/Mutter auswählbar. BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Pflichtfeld blockiert zusätzlich das Speichern.
+- [7] *„Wie kann ich andere Unterstützer eintragen?“*
+- [8] *„Dabei kann ich allerdings nur zwischen Vater und Mutter auswählen. Das ist absolut unzureichend. Wenn Eltern nicht helfen können, braucht es das BFZ, die Ergotherapie, die Logopädie …“*
+- [11] *„Schade, dass ich nur die Eltern als Unterstützer angeben kann — besser wäre auch, wenn man andere Lehrkräfte oder Geschwister/Mitschüler aufnehmen könntet.“*
+- [17] *„Ich fände gut, wenn bei Verantwortlich auf die Eltern und bei Unterstützende auch die Lehrkräfte ausgewählt werden können.“*
+- [21] *„Die Maßnahme auch speichern können, wenn ich keine Unterstützer benenne. Im Moment muss ich auf den Unterstützer klicken, sonst kann ich nicht weitermachen.“*
+- [23] *„Ich hätte gerne die BFZ-Kraft als Unterstützerin eingefügt.“*
 
-**② Maßnahmen zu unkonkret, lückenhaft, falsche Ebene** *(Einträge: 3, 4, 5, 13, 16, 24, 25, 26)*
+##### ② Maßnahmen zu unkonkret, lückenhaft, falsche Ebene
 Maßnahmen wirken wie Ziele. Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit-/Sozialverhalten, LRS, DaZ. Nur 3 Maßnahmen zur Auswahl.
+- [3] *„Die Maßnahmen sind zu hoch angesetzt. Das Ziel muss bei einigen Kindern auf Silbenebene oder der Buchstaben-Laut-Zuordnung angesetzt werden.“*
+- [4] *„Mir fehlt ein Feld zur Lesegeschwindigkeit.“*
+- [5] *„Die Auswahl der Maßnahmen ist noch ausbaufähig.“*
+- [13] *„Förderschwerpunkte für Klasse 1 nicht differenziert genug. Fehlen: Buchstaben erkennen, Laute unterscheiden, Silben und Vokale erkennen.“*
+- [16] *„Keine Maßnahmen für Vorklasse, keine Förderziele für Arbeit- und Sozialverhalten.“*
+- [24] *„Bisher stehen immer nur drei Maßnahmen zur Auswahl. Mehr wären wünschenswert.“*
+- [25] *„Bei der Operation im Zahlenraum bis 100 gab es keine passende Förderung.“*
+- [26] *„Es fehlt aus meiner Sicht Lesetempo/flüssiges Lesen.“*
 
-**③ Keine Bearbeitungsmöglichkeit nach Speichern** *(Einträge: 10, 11, 22)*
+##### ③ Keine Bearbeitungsmöglichkeit nach Speichern
 Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar.
+- [10] *„Ist es richtig, dass einmal eingegebene Ziele oder Maßnahmen nicht mehr korrigiert werden können? Wir finden keine Bearbeitungsmöglichkeit.“*
+- [11] *„Leider kann ich den Plan im Nachhinein nicht mehr bearbeiten.“*
+- [22] *„Hier würde ich die Maßnahme gerne löschen, funktioniert aber nicht.“*
 
-**④ Fehlende Förderbereiche und Anlässe** *(Einträge: 2, 16, 17)*
+##### ④ Fehlende Förderbereiche und Anlässe
 Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erkrankung fehlend.
+- [2] *„Die 3 Bereiche sind gut, mir fehlt der Bereich zum Lernverhalten sowie im Sozialverhalten.“*
+- [16] *„Keine Förderziele für Arbeit- und Sozialverhalten.“*
+- [17] *„Bei den Anlässen fehlt LRS, RS, VM Lernen, chronische Erkrankung, Autismus, AD(H)S etc.“*
 
-**⑤ Bedienbarkeit OK, Inhalt nicht** *(Einträge: 12, 17)*
+##### ⑤ Bedienbarkeit OK, Inhalt nicht
 Navigation intuitiv — einziger durchgehender Pluspunkt. Fachlicher Inhalt enttäuscht.
+- [12] *„Zurechtgefunden habe ich mich gut in der Anwendung. Allerdings empfinde ich die Möglichkeiten viel zu eingeschränkt und zu wenig … Mein Fazit fällt daher leider sehr ernüchternd aus.“ (Marion Neff)*
+- [17] *„Ich finde die Handhabung sehr intuitiv und leicht, das ist sehr gelungen!!“ (Claudia Gernand)*
 
-**Weitere Einzelpunkte:** Förderplan-Layout (6, 11, 18), kein Druckbutton (19), Schüler nicht angezeigt (20), Grammatikfehler Nachnamen (11), Schullogo (14, 17), Uhrzeit auf Elterndokument (17), Feld „Sonstige Vereinbarungen“ (17), Basisinhalte früherer Schuljahre fehlen (12), DaZ-Kennzeichnung (9), Fragebogen nicht gefunden (15).
+##### Weitere Einzelpunkte
+- [1] Förderung löschen / Kind „auf Null setzen“ nicht möglich
+- [6] Förderplan-Layout unbeliebt
+- [9] DaZ-Kennzeichnung bei Förderungsanlage fehlt
+- [11] Grammatikfehler: s am Nachnamen
+- [12] Basisinhalte früherer Schuljahre fehlen
+- [14] Namenssuche positiv; nur eine Anlassoption auswählbar; Schullogo gewünscht
+- [15] Fragebogen nicht gefunden
+- [17] Uhrzeit auf Elterndokument unnötig; Feld „Sonstige Vereinbarungen“ gewünscht; Schullogo gewünscht
+- [18] Förderplan nicht aussagekräftig genug
+- [19] Kein sichtbarer Druckbutton
+- [20] Schülerin wird nicht angezeigt
+- [27] *„Förderpläne sind leicht zu erstellen, informativ und kurz.“* (einziges uneingeschränkt positives Feedback zum Inhalt)
 
 ---
 
