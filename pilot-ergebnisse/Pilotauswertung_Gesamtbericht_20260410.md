@@ -437,6 +437,40 @@ Die Datei enthält zwei inhaltlich relevante Datenblätter:
 - **Stärken-Feld:** 151 von 176 FPs ausgefüllt (**86%**) — sehr aktiv genutzt
 - **FP-eigene Maßnahme:** 123 von 176 FPs (**70%**) — aktiv genutzt
 
+**Stärken — inhaltliche Analyse:**
+
+| Kennzahl | Wert |
+|---|---|
+| FPs mit ausgefülltem Stärken-Feld | 151 (86%) |
+| Durchschnittliche Textlänge | 190 Zeichen |
+| Median Textlänge | 158 Zeichen |
+| Sehr kurz (< 50 Zeichen) | 27 Einträge |
+| Mittel (50–200 Zeichen) | 65 Einträge |
+| Ausführlich (> 200 Zeichen) | 59 Einträge |
+| Kürzester Eintrag | "Toll" (4 Zeichen) |
+| Längster Eintrag | 958 Zeichen |
+
+**Stärken nach Jahrgang:**
+
+| Jahrgang | FPs mit Stärken | FPs gesamt | Anteil |
+|---|---|---|---|
+| Vorklasse (Jg. 0) | 4 | 4 | 100% |
+| Jahrgang 2 | 33 | 35 | 94% |
+| Jahrgang 1 | 49 | 55 | 89% |
+| Jahrgang 3 | 29 | 35 | 83% |
+| Jahrgang 4 | 30 | 40 | 75% |
+
+**Inhaltliche Muster:**
+
+- **Sozial-emotionale Beschreibungen dominieren** — die häufigste Kategorie: „freundlich und hilfsbereit“, „gut in die Klassengemeinschaft integriert“, „motiviert“. Diese Formulierungen sind oft generisch und wenig förderrelevant.
+- **Fachliche Stärken werden genannt, aber seltener** — z.B. Rechnen im ZR bis 5, sichere Buchstaben-Laut-Zuordnung, lautgetreues Schreiben. Diese sind präziser und hilfreicher.
+- **Einige Einträge enthalten Lernausgangslage statt Stärken** — z.B. „Rechnen im Zahlenraum bis 5“ oder „Addition/Subtraktion in ZR bis 100 ohne Übergang“. Das Feld wird von einigen Lehrkräften als Ausgangsbeschreibung, nicht als Stärken-Beschreibung verstanden.
+- **Sehr kurze Einträge** wie „Toll“, „ist nett“, „Fröhlich, aufgeschlossen“ — Pflichtbefüllung ohne echten Informationsgehalt.
+- **6 FPs ohne Jahrgangsangabe** (Jg. None) — Datenfehler, aber inhaltlich ausführliche Texte.
+- **Jg. 4 hat den niedrigsten Anteil** (75%) — bei älteren Jahrgangsstufen wird das Feld seltener ausgefüllt.
+
+**Befund:** Das Stärken-Feld wird aktiv genutzt, aber uneinheitlich. Es fehlt eine Anleitung was dort hineingehört — fachliche Stärken vs. soziale Beschreibungen vs. Lernausgangslage. Das Feld hat Potenzial als strukturierter Einstieg in die Förderplanung, ist aktuell aber mehr eine Freitextbox ohne klares Ziel.
+
 **Förderpläne nach Jahrgang:**
 
 | Jahrgang | FP | Anteil |
