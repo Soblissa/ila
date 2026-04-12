@@ -138,11 +138,11 @@ Niedrig
 
 **Status:** Wird wöchentlich aktualisiert
 
-Der mit Abstand größte Kostentreiber ist der KI-Pilot. Grund dafür ist die Natur des Projekts: Es werden große Mengen an Daten erzeugt und verarbeitet (Design Specs, Prozessmodelle, Screenshots, Analysen), und der Lernprozess ist aufwendig — allein das Figma-Plugin wurde in dieser Phase mehr als 15 Mal angepasst. Wir sind noch dabei, effektiver auf Fehler zu reagieren und Umwege zu vermeiden. Das wird den Verbrauch in den nächsten Wochen senken.
+Der KI-Einsatz erzeugt in allen Themen Kosten, die sich aus der Menge der verarbeiteten Daten und der Komplexität der Aufgaben ergeben. Besonders intensiv ist der KI-Pilot: Hier werden große Mengen an Daten verarbeitet (Design Specs, Prozessmodelle, Screenshots, Analysen), und der Lernprozess ist aufwändig — allein das Figma-Plugin wurde in dieser Phase mehr als 15 Mal angepasst. Wir sind dabei, effektiver auf Fehler zu reagieren und Umwege zu vermeiden, was den Verbrauch in den nächsten Wochen senken wird.
 
-Cheko ist an Claude Sonnet 4.6 (Anthropic) angebunden — das aktuell leistungsfähigste Modell im Einsatz. Theoretisch wäre ein Wechsel auf ein günstigeres Modell möglich und würde die Kosten deutlich reduzieren. Angesichts der Komplexität des Projekts und der Qualitätsanforderungen wird davon aktuell bewusst abgesehen.
+Cheko ist an Claude Sonnet 4.6 (Anthropic) angebunden — das aktuell leistungsfähigste verfügbare Modell. Ein Wechsel auf ein günstigeres Modell wäre theoretisch möglich, wird angesichts der Komplexität des Projekts und der Qualitätsanforderungen jedoch bewusst nicht vorgenommen.
 
-Eine automatische Token-Erfassung über mehrere Sessions hinweg ist noch nicht eingerichtet. Kosten werden in Folgeberichten ergänzt.
+Eine automatische Erfassung des Verbrauchs über mehrere Sessions hinweg ist technisch noch nicht eingerichtet. Konkrete Kostenzahlen werden in Folgeberichten ergänzt.
 
 | Thema | Aufwand | Kosten (ca.) |
 |---|---|---|
