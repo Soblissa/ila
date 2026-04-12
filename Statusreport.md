@@ -32,7 +32,7 @@ Tiefere Screen-Ebenen in Figma nicht als eigenständige Komponenten definiert �
 
 ### Aufwand
 
-Größtes Thema — läuft den gesamten April. Hoher und kontinuierlicher Aufwand.
+Hoch
 
 ---
 
@@ -58,7 +58,7 @@ Keine — abgeschlossen.
 
 ### Aufwand
 
-Intensiv — überwiegend ein Arbeitstag (KW 15).
+Hoch
 
 ---
 
@@ -83,7 +83,7 @@ Keine — abgeschlossen.
 
 ### Aufwand
 
-Mittel — eine Session.
+Mittel
 
 ---
 
@@ -107,7 +107,7 @@ Noch offen.
 
 ### Aufwand
 
-Noch nicht abschätzbar.
+Noch nicht abschätzbar
 
 ---
 
@@ -130,7 +130,7 @@ Keine.
 
 ### Aufwand
 
-Gering bis mittel je Woche.
+Niedrig
 
 ---
 
