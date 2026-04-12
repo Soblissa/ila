@@ -10,13 +10,15 @@
 
 ### Fortschritt
 
-- Einrichtung und Konfiguration des KI-Agenten (Cheko)
-- Analyse der Figma Design Specs der ILA-Anwendung
-- Analyse der ARIS-Prozessmodelle und Prozessbeschreibungen
-- Screenshots der aktuellen Anwendung aufgenommen und dokumentiert
-- Figma-Plugin entwickelt und getestet
-- Repository-Struktur aufgebaut
-- Agenten-Team eingerichtet (Sebastian-Agent Bernd)
+- KI-Agent (Cheko) eingerichtet und vollständig betriebsbereit
+- **24 Figma-Seiten** der ILA-Anwendung vollständig analysiert: 9 Screen-Seiten, 9 Komponenten-Seiten, 6 sonstige
+- **155 Designkomponenten** identifiziert, klassifiziert und in das Figma-Plugin integriert
+- **9 Haupt-Workflows** der Anwendung dokumentiert (u. a. neue Förderung, Förderziele, Evaluation, Förderplan)
+- **19 App-Screenshots** der Testumgebung aufgenommen und annotiert — vollständiger Workflow von der Startseite bis zum Förderplan
+- Figma-Plugin entwickelt und iterativ optimiert (**15 Versionen** bis zur stabilen Basis)
+- ARIS-Prozessmodelle und Prozessbeschreibungen gelesen und ausgewertet
+- Repository-Struktur aufgebaut, Begriffmodell und UI-Wording-Regeln dokumentiert
+- Agenten-Team eingerichtet: Sebastians Agent (Bernd) gepairt und einsatzbereit
 
 ### Nächste Schritte
 
