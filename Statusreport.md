@@ -160,4 +160,8 @@ Eine automatische Erfassung des Verbrauchs über mehrere Sessions hinweg ist tec
 
 ---
 
+**Ziele KW 16:**
+- Corporate LLM Dokument (Ref. VI.3.1 HMKB) abschließen
+- KI-Pilot "Figma Design" weiterführen
+
 *Nächste Aktualisierung: KW 16 | Erstellt mit: Cheko (ILA-Hauptagent)*
