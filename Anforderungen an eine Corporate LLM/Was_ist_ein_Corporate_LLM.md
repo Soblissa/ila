@@ -2,31 +2,31 @@
 ## für das Referat VI 3.1 des HMKB
 
 *Erstellt: 2026-04-12 | Analysiert von: Cheko (ILA-Hauptagent)*
-*Grundlage: Webinar „Corporate LLM" von Everlast AI (Leonhard Schmetting) + eigene Einordnung*
-*Status: Entwurf — Anwendungsfälle folgen in Abstimmung mit Sarah*
+*Grundlage: Fachliche Recherche und eigene Einordnung*
+*Status: Entwurf - Anwendungsfälle folgen in Abstimmung mit Sarah*
 
 ---
 
 ## 1. Was ist ein Corporate LLM?
 
-Ein Corporate LLM (Corporate Large Language Model — unternehmenseigenes großes Sprachmodell) ist **kein eigenes KI-Modell**, das von Grund auf neu trainiert wird. Es ist ein **privater, datenschutzkonformer KI-Arbeitsbereich für eine Organisation**, der auf bestehenden Sprachmodellen (z. B. von Anthropic, OpenAI, Google oder europäischen Anbietern wie Mistral) aufsetzt.
+Ein Corporate LLM (Corporate Large Language Model - unternehmenseigenes großes Sprachmodell) ist **kein eigenes KI-Modell**, das von Grund auf neu trainiert wird. Es ist ein **privater, datenschutzkonformer KI-Arbeitsbereich für eine Organisation**, der auf bestehenden Sprachmodellen (z. B. von Anthropic, OpenAI, Google oder europäischen Anbietern wie Mistral) aufsetzt.
 
 ### Was ein Corporate LLM ausmacht
 
 | Merkmal | Erklärung |
 |---|---|
-| **Zentraler Zugang** | Alle Mitarbeitenden arbeiten über eine einzige Oberfläche mit KI — kein Tool-Wildwuchs, keine Schatten-Systeme |
+| **Zentraler Zugang** | Alle Mitarbeitenden arbeiten über eine einzige Oberfläche mit KI - kein Tool-Wildwuchs, keine Schatten-Systeme |
 | **Firmenwissen integriert** | Interne Dokumente, Prozesse, Produkte, FAQs fließen automatisch in jede Anfrage ein |
 | **Rollenbasierte Zugriffssteuerung** | Wer darf welches Wissen sehen? Wer darf welche KI-Funktionen nutzen? Alles zentral steuerbar |
 | **Datenschutzkonform** | Betrieb auf europäischen Servern, DSGVO-konforme Verarbeitung, keine Weitergabe an KI-Anbieter für Trainingszwecke |
-| **Mehrere Modelle, eine Oberfläche** | Wechsel zwischen Modellen je nach Aufgabe — ohne separate Accounts oder Tools |
+| **Mehrere Modelle, eine Oberfläche** | Wechsel zwischen Modellen je nach Aufgabe - ohne separate Accounts oder Tools |
 | **Agentenstruktur möglich** | Spezialisierte KI-Assistenten für einzelne Abteilungen oder Prozesse |
 
 ### Wie das Firmenwissen technisch funktioniert (RAG)
 
 Interne Dokumente (PDFs, Word, Excel, Markdown) werden in sogenannte **Vektoren** (mathematische Darstellungen von Textinhalten) umgewandelt und in einer Datenbank gespeichert. Stellt eine Nutzerin eine Frage, durchsucht das System automatisch diese Vektordatenbank, zieht die relevantesten Textpassagen heraus und gibt sie als Kontext an das Sprachmodell weiter. Das Modell antwortet dann nicht aus allgemeinem Internetwissen, sondern auf Basis des eigenen Firmenwissens.
 
-Dieser Ansatz heißt **RAG** (Retrieval-Augmented Generation — wissensgestützte Antwortgenerierung) und ist der technische Kern jedes Corporate LLM.
+Dieser Ansatz heißt **RAG** (Retrieval-Augmented Generation - wissensgestützte Antwortgenerierung) und ist der technische Kern jedes Corporate LLM.
 
 ---
 
@@ -34,14 +34,9 @@ Dieser Ansatz heißt **RAG** (Retrieval-Augmented Generation — wissensgestütz
 
 ### 2.1 Schatten-KI — das unterschätzte Risiko
 
-Laut aktuellen Studien (Stand 2026):
+Wenn keine offizielle, datenschutzkonforme Lösung bereitgestellt wird, nutzen Mitarbeitende trotzdem KI — unkontrolliert. Vertrauliche Daten, interne Prozesse und personenbezogene Informationen landen dann in fremden Systemen, häufig auf US-amerikanischen Servern, ohne Rechtsgrundlage und ohne Wissen der Organisation.
 
-- **77 % aller Mitarbeitenden** geben Unternehmensdaten in KI-Tools ein
-- **82 % davon** tun das über **private, unkontrollierte Accounts** (z. B. persönliche ChatGPT-Abos)
-- **65 % der Organisationen** melden unautorisierte KI-Nutzung — obwohl 72 % glauben, sie hätten volle Transparenz
-- **43 % der Unternehmen** haben noch nicht einmal eine einfache KI-Nutzungsrichtlinie
-
-Das bedeutet: Wenn es keine offizielle, gute Lösung gibt, nutzen Mitarbeitende trotzdem KI — nur unkontrolliert. Vertrauliche Daten, Kundendaten, interne Prozesse landen in fremden Systemen, oft auf US-amerikanischen Servern, ohne Rechtsgrundlage.
+Ein bekanntes Beispiel: Samsung musste 2023 KI intern komplett verbieten, nachdem Mitarbeitende Quellcode und Produktionsdaten in ChatGPT eingegeben hatten. Das Problem hat sich seitdem nicht verbessert, sondern verstärkt.
 
 ### 2.2 Datenschutzrechtliche Konsequenzen
 
@@ -51,19 +46,13 @@ Unkontrollierte KI-Nutzung mit Unternehmensdaten ist eine **DSGVO-relevante Date
 - Verlust des Vertrauens von Kunden und Partnern
 - Haftungsrisiken für Führungskräfte
 
-Bekannte Präzedenzfälle: **Samsung** musste 2023 KI intern komplett verbieten, nachdem Ingenieure Quellcode und Produktionsdaten in ChatGPT eingegeben hatten.
-
 ### 2.3 Produktivitätsverlust durch Tool-Wildwuchs
 
-BCG-Studie (2026): Die Produktivität steigt, wenn Mitarbeitende **1–3 KI-Tools** haben. Ab **4 oder mehr Tools** bricht die Produktivität durch Informationsüberflutung ein. Ohne zentralen Rahmen entstehen:
+Ohne zentralen Rahmen entstehen Insellösungen, die nicht miteinander kommunizieren. Doppelarbeit bei Prompts und Wissen, unkontrollierte Qualitätsschwankungen und Überforderung durch zu viele parallele Tools sind die typischen Folgen.
 
-- Insellösungen die nicht miteinander kommunizieren
-- Doppelarbeit bei Prompts und Wissen
-- Unkontrollierte Qualitätsschwankungen in den KI-Ausgaben
+### 2.4 Fehlende Wirksamkeit ohne Einbettung in Prozesse
 
-### 2.4 Keine Nutzung ohne Anleitung
-
-Nur **14 % der Unternehmen** haben KI wirklich in Kernprozesse integriert. **86 %** nutzen KI an der Oberfläche (E-Mails formulieren, Texte zusammenfassen) — ohne messbaren Produktivitätseffekt. Ein Corporate LLM schafft erst die Grundlage für echten, messbaren Nutzen.
+KI-Tools werden häufig nur an der Oberfläche genutzt (E-Mails formulieren, Texte zusammenfassen) — ohne messbaren Effekt auf die eigentliche Arbeit. Ein Corporate LLM schafft erst die Grundlage für echten, nachhaltigen Nutzen, weil es Firmenwissen und Prozesse direkt einbettet.
 
 ---
 
@@ -109,7 +98,7 @@ Interne Dokumente werden indexiert und stehen als Wissensquelle zur Verfügung. 
 Spezialisierte KI-Assistenten für definierte Aufgaben (z. B. Förderplan-Assistent, Sachbearbeitungs-Assistent). Können auf Teilmengen des Wissens, bestimmte Modelle und spezifische Fähigkeiten (Skills) beschränkt werden.
 
 ### 4.3 Prompt-Bibliothek
-Zentrale Sammlung bewährter Arbeitsanweisungen (Prompts) für wiederkehrende Aufgaben. Mitarbeitende müssen keine eigenen Prompts formulieren — sie wählen aus vorgefertigten Vorlagen.
+Zentrale Sammlung bewährter Arbeitsanweisungen (Prompts) für wiederkehrende Aufgaben. Mitarbeitende müssen keine eigenen Prompts formulieren - sie wählen aus vorgefertigten Vorlagen.
 
 ### 4.4 Berechtigungsmanagement
 Zugriffssteuerung auf Gruppenebene: Wer darf welche Agenten, welches Wissen, welche Modelle nutzen? Abteilungsbezogene Spaces (Arbeitsbereiche) möglich.
@@ -118,7 +107,7 @@ Zugriffssteuerung auf Gruppenebene: Wer darf welche Agenten, welches Wissen, wel
 Zugang zu verschiedenen KI-Modellen (Claude, GPT, Gemini, Mistral) über eine einzige Oberfläche. Automatische Weiterleitung an das geeignetste Modell je nach Aufgabentyp möglich.
 
 ### 4.6 Spracheingabe (optional)
-Diktat statt Tippen: Gesprochene Eingaben werden in kontextgerechten Text umgewandelt. Besonders wertvoll für Protokolle, Berichte, Notizen nach Gesprächen.
+Gesprochene Eingaben werden in kontextgerechten Text umgewandelt (Transkription). Besonders wertvoll für Protokolle, Berichte und Notizen nach Gesprächen — spart Tippzeit und senkt die Hemmschwelle zur Nutzung. Wichtig: Nur DSGVO-konforme Lösungen mit EU-Hosting einsetzen. Einige bekannte Tools dieser Art (z. B. Whisperflow) machen dauerhaft Screenshots des gesamten Bildschirms — das ist im Behördenkontext nicht vertretbar.
 
 ---
 
@@ -130,7 +119,7 @@ Folgende Fragen sind zu klären:
 
 - Welche Aufgaben im Referat sind besonders zeitintensiv und wiederkehrend?
 - Welche internen Wissensquellen (Erlasse, Handreichungen, Prozessbeschreibungen) könnten indexiert werden?
-- Welche Mitarbeitenden nutzen bereits KI — und wie?
+- Welche Mitarbeitenden nutzen bereits KI - und wie?
 - Gibt es bereits eine KI-Nutzungsrichtlinie im HMKB?
 - Welche Datenschutzvorgaben gelten konkret für das Referat?
 
@@ -138,17 +127,17 @@ Folgende Fragen sind zu klären:
 
 ## 6. Anwendungsfälle für Referat VI 3.1
 
-*Folgt nach Abstimmung mit Sarah — dieser Abschnitt wird gemeinsam entwickelt.*
+*Folgt nach Abstimmung mit Sarah - dieser Abschnitt wird gemeinsam entwickelt.*
 
 ---
 
 ## 7. Empfehlung für das weitere Vorgehen
 
-1. **Bestandsaufnahme** — Welche KI-Tools werden im Referat bereits genutzt? (inkl. private Accounts)
-2. **Anforderungsdefinition** — Welche Prozesse sollen durch ein C-LLM unterstützt werden?
-3. **Marktanalyse** — Welche Anbieter kommen für den öffentlichen Sektor in Frage?
-4. **Pilotbetrieb** — Kleiner Testbetrieb mit definierten Anwendungsfällen vor Volleinführung
-5. **Ausschreibung** — Auf Basis der definierten Anforderungen
+1. **Bestandsaufnahme** - Welche KI-Tools werden im Referat bereits genutzt? (inkl. private Accounts)
+2. **Anforderungsdefinition** - Welche Prozesse sollen durch ein C-LLM unterstützt werden?
+3. **Marktanalyse** - Welche Anbieter kommen für den öffentlichen Sektor in Frage?
+4. **Pilotbetrieb** - Kleiner Testbetrieb mit definierten Anwendungsfällen vor Volleinführung
+5. **Ausschreibung** - Auf Basis der definierten Anforderungen
 
 ---
 
