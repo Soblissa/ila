@@ -1,128 +1,165 @@
-# Statusreport — KI-gestützte Arbeitsvorhaben
+# Statusbericht KI-Einsatz
 *Referat VI 3.1 | HMKB*
-*Erstellt: 2026-04-11 | KW 15/2026*
+*Stand: KW 15 / 2026-04-12*
 
 ---
 
-## Übersicht
+## 1. KI-Pilot
 
-| # | Thema | Status |
-|---|---|---|
-| 1 | KI-Pilot ILA | 🟡 Laufend |
-| 2 | Analyse CD-Vorgaben Land Hessen | ✅ Abgeschlossen |
-| 3 | Datenanalyse & Gesamtauswertung Pilot ILA | ✅ Abgeschlossen |
-| 4 | Anforderungen an eine Corporate LLM (Referat VI 3.1) | 🔵 In Vorbereitung |
+**Ziel:** Nachweis, dass ein KI-Agent (Cheko) Designaufgaben übernehmen kann, die zur Weiterentwicklung der ILA-Anwendung führen. Der Pilot läuft den gesamten April 2026.
 
----
+### Fortschritt
 
-## 1. KI-Pilot ILA
-
-**Status:** 🟡 Laufend
-
-**Ziel:**
-Nachweis, dass ein KI-Agent neue Figma-Screens schneller und mindestens gleichwertig erstellen kann wie ein menschlicher Designer — auf Basis des bestehenden Design-Systems der Anwendung diSAF.
-
-**Bisherige Leistungen (Stand KW 14):**
 - Cheko (ILA-Hauptagent) vollständig eingerichtet und betriebsbereit
-- Figma-Plugin entwickelt: generiert Screens direkt in Figma, 155 Komponenten analysiert und erfasst
-- Erste Screen-Generierung erfolgreich (Navigation, Heading, Struktur)
-- ARIS-Prozessmodelle gelesen und dokumentiert, Begriffsmodell angelegt
-- Sebastians Agent (Bernd, @FelgesBot) eingerichtet und gepairt
-- 19 App-Screenshots der Testumgebung dokumentiert, vollständiger Workflow erfasst
-- Repo-Struktur aufgebaut: `agent-ila/`, `pilot-ergebnisse/`, `fachlichkeit/`, `docs/`
+- Figma Design Specs analysiert: 24 Seiten, 9 Hauptflows, 155 Komponenten erfasst
+- Screenshots der aktuellen Anwendung (19 Stück) dokumentiert, vollständiger Workflow erfasst
+- ARIS-Prozessmodelle gelesen und dokumentiert
+- Figma-Plugin entwickelt: generiert Screens direkt in Figma auf Basis der vorhandenen Komponenten
+- Erste Screen-Generierung erfolgreich (Navigation, Heading, Strukturaufbau)
+- Agenten-Team aufgebaut: Sebastians Agent (Bernd) eingerichtet und betriebsbereit
+- Repository-Struktur aufgebaut: `agent-ila/`, `fachlichkeit/`, `docs/`, `pilot-ergebnisse/`
+- Prozessbeschreibungen werden heute analysiert (noch ausstehend)
 
-**Aktivitäten KW 15:**
-- Vollständige Auswertung der Pilotdaten (Nutzerverhalten, In-App-Feedback, Abschlussumfrage)
-- Erstellung eines strukturierten Gesamtberichts (4 Kapitel, navigierbar, Word-Export)
-- Bereinigung und Validierung aller Kennzahlen, Erstellung validiertes Auswertungs-Script
+### Nächste Schritte
 
-**Output/Ergebnisse:**
-- `pilot-ergebnisse/Pilotauswertung_Gesamtbericht_20260410.md/.docx` — vollständiger Analysebericht
-- `pilot-ergebnisse/Eigene_Massnahmen_235_eindeutig.md` — Liste der 235 eigenen Maßnahmen
-- `pilot-ergebnisse/auswertung_basis.py` — validiertes Auswertungs-Script
-- `fachlichkeit/screenshots/` — 19 App-Screenshots mit Walkthrough-Dokumentation
-- `docs/` — Begriffsmodell, UI-Wording, Figma-Plugin-Anforderungen, Agentenkommunikation
-
-**Zentrale Erkenntnisse aus der Pilotauswertung:**
-- 133 Nutzer, 60 Tage, Ø 7 Minuten Sitzungsdauer
-- Bedienbarkeit gut (Ø 3,46/4) — fachlicher Inhalt enttäuscht (Förderziele: Ø 2,15/4)
-- Top-3-Probleme: Unterstützer-Feld zu eingeschränkt, Maßnahmen lückenhaft, keine Nachbearbeitung möglich
-- Größter Wunsch für Ausbaustufe 2: Kollegiums-Austauschfunktion (9 von 19 auf Rang 1)
-
-**Aktuelle Herausforderung:**
-Tiefere Screen-Ebenen sind in Figma nicht als eigenständige Komponenten definiert — manuell eingebettet. Erschwert automatisierte Generierung. Lösung in Erarbeitung.
-
-**Nächste Schritte:**
-- Figma-Screens auf Basis der Piloterkenntnisse entwickeln (KW 16)
-- Fachliche Anforderungen von Sebastian ins Repo
+- Analyse der Prozessbeschreibungen und ARIS-Modelle abschließen
+- Erste vollständige Screens auf Basis der Pilotauswertung entwickeln
 - Handlungsanweisungen für Design-Agent (Yves) und Fachlichkeits-Agent (Sebastian) erstellen
 - Steuerungs- und Freigabe-Matrix für das Agenten-Team aufsetzen
-- Direkte Kommunikation Cheko ↔ Bernd einrichten (läuft derzeit über Sarah als Brücke)
+- Direkte Kommunikation zwischen Cheko und Sebastian-Agent einrichten (läuft derzeit über Sarah)
+
+### Herausforderung
+
+Tiefere Screen-Ebenen sind in Figma nicht als eigenständige Komponenten definiert — manuell eingebettet. Erschwert die automatisierte Generierung. Lösung wird erarbeitet.
+
+### Ungefährer Tokenaufwand
+
+Größtes Thema — läuft den gesamten April. Tokenaufwand wird fortlaufend akkumuliert; manuelle Erfassung je Session.
 
 ---
 
-## 2. Analyse CD-Vorgaben Land Hessen / Figma Design Specs
+## 2. Auswertung ILA-Pilot
 
-**Status:** ✅ Abgeschlossen
+**Ziel:** Vollständige quantitative und qualitative Auswertung des realen ILA-Piloten (133 Nutzer, 60 Tage) als Grundlage für die Weiterentwicklung.
 
-**Beschreibung:**
-Analyse der Figma Design Specs der ILA-Anwendung sowie der Corporate-Design-Vorgaben des Landes Hessen als Grundlage für die KI-gestützte Screen-Generierung.
+### Fortschritt
 
-**Ergebnisse:**
-- 24 Figma-Seiten analysiert und dokumentiert (9 Screen-Seiten, 9 Komponenten-Seiten, 6 sonstige)
-- 9 Hauptflows erfasst: Neue Förderung, Förderziele, Evaluation, Förderplan, Notizen, Feedback u.a.
-- 155 Komponenten aus dem Design-System erfasst und in Plugin integriert
-- Responsive-Strategie dokumentiert: S/M/L-Größen je Screen
-- Bekannte Node-IDs der Kernkomponenten dokumentiert (Navigation Bar, Task List Item, Notiz)
-- CD-Vorgaben sind in Figma-Datei umgesetzt und fließen in die Screen-Generierung ein
+Abgeschlossen. Drei Datenquellen ausgewertet:
 
-**Output:**
-- `docs/figma-analyse-design-specs-2026-03-31.md` — vollständige Analyse
-- `docs/ui-wording-regeln-v1.md` — Sprach- und Benennungsregeln
-- `docs/begriffsmodell-v1.md` — fachliches Begriffsmodell
+- **Nutzerverhalten** (15.342 Zeilen): Nutzung, Rückkehrverhalten, Maßnahmen, Förderpläne, Jahrgänge
+- **In-App-Feedback** (32 Einträge, 27 Freitexte): Bewertungen nach Seite/Schritt, thematische Cluster
+- **Abschlussumfrage** (19 Teilnehmende): Bedienbarkeit, Fachpraxis, gewünschte Funktionen
 
----
+Gesamtbericht erstellt (4 Kapitel, navigierbar), validiert und versandt.
 
-## 3. Datenanalyse & Gesamtauswertung Pilot ILA
+**Zentrale Erkenntnisse:**
+- Bedienbarkeit gut (Ø 3,46/4) — fachlicher Inhalt enttäuscht (Förderziele: Ø 2,15/4)
+- Top-3-Probleme: Unterstützer-Feld zu eingeschränkt, Maßnahmen lückenhaft, keine Nachbearbeitung möglich
+- Größter Wunsch Ausbaustufe 2: Kollegiums-Austauschfunktion (9 von 19 auf Rang 1)
 
-**Status:** ✅ Abgeschlossen
+### Nächste Schritte
 
-**Beschreibung:**
-Vollständige quantitative und qualitative Auswertung der drei Datenquellen aus dem ILA-Piloten: Nutzungsverhalten (Sheet 1), In-App-Feedback (Sheet 2) und Abschlussumfrage (CSV).
+Keine — abgeschlossen.
 
-**Ergebnis:**
-Gesamtbericht erstellt, validiert und im Repository abgelegt. Word-Export verfügbar. Alle Kennzahlen auf Datenfehler geprüft und bereinigt.
+### Herausforderung
 
----
+Keine — abgeschlossen.
 
-## 4. Anforderungen an eine Corporate LLM für das Referat VI 3.1 des HMKB
+### Ungefährer Tokenaufwand
 
-**Status:** 🔵 In Vorbereitung
-
-**Beschreibung:**
-Erstellung eines Anforderungsdokuments für eine mögliche Ausschreibung zur Implementierung einer Corporate LLM (Large Language Model, großes Sprachmodell) inkl. Agentenstruktur für das Referat VI 3.1. Das Dokument beschreibt unter anderem: Was ist eine Corporate LLM, wie müsste eine solche für das Referat aussehen, und welche Anforderungen sind an Anbieter zu stellen.
-
-**Aktivitäten:**
-- Thema definiert, Ordnerstruktur im Repository angelegt
-- Inhaltliche Ausarbeitung beginnt in KW 15
-
-**Nächste Schritte:**
-- Inhaltliche Ausarbeitung des Dokuments
-- Definition der Anforderungskategorien
-- Abstimmung mit Sarah über Zielgruppe und Detailtiefe
+Intensiv — ein Arbeitstag (KW 15). Hauptaufwand: iterative Datenanalyse, Fehlerkorrektur, Berichtsstrukturierung.
 
 ---
 
-## KI-Nutzung
+## 3. Analyse Erlass zum neuen Hessenauftritt
 
-| Kennzahl | Wert |
+**Ziel:** Analyse des STK-Erlasses vom 23.03.2026 (neues Corporate Design Land Hessen) und Bewertung der Auswirkungen auf die ILA-Anwendung.
+
+### Fortschritt
+
+Abgeschlossen. Grundlage: Erlass + Hessen Corporate Design Manual V1.0k + Analyse der realen ILA-Anwendung (Screenshots).
+
+**Zentrale Erkenntnisse:**
+- ILA ist bereits nahezu CD-konform in der Grundstruktur — kein Redesign notwendig
+- Konkrete Anpassungen: Hessenmarke einbinden, Schriftart (Hessen Gellix), Farbkalibrierung auf Hessen Blau #0A0076
+- Offene politische Frage: darf das ila-Logo (Smile) als Ausnahme bestehen bleiben?
+- Mit KI-Unterstützung ist eine schrittweise Anpassung deutlich beschleunigt möglich
+
+Analyse-Dokument erstellt und versandt.
+
+### Nächste Schritte
+
+Keine — abgeschlossen. Entscheidung zum ila-Logo liegt beim HMKB.
+
+### Herausforderung
+
+Keine — abgeschlossen.
+
+### Ungefährer Tokenaufwand
+
+Mittel — Erlass-Lektüre und Screenshot-Analyse über eine Session.
+
+---
+
+## 4. Anforderungen an eine Corporate LLM im Ref. VI.3.1
+
+**Ziel:** Erstellung eines Anforderungsdokuments für eine mögliche Ausschreibung zur Implementierung einer Corporate LLM (Large Language Model) inkl. Agentenstruktur für das Referat VI.3.1 des HMKB.
+
+### Fortschritt
+
+Noch nicht begonnen. Ordnerstruktur im Repository angelegt: `Anforderungen an eine Corporate LLM/`
+
+### Nächste Schritte
+
+- Inhaltliche Ausarbeitung des Dokuments beginnen
+- Definition der Anforderungskategorien (Was ist eine Corporate LLM? Welche Anforderungen an Anbieter?)
+- Beschreibung des konkreten Bedarfs für Referat VI.3.1
+
+### Herausforderung
+
+Noch offen — wird bei Beginn der Ausarbeitung definiert.
+
+### Ungefährer Tokenaufwand
+
+Noch nicht abschätzbar — Thema wurde noch nicht begonnen.
+
+---
+
+## 5. Allgemeine Unterstützung
+
+**Ziel:** Unterstützung bei verschiedenen einzelnen Fragen und Aufgaben, die nicht einem der Hauptthemen zuzuordnen sind — z.B. konzeptionelle Diskussionen, Einschätzungen, Recherchen, Erklärungen.
+
+### Fortschritt
+
+Laufend. Beispiele dieser Woche:
+- Erklärung Telegram-Sicherheit vs. WhatsApp vs. Signal
+- Strukturierung und Formatdiskussion des Statusberichts
+- Diskussion über Token-Erfassung und Berichtsformat
+
+### Nächste Schritte
+
+Fortlaufend nach Bedarf.
+
+### Herausforderung
+
+Keine.
+
+### Ungefährer Tokenaufwand
+
+Gering bis mittel je Woche — verteilt über mehrere kurze Interaktionen.
+
+---
+
+## Technische Infrastruktur (Überblick)
+
+| Komponente | Status |
 |---|---|
-| Modell | Claude Sonnet 4.6 (Anthropic) |
-| Session KW 15 | laufend |
-| Cache-Hit-Rate | ~100% (effiziente Nutzung durch Kontext-Caching) |
-| Token-Erfassung | Manuell je Session — keine automatische Akkumulation über Sessions |
-
-*Hinweis: OpenClaw speichert Token-Verbräuche nicht automatisch über Sessions hinweg. Auf Wunsch kann ein manuelles Token-Log eingerichtet werden.*
+| Cheko (ILA-Hauptagent) | ✅ Betriebsbereit |
+| Sebastians Agent (Bernd) | ✅ Betriebsbereit |
+| Figma-Plugin | ✅ Läuft (v4, 155 Komponenten) |
+| ILA-Repository | ✅ Aktuell |
+| Semantische Suche | ⚠️ Teilweise (Torsten muss einrichten) |
+| Direkte Agenten-Kommunikation Cheko ↔ Bernd | ⚠️ Noch über Sarah als Brücke |
 
 ---
 
