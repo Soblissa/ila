@@ -134,4 +134,21 @@ Niedrig
 
 ---
 
+## 6. Verbrauch und Kosten
+
+**Status:** Wird wöchentlich aktualisiert
+
+| Thema | Aufwand | Kosten (ca.) |
+|---|---|---|
+| KI-Pilot | Hoch | — |
+| Auswertung ILA-Pilot | Hoch | — |
+| Analyse Erlass Hessenauftritt | Mittel | — |
+| Corporate LLM | Noch nicht begonnen | — |
+| Allgemeine Unterstützung | Niedrig | — |
+| **Gesamt KW 15** | | — |
+
+*Hinweis: Eine automatische Token-Erfassung über mehrere Sessions hinweg ist technisch noch nicht eingerichtet. Die Kosten werden derzeit manuell geschätzt und in Folgeberichten präzisiert. Grundlage: Claude Sonnet 4.6 (Anthropic), Preise ca. 3 USD / 1M Input-Token und 15 USD / 1M Output-Token.*
+
+---
+
 *Nächste Aktualisierung: KW 16 | Erstellt mit: Cheko (ILA-Hauptagent)*
