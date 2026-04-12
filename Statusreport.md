@@ -144,14 +144,17 @@ Cheko ist an Claude Sonnet 4.6 (Anthropic) angebunden — das aktuell leistungsf
 
 Eine automatische Erfassung des Verbrauchs über mehrere Sessions hinweg ist technisch noch nicht eingerichtet. Konkrete Kostenzahlen werden in Folgeberichten ergänzt.
 
-| Thema | Aufwand | Kosten (ca.) |
+| Thema | Geschätzte Zeit | Geschätzte Kosten |
 |---|---|---|
-| KI-Pilot | Hoch | — |
-| Auswertung ILA-Pilot | Hoch | — |
-| Analyse Erlass Hessenauftritt | Mittel | — |
-| Corporate LLM | Noch nicht begonnen | — |
-| Allgemeine Unterstützung | Niedrig | — |
-| **Gesamt KW 15** | | — |
+| KI-Pilot (Cheko) | ~20 Std. | ~15–25 € |
+| Auswertung ILA-Pilot (Cheko) | ~8 Std. | ~5–10 € |
+| Analyse Erlass Hessenauftritt (Cheko) | ~3 Std. | ~2–5 € |
+| Corporate LLM (Cheko) | noch nicht begonnen | — |
+| Allgemeine Unterstützung (Cheko) | ~2 Std. | ~1–3 € |
+| Sebastians Agent Bernd | ~5 Std. | ~2–5 € |
+| **Gesamt (Schätzung)** | **~38 Std.** | **~25–48 €** |
+
+*Alle Werte sind grobe Schätzungen auf Basis des Arbeitsaufwands und der gängigen Modellpreise. Präzise Zahlen folgen sobald eine automatische Verbrauchserfassung eingerichtet ist.*
 
 ---
 
