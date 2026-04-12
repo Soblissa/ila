@@ -146,15 +146,15 @@ Eine automatische Erfassung des Verbrauchs über mehrere Sessions hinweg ist tec
 
 | Thema | Geschätzte Zeit | Geschätzte Kosten |
 |---|---|---|
-| KI-Pilot (Cheko) | ~20 Std. | ~15–25 € |
-| Auswertung ILA-Pilot (Cheko) | ~8 Std. | ~5–10 € |
-| Analyse Erlass Hessenauftritt (Cheko) | ~3 Std. | ~2–5 € |
+| KI-Pilot (Cheko) | ~20 Std. | Haupttreiber |
+| Auswertung ILA-Pilot (Cheko) | ~8 Std. | Enthalten |
+| Analyse Erlass Hessenauftritt (Cheko) | ~3 Std. | Enthalten |
 | Corporate LLM (Cheko) | noch nicht begonnen | — |
-| Allgemeine Unterstützung (Cheko) | ~2 Std. | ~1–3 € |
-| Sebastians Agent Bernd | ~5 Std. | ~2–5 € |
-| **Gesamt (Schätzung)** | **~38 Std.** | **~25–48 €** |
+| Allgemeine Unterstützung (Cheko) | ~2 Std. | Enthalten |
+| Sebastians Agent Bernd | ~5 Std. | Enthalten |
+| **Gesamt bisher (kumuliert)** | **~38 Std.** | **ca. 535 USD (~490 €)** |
 
-*Alle Werte sind grobe Schätzungen auf Basis des Arbeitsaufwands und der gängigen Modellpreise. Präzise Zahlen folgen sobald eine automatische Verbrauchserfassung eingerichtet ist.*
+*Quelle: Anthropic Billing-Übersicht (Stand KW 14/2026). Bisherige Zahlungen: 297,50 $ + 119,00 $ + 89,25 $ + 29,75 $. Zusätzlich noch 249,61 $ Guthaben vorhanden. Eine automatische Aufschlüsselung nach Themen ist technisch nicht verfügbar.*
 
 ---
 
