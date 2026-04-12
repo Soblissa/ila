@@ -138,6 +138,12 @@ Niedrig
 
 **Status:** Wird wöchentlich aktualisiert
 
+Der mit Abstand größte Kostentreiber ist der KI-Pilot. Grund dafür ist die Natur des Projekts: Es werden große Mengen an Daten erzeugt und verarbeitet (Design Specs, Prozessmodelle, Screenshots, Analysen), und der Lernprozess ist aufwendig — allein das Figma-Plugin wurde in dieser Phase mehr als 15 Mal angepasst. Wir sind noch dabei, effektiver auf Fehler zu reagieren und Umwege zu vermeiden. Das wird den Verbrauch in den nächsten Wochen senken.
+
+Cheko ist an Claude Sonnet 4.6 (Anthropic) angebunden — das aktuell leistungsfähigste Modell im Einsatz. Theoretisch wäre ein Wechsel auf ein günstigeres Modell möglich und würde die Kosten deutlich reduzieren. Angesichts der Komplexität des Projekts und der Qualitätsanforderungen wird davon aktuell bewusst abgesehen.
+
+Eine automatische Token-Erfassung über mehrere Sessions hinweg ist noch nicht eingerichtet. Kosten werden in Folgeberichten ergänzt.
+
 | Thema | Aufwand | Kosten (ca.) |
 |---|---|---|
 | KI-Pilot | Hoch | — |
@@ -146,12 +152,6 @@ Niedrig
 | Corporate LLM | Noch nicht begonnen | — |
 | Allgemeine Unterstützung | Niedrig | — |
 | **Gesamt KW 15** | | — |
-
-Der mit Abstand größte Kostentreiber ist der KI-Pilot. Grund dafür ist die Natur des Projekts: Es werden große Mengen an Daten erzeugt und verarbeitet (Design Specs, Prozessmodelle, Screenshots, Analysen), und der Lernprozess ist aufwendig — allein das Figma-Plugin wurde in dieser Phase mehr als 15 Mal angepasst. Wir sind noch dabei, effektiver auf Fehler zu reagieren und Umwege zu vermeiden. Das wird den Verbrauch in den nächsten Wochen senken.
-
-Cheko ist an Claude Sonnet 4.6 (Anthropic) angebunden — das aktuell leistungsfähigste Modell im Einsatz. Theoretisch wäre ein Wechsel auf ein günstigeres Modell möglich und würde die Kosten deutlich reduzieren. Angesichts der Komplexität des Projekts und der Qualitätsanforderungen wird davon aktuell bewusst abgesehen.
-
-Eine automatische Token-Erfassung über mehrere Sessions hinweg ist noch nicht eingerichtet. Kosten werden in Folgeberichten ergänzt.
 
 ---
 
