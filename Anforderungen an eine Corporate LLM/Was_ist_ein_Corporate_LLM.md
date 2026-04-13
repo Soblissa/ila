@@ -100,7 +100,6 @@ Ein Corporate LLM entfaltet seinen größten Nutzen bei **wiederkehrenden, wisse
 | **Anwenderhilfen-Generator** | Aus Fachdokumentation nutzergerechte Hilfen in einfacher Sprache erzeugen — zielgruppenspezifisch |
 | **Wissensassistent** | Fragen zu komplexen internen Systemen, Prozessen oder Regelwerken beantworten — auf Basis der eigenen Dokumentation |
 | **Change-Impact-Analyse** | Bei Änderungen automatisch prüfen: Was ist betroffen? Welche Dokumente, Testfälle, Hilfen müssen angepasst werden? |
-| **Protokoll- und Berichtsassistent** | Aus Stichpunkten oder Sprachdiktaten strukturierte Protokolle, Berichte oder E-Mails erstellen |
 | **Abteilungsinternes FAQ** | Häufige Fragen zu Prozessen, Zuständigkeiten und Regelungen automatisch beantworten |
 
 **Gemeinsames Muster:** Der Mensch bringt Fachurteil und Freigabe — der Agent übernimmt Strukturierung, Vollständigkeit und Konsistenz.
