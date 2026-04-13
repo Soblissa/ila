@@ -130,21 +130,113 @@ Gesprochene Eingaben werden in kontextgerechten Text umgewandelt. Besonders wert
 
 ## 5. Ausgangslage im Referat IV. 2.1
 
-*Wird gemeinsam mit Sarah ausgearbeitet.*
+### Die LUSD als Kernanwendung
 
-Offene Fragen:
+Die **LUSD** (Lehrer- und Schülerdatenbank Hessen) ist die zentrale Schulverwaltungslösung für alle Schulen in Hessen. Sie verwaltet Schüler-, Unterrichts- und Leistungsdaten, Lehrereinsätze, Kursbelegungen, Zulassungen für Abschlüsse und liefert Grunddaten für Planung und Statistik.
 
-- Welche Aufgaben sind besonders zeitintensiv und wiederkehrend?
-- Welche internen Wissensquellen (Erlasse, Handreichungen, Prozessbeschreibungen) könnten indexiert werden?
-- Welche Mitarbeitenden nutzen bereits KI — und wie (auch privat)?
-- Gibt es eine KI-Nutzungsrichtlinie im HMKB?
-- Welche Datenschutzvorgaben gelten konkret für das Referat?
+Die LUSD ist über 20 Jahre gewachsen, wird kontinuierlich weiterentwickelt (3–4 Releases pro Jahr) und befindet sich aktuell im Umbau: Der ursprüngliche Monolith wird schrittweise in Microservices überführt.
+
+**Charakteristika aus Nutzerperspektive:**
+- Sehr komplex und für viele Nutzer schwer zugänglich
+- Umfangreiche Funktionalität, die in der Breite kaum überblickbar ist
+- Hoher Dokumentations- und Erklärungsaufwand bei jeder Änderung
+
+### Wie Weiterentwicklung heute funktioniert
+
+Die Weiterentwicklung der LUSD läuft über **Azure DevOps**. Der Prozess:
+
+1. Mitarbeitende des Referats schreiben **Anwendungsanforderungen (AWA)** — strukturierte fachliche Beschreibungen dessen, was die Anwendung künftig können soll
+2. AWAs dienen als Grundlage für die Entwicklerinnen und Entwickler
+3. Aus umgesetzten AWAs entsteht (manuell) die **Verfahrensdokumentation**
+4. Aus der Verfahrensdokumentation entstehen (manuell) die **Anwenderhilfen** für Lehrkräfte und Schulleitungen
+
+Ein erheblicher Teil der Referat-Kapazität fließt in diese Prozesskette. Jede AWA-Änderung zieht manuelle Nachpflege in Dokumentation und Hilfen nach sich.
 
 ---
 
 ## 6. Anwendungsfälle für Referat IV. 2.1
 
-*Folgt nach Abstimmung mit Sarah.*
+*Entwurf — zur Abstimmung mit Sarah*
+
+### 6.1 AWA-Assistent
+
+**Problem:** AWAs müssen strukturiert, vollständig und entwicklergerecht formuliert sein. Das erfordert Erfahrung und kostet Zeit.
+
+**Lösung:** Ein KI-Agent der auf Basis einer fachlichen Beschreibung eine strukturierte AWA entwirft — inklusive Akzeptanzkriterien, Ausnahmebehandlung und Abgrenzung zu bestehenden Funktionen. Der Mitarbeitende prüft und finalisiert.
+
+**Wissensbasis:** Bestehende AWAs, LUSD-Systemdokumentation, Fachbegriffe
+
+---
+
+### 6.2 Testfall-Generator
+
+**Problem:** Aus jeder AWA müssen Testfälle abgeleitet werden. Das geschieht heute manuell und ist fehleranfällig.
+
+**Lösung:** Ein KI-Agent der aus einer fertigen AWA automatisch Testfälle generiert — Normalfall, Sonderfall, Fehlerfall. Grundlage für strukturiertes Testen oder spätere Testautomatisierung.
+
+**Wissensbasis:** AWA, LUSD-Prozessbeschreibungen, bestehende Testfälle als Muster
+
+---
+
+### 6.3 Verfahrensdokumentation-Generator
+
+**Problem:** Nach Umsetzung einer AWA muss die Verfahrensdokumentation manuell aktualisiert werden. Das passiert verzögert oder unvollständig.
+
+**Lösung:** Aus umgesetzten AWAs wird automatisch ein Entwurf der aktualisierten Verfahrensdokumentation erstellt. Ändert sich eine AWA, wird der betroffene Dokumentationsabschnitt automatisch zur Überarbeitung markiert und ein neuer Entwurf vorgeschlagen.
+
+**Wissensbasis:** AWAs, bestehende Verfahrensdokumentation, Dokumentationsstandards
+
+---
+
+### 6.4 Anwenderhilfen-Generator
+
+**Problem:** Anwenderhilfen für Lehrkräfte und Schulleitungen werden manuell aus der Verfahrensdokumentation abgeleitet. Sprache und Detailtiefe sind oft nicht nutzergerecht.
+
+**Lösung:** Aus der Verfahrensdokumentation werden nutzergerechte Hilfen in einfacher Sprache generiert — angepasst an die Zielgruppe (Lehrkraft, Schulleitung, Schulverwaltung). Bei Änderungen automatischer Hinweis auf betroffene Hilfetexte.
+
+**Wissensbasis:** Verfahrensdokumentation, bestehende Anwenderhilfen, Zielgruppenprofil
+
+---
+
+### 6.5 LUSD-Wissensassistent
+
+**Problem:** Die LUSD ist komplex. Viele Fragen zu Funktionen, Prozessen und Abhängigkeiten können nur von wenigen Personen mit tiefem Systemwissen beantwortet werden.
+
+**Lösung:** Ein KI-Assistent der auf Basis der indexierten LUSD-Systemdokumentation, AWAs und Verfahrensdokumentation Fragen beantwortet — intern für das Referat, perspektivisch auch für Schulen.
+
+**Wissensbasis:** LUSD-Dokumentation, AWAs, Verfahrensdokumentation, FAQ
+
+---
+
+### 6.6 Change-Impact-Analyse
+
+**Problem:** Eine neue oder geänderte AWA kann bestehende Funktionen, Dokumentation und Hilfen betreffen. Das wird heute manuell geprüft.
+
+**Lösung:** Beim Eingang einer neuen AWA prüft ein Agent automatisch: Welche bestehenden Funktionen sind betroffen? Welche Dokumentationsabschnitte müssen überarbeitet werden? Welche Testfälle müssen angepasst werden?
+
+**Wissensbasis:** Alle bestehenden AWAs, Verfahrensdokumentation, Funktionsregister
+
+---
+
+### Gesamtbild: Der KI-gestützte AWA-Prozess
+
+```
+Fachliche Anforderung (Mensch)
+    ↓
+[AWA-Assistent] → strukturierte AWA
+    ↓
+[Testfall-Generator] → Testfälle
+    ↓
+Entwicklung (Mensch)
+    ↓
+[Verfahrensdoku-Generator] → aktualisierte Dokumentation
+    ↓
+[Anwenderhilfen-Generator] → nutzergerechte Hilfen
+    ↓
+[Änderung einer AWA] → [Change-Impact-Analyse] → automatischer Update-Vorschlag
+```
+
+*Offene Fragen zur Konkretisierung: Format bestehender AWAs, Umfang der vorhandenen Dokumentation, Datenschutzeinstufung der LUSD-Inhalte*
 
 ---
 
