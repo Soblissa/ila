@@ -88,7 +88,26 @@ Granulare Zugriffssteuerung: Wer darf welche Agenten, welches Wissen, welche Fun
 
 Zugang zu mehreren KI-Modellen über eine Oberfläche. Automatische Weiterleitung an das geeignetste Modell je nach Aufgabentyp möglich — wirtschaftlich und qualitätsorientiert.
 
-### 3.7 Spracheingabe (optional)
+### 3.7 Typische Anwendungsfälle
+
+Ein Corporate LLM entfaltet seinen größten Nutzen bei **wiederkehrenden, wissensintensiven Aufgaben**. Typische Beispiele:
+
+| Anwendungsfall | Beschreibung |
+|---|---|
+| **Anforderungsassistent** | Aus fachlichen Beschreibungen strukturierte Anforderungsdokumente generieren — einheitlich, vollständig, prüfbar |
+| **Testfall-Generator** | Aus Anforderungen systematisch Testfälle ableiten (Normalfall, Sonderfall, Fehlerfall) — höhere Abdeckung als bei manueller Erstellung |
+| **Dokumentations-Generator** | Aus umgesetzten Anforderungen automatisch Verfahrensdokumentation erstellen und bei Änderungen aktualisieren |
+| **Anwenderhilfen-Generator** | Aus Fachdokumentation nutzergerechte Hilfen in einfacher Sprache erzeugen — zielgruppenspezifisch |
+| **Wissensassistent** | Fragen zu komplexen internen Systemen, Prozessen oder Regelwerken beantworten — auf Basis der eigenen Dokumentation |
+| **Change-Impact-Analyse** | Bei Änderungen automatisch prüfen: Was ist betroffen? Welche Dokumente, Testfälle, Hilfen müssen angepasst werden? |
+| **Protokoll- und Berichtsassistent** | Aus Stichpunkten oder Sprachdiktaten strukturierte Protokolle, Berichte oder E-Mails erstellen |
+| **Abteilungsinternes FAQ** | Häufige Fragen zu Prozessen, Zuständigkeiten und Regelungen automatisch beantworten |
+
+**Gemeinsames Muster:** Der Mensch bringt Fachurteil und Freigabe — der Agent übernimmt Strukturierung, Vollständigkeit und Konsistenz.
+
+---
+
+### 3.8 Spracheingabe (optional)
 
 Gesprochene Eingaben werden in kontextgerechten Text umgewandelt. Besonders wertvoll für Protokolle, Berichte und Notizen nach Besprechungen.
 
