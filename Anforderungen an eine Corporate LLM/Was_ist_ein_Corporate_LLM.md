@@ -1,5 +1,5 @@
 # Anforderungen an eine Corporate LLM
-## für das Referat VI 3.1 des HMKB
+## für das Referat IV. 2.1 des HMKB
 
 *Erstellt: 2026-04-12 | Status: Entwurf*
 
@@ -68,7 +68,7 @@ Zusätzlich im HMKB-Kontext:
 
 ---
 
-## 4. Ausgangslage im Referat VI 3.1
+## 4. Ausgangslage im Referat IV. 2.1
 
 *Wird gemeinsam mit Sarah ausgearbeitet.*
 
@@ -81,7 +81,7 @@ Offene Fragen:
 
 ---
 
-## 5. Anwendungsfälle für Referat VI 3.1
+## 5. Anwendungsfälle für Referat IV. 2.1
 
 *Folgt nach Abstimmung mit Sarah.*
 

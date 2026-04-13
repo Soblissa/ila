@@ -1,5 +1,5 @@
 # Statusbericht KI-Einsatz
-*Referat VI 3.1 | HMKB*
+*Referat IV. 2.1 | HMKB*
 *Stand: KW 15 / 2026-04-12*
 
 ---
@@ -89,7 +89,7 @@ Mittel
 
 ---
 
-## 4. Anforderungen an eine Corporate LLM im Ref. VI.3.1
+## 4. Anforderungen an eine Corporate LLM im Ref. IV. 2.1
 
 **Status:** 🔵 In Vorbereitung
 
@@ -161,7 +161,7 @@ Eine automatische Erfassung des Verbrauchs über mehrere Sessions hinweg ist tec
 ---
 
 **Ziele KW 16:**
-- Corporate LLM Dokument (Ref. VI.3.1 HMKB) abschließen
+- Corporate LLM Dokument (Ref. IV. 2.1 HMKB) abschließen
 - KI-Pilot "Figma Design" weiterführen
 
 *Nächste Aktualisierung: KW 16 | Erstellt mit: Cheko (ILA-Hauptagent)*
