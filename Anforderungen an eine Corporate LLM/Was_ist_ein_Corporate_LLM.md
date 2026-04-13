@@ -9,7 +9,9 @@
 
 Ein **Corporate LLM** (Corporate Large Language Model — unternehmenseigenes großes Sprachmodell) ist kein eigenes KI-Modell das von Grund auf neu trainiert wird. Es ist ein **privater, DSGVO-konformer KI-Arbeitsbereich für eine Organisation**, der auf bestehenden Sprachmodellen (z. B. von Anthropic, OpenAI oder europäischen Anbietern wie Mistral) aufsetzt.
 
-Der entscheidende Unterschied zu allgemeinen KI-Tools: Das System antwortet nicht aus allgemeinem Internetwissen, sondern aus dem **eigenen Wissen der Organisation** — Erlasse, Prozessbeschreibungen, Handreichungen, interne Standards. Dieses Wissen wird indexiert und fließt automatisch in jede Anfrage ein.
+Das zugrunde liegende Sprachmodell bringt allgemeines Sprachverständnis und Grundwissen mit — erworben durch das Training auf großen Mengen öffentlicher Texte. Ein Corporate LLM erweitert das um das **eigene Wissen der Organisation**: Erlasse, Prozessbeschreibungen, Handreichungen, interne Standards. Dieses Wissen wird indexiert und fließt automatisch als zusätzlicher Kontext in jede Anfrage ein. Das Ergebnis ist eine Mischung aus beidem — wobei das Behördenwissen Vorrang hat und die Antwort in die richtige Richtung lenkt.
+
+Analogie: Ein neuer Mitarbeiter bringt seine allgemeine Ausbildung mit. Dann bekommt er das Handbuch, die Erlasse und die internen Prozesse der Behörde. Ab dann arbeitet er mit beidem — aber die Hausregeln stechen das Schulbuchwissen.
 
 | Merkmal | Bedeutung |
 |---|---|
