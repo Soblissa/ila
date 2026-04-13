@@ -1,0 +1,424 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Fachoberschule (VO 2022)
+Hinweise und Zeugnisbeispiele
+
+1
+
+2
+
+Zeugnisformulare
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+VO Anlage 2b, 2bm A4
+
+S.5
+
+Jahreszeugnis Stufe 11
+
+VO Anlage 2c, 2cm A4
+
+S.8
+
+Jahreszeugnis Stufe 12
+
+VO Anlage 2d, 2dm A4
+
+S.10
+
+Abgangszeugnis vorzeitig Stufe 11
+
+VO Anlage 2g, 2gm A4
+
+S.12
+
+Abgangszeugnis vorzeitig Stufe 12
+
+VO Anlage 2h, 2hm A4
+
+S.14
+
+Abgangszeugnis nach Prüfung bei der Zeugniszuweisung Prüfungsdatum
+eingetragen
+
+VO Anlage 2i, 2im A3
+
+S.16
+
+Abschlusszeugnis (VO 2022)
+
+VO Anlage 2f, 2fm A3
+
+S.16
+
+Kursmerkmale
+Zeugnisart
+
+Kursart
+
+Kursdifferenzierung
+
+Fächer des allgemeinen Lernbereichs
+
+P
+
+-
+
+Themen- und Aufgabenfelder des beruflichen
+Lernbereichs TF11.01 – TF11.09 und TF12.01 –
+TF12.23
+
+P
+
+-
+
+Fächer des Wahlpflichtunterrichts
+allgemeinbildende Fächer oder Themenfelder z. B.
+TF12.05
+
+W
+
+-
+
+Fächer des Wahlangebots
+
+F
+
+-
+
+Freiwillige Arbeitsgemeinschaft
+
+A
+
+-
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+1
+
+3
+
+4
+
+Zeugnisdaten
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen
+Zeugnissen
+
+Ausgabedatum
+
+Ende Schulbesuch
+Abgangszeugnis
+
+Ausgabedatum
+
+Ende Schulbesuch
+Abschlusszeugnis
+
+Abschluss-Prüfungsdatum
+
+Datum Abschlussprüfung
+
+Mündliche-Prüfungsdatum
+
+Noteneingabe
+Note
+
+Eingabe
+
+Gesamtnote beruflicher Lernbereich
+
+Gesamtnote beruflicher Bereich
+
+(Punkte bzw. bei hist. Zeugnissen Note ohne
+Nachkommastelle)
+
+Gesamtnote der Themenfelder des
+Wahlpflichtbereichs
+
+Gesamtnote Wahlpflichtunterricht
+
+(Punkte bzw. bei hist. Zeugnissen Note ohne
+Nachkommastelle)
+
+Schriftliche und mündliche Prüfergebnisse
+
+Eingabe unter UNTERRICHT > ABSCHLÜSSE
+> FHR-FOS
+Alle Register müssen bearbeitet werden.
+Schüler hat dann den Status [Bestanden =
+vier grüne Balken].
+
+Durchschnittsnote Fachhochschulreife
+(Note mit einer Nachkommastelle)
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+Wird auf der Abschlussseite berechnet,
+keine direkte Eingabe möglich.
+
+2
+
+5
+
+Abschlüsse
+Ein Abbruch (vorzeitiges Verlassen des Bildungsganges) ist in jeder Stufe möglich.
+Stufe
+
+Mögliche Abschlüsse
+
+11/2
+
+Gleichstellung mit mittlerem Abschluss (GYM8)
+
+12/2
+(FOBT: 12/2 bzw.
+13/2)
+
+6
+
+▪ Fachhochschulreife
+▪ Kein Abschluss (nach Beendigung des Bildungsganges)
+
+Hinweise
+
+▪ Auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISFORMULARE kann bei Abgangsund Abschlusszeugnissen der Prüfungsvorsitzende(n) mit Namen und Geschlecht eingepflegt
+werden und wird dann auch entsprechend ausgedruckt. Wird der Prüfungsvorsitz und Name nicht
+gepflegt, kommt in den betreffenden Zeugnissen die allgemeine Form „Vorsitzende/r des
+Prüfungsausschusses“.
+▪ Fächer des allgemeinen Lernbereichs, des Wahlpflichtunterrichts und des Wahlunterrichts werden
+in den Zeugnissen nur angezeigt, wenn entsprechende Kurse belegt wurden. Das Gleiche gilt für
+die Themenfelder des beruflichen Lernbereichs. Je nach Schwerpunkt werden nur die für den
+Schwerpunkt vorgesehenen Themenfelder ausgedruckt.
+▪ Besonderheiten bei den modularen Bildungsgängen sind zu beachten. Hilfe bei den
+richtigen Themenfelder kann die Liste Berufe und Lernfelder unter SchuleHessen - LUSD
+Anleitungen sein.
+▪ In Abgangs- und Abschlusszeugnissen werden die historischen Themenfeldnoten des Schuljahres
+übernommen. Wurde z. B. in der Stufe 11/2 keine Bewertung erfasst, wird die Bewertung aus 11/1
+im Zeugnis ausgewiesen.
+▪ Sollen Noten eines allgemeinbildenden Faches bspw. aus dem ersten Halbjahr ausgewiesen
+werden, so sind diese epochal einzupflegen.
+▪ In Abgangszeugnissen bei vorzeitigem Ausscheiden, d.h. ohne Teilnahme an der
+Abschlussprüfung, darf bei der Zeugniszuweisung kein Abschluss-Prüfung Datum eingetragen
+werden.
+▪ In Abgangszeugnissen nach einer Abschlussprüfung muss das Abschluss-Prüfung Datum
+eingetragen werden. Durch diesen Eintrag kommt auf das Zeugnis der Satz "Er/Sie hat an der
+Abschlussprüfung teilgenommen und diese nicht bestanden."
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+3
+
+▪ Des Weiteren kommt durch den Eintrag dieses Datums der Unterschriftenblock mit der/dem
+Prüfungsvorsitzende(n) je nach Eintrag unter UNTERRICHT > ZEUGNISKONFIGURATION >
+ZEUGNISFORMULARE.
+▪ Für alle FOS Schwerpunkte sind die entsprechenden Themenfelder in Katalogen hinterlegt.
+Hinweis
+Bitte beachten Sie die Fächer der jeweiligen Rahmenlehrpläne:
+z. B. in der FOS/WIVE/WIRT gibt es kein Themenfeld TF11.02 sondern
+TF11.02.1 oder TF11.02.2 (bilingual) eine Zusammenstellung aller
+Schwerpunkt finden Sie in der Excelliste Berufe_Lernfelder (SchuleHessen LUSD Anleitungen)
+
+▪ Für die modular unterrichteten Schwerpunkte, d.h. zwei Schwerpunkte, verwenden Sie bitte die
+Themenfelder der beiden Schwerpunkte (z. B. FOSA/TECH/BAEL Bautechnik und
+Elektrotechnik).
+Handelt es sich um die Fächer mit der Endung B und E (z. B. TF11.01B und TF11.01E) können in
+der LUSD beide Pflichtthemenfelder belegt werden.
+Es gibt folgende Endungen:
+▪ TF11.01B Bautechnik
+▪ TF11.01E Elektrotechnik
+▪ TF11.01M Maschinenbau
+▪ TF11.01.I Informationstechnik
+▪ TF11.01W Wirtschaft
+▪ In jedem Schwerpunkt der FOS B-Form gibt es (im Wahlpflichtbereich) ein Themenfeld (siehe
+Rahmenlehrplan) das ausschließlich für die B-Form vorgesehen ist.
+Hinweis
+Beachten Sie auch die neue Anleitung zu der Abschlussseite FHR-FOS
+Fachhochschulreife – FOS in der LUSD.
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+4
+
+7
+
+Beispielzeugnisse
+
+Die Beispielzeugnisse sind zur besseren Ansicht je auf einer eigenen Seite angeordnet (siehe
+folgende Seiten).
+7.1
+
+Halbjahreszeugnis
+
+P-Kurse
+
+Abb. 1 Halbjahreszeugnis: Vorderseite mit P-Kursen
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+5
+
+P-Kurse
+
+W-Kurse
+
+Abb. 2 Halbjahreszeugnis: Rückseite mit P- und W-Kursen
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+6
+
+Hinweis
+Es werden nur die Themenfelder ausgegeben, die in der UV angelegt sind
+und die zu dem Schwerpunkt passen.
+Bei modular unterrichteten Schwerpunkten haben die Fächer noch einen
+Buchstaben (z. B. T11.01W):
+Bautechnik, Elektrotechnik, Informationstechnik, Maschinenbautechnik und
+Wirtschaft
+(siehe Seite 3)
+
+Zum Beispiel:
+▪ Fachrichtungsübergreifend Technik / Wirtschaft und Verwaltung
+▪ Schwerpunktübergreifend Wirtschaft / Informationstechnik
+
+Abb. 3 Halbjahreszeugnis: Fachrichtungsübergreifende und schwerpunktübergreifende Kurse
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+7
+
+7.2
+
+Jahreszeugnis Stufe 11
+
+epochal eingepflegt
+
+F-Kurse, max. 2 Fächer
+
+A-Kurse, max. 2 Fächer
+
+Möglicher „Abschluss“
+(Gleichstellung mit mittlerem
+Abschluss) sofern Schüler aus
+GYM8 kommt.
+
+Bemerkung erscheint, wenn unter
+> VERSETZUNG/ EIGNUNG Versetzung: ja
+eingepflegt wurde.
+
+Abb. 4 Jahreszeugnis Stufe 11: Beispiel Vorderseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+8
+
+Besonderheit:
+FOSA/WIVE/WIRT
+
+Abb. 5 Jahreszeugnis Stufe 11: Beispiel Rückseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+9
+
+7.3
+
+Jahreszeugnis Stufe 12
+
+Bemerkung erscheint, wenn
+„Belegungsprüfung erfolgreich“ und
+Haken im zweiten Register „Rücktritt
+von der Prüfung nach §15“ gesetzt
+wurde.
+
+Abb. 6 Jahreszeugnis Stufe 12: Beispiel Vorderseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+10
+
+Abb. 7 Jahreszeugnis Stufe 12: Beispiel Rückseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+11
+
+7.4
+
+Abgangszeugnis vorzeitig Stufe 11
+
+Abb. 8 Abgangszeugnis vorzeitig Stufe 11: Beispiel Vorderseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+12
+
+Abb. 9 Abgangszeugnis vorzeitig Stufe 11: Beispiel Rückseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+13
+
+7.5
+
+Abgangszeugnis vorzeitig Stufe 12
+
+Abb. 10 Abgangszeugnis vorzeitig Stufe 12: Beispiel Vorderseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+14
+
+Abb. 11 Abgangszeugnis vorzeitig Stufe 11: Beispiel Rückseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+15
+
+7.6
+
+Abgangszeugnis nach Prüfung Stufe 12
+
+Bemerkung erscheint, wenn unter
+> ZEUGNIS ERSTELLEN > ZEUGNIS
+BEARBEITEN ein Datum der
+Abschlussprüfung eingepflegt wurde.
+
+Abb. 12 Abgangszeugnis nach Prüfung Stufe 12: Beispiel Vorderseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+16
+
+Abb. 13 Abgangszeugnis nach Prüfung Stufe 12: Beispiel Rückseite Zeugnis
+
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.2 | 16.07.2025 |
+
+17
+
+7.7
+
+Abschlusszeugnis
+
+Abb. 14 Abschlusszeugnis (VO2022): Beispiel Innenseiten
+HMKB | LUSD | Fachoberschule (VO 2022) | Version: 2.1 | 19.05.2025 |
+
+18
+
+

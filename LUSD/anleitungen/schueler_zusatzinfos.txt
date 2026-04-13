@@ -1,0 +1,142 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zusatzinformationen für Schüler pflegen am
+Beispiel des Fotowiderspruchs
+Anleitung für das Hinzufügen von Zusatzinformationen für Schüler und die Erstellung von
+Berichten
+
+1
+
+Zusammenfassung
+In der LUSD ist es möglich, bei Bedarf Zusatzinformationen für Schüler einzupflegen. Über
+den Menüpunkt ZUSATZINFORMATIONEN können zwei unterschiedliche Register aufgerufen
+werden. Im Register LEBENSWICHTIGE INFORMATIONEN und das Register SCHULINTERNE
+INFORMATIONEN können verschiedene Werte über einen Auswahl eingetragen werden. Die
+Angaben können über einen Bericht abgerufen werden.
+
+2
+
+Zusatzinformationen in der LUSD nutzen
+Die Zusatzinformationen können zu unterschiedlichen Zwecken genutzt werden.
+Das Register LEBENSWICHTIGE INFORMATIONEN beinhaltet medizinische Informationen zum
+Schüler, die bei einem Wechsel des Schülers an eine andere Schule übermittelt werden
+können. Zum Beispiel kann eine Nussallergie hinterlegt werden.
+Das Register SCHULINTERNE INFORMATIONEN beinhaltet nur schulinterne Informationen, die
+nicht anderen Schulen weitergegeben werden. Zum Beispiel kann ein neues Feld
+Fotowiderspruch als Zusatzinformation erstellt werden, sodass bei den Schülern
+entsprechende Werte eingetragen und abgerufen werden können.
+
+2.1
+
+Zusatzinfofelder für die Auswahl hinzufügen
+Damit Sie die Zusatzinformationen bei den Schülern in Register SCHULINTERNE
+INFORMATIONEN eintragen können, müssen Sie zuerst ein neues Feld für die Auswahl
+hinzufügen. Führen Sie folgende Schritte durch:
+Klicken Sie im Navigationsmenü auf die Menüpunkte SCHULE > SCHLÜSSEL >
+ZUSATZINFOFELDER.
+Klicken Sie auf der Website ZUSATZINFOFELDER auf die Schaltfäche
+
+HMKB | LUSD | Zusatzinformationen für Schüler pflegen am Beispiel des Fotowiderspruchs | Version: 1.0 | 22.11.2024
+
+.
+
+1
+
+Abb. 1 Website Zusatzinfofelder: Neues Zusatzinfofeld hinzufügen
+
+Geben Sie im Feld BEZEICHUNG* einen Feldnamen für das neue Zusatzinfofeld ein, wie
+z. B. Fotowiderspruch.
+
+Abb. 2 Website Zusatzinfofelder: Feldnamen hinzufügen
+
+Klicken Sie auf
+
+2.2
+
+und dann auf
+
+.
+
+Schulinterne Informationen bei Schülern pflegen
+Sobald ein Feld für die Zusatzinformationen für Schüler eingerichtet wurde, können Sie die
+Daten bei den Schülern einpflegen.
+Klicken Sie im Navigationsbaum auf den Menüpunkt SCHÜLER > SCHÜLERBASISDATEN >
+ZUSATZINFORMATIONEN.
+Klicken Sie auf das Register SCHULINTERNE INFORMATIONEN.
+
+Abb. 3 Webseite Zusatzinformationen: Register Schulinterne Informationen
+
+HMKB | LUSD | Zusatzinformationen für Schüler pflegen am Beispiel des Fotowiderspruchs | Version: 1.0 | 22.11.2024
+
+2
+
+Wählen Sie die Schüler, für die Sie die Zusatzinformationen erfassen möchten, über die
+Schülersuche aus.
+Klicken Sie auf die Schaltfäche
+
+.
+
+Wählen Sie im Feld FELDNAME* den passenden Wert aus, wie z. B. den vorher
+hinzugefügten Wert Fotowiderspruch.
+Tragen Sie optional im Feld FELDINHALT einen entsprechenden Wert ein. Zum Beispiel
+kann bei dem Wert Fotowiderspruch ein Ja oder ein Nein eingetragen werden.
+Klicken Sie auf
+
+2.3
+
+und dann auf
+
+.
+
+Einen Bericht mit den Zusatzinformationen erstellen
+Um die eingepflegten Informationen abzurufen, können Berichte erstellt werden.
+Klicken Sie im Navigationsbaum auf den Menüpunkt EXTRAS > BERICHTE >
+STANDARDBERICHTE.
+Tipp
+Alternativ können Sie über den Kopfbereich den Bericht
+Zusatzinformationen nutzen. Sie können den Bericht direkt auf der
+Webseite ZUSATZINFORMATIONEN aufrufen.
+
+Wählen Sie den Bericht Zusatzinformationen aus.
+
+Abb. 4 Bericht Zusatzinformationen: Auswahl des Ausgabeformates
+
+Wählen Sie die Schüler und das Ausgabeformat aus.
+Klicken Sie auf die Schaltfläche
+
+.
+
+Bei der Erstellung des Berichts werden alle Zusatzinformationen aus beiden Registern
+dargestellt.
+
+HMKB | LUSD | Zusatzinformationen für Schüler pflegen am Beispiel des Fotowiderspruchs | Version: 1.0 | 22.11.2024
+
+3
+
+Den Bericht können Sie als PDF- oder CSV-Format ausgeben.
+▪ PDF-Format:
+
+Abb. 5 Bericht Zusatzinformationen: PDF-Format
+
+▪ CSV-Format:
+
+Abb. 6 Bericht Zusatzinformationen: CSV-Format
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur
+Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Zusatzinformationen für Schüler pflegen am Beispiel des Fotowiderspruchs | Version: 1.0 | 22.11.2024
+
+4
+
+

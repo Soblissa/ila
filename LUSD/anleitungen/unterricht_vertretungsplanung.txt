@@ -1,0 +1,1035 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Vertretungsplanung
+Vertretungsplanung in der LUSD vornehmen
+
+Version: 1.0
+Letzter Stand: 05.12.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse ........................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Vertretungsplanung in der LUSD
+1
+
+5
+
+Vorbereitende Arbeiten ......................................................................................................... 5
+1.1
+
+Stundenplan aktivieren ................................................................................................ 5
+
+2
+
+Starten des Vertretungsplaners ............................................................................................ 5
+
+3
+
+Beschreibung der Bereiche ................................................................................................... 7
+
+4
+
+5
+
+3.1
+
+Stundenplan ................................................................................................................ 7
+
+3.2
+
+Vertretungsregelungen .............................................................................................. 14
+
+3.3
+
+Arbeitsbereich ............................................................................................................ 15
+
+3.4
+
+Meldungsbereich ....................................................................................................... 16
+
+Vertretungsplanung - Änderungen am Stundenplan durchführen ........................................ 17
+4.1
+
+Ausfall von Unterricht ................................................................................................. 18
+
+4.2
+
+Raum- und/oder Fachänderungen ............................................................................. 19
+
+4.3
+
+Hinweise für Lehrkräfte und/oder Schüler .................................................................. 20
+
+4.4
+
+Mitaufsicht ................................................................................................................. 21
+
+4.5
+
+Verlegung .................................................................................................................. 22
+
+4.6
+
+Vertretung .................................................................................................................. 24
+
+4.7
+
+Abwesenheiten von Klassen und Lehrkräften ............................................................ 25
+
+Vertretungspläne generieren............................................................................................... 28
+5.1
+
+Vertretungsplan für den Schüleraushang erstellen..................................................... 28
+
+5.2
+
+Vertretungsplan für den Lehrkräfteaushang erstellen ................................................. 29
+
+5.3
+
+Vertretungspläne für den Schüler- und den Lehrkräfteaushang zeitgleich erstellen ... 29
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt die notwendigen Arbeitsschritte für die Vertretungsplanung
+in der LUSD. Auf der Grundlage eines in der LUSD erstellten und aktivierten Stundenplans kann
+die Vertretungsplanung durchgeführt werden. Dies gilt auch für aktivierte Stundenpläne, die im
+kommenden Halbjahr liegen.
+Die Anleitung richtet sich an Benutzer, die die Vertretungsplanung in der LUSD durchführen
+möchten. Basiskenntnisse im Umgang mit der LUSD und Kenntnisse im Umgang mit der
+Stundenplanung werden vorausgesetzt und daher in dieser Anleitung nicht immer näher
+beschrieben.
+Die Anleitung zum Erstellen eines Stundenplans mit dem LUSD-Planer 2.0 finden Sie unter LUSDPlaner_2.0.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+4
+
+Vertretungsplanung in der LUSD
+1
+
+Vorbereitende Arbeiten
+Ein aktivierter Stundenplan ist die Grundlage für die Ansicht des Stundenplans im
+Vertretungsplaner.
+Stellen Sie daher sicher, dass auf der Webseite UNTERRICHT > STUNDENPLANUNG > LUSDPLANER 2.0 ein bereits angelegter Stundenplan aktiviert wurde, der für einen bestimmten
+Zeitraum gültig sein soll.
+
+1.1
+
+Stundenplan aktivieren
+1. Um einen Stundenplan zu aktivieren und damit die Grundlage für die
+Vertretungsplanung festzulegen, navigieren Sie zur Webseite UNTERRICHT >
+STUNDENPLAN > LUSD-PLANER 2.0.
+2. Klicken Sie im Register STUNDENPLANAUSWAHL mit einem Rechtsklick auf die
+entsprechende Stundenplankachel und wählen den Eintrag STUNDENPLAN AKTIVIEREN
+aus.
+Es öffnet sich der Arbeitsbereich STUNDENPLAN AKTIVIEREN. Die Inhalte der Felder
+BEZEICHNUNG DES STUNDENPLANS / GEPLANT FÜR HALBJAHR / BASIERT AUF UVPLANUNGSVARIANTEN werden automatisiert angezeigt und können nicht verändert
+werden.
+3. Bestätigen Sie die Aktivierung durch Klick in das Kontrollkästen und klicken Sie auf die
+Schaltfläche ÜBERNEHMEN. Der Arbeitsbereich schließt sich. Der aktivierte Stundenplan
+ist rot umrandet und mit einem gründen Haken angehakt.
+4. Klicken Sie auf SPEICHERN.
+Hinweis
+Im Kontextmenü des aktuell gültigen Stundenplans erscheint der Eintrag
+STUNDENPLAN AKTIVIEREN nur ausgegraut und kann nicht ausgewählt werden.
+
+2
+
+Starten des Vertretungsplaners
+1. Wenn ein Stundenplan aktiviert wurde, navigieren Sie zur Webseite UNTERRICHT >
+STUNDENPLAN > VERTRETUNGSPLANUNG.
+Die Webseite
+▪ zeigt einen leeren Plan des aktivierten Stundenplans, die Bezeichnung des Plans
+steht oben links. Neben den Wochentagen stehen in Klammern die Datumsangaben
+der Wochentage im Format (tt.mm.).
+▪ zeigt für den aktuellen Kalendertag einen leeren Plan im Bereich
+VERTRETUNGSREGELUNGEN.
+▪ hat zwei Datumsfelder VON und BIS zum Einstellen der Anzeige der
+Vertretungsregelungen.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+5
+
+▪ hat einen Bearbeitungsbereich mit den Feldern WOCHE und PLANUNGSELEMENT
+sowie einem dritten Feld, das in Abhängigkeit des gewählten Planungselements
+angezeigt wird.
+▪ hat drei Schaltflächen zum Generieren von Vertretungsplänen im PDF-Format:
+KLASSENPLAN, LEHRKRÄFTEPLAN und KLASSEN- & LEHRKRÄFTEPLAN.
+▪ hat die Schaltflächen SPEICHERN und SCHLIEßEN .
+
+Abb. 1 Webseite Vertretungsplanung: Ansicht, wenn noch kein Planungselement eingestellt wurde
+
+Abb. 2 Webseite Vertretungsplanung: Plan einer Klasse mit Kopplungen und Sperrungen
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+6
+
+3
+
+Beschreibung der Bereiche
+Die Webseite VERTRETUNGSPLANUNG hat vier Bereiche, die in den folgenden Abschnitten
+näher beschrieben werden.
+
+Abb. 3 Webseite Vertretungsplanung: Darstellung nach dem Aufruf der Webseite mit Anzeige der
+Vertretungsregelungen für den aktuellen Kalendertag
+
+3.1
+
+Stundenplan
+Beim Aufruf der Webseite VERTRETUNGSPLANUNG ist der Stundenplan leer. Über dem
+Stundenplanraster steht die BEZEICHNUNG des im LUSD-Planer 2.0 aktivierten
+Stundenplans und das für den Stundenplan gültige Halbjahr. Stundenpläne können für eine
+bestimmte Klasse, eine Lehrkraft, einen Raum, einen Kurs oder eines bestimmten Schülers
+in Abhängigkeit von der Kalenderwoche angezeigt werden.
+
+3.1.1 Stundenplan eines Planungselements anzeigen lassen am Beispiel einer Lehrkraft
+1. Wollen Sie z.B. den Lehrkräfteplan einer Lehrkraft (z.B. Mustermann) in der 40.
+Kalenderwoche anzeigen lassen, klicken Sie in das Feld WOCHE und klicken Sie
+an.
+2. Klicken Sie im Feld PLANUNGSELEMENT auf den Wert Lehrer.
+3. Klicken Sie im Feld LEHRERNAME – KÜRZEL auf
+
+.
+
+Der STUNDENPLAN wird angezeigt.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+7
+
+Abb. 4 Webseite Vertretungsplanung: Stundenplan einer ausgewählten Lehrkraft in einer bestimmten
+Woche
+
+Hinweis
+Die Anzeige von Plänen in den anderen Planungselementen KLASSE, KURS,
+RAUM und SCHÜLER funktioniert entsprechend.
+
+3.1.2 Symbolik, Hintergründe, Schriftfarbe und durchgestrichene Werte
+In einem Zeitslot des Stundenplans wird entsprechend der vorliegenden
+Vertretungsregelung ein Symbol angezeigt, der Hintergrund eingefärbt, die Schriftfarbe
+ausgegraut oder Werte durchgestrichen.
+Symbol Bedeutung
+
+Beispiel
+
+Kurskopplung
+
+!
+
+?
+
+X
+
+Für die angezeigte Stunde gibt es eine
+gepflegte Änderung wie Raum- oder
+Fachänderung, einen Hinweis, eine
+Mitaufsicht oder eine Vertretung.
+Für die angezeigte Stunde wurde die
+Abwesenheit einer Lehrkraft eingetragen,
+die Vertretung für diese Stunde muss
+gepflegt werden.
+
+Die Stunde fällt aus.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+8
+
+Symbol Bedeutung
+
+Beispiel
+
+▪ Verlegte Stunde – ursprünglicher Ort
+▪ Verlegte Stunde – neuer Ort
+
+Sperrvermerk - Verlegung einer Stunde
+auf einen Zeitslot mit einer globalen
+Sperrung ist nicht möglich.
+i
+
+Erläuterung zum Feld Ignorieren
+
+▪ Der Hintergrund eines Zeitslots ist grau gefärbt, wenn für diesen Zeitslot die
+ABWESENHEIT EINER LEHRKRAFT oder die ABWESENHEIT EINER KLASSE oder eine GLOBALE
+SPERRUNG
+vorliegt.
+▪ Die Schriftfarbe in einem Zeitslot ist ausgegraut, wenn für diesen Zeitslot ein Ausfall
+gepflegt wurde.
+▪ Das Kürzel einer Lehrkraft erscheint in einem Zeitslot rot durchgestrichen, wenn für
+diese Lehrkraft eine Abwesenheit im Planungselement LEHRER oder KLASSE vorliegt.
+▪ Die Raumbezeichnung oder das Fach sind durchgestrichen, wenn eine Änderung in
+Form eines Vertretungsraums oder -fachs (kurz: V-Raum bzw. V-Fach) vorliegt.
+3.1.3 Kontextmenü bei Rechtsklick in einen Zeitslot
+Bei Rechtsklick in einen Zeitslot erscheint ein Kontextmenü mit verschiedenen Einträgen.
+Hier kann man schnell den Ausfall der Stunde pflegen (Kap. 4.1) , die Details der
+Unterrichtsstunde anzeigen, Änderungen für die Unterrichtsstunde pflegen (Kap. 4) oder
+eine bereits gepflegte Änderung löschen.
+
+Abb. 5 Webseite Vertretungsplanung: Kontextmenü bei Rechtsklick in einen Zeitslot
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+9
+
+Details zur Unterrichtsstunde anzeigen lassen
+Voraussetzung: Sie haben einen Klassenplan, Lehrerplan, Raumplan, Kursplan oder
+Schülerplan in der Ansicht (Kap. 3.1.1).
+1. Wollen Sie die DETAILS ZUR UNTERRICHTSSTUNDE anzeigen lassen, klicken Sie mit
+Rechtslick einen Zeitslot mit Unterricht an.
+2. Klicken Sie im Kontextmenü auf DETAILS.
+Im Arbeitsbereich werden die DETAILS ZUR UNTERRICHTSSTUNDE angezeigt.
+
+Abb. 6 Webseite Vertretungsplanung: Arbeitsbereich Details zur Unterrichtsstunde
+
+Abb. 7 Webseite Vertretungsplanung: Details zur Unterrichtsstunde zu einer Stunde mit einer
+Vertretungsregelung
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+10
+
+Löschen von gepflegten Vertretungsregelungen
+Voraussetzung: Sie haben einen Klassenplan, Lehrerplan, Raumplan, Kursplan oder
+Schülerplan in der Ansicht.
+1. Wollen Sie eine bestehende ÄNDERUNG löschen, klicken Sie mit Rechtsklick den
+ausgesuchten Zeitslot mit Unterricht an.
+2. Klicken Sie auf LÖSCHEN. Die Symbolik im Zeitslot ist gelöscht.
+3. Klicken Sie auf SPEICHERN.
+Im Bereich VERTRETUNGSREGELUNGEN wird die Änderung nicht mehr angezeigt.
+
+Abb. 8 Detaildarstellung Vertretungsplanung: Löschen einer Änderung im Kontextmenü eines Zeitslots
+am Beispiel eines Ausfalls
+
+Bearbeiten und Löschen von gepflegten Abwesenheiten
+Eine bereits gepflegte ABWESENHEIT einer Klasse oder Lehrkraft kann gelöscht bzw.
+bearbeitet werden. Eine Abwesenheit ist an dem grau hinterlegten Hintergrund zu erkennen
+und kann nur in dem entsprechenden Planungselement KLASSE bzw. LEHRKRAFT gelöscht
+oder bearbeitet werden.
+
+Abb. 9 Webseite Vertretungsplanung: Abwesenheit einer Klasse mit Kontextmenü bei Rechtsklick in
+Zeitslot
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+11
+
+Abwesenheit einer Klasse löschen
+Voraussetzung: Die Abwesenheit einer Klasse wurde erstellt, Sie kennen den Zeitraum.
+1. Wollen Sie eine bestehende Abwesenheit einer Klasse löschen, klicken Sie in das Feld
+WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT.
+4. Klicken Sie auf KLASSE.
+5. Klicken Sie im Feld KLASSENBEZEICHNUNG auf die absente Klassenbezeichnung. Der
+Stundenplan der Klasse wird angezeigt.
+6. Klicken Sie mit Rechtsklick in einen Zeitslot, in dem die Abwesenheit liegt.
+7. Ein Kontextmenü mit dem aktiven Eintrag ABWESENHEIT LÖSCHEN erscheint.
+8. Klicken Sie auf ABWESENHEIT LÖSCHEN. Die Zeitslots sind wieder in dem ursprünglichen
+Zustand.
+9. Klicken Sie auf SPEICHERN. Die von der Abwesenheit tangierten Vertretungsregelungen
+wurden gelöscht.
+Achtung
+Derzeit werden nur Vertretungsregelungen gelöscht, die die abwesende
+Klasse tangieren. Abwesenheiten der betreuenden Lehrkräfte in anderen
+Klassen werden derzeit nicht gelöscht. Dies muss noch händisch durch die
+Anwender erfolgen.
+
+Abwesenheit einer Klasse bearbeiten
+Voraussetzung: Die Abwesenheit einer Klasse wurde erstellt, Sie kennen den Zeitraum.
+1. Wollen Sie eine bestehende Abwesenheit einer Klasse bearbeiten, weil z.B. der
+Zeitraum geändert werden muss, klicken Sie in das Feld WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT.
+4. Klicken Sie auf KLASSE.
+5. Klicken Sie im Feld KLASSENBEZEICHNUNG auf die absente Klassenbezeichnung. Der
+Stundenplan der Klasse wird angezeigt.
+6. Klicken Sie mit Rechtsklick in einen Zeitslot, in dem die Abwesenheit liegt. Ein
+Kontextmenü mit dem aktiven Eintrag ABWESENHEIT BEARBEITEN erscheint.
+7. Klicken Sie auf ABWESENHEIT BEARBEITEN. Der Arbeitsbereich ABWESENHEIT wird
+geöffnet. Nun können Sie die Änderungen vornehmen (siehe auch Kap. 4.7.2).
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+12
+
+Abwesenheit einer Lehrkraft löschen
+Voraussetzung: Die Abwesenheit einer Lehrkraft wurde erstellt, Sie kennen den Zeitraum.
+1. Wollen Sie eine bestehende ABWESENHEIT einer Lehrkraft löschen, klicken Sie in das
+Feld WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT.
+4. Klicken Sie auf LEHRER.
+5. Klicken Sie im Feld LEHRERNAME – KÜRZEL auf die absente Lehrkraft. Der Stundenplan
+der Lehrkraft wird angezeigt.
+6. Klicken Sie mit Rechtsklick in einen Zeitslot, in dem die Abwesenheit liegt. Ein
+Kontextmenü mit dem aktiven Eintrag ABWESENHEIT LÖSCHEN erscheint.
+7. Klicken Sie auf ABWESENHEIT LÖSCHEN. Die Zeitslots sind wieder in dem ursprünglichen
+Zustand.
+8. Klicken Sie auf SPEICHERN. Die von der Abwesenheit tangierten Vertretungsregelungen
+wurden gelöscht.
+Achtung
+Derzeit werden nur Vertretungsregelungen gelöscht, für die noch keine
+Änderung gepflegt wurde. Änderungen müssen noch händisch durch die
+Anwender gelöscht werden.
+
+Abwesenheit einer Lehrkraft bearbeiten
+Voraussetzung: Die Abwesenheit einer Lehrkraft wurde erstellt, Sie kennen den Zeitraum.
+1. Wollen Sie eine bestehende Abwesenheit einer Lehrkraft bearbeiten, weil z.B. der
+Zeitraum geändert werden muss, klicken Sie in das Feld WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT.
+4. Klicken Sie auf LEHRER.
+5. Klicken Sie im Feld LEHRERNAME - KÜRZEL auf die absente Lehrkraft. Der Stundenplan
+der Lehrkraft wird angezeigt.
+6. Klicken Sie mit Rechtsklick in einen Zeitslot, in dem die Abwesenheit liegt. Ein
+Kontextmenü mit dem aktiven Eintrag ABWESENHEIT BEARBEITEN erscheint.
+7. Klicken Sie auf ABWESENHEIT BEARBEITEN. Der Arbeitsbereich ABWESENHEIT wird
+geöffnet. Nun können Sie die Änderungen vornehmen (siehe auch Kap. 4.7.1.)
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+13
+
+3.2
+
+Vertretungsregelungen
+Beim Aufruf der Webseite VERTRETUNGSPLANUNG ist das aktuelle Kalenderdatum
+eingestellt und die Vertretungsregelungen für den aktuellen Tag werden angezeigt.
+
+Abb. 10 Detaildarstellung: Bereich Vertretungsregelung mit Stundenplanänderungen für den aktuellen
+Tag
+
+3.2.1 Zeitraum einstellen
+Egal ob das Ende des Zeitraums in der Zukunft oder in der Vergangenheit liegt – Sie
+können den Zeitraum in beiden Fällen über eine Eintragung in den Feldern VON und BIS
+vornehmen.
+
+Abb. 11 Detaildarstellung: Vertretungsregelungen nach Änderung des Zeitraums
+
+3.2.2 Bedeutung des Feldes „Ign.“ – Vertretungsregelung beim Ausdruck der
+Vertretungspläne anzeigen bzw. ignorieren
+In der Tabelle VERTRETUNGSREGELUNGEN hat jeder Datensatz in der Spalte IGN. Entweder
+den Wert ja oder nein. Der Wert steuert den Ausdruck auf dem Vertretungsplan für den
+Schüler- bzw. Lehrkräfteaushang. Ist der Wert nein, so wird der Datensatz nicht ignoriert
+und im Vertretungsplan ausgedruckt, ansonsten wird dieser ignoriert.
+Der Wert kann im Arbeitsbereich VERTRETUNG BEARBEITEN eingestellt und geändert werden
+(Kap. 3.3.3).
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+14
+
+3.3
+
+Arbeitsbereich
+Bei Aufruf der Webseite wird im Arbeitsbereich lediglich die aktuelle Kalenderwoche
+angezeigt.
+
+Abb. 12 Webseite Vertretungsplanung: der Arbeitsbereich nach dem Aufrufen der Webseite
+
+Im Arbeitsbereich werden Dialoge angezeigt, um z.B. die Abwesenheit von Lehrkräften und
+Klassen sowie die Änderung von Unterricht einzupflegen. Darüber hinaus werden hier auch
+die Details zur Unterrichtsstunde angezeigt.
+
+Abb. 13 Detailansicht Arbeitsbereich: Drei mögliche Dialoge
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+15
+
+3.3.1 Arbeitsbereich Abwesenheit einer Klasse öffnen
+1. Wollen Sie den Arbeitsbereich ABWESENHEIT einer Klasse öffnen, klicken Sie in das Feld
+WOCHE und wählen Sie die entsprechende Kalenderwoche aus.
+2. Klicken Sie in das Feld PLANUNGSELEMENT und wählen Sie KLASSE aus.
+3. Klicken Sie in das Feld KLASSENBEZEICHNUNG und wählen Sie die entsprechende Klasse
+aus. Der Stundenplan der Klasse wird angezeigt.
+4. Klicken Sie mit Rechtsklick den Wochentag im Stundenplan an, an dem die Klassenfahrt
+beginnt. Ein Kontextmenü u.a. mit dem aktiven Eintrag ABWESENHEIT HINZUFÜGEN wird
+angezeigt.
+5. Klicken Sie auf ABWESENHEIT HINZUFÜGEN.
+3.3.2 Arbeitsbereich Abwesenheit einer Lehrkraft öffnen
+1. Wollen Sie den Arbeitsbereich ABWESENHEIT einer Lehrkraft öffnen, klicken Sie in das
+Feld WOCHE und wählen Sie die entsprechende Kalenderwoche aus.
+2. Klicken Sie in das Feld PLANUNGSELEMENT und wählen Sie LEHRER aus.
+3. Klicken Sie in das Feld LEHRERNAME-KÜRZEL und wählen Sie die entsprechende
+Lehrkraft aus. Der Stundenplan der Lehrkraft wird angezeigt.
+4. Klicken Sie mit Rechtsklick den Wochentag im Stundenplan an, an dem die Fortbildung
+beginnt. Ein Kontextmenü u.a. mit dem aktiven Eintrag ABWESENHEIT HINZUFÜGEN wird
+angezeigt.
+5. Klicken Sie auf ABWESENHEIT HINZUFÜGEN.
+3.3.3 Arbeitsbereich Vertretung bearbeiten öffnen
+1. Wollen Sie den Arbeitsbereich VERTRETUNG BEARBEITEN einer Lehrkraft öffnen, klicken
+Sie in das Feld WOCHE und wählen Sie die entsprechende Kalenderwoche aus.
+2. Klicken Sie in das Feld PLANUNGSELEMENT und wählen Sie ein passendes Listenelement
+(z.B. Klasse) aus.
+3. Klicken Sie in das darunter liegende dynamische Feld (z.B. KLASSENBEZEICHNUNG ) und
+wählen Sie ein passendes Listenelement (z.B. 03a) aus. Der entsprechende
+Stundenplan (z.B. Klassenplan) wird angezeigt.
+4. Klicken Sie mit Rechtsklick einen Zeitslot an. Ein Kontextmenü u.a. mit dem aktiven
+Eintrag ÄNDERUNG wird angezeigt.
+5. Klicken Sie auf ÄNDERUNG. Der Arbeitsbereich VERTRETUNG BEARBEITEN wird geöffnet.
+
+3.4
+
+Meldungsbereich
+Der Meldungsbereich befindet sich unmittelbar unterhalb des Arbeitsbereichs. In diesem
+Bereich werden z.B. Konfliktmeldungen angezeigt.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+16
+
+Abb. 14 Webseite Vertretungsplanung: Meldungsbereich mit Konfliktmeldung beim Verlegen einer
+Stunde
+
+4
+
+Vertretungsplanung - Änderungen am Stundenplan durchführen
+Sie können auf der Webseite VERTRETUNGSPLANUNG im Arbeitsbereich VERTRETUNG
+BEARBEITEN verschiedene Szenarien für Vertretungsunterricht und diverse Änderungen
+oder Hinweise in den Vertretungsplan einarbeiten. Dazu gehören
+▪
+▪
+▪
+▪
+▪
+▪
+
+Ausfall von Unterricht (Kap. 4.1).
+Änderung von Fach und/oder Raum (Kap. 4.2).
+Hinweise für Lehrkräfte und/oder Schüler/innen (Kap. 4.3).
+Mitaufsicht durch unterrichtende Lehrkräfte (Kap. 4.4).
+Verlegung von Unterricht (Kap. 4.5).
+Vertretungsunterricht durch eine andere Lehrkraft (Kap. 4.6).
+
+Ferner können Abwesenheiten von Lehrkräften, Klassen und Klassen mit betreuenden
+Lehrkräften eingegeben werden. Lehrkräfte und Klassen werden dabei automatisch aus
+dem Unterricht ausgeplant. Der Vertretungsplaner erkennt in diesen Fällen, ob Unterricht
+ausfällt oder vertreten werden muss und erstellt in der Tabelle VERTRETUNGSREGELUNGEN
+entsprechende Datensätze.
+Hinweis
+In der Tabelle VERTRETUNGSREGELUNGEN hat jeder Datensatz in der Spalte
+IGN. den Wert ja oder nein. Der Wert steuert den Ausdruck auf dem
+Vertretungsplan für den Schüler- bzw. Lehrkräfteaushang. Ist der Wert nein,
+so wird der Datensatz im ausgedruckten Vertretungsplan berücksichtigt,
+ansonsten wird dieser ignoriert.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+17
+
+4.1
+
+Ausfall von Unterricht
+Sie haben die Möglichkeit, den Ausfall eines Kurses in allen Planungselementen KLASSE,
+LEHRER, RAUM, KURS und SCHÜLER einzuplanen. Dies kann auf zwei Arten geschehen.
+Möglichkeit 1: Ausfall durch Rechtsklick einplanen
+1. Wollen Sie z.B. einen heute stattfindenden Kurs im Planungselement KLASSE ausfallen
+lassen, dann klicken Sie in das Feld PLANUNGSELEMENT und wählen Sie Klasse aus.
+2. Klicken Sie in das darunter liegende und korrespondierende Feld KLASSENBEZEICHNUNG
+und klicken Sie eine Klasse an.
+3. Klicken Sie mit Rechtsklick den Zeitslot an, in dem der Kurs ausfallen soll. Ein
+KONTEXTMENÜ wird geöffnet.
+
+Abb. 15 Detailansicht: Kontextmenü nach Rechtsklick
+
+4. Klicken Sie auf
+. Der Zeitslot hat das Ausfallsymbol
+erscheint ausgegraut.
+
+, die Schrift im Zeitslot
+
+5. Klicken Sie auf SPEICHERN. Die Tabelle VERTRETUNGSREGELUNGEN hat nun einen
+entsprechenden Datensatz.
+
+Abb. 16 Webseite Vertretungsplanung: Ausfall gepflegt
+
+Möglichkeit 2: Ausfall im Arbeitsbereich Vertretung bearbeiten einplanen
+1. Wollen Sie z.B. einen heute stattfindenden Kurs im Planungselement KLASSE ausfallen
+lassen, dann klicken Sie in das Feld PLANUNGSELEMENT und wählen Sie KLASSE aus.
+2. Klicken Sie in das darunter liegende und korrespondierende Feld KLASSENBEZEICHNUNG
+und klicken Sie eine Klasse an.
+3. Klicken Sie mit Rechtsklick den Zeitslot an, in dem der Kurs ausfallen soll. Ein
+Kontextmenü wird geöffnet.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+18
+
+Abb. 17 Detailansicht: Kontextmenü nach Rechtsklick
+
+4. Klicken Sie auf die Schaltfläche ÄNDERUNG. Der Arbeitsbereich VERTRETUNG
+BEARBEITEN wird geöffnet.
+5. Klicken Sie in das Feld ART DER ÄNDERUNG.
+6. Klicken Sie AUSFALL an. Das Feld IGNORIEREN* hat den Wert NEIN.
+7. Wollen Sie, dass der Ausfall der Stunde nicht im ausgedruckten Vertretungsplan
+erscheint, klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+8. Klicken Sie auf ÜBERNEHMEN. Der Zeitslot hat das Ausfallsymbol
+Zeitslot erscheint ausgegraut.
+
+, die Schrift im
+
+9. Klicken Sie auf SPEICHERN.
+
+4.2
+
+Raum- und/oder Fachänderungen
+1. Wollen Sie für einen Kurs eine Raumänderung oder eine Fachänderung durchführen,
+weil z.B. der Raum wegen Renovierungsarbeiten gesperrt ist oder ein anderes Fach
+unterrichtet werden soll, öffnen Sie den Arbeitsbereich VERTRETUNG BEARBEITEN (Kap.
+3.3.3).
+2. Klicken Sie auf das Feld ART DER ÄNDERUNG und anschließend auf ÄNDERUNG. Die
+Eingabemaske zeigt weitere Felder an.
+▪ Wollen Sie eine Raumänderung durchführen, klicken Sie in das Feld V-RAUM und
+wählen Sie einen Listeneintrag.
+▪ Wollen Sie eine Fachänderung durchführen, klicken Sie in das Feld V-FACH und
+wählen Sie einen Listeneintrag. Die Schaltfläche ÜBERNEHMEN ist aktiv, wenn mind.
+eine der beiden Änderungen vorgenommen wurde.
+▪ Wollen Sie zusätzlich einen erörternden Vertretungstext (max. 30 Zeichen) für
+Schüler und Lehrkräfte eingeben, klicken Sie in das Feld V-TEXT und geben Sie den
+Text ein.
+▪ Wollen Sie zusätzlich einen erörternden Vertretungstext (max. 30 Zeichen) nur für
+Lehrkräfte eingeben, klicken Sie in das Feld V-TEXT LEHRKRAFT und geben Sie den
+Text ein.
+▪ Wollen Sie, dass die Fach-/Raumänderung nicht im ausgedruckten Vertretungsplan
+erscheint, klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+19
+
+Abb. 18 Arbeitsbereich Vertretung bearbeiten: Raum- und/oder Fachänderung mit Hinweisen
+
+3. Klicken Sie auf ÜBERNEHMEN. Der Zeitslot hat das Symbol
+
+.
+
+4. Klicken Sie auf SPEICHERN. Im Bereich VERTRETUNGSREGELUNGEN wird die
+entsprechende Änderung angezeigt.
+
+Abb. 19 Bereich Vertretungsregelungen: Raum- und/oder Fachänderung mit Hinweisen
+
+4.3
+
+Hinweise für Lehrkräfte und/oder Schüler
+1. Wollen Sie für einen Kurs Hinweise für Lehrkräfte und/oder Schüler in den
+Vertretungsplan einarbeiten, weil z.B. bestimmte Materialien mitgebracht werden sollen,
+öffnen Sie den Arbeitsbereich VERTRETUNG BEARBEITEN (Kap. 3.3.3).
+2. Klicken Sie in das Feld ART DER ÄNDERUNG.
+3. Klicken Sie auf HINWEIS. Die Eingabemaske zeigt weitere Felder an.
+▪ Wollen Sie einen erörternden Vertretungstext (max. 30 Zeichen) für Schüler und
+Lehrkräfte eingeben, klicken Sie in das Feld V-TEXT und geben Sie den Text ein.
+▪ Wollen Sie einen erörternden Vertretungstext (max. 30 Zeichen) nur für Lehrkräfte
+eingeben, klicken Sie in das Feld V-TEXT LEHRKRAFT und geben Sie den Text ein. Die
+Schaltfläche ÜBERNEHMENist aktiv, wenn mind. eine der beiden Hinweisfelder belegt
+wurde.
+▪ Wollen Sie, dass die Fach-/Raumänderung nicht im ausgedruckten Vertretungsplan
+erscheint, klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+20
+
+Abb. 20 Arbeitsbereich Vertretung bearbeiten: Hinweis für Schüler und Lehrkräfte
+
+4. Klicken Sie auf ÜBERNEHMEN. Der Zeitslot hat das Symbol
+
+.
+
+5. Klicken Sie auf SPEICHERN. Im Bereich Vertretungsregelungen wird die entsprechende
+Änderung angezeigt.
+
+Abb. 21 Vertretungsregelungen: Hinweistext, erscheint in den ausgedruckten Vertretungsplänen für
+Klassen und für Lehrkräfte
+
+4.4
+
+Mitaufsicht
+1. Wollen Sie für einen Kurs eine Mitaufsicht führende Lehrkraft bestimmen, weil z.B. eine
+Lehrkraft abwesend und keine Vertretungslehrkraft verfügbar ist, öffnen Sie den
+Arbeitsbereich VERTRETUNG BEARBEITEN (Kap. 3.3.3).
+2. Klicken Sie auf das Feld ART DER ÄNDERUNG.
+3. Klicken Sie MITAUFSICHT an. Die Eingabemaske zeigt weitere Felder an.
+4. Klicken Sie in das Feld V-LEHRKRAFT. Die Liste zeigt Lehrkräfte an, die zeitgleich
+unterrichten.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+21
+
+Abb. 22 Arbeitsbereich Vertretung bearbeiten: Mitaufsicht, Liste der V-Lehrkräfte zeigt nur zeitgleich
+unterrichtende Lehrkräfte
+
+5. Klicken Sie eine Lehrkraft an. Die Schaltfläche ÜBERNEHMEN ist aktiv.
+6. Wollen Sie zusätzlich noch eine Raum- oder Fachänderung durchführen oder
+erläuternde Hinweistexte zuordnen, dann pflegen Sie die entsprechenden Felder.
+7. Wollen Sie, dass die Mitaufsicht nicht im ausgedruckten Vertretungsplan erscheint,
+klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+8. Klicken Sie auf ÜBERNEHMEN. Der Zeitslot hat das Symbol
+ist durchgestrichen.
+
+, die ursprüngliche Lehrkraft
+
+9. Klicken Sie auf SPEICHERN. Im Bereich Vertretungsregelungen wird die entsprechende
+Änderung angezeigt.
+
+Abb. 23 Vertretungsregelungen: gepflegte Mitaufsicht mit Ign. gleich „ja“ erscheint nicht in den
+Druckversionen der Vertretungspläne
+
+4.5
+
+Verlegung
+Sie haben die Möglichkeit, die Verlegung eines Kurses in allen Planungselementen
+KLASSE, LEHRER, RAUM, KURS und SCHÜLER einzuplanen. Dies kann auf zwei Arten
+geschehen.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+22
+
+Möglichkeit 1: Verlegung per Drag & Drop
+Hinweis
+Die VERLEGUNG per Drag & Drop ist nur innerhalb einer Kalenderwoche
+durchführbar.
+1. Wollen Sie für einen Kurs eine Verlegung des Unterrichts einpflegen, weil z.B. eine
+Lehrkraft nicht verfügbar ist, der Unterricht aber zu einem früheren/späteren Zeitpunkt
+gehalten werden soll, so klicken Sie diesen Zeitslot an.
+2. Verschieben Sie den Zeitslot bei gedrückter Maustaste in einen freien Zeitslot ohne
+Konfliktmeldung.
+3. Lassen Sie den Zeitslot im Zielbereich los. Im ursprünglichen Zeitslot erscheint das
+Symbol
+
+und im neuen
+
+.
+
+4. Klicken Sie auf SPEICHERN. Im Bereich VERTRETUNGSREGELUNGEN gibt es nun zwei
+Datensätze für die Verlegung.
+
+Abb. 24 Vertretungsregelungen: Verlegung von Unterricht
+
+Möglichkeit 2: Verlegung im Arbeitsbereich Vertretung bearbeiten einplanen
+1. Wollen Sie für einen Kurs eine Verlegung des Unterrichts einpflegen, weil z.B. eine
+Lehrkraft nicht verfügbar ist, der Unterricht aber zu einem früheren/späteren Zeitpunkt
+gehalten werden soll, öffnen Sie den Arbeitsbereich VERTRETUNG BEARBEITEN (Kap.
+3.3.3).
+2. Klicken Sie auf das Feld ART DER ÄNDERUNG.
+3. Klicken Sie VERLEGUNG an. Die Eingabemaske zeigt weitere Felder an.
+4. Klicken Sie im Feld V-DATUM das Symbol
+Vertretung.
+
+an und wählen Sie das Datum der
+
+5. Klicken Sie im Feld V-STUNDE die Zielstunde an. Es werden nur konfliktfreie Stunden
+angezeigt.
+6. Wollen Sie, dass die VERLEGUNG nicht im ausgedruckten Vertretungsplan erscheint,
+klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+7. Klicken Sie auf ÜBERNEHMEN. Im ursprünglichen Zeitslot erscheint das Symbol
+im neuen
+
+und
+
+.
+
+8. Klicken Sie auf SPEICHERN. Im Bereich Vertretungsregelungen gibt es nun zwei
+Datensätze für die VERLEGUNG.
+
+Abb. 25 Vertretungsregelungen: Verlegung von Unterricht
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+23
+
+4.6
+
+Vertretung
+1. Wollen Sie für einen Kurs eine Vertretungslehrkraft einplanen, weil die Lehrkraft des
+Kurses verhindert ist, öffnen Sie den Arbeitsbereich VERTRETUNG BEARBEITEN (Kap.
+3.3.3).
+2. Klicken Sie auf das Feld ART DER ÄNDERUNG.
+3. Klicken Sie auf VERTRETUNG. Die Eingabemaske zeigt weitere Felder an.
+4. Klicken Sie in das Feld V-LEHRKRAFT. Die Liste zeigt Lehrkräfte an, die zeitgleich nicht
+unterrichten.
+
+Abb. 26 Arbeitsbereich Vertretung bearbeiten: Vertretung, Liste der V-Lehrkräfte zeigt alle nicht
+unterrichtenden Lehrkräfte
+
+5. Klicken Sie eine Lehrkraft an. Die Schaltfläche ÜBERNEHMEN ist aktiv.
+6. Wollen Sie zusätzlich noch eine Raum- oder Fachänderung durchführen oder
+erläuternde Hinweistexte zuordnen, dann pflegen Sie die entsprechenden Felder.
+7. Wollen Sie, dass die Mitaufsicht nicht im ausgedruckten Vertretungsplan erscheint,
+klicken Sie in das Feld IGNORIEREN* und wählen Sie den Wert ja.
+8. Klicken Sie auf ÜBERNEHMEN. Der Zeitslot hat das Symbol
+ist durchgestrichen.
+
+, die ursprüngliche Lehrkraft
+
+9. Klicken Sie auf SPEICHERN an. Im Bereich VERTRETUNGSREGELUNGEN wird die
+entsprechende Änderung angezeigt.
+
+Abb. 27 Vertretungsregelung: gepflegte Vertretung mit zusätzlicher Raum- und Fachänderung und
+einem Hinweis
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+24
+
+4.7
+
+Abwesenheiten von Klassen und Lehrkräften
+Abwesenheiten von Klassen und Lehrkräften können stunden- und tageweise in den
+jeweiligen PLANUNGSELEMENTEN eingeplant werden. Die Abwesenheiten werden im Bereich
+STUNDENPLAN grau hinterlegt dargestellt und auch im Bereich VERTRETUNGSREGELUNGEN
+angezeigt:
+▪ Bei abwesenden Lehrkräften haben die Datensätze der betroffenen Kurse im Feld ART
+den Wert ???. Im Nachgang muss dann die Vertretungsregelung gepflegt werden (Kap.
+4.1 bis 4.6).
+▪ Bei abwesenden Klassen
+▪ wird bei Klassenkursen automatisch im Feld ART der Wert Ausfall gepflegt. Sind
+zusätzlich noch alle Lehrkräfte des Kurses abwesend, dann bekommt das Feld IGN.
+den Wert ja und die Vertretungsregelung wird nicht im ausgedruckten
+Vertretungsplan angezeigt.
+▪ wird bei übergreifenden Kursen automatisch im Feld ART der Wert ??? gepflegt. Im
+Nachgang muss dann die Vertretungsregelung gepflegt werden (Kap. 4.1 bis 4.6).
+
+4.7.1 Abwesenheiten von Lehrkräften einpflegen
+1. Wollen Sie die Abwesenheit einer Lehrkraft einplanen, weil die Lehrkraft z.B. an einer
+zweitägigen Fortbildung teilnimmt oder wegen Krankheit absent ist, klicken Sie in das
+Feld WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der erste Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT und anschließend auf LEHRER.
+4. Klicken Sie im Feld LEHRERNAME – KÜRZEL die absente Lehrkraft an. Der Stundenplan
+der Lehrkraft wird angezeigt.
+5. Klicken Sie in der Kopfzeile des Stundenplans mit Rechtsklick den Wochentag an, an
+dem die Abwesenheit beginnt. Ein Kontextmenü mit dem aktiven Eintrag ABWESENHEIT
+HINZUFÜGEN erscheint. Im Bereich ZEITRAUM ist automatisch der gesamte Kalendertag
+von der 1. bis zur 12. Stunde eingestellt.
+6. Pflegen Sie im Bereich ZEITRAUM den Zeitraum der Abwesenheit ein.
+7. Klicken Sie in das Feld BEMERKUNG* und geben Sie einen Abwesenheitsgrund ein. Die
+Schaltfläche ÜBERNEHMEN wird aktiv.
+
+Abb. 28 Arbeitsbereich Abwesenheit: gepflegte Abwesenheit einer Lehrkraft
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+25
+
+8. Klicken Sie auf ÜBERNEHMEN. Im Stundenplan ist der Zeitraum der Abwesenheit grau
+hinterlegt, die Zeitslots zeigen das Symbol ?.
+
+Abb. 29 Stundenplan: gepflegte Abwesenheit einer Lehrkraft
+
+9. Klicken Sie auf SPEICHERN.
+10. Stellen Sie im Bereich VERTRETUNGSREGELUNGEN den Zeitraum der Abwesenheit der
+Lehrkraft ein. Im Bereich VERTRETUNGSREGELUNGEN werden die entsprechenden
+Änderungen angezeigt.
+
+Abb. 30 Vertretungsregelungen: gepflegte Abwesenheit einer Lehrkraft
+
+11. Pflegen Sie für die Stunden mit ART gleich ??? die entsprechenden ÄNDERUNGEN ein
+(Kap. 4.1 bis 4.6).
+4.7.2 Abwesenheiten von Klassen einpflegen
+1. Wollen Sie die Abwesenheit einer Klasse mit betreuenden Lehrkräften einplanen, weil
+die Klasse z.B. einen Tagesausflug mit zwei Lehrkräften macht, klicken Sie in das Feld
+WOCHE.
+2. Klicken Sie die Kalenderwoche an, in der der Abwesenheitstag liegt.
+3. Klicken Sie in das Feld PLANUNGSELEMENT.
+4. Klicken Sie auf KLASSE.
+5. Klicken Sie im Feld KLASSENBEZEICHNUNG die absente Lehrkraft an. Der Stundenplan
+der Klasse wird angezeigt.
+6. Klicken Sie in der Kopfzeile des Stundenplans mit Rechtsklick den Wochentag an, an
+dem die Abwesenheit liegt. Ein Kontextmenü mit dem aktiven Eintrag ABWESENHEIT
+HINZUFÜGEN erscheint. Im Bereich ZEITRAUM ist automatisch der gesamte Kalendertag
+von der 1. bis zur 12. Stunde eingestellt.
+7. Pflegen Sie im Bereich ZEITRAUM den Zeitraum der Abwesenheit ein.
+8. Klicken Sie in das Feld BEMERKUNG* und geben Sie einen Abwesenheitsgrund ein.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+26
+
+9. Klicken Sie auf die Schaltfläche BETREUENDE LEHRKRAFT. Das Dialogfenster
+BETREUENDE LEHRKRAFT mit dem eingestellten ZEITRAUM, der BEMERKUNG* und einer
+Tabelle der Lehrkräfte wird angezeigt.
+10. Klicken Sie die betreuenden Lehrkräfte an. Die Schaltfläche ÜBERNEHMEN wird aktiv.
+
+Abb. 31 Arbeitsbereich Betreuende Lehrkraft
+
+11. Klicken Sie auf ÜBERNEHMEN. Der Arbeitsbereich ABWESENHEIT mit betreuenden
+Lehrkräften wird angezeigt.
+
+Abb. 32 Arbeitsbereich Abwesenheit mit betreuenden Lehrkräften
+
+12. Klicken Sie auf ÜBERNEHMEN. Im Stundenplan ist der Zeitraum der Abwesenheit grau
+hinterlegt, die Zeitslots zeigen eines der Symbole X oder ?.
+13. Klicken Sie auf SPEICHERN. Im Bereich VERTRETUNGSREGELUNGEN werden die
+entsprechenden Änderungen angezeigt.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+27
+
+Abb. 33 Stundenplan und Vertretungsregelungen: gepflegte Abwesenheit einer Klasse
+
+14. Pflegen Sie für die Stunden mit ART gleich ??? die entsprechenden ÄNDERUNGEN ein
+(Kap. 4.1 bis 4.6).
+
+Hinweis
+Im Arbeitsbereich BETREUENDE LEHRKRÄFTE kann auch ein vom
+Abwesenheitszeitraum der Klasse abweichender Zeitraum gepflegt werden.
+
+5
+
+Vertretungspläne generieren
+Sie haben die Möglichkeit, Vertretungspläne als Aushänge für Schüler und Lehrkräfte
+getrennt oder gemeinsam zu generieren.
+Hinweis
+Die Tabelle VERTRETUNGSREGELUNGEN zeigt beim Aufrufen der Webseite
+immer die Vertretungsregelungen am aktuellen Kalendertag an.
+Achtung
+In den ausgedruckten Vertretungsplänen werden noch nicht die abwesenden
+Klassen angezeigt. Dies erfolgt in einem späteren Release.
+
+5.1
+
+Vertretungsplan für den Schüleraushang erstellen
+1. Stellen Sie den Zeitraum ein, den der Vertretungsplan umfassen soll: Klicken Sie in das
+Feld
+2. Klicken Sie in das Feld
+
+um den Beginn des Zeitraums einzustellen.
+um das Ende des Zeitraums einzustellen.
+
+3. Klicken Sie auf die Schaltfläche KLASSENPLAN. Eine Datei mit dem Namen
+[VPlan_Klassen, einer Datums- und Zeitangabe] wird zum Öffnen angeboten.
+4. Klicken Sie auf DATEI ÖFFNEN. Der Vertretungsplan für den Schüleraushang wird
+angezeigt.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+28
+
+Abb. 34 Vertretungsplan Klassenplan für den Schüleraushang
+
+5.2
+
+Vertretungsplan für den Lehrkräfteaushang erstellen
+1. Stellen Sie den Zeitraum ein, den der Vertretungsplan umfassen soll: Klicken Sie in das
+Feld
+
+um den Beginn des Zeitraums einzustellen.
+
+2. Klicken Sie in das Feld
+
+um das Ende des Zeitraums einzustellen.
+
+3. Klicken Sie die auf Schaltfläche LEHRKRÄFTEPLAN. Eine Datei mit dem Namen
+[VPlan_Lehrkräfte, einer Datums- und Zeitangabe] wird zum Öffnen angeboten.
+4. Klicken Sie auf DATEI ÖFFNEN. Der Vertretungsplan für den Lehreraushang wird
+angezeigt.
+
+Abb. 35 Vertretungsplan Lehrkräfteplan für den Aushang für Lehrkräfte
+
+5.3
+
+Vertretungspläne für den Schüler- und den Lehrkräfteaushang zeitgleich erstellen
+1. Stellen Sie den Zeitraum ein, den der Vertretungsplan umfassen soll: Klicken Sie in das
+Feld
+
+um den Beginn des Zeitraums einzustellen.
+
+2. Klicken Sie in das Feld
+
+um das Ende des Zeitraums einzustellen.
+
+3. Klicken Sie auf die Schaltfläche KLASSEN- & LEHRKRÄFTEPLAN. Eine Datei mit dem
+Namen [VPlan_KlassenUndLehrkräfte, einer Datums- und Zeitangabe] wird zum Öffnen
+angeboten.
+4. Klicken Sie auf DATEI ÖFFNEN. Die Vertretungspläne für den Schüler- und den
+Lehrkräfteaushang werden in einer Datei angezeigt.
+
+HMKB | LUSD | Vertretungsplanung | Version: 1.0 | Letzter Stand: 05.12.2025
+
+29
+
+

@@ -1,0 +1,2205 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Abschlüsse und ihre Erfassung
+
+Version: 6.1
+Letzter Stand: 12.06.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+6
+
+Zweck der Erhebung ...................................................................................................................... 6
+Ablauf der Erhebung Abgänger/innen............................................................................................. 6
+Zielgruppe und vorausgesetzte Kenntnisse .................................................................................... 7
+LUSD-Anwenderunterstützung ....................................................................................................... 8
+
+Erfassung der Abschlusseinträge
+1
+
+2
+
+Suche der Schüler mit und ohne Abschlusseintrag................................................................ 9
+1.1
+
+Suche über die Webseite: Zeugnis zuweisen ............................................................... 9
+
+1.2
+
+Suche mit Hilfe des Berichts Abgänger/Abschlussstatistik ......................................... 10
+
+Erfassen der Abschlusseinträge .......................................................................................... 10
+2.1
+
+Datenerfassung für mehrere Schüler gleichzeitig ....................................................... 11
+
+2.2
+
+Datenerfassung für einzelne Schüler .......................................................................... 14
+
+2.3
+
+Historische Abschlüsse nachtragen............................................................................ 16
+
+2.4
+
+Erfassen von Nichtschülerprüfungen .......................................................................... 16
+
+Datenprüfung und Datenkorrektur
+3
+
+4
+
+9
+
+18
+
+Prüfen der übernommenen Abschlusseinträge .................................................................... 18
+3.1
+
+Übersicht Prüfungen (Hyperlinks) ............................................................................... 18
+
+3.2
+
+Übersicht der eingepflegten Abschlusseinträge .......................................................... 18
+
+3.3
+
+Schüler/innen ohne Abschlusseintrag in abschlussrelevanten Klassen ...................... 19
+
+3.4
+
+Auffällige Abschlusseinträge ...................................................................................... 19
+
+3.5
+
+Abweichungen Abiture ............................................................................................... 20
+
+3.6
+
+ABB-/KABS-Einträge nur mit vorherigem Abschlusseintrag........................................ 20
+
+3.7
+
+Weitere Auffälligkeiten in vereinzelten Klassen .......................................................... 21
+
+Prüfung und Korrektur der aktuellen Abschlusseinträge ...................................................... 21
+4.1
+
+Datenkorrektur über die Webseite: Qualifikationen ..................................................... 21
+
+4.2
+
+Datenkorrektur über die Webseite: Zeugnisse erstellen ............................................. 22
+
+Abschlusseinträge nach Schulformen
+
+24
+
+5
+
+Gesamtübersicht der Abschlusseinträge nach Schulformen ................................................ 24
+
+6
+
+Abschlusseinträge an allgemeinbildenden Schulen ............................................................. 26
+
+7
+
+6.1
+
+Abschlusseinträge an Hauptschulen / Mittelstufenschulen (H / MSPB) ...................... 28
+
+6.2
+
+Abschlusseinträge für Lerngruppen mit erhöhtem Praxisbezug (PUSA) ..................... 29
+
+6.3
+
+Abschlusseinträge an Realschulen / Mittelstufenschulen (R / MSMB) ........................ 30
+
+6.4
+
+Abschlusseinträge an Integrierten Gesamtschulen (IGS) ........................................... 31
+
+6.5
+
+Abschlusseinträge an GYM8 ...................................................................................... 33
+
+6.6
+
+Abschlusseinträge an GYM ........................................................................................ 34
+
+6.7
+
+Abschlusseinträge an Förderschulen ......................................................................... 36
+
+Abschlusseinträge an Schulen für Erwachsene ................................................................... 38
+7.1
+
+Abschlusseinträge an Abendhauptschulen ................................................................. 38
+
+7.2
+
+Abschlusseinträge an Abendrealschulen .................................................................... 39
+
+7.3
+
+Abschlusseinträge an Abendgymnasien und Kollegs ................................................. 40
+
+8
+
+Abschlusseinträge an Beruflichen Schulen .......................................................................... 41
+
+9
+
+Abschlusseinträge für Seiteneinsteiger (NDHS) .................................................................. 45
+
+10
+
+Wichtige Hinweise zu Abschlusseinträgen .......................................................................... 45
+10.1 Abbrecher (ABB / KABS) ............................................................................................ 45
+10.2 OHA und OLH ............................................................................................................ 46
+10.3 Hauptschulabschlüsse und deren Gleichstellungen ................................................... 46
+10.4 Mittlere Abschlüsse und deren Gleichstellungen ........................................................ 46
+10.5 BAFL und GE ............................................................................................................. 46
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+3
+
+Abbildungsverzeichnis
+Abb. 1 Schüler mit und ohne Abschluss erkennen.......................................................................... 9
+Abb. 2 Webseite Zeugnis erstellen: Abschluss und Zeugnisart zuweisen ..................................... 12
+Abb. 3 Dialogfenster Zuweisung bearbeiten: Zuweisung von Abschlüssen................................... 13
+Abb. 4 Dialogfenster Zuweisung bearbeiten: Zuweisung von zweitem Abschluss an beruflichen
+Schulen .......................................................................................................................... 13
+Abb. 5 Webseite Zeugnis erstellen: Erfasste Zeugnisse und Abschlüsse ..................................... 14
+Abb. 6 Webseite Qualifikationen: Einträge.................................................................................... 14
+Abb. 7 Dialogfenster Abschluss hinzufügen: Abschlusszuweisung in den Schülerqualifikationen . 15
+Abb. 8 Dialogfenster Abschluss hinzufügen: Erfassen von Nichtschülerprüfungen ....................... 17
+Abb. 9 Webseite Qualifikationen: Datenkorrektur ......................................................................... 21
+Abb. 10 Dialogfenster Abschluss bearbeiten ................................................................................ 22
+Abb. 11 Webseite Zeugnis zuweisen: Datenkorrektur .................................................................. 22
+Abb. 12 Dialogfenster Zuweisung bearbeiten ............................................................................... 23
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+4
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z. B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+5
+
+Zu diesem Dokument
+Zweck der Erhebung
+Im Rahmen der Erhebung der Abgängerinnen und Abgänger sowie Absolventinnen und Absolventen werden am Ende des Schuljahres an allen öffentlichen Schulen und an Ersatzschulen nach
+§ 171 des Hessischen Schulgesetzes mit Ausnahme der Grundschulen
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+die erreichten Abschlüsse,
+die erzielten Gleichstellungen mit dem Haupt- bzw. Realschulabschluss,
+die Abgangsbescheinigungen,
+das Abschließen eines Bildungsgangs mit Förderung geistige Entwicklung,
+nicht erfolgreiche Teilnahmen an Abschlussprüfungen,
+der Abbruch eines Bildungsgangs und
+Nichtschülerprüfungen
+
+erhoben.
+Die Zahlen werden u.a. für die Lehrerzuweisung, für Fachentscheidungen im Ressort und als
+Nachweis über die Verwendung von Haushaltsmitteln an den Landtag und das Finanzministerium
+benötigt. Darüber hinaus stehen diese Zahlen auch im Fokus von Politik und Öffentlichkeit.
+Rechtsgrundlage für die Erhebung ist § 85 Hessisches Schulgesetz in der Fassung der Bekanntmachung vom 31. März 2023 (GVBl. S. 234), geändert durch Gesetz vom 28. März 2023 (GVBl.
+S.183), i.V.m. den §§ 33 ff. Verordnung über die Verarbeitung personenbezogener Daten durch
+Schulen und Schulaufsichtsbehörden (Schul-Datenschutzverordnung) vom 1. Dezember 2023
+(ABl. S. 763) in der jeweils geltenden Fassung.
+
+Ablauf der Erhebung Abgänger/innen
+Der genaue Zeitrahmen der Erhebung sowie der Stichtag werden jährlich bekannt gegeben. Ab
+dem genannten Zeitpunkt werden für die Datenprüfung vonseiten der Schulen nächtlich die Abschlussdaten aus der LUSD in das Kultusdatawarehouse (KDW) übernommen und Übersichten
+der Daten, inklusive Auffälligkeiten, am nächsten Morgen über einen LUSD-Bericht an Sie zurückgespiegelt.
+Sie können den Bericht täglich abrufen, um zu prüfen, ob Ihre Änderungen in der LUSD am Vortag
+erfolgreich waren.
+Ziel ist es, dass alle Abschlussdaten zum Stichtag vollständig und korrekt vorliegen. Um dies zu
+gewährleisten, werden Sie aufgerufen Ihre Daten so früh wie möglich vor Stichtag zu erfassen
+und bereits während der Erhebung zu prüfen, damit Sie ausreichend Zeit haben eventuelle Datenfehler noch vor Stichtag in der LUSD korrigieren zu können.
+Stichtag der Erhebung ist der Samstag der ersten Sommerferienwoche.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+6
+
+Während der Erhebung werden die aus der LUSD übernommenen Abschlusseinträge ebenfalls
+von den Staatlichen Schulämtern und dem Hessischen Statistischen Landesamt geprüft. Zudem
+werden Ihnen Hinweise zur laufenden Erhebung von den Schulämtern an Ihr Landespostfach
+weitergeleitet.
+Hinweis
+Korrekturen in der LUSD nach Stichtag können nicht in allen Fällen vom Hessischen Ministerium für Kultus, Bildung und Chancen (HMKB) im Nachgang
+berücksichtigt werden.
+
+Abschlüsse können in der LUSD zugewiesen werden …
+▪ für mehrere Schüler gleichzeitig auf der Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN > REGISTER ZEUGNIS ZUWEISEN (siehe Kapitel 2.1).
+▪ für einzelne Schüler auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN
+(siehe Kapitel 2.2).
+Hinweis
+Ergebnisse von Nichtschülerprüfungen können nur einzelnen Schülern zugewiesen werden. Eine Bearbeitung mehrerer Schüler ist nicht möglich.
+Eine Übersicht der vom HMKB übernommenen Daten kann dem LUSD-Bericht „PRÜFBERICHT ABSCHLUSSSTATISTIK entnommen werden (siehe Kapitel 3).
+Tipp
+Fortbildungsangebote im Zusammenhang mit der Erhebung der Abgängerinnen und Abgänger sowie Absolventinnen und Absolventen finden Sie auf der
+Webseite der Digitalen Schule Hessen.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an LUSD-Benutzer, die Abschlüsse in der LUSD pflegen.
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben:
+▪ Basiswissen zur LUSD
+▪ Wissen zur Bearbeitung von Schülerdaten in der LUSD
+▪ Wissen zur Bearbeitung von Schul- und Unterrichtsdaten in der LUSD
+Nutzen Sie im Vorfeld gerne die Angebote der LUSD-Anwenderunterstützung.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+7
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebote rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+8
+
+Erfassung der Abschlusseinträge
+1
+
+Suche der Schüler mit und ohne Abschlusseintrag
+
+1.1
+
+Suche über die Webseite: Zeugnis zuweisen
+Um zu sehen, welchen Schülern im aktuellen Halbjahr noch kein Abschluss zugewiesen
+wurde, rufen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN > REGISTER
+ZEUGNIS ZUWEISEN auf (Abb. 1).
+Dort werden die Schüler je nach Suche klassen- oder jahrgangsweise mit den ihnen zugewiesenen Zeugnissen und Abschlüssen des aktuellen Halbjahres aufgeführt, so dass Schüler ohne Abschlusszuweisung durch Sortierung der Spalte Abschluss Zuweisung leicht zu
+finden sind.
+
+Abb. 1 Schüler mit und ohne Abschluss erkennen
+
+Hinweis
+Die Webseite kann für diesen Zweck verwendet werden, auch wenn Sie normalerweise Ihre Zeugnisse nicht mit der LUSD schreiben und keine Noten
+hinterlegt sind.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+9
+
+1.2
+
+Suche mit Hilfe des Berichts Abgänger/Abschlussstatistik
+Eine Übersicht der in diesem Schuljahr freigegebenen Schüler ohne Abschlusseintrag
+und der bisher erfassten Abschlusseinträge aller (aktiven und ehemaligen) Schüler, die
+in dem jeweiligen Schuljahr aktiv waren, können Sie dem Bericht ABGÄNGER-/ABSCHLUSSSTATISTIK entnehmen.
+Den Bericht können Sie unter dem Menüpunkt EXTRAS > BERICHTE > STANDARDBERICHTE >
+STATISTIK > ABSCHLUSSSTATISTIK > ABGÄNGER-/ABSCHLUSSSTATISTIK erstellen.
+Der Bericht führt alle aktiven und ehemaligen Schüler namentlich auf, gruppiert nach Abschlussart, für die im ausgewählten Schuljahr:
+▪ ein Abschlusseintrag erfasst wurde,
+▪ und/oder ein Freigabedatum eingetragen wurde.
+Der Bericht kann auch für vergangene Schuljahre aufgerufen werden.
+Hinweis
+Da in früheren Schuljahren noch nicht alle für den Bericht notwendigen Daten
+in der LUSD erfasst wurden, sind für frühere Jahre geringe Abweichungen
+gegenüber den tatsächlichen Daten möglich.
+
+2
+
+Erfassen der Abschlusseinträge
+Ein Abschlusseintrag ist als die Art, in der der jeweilige Bildungsgang beendet wurde
+oder ein Abschluss der innerhalb eines Bildungsgangs erreicht wurde, definiert. Mit
+dem Begriff „Abschlusseintrag“ sind somit nicht nur „echte“ Abschlüsse gemeint (Hauptschul-/Realschulabschluss, Förderschulabschlüsse, berufliche Abschlüsse, usw.), sondern
+auch deren Gleichstellungen. Gemeint sind aber auch das Nichterreichen eines Abschlusses nach Durchlaufen eines Bildungsgangs, das Abschließen des Bildungsgangs mit Förderung geistige Entwicklung oder sogar der Abbruch eines Bildungsgangs.
+Nach der Erstzuteilung eines Abschlusseintrags in der LUSD, im Regelfall in der Stufe 9,
+werden bei weiterem Schulbesuch in den darauffolgenden Schuljahren weitere Abschlüsse,
+Gleichstellungen, usw. erworben und ebenfalls in der LUSD erfasst. D.h. während des
+Schulverlaufs eines Schülers werden eine Reihe von Abschlusseinträgen erfasst, um die
+verschiedenen Bildungsziele, die ein Schüler erreicht hat, darzustellen (z. B. Gleichstellung
+mit dem Hauptschulabschluss > Gleichstellung mit dem Realschulabschluss > Abitur).
+Hinweis
+Im Unterschied zu anderen Abschlüssen bzw. Abschlusseinträgen wird der
+SFHR erst beim Abgang eines Schülers zugewiesen. Voraussetzung ist,
+dass kein Abitur beim Abgang erworben wurde.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+10
+
+Dies gilt ebenfalls wenn ein Schüler nach der ersten Ausbildung eine weitere Ausbildung
+besucht. In dem Fall wird dem Schüler nach erfolgreichem Abschluss der ersten Ausbildung ein beruflicher Abschluss zugewiesen. Nach dem erfolgreichen Abschluss der zweiten
+Ausbildung wird dann der berufliche Abschluss für den zweiten Bildungsgang erfasst.
+Hinweis
+Die Abschlüsse müssen nur dann über eine der unten genannten Webseiten
+erfasst werden, wenn sie nicht zuvor auf einer der Abschlussseiten automatisch berechnet wurden.
+Wird der Abschluss des Schülers auf einer der Abschlussseiten ABITUR, FHRFOS, MITTLERER ABSCHLUSS oder HAUPTSCHULABSCHLUSS berechnet,
+▪ wird dem Schüler der Abschluss in der LUSD automatisch auf der Webseite QUALIFIKATIONEN eingetragen.
+▪ ist der Abschluss auch auf der Webseite ZEUGNIS ERSTELLEN > REGISTER
+ZEUGNIS ZUWEISEN in der Spalte LETZTER ABSCHLUSS zu sehen.
+Beachten Sie, dass automatisch generierte Abschlusseinträge nach einer
+Nachkorrektur auf den Abschlussseiten erneut geprüft werden sollten. Bereits
+zugewiesene Abschlüsse werden bei einer Nachkorrektur im Notenbereich
+nicht zwingend im Bereich QUALIFIKATIONEN automatisch korrigiert oder gelöscht.
+
+2.1
+
+Datenerfassung für mehrere Schüler gleichzeitig
+Sie können mehreren Schülern gleichzeitig denselben Abschlusseintrag über die Webseite ZEUGNIS ERSTELLEN zuweisen.
+Hinweis
+Die Webseite: Zeugnis erstellen kann für diesen Zweck verwendet werden,
+auch wenn Sie normalerweise Ihre Zeugnisse nicht mit der LUSD schreiben
+und keine Noten hinterlegt sind.
+1. Öffnen Sie die Seite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN > Register ZEUGNIS
+ZUWEISEN.
+2. Wählen Sie im Auswahlfeld HALBJAHR das gewünschte Halbjahr aus.
+Sie können auch vergangene Halbjahre auswählen. Die Webseite ermittelt dann die in
+dem ausgewählten Halbjahr aktiven Klassen und Schüler. Durch Auswahl des entsprechenden Halbjahres können Sie auch Abschlüsse erfassen, die in bereits vergangenen
+Halbjahren erreicht wurden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+11
+
+Hinweis
+Achten Sie bei der Auswahl von bereits vergangenen Halbjahren darauf, dass
+die Schüler dann unter der Klassenbezeichnung und Stufe gesucht werden
+müssen, die in dem gewählten Halbjahr gültig war.
+
+Achtung
+Schüler, die im aktuellen Halbjahr die Schule gewechselt haben
+und von der aufnehmenden Schule bereits aktiviert wurden, können in
+diesem Halbjahr nur noch von der aufnehmenden Schule aufgerufen werden,
+aber nicht mehr von der abgebenden Schule.
+Schüler, die in einem vergangenen Halbjahr die Schule gewechselt haben,
+können sowohl von der abgebenden Schule als auch von der aktuellen
+Schule aufgerufen und bearbeitet werden.
+
+3. Wählen Sie eine der folgenden Optionen: KLASSE oder SCHULFORM/BILDUNGSKOMBINATION und ggf. eine zugehörige Stufe.
+4. Starten Sie die Suche durch Mausklick auf die Schaltfläche
+
+.
+
+Die Schüler erscheinen in der Übersichtstabelle (Abb. 2)
+▪
+▪
+▪
+
+ROT markiert, wenn ihnen noch kein Zeugnis zugewiesen wurde.
+GRÜN markiert, wenn die Zuweisung bereits vollständig erfolgt ist.
+GELB markiert, wenn ihnen ein Abschluss- oder Abgangszeugnis, aber kein Abschluss zugewiesen wurde.
+
+Abb. 2 Webseite Zeugnis erstellen: Abschluss und Zeugnisart zuweisen
+
+5. Markieren Sie die Schüler, deren Abschlüsse Sie erfassen möchten.
+6. Klicken Sie auf
+
+.
+
+Sie können nun im Dialogfenster ZUWEISUNG BEARBEITEN einen Abschluss in Verbindung
+mit einem Zeugnis oder auch getrennt davon zuweisen (Abb. 3).
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+12
+
+Abb. 3 Dialogfenster Zuweisung bearbeiten: Zuweisung von Abschlüssen
+
+Hinweis
+Abschlusseinträge des aktuellen Schuljahres dürfen nicht im Feld EIGNUNG
+ZUWEISEN erfasst werden. Die Einträge dieses Felds dienen zur Information
+für aufnehmende Schulen und werden nicht im Rahmen der Erhebung übernommen.
+
+7. Tragen Sie die Zeugnisart, das Konferenz- und das Ausgabedatum ein.
+8. Wählen Sie den relevanten Abschlusseintrag aus.
+Für berufliche Schulen ist die Zuweisung von zwei Abschlüssen (beruflicher und allgemeinbildender Abschluss) möglich (Abb. 4).
+
+Abb. 4 Dialogfenster Zuweisung bearbeiten: Zuweisung von zweitem Abschluss an beruflichen Schulen
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+13
+
+9. Klicken Sie auf
+
+und anschließend auf
+
+.
+
+Der zugewiesene Abschluss wird in den Spalten ABSCHLUSS-ZUWEISUNG und LETZTER
+ABSCHLUSS angezeigt (Abb. 5). Hier zugewiesene Abschlüsse werden automatisch auch
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN angezeigt
+(Abb. 6).
+
+Abb. 5 Webseite Zeugnis erstellen: Erfasste Zeugnisse und Abschlüsse
+
+Abb. 6 Webseite Qualifikationen: Einträge
+
+2.2
+
+Datenerfassung für einzelne Schüler
+Alternativ zu dem in Kapitel 2.1 beschriebenen Vorgehen können Sie alle Abschlüsse, die
+in der gewählten Schulform insgesamt möglich sind, auch jedem Schüler einzeln zuweisen.
+Eine individuelle Zuweisung ist auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN möglich.
+1. Öffnen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN.
+2. Wählen Sie die gewünschten Schüler über die Schülersuche
+sowohl aktive als auch ehemalige Schüler auswählen.
+3. Klicken Sie auf die Schaltfläche
+SCHLUSS HINZUFÜGEN (Abb. 7).
+
+aus. Sie können
+
+. Es erscheint das Dialogfenster AB-
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+14
+
+Abb. 7 Dialogfenster Abschluss hinzufügen: Abschlusszuweisung in den Schülerqualifikationen
+
+4. Wählen Sie das Datum des Abschlusses. Das Halbjahr stellt sich dann automatisch ein.
+5. Wählen Sie ggf. die Schule, an der der Abschluss vergeben wurde, aus. Voreingestellt
+ist die eigene Schule.
+6. Wählen Sie die Schulform des Schülers zum fraglichen Zeitpunkt und den Abschluss
+aus.
+Hinweis
+Im aktuellen Halbjahr können nur die beim Schüler für dieses Halbjahr gespeicherten Schulformen ausgewählt werden. Zudem wird geprüft, ob der Abschluss zur Stufe des Schülers passt.
+Für vergangene Halbjahre können Abschlüsse auch an anderen Schulen und
+in anderen Schulformen eingetragen werden
+
+7. Abhängig von der gewählten Schulform können Sie dann den Abschluss auswählen,
+den der Schüler erhalten soll.
+8. Klicken Sie auf
+
+und auf
+
+.
+
+9. Wechseln Sie bei Bedarf über die Navigationspfeile
+Schüler und wiederholen Sie die Schritte 3 bis 9.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+zum nächsten
+
+15
+
+Hinweis
+Abschlusseinträge des aktuellen Schuljahres sollten nicht im Feld LETZTE
+FESTGESTELLTE EIGNUNG erfasst werden. Die Einträge dieses Feldes sind für
+einen anderen Zweck bestimmt und werden nicht im Rahmen der Erhebung übernommen.
+Nur in beruflichen Schulen ist im gleichen Halbjahr die Zuordnung eines zweiten Abschlusses möglich, also z. B. der berufliche Abschluss ABSCHLUSS und
+der allgemeine Abschluss GLEICHSTELLUNG MIT DEM MITTLEREN ABSCHLUSS.
+Ansonsten kann pro Schule und Halbjahr nur ein Abschluss zugewiesen werden.
+Ein Abschluss kann auch nicht doppelt vergeben werden – ausgenommen
+die Abschlüsse, die beim Schüler mehrfach vorkommen können wie ABBRUCH, KEIN ABSCHLUSS oder ABSCHLUSS.
+
+2.3
+
+Historische Abschlüsse nachtragen
+Für Schüler müssen Sie ggf. frühere Abschlüsse aus vorhergehenden Schulen und/oder
+Schuljahren nachpflegen,
+▪ wenn diese nicht in der LUSD erfasst wurden, zum Beispiel, weil sie nicht in Hessen erlangt wurden.
+▪ wenn diese für die Aufnahme und für die Schullaufbahn eines Schülers wichtig sind.
+Die Eintragung dieser historischen Abschlüsse erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN.
+
+2.4
+
+Erfassen von Nichtschülerprüfungen
+Auch das Erfassen von Nichtschülerprüfungen erfolgt über die Webseite QUALIFIKATIONEN.
+1. Klicken Sie dazu bei dem gewünschten Schüler auf die Schaltfläche ABSCHLUSS HINZUFÜGEN oder ABSCHLUSS BEARBEITEN.
+Es erscheint das entsprechende Dialogfenster (Abb. 8).
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+16
+
+Abb. 8 Dialogfenster Abschluss hinzufügen: Erfassen von Nichtschülerprüfungen
+
+2. Nehmen Sie einen Eintrag im Feld DATUM DES ABSCHLUSSES vor. Dadurch wird das Auswahlfeld NICHTSCHÜLERPRÜFUNG aktiviert.
+3. Setzen Sie den Haken im Kontrollkästchen des Auswahlfeldes NICHTSCHÜLERPRÜFUNG.
+4. Klicken Sie auf die Schaltfläche Übernehmen, um Ihre Änderungen zu übernehmen.
+Hinweis
+Die bisherige Möglichkeit, einen Abschluss ohne Dienststelle über die Schule
+0 anzulegen, ist nicht mehr möglich: Dieser Eintrag erscheint nicht mehr in
+der Auswahlliste.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+17
+
+Datenprüfung und Datenkorrektur
+Da die Abschlusseinträge unter anderem im Rahmen der Lehrerzuweisung für die Plausibilisierung
+der Schülerdaten im neuen Schuljahr verwendet werden, ist es notwendig, dass Sie die vom
+HMKB übernommenen Abschlussdaten vor dem Stichtag prüfen können. Dafür steht Ihnen der unten beschriebene LUSD-Bericht PRÜFBERICHT ABSCHLUSSSTATISTIK zur Verfügung.
+
+3
+
+Prüfen der übernommenen Abschlusseinträge
+
+Den Schulen steht für die Datenprüfung der übernommenen Daten der LUSD-Bericht PRÜFBERICHT ABSCHLUSSSTATISTIK auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > ABSCHLUSSSTATISTIK zur Verfügung. Der Prüfbericht stellt eine Übersicht der Abschlussdaten
+dar und weist gleichzeitig auf Auffälligkeiten in den Daten hin, die geprüft werden müssen. Der Bericht wird täglich aktualisiert. D.h. Änderungen, die Sie in der LUSD vorgenommen haben, werden
+erst am darauf folgenden Morgen im Bericht sichtbar. Der Datenstand, auf den sich der jeweilige
+Bericht bezieht, kann dem Berichtskopf entnommen werden.
+Bitte beachten Sie die Erläuterung vor der jeweiligen Übersicht bzw. Prüfung. In der Erläuterung wird im Detail beschrieben welche Daten berücksichtigt wurden und was bei der jeweiligen
+Prüfung zu beachten ist.
+Die folgenden Paragraphen geben Hinweise zu den einzelnen Abschnitten des Berichts. Können
+die in dem Bericht angezeigten Auffälligkeiten erklärt werden, schicken Sie bitte eine kurze Rückmeldung an das Postfach Abschlussstatistik@kultus.hessen.de, damit der Fall aus der Prüfliste
+ausgeblendet werden kann. Die schulfachliche Aufsicht setzen Sie dabei bitte in Kopie.
+
+3.1
+
+Übersicht Prüfungen (Hyperlinks)
+Die zu Beginn des Berichts aufgeführten Hyperlinks ermöglichen die schnelle Ansteuerung
+einer Übersicht oder einer Prüfung. Dies ist besonders bei längeren Berichten hilfreich.
+Über das Anklicken des Hyperlinks werden Sie sofort zu dem jeweiligen Abschnitt weitergeleitet.
+
+3.2
+
+Übersicht der eingepflegten Abschlusseinträge
+In dieser Übersicht können Sie erkennen, welche Abschlusseinträge aus der LUSD für Ihre
+Schule übernommen wurden und ob es Auffälligkeiten zur Vollständigkeit der Daten gab (s.
+evtl. gelb markierte Rückmeldungen in der Kommentarspalte).
+Es werden alle Abschlusseinträge von Schülern gezeigt, die im aktuellen Schuljahr aktiv
+waren, auch wenn diese bereits von Ihnen in der LUSD freigegeben wurden. Ist ein Schüler
+zwischenzeitlich an eine andere hessische Schule gewechselt, wird er nur an der zuletzt
+erfassten Schule aufgeführt.
+Bei den allgemeinbildenden Bildungsgängen werden ausschließlich die Abschlusseinträge
+der Stufen 9 bis 13 berücksichtigt. Bei beruflichen Bildungsgängen werden hingegen die
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+18
+
+Abschlusseinträge aller Stufen angezeigt. Die Einträge der Schüler, die sich in Stufen befinden, bei denen mit hoher Wahrscheinlichkeit Abschlusseinträge zu erwarten sind (z. B. die
+Stufen 9, 10 und 13) oder die in einer Abgangsklasse der beruflichen Schule sitzen, werden
+auf Vollständigkeit geprüft.
+Fehlen in solchen Fällen mehr als 10% der Abschlusseinträge einer Klasse wird ein gelb
+hinterlegter Kommentar in der Kommentarspalte eingeblendet. Die betroffenen Schüler
+werden im Abschnitt SCHÜLER/INNEN OHNE ABSCHLUSSEINTRAG IN ABSCHLUSSRELEVANTEN
+KLASSEN namentlich aufgeführt. Die Namen sind nur in dem LUSD-Bericht der Schule sichtbar, nicht jedoch in den Berichten der Staatlichen Schulämter (SSA) oder des Statistikreferats im HMKB. Für etwaige Rücksprachen mit dem SSA oder dem HMKB müssen Sie daher ebenfalls die Klasse, das Geburtsdatum und das Geschlecht der betroffenen Schüler
+angeben.
+Sind die Einträge der geprüften Klasse aus Ihrer Sicht vollständig und Sie können die Anzahl der Schüler ohne Eintrag begründen, schicken Sie bitte eine kurze Rückmeldung an
+das Postfach Abschlussstatistik@kultus.hessen.de, damit der Kommentar im nächsten Bericht ausgeblendet werden kann. Die schulfachliche Aufsicht setzen Sie dabei bitte in Kopie.
+Ist die Kommentarspalte leer, wurden keine Auffälligkeiten bzgl. der Vollständigkeit der Einträge gefunden und die Übersicht dient lediglich für Sie zur Gegenprüfung, der von Ihnen
+erfassten Einträge.
+
+3.3
+
+Schüler/innen ohne Abschlusseintrag in abschlussrelevanten Klassen
+Die in der ersten Übersicht gelb markierten Fälle werden in diesem Abschnitt mit Schülernamen aufgeführt, damit Sie wissen, welcher Ihrer Schüler gemeint ist. Gleichzeitig werden
+ehemalige GYM8-Schüler aufgeführt, denen zum Ende der E-Phase noch keine Gleichstellung mit dem mittleren Abschluss (MA-G) zugewiesen wurde.
+Zudem werden alle Schüler ohne Abschlusseintrag in Abgangsklassen aufgelistet, damit
+Sie diese ebenfalls prüfen können. Hier handelt es sich aber lediglich um einen Hinweis,
+dass bei diesen Schülern noch kein Abschlusseintrag zugewiesen wurde.
+Sie können die in diesem Abschnitt aufgeführten Schüler ignorieren, wenn für diese kein
+Abschlusseintrag erfasst werden muss (siehe Kapitel 6 bis 9).
+
+3.4
+
+Auffällige Abschlusseinträge
+Bei der Datenübernahme aus der LUSD wird für jeden Schüler die zuletzt erfasste Schulform und Stufe ermittelt. Danach erfolgt eine Prüfung, ob der erfasste Abschlusseintrag in
+Bezug auf die Schulform und Stufe des Schülers laut Verordnung gültig ist bzw. ob bei den
+Förderschuleinträgen BAFL, OLH und GE auch die dafür notwendigen Förderarten IB-LER
+und IB-GE vorliegen. Die dadurch ermittelten Auffälligkeiten werden in der Prüfung AUFFÄLLIGE ABSCHLUSSEINTRÄGE aufgeführt.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+19
+
+Anhand der Schülernamen können Sie prüfen, welcher Abschlusseintrag eigentlich hätte
+erfasst werden müssen und können die Daten, wie im Kapitel 5 beschrieben, korrigieren.
+Hätte der Abschlusseintrag eigentlich für ein vergangenes Schuljahr erfasst werden sollen,
+d.h. es wurde das falsche Abschlussdatum erfasst, kann das Abschlussdatum ebenfalls
+über die Webseite QUALIFIKATIONEN korrigiert werden. In dem Fall müssen Sie ein Datum
+auswählen, das zu dem Schuljahr passt für das der Eintrag bestimmt war.
+Wird ein BAFL, OLH oder GE als Auffälligkeit angezeigt, müssen Sie prüfen, ob für den
+Schüler die Förderung IB-LER (für BAFL/OLH) oder die Förderung IB-GE (für den Abschlusseintrag GE) erfasst ist und der Gültigkeitszeitraum der Förderung im aktuellen
+Schuljahr liegt.
+
+3.5
+
+Abweichungen Abiture
+In dieser Prüfung werden die auf der Webseite QUALIFIKATIONEN hinterlegten Abitureinträge
+und der auf der Webseite ABITUR von der LUSD ermittelte Status des Schülers verglichen.
+Dabei werden Schüler, bei denen ein Abitureintrag erfasst ist, deren Abiturstatus aber nicht
+von der LUSD als ABITUR BESTANDEN ermittelt wurde, als Auffälligkeit zurückgespiegelt.
+Hat der Schüler das Abitur nicht bestanden müssen Sie den Abitureintrag in der Tabelle
+SCHULABSCHLÜSSE auf der Webseite QUALIFIKATIONEN löschen.
+Hat der Schüler das Abitur bestanden müssen Sie mit Hilfe der LUSD-Anleitung LUSDHandbuch für das Abitur den Abiturstatus des Schülers überprüfen und korrigieren.
+
+3.6
+
+ABB-/KABS-Einträge nur mit vorherigem Abschlusseintrag
+In Stufe 9 kann der ABB-Eintrag (Abbruch ohne Teilnahme an der Abschlussprüfung) bzw.
+der KABS-Eintrag (erfolglose Teilnahme an der Abschlussprüfung) nicht der erste zugeteilte Abschluss in der Schulhistorie des Schülers sein.
+Ein solcher Eintrag darf in der Stufe 9 lediglich vergeben werden, wenn der Schüler bereits
+in der Vergangenheit einen OHA (ohne Hauptschulabschluss), einen OLH (ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen), einen anderen Abschluss oder eine Gleichstellung erhalten hat. Ist dem nicht der Fall und der Schüler beendet den Bildungsgang, kann dem Schüler ein OHA oder ein OLH zugeordnet werden. Wiederholt der Schüler den Bildungsgang, soll kein Abschlusseintrag gesetzt werden.
+Die Prüfung weist auf Schüler hin, bei denen ein ABB- bzw. ein KABS-Eintrag in der Stufe 9
+erfasst wurde aber, auf Basis der vergangenen Erhebungen, kein vorheriger Abschlusseintrag im KDW vorliegt.
+Wurde der ABB-/KABS-Eintrag eigentlich in einer anderen Stufe vergeben, dann sollte das
+Abschlussdatum des Eintrags in der Tabelle Schulabschlüsse auf der Webseite QUALIFIKATIONEN korrigiert werden. Das Abschlussdatum muss in dem Schuljahr liegen, in dem die
+Stufe besucht wurde. Hätte eigentlich ein OHA oder OLH erfasst werden müssen, kann der
+falsche Eintrag in derselben Tabelle geändert werden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+20
+
+Wird in der Historie der Schüler (Tabelle SCHULABSCHLÜSSE) für die vergangenen Schuljahre bereits ein OHA, OLH oder anderer Abschlusseintrag angezeigt, schicken Sie bitte
+eine kurze Rückmeldung an das Postfach Abschlussstatistik@kultus.hessen.de, damit die
+Meldung ausgeblendet werden kann. Die schulfachliche Aufsicht setzen Sie dabei bitte in
+Kopie.
+
+3.7
+
+Weitere Auffälligkeiten in vereinzelten Klassen
+In dieser Prüfung wird auf Klassen aufmerksam gemacht, bei denen weitere Auffälligkeiten
+bestehen. Die Art der Auffälligkeit wird in der letzten Spalte beschrieben.
+Können Sie die Auffälligkeiten erklären, schicken Sie bitte eine kurze Rückmeldung an das
+Postfach Abschlussstatistik@kultus.hessen.de, damit der Fall aus der Liste entfernt werden
+kann. Die schulfachliche Aufsicht setzen Sie dabei bitte in Kopie.
+
+4
+
+Prüfung und Korrektur der aktuellen Abschlusseinträge
+In Ergänzung zum Bericht PRÜFBERICHT ABSCHLUSSSTATISTIK kann auch der im Kapitel 1.2
+erwähnte Bericht ABGÄNGER-/ABSCHLUSSSTATISTIK auf der Website EXTRAS > BERICHTE >
+STANDARDBERICHTE > STATISTIK > ABSCHLUSSSTATISTIK für die Prüfung der Live-Daten genutzt werden.
+Ausschlaggebend für die Erhebung ist jedoch der PRÜFBERICHT ABSCHLUSSSTATISTIK, da
+nur dieser die übernommenen Daten widerspiegelt.
+
+4.1
+
+Datenkorrektur über die Webseite: Qualifikationen
+Einen falschen Eintrag, auch einen historischen falschen Eintrag können Sie – wie im Folgenden gezeigt – korrigieren:
+
+Abb. 9 Webseite Qualifikationen: Datenkorrektur
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+21
+
+Abb. 10 Dialogfenster Abschluss bearbeiten
+
+4.2
+
+Datenkorrektur über die Webseite: Zeugnisse erstellen
+Einen falschen Eintrag, auch einen historischen falschen Eintrag, können Sie – wie im Folgenden gezeigt – in der Mehrfachbearbeitung korrigieren:
+
+Abb. 11 Webseite Zeugnis zuweisen: Datenkorrektur
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+22
+
+Abb. 12 Dialogfenster Zuweisung bearbeiten
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+23
+
+Abschlusseinträge nach Schulformen
+5
+
+Gesamtübersicht der Abschlusseinträge nach Schulformen
+Ein Abschlusseintrag sollte erfasst werden bei…
+▪ Bestehen einer Prüfung.
+▪ Versetzung in die nächsthöhere Jahrgangsstufe durch Erfüllung der unter §55
+VOBGM aufgeführten Bedingungen (Gleichstellung).
+▪ Abbruch eines beruflichen Bildungsgangs.
+▪ Abbruch eines allgemeinbildenden Bildungsgangs und Verlassen des allgemeinbildenden Bildungssystems.
+▪ Abgang eines ausländischen Gastschülers.
+▪ Unterbrechung eines Bildungsgangs der Schulen für Erwachsene.
+▪ erfolgreichem Abschluss eines Bildungsgangs ohne Abschlussprüfung (z. B. BBzU
+oder GE).
+Kürzel
+
+Abschlusseintrag
+
+ABAG
+
+Abgang ausländischer Gastschüler
+
+ABB
+
+Abbruch (vorzeitiges Verlassen des Bildungsganges)
+
+ABI
+
+Abitur
+
+ABIB
+
+Abitur und Baccalaureat
+
+ABIM
+
+Abitur und Maturita
+
+ABS
+
+Abschluss (nur für BS)
+
+BAFL
+
+Berufsorientierter Abschluss (Förderschwerpunkt Lernen)
+
+BBzU
+
+Bescheinigung Besuch berufl. Bildungsgang in zieldifferentem Unterricht
+
+FHR
+
+Fachhochschulreife
+
+GE
+
+Mit Abschluss aus der Schule mit Förderschwerpunkt geistige Entwicklung
+
+HA
+
+Hauptschulabschluss
+
+HA-G
+
+Gleichstellung mit Hauptschulabschluss
+
+HQ
+
+Qualifizierender Hauptschulabschluss
+
+HQ-G
+
+Gleichstellung mit qualifizierendem Hauptschulabschluss
+
+IBAC
+
+International Baccalaureate (IB)
+
+KABS
+
+Kein Abschluss (nach Beendigung des Bildungsganges)
+
+MA
+
+Mittlerer Abschluss (Realschulabschluss)
+
+MA-G
+
+Gleichstellung mit mittlerem Abschluss
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+24
+
+Kürzel
+
+Abschlusseintrag
+
+MAQ
+
+Qualifizierender mittlerer Abschluss
+
+OHA
+
+Ohne Hauptschulabschluss
+
+OLH
+
+Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt
+Lernen
+
+SFHR
+
+Schulischer Teil der Fachhochschulreife
+
+STAN
+
+Staatliche Anerkennung (nur für BS)
+
+THAP
+
+Theoretische Abschlussprüfung (nur für BS)
+
+UNBR
+
+Unterbrechung (nur für SfE)
+
+Hinweis
+Die möglichen Abschlusseinträge entsprechen der jeweils gültigen Verordnung.
+
+In den einzelnen Schulformen können Sie folgende Abschlusseinträge zuweisen:
+Abschlusseintrag
+
+Verweis
+
+Alle allgemeinbildenden Schulen
+
+Kapitel 6
+
+Hauptschulen / Mittelstufenschulen (H und MSPB)
+
+Kapitel 6.1
+
+Lerngruppen mit erhöhtem Praxisbezug PUSA
+
+Kapitel 6.2
+
+Realschulen / Mittelstufenschulen (R und MSMB)
+
+Kapitel 6.3
+
+Integrierte Gesamtschulen
+
+Kapitel 6.4
+
+GYM8
+
+Kapitel 6.5
+
+GYM
+
+Kapitel 6.6
+
+Förderschulen
+
+Kapitel 6.7
+
+Abendhauptschulen
+
+Kapitel 7.1
+
+Abendrealschulen
+
+Kapitel 7.2
+
+Abendgymnasien und Kollegs
+
+Kapitel 7.3
+
+Berufliche Schulen
+
+Kapitel 8
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+25
+
+6
+
+Abschlusseinträge an allgemeinbildenden Schulen
+Jahrgangsstufe
+
+Ereignis
+
+Abschluss
+
+Zeugnis
+
+5 – vor Ende 9
+
+Wiederholung der Stufe
+
+Kein Abschluss-Eintrag
+
+Halbjahreszeugnis
+
+Schulwechsel an hessische allgemeinbildende Schule
+
+Kein Abschluss-Eintrag
+
+Schulwechselzeugnis
+
+Schulwechsel an außerhessische allgemeinbildende
+Schule
+
+Kein Abschluss-Eintrag
+
+Schulwechselzeugnis
+
+Verlassen des hessischen Schulsystems ohne erfüllte
+Schulpflicht und ohne Abschluss, aber ohne bekannten
+Schulwechsel, z. B. Ausland
+
+Kein Abschluss-Eintrag
+
+Schulwechselzeugnis
+
+Verlassen des allgemeinbildenden Schulsystems nach
+erfüllter Schulpflicht ohne Abschluss
+
+OHA, OLH
+
+Abgangszeugnis
+
+Wiederholung der Stufe ohne Teilnahme an Abschlussprüfung
+
+Kein Abschluss-Eintrag
+
+Halbjahreszeugnis
+
+Wiederholung der Stufe mit Teilnahme an Abschlussprüfung
+
+KABS1
+
+Halbjahreszeugnis
+
+Schulwechsel an hessische allgemeinbildende Schule
+
+Erreichter Abschluss oder erreichte Gleichstellung
+
+Schulwechselzeugnis
+
+Ende 9 bis 13
+
+1 In Stufe 9 wird KABS nur gesetzt, wenn der Schüler bereits einen vorherigen Abschluss oder eine Gleichstellung erreicht hat.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+26
+
+Jahrgangsstufe
+
+Ereignis
+
+Abschluss
+
+Zeugnis
+
+Schulwechsel an außerhessische allgemeinbildende
+Schule
+
+Erreichter Abschluss oder erreichte Gleichstellung
+
+Schulwechselzeugnis
+
+Schulwechsel aus GYM8 oder GYM in die GO
+
+Erreichter Abschluss oder erreichte Gleichstellung
+
+Halbjahreszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems nach
+erfüllter Schulpflicht (Schulform GE)
+
+GE
+
+Abgangszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems mit Ab- Erreichter Abschluss oder erschluss am Ende der Stufen 11, 12 und 13
+reichte Gleichstellung
+
+Abschlusszeugnis oder Abgangszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems ohne
+Abschluss am Ende der Stufe 9
+
+OHA, OLH
+
+Abgangszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems ohne
+Abschluss am Ende der Stufe 10
+
+ABB, KABS
+
+Abgangszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems ohne
+Abschluss am Ende der Stufen 11 und 12
+
+ABB
+
+Abgangszeugnis
+
+Verlassen des allgemeinbildenden Schulsystems ohne
+Abschluss am Ende der Stufe 13
+
+ABB, KABS
+
+Abgangszeugnis
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+27
+
+6.1
+
+Abschlusseinträge an Hauptschulen / Mittelstufenschulen (H / MSPB)
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+< 9 und Schulpflicht
+erfüllt
+
+Abbruch der Schullaufbahn
+
+OHA oder OLH1
+
+9
+
+Abbruch der Schullaufbahn
+
+OHA oder OLH1
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+OHA oder OLH1
+
+Bestehen der ZAA-Abschlussprüfung
+
+HA oder HQ
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+Abbruch der Schullaufbahn vor Ende 9
+
+ABB
+
+Nicht-Bestehen der Abschlussprüfung
+
+KABS
+
+Abbruch der Schullaufbahn vor Ende 10
+
+ABB
+
+Nicht-Bestehen der Abschlussprüfung
+
+KABS
+
+Bestehen der ZAA-Abschlussprüfung
+
+MA oder MAQ
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+102)
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+2) Für den Besuch der H10 wird seit dem Schuljahr 2012/13 der qualifizierende Hauptschulabschluss HQ vorausgesetzt. In der H10 kann dann
+der mittlere Abschluss erworben werden.
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+28
+
+6.2
+
+Abschlusseinträge für Lerngruppen mit erhöhtem Praxisbezug (PUSA)
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+< 9 und Schulpflicht erfüllt
+
+Abbruch der Schullaufbahn
+
+OHA oder OLH1
+
+9
+
+Abbruch der Schullaufbahn
+
+OHA oder OLH1
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+OHA oder OLH1
+
+Bestehen der ZAA-Abschlussprüfung
+
+HA oder HQ
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+KABS
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+29
+
+6.3
+
+Abschlusseinträge an Realschulen / Mittelstufenschulen (R / MSMB)
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+9
+
+Abbruch der Schullaufbahn vor Ende 9
+
+OHA oder OLH1
+
+Nicht-Versetzung in 10/1 und Abgang
+
+OHA, OLH1 oder HA-G
+(Konferenzentscheidung)
+
+Versetzung in 10/1
+
+HA-G
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+Abbruch der Schullaufbahn vor Ende 9
+
+ABB
+
+10
+
+Abbruch der Schullaufbahn vor Ende 10
+
+ABB
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+KABS
+
+Bestehen der ZAA-Abschlussprüfung
+
+MA oder MAQ
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+30
+
+6.4
+
+Abschlusseinträge an Integrierten Gesamtschulen (IGS)
+
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+9
+
+Abbruch der Schullaufbahn vor Ende 9 bei Erfüllung der Schulpflicht
+
+OHA oder OLH1
+
+Abbruch der Schullaufbahn am Ende des Schuljahres und negatives Ergebnis § 55 VOBGM
+
+OHA oder OLH1
+
+Nicht-Bestehen der ZAA-Abschlussprüfung oder negatives Ergebnis nach § 55 VOBGM und
+Abgang
+
+OHA oder OLH1
+
+Positives Ergebnis nach § 55 VOBGM
+
+HA-G
+
+Bestehen der ZAA-Abschlussprüfung
+
+HA oder HQ
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+Abbruch der Schullaufbahn vor Ende 9
+
+ABB
+
+Nicht-Bestehen der ZAA-Abschlussprüfung oder negatives Ergebnis nach § 55 VOBGM
+
+KABS
+
+10 mit Lernziel
+Hauptschulabschluss
+
+Abbruch der Schullaufbahn vor Ende 10
+
+OHA oder OLH1
+
+Abbruch der Schullaufbahn am Ende 10 und negatives Ergebnis nach § 55 VOBGM
+
+OHA oder OLH1
+
+Abbruch der Schullaufbahn am Ende 10 und Nicht-Bestehen der ZAA-Abschlussprüfung
+
+OHA oder OLH1
+
+Bestehen der ZAA-Abschlussprüfung
+
+HA oder HQ
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+31
+
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+10 mit Lernziel
+Realschulabschluss
+
+Abbruch der Schullaufbahn vor Ende 10
+
+ABB
+
+Nicht-Versetzung in E1 und Abgang
+
+ABB oder MA-G
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+KABS
+
+Versetzung in E1
+
+MA-G
+
+Bestehen der ZAA-Abschlussprüfung
+
+MA oder MAQ
+
+Abschluss mit Förderung IB-LER
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach Förderung IB-GE
+
+GE
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+32
+
+6.5
+
+Abschlusseinträge an GYM8
+
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+9
+
+Abbruch der Schullaufbahn vor Ende 9 bei Erfüllung der Schulpflicht
+
+OHA oder OLH1
+
+Nicht-Versetzung in E1 und Abgang
+
+OHA, OLH1 oder HA-G
+(Konferenzentscheidung)
+
+Versetzung in E1
+
+HA-G
+
+Versetzung in E1 und Abgang (nur bei Schulversuch mit weiteren Kriterien)
+
+MA-G2
+
+Abbruch der Schullaufbahn vor Ende 9
+
+ABB
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+2) Im Regelfall wird der MA-G am Ende der E-Phase (Stufe 11) erfasst.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+33
+
+6.6
+
+Abschlusseinträge an GYM
+
+Jahrgangsstufe
+
+Ereignis
+
+Abschlusseintrag
+
+9
+
+Abbruch der Schullaufbahn vor Ende 9
+
+OHA oder OLH1
+
+Nicht-Versetzung in 10/1 und Abgang
+
+OHA, OLH1 oder HA-G
+(Konferenzentscheidung)
+
+Versetzung in 10/1
+
+HA-G
+
+9 mit bereits vorhandenem Abschlusseintrag
+
+Abbruch der Schullaufbahn vor Ende 9
+
+ABB
+
+10
+
+Abbruch der Schullaufbahn vor Ende 10
+
+ABB
+
+Nicht-Versetzung in E1 und Abgang
+
+ABB (bei Abbruch) oder
+MA-G (Konferenzentscheidung)
+
+Versetzung in E1
+
+MA-G
+
+Abbruch der Schullaufbahn vor Ende E2
+
+ABB
+
+Nicht-Zulassung in Q1 und Abgang
+
+ABB, MA-G (Konferenzentscheidung für ehemalige
+GYM8)
+
+Zulassung Q1
+
+MA-G (für GYM8-Schüler)
+
+E1/E2
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+34
+
+Q1/Q2
+
+Q3/Q4
+
+Abbruch der Schullaufbahn vor Ende Q2
+
+ABB
+
+Abbruch der Schullaufbahn nach Ende Q2
+
+ABB oder SFHR2
+
+Abschlussprüfung (an internationaler Schule)
+
+IBAC3
+
+Abbruch der Schullaufbahn vor Ende Q4
+
+ABB oder SFHR2
+
+Nicht-Bestehen der Abiturprüfung
+
+KABS oder SFHR2
+
+Bestehen der Abiturprüfung
+
+ABI, ABIB4, ABIM4
+
+1) Wenn Schüler mit sonderpädagogischer Förderung in IB-LER den Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL)
+nicht erreicht haben und das allgemeinbildende System verlassen, muss OLH (Ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen) als Abschlusseintrag erfasst werden.
+2) In der Schulform GYM kann bei Abgang des Schülers und bei Vorliegen der Voraussetzungen in der Qualifikationsphase der „Schulische Teil
+der Fachhochschulreife“ (SFHR) vergeben werden.
+Im Unterschied zu allen anderen Abschlüssen wird der SFHR nicht jeweils sofort in der Stufe zugewiesen, in der sie erstmals erreicht wird, sondern erst beim Abgang des Schülers geprüft und zugewiesen. Voraussetzung ist, dass kein Abitur beim Abgang erworben wurde.
+Erhält ein Schüler mit SFHR nach Vorliegen der Praktikumsbescheinigung nachträglich die komplette Fachhochschulreife FHR, wird dies nicht
+in der LUSD eingetragen.
+3) Der 2017 eingeführte Abschluss International Baccalaureate (IB) (IBAC) darf nur an einer internationalen Schule in der Schulform GYM in
+Stufe Q2 vergeben werden.
+4) Für diejenigen Schüler, die im Gymnasium zugleich mit dem Abitur auch einen ausländischen Bildungsabschluss erwerben (Baccalaureat oder
+Maturita), gibt es seit 2012 die beiden Doppel-Abschlüsse
+▪ Abitur und Baccalaureat (ABIB)
+▪ Abitur und Maturita (ABIM)
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+35
+
+6.7
+
+Abschlusseinträge an Förderschulen
+
+Jahrgangsstufe /
+Schulform
+
+Ereignis
+
+Abschlusseintrag
+
+FS Geistige Entwicklung1
+
+Verlassen des allgemeinbildenden Schulsystems nach erfüllter Schulpflicht
+
+GE
+
+Verlassen des allgemeinbildenden Schulsystems nach erfüllter Schulpflicht ohne Abschluss
+
+OLH
+
+Abbruch der Schullaufbahn mit bereits vorhandenem Abschluss
+
+ABB
+
+Nicht-Bestehen der Abschlussprüfung mit bereits vorhandenem Abschluss
+
+KABS
+
+Verlassen des allgemeinbildenden Schulsystems nach erfüllter Schulpflicht mit Abschluss
+
+BAFL
+
+Verlassen des allgemeinbildenden Schulsystems nach erfüllter Schulpflicht ohne Abschluss
+
+OHA oder OLH2
+
+Abbruch der Schullaufbahn mit bereits vorhandenem Abschluss
+
+ABB
+
+Nicht-Bestehen der ZAA-Abschlussprüfung mit bereits vorhandenem Abschluss
+
+KABS
+
+Bestehen der ZAA-Abschlussprüfung
+
+HA2, HQ2, BAFL oder GE
+
+FS Lernen1
+
+9 FS lernzielgleich
+(BLI, EMS, HÖR,
+KÖR, SEH, SPR)
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+36
+
+10 FS lernzielgleich
+(FS/*/R)
+
+Abbruch der Schullaufbahn vor Ende 10
+
+ABB
+
+Nicht-Bestehen der ZAA-Abschlussprüfung
+
+KABS
+
+Bestehen der ZAA-Abschlussprüfung
+
+MA oder MAQ
+
+FS Schule für
+Kranke3
+
+Je nach eigentlicher Schulform des Schülers
+
+1) In Förderschulen mit zielabweichendem Unterricht (Lernen und Geistige Entwicklung)
+▪ werden die Förderschul-Abschlüsse Berufsorientierter Abschluss (Förderschwerpunkt Lernen) (BAFL) bzw. Mit Abschluss aus der Schule mit
+Förderschwerpunkt geistige Entwicklung (GE) vergeben.
+▪ können die allgemeinen Abschlüsse nicht vergeben werden
+▪ ist für Schüler, die den Hauptschulabschluss (HA oder HQ) bekommen sollen, der Übergang an eine kooperierende Haupt-, Mittelstufen- oder
+Gesamtschule und der Wechsel der Schulform notwendig.
+▪ wird Schülern, die keinen Abschluss erlangen, der Eintrag ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt
+Lernen (OLH) zugewiesen.
+2) In Förderschulen mit zielgleichem Unterricht sind für Schüler mit weiterer zieldifferenter Förderung auch die besonderen Förderschulabschlüsse BAFL und GE möglich.
+3) In Förderschulen für Kranke FS/KRA/--- können alle allgemeinen Abschlüsse vergeben werden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+37
+
+7
+
+Abschlusseinträge an Schulen für Erwachsene
+Dieses Kapitel fasst die Abschlusseinträge an den Schulen für Erwachsene zusammen. Wiederholt ein Schüler die Stufe oder liegt das Abschlussergebnis noch nicht vor, muss kein Abschlusseintrag erfasst werden.
+
+7.1
+
+Abschlusseinträge an Abendhauptschulen
+
+Semester
+
+Ereignis
+
+Abschlusseintrag
+
+AK
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch der Schullaufbahn vor Ende H2
+
+ABB
+
+Nicht-Bestehen der Abschlussprüfung
+
+KABS1
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Bestehen der Abschlussprüfung
+
+HA1 oder HQ1
+
+H1/H2
+
+1) Auch bei Wiederholung der Stufe nach Teilnahme an der Abschlussprüfung.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+38
+
+7.2
+
+Abschlusseinträge an Abendrealschulen
+
+Semester
+
+Ereignis
+
+Abschlusseintrag
+
+AK
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Versetzung in R3
+
+HA-G (sofern nicht schon
+vorhanden)
+
+Abbruch der Schullaufbahn vor Ende R4
+
+ABB
+
+Nicht-Bestehen der Abschlussprüfung
+
+KABS1
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Bestehen der Abschlussprüfung
+
+MA1 oder MAQ1
+
+R1
+
+R2/R3
+
+R4
+
+1) Auch bei Wiederholung der Stufe nach Teilnahme an der Abschlussprüfung.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+39
+
+7.3
+
+Abschlusseinträge an Abendgymnasien und Kollegs
+Semester
+
+Ereignis
+
+Abschlusseintrag
+
+AK/VK
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Zulassung in Q1
+
+MA-G (sofern nicht schon vorhanden)
+
+Abbruch der Schullaufbahn
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch der Schullaufbahn vor Ende Q2
+
+ABB
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Abbruch nach Ende Q2
+
+ABB, SFHR oder FHR
+
+Abbruch der Schullaufbahn vor Ende Q4
+
+ABB, SFHR oder FHR
+
+Unterbrechung des Bildungsgangs
+
+UNBR
+
+Nicht-Bestehen der Abiturprüfung
+
+KABS1, SFHR oder FHR
+
+Bestehen der Abiturprüfung
+
+ABI1
+
+E1 / E2
+
+Q1
+
+Q2/Q3
+
+Q4
+
+1) Auch bei Wiederholung der Stufe nach Teilnahme an der Abschlussprüfung.
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+40
+
+8
+
+Abschlusseinträge an Beruflichen Schulen
+Dieses Kapitel fasst die Abschlusseinträge an Beruflichen Schulen zusammen. Wiederholt ein Schüler die Stufe oder liegt das Abschlussergebnis
+noch nicht vor muss kein Abschlusseintrag erfasst werden.
+Schulform
+
+Stufen/Semester
+
+Abschlusseintrag 1
+
+Alle Schulformen
+
+Abbruch vor Beendigung des Bildungsgangs oder ohne Teilnahme an Abschlussprüfung
+
+ABB
+
+BZBT
+
+ABS, BBzU2, HA-G, HQ-G,
+
+10/2 - 13/2
+
+KABS
+
+10/2
+
+ABS, BBzU2, HA-G, HQ-G,
+KABS
+
+BFS2
+
+11/2
+
+MA-G, KABS
+
+BFSB3
+
+10/2
+
+MA-G (GYM8)
+
+12/2, 13/1
+
+ABS, FHR, MA-G, KABS
+
+11/2
+
+MA-G (GYM8)
+
+12/2
+
+ABS, FHR, SFHR4, KABS
+
+BGAS
+
+12/2
+
+ABS, KABS
+
+BGJK
+
+10/2
+
+ABS, KABS, HA-G5, HQ-G5
+
+BGSL
+
+13/2
+
+ABI, KABS
+
+BZBV
+
+BFSM
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+41
+
+Schulform
+
+Stufen/Semester
+
+Abschlusseintrag 1
+
+BJKV
+
+10/1, 10/2
+
+ABS, KABS, HA-G6, HQ-G6
+
+BGYM
+
+E2
+
+MA-G (GYM8)
+
+Q2 - Q4
+
+SFHR 4, 7
+
+Q4
+
+ABI, KABS
+
+10/2
+
+MA-G (GYM8)
+
+11/1 - 13/1
+
+ABS, FHR, HA-G, MA-G,
+KABS
+
+10/2
+
+MA-G (GYM8)
+
+11/1 - 13/1
+
+ABS, FHR, HA-G, MA-G,
+KABS
+
+10/2
+
+ABS, HA-G, HQ-G
+
+11/ - 11/2
+
+ABS, HA-G, HQ-G, MA-G,
+KABS
+
+FOBT
+
+13/2, 14/2
+
+FHR, KABS
+
+FOBV
+
+12/2
+
+FHR, KABS
+
+FOSA
+
+11/2
+
+MA-G (GYM8)
+
+BSBT3
+
+BST3
+
+BÜA
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+42
+
+Stufen/Semester
+
+Abschlusseintrag 1
+
+12/2
+
+FHR, KABS
+
+FS1V
+
+01/2
+
+ABS, KABS
+
+FS2T
+
+02/2
+
+MA-G
+
+03/2 - 04/2
+
+ABS, FHR, KABS
+
+01/2
+
+MA-G
+
+02/2
+
+ABS, FHR, KABS
+
+FSOI
+
+03/2
+
+KABS, STAN, FHR, THAP
+
+FSOP
+
+03/2
+
+KABS, STAN, FHR, THAP
+
+FSOT/HEPL
+
+03/1 – 04/2
+
+FHR, THAP, KABS
+
+04/1 - 05/2
+
+STAN
+
+FSOV/HEPL
+
+02/1 – 03/2
+
+FHR, THAP, KABS
+
+FSOV/SOPÄ
+
+03/1 – 04/1
+
+STAN
+
+FSOT/HEIP
+
+02/1 – 03/2
+
+FHR, STAN, KABS
+
+FSOV/HEIP
+
+01/2 – 02/2
+
+FHR, STAN, KABS
+
+Schulform
+
+FS2V
+
+FSOT/SOPÄ
+
+1) Als zweiter Abschluss (mit Zusatzunterricht oder zusätzlicher Prüfung) können z. T. ausschließlich, z. T. zusätzlich auch die allgemeinen
+Abschlüsse (z. B. Abitur) und Gleichstellungen (z. B. MA-G) vergeben werden.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+43
+
+2) Der Abschluss BBzU ist Schülern zuzuweisen, die lernzieldifferent, also nicht auf dem Niveau der Bildungsgänge zur Berufsvorbereitung unterrichtet wurden. Das gilt z. B. für Schüler der Schulform BBGT/----/WEBE.
+3) Gemäß der Verordnung über die Berufsschule wird am Ende des Berufsschulbesuchs ein Abschlusszeugnis oder ein Abgangszeugnis erteilt.
+Als Ausstellungsdatum ist der Tag der Entlassung anzugeben. Mit dem gleichen Datum ist in der LUSD der Abschluss zu erfassen. Der einzutragende Abschluss ist unabhängig vom Ausgang der Kammerprüfung.
+4) Im Unterschied zu allen anderen Abschlüssen wird die SFHR nicht jeweils sofort in der Stufe zugewiesen, in der sie erstmals erreicht wird,
+sondern erst beim Abgang des Schülers geprüft und zugewiesen.
+5) Die Gleichstellungen mit dem HA oder HQ sind in der Schulform BGJK nur durch externe Teilnahme der Schüler an den Prüfungen in den
+Schulformen BZBT und BZBV möglich. Diese Gleichstellungen dürfen den Schülern aus BGJK deshalb nur als zweiter Abschluss zugewiesen
+werden.
+6) Die Gleichstellungen mit dem HA oder HQ sind in der Schulform BJKV nur durch externe Teilnahme der Schüler an den Prüfungen in den
+Schulformen BZBT und BZBV möglich. Diese Gleichstellungen dürfen den Schülern aus BJKV deshalb nur als zweiter Abschluss zugewiesen
+werden.
+7) Erhält ein Schüler mit SFHR nach Vorliegen der Praktikumsbescheinigung nachträglich die komplette Fachhochschulreife FHR, wird dies
+nicht in der LUSD eingetragen.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+44
+
+9
+
+Abschlusseinträge für Seiteneinsteiger (NDHS)
+Für Seiteneinsteigerinnen und Seiteneinsteiger in Intensivklassen oder Intensivkursen dürfen ausschließlich im Rahmen von Nichtschülerprüfungen Abschlüsse vergeben werden.
+Wenn die Sprachkenntnisse von Seiteneinsteigern gut genug sind, dass diese an Abschlussprüfungen in der Schule teilnehmen und einen Abschluss erhalten können, müssen
+die Schüler vorher einer Regelschulform und -stufe zugeordnet werden.
+Die im Rahmen von Nichtschülerprüfungen absolvierten Abschlüsse werden, wie im Kapitel
+2.4 beschrieben, erfasst.
+
+10
+
+Wichtige Hinweise zu Abschlusseinträgen
+
+10.1
+
+Abbrecher (ABB / KABS)
+Die Abschlusseinträge Abbruch (ABB) und kein Abschluss (KABS)
+▪ können nicht vor der Stufe 9 vergeben werden.
+▪ dürfen in Stufe 9 nur bei Wiederholung der Stufe vergeben werden, wenn der Schüler
+bereits einen vorherigen Abschluss oder eine Gleichstellung erreicht hat.
+▪ werden ab Stufe 10 bei Vorliegen eines ersten Abschlusses und bei Nichterreichen eines höheren Abschlusses vergeben.
+▪ werden in der Sek 2 der Schulformen GYM und BGYM auch beim Schulwechsel vergeben.
+Abbruch (ABB) wird erfasst, wenn
+▪ mindestens als vorheriger Abschlusseintrag „ohne Hauptschulabschluss (OHA)“ oder
+ein anderer Abschluss bzw. eine Gleichstellung vorliegt.
+▪ die Schullaufbahn vor Beendigung des Bildungsganges oder ohne Teilnahme an
+der Abschlussprüfung abgebrochen wird.
+Kein Abschluss (KABS) wird erfasst, wenn
+▪ mindestens als vorheriger Abschlusseintrag „ohne Hauptschulabschluss (OHA)“ oder
+ein anderer Abschluss bzw. eine Gleichstellung vorliegt.
+▪ der berufliche Bildungsgang bis zum Ende durchlaufen wurde
+▪ oder an der Abschlussprüfung ohne Erfolg teilgenommen wurde, unabhängig davon, ob der Schüler abgeht oder das Abschlussjahr im Anschluss wiederholt.
+Ist in der Stufe 9 noch kein Abschluss vorhanden, wird in dieser Stufe bei Abbruch der
+Schule der Abschlusseintrag OHA (ohne Hauptschulabschluss) vergeben.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+45
+
+10.2
+
+OHA und OLH
+Der Abschlusseintrag ohne Hauptschulabschluss (OHA) ist vorgesehen für alle Schüler, die
+das allgemeinbildende Schulsystem ohne einen Hauptschulabschluss verlassen.
+Er wird erteilt,
+▪ wenn Schüler die gesetzliche Vollzeitschulpflicht erfüllt haben und das allgemeinbildende Bildungssystem vor Ende der Stufe 09/2 verlassen
+▪ wenn ein Schüler die Hauptschulabschlussprüfung im ersten Versuch nicht besteht oder
+nicht an der Prüfung teilnimmt und das allgemeinbildende Bildungssystem verlässt
+▪ wenn ein Schüler die Gleichstellung mit dem Hauptschulabschluss, aufgrund schlechter
+Noten, nicht erhalten hat und das allgemeinbildende Bildungssystem verlässt.
+Für Schüler des Bildungsgangs mit Förderschwerpunkt Lernen muss bei nicht erfolgreicher Teilnahme der Eintrag ohne Berufsorientierten Abschluss aus der Schule mit Förderschwerpunkt Lernen (OLH) zugewiesen werden.
+
+10.3
+
+Hauptschulabschlüsse und deren Gleichstellungen
+Der Hauptschulabschluss (HA) oder der qualifizierende Hauptschulabschluss (HQ) wird erteilt bei erfolgreicher Teilnahme an der ZAA-Abschlussprüfung der Bildungsgänge Hauptschule, Integrierte Gesamtschule und Mittelstufenschule.
+Die Gleichstellung mit dem Hauptschulabschluss (HA-G) wird erteilt bei erfolgreicher Versetzung in die nächste Stufe (§ 55 VOBGM), in der Regel die Stufe 10, ohne Teilnahme an
+einer ZAA-Abschlussprüfung.
+
+10.4
+
+Mittlere Abschlüsse und deren Gleichstellungen
+Der Mittlere Abschluss (MA) oder der qualifizierende Mittlere Abschluss (MAQ) wird erteilt
+bei erfolgreicher Teilnahme an der ZAA-Abschlussprüfung des Bildungsgangs Realschule, Integrierte Gesamtschule und Mittelstufenschule. Der qualifizierende mittlere Abschluss MAQ entspricht dem mittleren Abschluss mit zusätzlicher Eignung für die gymnasiale Oberstufe GO bzw. das berufliche Gymnasium BGYM.
+Die Gleichstellung mit dem Mittleren Abschluss (MA-G) wird erteilt bei erfolgreicher Versetzung in die nächste Stufe (§ 55 VOBGM), in der Regel die E-Phase (Stufe 11), ohne Teilnahme an einer ZAA-Abschlussprüfung.
+
+10.5
+
+BAFL und GE
+In der Sek 1 der allgemeinbildenden Schulformen können für Schüler mit sonderpädagogischer Förderung in der inklusiven Beschulung (IB) und einem entsprechenden sonderpädagogischen Fördereintrag IB-LER bzw. IB-GE die besonderen Abschlüsse der Förderschulen vergeben werden:
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+46
+
+▪ Berufsorientierter Abschluss (Förderschwerpunkt Lernen) (BAFL)
+Für Schüler, die keinen Abschluss erlangen, muss der Eintrag ohne Berufsorientierten
+Abschluss aus der Schule mit Förderschwerpunkt Lernen (OLH) zugewiesen werden.
+▪ Mit Abschluss aus der Schule mit Förderschwerpunkt geistige Entwicklung (GE)
+Für Schüler, die den Bildungsgang mit Förderschwerpunkt geistige Entwicklung abgeschlossen haben und das allgemeinbildende Schulsystem verlassen.
+
+HMKB | LUSD | Abschlüsse und ihre Erfassung | Version: 6.1 | Letzter Stand: 12.06.2025
+
+47
+
+

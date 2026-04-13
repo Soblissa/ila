@@ -1,0 +1,116 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Beispiel zur Kurssuche
+1
+
+Zusammenfassung
+In der LUSD können Sie in der Kurssuche nach verschiedenen Kursen filtern. Sie erreichen
+die Kurssuche über die Webseiten UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG,
+SCHÜLER-KURS-ZUORDNUNG oder KURSWECHSEL.
+Folgende Beispiele werden im Dokument dargestellt:
+▪ Alle Kurse der Schulform G (siehe Kapitel 2)
+▪ Alle Kurse in der Schulform G und Stufe 01/2 (siehe Kapitel 3)
+▪ Alle Kurse von der Lehrerin Nina Becker (siehe Kapitel 4)
+▪ Alle Kurse einer Schulform, einem Fach und einer Kursart (siehe Kapitel 5)
+Tipp
+Verwenden Sie das Sternchen * bei der Suche als Platzhalter, um nach allen
+möglichen Auswahlmöglichkeiten zu suchen.
+Der Suchoperator * kann für unterschiedlichen Suchkriterien verwendet
+werden.
+
+2
+
+Alle Kurse der Schulform G
+Sie suchen nach allen Kursen der Schulform G.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Setzen Sie einen Haken in der Ebenenauswahl, um eine Schulform auszuwählen.
+Im Beispiel ist die Schulform G ausgewählt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Kurse angezeigt.
+
+HMKB | LUSD | Beispiel zur Kurssuche | Version: 2.0 | 08.04.2025
+
+1
+
+Abb. 1 Kurssuche: Beispiel Suche Schulform
+
+3
+
+Alle Kurse mit der Schulform G und Stufe 01/2
+Sie suchen nach allen Kursen mit der Schulform G und die in die Stufe 01/2 gehören.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Öffnen Sie die Ebenenauswahl unter einer Schulform.
+3. Setzen Sie einen Haken neben einer Stufe. Im Beispiel ist die Stufe 01/2 unter der
+Schulform G ausgewählt.
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Kurse angezeigt.
+
+Abb. 2 Kurssuche: Beispiel Suche Schulform und Stufe
+
+4
+
+Alle Kurse von der Lehrerin Nina Becker
+Sie suchen nach allen Kursen der Lehrerin Nina Becker.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Setzen Sie einen Haken in der Ebenenauswahl, um eine oder mehr Schulformen
+auszuwählen. Im Beispiel sind die Schulformen G und VLK ausgewählt.
+3. Wählen Sie bei den WEITEREN FILTERN einen LEHRER aus. Im Beispiel ist die Lehrerin
+Nina Becker ausgewählt.
+
+HMKB | LUSD | Beispiel zur Kurssuche | Version: 2.0 | 08.04.2025
+
+2
+
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Kurse angezeigt.
+
+Abb. 3 Kurssuche: Beispiel Suche Lehrer
+
+5
+
+Alle Kurse einer Schulform, Fach und Kursart
+Sie suchen nach allen Kursen mit der Schulform G, dem Fach Musik und der Kursart
+Arbeitsgemeinschaft.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Setzen Sie einen Haken in der Ebenenauswahl, um eine oder mehr Schulformen
+auszuwählen. Im Beispiel ist die Schulformen G ausgewählt.
+1. Wählen Sie bei den WEITEREN FILTERN eine FACH und eine KURSART aus. Im Beispiel ist
+das Fach Musik und die Kursart Arbeitsgemeinschaft ausgewählt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Kurse angezeigt.
+
+Abb. 4 Kurssuche: Beispiel Suche Fach und Kursart
+
+HMKB | LUSD | Beispiel zur Kurssuche | Version: 2.0 | 08.04.2025
+
+3
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Beispiel zur Kurssuche | Version: 2.0 | 08.04.2025
+
+4
+
+

@@ -1,0 +1,332 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Sprachförderangebot Deutsch &
+PC
+Abbildung von Deutsch und PC in der LUSD
+
+Version: 1.2
+Letzter Stand: 24.04.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe ...................................................................................................................................... 4
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Sprachförderung Deutsch & PC in der LUSD abbilden
+
+6
+
+1
+
+Zuordnung eines Nebenlehrers zum Klassenkurs ................................................................. 6
+
+2
+
+Erfassen der schülerindividuellen Kursoptionen Deutsch&PC ............................................... 7
+
+3
+
+Leistungserfassung und Zeugnis ........................................................................................... 9
+3.1
+
+Leistungserfassung ...................................................................................................... 9
+
+3.2
+
+Zeugnis ...................................................................................................................... 10
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Lehrer-Kurszuordnung: Beispiel – zweiter Lehrer im Deutsch-Klassenkurs ..........6
+Abb. 2 Webseite Lehrer-Kurszuordnung: Aufteilung der Lehrerstunden bei klassenübergreifenden
+Sprachförderangeboten ...................................................................................................................7
+Abb. 3 Webseite Kursbearbeitung: Beispiel - Deutsch-Klassenkurs ................................................8
+Abb. 4 Webseite Kursbearbeitung: Dialogfenster Schüler im Kurs ..................................................8
+Abb. 5 Webseite Kursbearbeitung: Änderung der Kursoption auf „D&PC – Deutsch und PC“ .........8
+Abb. 6 Webseite Kursbearbeitung: Schüler im Kurs mit unterschiedlichen Kursoptionen ................9
+Abb. 7 Webseite Schüler: Leistungserfassung bei einem Schüler, der nicht am
+Sprachförderangebot im Deutsch-Klassenkurs teilnimmt...............................................................10
+Abb. 8 Webseite Schüler: Leistungserfassung bei einem Schüler, der am Sprachförderangebot im
+Deutsch-Klassenkurs teilnimmt .....................................................................................................10
+Abb. 9 Webseite Schüler: Zeugnisbemerkung erfassen ................................................................10
+Abb. 10 Zeugnis: Zeugnisbemerkung ............................................................................................11
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das Sprachförderangebot Deutsch & PC wird für Grundschulkinder zur Verbesserung ihrer
+Deutschkenntnisse angeboten. Es entstand als Kooperationsprojekt des Hessischen Ministeriums
+für Kultus, Bildung und Chancen und der Gemeinnützigen Hertie-Stiftung und findet in fest
+definierten, ausgewählten Grundschulen statt.
+Das Sprachförderangebot Deutsch & PC
+fördert Kinder PARALLEL zum Unterricht im Klassenverband
+ im ersten Schuljahr täglich in Deutsch und Mathematik in festen Gruppen mit insgesamt zwei
+Stunden.
+ in den Schuljahren zwei bis vier angemessen und flexibel weiter (auch klassenübergreifend).
+ stellt ein integratives Sprachförderangebot im Rahmen des Regelunterrichtes dar.
+ ergänzt den Unterricht durch den Einsatz von Lernprogrammen am PC.
+ ermöglicht eine gezielte und individuelle Förderung der Schüler.
+Das Sprachförderangebot Deutsch und PC wird angeboten für…
+Schüler nichtdeutscher Herkunftssprache in Regelklassen,
+ die sich zwar verständigen können, aber noch nicht über die für eine erfolgreiche Mitarbeit im
+Unterricht erforderlichen Kenntnisse der deutschen Sprache in Wort und Schrift verfügen.
+ die nicht an einem Vorlaufkurs oder einer Intensivmaßnahme (Intensivklasse, Intensivkurs,
+Alphabetisierungskurs) teilnehmen.
+ nach Abschluss der Intensivmaßnahme, deren Sprachförderung – nach Beschluss der
+Klassenkonferenz – weitergeführt werden soll.
+Schüler, die am Sprachförderangebot Deutsch und PC teilnehmen
+ zählen NICHT zu den Seiteneinsteigern und werden daher NICHT in der Schulform NDHS/geführt.
+ können, aber müssen nicht in der Vergangenheit der Schulform NDHS/- zugeordnet worden
+sein.
+ werden den passenden Regelschulformen und Regelklassen zugeordnet.
+Das vorliegende Dokument beschreibt, welche Daten von Ihnen im Rahmen des Sprachförderangebots Deutsch & PC in der LUSD zu pflegen sind.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die in der LUSD die Unterrichtsverteilung
+bearbeiten.
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+4
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+
+
+
+
+
+der Kursbearbeitung,
+der Schüler-, Kurs- und Klassensuche,
+der Schüler-Kurszuordnung,
+der Erstellung von Berichten (z.B. Kurslisten).
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+5
+
+Sprachförderung Deutsch & PC in der LUSD abbilden
+Das Sprachförderangebot Deutsch und PC wird im Rahmen des regulären Deutsch- oder
+Mathematik-Klassenkurses integrativ angeboten. Das bedeutet, dass Sie für das Angebot keinen
+Extrakurs anlegen, sondern
+ dem Deutsch- oder Mathematik-Klassenkurs einen Nebenlehrer für das Sprachförderangebot
+zuordnen (siehe Kap. 1).
+ die schülerindividuelle Kursoption im Deutsch- oder Mathematik-Klassenkurs bei den
+Kindern anpassen, die am Sprachförderangebot teilnehmen (siehe Kap.2)
+
+1
+
+Zuordnung eines Nebenlehrers zum Klassenkurs
+1. Ordnen Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > LEHRER-KURSZUORDNUNG
+dem Deutsch- oder Mathematik-Klassenkurs, der das Sprachförderangebot Deutsch
+und PC integrativ anbietet, eine Lehrkraft zu, die das Sprachförderangebot durchführen
+soll.
+Diese Lehrkraft gilt als Nebenlehrer und wird daher im Bereich LEHRER IM KURS weder
+als HL noch als KoL gekennzeichnet.
+2. Passen Sie im Bereich LEHRER IM KURS bei dieser Lehrkraft die automatisch
+zugeordneten Stunden an. Tragen Sie hier die Stundenzahl ein, die das
+Sprachförderangebot umfasst.
+
+Abb. 1 Webseite Lehrer-Kurszuordnung: Beispiel – zweiter Lehrer im Deutsch-Klassenkurs
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+6
+
+Hinweis
+In Einzelfällen kann das Sprachförderangebot Deutsch und PC
+klassenübergreifend von einer Lehrkraft durchgeführt werden.
+In diesem Fall
+1. Ordnen Sie die betroffene Lehrkraft allen betroffenen Deutsch- oder
+Mathematik-Klassenkursen als Nebenlehrer zu.
+2. Teilen Sie die Stundenzahl des Angebotes auf die betroffenen
+Deutschkurse auf.
+Beispiel:
+Das Sprachförderangebot Deutsch und PC umfasst in einem 2. Jahrgang
+insgesamt vier Stunden. Es werden Kinder aus zwei Klassen
+klassenübergreifend gefördert.
+Weisen Sie den Nebenlehrer beiden Deutsch- oder MathematikKlassenkursen mit jeweils zwei Stunden zu.
+
+Bei ungeraden Stundenzahlen (z. B. 5 Std.) teilen Sie die Stunden
+entsprechend auf. Es sind auch Kommazahlen möglich.
+
+Abb. 2 Webseite Lehrer-Kurszuordnung: Aufteilung der Lehrerstunden bei
+klassenübergreifenden Sprachförderangeboten
+
+2
+
+Erfassen der schülerindividuellen Kursoptionen Deutsch&PC
+Um alle Schüler eines Deutsch- oder Mathematik-Klassenkurses zu kennzeichnen, die am
+Sprachförderangebot Deutsch und PC teilnehmen, müssen Sie diesen Schülern die
+Kursoption D&PC zuordnen.
+1. Rufen Sie hierzu auf der Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG über
+den Deutsch- oder Mathematik-Klassenkurs der betroffenen Klasse auf.
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+7
+
+Abb. 3 Webseite Kursbearbeitung: Beispiel - Deutsch-Klassenkurs
+
+2. Klicken Sie auf die blau markierte Schülerzahl in der Spalte ANZ.SCH. Es öffnet sich das
+Dialogfenster Schüler im Kurs.
+
+Abb. 4 Webseite Kursbearbeitung: Dialogfenster Schüler im Kurs
+
+3. Klicken Sie auf die Datensätze der Schüler, die am Sprachförderangebot teilnehmen
+sollen und anschließend auf
+. Es öffnet sich rechts der Bereich
+KURSEIGENSCHAFTEN SCHÜLER.
+4. Wählen Sie in diesem Bereich im Feld KURSOPTION den Eintrag D&PC – Deutsch und
+PC.
+
+Abb. 5 Webseite Kursbearbeitung: Änderung der Kursoption auf „D&PC – Deutsch und PC“
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+8
+
+Achtung
+Die Kursstunden der Schüler dürfen nicht verändert werden, weil die
+Schüler an der gesamten Stundenanzahl des Kurses teilnehmen. Lassen Sie
+dieses Feld bitte leer!
+Beispiel:
+Der Deutschklassenkurs umfasst 6 Stunden. Die Schüler mit der Kursoption
+D&PC nehmen an 6 Stunden Deutsch teil (eine Stunde im Klassenverband,
+fünf Stunden in der Sprachfördermaßnahme).
+5. Klicken Sie auf
+und
+. Die Schüler, die am
+Sprachförderangebot Deutsch und PC teilnehmen, weisen jetzt in der Spalte KO den
+Eintrag D&PC auf.
+
+Abb. 6 Webseite Kursbearbeitung: Schüler im Kurs mit unterschiedlichen Kursoptionen
+
+6. Klicken Sie auf
+
+.
+
+Hinweis
+Wenn das Sprachförderangebot Deutsch und PC klassenübergreifend
+angeboten wird, müssen Sie die Kursoption für die betroffenen Schüler in
+allen zugehörigen Klassenkursen anpassen!
+
+3
+
+Leistungserfassung und Zeugnis
+
+3.1
+
+Leistungserfassung
+Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER können Sie bei Vergabe der
+Noten beim entsprechenden Deutsch- oder Mathematik-Klassenkurs der Spalte KO
+entnehmen, ob ein Schüler an der Sprachfördermaßnahme Deutsch und PC
+teilgenommen hat oder nicht.
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+9
+
+Abb. 7 Webseite Schüler: Leistungserfassung bei einem Schüler, der nicht am Sprachförderangebot im
+Deutsch-Klassenkurs teilnimmt
+
+Abb. 8 Webseite Schüler: Leistungserfassung bei einem Schüler, der am Sprachförderangebot im
+Deutsch-Klassenkurs teilnimmt
+
+3.2
+
+Zeugnis
+Wenn Sie die Teilnahme eines Schülers am Sprachförderangebot Deutsch und PC im
+Zeugnis vermerken möchten, erfassen Sie auf der Seite UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER im Register BEMERKUNGEN eine entsprechende
+Bemerkung.
+Z. B. [Name des Schülers] hat am Sprachförderangebot Deutsch und PC teilgenommen.
+
+Abb. 9 Webseite Schüler: Zeugnisbemerkung erfassen
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+10
+
+Die erfasste Bemerkung wird im Zeugnis unter BEMERKUNGEN ausgegeben.
+
+Abb. 10 Zeugnis: Zeugnisbemerkung
+
+HMKB | LUSD | Sprachförderangebot Deutsch & PC | Version: 1.2 | Letzter Stand: 24.04.2024
+
+11
+
+

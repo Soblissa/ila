@@ -1,0 +1,156 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Masernschutzstatus abbilden
+Abbilden des Masernschutzstatus von Schülern in der LUSD
+
+1
+
+Vorwort
+Das vorliegende Dokument beschreibt, wann Sie welchen Masernschutzstatus von
+Schülern eintragen, wie die Eintragung für einzelne oder mehrere Schüler erfassen und
+bearbeiten und wie Sie eine Abfrage zum Masernschutzstatus erstellen können.
+
+2
+
+Den Masernschutzstatus von Schülern in der LUSD abbilden
+
+2.1
+
+Wann wählen Sie welchen Masernschutzstatus?
+Für jeden Schüler können Sie einen der folgenden Einträge zur Dokumentation des
+Masernschutz-Status eintragen
+Eintrag
+
+Anwendungsfall
+
+Kein Eintrag
+
+Für den Schüler noch keine Informationen zur
+Masernimpfung vor.
+
+Medizinische
+Kontraindikation gegen
+Masernimpfung besteht
+ständig
+
+Für den Schüler ist eine Impfung aus medizinischen
+Gründen nicht gerechtfertigt (sogenannte
+Kontraindikation), weil zum Beispiel eine
+Immunschwäche vorliegt, die durch eine ärztliche
+Bescheinigung attestiert wurde.
+Diese Kontraindikation besteht dauerhaft.
+
+Medizinische
+Kontraindikation gegen
+Masernimpfung besteht bis
+zum
+(Datum kann gepflegt
+werden)
+
+Für den Schüler ist eine Impfung aus medizinischen
+Gründen bis zu einem bestimmten Zeitpunkt nicht
+gerechtfertigt (sogenannte Kontraindikation), weil zum
+Beispiel eine Schwangerschaft vorliegt und die zeitlich
+begrenzte Kontraindikation ärztlich bestätigt wurde.
+
+HMKB | LUSD | Masernschutzstatus abbilden | Version: 2.0 | 13.10.2025
+
+2
+
+Impfbuch nicht vorgelegt
+
+Der Schüler hat bisher noch kein Impfbuch oder einen
+anderen Nachweis vorgelegt
+oder
+der Masernschutz wurde bisher nur unvollständig
+nachgewiesen (weil z. B. noch die 2. Folgeimpfung
+fehlt).
+
+Masernschutz vollständig
+
+Der Schüler hat den Nachweis zum Masernschutz
+vollständig erbracht, z.B. durch
+▪ Nachweis im Rahmen einer Einschulungs- oder
+Einstellungsuntersuchung,
+▪ Vorlage eines ärztlichen Attests,
+▪ Vorlage des Impfausweises,
+▪ Vorlage des gelben Kinderuntersuchungshefts,
+Bestätigung der bisher besuchten Einrichtung oder einer
+staatlichen Stelle
+
+2.2
+
+Den Masernschutzstatus für einzelne Schüler neu erfassen oder bearbeiten
+1. Öffnen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > MEDIZINISCHE
+INFORMATIONEN.
+2. Wählen Sie die betreffenden Schüler über die Schülersuche aus.
+3. Setzen Sie ein Häkchen vor den Schüler, dessen Masernstatus Sie erfassen oder
+bearbeiten möchten.
+
+Abb. 1 Webseite Medizinische Informationen
+
+4. Klicken Sie auf BEARBEITEN.
+5. Wählen Sie im Dialogfenster MEDIZINISCHE INFORMATIONEN BEARBEITEN im Auswahlfeld
+MASERNSCHUTZ* den gewünschten Eintrag aus.
+
+Abb. 2 Webseite Medizinische Informationen: Masernschutzstatus auswählen
+
+HMKB | LUSD | Masernschutzstatus abbilden | Version: 2.0 | 13.10.2025
+
+3
+
+Für den Eintrag Medizinische Kontraindikation gegen Masernimpfung besteht bis zum
+können Sie im Feld BIS ein Datum eintragen.
+6. Klicken Sie auf ÜBERNEHMEN und anschließend auf SPEICHERN.
+7. Wiederholen Sie die Schritte drei bis sechs für den nächsten Schüler.
+
+2.3
+
+Den Masernschutzstatus für mehrere Schüler gleichzeitig erfassen oder bearbeiten
+Hinweis
+Mit den nachfolgend beschriebenen Schritten erfassen Sie für die
+ausgewählten Schüler denselben Masernschutzstatus.
+Ein eventuell vorhandener Eintrag wird damit geändert.
+1. Öffnen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > MEDIZINISCHE
+INFORMATIONEN.
+2. Wählen Sie die betreffenden Schüler über die Schülersuche aus.
+3. Setzen Sie ein Häkchen vor alle Schüler, deren Masernstatus Sie erfassen oder
+bearbeiten möchten.
+
+Abb. 3 Webseite Medizinische Informationen: Mehrere Schüler auswählen
+
+4. Klicken Sie auf BEARBEITEN.
+5. Wählen Sie im Dialogfenster MEDIZINISCHE INFORMATIONEN BEARBEITEN im Auswahlfeld
+MASERNSCHUTZ* den gewünschten Eintrag aus.
+
+Abb. 4 Webseite Medizinische Informationen: Masernschutzstatus auswählen
+
+Für den Eintrag Medizinische Kontraindikation gegen Masernimpfung besteht bis zum
+können Sie im Feld BIS ein Datum eintragen.
+6. Klicken Sie auf ÜBERNEHMEN und anschließend auf SPEICHERN.
+
+HMKB | LUSD | Masernschutzstatus abbilden | Version: 2.0 | 13.10.2025
+
+4
+
+3
+
+Abfragen zum Masernschutzstatus erstellen
+Unter EXTRAS > BERICHTE > INDIVIDUELLE > BERICHTE können Sie sich einen individuellen
+Bericht zum Masernschutzstatus erstellen.
+Das Abfragefeld MASERNSCHUTZSTATUS ist in folgenden Kategorie enthalten:
+▪ KANDIDATEN
+▪ SCHÜLER
+▪ SCHÜLER-KOMPAKT
+▪ SCHÜLER-DETAILS
+
+Abb. 5 Webseite Berichte: Individuelle Berichte zum Masernschutzstatus erstellen
+
+HMKB | LUSD | Masernschutzstatus abbilden | Version: 2.0 | 13.10.2025
+
+5
+
+

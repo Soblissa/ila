@@ -1,0 +1,999 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Fachhochschulreife (FOS)
+Erfassen der Prüfungsleistungen und Berechnen der Durchschnittsnote
+FOS-Abschluss
+
+Version: 4.1
+Letzter Stand: 08.01.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+
+Fachhochschulreife (FOS)
+
+7
+
+1
+
+Mit der Webseite FHR-FOS arbeiten .................................................................................... 7
+
+2
+
+Register Belegungsprüfung................................................................................................... 7
+
+3
+
+4
+
+2.1
+
+Die Belegungsprüfung für einen oder mehrere Schüler durchführen ............................ 8
+
+2.2
+
+Die Belegungsprüfung für einen Schüler zurücksetzen .............................................. 11
+
+Register Schriftliche Prüfungen ........................................................................................... 12
+3.1
+
+Schriftliche Prüfungen direkt eintragen und prüfen..................................................... 12
+
+3.2
+
+Rücktritt von der Prüfung nach §15 eintragen .......................................................... 14
+
+3.3
+
+Prüfungslaufs nach § 21 (Täuschungsversuch) beenden ......................................... 14
+
+3.4
+
+Prüfungslauf nach § 27 (Prüfung nicht angetreten) beenden .................................... 15
+
+Register: Mündliche Prüfungen ........................................................................................... 15
+4.1
+
+Abschluss ohne mündliche Prüfungen berechnen ..................................................... 16
+
+4.2
+
+Mündlliche Prüfung eintragen und Abschluss berechnen ........................................... 16
+
+4.3
+
+Abschluss neu berechnen .......................................................................................... 17
+
+5
+
+Auswirkung bei Änderung von Leistungsdaten und Kurszuordnungen ................................ 18
+
+6
+
+Berichte zur Abschlussseite FHR-FOS ............................................................................... 18
+6.1
+
+Bericht Meldungen 1. Register ................................................................................... 19
+
+6.2
+
+FOS - Prüfungsbericht ............................................................................................... 19
+
+6.3
+
+FOS – Mündliche Prüfungen ...................................................................................... 20
+
+6.4
+
+FOS - Abschlussprüfungen ........................................................................................ 22
+
+7
+
+Übersicht der Statusmeldungen .......................................................................................... 23
+
+8
+
+Standard Arbeitsabläufe im Überblick ................................................................................. 24
+
+Abbildungsverzeichnis
+Abb. 1 Webseite FHR-FOS: Aufruf der Webseite ........................................................................... 7
+Abb. 2 Webseite FHR-FOS: Ausgewählte Schüler einer Klasse .................................................... 8
+Abb. 3 Webseite FHR-FOS: Ausgewählte Schüler prüfen .............................................................. 9
+Abb. 4 Webseite FHR-FOS: Kurse des ausgewählten Schülers..................................................... 9
+Abb. 5 Webseite FHR-FOS: Hinweismeldung zur Belegungsprüfung........................................... 10
+Abb. 6 Webseite FHR-FOS: Register Schriftliche Prüfungen ....................................................... 12
+Abb. 7 Webseite FHR-FOS: Register Schriftliche Prüfungen nach erstem Prüfdurchlauf ............. 13
+Abb. 8 Webseite FHR-FOS: Zweite Berechnung der Prüfungsergebnisse ................................... 16
+Abb. 9 Webseite FHR – FOS: Berichte ........................................................................................ 18
+Abb. 10 Bericht Meldungen 1. Register ........................................................................................ 19
+Abb. 11Bericht FOS Prüfbericht: Variante I Prüfungsbericht vor der Prüfungsausschusssitzung . 20
+Abb. 12 Bericht FOS Mündliche Prüfungen: 1. Seite .................................................................... 21
+Abb. 13 Bericht FOS Mündliche Prüfungen: 2. Seite .................................................................... 22
+Abb. 15 Bericht FOS Abschlussprüfungen ................................................................................... 23
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Die Webseite UNTERRICHT > ABSCHLÜSSE > FHR-FOS
+▪ ermöglicht die Erfassung der schriftlichen und mündlichen Prüfungsleistungen der FOS
+Abschlussprüfung.
+▪ führt die Berechnung der Durchschnittsnote unter Berücksichtigung der Paragraphen §§ 24 –
+27 der gültigen Verordnung über die Ausbildung und Abschlussprüfung an Fachoberschulen
+(VOFOS), FOS Verordnung, durch.
+Das vorliegende Dokument beschreibt die einzelnen Arbeitsschritte zur …
+▪ Belegungsprüfung
+▪ Eingabe und Prüfung der schriftlichen Prüfungsleistungen
+▪ Eingabe und Prüfung der mündlichen Prüfungsleistungen
+
+→ Kapitel 2
+→ Kapitel 3
+→ Kapitel 4
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an alle Anwender, die …
+▪ die Unterrichtsverteilung in der LUSD pflegen.
+▪ Prüfungsergebnisse der FOS-Abschlussprüfungen erfassen.
+▪ FOS-Zeugnisse erstellen.
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+▪ Basiswissen zur LUSD
+▪ Wissen zur Bearbeitung von Schülerdaten in der LUSD
+▪ Wissen zur Bearbeitung von Schul- und Unterrichtsdaten in der LUSD
+Nutzen Sie im Vorfeld gerne die Angebote der LUSD-Anwenderunterstützung.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+5
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+6
+
+Fachhochschulreife (FOS)
+1
+
+Mit der Webseite FHR-FOS arbeiten
+Sie erreichen die Webseite FHR-FOS über UNTERRICHT > ABSCHLÜSSE.
+
+Abb. 1 Webseite FHR-FOS: Aufruf der Webseite
+
+Auf dieser Webseite bearbeiten Sie für jeden Schüler folgende Schritte, die in den
+untenstehenden Kapiteln chronologisch weiter erläutert werden:
+▪ Im Register BELEGUNGSPRÜFUNG prüfen Sie die Kursbelegung (Siehe Kapitel 2).
+▪ Im Register SCHRIFTLICHE PRÜFUNGEN erfassen Sie die schriftlichen
+Prüfungsergebnisse und berechnen die vorläufige Durchschnittsnote (Siehe Kapitel 3).
+▪ Im Register MÜNDLICHE PRÜFUNGEN erfassen Sie die mündlichen Prüfungsergebnisse
+und berechnen die endgültige Durchschnittsnote (Siehe Kapitel 4).
+Achtung
+Das Abschlusszeugnis FHR-FOS kann für einen Schüler nur dann mit der
+LUSD erstellt werden, wenn für den Schüler die Prüfungen auf allen
+Registern der Webseite FHR-FOS erfolgreich waren.
+Status
+
+2
+
+vier grüne Balken.
+
+Register Belegungsprüfung
+Durch die Belegungsprüfung
+▪ findet eine schülerindividuelle Überprüfung (Schüler-Kurszuordnung) statt.
+▪ werden entsprechend der Verordnung (§ 26) die Kurse festgelegt, die zur Berechnung
+des Gesamtergebnisses im zweiten und dritten Register verwendet werden.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+7
+
+Voraussetzungen für eine erfolgreiche Belegungsprüfung
+Ein Schüler muss mindestens zwei Halbjahre in der Jahrgangsstufe 12 verbracht haben.
+Seine Leistungsdaten (Unterrichts- und Prüfungsergebnisse) müssen in der LUSD
+eingegeben sein. Dies erfolgt auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER
+
+▪ im Register KURSNOTEN für die Halbjahresnoten und
+▪ im Register GESAMTNOTEN für die Noten für den beruflichen Bereich und den
+Wahlpflichtunterricht.
+Die Eintragungen können auch über den ENC erfolgen.
+Folgende Fächer müssen belegt sein:
+▪
+▪
+▪
+▪
+▪
+
+die schriftlichen Prüfungsfächer Deutsch, Englisch, Mathematik.
+genau zwei unterschiedliche Naturwissenschaften (Biologie, Chemie, Physik).
+Politik und Wirtschaft (POWI).
+Sport.
+ein Fach aus der Fächergruppe (Religion/Ethik) - eventuell auch nur epochal im ersten
+Halbjahr.
+▪ mindestens ein Themenfeld (TF) als Pflichtkurs P.
+▪ und mindestens ein Fach als Wahlpflichtkurs W.
+Für Kurse, die in 12/1 epochal unterrichtet wurden, muss unter Kursdetails im Auswahlfeld
+EPOCHAL* Ja eingestellt sein. Dann werden beim Belegungstest diese Kurse
+mitberücksichtigt.
+
+2.1
+
+Die Belegungsprüfung für einen oder mehrere Schüler durchführen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+
+Abb. 2 Webseite FHR-FOS: Ausgewählte Schüler einer Klasse
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+8
+
+3. Um die Belegungsprüfung zur Berechnung des FOS-Abschlusses vorzubereiten, setzen
+Sie vor einen oder mehrere Schüler mit dem Symbol
+ein Häkchen.
+
+Abb. 3 Webseite FHR-FOS: Ausgewählte Schüler prüfen
+
+4. Klicken Sie auf die Schaltfläche PRÜFEN.
+Je nach Prüfungsergebnis wechselt das Symbol bei den geprüften Schülern.
+▪
+
+= Belegungsprüfung erfolgreich
+
+▪
+
+= Belegungsprüfung nicht erfolgreich
+
+Abb. 4 Webseite FHR-FOS: Kurse des ausgewählten Schülers
+
+5. Um für einen Schüler das genaue Ergebnis der Belegungsprüfung anzusehen, klicken
+Sie auf den Namen des Schülers und anschließend auf das Register
+BELEGUNGSPRÜFUNG. Im rechten Bereich sehen Sie die Kurse und Leistungen im ersten
+und zweiten Halbjahr. Entsprechend der Verordnung (§ 26) werden die Kurse festgelegt,
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+9
+
+die zur Berechnung des Gesamtergebnisses im 2. Schritt im Register SCHRIFTLICHE
+PRÜFUNGEN verwendet werden.
+Tipp
+Mit dem Bericht MELDUNGEN 1. REGISTER können Sie sich für alle Schüler mit
+dem Status
+
+einen Bericht mit den Meldungen ausdrucken.
+
+Abb. 5 Webseite FHR-FOS: Hinweismeldung zur Belegungsprüfung
+
+Hinweis
+Nicht ausreichende Noten sind mit dem Symbol
+
+gekennzeichnet.
+
+Steht in den Spalten der Halbjahre bei einem Fach …
+▪ ein Strich, wurde noch keine Note erfasst.
+▪ nichts, hat der Schüler dieses Fach in diesem Halbjahr nicht belegt.
+Um zu sehen, warum eine Belegungsprüfung nicht erfolgreich war, fahren Sie
+mit dem Mauszeiger über das Symbol
+fehlenden Kursen.
+
+. Sie sehen eine Meldung zu den
+
+Alternativ können Sie den Bericht MELDUNGEN 1. REGISTER nutzen.
+
+6. Je nach Prüfergebnis gehen Sie wie folgt weiter vor:
+Mögliches Ergebnis
+
+Bedeutung
+
+Weiteres Vorgehen
+
+Alle Schüler haben
+
+Die Belegungsprüfung war
+erfolgreich, d.h. ihre
+Unterrichtsverteilung und
+Schüler Kurszuordnung ist
+in Ordnung.
+
+Erfassen Sie für alle Schüler die
+Ergebnisse der schriftlichen und
+mündlichen Prüfungen.
+
+Die Belegungsprüfung war
+nicht erfolgreich, d.h. ihre
+Unterrichtsverteilung und
+die Schüler-Kurszuordnung
+entspricht nicht der
+
+Ändern Sie die fehlerhaften
+Daten in der Unterrichtsverteilung, eventuell auch des 1.
+Halbjahres, und in der Schüler-
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+10
+
+den Status
+
+Alle / einige
+Schüler haben den
+Status
+
+Verordnung bzw. weist
+Fehler in der SchülerKurszuordnung auf.
+
+Bei jedem Schülernamen
+sind die entsprechenden
+Hinweismeldungen zu
+sehen bzw. können im
+Bericht MELDUNGEN 1.
+REGISTER abgerufen
+werden
+
+Kurszuordnung entsprechend
+ab.
+Führen Sie für diese Schüler
+danach erneut die Belegungsprüfung durch.
+Sofern Sie alle Fehler korrigiert
+haben, wird die Prüfung
+erfolgreich sein.
+
+Nur für die Schüler mit dem
+Status
+können Sie die
+Prüfungsleistungen im
+2. Register eintragen.
+
+7. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+
+2.2
+
+Die Belegungsprüfung für einen Schüler zurücksetzen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol FILTER Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, dessen Belegungsprüfung Sie zurücksetzen
+möchten.
+4. Wechseln Sie auf das Register BELEGUNGSPRÜFUNG.
+5. Klicken Sie auf die Schaltfläche LÖSCHEN.
+6. Klicken Sie in der Hinweismeldung "Wollen Sie den Abschluss unwiderruflich löschen?"
+auf
+▪ FORTFAHREN, wenn Sie die Belegungsprüfung zurücksetzen möchten.
+▪ ABBRECHEN, wenn Sie die das Ergebnis der Belegungsprüfung beibehalten möchten.
+Wenn Sie auf FORTFAHREN geklickt haben, ändert sich der Status des Schülers auf das
+Symbol
+
+.Sie können die Belegungsprüfung nun erneut durchführen.
+
+7. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+11
+
+3
+
+Register Schriftliche Prüfungen
+Hinweis
+Sobald ein Schüler den Status
+hat, d.h. die Belegungsprüfung im ersten
+Register erfolgreich war, können Sie im Register SCHRIFTLICHE PRÜFUNG
+seine schriftlichen Prüfungsergebnisse erfassen (Abb. 6).
+NEU: Für alle Schüler mit erfolgreicher Belegungsprüfung ist es für den
+Klassenlehrer im 2. Halbjahr möglich, die schriftlichen Prüfungsergebnisse
+über die Schul-ID Hessen zu erfassen.
+Voraussetzungen für eine erfolgreiche Berechnung der vorläufigen
+Durchschnittsnote
+Auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER müssen im
+Register KURSNOTE die Halbjahresnoten (Unterrichtsleistungen) eingetragen
+sein.
+
+3.1
+
+Schriftliche Prüfungen direkt eintragen und prüfen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, für den Sie die schriftlichen
+Prüfungsergebnisse erfassen möchten. Sie befinden sich im Register SCHRIFTLICHE
+PRÜFUNGEN.
+
+Abb. 6 Webseite FHR-FOS: Register Schriftliche Prüfungen
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+12
+
+4. Tragen Sie die vier schriftlichen Prüfungsergebnisse ein und klicken Sie auf die
+Schaltfläche SPEICHERN. Der Status des Schülers wechselt auf das Symbol
+Schaltflächen PRÜFEN und ALLE PRÜFEN - SCHRIFTLICH werden aktiviert.
+
+.Die
+
+Hinweis
+Die vier schriftlichen Prüfungen können im 2. Schulhalbjahr auch über den
+ENC (Externer Notenclient) durch die Klassenlehrer erfasst und importiert
+werden.
+Über die Schul-ID Hessen können die Prüfungsnoten nun auch durch die
+Klassenlehrer eingetragen werden.
+5. Klicken Sie auf die Schaltfläche PRÜFEN oder ALLE PRÜFEN - SCHRIFTLICH.
+Hinweis
+Durch die Schaltfläche PRÜFEN wird eine erste Berechnung der
+Prüfungsleistungen nach den §§ 24 – 26 der FOS VO durchgeführt.
+Bei der Schaltfläche ALLE PRÜFEN - SCHRIFTLICH werden alle Schüler geprüft,
+für die die schriftlichen Prüfungen (Status
+
+) eingetragen wurden.
+
+Bei Schülern, die nicht bestehen, werden unter Ergebnisse des
+Prüfdurchlaufs die entsprechenden Hinweismeldungen angezeigt
+
+Abb. 7 Webseite FHR-FOS: Register Schriftliche Prüfungen nach erstem Prüfdurchlauf
+
+Je nach Prüfungsergebnis wechselt das Symbol bei den geprüften Schülern
+▪
+
+= Prüfung bestanden, mündliche Prüfung möglich
+
+▪
+
+= Prüfung nicht bestanden, mündliche Prüfung notwendig
+
+In beiden Fällen können Sie nun im dritten Register MÜNDLICHE PRÜFUNGEN arbeiten.
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+13
+
+Hinweis
+Durch das Schaltsymbol LÖSCHEN im Register SCHRIFTLICHE PRÜFUNGEN
+kann die Prüfung/Berechnung zurückgenommen werden, d.h., die vier
+schriftlichen Prüfungen können wieder editiert und verändert werden. Eine
+erneute Prüfung ist notwendig.
+
+3.2
+
+Rücktritt von der Prüfung nach §15 eintragen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, der von der Prüfung zurücktreten möchte. Sie
+befinden sich im Register SCHRIFTLICHE PRÜFUNGEN.
+4. Setzen Sie ein Häkchen vor RÜCKTRITT VON DER PRÜFUNG NACH §15.
+Hinweis
+Das Setzen des Häkchens bewirkt, dass bei diesem Schüler die
+Prüfungsleistungen im Zeugnis unberücksichtigt bleiben
+5. Klicken Sie auf die Schaltfläche SPEICHERN. Der Status des Schülers wechselt auf
+Rücktritt von der Prüfung nach §15.
+
+=
+
+6. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+
+3.3
+
+Prüfungslaufs nach § 21 (Täuschungsversuch) beenden
+1. Durch Klicken in das Kontrollkästchen PRÜFUNGSLAUF BEENDET § 21 ist es möglich für
+einzelne Schüler entweder im Register SCHRIFTLICHE PRÜFUNGEN oder MÜNDLICHE
+PRÜFUNGEN den Prüfungslauf zu beenden.
+2. Klicken Sie auf den Namen des Schülers, dessen Prüfungslauf beendet werden soll. Sie
+befinden sich im Register SCHRIFTLICHE PRÜFUNGEN.
+3. Setzen Sie ein Häkchen vor PRÜFUNGSLAUF BEENDET § 21.
+Hinweis
+Das Setzen des Häkchens bewirkt, dass der Schüler die Prüfung nicht
+bestanden hat. Um ein Abgangszeugnis mit den Noten der Abschlussseite
+erzeugen zu können, ist es notwendig zuerst für die einzelnen Prüfungen 00
+Punkte einzutragen und den Abschluss zu berechnen, unabhängig von dem
+Ergebnis kann durch das Kontrollkästchen der Status zu nicht bestanden
+wechseln und der Täuschungsversuch dokumentiert werden.
+4. Klicken Sie auf die Schaltfläche SPEICHERN. Der Status des Schülers wechselt auf
+FOS Prüfung nicht bestanden.
+
+=
+
+5. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+14
+
+3.4
+
+Prüfungslauf nach § 27 (Prüfung nicht angetreten) beenden
+1. Durch Klicken in das Kontrollkästchen PRÜFUNGSLAUF BEENDET § 27 ist es möglich für
+einzelne Schüler entweder im Register SCHRIFTLICHE PRÜFUNGEN oder MÜNDLICHE
+PRÜFUNGEN den Prüfungslauf zu beenden.
+2. Klicken Sie auf den Namen des Schülers, dessen Prüfungslauf beendet werden soll. Sie
+befinden sich im Register SCHRIFTLICHE PRÜFUNGEN.
+3. Setzen Sie ein Häkchen vor PRÜFUNGSLAUF BEENDET § 27.
+Hinweis
+Das Setzen des Häkchens bewirkt, dass der Schüler die Prüfung nicht
+bestanden hat. Um ein Abgangszeugnis mit den Noten der Abschlussseite
+erzeugen zu können, ist es notwendig zuerst für die einzelnen Prüfungen 00
+Punkte einzutragen und den Abschluss zu berechnen, unabhängig von dem
+Ergebnis kann durch das Kontrollkästchen der Status zu nicht bestanden
+wechseln und das Nichtantreten der Prüfung dokumentiert werden.
+4. Klicken Sie auf die Schaltfläche SPEICHERN. Der Status des Schülers wechselt auf
+FOS Prüfung nicht bestanden.
+
+=
+
+5. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+Hinweis
+Der Bericht FOS – PRÜFUNGSBERICHT gibt für jeden einzelnen Schüler einen
+Überblick über die Unterrichtsleistungen und Schriftlichen Prüfungen.
+
+4
+
+Register: Mündliche Prüfungen
+Hinweis
+Sobald ein Schüler den Status
+oder
+hat, können Sie im Register
+MÜNDLICHE PRÜFUNG seine mündlichen Prüfungsergebnisse erfassen.
+Je nach Status des Schülers gehen Sie wie folgt weiter vor:
+
+Status
+
+Bedeutung
+
+Weiteres Vorgehen
+
+Schriftliche Prüfung bestanden,
+mündliche Prüfung möglich.
+
+Abschluss ohne mündliche Prüfung prüfen.
+Siehe Kapitel 4.1
+Freiwillige mündliche Prüfung eintragen und
+Abschluss prüfen. Siehe Kapitel 5.2
+
+Schriftliche Prüfung nicht
+bestanden, mündliche Prüfung
+notwendig.
+
+Verpflichtenden mündliche Prüfung eintragen
+und Abschluss prüfen. Siehe Kapitel 5.2
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+15
+
+4.1
+
+Abschluss ohne mündliche Prüfungen berechnen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, für den Sie den Abschluss ohne mündliche
+Prüfung berechnen möchten (Status
+). Sie befinden sich im Register MÜNDLICHE
+PRÜFUNGEN, der Haken vor KEINE MÜNDLICHE PRÜFUNG ist vorbelegt.
+4. Klicken Sie auf die Schaltfläche PRÜFEN oder ALLE PRÜFEN - MÜNDLICH. Die Berechnung
+wird final durchgeführt und der Abschluss zugewiesen. Der Status des Schülers oder
+aller Schüler, die geprüft werden können ändert sich auf das Symbol
+
+.
+
+Hinweis
+Mit dem Feld STATUS ist es auch möglich, nur Schüler mit einem bestimmten
+Statuswert zu filtern.
+
+4.2
+
+Mündliche Prüfung eintragen und Abschluss berechnen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, für den Sie die Ergebnisse der mündlichen
+Prüfung erfassen möchten. Sie befinden sich im Register MÜNDLICHE PRÜFUNGEN, der
+Haken vor KEINE MÜNDLICHE PRÜFUNG ist vorbelegt.
+4. Entfernen Sie den Haken im Kontrollkästchen KEINE MÜNDLICHE PRÜFUNG.
+5. Setzen Sie bei den Fächern ein Häkchen, für die Sie eine mündliche Prüfung eintragen
+möchten (maximal zwei).
+6. Klicken Sie auf die Schaltfläche SPEICHERN. Der Status ändert sich auf
+Auswahlfeld MÜNDLICHE PRÜFUNG ist aktiviert.
+
+. Das
+
+7. Geben Sie die Ergebnisse der mündlichen Prüfung(en) ein.
+
+Abb. 8 Webseite FHR-FOS: Zweite Berechnung der Prüfungsergebnisse
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+16
+
+8. Klicken Sie auf die Schaltfläche SPEICHERN. Der Status ändert sich auf
+Schaltflächen PRÜFEN und ALLE PRÜFEN - MÜNDLICH sind aktiviert.
+
+. Die
+
+Achtung
+Wenn Sie auf die Schaltfläche PRÜFEN klicken, können Sie keine mündlichen
+Noten mehr ändern. Eine Rücknahme der Berechnungen im Register
+SCHRIFTLICHE PRÜFUNG ist möglich.
+9. Klicken Sie auf die Schaltfläche PRÜFEN oder ALLE PRÜFEN - MÜNDLICH. Je nach
+Prüfungsergebnis wechselt das Symbol bei dem geprüften Schüler auf
+
+4.3
+
+▪
+
+= FOS Abschluss zuerkannt oder
+
+▪
+
+= FOS Prüfung nicht bestanden
+
+Abschluss neu berechnen
+1. Wählen Sie in der Auswahlliste eine oder alle Klassen aus.
+2. Klicken Sie auf das Schaltsymbol
+. Die Ergebnisliste zeigt alle Schüler der
+ausgewählten Klasse/n mit ihrem aktuellen Status.
+3. Klicken Sie auf den Namen des Schülers, dessen Abschluss Sie neu berechnen
+möchten. Sie befinden sich im Register MÜNDLICHE PRÜFUNGEN, der Haken vor KEINE
+MÜNDLICHE PRÜFUNG ist vorbelegt.
+4. Wechseln Sie in das Register BELEGUNGSPRÜFUNG.
+5. Klicken Sie auf die Schaltfläche LÖSCHEN.
+6. Klicken Sie in der Hinweismeldung Wollen Sie den Abschluss unwiderruflich löschen?
+auf
+▪ FORTFAHREN, wenn Sie die Belegungsprüfung zurücksetzen möchten.
+▪ ABBRECHEN, wenn Sie die das Ergebnis der Belegungsprüfung beibehalten möchten.
+7. Wenn Sie auf FORTFAHREN geklickt haben, ändert sich der Status des Schülers auf das
+Symbol . Sie können die Belegungsprüfung nun erneut durchführen. Danach können
+Sie Ergebnisse der schriftlichen Prüfung und ggf. der mündlichen Prüfung erneut
+eingeben und den Abschluss errechnen lassen.
+8. Um die Webseite FHR-FOS zu verlassen, klicken Sie auf die Schaltfläche SCHLIEßEN.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+17
+
+5
+
+Auswirkung bei Änderung von Leistungsdaten und Kurszuordnungen
+Achtung
+Die erfolgreiche Belegungsprüfung zum FOS-Abschluss basiert auf einer Auswahl
+von bestimmten Kursen unter Berücksichtigung der Kursart P oder W.
+Nachträgliche Änderungen dieser Kurse auf anderen Webseiten oder auch schon
+berechneten Leistungsdaten führen dazu, dass diese erfolgreiche
+Belegungsprüfung und somit auch Eintragungen des zweiten und dritten
+Registers gelöscht werden.
+Sie werden auf anderen Webseiten durch diese Meldung darauf hingewiesen.
+
+Wenn diese Änderungen durch Klicken auf die Schaltfläche FORTFAHREN
+angenommen werden, muss die Belegungsprüfung individuell für einzelne
+Schüler oder ganze Klassen, je nach Änderung, erneut durchgeführt werden.
+
+6
+
+Berichte zur Abschlussseite FHR-FOS
+Die Berichte zur Webseite FHR – FOS können unter EXTRAS > BERICHTSVERWALTUNG oder
+über das Feld BERICHT auf der Seite direkt aufgerufen werden.
+
+Abb. 9 Webseite FHR – FOS: Berichte
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+18
+
+6.1
+
+Bericht Meldungen 1. Register
+In diesem Bericht werden Schüler ausgegeben, die die Belegungsprüfung nicht bestanden
+haben.
+Die Hinweise sollen Ihnen helfen, die Kurse und Kursoptionen des Schülers der
+Verordnung entsprechend anzupassen
+
+Abb. 10 Bericht Meldungen 1. Register
+
+6.2
+
+FOS - Prüfungsbericht
+Den Bericht FOS – PRÜFUNGSBERICHT gibt es je nach dem erreichten Statuswert in zwei
+Varianten
+
+▪ Variante I vor Prüfungsausschusssitzung - vorläufige Endergebnisse
+▪ Variante II nach letzter Prüfungsausschusssitzung (bestanden oder nicht bestanden)
+Der Bericht gibt jeden einzelnen Schüler aus und kann dem Schüler zur Bekanntgabe der
+Noten ausgehändigt werden. Mit den Auszügen aus der FOS Verordnung können die
+Schüler sich dann überlegen, zu welchen mündlichen Prüfungen sie sich melden wollen.
+Je nachdem, welche Leistungen bereits auf der Abschlussseite eingetragen sind und
+welchen Status der Schüler erreicht hat, kann der Bericht unterschiedlich aussehen.
+Alle Schüler, die nach ihren schriftlichen und mündlichen Prüfungsergebnissen geprüft
+wurden, haben den Status vier grüne
+bestanden).
+
+oder vier rote Balken
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+(bestanden oder nicht
+
+19
+
+Abb. 11 Bericht FOS Prüfbericht: Variante I Prüfungsbericht vor der Prüfungsausschusssitzung
+
+6.3
+
+FOS – Mündliche Prüfungen
+Den Bericht FOS – MÜNDLICHE PRÜFUNGEN gibt es (je nach dem erreichten Statuswert) in
+zwei Varianten
+
+▪ Variante I nach Prüfungsausschusssitzung – Mündliche Prüfungen sind eingetragen.
+▪ Variante II nach letzter Prüfungsausschusssitzung – Ergebnisse der mündlichen
+Prüfungen sind eingetragen.
+Der Bericht gibt auf einer ersten Übersichtseite die Anzahl der mündlichen Prüfungen in
+den möglichen Prüfungsfächern an. In der zweiten Spalte sind die prüfenden Kollegen mit
+der Anzahl der mündlichen Prüfungen genannt. Im Schwerpunkt und Wahlpflichtbereich
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+20
+
+sind keine Prüfenden genannt, da in verschiedenen Themen- und Aufgabenfeldern die
+mündliche Prüfung stattfinden kann. Die Auszüge aus der FOS Verordnung geben dem
+Prüfungsausschuss die entsprechenden Paragraphen der VO an.
+Die folgenden Seiten geben für jede Klasse und jeden einzelnen Schüler die mündlichen
+Prüfungsfächer aus. In das entsprechende Feld können dann bei den mündlichen
+Prüfungen auch die Noten eingetragen werden.
+Je nachdem, welche Leistungen bereits auf der Abschlussseite eingetragen sind und
+welchen Status der Schüler erreicht hat, kann der Bericht unterschiedlich aussehen.
+
+Abb. 12 Bericht FOS Mündliche Prüfungen: 1. Seite
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+21
+
+Abb. 13 Bericht FOS Mündliche Prüfungen: 2. Seite
+
+6.4
+
+FOS - Abschlussprüfungen
+Der Bericht FOS – ABSCHLUSSPRÜFUNGEN gibt der Schule intern einen Überblick über die
+erreichten Abschlüsse in den einzelnen FOS – Klassen.
+Die Anzahl der Abschlüsse sollten mit der Gesamtzahl der Klasse übereinstimmen,
+ansonsten haben einzelne Schüler noch nicht die entsprechenden Statuswerte, die die
+Schüler zum Ende des Schuljahres haben sollten.
+Je Klasse gibt der Bericht zusätzlich noch das beste Ergebnis und die Durchschnittnote der
+bestandenen Prüfungen an.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+22
+
+Abb. 14 Bericht FOS Abschlussprüfungen
+
+7
+
+Übersicht der Statusmeldungen
+Folgende Statuswerte sind möglich:
+Status
+
+Beschreibung
+
+Bedeutung
+
+rotes Quadrat
+
+Noch nicht bearbeitet
+
+ein blauer Balken
+
+Belegungsprüfung erfolgreich
+
+Belegungsprüfung
+
+ein roter Balken
+
+Individuelle Hinweismeldung zu den
+fehlenden Kursen
+
+Belegungsprüfung
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+Im Register
+
+23
+
+8
+
+zwei rote Balken
+
+Rücktritt von der Prüfung nach §15
+
+Schriftliche
+Prüfungen
+
+zwei blaue Balken
+
+Schriftliche Prüfungen sind erfasst
+
+Schriftliche
+Prüfungen
+
+drei grüne Balken
+
+Prüfung bestanden, mündliche
+Prüfung möglich
+
+Schriftliche
+Prüfungen
+
+drei gelbe Balken
+
+Prüfung nicht bestanden, mündliche
+Prüfung notwendig
+
+Schriftliche
+Prüfungen
+
+drei blaue Balken
+
+Mündliche Prüfung ausgewählt
+
+Mündliche
+Prüfungen
+
+vier blaue Balken
+
+Mündliche Prüfungen sind
+eingetragen
+
+Mündliche
+Prüfungen
+
+vier grüne Balken
+
+FOS Abschluss zuerkannt
+
+Mündliche
+Prüfungen
+
+vier rote Balken
+
+FOS Prüfung nicht bestanden
+
+Mündliche
+Prüfungen
+
+Standard Arbeitsabläufe im Überblick
+1. Zu Beginn des Prüfungshalbjahres Belegungsprüfung durchführen - ggfs. Bericht
+Meldungen 1. Register ausdrucken und an der UV oder Schüler Kurszuordnung die
+notwendigen Änderungen vornehmen.
+2. Nach den Schriftlichen Prüfungen einen ENC Export durchführen. Klassen- oder
+Kursweise Unterrichtsleistungen erfassen. Schriftliche Prüfungsergebnisse durch den
+Klassenlehrer erfassen.
+3. ENC Import durchführen.
+4. Auf der Abschlussseite FHR-FOS mit der Schaltfläche ALLE PRÜFEN – SCHRIFTLICH eine
+erste Prüfung durchführen.
+5. Mit dem Bericht FOS - PRÜFUNGSBERICHT die Schüler über die eingetragenen
+Unterrichtsleistungen und die Schriftlichen Prüfungsergebnisse informieren.
+6. Eventuelle Meldungen zu mündlichen Prüfung – erste Prüfungsausschusssitzung und
+Festlegung der mündlichen Prüfungen.
+7. Mündliche Prüfungswünsche in der LUSD eintragen. Alle Schüler haben den Status drei
+grüne Balken oder drei blaue Balken.
+8. Nach den Mündlichen Prüfungen im Register MÜNDLICHEN PRÜFUNGEN die Ergebnisse
+der mündliche Prüfungen eintragen und speichern. Alle Schüler haben den Status drei
+grüne Balken
+
+oder vier blaue Balken
+
+.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+24
+
+9. Durch die Schaltfläche ALLE PRÜFEN – MÜNDLICH wird die zweite Prüfung durchgeführt.
+Alle Schüler haben den Status vier grüne Balken
+
+oder vier rote Balken
+
+.
+
+10. Der Bericht FOS – PRÜFUNGSBERICHT kann für die Schülerakten ausgedruckt werden.
+11. Je nach Ausgang der Prüfung erhalten die Schüler die entsprechenden Zeugnisse
+Abschlusszeugnis mit den Ergebnissen der Abschlussseite.
+▪ Abgangszeugnis (ohne Eintrag eines Prüfungsdatums) mit den
+Unterrichtsleistungen des Jahres.
+▪ Abgangszeugnis (mit Eintrag eines Prüfungsdatums) mit den Ergebnissen der
+Abschlussseite (Voraussetzung: komplette Berechnung durchgeführt (auch im Falle
+eines Täuschungsversuches oder Nichtantreten einer Prüfung).
+▪ Jahreszeugnis (für Wiederholer) mit den Unterrichtsleistungen des Jahres.
+12. Nur für die Schüler, die in allen Registern geprüft wurden (vier grüne Balken) ist im
+folgenden Schuljahr unter HIST. LEISTUNGSDATEN der Abschluss bearbeitbar.
+Hinweis
+Für Schüler, die die Prüfungen zu den regulären Zeiten nicht antreten können
+und ggfs. erst im kommenden Schuljahr die Prüfungen nachzutragen sind, ist
+es notwendig im Prüfungshalbjahr fiktive Prüfungsnoten einzugeben, damit
+die Schüler erfolgreich geprüft werden können, denn nur für Schüler mit dem
+Status vier grüne Balken (erfolgreicher Abschluss) können die
+Prüfungsergebnisse im Register HIST. LEISTUNGSDATEN UNTER ABSCHLUSS
+BEARBEITEN auch im folgenden Halbjahr der Abschluss bearbeitet werden.
+
+HMKB | LUSD | Fachhochschulreife (FOS) | Version: 4.1 | Letzter Stand: 08.01.2026
+
+25
+
+

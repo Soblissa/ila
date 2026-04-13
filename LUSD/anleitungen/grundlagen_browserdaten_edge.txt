@@ -1,0 +1,46 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+MS Edge
+
+Löschen temporärer Internetdateien
+1
+
+Vorwort
+Damit die LUSD einwandfrei funktioniert, empfehlen wir Ihnen, nach durchgeführten
+Wartungsarbeiten und in regelmäßigen Abständen den temporären Zwischenspeicher
+(Cache) des aktuellen Browsers zu leeren.
+
+2
+
+So löschen Sie die Browserdaten im neuen Microsoft Edge-Browser
+1. Wählen Sie EINSTELLUNGEN UND MEHR über die „drei Punkte“ oben rechts (Alt+F)
+2. Wählen Sie EINSTELLUNGEN (Rädchen)
+3. Wählen Sie DATENSCHUTZ, SUCHE UND DIENSTE
+4. Wählen Sie unter BROWSERDATEN LÖSCHEN die Option ZU LÖSCHENDE ELEMENTE
+AUSWÄHLEN.
+5. Wählen Sie einen Zeitraum aus dem Dropdownmenü ZEITBEREICH aus
+6. Wählen Sie die Datentypen aus, die Sie löschen möchten. BROWSERVERLAUF,
+DOWNLOADVERLAUF, COOKIES und ganz besonders wichtig sind ZWISCHENGESPEICHERTE
+BILDER UND DATEIEN. Die anderen Browserdaten können behalten werden.
+7. Wählen Sie JETZT LÖSCHEN.
+
+3
+
+Weitere Informationen und Unterstützung
+Weitere Informationen finden Sie auch auf folgender Seite: Support Microsoft Browserdaten löschen
+
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur
+Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | MS Edge | Löschen temporärer Internetdateien | Version: 2.0 | 20.03.2024
+
+1
+
+

@@ -1,0 +1,113 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassung des Ukrainischen
+Ergänzungsangebotes (UKEA)
+in der LUSD
+
+1
+
+Vorwort
+Im Rahmen der Unterstützungsangebote für ukrainische Kinder und Jugendliche, die mit
+ihren Familien von Krieg und Flucht betroffen sind, ermöglicht das Land Hessen, neben
+der notwendigen Deutschförderung und Integration ins hessische Schulsystem, auch die
+Fortführung des bisherigen Schullebens.
+Zu diesem Zweck wurde das freiwillige, ergänzende Zusatzangebot einer „Sprach- und
+Kulturvermittlung“ in ukrainischer Sprache eingerichtet. Es soll dazu dienen,
+unterschiedliche Unterrichtsgegenstände und Unterrichtsfächer aus dem Heimatland
+Ukraine aufzugreifen, um den Bezug für die vielen Schutzsuchenden, die sobald wie
+möglich wieder dorthin zurückkehren möchten, nicht abreißen zu lassen.
+Das Ukrainische Ergänzungsangebot
+▪ kann (in Abhängigkeit von den zur Verfügung stehenden Personen) vier
+Wochenstunden am Nachmittag umfassen,
+▪ findet in Verantwortung des Landes Hessen statt,
+▪ wird von Ukrainisch sprechendem und vom Land eingestelltem Personal erteilt.
+Die Abbildung dieses Angebotes in der LUSD ist notwendig, um die geleisteten
+Unterrichtsstunden und die Anzahl der teilnehmenden Schülerinnen und Schüler zu
+dokumentieren.
+Das Ukrainische Ergänzungsangebot (UKEA) bilden Sie in der LUSD wie folgt ab
+▪ Das freiwillige Ukrainisches Ergänzungsangebot (UKEA) als Schulbezogenes Fach
+zuordnen.
+▪ Lehrkräfte / Personal in Ihren Personalstamm aufnehmen.
+▪ Kurse für das Ukrainische Ergänzungsangebot (UKEA) anlegen und diesen Lehrkräften
+bzw. Schülern zuordnen.
+
+HMKB | LUSD | Erfassung des Ukrainischen Ergänzungsangebotes (UKEA) | Version: 1.0 | 20.04.2022
+
+1
+
+2
+
+Das Ukrainisches Ergänzungsangebot (UKEA) als schulbezogenes
+Fach zuordnen
+1. Ordnen Sie sich auf der Seite SCHULE > SCHULBASISDATEN > FÄCHER das Offizielle Fach
+Ukrainisches Ergänzungsangebot (UKEA) als SCHULBEZOGENES FACH zu.
+
+Abb. 1 Zuordnen des Ukrainischen Ergängzungsangebotes (UKEA)
+
+3
+
+Lehrkräfte / Personal in Ihren Personalstamm aufnehmen
+Unterricht im Fach UKRAINISCHES ERGÄNZUNGSANGEBOT (UKEA) wird von Ukrainisch
+sprechendem Personal erteilt, das hierzu vom Land Hessen eingestellt wurde.
+1. Prüfen Sie auf der Webseite PERSONAL > PERSONALVERWALTUNG > LEHRERZUORDNUNG
+- Register SAP-LEHRER, ob die vorgesehene Lehrkraft im linken Bereich ZUZUORDNENDE
+EINTRÄGE erscheint.
+2. Je nach Prüfergebnis gehen Sie wie folgt vor.
+▪ Die Lehrkraft ist im linken Bereich ZUZUORDNENDE EINTRÄGE vorhanden:
+1. Klicken Sie im Bereich ZUZUORDNENDE EINTRÄGE in das Kontrollkästchen vor der
+SAP-Lehrkraft, die Sie neu in die LUSD aufnehmen möchten.
+2. Klicken Sie auf HINZUFÜGEN. Es erscheint die Webseite PERSONAL >
+PERSONALBASISDATEN > PERSONENBEZOGEN mit den aus SAP übernommenen
+Daten.
+3. Geben Sie im Feld SCHULINTERNES KÜRZEL ein Kürzel ein. Klicken Sie auf
+SPEICHERN. Die Lehrkraft wurde aus SAP in die LUSD übernommen. Sie erkennen
+dies an der SAP-Personalnummer.
+4. Klicken Sie auf SCHLIEßEN.
+
+▪ Die Lehrkraft ist im linken Bereich ZUZUORDNENDE EINTRÄGE nicht vorhanden:
+1. Nehmen Sie die unterrichtende Person auf der Webseite PERSONAL >
+PERSONALBASISDATEN > PERSONENBEZOGEN über die Schaltfläche
+Daten auf.
+
+mit ihren
+
+2. Klicken Sie auf SPEICHERN und anschließend auf SCHLIEßEN.
+
+HMKB | LUSD | Erfassung des Ukrainischen Ergänzungsangebotes (UKEA) | Version: 1.0 | 20.04.2022
+
+1
+
+4
+
+Kurse für das Ukrainische Ergänzungsangebot (UKEA) anlegen
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG einen
+oder mehrere Kurse an.
+Hinweis
+Ein Kurs sollte (in Abhängigkeit von den zur Verfügung stehenden Personen)
+für vier bis zwölf Schüler angelegt werden.
+
+Abb. 2 Beispiel eines Kurses für das Ukrainische Ergänzungsangebot (UKEA)
+
+2. Geben Sie wie gewohnt die Kursdetails ein. Bitte beachten Sie dabei folgende Hinweise:
+▪ Wählen Sie im Feld FACH den Eintrag UKEA aus.
+▪ Tragen Sie im Feld KURSART den Eintrag: Z - Zusatzunterricht ein. Damit kann der
+Kurs nicht benotet werden und erscheint nicht im Zeugnis.
+▪ Tragen Sie im Feld STUNDENANZAHL die Stundenzahl des Kurses ein.
+▪ Wählen Sie in der Auswahlliste LEHRKRAFT die gewünschte Lehrkraft.
+Hinweis
+Sollte das gewünschte Personal nicht auswählbar sein, prüfen Sie
+auf der Webseite PERSONAL > SCHULBEZOGEN, ob folgende Daten
+gepflegt sind:
+▪ Im Feld PERSONALTYP ist der Eintrag Lehrkraft ausgewählt.
+▪ Bei UV-RELEVANT ist das Häkchen gesetzt..
+3. Weisen Sie den Kursen auf der Webseite UNTERRICHT > UV BEARBEITUNG > SCHÜLERKURSZUORDNUNG die gewünschten Schüler zu.
+
+Abb. 3 Schüler-Kurszuordnung
+HMKB | LUSD | Erfassung des Ukrainischen Ergänzungsangebotes (UKEA) | Version: 1.0 | 20.04.2022
+
+2
+
+

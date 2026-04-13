@@ -1,0 +1,369 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Versetzungsvermerke
+Versetzungsvermerke und ihre Auswirkungen auf betroffene Schüler und ihre Zeugnisse
+
+1 Zusammenfassung
+Diese Anleitung beschreibt die in der LUSD vorhandenen Versetzungsvermerke und ihre
+Auswirkungen auf die betroffenen Schüler und ihre Zeugnisse.
+Weitere Informationen zur Leistungserfassung finden Sie in der Anleitung Leistungserfassung
+durchführen.
+
+2 Mögliche Einträge im Bereich Versetzung
+Auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER können im Register VERSETZUNG /
+EIGNUNG im Bereich VERSETZUNG in folgenden Feldern Einträge ausgewählt werden:
+▪ VERSETZUNG IST GEFÄHRDET
+▪ FACH
+▪ VERSETZUNG
+
+Abb. 1 Webseite Schüler: Bereich Versetzung
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+1
+
+2.1
+
+Feld: Versetzung ist gefährdet
+
+Abb. 2 Webseite Schüler - Register Versetzung/Eignung: Auswahlliste des Feldes Versetzung ist
+gefährdet
+
+2.1.1
+
+Zeugnisbemerkung bei: Versetzung ist gefährdet
+Im Feld VERSETZUNG IST GEFÄHRDET sind folgende Einträge möglich:
+▪ Nein
+▪ Ja
+Der Eintrag Ja führt im 1. Halbjahr zu folgender Versetzungbemerkung im Zeugnis:
+„Die Versetzung ist gefährdet.“
+
+2.1.1
+
+Zeugnisbemerkung bei: Versetzung ist gefährdet im Wiederholungsjahr
+
+Befindet sich der betroffene Schüler bereits im Wiederholungsjahr, wird folgende
+Versetzungsbemerkung im Zeugnis ausgegeben:
+„Die Versetzung ist gefährdet. Bei einer Nichtversetzung ist die besuchte Schule oder der
+besuchte Zweig zu verlassen (§ 75 Abs. 2 HSchG).“
+
+2.1.2
+
+Feld Fach
+Wenn der Eintrag Ja im Feld VERSETZUNG IST GEFÄHRDET ausgewählt wird, kann im Feld
+FACH ein gefährdetes Fach mitsamt Note hinzugefügt werden.
+
+Abb. 3 Webseite Schüler - Register Versetzung/Eignung: Ein gefährdetes Fach hinzufügen
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+2
+
+Abb. 4 Webseite Schüler - Register Versetzung/Eignung: Gefährdetes Fach mit Note
+
+Ausnahmen
+Für folgende Schulformen und Stufen wird im Zeugnis des 1. Halbjahres grundsätzlich
+keine Versetzungsbemerkung ausgegeben, auch wenn im Feld VERSETZUNG IST
+GEFÄHRDET der Eintrag Ja ausgewählt ist:
+▪
+▪
+▪
+▪
+▪
+
+SF H: Stufen 09/1 und 10/1
+SF R: Stufe 10/1
+SF GYM8: Stufe 09/1
+SF GYM: Stufe 10/1
+SF IGS: Stufe 10/1.
+
+In den genannten Schulform-/Stufenkombinationen kann die Anl. Versetzungsgefährdung
+(Anlage Versetzungsgefährdung) generiert und mit dem Halbjahreszeugnis ausgegeben
+werden.
+2.2
+
+Feld: Versetzung
+Im Feld VERSETZUNG können folgende Einträge aus der Auswahlliste ausgewählt werden:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+ja
+nein
+ja mit Nachprüfung
+ja durch Konferenzbeschluss
+verbleibt in der Maßnahme (NDHS)
+Maßnahme beendet (NDHS)
+nein mit Schulformwechsel
+nein und keine Nachprüfung mehr
+keine Versetzungsbemerkung
+Förderschule – Schulzeitverlängerung
+
+Abb. 5 Webseite Schüler - Auswahlliste des Feldes Versetzung
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+3
+
+2.3
+
+Einträge: ja, ja mit Nachprüfung und ja durch Konferenzbeschluss
+
+2.3.1
+
+Zeugnisbemerkung bei: ja, ja mit Nachprüfung und ja durch Konferenzbeschluss
+Wird einer der folgenden Einträge gewählt:
+▪ ja
+▪ ja mit Nachprüfung
+▪ ja durch Konferenzbeschluss
+wird im 2. Halbjahr folgende Versetzungsbemerkung im Zeugnis ausgegeben:
+„<Vorname> <Nachname> wurde in die Jahrgangsstufe <+1> versetzt.“
+Zeugnisbemerkung: ja, ja mit Nachprüfung und ja durch Konferenzbeschluss im
+Falle einer freiwilligen Wiederholung
+Wird einer der folgenden Einträge
+▪ ja
+▪ ja mit Nachprüfung
+▪ ja durch Konferenzbeschluss
+in einem Schuljahr gewählt, in dem ein Schüler freiwillig wiederholt*, wird folgende
+Versetzungsbemerkung im Zeugnis des 2. Halbjahes ausgegeben:
+"<Vorname> <Nachname> wird in die Jahrgangsstufe <X + 1> versetzt. In der
+Jahrgangsstufe <X> erfolgte ein freiwilliger Rücktritt."
+(X = aktuelle Jahrgangsstufe des Schülers)
+*(Aktivierung des Kontrollkästchens FREIWILLIG bei einem Eintrag, der sich auf die aktuelle
+Jahrgangsstufe des Schülers im Arbeitsbereich WIEDERHOLUNGEN auf der Seite
+SCHULLAUFBAHN bezieht)
+Ausnahmen:
+▪ SF GFLX, Stufe -/2: „<Vorname> <Nachname> wird in die Jahrgangsstufe 3 versetzt.“
+▪ SF F, Stufe 06/2: „<Vorname> <Nachname> wurde in die Jahrgangsstufe 7 der
+Schulform <Eintrag bei Eignung> versetzt.“
+▪ SF MSS, Stufe 07/2: „<Vorname> <Nachname> wurde in die Jahrgangsstufe 8 der
+Schulform <Eintrag bei Eignung> versetzt.“
+▪ SF GYM8, Stufe 09/2: „<Vorname> <Nachname> wurde in die Einführungsphase der
+gymnasialen Oberstufe versetzt.“
+▪ SF GYM, Stufe 10/2: „<Vorname> <Nachname> wurde in die Einführungsphase der
+gymnasialen Oberstufe versetzt.“
+▪ SF IGS, Stufe 10/2: „Das Zeugnis berechtigt zum Besuch der Einführungsphase der
+gymnasialen Oberstufe.“
+▪ SF IGS, Stufen 05/2 bis 09/2 bei Versetzungsvermerk ja oder nein: „Das Zeugnis
+berechtigt zum Besuch der Jahrgangsstufe <nächsthöhere Jahrgangsstufe> der
+schulformübergreifenden (integrierten) Gesamtschule.“
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+4
+
+▪ SF PUSA: „<Vorname> <Nachname> rückt in die Jahrgangsstufe 9 vor.“
+▪ SF MSS, SF MSMB, Stufe 10/2 und SF MSPB, Stufe 09/2, SF H, Stufe 09/2: Es wird
+keine Versetzungsbemerkung gedruckt.
+
+2.3.2
+
+Auswirkungen auf Schulform-, Stufen-, Klassen- und Kurszugehörigkeit im
+folgenden 1. Halbjahr
+Wird einer der folgenden Einträge gewählt:
+▪ ja
+
+▪ ja mit Nachprüfung
+▪ ja durch Konferenzbeschluss
+wird der Schüler im nächsten 1. Halbjahr (soweit es für seine Schulform eine weitere Stufe
+gibt)
+▪ in seiner bisherigen Schulform der nächsthöheren Stufe zugeordnet.
+▪ behält er seine bisherige Klassen- und Kurszugehörigkeit, d. h. er bleibt der
+hochgesetzten Klasse und allen hochgesetzten Kursen zugeordnet.
+2.4
+
+Eintrag: verbleibt in der Maßnahme (NDHS)
+Wird für einen Schüler der Schulform NDHS/PS oder NDHS/S1 der Eintrag verbleibt in der
+Maßnahme (NDHS) gewählt, wird
+▪ im HALBJAHRESZEUGNIS folgende Versetzungsbemerkung ausgegeben: „[Name des
+Schülers] verbleibt nach Beschluss der Klassenkonferenz vom [Datum der Klassenkonferenz] für ein weiteres Schulhalbjahr in der Maßnahme“
+▪ im Übergangszeugnis folgende Versetzungsbemerkung ausgegeben: "Nach Beschluss
+der Klassenkonferenz vom [Konferenz Dat.] ist die Sprachfördermaßnahme nicht
+abgeschlossen."
+
+2.4.1
+
+Auswirkungen auf Schulform-, Stufen-, Klassen- und Kurszugehörigkeit im
+folgenden 1. Halbjahr
+Wird für einen Schüler der Schulform NDHS/PS oder NDHS/S1 der Eintrag verbleibt in der
+Maßnahme (NDHS) gewählt, wird der Schüler
+▪ (wieder) der Stufe -/1 seiner bisherigen Schulform zugeordnet.
+▪ behält er seine bisherige Klassen- und Kurszugehörigkeit, d. h. er bleibt der
+hochgesetzten Klasse und allen hochgesetzten Kursen zugeordnet.
+▪ wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN im Bereich
+WIEDERHOLUNGEN automatisiert ein Eintrag erzeugt.
+
+Abb. 6 Webseite Schullaufbahn: Bereich Wiederholungen – automatisch ermittelter Eintrag
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+5
+
+2.5
+
+Eintrag: Maßnahme beendet (NDHS)
+Wird für einen Schüler der Schulform NDHS/PS oder NDHS/S1 der Eintrag Maßnahme
+beendet (NDHS) gewählt, wird im HALBJAHRESZEUGNIS und im ÜBERGANGSZEUGNIS
+folgende Versetzungsbemerkung ausgegeben: „Nach Beschluss der Klassenkonferenz vom
+[Datum der Klassenkonferenz] ist die Sprachfördermaßnahme abgeschlossen.“
+
+2.5.1
+
+Auswirkungen auf Schulform-, Stufen-, Klassen- und Kurszugehörigkeit im
+folgenden 1. Halbjahr
+Wird für einen Schüler der Schulform NDHS/PS oder NDHS/S1 der Eintrag Maßnahme
+beendet (NDHS) gewählt, verliert der Schüler
+▪ seine Schulform und Stufe,
+▪ seine Klassenzugehörigkeit,
+▪ sowie seine Kurs-Zuordnung zu allen Kursen.
+Legen Sie für diesen Schüler möglichst vor dem Halbjahreswechsel schon einen internen
+Schulformübergang auf der Seite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+an. Alternativ können Sie dem Schüler nach dem Halbjahreswechsel auf der gleichen Seite
+auch eine neue Schulform und Stufe zuweisen.
+
+2.6
+
+Eintrag: nein, nein mit Schulformwechsel, nein und keine Nachprüfung mehr
+
+2.6.1
+
+Zeugnisbemerkung bei: nein, nein mit Schulformwechsel, nein und keine
+Nachprüfung mehr
+Wenn einer der folgenden Einträge
+▪ nein
+▪ nein mit Schulformwechsel
+▪ nein und keine Nachprüfung mehr
+gewählt wird, wird im 2. Halbjahr folgende Versetzungsbemerkung im Zeugnis ausgegeben:
+„<Vorname> <Nachname>wurde nicht versetzt.“
+Zeugnisbemerkung bei: nein, nein mit Schulformwechsel, nein und keine
+Nachprüfung mehr im Falle einer freiwilligen Wiederholung
+Wird einer der Einträge
+▪ nein,
+▪ nein mit Schulformwechsel,
+▪ nein und keine Nachprüfung mehr
+in einem Schuljahr gewählt, in dem ein Schüler wiederholt*, wird folgende
+Versetzungsbemerkung im Zeugnis des 2. Halbjahres ausgegeben:
+„<Vorname> <Nachname>wurde nicht versetzt. Die besuchte Schule oder der besuchte
+Zweig ist zu verlassen (§ 75 Abs. 2 HSchG).“
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+6
+
+*(ohne Aktivierung des Kontrollkästchens FREIWILLIG bei einem Eintrag, der sich auf die
+aktuelle Jahrgangsstufe des Schülers im Arbeitsbereich WIEDERHOLUNGEN auf der Seite
+SCHULLAUFBAHN bezieht).
+Ausnahmen
+▪ SF IGS, Stufen 05/2 bis 09/2 bei Versetzungsvermerk ja oder nein: „Das Zeugnis
+berechtigt zum Besuch der Jahrgangsstufe <nächsthöhere Jahrgangsstufe> der
+schulformübergreifenden (integrierten) Gesamtschule.“
+▪ SF MSMB, Stufe 10/2 und SF MSPB, Stufe 09/2, SF H, Stufe 09/2: Es wird keine
+Versetzungsbemerkung gedruckt.
+
+2.6.2
+
+Auswirkungen auf Schulform-, Stufen-, Klassen- und Kurszugehörigkeit im
+folgenden 1. Halbjahr
+Eintrag: nein oder nein und keine Nachprüfung mehr
+Wird der Eintrag
+▪ nein oder
+▪ nein und keine Nachprüfung mehr
+im 2. Halbjahr gewählt,
+▪ verliert der Schüler zum folgenden 1. Halbjahr
+▪ seine Klassenzugehörigkeit, sowie
+▪ seine Kurs-Zuordnung zu allen stufengebundenen Kursen.
+▪ wiederholt der Schüler die vorherige Stufe, wird also der gleiche Stufe zugeordnet wie
+im Schuljahr zuvor.
+▪ wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN im Bereich
+WIEDERHOLUNGEN automatisiert ein Eintrag erzeugt.
+
+Abb. 7 Webseite Schullaufbahn: Bereich Wiederholungen – automatisch ermittelter Eintrag
+
+Eintrag: nein mit Schulformwechsel
+Wird der Eintrag nein mit Schulformwechsel im 2. Halbjahr gewählt,
+▪ verliert der Schüler zum folgenden 1. Halbjahr
+▪ seine Schulform und Stufe,
+▪ seine Klassenzugehörigkeit, sowie
+▪ seine Kurs-Zuordnung zu allen Kursen.
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+7
+
+Legen Sie für diesen Schüler möglichst vor dem Halbjahreswechsel schon einen internen
+Schulformübergang auf der Seite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+an. Alternativ können Sie dem Schüler nach dem Halbjahreswechsel auf der gleichen Seite
+auch eine neue Schulform und Stufe zuweisen.
+Hinweis
+Weitere Informationen zum Thema Nichtversetzung und freiwillige
+Wiederholung finden Sie in der Anleitung: Nichtversetzung und freiwillige
+Wiederholung.
+
+2.7
+
+Eintrag: keine Versetzungsbemerkung
+Eintrag Zeugnisbemerkung bei: keine Versetzungbemerkung
+Ist der Eintrag keine Versetzungsbemerkung ausgewählt, wird grundsätzlich keine
+Versetzungsbemerkung im Zeugnis des 2. Halbjahres ausgegeben.
+Im nächsten 1. Halbjahr (soweit es für die Schulform des Schülers eine weitere Stufe gibt)
+▪ wird der Schüler in seiner bisherigen Schulform der nächsthöheren Stufe zugeordnet.
+▪ behält er seine bisherige Klassen- und Kurszugehörigkeit, d. h. er bleibt der
+hochgesetzten Klasse und allen hochgesetzten Kursen zugeordnet.
+
+2.8
+
+Eintrag: Förderschule – Schulzeitverlängerung
+
+2.8.1
+
+Zeugnisbemerkung bei: Förderschule – Schulzeitverlängerung
+Wird der Eintrag Förderschule – Schulzeitverlängerung im 2. Halbjahr gewählt, wird im
+Zeugnis von Schülern der Schulform FS (Förderschule) keine Zeugnisbemerkung
+ausgegeben.
+
+2.8.2
+
+Auswirkungen auf Schulform-, Stufen-, Klassen- und Kurszugehörigkeit im
+folgenden 1. Halbjahr
+Wird der Eintrag Förderschule – Schulzeitverlängerung im 2. Halbjahr gewählt,
+▪ verliert der Schüler zum folgenden 1. Halbjahr
+▪ seine Klassenzugehörigkeit, sowie
+▪ seine Kurs-Zuordnung zu allen stufengebundenen Kursen.
+▪ wiederholt der Schüler die vorherige Stufe, wird also der gleiche Stufe zugeordnet wie
+im Schuljahr zuvor.
+▪ wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN im Bereich
+WIEDERHOLUNGEN automatisiert ein Eintrag erzeugt.
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+8
+
+Abb. 8 Webseite Schullaufbahn: Bereich Wiederholungen – automatisch ermittelter Eintrag
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+9
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Versetzungsvermerke | Version: 1.3 | 31.03.2026
+
+10
+
+

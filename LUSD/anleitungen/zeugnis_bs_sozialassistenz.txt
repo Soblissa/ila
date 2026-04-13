@@ -1,0 +1,286 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zweijährige Höhere Berufsfachschule
+Sozialassistenz
+Übersicht und Zeugnisse
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+A4
+
+7.1
+
+Jahreszeugnis
+
+A4
+
+7.2
+
+Abgangszeugnis (ohne Eintragung „Prüfungsdatum“ = Ausbildung
+nicht abgeschlossen)
+
+A4
+
+7.3
+
+Abgangszeugnis (mit Eintragung „Prüfungsdatum“ =
+Abschlussprüfung nicht bestanden)
+
+A4
+
+7.4
+
+Abschlusszeugnis
+
+A3
+
+7.5
+
+Zusatzzeugnis schulischer Teil Fachhochschulreife
+
+A4
+
+7.6
+
+Zusatzzeugnis Fachhochschulreige
+
+A4
+
+7.7
+
+2
+
+Kursmerkmale
+
+Kurse
+
+Kursart Differenzierung Kursoption
+
+Fächer des allgemeinbildenden Lernbereichs
+
+P
+
+-
+
+-
+
+Fächer des berufsbildenden Lernbereichs
+
+P
+
+BR
+
+-
+
+Fächer des Wahlunterrichts
+
+F
+
+-
+
+ZUF
+
+Fächer des Zusatzunterrichts Fachhochschulreife
+
+Z
+
+-
+
+ZUF
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+1
+
+3
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum Zeugniszuweisung
+
+Beginn Schulbesuch
+
+Automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum
+
+Datum der Zusatzprüfung
+
+Zusatzprüfung Datum
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Fach- und Lernfeldnoten
+
+LUSD oder ENC
+
+Gesamtnote berufsbildender Lernbereich (Zahl mit
+einer Nachkommastelle)
+
+LUSD: Gesamtnote BBU
+ENC: Gesamtnote BBU
+
+Durchschnittsnote Fachhochschulreife
+
+Register Gesamtnoten:
+Durchschnittsnote Fachhochschulreife
+
+5
+
+Abschlüsse
+
+Ein Abbruch (vorzeitiges Verlassen des Bildungsganges) ist in jeder Stufe möglich.
+Stufe
+
+Mögliche Abschlüsse
+
+11/2
+
+Gleichstellung mit mittlerem Abschluss (GYM8)
+
+12/2
+
+▪ Abschluss
+▪ Schulischer Teil der Fachhochschulreife
+▪ Fachhochschulreife
+▪ Kein Abschluss (nach Beendigung des Bildungsganges)
+
+6
+
+Hinweise
+
+Siehe Kapitel 8 Hinweis (Historische Leistungsdaten)
+▪ Fächer des allgemeinbildenden und berufsbildenden Lernbereichs sowie Wahlunterricht werden
+in den Zeugnissen nur angezeigt, wenn entsprechende Kurse belegt wurden.
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+2
+
+▪ In Abgangs- und Abschlusszeugnissen werden die historischen Lernfeldnoten übernommen.
+Ausgewählt wird aus der Leistungshistorie des Schülers das letzte Halbjahr, in dem der Schüler
+einen Kurs in dem betreffenden Lernfeld belegt hat.
+Wurde in diesem Halbjahr keine Note erteilt, wird im Zeugnis “-“ als Note ausgedruckt.
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+3
+
+7
+
+Beispielzeugnisse
+
+7.1
+
+Halbjahreszeugnis
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+4
+
+7.2
+
+Jahreszeugnis
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+5
+
+7.3
+
+Abgangszeugnis (ohne Eintrag „Prüfungsdatum“)
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+6
+
+7.4
+
+Abgangszeugnis (mit Eintragung „Prüfungsdatum“)
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+7
+
+7.5
+
+Abschlusszeugnis
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+1
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+2
+
+7.6
+
+Zusatzzeugnis schulischer Teil Fachhochschulreife
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+1
+
+7.7
+
+Zusatzzeugnis Fachhochschulreife
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+2
+
+8
+
+Hinweis (Historische Leistungsdaten)
+
+Note wird in das laufende Schuljahr übernommen
+
+Es wird die Eingabe einer Note erwarte, Noten aus
+vergangenen Schuljahren werden nicht übernommen
+
+LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+1
+
+Kontaktmöglichkeiten
+Bei Fragen rund um die HKM IT-Anwendungen steht ihnen der Helpdesk HKM zur Verfügung:
+
+▪
+
+über das Kontaktformular auf der Seite https://lusdinfo.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule Sozialassistenz | Version: 2.0 | 01.09.2025
+
+1
+
+

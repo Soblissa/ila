@@ -1,0 +1,253 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Besondere Bildungsgänge [BzBT, BzBV]
+(Stand Ende 2025)
+Hinweise und Zeugnisbeispiele
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+A4
+
+Siehe Kapitel 6.1
+
+Abgangszeugnis vorzeitig
+
+A4
+
+Siehe Kapitel 6.2
+
+Abgangszeugnis nach nicht bestandener Prüfung
+
+A4
+
+Siehe Kapitel 6.3
+
+Abschlusszeugnis
+
+A4
+
+Siehe Kapitel 6.4
+
+Schulwechselzeugnis
+
+2
+
+-
+
+Kursmerkmale
+
+Zeugnisart
+
+Kursart
+
+Kursdifferenzierung
+
+Fächer des allgemeinbildenden Lernbereichs
+
+P
+
+-
+
+Lernfelder des berufsbildenden Lernbereichs
+
+P
+
+BR
+
+Fächer des Wahlpflichtunterrichts
+
+W
+
+-
+
+Fächer des Wahlunterrichts
+
+F
+
+-
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+1
+
+3
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+Automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum, Prüfungsdatum
+
+Ende Schulbesuch Abschlusszeugnis Ausgabe Datum, Prüfungsdatum
+Projektprüfung
+
+4
+
+Abschluss-Prüfung Datum
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Fachnoten
+
+LUSD oder ENC
+
+Endnoten
+
+LUSD oder ENC: Gesamtnote BBU
+
+Thema und Note Projektprüfung
+
+ENC (Register Projektprüfungen)
+
+5
+
+Hinweise
+▪ Fächer werden in den Zeugnissen nur angezeigt, wenn entsprechende Kurse belegt
+wurden.
+▪ Die Lernfelder des beruflichen Lernbereichs können frei formuliert werden.
+Legen Sie dazu in der Kursbearbeitung Kurse für die Fächer Berufliches Lernfeld 1 – 4
+(BLF1 – BLF4) an. Setzen Sie den Haken bei NUR THEMA ANZEIGEN. Ordnen Sie ein
+selbst formuliertes Thema zu.
+▪ In Abgangszeugnissen bei vorzeitigem Ausscheiden, d. h. ohne Teilnahme an der
+Abschlussprüfung, darf bei der Zeugniszuweisung kein Abschluss-Prüfung Datum
+eingetragen werden.
+▪ In Abgangszeugnissen nach einer Abschlussprüfung muss das Abschluss-Prüfung
+Datum eingetragen werden. Durch diesen Eintrag wird auf dem Zeugnis der Satz "Er/Sie
+hat an der Abschlussprüfung teilgenommen und diese nicht bestanden." angezeigt. Des
+Weiteren wird durch den Eintrag dieses Datums der Unterschriftenblock mit der/dem
+Prüfungsvorsitzende(n) je nach Eintrag unter UNTERRICHT > ZEUGNISKONFIGURATION >
+ZEUGNISFORMULARE angezeigt.
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+2
+
+▪ Die Zuweisung des Abschlusses erfolgt über die Zeugniszuweisung. Wählen Sie dazu
+bei Abschluss den entsprechenden Abschluss (Hauptschulabschluss, qualifizierender
+Hauptschulabschluss) bzw. das Abschlusszeugnis aus. Der Zeugnistext und der im
+Zeugnis bescheinigte Abschluss werden dann automatisch angepasst.
+▪ Thema und Note der Projektprüfung werden nur angezeigt, wenn im ENC oder in der
+LUSD eine entsprechende Eintragung im Register Projektprüfungen vorgenommen
+wurde.
+▪ Unter Leistungen > Zeugniskonfiguration > Zeugnisformulare ist es möglich, den
+Prüfungsausschussvorsitz zu „personalisieren“ (Name, Geschlecht).
+Ist hier kein Name (in Kombination mit dem Geschlecht) gepflegt, erscheint im Zeugnis
+„Vorsitzende/r des Prüfungsausschusses“.
+▪ Der Bereich Arbeits- und Sozialverhalten (Kopfnoten) erscheint auf den Zeugnissen,
+wenn unter Leistungen > Zeugniskonfiguration > Konfiguration Leistungserfassung für
+die einzelnen Stufen eine Erfassung der Noten ausgewählt ist.
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+3
+
+6
+
+Beispielzeugnisse
+
+6.1
+
+Halbjahreszeugnis
+
+P-Kurs
+
+P-Kurs Differenzierung BR
+eigene Themen
+
+W-Kurs
+F-Kurs
+
+Abb. 1 Beispiel: Halbjahreszeugnis
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+4
+
+6.2
+
+Beispiel Abgangszeugnis vorzeitig (ohne Prüfungsdatum)
+
+P-Kurs
+
+P-Kurs Differenzierung BR
+eigene Themen
+
+W-Kurs
+F-Kurs
+
+Abb. 2 Beispiel: Abgangszeugnis vorzeitig (ohne Prüfungsdatum)
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+5
+
+6.3
+
+Abgangszeugnis nach nicht bestandener Prüfung (mit Prüfungsdatum)
+
+P-Kurs
+
+P-Kurs Differenzierung BR
+eigene Themen
+
+W-Kurs
+F-Kurs
+
+hier: „Prüfungsausschussvorsitz“ nicht gepflegt
+
+Abb. 3 Beispiel: Abgangszeugnis nach nicht bestandener Prüfung (mit Prüfungsdatum)
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+6
+
+6.4
+
+Beispiel Abschlusszeugnis
+
+P-Kurs
+
+P-Kurs Differenzierung BR
+eigene Themen
+
+W-Kurs
+F-Kurs
+
+hier: „Prüfungsausschussvorsitz“ gepflegt
+
+Abb. 4 Beispiel: Abschlusszeugnis
+
+Hessisches Kultusministerium | LUSD | Besondere Bildungsgänge [BzBT, BzBV] (Stand Ende 2025) | 08.01.2026
+
+7
+
+

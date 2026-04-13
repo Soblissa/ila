@@ -1,0 +1,366 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Einwohnermeldedaten in der
+LUSD
+Funktionen und Anwendungsfälle
+
+Version: 1.0
+Letzter Stand: 08.08.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt, Zielgruppe und vorausgesetzte Kenntnisse ......................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Einwohnermeldedaten in der LUSD
+
+5
+
+1
+
+Allgemeine Informationen zur Datenübermittlung an die LUSD ............................................. 5
+
+2
+
+Zuordnung von EMD in der Einschulkinder-Datenbank ......................................................... 5
+
+3
+
+Webseite Einwohnermeldedaten (Datenaustausch) .............................................................. 6
+
+4
+
+3.1
+
+Zweck, Aufbau und Bedeutung der angezeigten Informationen ................................... 6
+
+3.2
+
+Bearbeitung von Einträgen (Abrufsteuerung) ............................................................... 7
+
+Webseite Schülerstammdatenabgleich ................................................................................. 8
+4.1
+
+Zweck und Funktionsweise .......................................................................................... 8
+
+4.2
+
+Typische Anwendungsfälle und Hinweise zur Datenübernahme .................................. 9
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Einwohnermeldedaten: Dialogfenster Einwohnermeldedaten ............................... 7
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+3
+
+Zu diesem Dokument
+Inhalt, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument
+▪ beschreibt, zu welchen Personen entsprechende Daten aus den Meldebehörden an die LUSD
+übermittelt werden,
+▪ erklärt, wie die Einwohnermeldedaten im Aufnahmeprozess genutzt werden können und wie mit
+Hilfe des Schülerstammdatenabgleichs meldebehördliche Änderungen sichtbar gemacht werden können,
+▪ zeigt exemplarische Problemfälle in Verbindung mit den Einwohnermeldedaten und wie diese
+gelöst werden können.
+Diese Anleitung richtet sich an alle Anwender, die Schüler sowie Kandidaten in der LUSD bearbeiten.
+Folgende Kenntnisse werden vorausgesetzt und sind daher in dieser Anleitung nicht näher beschrieben: Basiswissen zur LUSD, Aufnehmen von neuen Schülern und die LUSD.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSD-Hilfe
+durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund
+um die LUSD. Darunter Anleitungen, Fortbildungsangebote und FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+4
+
+Einwohnermeldedaten in der LUSD
+1
+
+Allgemeine Informationen zur Datenübermittlung an die LUSD
+Mit der Reform der Verordnung über die Datenübermittlung der Meldebehörden (MeldDüV)
+im September 2023 wurde die rechtliche Grundlage für die automatisierte Übermittlung personenbezogener Daten von den Einwohnermeldeämtern (Meldebehörden) an die LUSD
+/LUSDIK weiter konkretisiert. Die LUSD und LUSDIK dienen dabei als Anwendungssysteme für die zuständigen Grund- und Förderschulen sowie die Staatlichen Schulämter.
+§ 10 der MeldDüV regelt seitdem die Übermittlung an Schulen und Gesundheitsämter sowie den zugehörigen Datenkranz.
+Für die tägliche Arbeit mit der LUSD ist es hilfreich zu verstehen, welche Art von Einwohnermeldedaten (EMD) wann und auf welchem Weg übermittelt werden. Dabei sind zwei
+Lieferarten zu unterscheiden:
+Gesamtlieferung (jährlich): Sie erfolgt einmal jährlich – meist zum Jahresende im Zusammenhang mit dem LUSD-Releasewechsel. Sie umfasst gemäß § 10 Abs. 1 MeldDüV alle
+Kinder, „die bis zum [nächsten] 30. Juni das vierte, fünfte oder sechste Lebensjahr vollenden“. Ziel ist der Aufbau eines jährlichen Grunddatenbestandes in der LUSD, insbesondere
+für die Einschulungskandidaten.
+Detaillieferung (täglich): Diese erfolgt laufend und übermittelt ausschließlich Änderungen
+im Vergleich zur vorherigen Lieferung – etwa durch An-, Um- oder Abmeldungen. Der betroffene Personenkreis ist gemäß § 10 Abs. 2 MeldDüV erweitert und umfasst auch schulund berufsschulpflichtige Kinder, Jugendliche und Heranwachsende.
+
+2
+
+Zuordnung von EMD in der Einschulkinder-Datenbank
+Da die übermittelten EMD-Datensätze keine eindeutigen Identifikatoren (wie z. B. eine ID)
+enthalten, müssen neue oder veränderte Deltadatensätze anhand bestimmter Attribute mit
+bestehenden Einträgen in der Einschulkinder-Datenbank abgeglichen werden.
+Der Abgleich erfolgt über folgende vier Felder:
+▪
+▪
+▪
+▪
+
+VORNAME
+NACHNAME
+GEBURTSDATUM
+GEBURTSORT
+
+Nur bei exakter Übereinstimmung aller vier Werte wird ein Datensatz als identisch erkannt
+und entsprechend aktualisiert. Andernfalls legt das System einen neuen Eintrag an. Dies
+kann dazu führen, dass Kinder mehrfach in der LUSD erscheinen – z. B. bei Korrektur des
+Geburtsortes oder einer Namensänderung. In solchen Fällen ist der korrekte Datensatz manuell zu identifizieren und weiterzuverarbeiten.
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+5
+
+3
+
+Webseite Einwohnermeldedaten (Datenaustausch)
+Die Webseite DATENAUSTAUSCH > EINWOHNERMELDEDATEN stellt die gemäß § 10 MeldDüV
+übermittelten Einwohnermeldedaten tabellarisch dar. Dabei werden ausschließlich jene Datensätze angezeigt, deren Wohnanschrift laut Schulbezirkskatalog der jeweiligen Schule
+zugeordnet ist.
+
+3.1
+
+Zweck, Aufbau und Bedeutung der angezeigten Informationen
+In der Praxis dient diese Funktion insbesondere dazu, veraltete oder doppelte Einträge
+auf der Webseite AUFNEHMEN / EINSCHULEN auszublenden – etwa bei mehrfach angelegten Datensätzen (z. B. infolge korrigierter Angaben, siehe Kapitel 2 zur Zuordnung über
+Vorname, Nachname, Geburtsdatum und Geburtsort) oder bei Personen, die weggezogen
+sind. In seltenen Fällen verbleiben solche Datensätze noch längere Zeit sichtbar. In diesen
+Fällen ist es möglich, den Haken manuell zu entfernen, um die Liste unter AUFNEHMEN /
+EINSCHULEN bereinigt zu halten.
+In der Tabelle finden sich für jede gemeldete Person die folgenden Spalten:
+Spalte
+NACHNAME
+VORNAME
+
+Beschreibung
+Vollständiger Name der betroffenen Person. Dieser kann auch
+nur aus Nachname oder nur aus Vorname bestehen.
+
+GEBURTSDATUM
+
+Ist Berechnungsgrundlage für die Schulpflicht-Einstufung.
+
+GEBURTSORT
+
+Dient dem Abgleich zur eindeutigen Identifikation (siehe Kapitel 2).
+
+PLZ
+Ist Grundlage für die Anzeige an der jeweiligen Dienststelle.
+ORT
+
+ANZ. GV
+
+Anzahl der übermittelten gesetzlichen Vertreter. Dabei muss es
+sich nicht per se um Sorgeberechtigte und Postempfänger handeln.
+
+EMD-KATEGORIE
+
+Altersbezogene Einteilung im Hinblick auf die Schulpflicht.
+
+LETZTE AKT.
+
+Datum der letzten Aktualisierung des EMD-Datensatzes.
+
+ABRUFEN
+
+Steuerung, ob der Datensatz bei AUFNEHMEN / EINSCHULEN angezeigt wird.
+
+Besondere Bedeutung hat die Spalte EMD-Kategorie, in der die gemeldeten Personen anhand ihres Alters zum 30. Juni des Startjahres des aktuellen Schuljahres eingestuft werden:
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+6
+
+▪ SCHULPFLICHT (AKTUELL)
+Personen, die bis zum 30. Juni das 6. Lebensjahr vollenden
+▪ SCHULPFLICHT (NÄCHSTES SJ)
+Personen, die bis zum 30. Juni des Folgejahres das 6. Lebensjahr vollenden
+▪ ÜBRIGE JAHRGÄNGE
+Personen unterhalb dieser Altersgrenzen, für die derzeit keine Schulaufnahme vorgesehen ist
+
+3.2
+
+Bearbeitung von Einträgen (Abrufsteuerung)
+In der Praxis dient die Funktion des Kontrollkästchens ABRUFEN insbesondere dazu, veraltete oder doppelte Einträge auf der Webseite AUFNEHMEN / EINSCHULEN zu unterbinden –
+etwa bei mehrfach angelegten Datensätzen (beispielsweise infolge korrigierter Angaben,
+siehe Kapitel 2 zur Zuordnung über VORNAME, NACHNAME, GEBURTSDATUM und GEBURTSORT) oder bei Personen, die weggezogen sind. In seltenen Fällen verbleiben solche Datensätze noch längere Zeit sichtbar. In diesen Fällen ist es möglich, den Haken manuell zu
+entfernen, um die Liste unter AUFNEHMEN / EINSCHULEN bereinigt zu halten.
+
+3.2.1 Vorgehensweise zum Aktivieren oder Deaktivieren des Abrufs
+1. Wählen Sie einen Eintrag durch Anklicken aus und klicken Sie anschließend auf die
+Schaltfläche BEARBEITEN (Alternativ: Doppelklicken Sie auf den gewünschten Eintrag).
+Das Dialogfenster EINWOHNERMELDEDATEN – ABRUFEN BEARBEITEN öffnet sich.
+2. Das Kontrollkästchen ABRUFEN kann durch Anklicken gesetzt oder entfernt werden.
+3. Klicken Sie im Dialogfenster auf die Schaltfläche ÜBERNEHMEN.
+4. Sichern Sie abschließend alle gemachten Änderungen auf der Seite durch einen Klick
+auf die Schaltfläche SPEICHERN.
+
+Abb. 1 Webseite Einwohnermeldedaten: Dialogfenster Einwohnermeldedaten
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+7
+
+Hinweis
+Die Inhalte der Einwohnermeldedaten sind grundsätzlich nicht bearbeitbar.
+Die Felder wie NAME, GEBURTSDATUM oder ADRESSE stammen aus der Lieferung der Meldebehörde und können nicht verändert werden. Anpassungen
+an Personendaten erfolgen ausschließlich im Rahmen der tatsächlichen Aufnahme über die Webseite AUFNEHMEN / EINSCHULEN.
+
+4
+
+Webseite Schülerstammdatenabgleich
+Die Webseite DATENAUSTAUSCH > SCHÜLERSTAMMDATENABGLEICH dient der automatisierten
+Erkennung von Abweichungen zwischen den Einwohnermeldedaten (EMD) und den bereits
+aufgenommenen Stammdaten von Personen in der LUSD. Berücksichtigt werden alle Personen, die in der LUSD geführt werden und deren Wohnadresse dem Schulbezirk der jeweiligen Schule zugeordnet ist.
+
+4.1
+
+Zweck und Funktionsweise
+Ziel ist es, Veränderungen in den Meldedaten – etwa bei Namen, Geburtsdaten, Adressen
+oder Sorgeberechtigten – sichtbar zu machen und die Möglichkeit zu bieten, diese gezielt
+zu überprüfen und bei Bedarf in die Stammdaten zu übernehmen.
+Der Abgleich erfolgt in zwei Schritten:
+▪ Stufe 1 – Identifikation potenziell zusammengehöriger Datensätze
+▪ Stufe 2 – Vergleich des vollständigen Datenkranzes:
+In Stufe 1 wird in einem nächtlichen Prozess (alternativ per manueller Auslösung über die
+Schaltfläche ABGLEICH AKTUALISIEREN) für jeden LUSD-Datensatz geprüft, ob ein passender
+EMD-Datensatz existiert. Die Zuordnung basiert auf einem definierten Regelwerk mit reduzierten Vergleichsfeldern (u. a. Geburtsdatum, Namensbestandteile). Nur wenn in Stufe 1
+ein LUSD-EMD-Datenpaar gebildet werden konnte, erfolgt der Vergleich aller relevanten
+Felder (z. B. NAME, GEBURTSDATUM, ADRESSE). Stimmen alle Daten überein, gilt das Paar
+als abgeglichen. Gibt es Unterschiede, wird dies entsprechend gekennzeichnet.
+Die Ergebnisse des Abgleichs werden in drei Kategorien dargestellt:
+▪ „SCHÜLERDATEN WEICHEN TEILWEISE VON EINWOHNERMELDEDATEN AB“ (gelbes Warndreieck): Ein EMD-Datensatz ist vorhanden, aber mindestens ein Feld weicht vom LUSDEintrag ab.
+▪ „SCHÜLER ZU DENEN KEINE EINWOHNERMELDEDATEN GEFUNDEN WURDEN“ (grauer Strich):
+Es wurde kein passender EMD-Datensatz gefunden.
+▪ „SCHÜLERDATEN STIMMEN MIT EINWOHNERMELDEDATEN ÜBEREIN“ (grünes Häkchen): Vollständige Übereinstimmung mit einem EMD-Datensatz.
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+8
+
+Durch Auswahl eines Eintrags mit Abweichungen (gelbes Warndreieck) lässt sich eine Detailansicht öffnen, in der die EMD-Daten (linke Spalte) und die LUSD-Stammdaten (rechte
+Spalte) gegenübergestellt werden.
+▪ Übereinstimmende Felder sind mit einem grünen Haken markiert.
+▪ Abweichende Felder werden durch ein rotes Pfeil-Symbol dargestellt.
+Ein Klick auf das Schaltsymbol roter Pfeil-nach-rechts übernimmt den EMD-Wert temporär
+in die LUSD-Spalte und ersetzt den roten Pfeil durch ein orangenes Rückgängig-Symbol.
+Durch einen Klick auf dieses orangene Schaltsymbol kann der ursprüngliche LUSD-Wert
+wiederhergestellt werden.
+Solange keine Änderungen aktiv sind (nur grüne Haken und/oder rote Pfeile sichtbar),
+bleibt die Schaltfläche SPEICHERN inaktiv. Sobald mindestens ein EMD-Wert übernommen
+wurde (orange Rückgängig-Symbole sichtbar), wird die Schaltfläche SPEICHERN aktiviert.
+Ein Klick auf SPEICHERN…
+▪ übernimmt die angezeigten Werte dauerhaft in die Stammdaten,
+▪ schließt die Detailansicht,
+▪ startet automatisch den Abgleich erneut, wodurch die Eingruppierung des Datensatzes
+gegebenenfalls aktualisiert wird.
+Ein Klick auf ABBRECHEN schließt die Detailansicht ohne Speicherung. Bereits übernommene, aber nicht gespeicherte Änderungen gehen dabei verloren – eine gesonderte
+Rückfrage erfolgt nicht.
+Hinweis
+Die Datenübernahme ist ausschließlich über diese Oberfläche möglich. Es erfolgt keine automatische Aktualisierung der Stammdaten durch die EMDLieferung. Alle Übernahmen erfolgen ausschließlich manuell und müssen aktiv gespeichert werden.
+
+4.2
+
+Typische Anwendungsfälle und Hinweise zur Datenübernahme
+Die Detailansicht im Schülerstammdatenabgleich bietet die Möglichkeit, Änderungen aus
+den Einwohnermeldedaten (EMD) gezielt in die LUSD-Stammdaten zu übernehmen. In der
+Praxis treten dabei immer wieder bestimmte Konstellationen auf, die eine bewusste Entscheidung erfordern.
+
+4.2.1 Namenskorrekturen
+Bei Vor- oder Nachnamen kann es zu geringfügigen Abweichungen kommen – etwa durch
+korrigierte Schreibfehler, die Nachmeldung eines weiteren Vornamens oder behördliche
+Änderungen (z. B. nach Heirat oder Namensänderung bei Sorgeberechtigten).
+Empfehlung: Vor einer Übernahme sollte geprüft werden, ob die Änderung korrekt und
+durch offizielle Unterlagen belegt ist. Bei Unsicherheiten empfiehlt sich die Rücksprache mit
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+9
+
+den betroffenen Personen, deren Sorgeberechtigten und/oder den Meldebehörden direkt.
+Eine unkritische Übernahme kann zu späteren Unstimmigkeiten führen – etwa bei Prüfungsdokumenten oder Zeugnissen.
+Gleichzeitig ist es für einen funktionierenden Datenaustausch zwischen Behörden und Systemen wichtig, mit übereinstimmenden Datenständen zu arbeiten.
+4.2.2 Adressänderungen
+Ändert sich die Straße, Hausnummer oder der Wohnort, liegt meist ein tatsächlicher Umzug
+oder eine nachträgliche Korrektur im Melderegister vor. Solche Änderungen sollten in der
+Regel übernommen werden, um die Stammdaten aktuell zu halten.
+Achtung
+Der Schulbezirk wird durch die Änderung nicht automatisch angepasst. Sollte
+die neue Adresse nicht mehr im Schulbezirk liegen, sind ggf. schulorganisatorische Konsequenzen zu prüfen (z. B. Zuständigkeit, Schulwechsel, Ausnahmeregelung).
+4.2.3 Falsche Zuordnung oder veraltete EMD-Daten
+In seltenen Fällen kann ein veralteter oder fehlerhafter EMD-Datensatz fälschlich einem
+LUSD-Datensatz zugeordnet worden sein. In solchen Fällen erscheint zwar ein Warndreieck (als Zeichen für eine – vermeintlich – erfolgreiche Zuordnung), jedoch beziehen sich
+die EMD-Daten unter Umständen auf eine andere Person.
+Empfehlung: Keine Übernahme durchführen. Im Zweifel sollte geprüft werden, ob es sich
+tatsächlich um dieselbe Person handelt. Die Anzeige kann später durch aktualisierte Lieferungen oder eine manuelle Korrektur verschwinden.
+
+HMKB | LUSD | Einwohnermeldedaten in der LUSD | Version: 1.0 | Letzter Stand: 08.08.2025
+
+10
+
+

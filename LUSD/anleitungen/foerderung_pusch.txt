@@ -1,0 +1,128 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Abbildung der Förderung Praxis und Schule
+(PUSCH)
+1
+
+Vorwort
+Die EU-Kommission hat im Rahmen der aktuellen Förderperiode 2021 - 2027 aus dem
+Europäischen Sozialfonds (ESF+) ein neues Programm des Hessischen Ministeriums für
+Kultus, Bildung und Chancen bewilligt.
+Das Förderprogramm „Praxis und Schule“ (PUSCH) ist zum 01.08.2022 gestartet und folgt
+auf das ESF-finanzierte Programm PuSch mit den beiden Programmteilen PuSch A an
+allgemeinbildenden Schulen und PUSCH B an beruflichen Schulen. PuSch B ist zum
+Schuljahresende 2021/2022 ausgelaufen.
+Bewährte Elemente des Programms PuSch werden im neuen Förderprogramm PUSCH,
+das nach wie vor an allgemein bildenden Schulen wirkt, übernommen und durch neue
+Elemente ergänzt. Ziel von PUSCH ist es, abschlussgefährdete, förderbedürftige
+Jugendliche durch gezielte sozialpädagogische und berufsorientierende Begleitung zum
+Hauptschulabschluss und anschließend möglichst in eine duale Ausbildung zu führen.
+
+2
+
+Schulform PUSA
+In der LUSD wird PUSCH als Schulform PUSA abgebildet.
+Sie steht Ihnen auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im Bereich
+OFFIZIELLE SCHULFORMEN zur Verfügung.
+
+2.1
+
+Schulform und Stufen/Semester zuweisen
+Wenn Sie die Schulform PUSA an Ihrer Schule benötigen, gehen Sie wie folgt vor:
+1. Verschieben Sie auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN die
+benötigte Schulform in den Bereich SCHULINTERNE SCHULFORMEN.
+2. Weisen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER der
+neuen Schulform die benötigten Stufen/Semester zu und wählen Sie für jede Stufe das
+dazugehörige Halbjahr aus.
+
+HMKB | LUSD | Abbildung der Förderung Praxis und Schule (PUSCH) | Version: 2.2 | 28.08.2024
+
+1
+
+2.2
+
+Fächer bearbeiten
+1. Stellen Sie sicher, dass sich auf der Webseite SCHULE > SCHULBASISDATEN > FÄCHER
+folgende Fächer im rechten Bereich SCHULBEZOGENE FÄCHER befinden:
+ Deutsch
+ Englisch
+ Mathematik
+ Sport
+ Religion / Ethik
+ Lernbereich Ästhetische Bildung
+ Lernbereich Naturwissenscahften
+ Lernbereich Gesellschaftslehre
+ Reflexion betrieblicher Praxis / Praxisobjekte
+ Berufsvorbereitung / Berufsorientierung
+
+2.3
+
+Stundentafel bearbeiten
+1. Bearbeiten Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL die
+Stundentafel der neuen Schulform derart, dass die unter 2.2 aufgeführten Fächer dort
+gelistet sind.
+
+2.4
+
+Lehrerstunden in der Praktikumsbetreuung abbilden
+Die Lehrerstunden in der Praktikumsbetreuung werden in der LUSD als Tutorien
+abgebildet.
+1. Legen Sie hierfür auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+einen Kurs mit dem Fach TUT, der Stundenzahl 0 und der Kursart P an.
+2. Ordnen Sie dem Kurs bei Bedarf eine weitere Lehrkraft oder Person zu (Webseite
+UNTERRICHT > LEHRER-KURSZUORDNUNG)
+3. Tragen Sie bei den Lehrkräften die tatsächliche wöchentliche Stundenzahl ein (Webseite
+UNTERRICHT > LEHRER-KURSZUORDNUNG).
+
+2.5
+
+Schüler aufnehmen und in PUSCH-Klassen setzen
+1. Nehmen Sie die betroffenen Schüler in die Schulform PUSA (Allgemeinbildende
+Schulen) auf (Webseite SCHÜLER > KANDIDATEN > AUFNEHMEN/EINSCHULEN).
+2. Bilden Sie die benötigten Klassen mit der entsprechenden Schulform PUSA
+(Allgemeinbildende Schulen) und ordnen Sie die Schüler einer solchen Klasse zu
+(Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG).
+
+Hinweis
+Für Schüler in Klassen der Schulform PUSA wird auf der Webseite SCHÜLER
+> SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN keine Förderung eingetragen!
+
+HMKB | LUSD | Abbildung der Förderung Praxis und Schule (PUSCH) | Version: 2.2 | 28.08.2024
+
+2
+
+2.6
+
+Schüler der Schulform PUSA an Berufliche Schule überweisen
+1. Überweisen Sie Schüler der Schulform PUSA für den externen Unterricht im
+Berufsbildenden Lernbereich an die entsprechende Berufliche Schule (Webseite
+SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG).
+Hinweis
+Die Berufliche Schule
+ weist die PUSA-Schüler in der jeweiligen Stufe der Schulform PUSA
+einem klassenübergreifenden Kurs mit dem Fach: BBU zu (UNTERRICHT >
+UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG).
+
+ trägt die Kursnote in der LUSD ein (UNTERRICHT > LEISTUNGSERFASSUNG >
+KURSE).
+
+Die Noten des Berufsbildenden Lernbereichs erscheinen im ersten
+Halbjahreszeugnis und im Abschluss- oder Abgangszeugnis.
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Abbildung der Förderung Praxis und Schule (PUSCH) | Version: 2.2 | 28.08.2024
+
+3
+
+

@@ -1,0 +1,400 @@
+Schaltflächen in der LUSD
+Schaltfläche
+
+Bedeutung
+Webseite
+Schließt eine Webseite oder ein Dialogfenster .
+Achtung!
+Wenn Sie den Abbruch bestätigen, gehen die
+eingegebenen Änderungen unwiderruflich
+verloren.
+Öffnet ein Dialogfenster zur Auswahl der zu
+druckenden Halbjahre im Abgangszeugnis
+(wichtig bei Wiederholungen)!
+
+Unterricht > Abschlüsse >
+FHR-Oberstufe
+
+Abmelden aus der LUSD.
+Öffnet ein Dialogfenster zur Eingabe der
+Daten.
+Ändert Daten eines vorhandenen historischen
+Abschlusses.
+Eingeben der Ergebnisse der Abschlussarbeit.
+
+Unterricht >
+Leistungserfassung >
+Hist. Leistungsdaten
+Unterricht > Abschlüsse >
+Mittlerer Abschluss
+
+Eingeben der Ergebnisse der Abschlussarbeit. Unterricht > Abschlüsse >
+Hauptschulabschluss
+
+Aktualisiert die geänderte Auswahl in der
+Tabelle Schülerauswahl.
+
+Unterricht > Zeugnisse >
+Zeugnisgenerierung
+
+Aktualisiert die Anzeige der Daten.
+Extras > Aufgabenliste
+Aktualisiert die Anzeige auf Basis der
+ausgewählten Filter.
+Entfernt die Häkchen in allen Kontrollkästchen.
+
+Klappt alle Ebenen auf.
+Setzt ein Häkchen in allen Kontrollkästchen.
+
+Prüft alle in der Auswahl sichtbaren oder alle
+markierten Schüler in einem Schritt.
+Übernimmt alle Daten aus Unterdialogen.
+Hinweis!
+Die Daten sind damit noch nicht gespeichert!
+Klappt alle Ebenen zu.
+
+Schaltflächen in der LUSD
+
+Stand: 01.08.2020
+
+Seite 1 von 6
+
+Schaltfläche
+
+Bedeutung
+Lässt alle gewählten Schüler zum Abitur zu.
+Nach dem Schließen des Dialogfensters
+Startet den automatischen Abgleich.
+
+Webseite
+Unterricht > Abschlüsse >
+Abitur
+
+Bearbeiten vorhandener Daten.
+Berechnet die Note der Abschlussprüfung,
+ohne dass das Dialogfenster geschlossen
+werden muss.
+
+Unterricht > Abschlüsse >
+Hauptschulabschluss, MA
+
+Erstellt den ausgewählten Bericht.
+Bestätigt die Autorisierung zur
+Kandidatenaufnahme
+Öffnet ein Explorerfenster, um eine Importdatei Unterricht > Export /
+Import > Stundenplan /
+auszuwählen.
+
+Littera oder ENC Import
+
+Erstellt eine Excel-Datei mit den gewählten
+Parametern. Die Datei wird zum Download
+bereit gestellt.
+
+Extras > Abfrageassistent
+
+Die Datei mit den exportierten Daten steht zum Unterricht > Export /
+Import > Stundenplan /
+Speichern und zur Bearbeitung mit dem
+Littera
+gewählten Programm zur Verfügung.
+Exportiert die Daten der getroffenen Auswahl
+in eine Notendatei.
+
+Unterricht > Export/Import
+> ENC Export
+
+Beendet ein bestehendes externes
+Schulverhältnis.
+
+Schüler >
+Kandidatenverfahren >
+Überweisung
+Unterricht > Abschlüsse >
+FHR-Oberstufe
+
+Wählt die angezeigte Variante als Basis für die
+Fachhochschulreife.
+Indikator, dass die angezeigte Variante als
+Basis für die Fachhochschulreife gewählt
+wurde.
+Filtert Datensätze nach den eingegebenen
+Filterkriterien.
+
+Unterricht > Abschlüsse >
+FHR-Oberstufe
+
+Führt die gewählte Aktion weiter aus.
+Gibt abgehende Schüler mit dem aktuellen
+Tagesdatum frei.
+Nimmt die Freigabe eines abgehenden
+Schülers zurück.
+
+Schaltflächen in der LUSD
+
+Stand: 01.08.2020
+
+Schüler >
+Kandidatenverfahren >
+Abgänger
+Schüler >
+Kandidatenverfahren >
+Abgänger
+
+Seite 2 von 6
+
+Schaltfläche
+
+Bedeutung
+Generiert ein Zeugnis.
+
+Webseite
+Unterricht > Zeugnisse >
+Zeugnis erstellen
+
+Übernimmt vorhandene Unstimmigkeiten beim Unterricht > Export/Import
+> ENC Import
+Importieren von Notendaten.
+Öffnet die Online-Hilfe.
+Fügt einen neuen Daten hinzu.
+Importiert die Daten der gewählten Datei.
+
+Unterricht > Export /
+Import > Stundenplan /
+Littera
+
+Wechselt mit den Daten der Panungsvariante
+auf die Seite Unterricht > Export / Import >
+Stundenplan / Littera.
+
+Schule > Assistenten >
+UV-Planung
+
+Übernimmt die importierten Daten.
+
+Verwirft die importierten Daten.
+Importiert die Daten der gewählten ENC-Datei. Unterricht > Export /
+Import > ENC Import
+
+Bestätigt die gewählte Aktion.
+Fügt ein neues Kandidatenverhältnis hinzu.
+
+Schüler > Kandidaten >
+Abgänger
+
+Wechselt auf die Seite Unterricht > UVBearbeitung > Klassenbildung
+
+Schule > Personal >
+Personal bearbeiten
+
+Entzieht einen qualifizierten
+Realschulabschluss und weist dafür einen
+Realschulabschluss zu.
+Wechselt auf die Seite Unterricht > UVBearbeitung > Kursbearbeitung.
+
+Unterricht > Abschlüsse >
+Mittlerer Abschluss
+
+Erstellt den pdf-Bericht "Kursliste mit
+schülerindividuellen Kurseigenschaften".
+
+Unterricht > UVBearbeitung > SchülerKurszuordnung
+Schüler >
+Kandidatenverfahren >
+Kandidaten bearbeiten
+Schüler >
+Kandidatenverfahren >
+Aufnehmen / Einschulen
+
+Beendet Kandidatenverfahren.
+Legt Kandidatenverfahren an.
+
+Generiert eine Exportdatei mit neuem
+Passwort.
+Löscht Termin.
+
+Schaltflächen in der LUSD
+
+Stand: 01.08.2020
+
+Schule > Personal >
+Personal bearbeiten
+
+Schule > Administration >
+Benutzer
+Dashbord > Kalender
+
+Seite 3 von 6
+
+Schaltfläche
+
+Bedeutung
+Löscht Datensätze.
+
+Webseite
+
+Verwirft die ausgewählte Aktion.
+Bestätigt und schließt die Meldung.
+Unterricht > Abschlüsse >
+Optimiert die Auswahl der Kursbelegung, um
+Abitur
+die höchste Punktzahl zu erzielen. Die
+Regelungen OAVO werden dabei eingehalten.
+
+Öffnet ein Dialogfenster zur weiteren Auswahl
+von Zuordnungen.
+Startet den Datei-Download mit den neu
+generierten Passwörtern.
+
+Unterricht > Export /
+Import > Stundenplan /
+Littera
+Unterricht > Export /
+Import > ENC Export
+
+Aktiviert inaktives Personal.
+
+Schule > Personal >
+Personal bearbeiten
+
+Fügt eine neue Person als Personal hinzu.
+
+Schule > Personal >
+Personal bearbeiten
+
+Inaktiviert aktives Personal.
+
+Schule > Personal >
+Personal bearbeiten
+
+Prüft die Daten für einen Schüler. Z.B. die
+Zuerkennung eines Abschlusses oder eine
+korrekte Kursbelegung.
+Schließt eine Webseite oder ein Dialogfenster.
+Achtung!
+Haben Sie Änderungen noch nicht gespeichert,
+erscheint eine Sicherheitsabfrage.
+Wenn Sie auf Verwerfen klicken, gehen die
+eingegebenen Änderungen unwiderruflich
+verloren.
+Sucht Schüler zum Aufnehmen / Einschulen.
+Ändert die Anzeige von Halbjahren /
+Semestern.
+Es erscheint ein Dialogfenster zur Auswahl der
+Daten.
+Speichert alle geänderten Daten der jeweiligen
+Webseite.
+Achtung!
+Bei längerer Inaktivität wird aus
+Sicherheitsgründen die Verbindung zur LUSD
+unterbrochen.
+Nicht gespeicherte Daten sind dann
+unwiderruflich verloren!
+
+Schaltflächen in der LUSD
+
+Stand: 01.08.2020
+
+Schüler >
+Kandidatenverfahren >
+Aufnehmen / Einschulen
+Unterricht >
+Leistungserfassung >
+Hist. Leistungsdaten
+
+Seite 4 von 6
+
+Schaltfläche
+
+Bedeutung
+Startet die Suche von Einrichtungen.
+
+Webseite
+
+Startet die Suche von Schülern oder Kursen.
+Generiert einen Testdruck mit maximal drei
+Zeugnissen.
+
+Unterricht > Zeugnisse >
+Zeugnisgenerierung
+
+Übernimmt geänderte oder ausgewählte Daten
+aus Unterdialogen.
+Hinweis!
+Die Daten sind damit noch nicht gespeichert!
+Schüler >
+Schülerbasisdaten >
+Eltern/Ansprechpartner
+Übernimmt die bearbeiteten Kurseigenschaften Unterricht > UVBearbeitung > Schülerdes Schülers.
+Kurszuordnung
+
+Übernimmt die Adressdaten und die
+Telefonnummer des Schülers.
+
+Prüft, ob alle Schülernoten eingegeben
+wurden.
+Verschiebt den markierten Eintrag in der
+Reihenfolge nach oben.
+
+Unterricht > Datenprüfung
+> Konferenzvorbereitung
+
+Verschiebt den markierten Eintrag in der
+Reihenfolge nach unten.
+Wechselt zur nächsten Unterseite einer
+Webseite.
+Die Ziel-Daten eines Kandidaten können
+hinzugefügt werden.
+Ändert den Status des Schülers in:
+Nicht zugelassen zur Qualifikationsphase.
+Ändert den Status des Schülers in:
+Zugelassen zur Qualifikationsphase mit
+Konferenzbeschluss.
+
+Unterricht > Datenprüfung
+> Zulassung
+Qualifikationsphase
+Unterricht > Datenprüfung
+> Zulassung
+Qualifikationsphase
+
+Wechselt zur vorherigen Unterseite der
+Webseite.
+
+Schaltflächen in der LUSD
+
+Löscht die Ergebnisse der Abschlussarbeit.
+
+Unterricht > Abschlüsse >
+Mittlerer Abschluss
+
+Löscht die Ergebnisse der Abschlussarbeit.
+
+Unterricht > Abschlüsse >
+Hauptschulabschluss
+
+Entfernt alle Markierungen in der Variante.
+
+Unterricht > Abschlüsse >
+FHR-Oberstufe
+
+Stand: 01.08.2020
+
+Seite 5 von 6
+
+Schaltfläche
+
+Schaltflächen in der LUSD
+
+Bedeutung
+Setzt Passwörter zurück.
+
+Stand: 01.08.2020
+
+Webseite
+Schule > Administration >
+Benutzer
+
+Seite 6 von 6
+
+

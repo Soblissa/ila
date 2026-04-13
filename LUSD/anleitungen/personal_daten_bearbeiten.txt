@@ -1,0 +1,238 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+Schnittstelle SAP-HCM LUSD
+
+Personaldaten gematchter Personen bearbeiten
+Inhalt und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt, was passiert, wenn Personaldaten von gematchten
+Personen durch das Staatliche Schulamt in SAP oder durch die Schulen in der LUSD geändert
+werden.
+Folgende Kenntnisse werden vorausgesetzt und sind daher in dieser Anleitung nicht weiter
+beschrieben:
+▪ Der Umgang mit der LUSD-Lehrersuche
+▪ Kenntnisse im Umgang mit dem Abspeichern und Ausdrucken von Dateien
+▪ Kenntnisse zum Matchen von Personal sowie zu den von der Schnittstelle betroffenen Feldern
+(siehe auch Anleitung Matchen von Personal)
+
+1
+
+Datenänderungen des Staatlichen Schulamts in SAP
+
+1.1
+
+Vorhandene Personaldaten werden geändert oder ergänzt
+Sobald das Staatliche Schulamt in SAP schnittstellenrelevante Personaldaten von
+gematchtem Personal ändert, werden diese Änderungen am nächsten Tag automatisch in
+die LUSD übernommen.
+Hinweis
+Sofern rote Einträge in der LUSD durch aktuelle SAP-Daten überschrieben
+werden, werden diese Einträge wieder schwarz.
+Die Schule wird über diese Personaldatenänderung durch folgenden Eintrag in
+der Aufgabenliste informiert (Webseite EXTRAS > AUFGABENLISTE - REGELGRUPPE
+PERSONAL):
+Für xxx wurden aus SAP geänderte Personaldaten geliefert und in die LUSD
+übernommen.
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+1
+
+Die Schule sieht die Änderungen zudem im Bericht EXTRAS > BERICHTE >
+STANDARDBERICHTE > PERSONAL > PERSONALBASISDATEN - PERSONA-ÄNDERUNGS-HISTORIE.
+Informationen zu diesem Bericht finden Sie in Kapitel 3.
+
+1.2
+
+Zuordnung einer Person zur Schule wird aufgehoben
+Sobald in SAP die Verbindung einer Person zu Ihrer Schule gelöst wird, wird diese
+Änderung am nächsten Tag automatisch in die LUSD übernommen.
+Damit erfolgt kein weiterer Datenaustausch mit SAP und in der LUSD bei dieser Person im
+Feld SAP-NUMMER kein Eintrag mehr vorhanden.
+Die Schule wird über diese Personaldatenänderung durch folgenden Eintrag in
+der Aufgabenliste informiert (Webseite EXTRAS > AUFGABENLISTE - REGELGRUPPE
+PERSONAL):
+Für xxx wurde die Kopplung der Personaldaten an SAP aufgehoben und die
+SAP-Personalnummer entfernt.
+Hinweis
+Gründe dafür, dass eine Person in SAP Ihrer Schule nicht mehr zugeordnet ist,
+können sein:
+▪ die Freistellungsphase der Altersteilzeit der Lehrkraft ist ausgelaufen.
+▪ die Abordnung der Lehrkraft ist beendet.
+▪ die Lehrkraft wurde versetzt.
+▪ die Lehrkraft ist nicht mehr beschäftigt.
+Die Schule sieht die Änderung zudem im Bericht EXTRAS > BERICHTE > STANDARDBERICHTE
+> PERSONAL > PERSONALBASISDATEN - PERSONAL-ÄNDERUNGS-HISTORIE.
+Informationen zu diesem Bericht finden Sie in Kapitel 3.
+
+2
+
+Datenänderungen der Schule in der LUSD
+Sobald Sie in der LUSD für gematchtes Personal schnittstellenrelevante Personaldaten
+ändern,
+▪ werden die geänderten Einträge in der LUSD ROT markiert (siehe 2.1).
+▪ werden Änderungsanträge erzeugt, die der zuständige Mitarbeiter im Staatlichen
+Schulamt in LUSDIK sieht und teilweise bearbeiten kann (siehe 2.2).
+Es erscheint folgende Meldung:
+Sie haben Daten eines SAP-Lehrers geändert. Bei der Speicherung wird der
+Sachbearbeiter des Staatlichen Schulamtes über die neuen Werte informiert.
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+2
+
+2.1
+
+So erkennen Sie Ihre Datenänderungen in der LUSD
+Ein Eintrag bleibt in der LUSD solange ROT, bis die beantragte Änderung durch das
+Staatliche Schulamt in SAP bearbeitet ist (siehe Punkt 1).
+
+Abb. 1 Webseite Personenbezogen: Beispiel für Datenänderungen in der Gruppe Person
+
+Abb. 2 Webseite Stundenbilanz: Beispiel für eine Datenänderung in der Gruppe Stundenbilanz
+
+2.2
+
+LUSD-Datenänderungen erzeugen in LUSDIK Änderungsanträge mit Anträgen
+
+2.2.1 Welcher Unterschied besteht zwischen einem Antrag und einem Änderungsantrag?
+Jede, für ein SAP-Personal, gespeicherte, schnittstellenrelevante LUSD-Änderung erzeugt
+in LUSDIK einen Antrag, den das Staatliche Schulamt sehen kann.
+Jeder Antrag ist einer Person UND einer der folgenden Gruppen zugeordnet:
+▪ Person
+▪ Einstellungsqualifikationen
+▪ Stundenbilanz
+▪ Stundenbilanz Details
+▪ Alle Anträge einer Person werden in einem Änderungsantrag zusammengefasst.
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+3
+
+Folgendes Beispiel soll diesen Sachverhalt erläutern:
+Die Berufliche Schule G (632100) hat für 2 Personen (Susan Baumgärtner sowie Polly
+Pluhar) Änderungen beantragt und damit 2 Änderungsanträge erzeugt.
+Der Änderungsantrag von beispielsweise Frau Polly Pluhar enthält einen Antrag zur
+Gruppe Person und zwei Anträge zur Gruppe AntragStundenbilanzenDetails:
+
+Abb. 3 LUDSIK: Beispiel für Änderungsanträge einer Schule in LUSDIK
+
+2.2.2 Was passiert mit den Anträgen?
+Alle Anträge einer Person werden in einem Änderungsantrag zusammengefasst und
+dabei in einer der folgenden Gruppen „gesammelt“: Person, Einstellungsqualifikationen,
+Stundenbilanz, StundenbilanzDetails.
+
+Ein Antrag ist erledigt, sobald …
+
+▪ das Schulamt den Antrag in
+LUSDIK ablehnt und
+▪ die Ablehnung über Nacht in
+
+Auswirkung in LUSD
+
+Der rote Eintrag in der LUSD wird über Nacht mit
+dem ursprünglichen Eintrag aus SAP überschrieben
+und wieder schwarz angezeigt.
+
+die LUSD übernommen wurde.
+▪ das Schulamt in SAP die
+Änderungen des Antrages
+übernommen hat und
+▪ die SAP-Änderung über Nacht
+
+in die LUSD übernommen
+wurde.
+
+Der neue Eintrag aus SAP wird SCHWARZ angezeigt.
+Auf der Webseite EXTRAS > AUFGABENLISTE in der
+Regelgruppe PERSONAL steht der
+Aufgabenlisteneintrag:
+Für xxx wurden aus SAP geänderte Personaldaten
+geliefert und in die LUSD übernommen.
+Die konkreten Änderungen sehen Sie im Bericht
+EXTRAS > BERICHTE > STANDARDBERICHTE >
+PERSONAL > PERSONALBASISDATEN - PERSONALÄNDERUNGS-HISTORIE.
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+4
+
+Informationen zu diesem Bericht finden Sie in Kapitel
+3.
+
+2.2.3 Warum bleiben Änderungen in der LUSD so lange ROT?
+Solange ein Eintrag in der LUSD ROT ist, wissen Sie, dass der Antrag beim Staatlichen
+Schulamt noch in Bearbeitung ist.
+Grund dafür kann sein, dass das staatliche Schulamt mit der Bearbeitung wartet, bis es
+entscheiden kann (u.U. fehlen z.B. noch Unterlagen).
+
+2.3
+
+Hinweise zu Änderungen im Register Stundenbilanz
+Welche Werte aus SAP in welchen LUSD-Bereich übernommen werden, sehen Sie in der
+Liste Übersicht Gründe Stundenbilanz.
+Diese Liste finden
+▪ Schulen hier: Kürzel in SAP
+▪ Schulämter im SAP-Handbuch.
+
+Abb. 4 Liste: Übersicht Gründe Stundenbilanz (Auszug) – Beispielseite ANRIS
+
+2.3.1 Änderungen bei Erhöhungen/Minderungen, Anrechnungen und Abordnungen
+Löschen von Erhöhungen/Minderungen, Anrechnungen und Abordnungen
+Sobald Sie bei einer gematchten Person einen Eintrag über die Schaltfläche
+entfernen, erscheint zwar die Meldung:
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+5
+
+Sie haben Daten eines SAP-Lehrers geändert. Bei der Speicherung wird der
+Sachbearbeiter des Staatlichen Schulamtes über die neuen Werte informiert.
+Der Eintrag verschwindet jedoch statt solange ROT stehen zu bleiben, bis das Schulamt
+Ihre Änderung bearbeitet hat.
+Hinweis
+Wir empfehlen folgendes Vorgehen:
+1. Bearbeiten Sie den Eintrag mit Hilfe
+
+.
+
+2. Geben Sie im Feld STUNDEN den Wert 0 ein.
+Diese Eingabe bleibt in der LUSD solange in Rot stehen, bis das Schulamt Ihre
+Änderung bearbeitet hat.
+
+Neuberechnung der Unterrichtswirksamen Stunden
+Wenn Sie in der LUSD Änderungen in den Bereichen Erhöhungen/ Minderungen,
+Anrechnungen/Freistellungen und/oder Abordnungen vornehmen, errechnet sich der Eintrag
+im Feld UNTERRICHTSWIRKSAME STD. nicht automatisch neu.
+Sobald das Schulamt Ihre beantragten Änderungen in SAP eingegeben hat, wird der dann
+neue Wert über die Schnittstelle in die LUSD übernommen.
+
+3
+
+Der Bericht Personal-Änderungs-Historie
+WEBSEITE EXTRAS > BERICHTE >PERSONAL >PERSONALBASISDATEN
+Der Bericht PERSONAL-ÄNDERUNGS-HISTORIE …
+▪ dokumentiert alle vorgenommenen Datenänderungen der Gruppen Person,
+Stundenbilanz und StundenbilanzDetails.
+▪ wird als Excel-Datei ausgegeben. Dabei wird für jede Lehrkraft ein Tabellenblatt
+erzeugt.
+
+Abb. 5 Bericht Personal-Änderungs-Historie: Ansicht der Datenblätter
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+6
+
+Abb. 6 Beispielbericht Personal-Änderungs-Historie
+
+▪ Innerhalb jeder Gruppe wird absteigend nach dem Datum geändert am sortiert. Der
+aktuelle Datenstand steht immer an erster Stelle.
+▪ In den ersten beiden Feldern geändert durch und geändert am wird dokumentiert, wann
+und von wem der Datensatz geändert wurde.
+▪ Das Änd. Datum nach den einzelnen Feldern dokumentiert das Datum, an dem einzelne
+Datenfelder des Datensatzes geändert wurden.
+
+HMKB | Schnittstelle SAP-HCM LUSD | Personaldaten gematchter Personen bearbeiten | Version: 4.5 | 08.07.2025
+
+7
+
+

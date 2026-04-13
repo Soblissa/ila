@@ -1,0 +1,1116 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Deutschfördermaßnahme
+Vorlaufkurs (VLK)
+Abbildung von Vorlaufkursen in der LUSD
+
+Version: 4.6
+Letzter Stand: 10.12.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 6
+
+Deutschfördermaßnahme Vorlaufkurs in der LUSD abbilden
+1
+
+2
+
+3
+
+7
+
+Ihre Schule bietet die Deutschfördermaßnahme Vorlaufkurs an ............................................ 7
+1.1
+
+Schulbasisdaten für Vorlaufkurs (VLK) vorbereiten ...................................................... 7
+
+1.2
+
+Klassen und Kurse für die Deutschfördermaßnahme Vorlaufkurs einrichten ................ 9
+
+1.3
+
+Verpflichtung zum Besuch des Vorlaufkurses eintragen (inkl. der Einrichtung) .......... 15
+
+1.4
+
+Seiteneinsteiger in Vorlaufkursen ............................................................................... 17
+
+1.5
+
+Zieldaten für die Kinder des Vorlaufkurses eintragen ................................................. 17
+
+1.6
+
+Daten der Kinder nach Beendigung des Vorlaufkurses pflegen .................................. 19
+
+Kinder Ihrer Schule besuchen den Vorlaufkurs an einer anderen Schule ............................ 22
+2.1
+
+Verpflichtung zum Besuch des Vorlaufkurses eintragen (inkl. der Einrichtung) .......... 22
+
+2.2
+
+Seiteneinsteiger in Vorlaufkursen ............................................................................... 23
+
+2.3
+
+Kind an die Schule mit Vorlaufkurs abgeben .............................................................. 24
+
+2.4
+
+Kinder kommen nach Beendigung des Vorlaufkurses an Ihre Schule......................... 25
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers ................................... 27
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulformen: Schulform VLK als schulbezogene Schulform hinzufügen
+
+7
+
+Abb. 2 Webseite Stufen/Semester: Schulform VLK mit Stufen/Semestern und Halbjahren anlegen7
+Abb. 3 Webseite Stundentafel: Eintrag zum Fach DAZ in der Stundentafel für die Schulform
+Vorlaufkurs
+
+8
+
+Abb. 4 Webseite Stundentafel: Stundentafel für die Schulform Vorlaufkurs
+
+8
+
+Abb. 5 Webseite Klassenbildung: Klasse/n für die Schulform VLK hinzufügen
+
+9
+
+Abb. 6 Webseite Stundentafel – Kennzeichnung eines Faches als Klassenkurs
+
+9
+
+Abb. 7 Webseite Klassenbildung: Eintragen des Ortes, an dem der VLK stattfindet
+
+10
+
+Abb. 8 Bericht Klasse mit Klasseninformationen
+
+10
+
+Abb. 9 Webseite Klassenbildung: Schüler werden der Klasse/n hinzugefügt
+
+11
+
+Abb. 10 Webseite Kursbearbeitung: DAZ-Kurse für die Schulform VLK anlegen
+
+11
+
+Abb. 11 Webseite Schüler-Kurs-Zuordnung
+
+12
+
+Abb. 12 Webseite Kursbearbeitung: DAZ-Kurs für die Schulform VLK anlegen
+
+12
+
+Abb. 13 Auswahl mehrerer Lehrkräfte für einen Kurs
+
+13
+
+Abb. 14 Bearbeitungsfenster Lehrkräfte im Kurs
+
+13
+
+Abb. 15 Bearbeitungsfenster Lehrkräfte im Kurs: Angepasste Stunden der Lehrkräfte
+
+13
+
+Abb. 16 Webseite UV-Einsatz
+
+14
+
+Abb. 17 Webseite Schüler-Kurs-Zuordnung
+
+14
+
+Abb. 18 Webseite Schulfähigkeit: Verpflichtung zum Besuch eines Vorlaufkurses eintragen
+
+15
+
+Abb. 19 Webseite Schulfähigkeit: Einrichtung des Vorlaufkurses angeben
+
+16
+
+Abb. 20 Webseite Schülerstammdaten: Auswahl des Jahres, in dem der Zuzug nach
+Deutschland erfolgt ist
+
+17
+
+Abb. 21 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform VLK und Zielstufe 00/1
+eintragen
+
+18
+
+Abb. 22 Webseite Statusverwaltung: Interner Schulformübergang
+
+18
+
+Abb. 23 Webseite Statusverwaltung: Informationen zum Übergang
+
+18
+
+Abb. 25 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+19
+
+Abb. 26 Webseite Abgänger: Auswahl der Abgänger, Eintragen des Freigabedatums
+
+20
+
+Abb. 27 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+21
+
+Abb. 28 Webseite Statusverwaltung: Schüler ehemalig setzen
+
+21
+
+Abb. 29 Webseite Schulfähigkeit: Verpflichtung zum Besuch eines Vorlaufkurses eintragen
+
+22
+
+Abb. 30 Webseite Schulfähigkeit: Einrichtung des Vorlaufkurses auswählen
+
+23
+
+Abb. 31 Webseite Schülerstammdaten: Auswahl des Jahres, in d. d. Zuzug nach Deutschland
+erfolgt ist
+24
+Abb. 32 Webseite Abgänger: Auswahl der Abgänger, Eintragen des Freigabedatums
+
+25
+
+Abb. 33 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+25
+
+Abb. 34 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1
+eintragen.
+
+26
+
+Abb. 35 Webseite Statusverwaltung: Schüler aktiv setzen
+
+26
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Kinder, bei denen bei der Schulanmeldung im Rahmen des Schulaufnahmeverfahrens festgestellt
+wird, dass sie nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen, sind verpflichtet, in dem Schuljahr, das dem Beginn der Schulpflicht
+vorausgeht, einen Vorlaufkurs, d.h. einen schulischen Deutschkurs zur Vorbereitung auf den
+Schulanfang, zu besuchen.
+Dies gilt gemäß erfolgter Gesetzesänderung erstmals für alle Kinder, die im Frühjahr 2021 zur
+Schule angemeldet werden, da sie zum Schuljahr 2022/23 schulpflichtig werden. Somit finden die
+ersten verpflichtenden Vorlaufkurse ab dem Schuljahr 2021/2022 statt. Je nach Bedarf
+können Vorlaufkurse für einzelne Schulen oder auch schulübergreifend eingerichtet werden.
+Vorlaufkurse stehen in schulischer Verantwortung, können aber auch an anderen Orten, z. B. in
+Kindertagesstätten durchgeführt werden. Dabei werden die Daten in der LUSD in Verantwortung
+der zuständigen Schule gepflegt.
+Vorlaufkurse beginnen zwölf Monate – also ein Schuljahr – vor der eigentlichen Einschulung.
+Das vorliegende Dokument beschreibt, welche Daten von Ihnen im Rahmen der
+Deutschfördermaßnahme Vorlaufkurs (VLK) in der LUSD zu pflegen sind.
+Bei der Datenpflege sind folgende Varianten zu unterscheiden:
+▪ Der Vorlaufkurs (VLK) wird von Ihrer Schule angeboten (siehe Kapitel 1).
+▪ An Ihrer Schule angemeldete Kinder besuchen den Vorlaufkurs an einer anderen Schule. Die
+Kinder müssen dafür an die andere Schule abgegeben werden (siehe Kapitel 2).
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die in der LUSD Schüler in Vorlaufkurse aufnehmen
+und bearbeiten möchten.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit…
+▪
+▪
+▪
+▪
+
+der Schüleraufnahme und der Kursbearbeitung.
+der Schüler-, Kurs- und Klassensuche.
+dem internen Schulformwechsel und der Statusverwaltung.
+der Erstellung von Berichten (z. B. Kurslisten).
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+5
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+6
+
+Deutschfördermaßnahme Vorlaufkurs in der LUSD abbilden
+Je nachdem, ob Sie die Deutschfördermaßnahme Vorlaufkurs an Ihrer Schule anbieten, oder ob
+bei Ihnen angemeldete Kinder einen Vorlaufkurs an einer anderen Schule besuchen, müssen Sie
+in der LUSD unterschiedliche Daten pflegen.
+Bei der Datenpflege wird unterschieden zwischen…
+▪ Schulen mit eigenem Vorlaufkurs (siehe Kapitel 1).
+▪ Schulen ohne eigenen Vorlaufkurs (siehe Kapitel 2).
+
+1
+
+Ihre Schule bietet die Deutschfördermaßnahme Vorlaufkurs an
+
+1.1
+
+Schulbasisdaten für Vorlaufkurs (VLK) vorbereiten
+Hinweis
+Aus technischen Gründen wird die Deutschfördermaßnahme Vorlaufkurs
+(VLK) in der LUSD als Schulform abgebildet.
+Um in der LUSD die Deutschfördermaßnahme Vorlaufkurs abbilden zu können, müssen Sie
+zunächst die nachfolgend beschriebenen Voraussetzungen erfüllen.
+1. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im Bereich
+SCHULBEZOGENEN SCHULFORMEN, ob die Schulform Vorlaufkurs (VLK) vorhanden ist.
+Wenn nicht, fügen Sie diese hinzu.
+
+Abb. 1 Webseite Schulformen: Schulform VLK als schulbezogene Schulform hinzufügen
+
+2. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER, ob für
+die Schulform VLK die entsprechenden Häkchen für die Stufen und Halbjahre gesetzt
+sind. Passen Sie die Häkchen bei Bedarf an.
+
+Abb. 2 Webseite Stufen/Semester: Schulform VLK mit Stufen/Semestern und Halbjahren anlegen
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+7
+
+3. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL die Einträge
+für die Schulform VLK für beide Halbjahre.
+
+Abb. 3 Webseite Stundentafel: Eintrag zum Fach DAZ in der Stundentafel für die Schulform
+Vorlaufkurs
+
+Feld
+
+Eintrag
+
+Kursart
+
+P
+
+Fach*
+
+DAZ – Deutsch als Zweitsprache
+
+Klassenkurs Angehakt
+Std/HJ*
+
+Tragen Sie hier die Stunden pro Halbjahr ein.
+Grundlage hierfür ist die Stundenzahl in der Zuweisung Ihrer Schule.
+
+Wo/HJ*
+
+Die hier angezeigten Stunden werden automatisch auf Basis des Eintrag
+im Feld Std/HJ* errechnet.
+
+Abb. 4 Webseite Stundentafel: Stundentafel für die Schulform Vorlaufkurs
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+8
+
+1.2
+
+Klassen und Kurse für die Deutschfördermaßnahme Vorlaufkurs einrichten
+Wie Sie Klassen und Kurse zu VLK einrichten:
+▪ Für das aktuelle Halbjahr sind die nötigen Schritte in den nachfolgenden Kapiteln 1.2.1
+bis 1.2.4 beschrieben.
+▪ Für das kommende Halbjahr gehen Sie auf die Webseite SCHULE > ASSISTENTEN >
+UV-PLANUNG und wählen dort in die gewünschte UV-Planungsvariante aus. Dort führen
+Sie die nötigen Schritte analog zu der Beschreibung in den Kapitel 1.2.1 bis 1.2.4 durch.
+
+1.2.1 Klassen für die Schulform VLK einrichten
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+benötigte Anzahl Klassen für die Schulform VLK an.
+
+Abb. 5 Webseite Klassenbildung: Klasse/n für die Schulform VLK hinzufügen
+
+Hinweis
+Es empfiehlt sich, für alle Kinder, die gemeinsam einen Vorlaufkurs
+besuchen, jeweils eine eigene Klasse anzulegen.
+Fachlicher Hintergrund
+
+Abb. 6 Webseite Stundentafel – Kennzeichnung eines Faches als Klassenkurs
+
+▪ Durch die Kennzeichnung eines Faches in der Stundentafel als
+Klassenkurs wird bei Anlage einer Klasse automatisch ein Klassenkurs
+erzeugt.
+▪ Bei der Zuordnung zur Klasse werden alle Schüler automatisch diesem
+Klassenkurs zugeordnet.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+9
+
+1.2.2 Eintragen der Einrichtung, in der ihr VLK stattfindet
+1. Um die Einrichtung in der LUSD abzubilden, an dem der VLK Ihrer Schule stattfindet,
+nutzen Sie bitte das Feld RAUM im Dialogfenster KLASSE HINZUFÜGEN (Abb. 7).
+
+Abb. 7 Webseite Klassenbildung: Eintragen des Ortes, an dem der VLK stattfindet
+
+Der VLK …
+… findet in Ihrer Schule statt
+
+Wählen Sie im Feld Raum den Eintrag Schule
+VLK-Vorlaufkurs aus.
+
+… findet in einer KiTa statt.
+
+Wählen Sie im Feld Raum den Eintrag KiTa
+VLK-Vorlaufkurs aus.
+
+… findet teilweise in Ihrer Schule
+und teilweise in einer KiTa statt.
+
+Wählen Sie im Feld Raum den Eintrag aus,
+der überwiegend zutrifft.
+
+Im Bericht KLASSEN MIT KLASSENINFORMATIONEN können Sie folgende Informationen sehen:
+
+Abb. 8 Bericht Klasse mit Klasseninformationen
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+10
+
+1.2.3 Kinder einer VLK-Klasse zuweisen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+Kinder der gewünschten Klasse zu.
+Hinweis
+Weisen Sie alle Kinder, die gemeinsam einen Vorlaufkurs besuchen, der
+gleichen Klasse zu!
+
+Abb. 9 Webseite Klassenbildung: Schüler werden der Klasse/n hinzugefügt
+
+1.2.4 Kurse für die Schulform VLK einrichten
+1. Legen Sie ggf. auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+die benötigten DAZ-Kurse für die Deutschfördermaßnahme Vorlaufkurs an.
+Hinweis
+▪ Auch hier gilt: Für alle Kinder, die gemeinsam einen Vorlaufkurs besuchen,
+wird (nur) ein Kurs angelegt.
+▪ Wenn Sie für das Fach DAZ in der Stundentafel der Schulform VLK einen
+Haken bei Klassenkurs gesetzt haben, wurde für jede Klasse bereits
+automatisch ein Kurs erzeugt (siehe Hinweis unter 1.2.1).
+
+Abb. 10 Webseite Kursbearbeitung: DAZ-Kurse für die Schulform VLK anlegen
+
+2. Weisen Sie ggf. auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Schüler den Kursen der Schulform VLK zu.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+11
+
+Abb. 11 Webseite Schüler-Kurs-Zuordnung
+
+Hinweis
+▪ Wenn Sie für das Fach DAZ in der Stundentafel der Schulform VLK einen
+Haken bei Klassenkurs gesetzt haben, wurden alle Kinder der Klasse
+bereits automatisch dem Klassenkurs zugeordnet (siehe Hinweis unter
+1.2.1).
+▪ Sobald die Kinder am Unterricht im Vorlaufkurs teilnehmen, aktivieren Sie
+die Schüler auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+Mehrere Lehrkräfte unterrichten in einem Vorlaufkurs
+Hinweis
+Es kommt häufiger vor, dass mehrere Lehrkräfte die gleiche Gruppe von
+Kindern an z. B. unterschiedlichen Tagen im Rahmen eines Vorlaufkurses
+unterrichten. Auch in diesem Fall wird nur ein Kurs angelegt. Diesem Kurs
+werden anschließend mehrere Lehrkräfte zugeordnet.
+1. Wählen Sie beim betroffenen Kurs im Feld LEHRER die Klassenlehrkraft aus.
+2. Tragen Sie im Feld STUNDENANZAHL die Gesamtstunden des Kurses ein.
+
+Abb. 12 Webseite Kursbearbeitung: DAZ-Kurs für die Schulform VLK anlegen
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+12
+
+3. Navigieren Sie zu UNTERRICHT > UV-BEARBEITUNG > LEHRKRÄFTE-KURS-ZUORDNUNG.
+4. Markieren Sie alle Lehrkräfte, die dem Kurs zugeordnet werden sollen und markieren
+Sie den betroffenen Kurs.
+5. Ordnen Sie alle Lehrkräfte dem Kurs zu, indem Sie auf den roten Pfeil klicken.
+
+Abb. 13 Auswahl mehrerer Lehrkräfte für einen Kurs
+
+6. Klicken Sie auf die Schaltfläche SPEICHERN.
+7. Klicken Sie in der Zeile des betroffenen Kurses auf den Eintrag in der Spalte ANZ.L..
+Hierdurch öffnet sich das Bearbeitungsfenster LEHRKRÄFTE IM KURS.
+
+Abb. 14 Bearbeitungsfenster Lehrkräfte im Kurs
+
+8. Passen Sie in der Spalte STD. die Stunden der Lehrkräfte an. Sie können auch mehrere
+Lehrer als HL (Hauptlehrer) kennzeichnen.
+
+Abb. 15 Bearbeitungsfenster Lehrkräfte im Kurs: Angepasste Stunden der Lehrkräfte
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+13
+
+9. Übernehmen und speichern Sie Ihre Änderungen.
+10. Weisen Sie ggf. auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Schüler dem Kurs zu.
+Beachten Sie hierbei die Hinweise unter Kapitel 1.2.4 Schritt 2.
+▪ Auf der Seite PERSONAL > PERSONALBASISDATEN > UV-EINSATZ wird jetzt bei allen
+betroffenen Lehrkräften der zuvor angelegte Kurs mit den zutreffenden Kurs- und
+individuellen Lehrerstunden angezeigt.
+
+Abb. 16 Webseite UV-Einsatz
+
+▪ Auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURS-ZUORDNUNG wird für
+alle Schüler die richtige Stundenanzahl angezeigt.
+
+Abb. 17 Webseite Schüler-Kurs-Zuordnung
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+14
+
+1.3
+
+Verpflichtung zum Besuch des Vorlaufkurses eintragen (inkl. der Einrichtung)
+Bei der Schulanmeldung des Kindes wird unter anderem festgestellt, ob es aufgrund nicht
+ausreichender Deutschkenntnisse einen Vorlaufkurs besuchen muss.
+Diese Verpflichtung tragen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULFÄHIGKEIT ein.
+Das Kind, das den Vorlaufkurs an Ihrer
+
+Dann müssen Sie…
+
+Schule besucht, wurde…
+
+… von Ihnen in die LUSD aufgenommen.
+
+… die nachfolgend genannten Schritte
+durchführen.
+
+… von einer anderen Schule in die LUSD
+aufgenommen und als Kandidat an Sie
+abgegeben.
+
+… die Eintragungen der abgebenden
+Schule anhand der nachfolgenden
+genannten Schritte kontrollieren und
+gegebenenfalls abändern.
+
+1.3.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+.
+Es öffnet sich das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT
+BEARBEITEN.
+3. Wählen Sie im Feld SPRACHKENNTNISSE den Eintrag Vorlaufkurs (VLK).
+
+Abb. 18 Webseite Schulfähigkeit: Verpflichtung zum Besuch eines Vorlaufkurses eintragen
+
+4. Klicken Sie auf
+
+und
+
+.
+
+Hinweis
+Ein Schüler wird im Register VORLAUFKURS (VLK) nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SPRACHKENNTNISSE
+den Eintrag Vorlaufkurs (VLK) aufweist.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+15
+
+1.3.2 Register Vorlaufkurs (VLK)
+1. Öffnen Sie das Register VORLAUFKURS (VLK). Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+Es öffnet sich das Bearbeitungsfenster Vorlaufkurs bearbeiten.
+
+.
+
+3. Wählen Sie in den Feldern EINRICHTUNG und NAME DER EINRICHTUNG aus, in welcher
+Einrichtung das Kind den Vorlaufkurs besuchen wird.
+
+Abb. 19 Webseite Schulfähigkeit: Einrichtung des Vorlaufkurses angeben
+
+Voraussetzung
+
+Vorgehen
+
+Der VLK….
+1. Wählen Sie im Feld EINRICHTUNG den Eintrag
+Schule aus.
+
+… findet in Ihrer Schule statt.
+
+2. Wählen Sie im Feld NAME DER EINRICHTUNG
+Ihre Schule aus.
+1. Wählen Sie im Feld EINRICHTUNG den Eintrag
+Kindergarten aus.
+2. Wählen Sie im Feld NAME der Einrichtung die
+entsprechende KiTa aus.
+
+… findet in einer KiTa statt.
+
+In der Auswahlliste NAME DER EINRICHTUNG
+erscheinen die Kindergärten, die Sie auf der
+Webseite SCHULE > SCHULUMFELD >
+KINDERGÄRTEN/HORTE eingepflegt haben.
+Wählen Sie im Feld EINRICHTUNG und im Feld
+NAME DER EINRICHTUNG die Einrichtung aus, die
+und teilweise in einer KiTa statt. überwiegend zutrifft.
+
+… findet teilweise in Ihrer Schule
+
+4. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+16
+
+1.4
+
+Seiteneinsteiger in Vorlaufkursen
+Seiteneinsteiger in Vorlaufkursen sind nichtschulpflichtige Kinder mit keinen oder nur
+geringen Deutschkenntnissen, die innerhalb der letzten drei Jahre aus dem Ausland
+nach Deutschland zugezogen sind und in das deutsche Schulsystem integriert werden
+müssen.
+Seiteneinsteiger in Vorlaufkursen werden in der LUSD wie alle anderen Kinder der
+Schulform VLK abgebildet. D. h. sie werden
+▪ der Schulform VLK (nicht der Schulform NDHS/PS!)
+▪ den Klassen und DAZ-Kursen der Schulform VLK
+zugeordnet.
+Bitte pflegen Sie bei diesen Kindern zusätzlich immer auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN das Feld ZUZUG NACH DEUTSCHLAND.
+Hinweis
+Ohne einen Eintrag im Feld ZUZUG NACH DEUTSCHLAND können die Kinder
+nicht als Seiteneinsteiger statistisch erfasst werden!
+
+Abb. 20 Webseite Schülerstammdaten: Auswahl des Jahres, in dem der Zuzug nach Deutschland erfolgt
+ist
+
+1.5
+
+Zieldaten für die Kinder des Vorlaufkurses eintragen
+Sobald feststeht, welche Kinder bei Ihnen einen Vorlaufkurs besuchen werden, pflegen Sie
+die Zieldaten dieser Kinder auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN. Das gilt sowohl für die Kinder Ihrer Schule als auch für die
+Kinder, die von anderen Schulen als Kandidaten an Ihre Schule abgegeben wurden.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+17
+
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor den Schülern, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das gewünschte Zielhalbjahr sowie
+die Zielschulform VLK und die Zielstufe 00/1 aus (Abb. 21).
+1.5.1 Kinder mit Kandidatenstatus ANGENOMMEN
+Sofern für ein Kind mit Kandidatenstatus ANGENOMMEN als Zielschulform GFLX, E oder VG
+eingetragen ist, ändern Sie die Zielschulform auf VLK und die Zielstufe auf 00/1.
+
+Abb. 21 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform VLK und Zielstufe 00/1 eintragen
+
+1.5.2 Kinder mit Schülerstatus AKTIV
+Sollte ein Kind bereits für die Schulform G, GFLX, E oder VG aktiv gesetzt sein, ändern Sie
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register
+INTERNER SCHULFORMÜBERGANG die Zielschulform auf VLK und die Zielstufe auf 00/1.
+
+Abb. 22 Webseite Statusverwaltung: Interner Schulformübergang
+
+Abb. 23 Webseite Statusverwaltung: Informationen zum Übergang
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+18
+
+1.6
+
+Daten der Kinder nach Beendigung des Vorlaufkurses pflegen
+Je nachdem, ob die Schüler weiter an Ihrer Schule unterrichtet werden oder ob sie an eine
+andere Schule wechseln, sind unterschiedliche Arbeitsschritte in der LUSD nötig.
+
+1.6.1 Kind bleibt nach Besuch des Vorlaufkurses an Ihrer Schule
+Datenpflege im 2. Schulhalbjahr des Vorlaufkurses:
+Um eine korrekte UV-Planung erstellen zu können, sollten Sie im zweiten Schulhalbjahr
+des Vorlaufkurses für die Kinder, die an Ihrer Schule bleiben, den jeweils passenden
+internen Schulformübergang eintragen.
+Die Kinder des Vorlaufkurses werden dann in der UV-Planung gemeinsam mit den
+aktuellen Kandidaten der entsprechenden Schulform und Stufe (z. B. 01/1) berücksichtigt.
+Nach Beendigung des Vorlaufkurses muss ein Kind von der Schulform Vorlaufkurs (VLK) in
+eine der folgenden Schulformen wechseln:
+▪
+▪
+▪
+▪
+
+Grundschule (G)
+Grundschule – flexibler Schulanfang (GFLX)
+Eingangsstufe (E)
+Vorklasse (VG)
+
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+die gewünschten Kinder über
+aus.
+2. Klicken Sie auf das Register INTERNER SCHULFORMÜBERGANG.
+
+3. Markieren Sie die Kinder und klicken Sie auf
+
+.
+
+Abb. 24 Webseite Statusverwaltung: Interner Schulformübergang
+
+4. Wählen Sie im Dialogfenster INFORMATIONEN ZUM ÜBERGANG die gewünschten Einträge
+in den Feldern HALBJAHR, WUNSCHSCHULFORM und WUNSCHSTUFE aus.
+
+Abb. 25 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+19
+
+Hinweis
+Sobald die Schüler am Unterricht teilnehmen, aktivieren Sie die Schüler an
+Ihrer Schule.
+1.6.2 Kind wechselt an eine andere hessische Schule
+Datenpflege im 2. Schulhalbjahr des Vorlaufkurses:
+Wechselt ein Kind, das an Ihrer Schule am Vorlaufkurs teilgenommen hat, an eine andere
+hessische Schule, sollten Sie es im zweiten Schulhalbjahr des Vorlaufkurses in der
+LUSD als Abgänger an die andere Schule eintragen.
+Das ermöglicht der anderen Schule, eine korrekte UV-Planung erstellen zu können, da sie
+das Kind als Kandidat mit der entsprechenden Wunsch-Schulform und Wunsch-Stufe (z. B.
+01/1) sieht und entsprechend in ihrer UV-Planung berücksichtigen kann.
+1. Wählen Sie im zweiten Schulhalbjahr des Vorlaufkurses auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > ABGÄNGER das entsprechende Kind aus.
+2. Tragen Sie als Freigabedatum den 31.07. des laufenden Schuljahres ein.
+
+Abb. 26 Webseite Abgänger: Auswahl der Abgänger, Eintragen des Freigabedatums
+
+3. Klicken Sie unter W-SCHULE auf die Schaltfläche
+
+.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+20
+
+Abb. 27 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+4. Klicken Sie auf
+
+und
+
+.
+
+1.6.3 Kind wechselt an eine Schule außerhalb Hessens / an eine Privatschule ohne LUSD
+Wechselt ein Kind, das an Ihrer Schule am Vorlaufkurs teilgenommen hat, an eine Schule
+außerhalb Hessens oder an eine Privatschule in Hessen, die keine LUSD verwendet,
+müssen Sie dieses Kind in der LUSD zum Ende des Schuljahres auf den Schülerstatus
+ehemalig setzen.
+1. Wechseln Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG in das Register SCHÜLER.
+2. Klicken Sie auf den Optionsschalter FREIGEBEN.
+3. Wählen Sie im Feld SF/BK den Eintrag VLK und im Feld ST/SEM den Eintrag 00/2 aus
+4. Klicken Sie auf
+
+.
+
+5. Setzen Sie in der Ergebnisliste ein Häkchen vor den entsprechenden Kindern.
+6. Tragen Sie im Feld Freigabedatum den 31.07. des aktuellen Schuljahres ein.
+7. Klicken Sie auf
+8. Klicken Sie auf
+
+.
+.
+
+Abb. 28 Webseite Statusverwaltung: Schüler ehemalig setzen
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+21
+
+2
+
+Kinder Ihrer Schule besuchen den Vorlaufkurs an einer anderen Schule
+
+2.1
+
+Verpflichtung zum Besuch des Vorlaufkurses eintragen (inkl. der Einrichtung)
+Bei der Schulanmeldung des Kindes wird unter anderem festgestellt, ob es aufgrund nicht
+ausreichender Deutschkenntnisse einen Vorlaufkurs besuchen muss.
+Sobald Sie ein Kind in die LUSD aufgenommen haben, müssen Sie für dieses Kind auf der
+Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT die Verpflichtung zum Besuch
+eines Vorlaufkurses eintragen.
+
+2.1.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+.
+Es öffnet sich das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT
+BEARBEITEN.
+3. Wählen Sie im Feld SPRACHKENNTNISSE den Eintrag Vorlaufkurs (VLK).
+
+Abb. 29 Webseite Schulfähigkeit: Verpflichtung zum Besuch eines Vorlaufkurses eintragen
+
+4. Klicken Sie auf
+
+und
+
+.
+
+2.1.2 Register Vorlaufkurs
+1. Klicken Sie auf das Register VORLAUFKURS. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+das Bearbeitungsfenster VORLAUFKURS BEARBEITEN.
+
+. Es öffnet sich
+
+3. Wählen Sie in den Feldern EINRICHTUNG und NAME DER EINRICHTUNG aus, in welcher
+Einrichtung das Kind den Vorlaufkurs besuchen wird.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+22
+
+Abb. 30 Webseite Schulfähigkeit: Einrichtung des Vorlaufkurses auswählen
+
+4. Klicken Sie auf
+
+und
+
+.
+
+Hinweis
+Welche Schule können Sie auswählen?
+In der Auswahlliste SCHULE erscheinen die Schulen, die Sie auf der Webseite
+SCHULE>SCHULUMFELD>SCHULEN eingepflegt haben.
+
+2.2
+
+Seiteneinsteiger in Vorlaufkursen
+Seiteneinsteiger in Vorlaufkursen sind nichtschulpflichtige Kinder mit keinen oder nur
+geringen Deutschkenntnissen, die innerhalb der letzten drei Jahre aus dem Ausland
+nach Deutschland zugezogen sind und in das deutsche Schulsystem integriert werden
+müssen.
+Seiteneinsteiger in Vorlaufkursen werden in der LUSD wie alle anderen Kinder der
+Schulform VLK abgebildet. D.h. sie werden
+▪ der Schulform VLK (nicht der Schulform NDHS/PS!)
+▪ den Klassen und DAZ-Kursen der Schulform VLK
+zugeordnet.
+Bitte pflegen Sie bei diesen Kindern zusätzlich immer auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN das Feld ZUZUG NACH DEUTSCHLAND.
+Achtung
+Ohne einen Eintrag im Feld ZUZUG NACH DEUTSCHLAND können die Kinder
+nicht als Seiteneinsteiger statistisch erfasst werden
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+23
+
+Abb. 31 Webseite Schülerstammdaten: Auswahl des Jahres, in d. d. Zuzug nach Deutschland erfolgt ist
+
+2.3
+
+Kind an die Schule mit Vorlaufkurs abgeben
+Wenn Ihre Schule keinen Vorlaufkurs anbietet, müssen Sie die betroffenen Kinder im
+Kandidatenverfahren an die Schule abgeben, an dem sie den Vorlaufkurs besuchen
+werden.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER das
+entsprechende Kind über das Feld NACHNAME/EINZELBEARBEITUNG aus.
+2. Tragen Sie als Freigabedatum den 31.07. des laufenden Schuljahres ein.
+3. Klicken Sie unter W-Schule auf die Schaltfläche
+
+.
+
+4. Wählen Sie im Dialogfenster Wunsch-Schule hinzufügen in der Auswahlliste WunschSchule* die gewünschte Schule aus.
+5. Geben Sie die gewünschten Daten ein. In Abhängigkeit der Einträge findet eine
+Validierung und Aktualisierung der Auswahllisten statt. Damit werden falsche
+Kombinationen von Beruf, Schulform und Stufe verhindert.
+6. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+24
+
+Abb. 32 Webseite Abgänger: Auswahl der Abgänger, Eintragen des Freigabedatums
+
+Abb. 33 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+2.4
+
+Kinder kommen nach Beendigung des Vorlaufkurses an Ihre Schule
+
+2.4.1 Schüler als Kandidaten annehmen und mit Zieldaten versehen
+Kinder, die an einer anderen Schule am Vorlaufkurs teilgenommen haben und danach an
+Ihre Schule wechseln möchten, werden von der anderen Schule über das
+Kandidatenverfahren an Ihre Schule abgegeben (siehe Kapitel 1.6.2).
+Diese Kandidaten bearbeiten Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN:
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+25
+
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN die gewünschten Einträge in den
+Feldern ZIEL-HALBJAHR*, ZIEL-SF/BK* und ZIEL-STUFE/SEM* aus.
+
+Abb. 34 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1 eintragen.
+
+2.4.2 Schüler aktiv setzen
+Sobald die Schüler am Unterricht der Grundschule teilnehmen, setzen Sie diese auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register SCHÜLER
+aktiv.
+
+Abb. 35 Webseite Statusverwaltung: Schüler aktiv setzen
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+26
+
+3
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers
+
+Ein Schüler kann unterschiedliche Beziehungen zu einer oder mehreren Schulen haben. Die nachfolgende Übersicht beschreibt die möglichen
+Schülerstatus eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+▪ Ein Schüler hat an Ihrer Schule einen SCHÜLERSTATUS. Die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN.
+▪ Ein Schüler hat zu Ihrer Schule ein KANDIDATENVERHÄLTNIS. Die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN.
+Schülerstatus
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+
+Kandidatenverhältnis
+auf der Webseite SCHÜLER
+> KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN
+
+Kandidat mit SD-R
+
+Kandidat ohne SD-R
+
+Aktiv
+
+Ehemalig
+
+Extern
+
+Der Schüler
+nimmt an Ihrer
+Schule am
+Unterricht teil
+
+Der Schüler hat Ihre
+Schule verlassen, weil
+
+Der Schüler
+ist an einer
+anderen
+hessischen
+Schule aktiv
+
+SD-R = Stammdatenrecht (= Recht, die Stammdaten eines Schülers zu bearbeiten)
+
+Der Schüler möchte
+an Ihre Schule
+wechseln.
+
+Der Schüler hat an Ihrer
+Schule das
+Kandidatenverhältnis:
+
+Sie können das
+Kandidatenverhältnis
+auf einen der
+folgenden Einträge
+setzen:
+
+▪ angenommen
+▪ und ist an keiner anderen
+hessischen Schule: aktiv
+
+▪
+▪
+▪
+▪
+▪
+
+Der Schüler hat einen Eintrag
+zum internen
+Schulformübergang an Ihrer
+Schule (nur in UVPlanungsvariante).
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+oder
+
+Der Schüler hat zu Ihrer Schule ein
+Kandidatenverhältnis:
+▪
+▪
+▪
+▪
+▪
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+und
+ihre Schule ist
+verantwortlich
+für die
+Erstellung und
+Ausgabe von
+Zeugnissen.
+
+Das Stammdatenrecht liegt bei der
+Schule, an der der Schüler aktiv ist.
+und
+Der Schüler nimmt noch nicht am
+Unterricht Ihrer Schule teil.
+
+HMKB | LUSD | Deutschfördermaßnahme Vorlaufkurs (VLK) | Version: 4.6 | Letzter Stand: 10.12.2025
+
+27
+
+▪ er an einer
+anderen
+hessischen Schule
+aktiv ist.
+▪ er an einer nichthessischen Schule
+unterrichtet wird.
+▪ er die Schullaufbahn beendet hat.
+
+und
+er besucht
+(zeitlich
+begrenzt)
+Kurs/e an
+Ihrer Schule.
+
+

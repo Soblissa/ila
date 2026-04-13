@@ -1,0 +1,636 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Leistungserfassung vorbereiten
+Von der Leistungserfassung zum Zeugnis - Teil I
+
+Version: 4.0
+Letzter Stand: 04.09.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Leistungserfassung vorbereiten
+1
+
+5
+
+Leistungserfassung konfigurieren (Konfiguration Leistungserfassung) .................................. 5
+1.1
+
+Konfiguration für Kopfnoten und Fehlzeiten festlegen .................................................. 6
+
+1.2
+
+Zeitraum zur Leistungserfassung festlegen.................................................................. 9
+
+2
+
+Schuleigene Zeugnisbemerkungen je Schulform anlegen ................................................... 10
+
+3
+
+Zeugnisformulare konfigurieren........................................................................................... 12
+
+4
+
+Übersicht Platzhalter für schuleigene Zeugnisbemerkungen ............................................... 13
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt die notwendigen Arbeiten zur Vorbereitung der Leistungserfassung in der LUSD oder mit dem externen Notenclient (ENC).
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an erfahrene LUSD-Nutzer, die die Erfassung von Leistungen in der
+LUSD oder mit dem ENC vorbereiten möchten.
+Folgende Kenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben:
+▪ Der Umgang mit der Schüler-, Kurs- und Klassensuche sowie der Selektion.
+▪ Der Umgang mit der Erstellung von Berichten
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+4
+
+Leistungserfassung vorbereiten
+Die beste Grundlage, um Leistungen von Schülern in der LUSD oder mit dem Externen Notenclient
+(ENC) problemlos erfassen zu können, ist die korrekt gepflegte aktuelle Unterrichtsverteilung (UV).
+Hinweis
+Prüfen Sie Ihre Daten vor der Leistungserfassung, besonders, wenn Sie den
+ENC nutzen. Wie Sie dabei vorgehen finden Sie in der Anleitung Daten der aktuellen UV prüfen und anpassen.
+
+1
+
+Leistungserfassung konfigurieren (Konfiguration Leistungserfassung)
+In diesem Arbeitsschritt legen Sie für jede Schulform und Stufe fest, wer, wie, zu welchem Zeitpunkt und in welchem Umfang Leistungen in der LUSD und mit dem externen
+Notenclient (ENC) erfassen kann.
+Hinweis
+Der Zugriff auf die LUSD kann ab April 2023 auf folgenden Wegen geschehen:
+▪ über das Hessische Schulverwaltungsnetz (HSVN).
+▪ über die Anmeldung an der Schul-ID Hessen.
+Weitere Informationen zur Vorbereitung der Leistungserfassung über die Anmeldung an der Schul-ID Hessen entnehmen Sie der Anleitung Leistungserfassung
+vorbereiten (Schul-ID Hessen).
+Diese Einstellungen steuern die Sichtbarkeit von Feldern auf den Webseiten bez. der Webseiten selbst
+▪
+▪
+▪
+▪
+▪
+
+UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER
+UNTERRICHT > LEISTUNGSERFASSUNG > KLASSEN
+UNTERRICHT > LEISTUNGSERFASSUNG > KURSE
+UNTERRICHT > LEISTUNGSERFASSUNG > HISTORISCHE LEISTUNGSDATEN
+UNTERRICHT > PRÜFUNGEN
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+5
+
+Abb. 1 Webseite Konfiguration Leistungserfassung
+
+Hinweis
+Konfigurationen im Bereich LUSD ALLGEMEIN wirken sich auf alle Wege der Leistungserfassung aus:
+▪ Leistungserfassung nach Anmeldung an der LUSD über einen Rechner im
+hessischen Schulverwaltungsnetz.
+▪ Leistungserfassung nach Anmeldung an der LUSD über die Schul-ID Hessen.
+▪ Leistungserfassung per ENC.
+▪ Konfigurationen im Bereich LUSD ABSCHLÜSSE wirken sich auf die Webseiten
+im Bereich UNTERRICHT > PRÜFUNGEN aus.
+▪ Konfigurationen im Bereich ENC wirken sich nur auf die Erfassung von Leistung per ENC aus!
+D. h. zur Zeit können Kurslehrkräfte, die per Schul-ID Hessen auf die LUSD zugreifen, Leistungen für die Schüler ihrer Kurse erfassen, auch wenn im Bereich
+ENC klassenweise ausgewählt wurde!
+
+1.1
+
+Konfiguration für Kopfnoten und Fehlzeiten festlegen
+Hinweis
+Die gewählten Einträge bestimmen,
+▪ ob Sie auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER im
+Register ARBEITS- UND SOZIALVERHALTEN die Felder NOTE und SCHRIFTLICHE
+ERGÄNZUNG bearbeiten können.
+▪ ob Sie im ENC auch Kopfnoten erfassen könnenerfassen, auch wenn im Bereich ENC klassenweise ausgewählt wurde!
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+6
+
+1.1.1 Die Notenkonfiguration einer Stufe ansehen
+1. Öffnen Sie die WEBSEITE UNTERRICHT > ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG (Abb. 1)
+2. Öffnen Sie das gewünschte Register. Die Tabelle ist initial nach 1. SCHULFORMBILDUNGSKOMBINATION (SF/BK), 2. HALBJAHR (HJ) und 3. STUFE (ST/SEM) sortiert.
+3. Sie können die Sortierung der Tabelle, durch Klick auf die Spaltenüberschriften beliebig
+sortieren.
+4. Klicken Sie auf
+
+.
+
+1.1.2 Die Notenkonfiguration einer oder mehrerer Stufen bearbeiten
+Hinweis
+Sie können jede Stufe einzeln oder mehrere Stufen gleichzeitig bearbeiten. Haben Sie mehrere Stufen ausgewählt, wird die eingegebene Konfiguration nach
+dem Speichern für alle ausgewählten Stufen übernommen.
+
+1. Klicken Sie auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG in die Kontrollkästchen vor den gewünschten Stufen oder Schulformen. Klicken Sie anschließend auf
+.
+Um alle Stufen auszuwählen, klicken Sie auf das Kontrollkästchen neben den
+Spaltenüberschriften. Um alle Häkchen zu entfernen, klicken Sie erneut auf dieses Kontrollkästchen.
+2. Wählen Sie im Register LUSD ALLGEMEIN die Art der KOPFNOTENERFASSUNG.
+▪ Kopfnoten werden ausschließlich klassenweise erfasst.
+▪ Innerhalb des ENC werden standardmäßig nur Noten erfasst. Möchten Sie im ENC
+auch Kopfnoten mit schriftlicher Ergänzung erfassen, wählen Sie den Eintrag Note
+mit schriftlicher Ergänzung.
+▪ Möchten Sie keine Noten, sondern ausschließlich schriftliche Ergänzungen erfassen,
+wählen Sie den Eintrag Nur schriftliche Ergänzung.
+Oder wählen Sie im Register LUSD ALLGEMEIN die Art der FEHLZEITENERFASSUNG (kursoder klassenweise).
+Bei der Einstellung NOTENERFASSUNG: klassenweise kann auch die Fehlzeitenerfassung
+nur klassenweise erfolgen.
+3. Klicken Sie auf
+
+.
+
+4. Klicken Sie auf
+
+.
+
+5. Klicken Sie auf
+
+.
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+7
+
+1.1.3 Konfiguration für die Leistungserfassung mit dem ENC festlegen
+Die Einstellungen zur Erfassung von Leistungsdaten mit dem ENC erfolgen für jede Schulform und Stufe auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG im Register ENC (Abb. 1).
+Hinweis
+Die hier dargestellten Einstellungen steuern die Anzeige der Daten im ENC.
+
+Spalte
+
+Wirkung
+
+Hinweis
+
+Noten
+
+Die jeweiligen Klassenlehrkräfte erfassen alle
+Leistungen der Schüler.
+
+Bei dieser Option können
+auch die Fehlzeiten nur
+klassenweise erfasst
+werden.
+
+klassenweise
+
+In einer Tabelle im ENC tragen sie für alle
+Schüler der Klasse ein:
+▪ die Note pro Fach
+▪ je nach Einstellung der Notenkonfiguration (siehe Kapitel 1.1 und
+1.1.3)
+▪ die Kopfnoten
+▪ die Fehlzeiten
+▪ die Versetzung bzw. Versetzungsgefährdungen
+▪ die Zeugnisbemerkungen
+Noten
+kursweise
+
+Die jeweilige Hauptlehrkraft eines Kurses erfasst die Noten seiner Kurse mit dem ENC.
+Die jeweiligen Klassenlehrkräfte erfassen für
+alle Schüler der Klasse, je nach Einstellung
+der Notenkonfiguration (siehe Kapitel 1.1 und
+1.1.3)
+▪ die Kopfnoten
+▪ die Fehlzeiten
+▪ die Versetzung bzw. Versetzungsgefährdungen
+▪ die Zeugnisbemerkungen
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+8
+
+1.2
+
+Zeitraum zur Leistungserfassung festlegen
+Seit Release 49.0 haben Lehrkräfte, die über das Benutzerprofil Initiale Lehrkraft verfügen
+und die auf der Seite SCHULE > ADMINISTRATION > BENUTZER nicht als deaktiviert geführt
+werden, die Möglichkeit, über ihre Schul-ID auf die LUSD zuzugreifen und hier Leistungen
+für ihre Schüler und Kurse zu erfassen.
+Damit Noten von diesen Lehrkräften nur in einem bestimmten Zeitraum eingegeben und
+geändert werden können, wurde der Bereich ZEITRAUM ZUR LEISTUNGSERFASSUNG etabliert,
+der von Ihnen frei gewählt werden kann.
+Hinweis
+Nutzer, die sich bisher an der LUSD über das Hessische Schulverwaltungsnetz
+anmelden und Leistungen erfassen konnten, können dies auch weiterhin – unabhängig vom festgelegten Zeitraum – tun. Der Zugriff ist sowohl über das HSVN
+als auch über die Schul-ID Hessen möglich.
+Der Zeitraum betrifft ausschließlich die Schüler der Stufen, für die ein Zeitfenster zur Bearbeitung eingegeben wurde.
+
+Abb. 2 Webseite Konfiguration Leistungserfassung: Eingabe des Zeitfensters für eine oder mehrere
+ausgewählte Schulformen und Stufen
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+9
+
+2
+
+Schuleigene Zeugnisbemerkungen je Schulform anlegen
+Die Zeugnisbemerkungen finden Sie auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISBEMERKUNGEN.
+Hinweis
+Im Register OFFIZIELLE BEMERKUNG stehen Ihnen die offiziellen Bemerkungen
+des HKM – je Schulform – zur Verfügung. Diese werden zentral gepflegt und
+können von Ihnen nicht bearbeitet werden. Für manche Schulformen gibt es
+keine offiziellen Bemerkungen.
+Im Register SCHULEIGENE EINTRÄGE sehen Sie Ihre bereits angelegten schuleigenen Einträge, die Sie in Zeugnissen verwenden können.
+
+Achtung
+Bei der Leistungserfassung in der LUSD werden nur die zur jeweiligen Schulform
+gehörigen Bemerkungen angezeigt
+Bei der Leistungserfassung mit dem ENC ist auch die Zuordnung von Bemerkungen aus anderen Schulformen zum Schüler möglich. Diese sind dann in der
+LUSD nicht anzeigbar und nicht bearbeitbar!
+Um eine neue schuleigene Zeugnisbemerkung hinzuzufügen, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISBEMERKUNGEN - Register SCHULEIGENE BEMERKUNGEN.
+
+Abb. 3 Webseite Zeugnisbemerkungen
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+10
+
+2. Klicken Sie auf
+.
+Es erscheint das Dialogfenster ZEUGNISBEMERKUNG HINZUFÜGEN.
+
+Abb. 4 Dialogfenster Schuleigene Bemerkungen hinzufügen
+
+3. Geben Sie die Daten zur Zeugnisbemerkung ein.
+Hinweis zu Abkürzungen:
+Im Zeugnis erscheinen die Bemerkungen alphanumerisch nach dem jeweiligen Kürzel sortiert.
+Wenn Sie möchten, dass die Bemerkungen im Zeugnis in einer bestimmten
+Reihenfolge erscheinen, müssen Sie dies bei der Vergabe der Kürzel berücksichtigen.
+
+Hinweis zu Platzhaltern:
+Innerhalb der Zeugnisbemerkungen können Sie Platzhalter verwenden, die bei
+der Erstellung von Zeugnissen durch zugrundeliegende Daten ersetzt werden.
+Die möglichen Platzhalter sehen Sie in dem rechten Bereich (Abb. 18).
+Die Liste der Platzhalter finden Sie am Ende dieser Anleitung (siehe Kapitel 8).
+
+Achtung
+Die verwendeten Platzhalter werden nicht auf korrekte Verwendung innerhalb der
+angelegten Bemerkungen geprüft. Dies unterliegt der Sorgfalt des Benutzers.
+Falsch gewählte Einträge erscheinen unverändert in einem Zeugnisausdruck
+oder in einem Bericht.
+So fügen Sie einen Platzhalter ein:
+1. Markieren Sie den Platzhalter (z. B. @VNAME) in der rechten Spalte.
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+11
+
+2. Kopieren Sie ihn mit der Tastenkombination Strg+C in die Zwischenablage.
+3. Markieren Sie das gewünschte schuleigene Bemerkungsfeld und klicken Sie auf
+.
+4. Fügen Sie im Dialogfenster ZEUGNISBEMERKUNG BEARBEITEN den Platzhalter mit der Tastenkombination Strg+V an die gewünschte Stelle im
+Text ein.
+5. Klicken Sie auf
+4. Klicken Sie auf
+
+.
+
+.
+
+5. Fügen Sie weitere Zeugnisbemerkungen hinzu oder klicken Sie auf
+
+3
+
+.
+
+Zeugnisformulare konfigurieren
+Um in den jeweiligen Zeugnisformularen für die Zweitunterschrift die Funktion und den Namen der unterzeichnenden Person zu ändern, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISFORMULARE
+(Abb. 5).
+2. Klappen Sie im Bereich ZEUGNISART auf die entsprechende Schulform auf und klicken
+auf das zu ändernde Zeugnis. Es ist blau hinterlegt.
+3. Im Bereich STUFEN UND UNTERSCHRIFTEN erscheinen alle Zeugnisse zu Ihrer Auswahl.
+Haken Sie die zu ändernden Zeugnisse an.
+4. Klicken Sie auf
+
+. Es erscheint das Dialogfenster ZEUGNISFORMULARE-DE-
+
+TAILS BEARBEITEN (Abb. 6).
+
+5. Passen Sie Ihre Daten an.
+6. Klicken Sie auf
+7. Klicken Sie auf
+
+.
+.
+
+Abb. 5 Webseite Zeugnisformulare
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+12
+
+Abb. 6 Dialogfenster Zeugnisformulare - Details bearbeiten
+
+4
+
+Übersicht Platzhalter für schuleigene Zeugnisbemerkungen
+Platzhalter
+
+Bedeutung
+
+@_DERDESS
+
+der Schülerin/des Schülers
+
+@_DERDIES
+
+der Schüler/die Schülerin
+
+@_E/ER
+
+e/er
+
+@_E/IN
+
+e/in
+
+@_E/R
+
+e/r
+
+@_ERSIE
+
+er/sie
+
+@_FRAU/MANN
+
+Frau/Mann
+
+@_IHMIHR
+
+ihm/ihr
+
+@_IN
+
+r/rin
+
+@_SEINEIHRE
+
+seine/ihre
+
+@ABSCHLUSSDATUM
+
+Datum der Abschlussprüfung
+
+@BESUCHTBIS
+
+Austritts- bzw. Ausgabedatum
+
+@BESUCHTSEIT
+
+Eintrittsdatum
+
+@BEZFR
+
+Fachrichtung
+
+@BEZSFORM
+
+Schulform
+
+@BEZSP
+
+Schwerpunkt
+
+@DERDESS
+
+Der Schülerin/Des Schülers
+
+@DERDIES
+
+Der Schüler/Die Schülerin
+
+@ERSIE
+
+Er/Sie
+
+@FR
+
+Fachrichtung: .............................................
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+13
+
+Platzhalter
+
+Bedeutung
+
+@GDATUM
+
+Geburtsdatum
+
+@GORT
+
+Geburtsort
+
+@HERRFRAU
+
+Herr/Frau
+
+@HJ
+
+.. . Halbjahr
+
+@IHMIHR
+
+Ihm/Ihr
+
+@KLASSE
+
+Klasse
+
+@KOCHKÖCHIN
+
+Koch/Köchin
+
+@KONFDATUM
+
+Datum des Konferenzbeschlusses
+
+@MUENDLICHDATUM
+
+Datum der letzten mündlichen Prüfung
+
+@NAME
+
+Schülername
+
+@NNAME
+
+Nachname des Schülers
+
+@NSTUFE
+
+Nächste Jahrgangsstufe des Schülers
+
+@ORT
+
+Schulort
+
+@PLZ
+
+PLZ des Schulortes
+
+@RELI
+
+Religionsbekenntnis
+
+@S_ORT
+
+Ort
+
+@S_PLZ
+
+PLZ
+
+@S_STR
+
+Straße
+
+@SBEZEICHNUNG
+
+Semesterbezeichnung
+
+@SCHULE
+
+Schulname
+
+@SEINEIHRE
+
+Seine/Ihre
+
+@SEMESTER
+
+Semester des Schülers
+
+@SFORM
+
+Schulform: .............................................
+
+@SJ
+
+Schuljahr
+
+@SP
+
+Schwerpunkt: .............................................
+
+@STR
+
+Schulstraße
+
+@STUFE
+
+Jahrgangsstufe des Schülers
+
+@VNAME
+
+Schülervorname
+
+@VSTUFE
+
+Vorherige Jahrgangsstufe des Schülers
+
+@ZEUGNISTYP
+
+Zeugnistyp
+
+@ZUSATZDATUM
+
+Datum der Zusatzprüfung
+
+HMKB | LUSD | Leistungserfassung vorbereiten | Version: 4.0 | Letzter Stand: 04.09.2025
+
+14
+
+

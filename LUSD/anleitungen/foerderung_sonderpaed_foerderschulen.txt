@@ -1,0 +1,1524 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassen sonderpädagogischer
+Förderungen
+Förderschulen und Abteilungen sonderpädagogischer Förderung
+
+Version: 2.2
+Letzter Stand: 17.11.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+1
+
+2
+
+Schüler mit festgestelltem Anspruch auf sonderpädagogische Förderung der richtigen Stufe
+zuordnen............................................................................................................................... 5
+1.1
+
+Zieldifferente Förderschulformen ................................................................................. 6
+
+1.2
+
+Lernzielgleiche Förderschulformen .............................................................................. 7
+
+Schüler mit festgestelltem Anspruch auf sonderpädagogische Förderung der richtigen
+Schulform zuordnen .............................................................................................................. 8
+2.1
+
+Förderschwerpunkt Sehen ........................................................................................... 8
+
+2.2
+
+Förderschwerpunkt Sehen/Blinde .............................................................................. 10
+
+2.3
+
+Förderschwerpunkt emotionale und soziale Entwicklung ........................................... 11
+
+2.4
+
+Förderschwerpunkt geistige Entwicklung ................................................................... 12
+
+2.5
+
+Förderschwerpunkt Hören ......................................................................................... 12
+
+2.6
+
+Förderschwerpunkt körperliche und motorische Entwicklung ..................................... 13
+
+2.7
+
+Förderschwerpunkt kranke Schülerinnen und Schüler ............................................... 14
+
+2.8
+
+Förderschwerpunkt Lernen ........................................................................................ 15
+
+2.9
+
+Förderschwerpunkt Sprachheilförderung ................................................................... 17
+
+3
+
+Hauptschulabschluss nach erfolgreichem Abschluss des Bildungsgangs Förderschwerpunkt
+Lernen in der LUSD abbilden .............................................................................................. 18
+
+4
+
+Schulzeitverlängerungen nach § 59 (3) bzw. § 61 (2) HSchG in der LUSD abbilden........... 19
+
+5
+
+4.1
+
+Rechtsgrundlagen...................................................................................................... 19
+
+4.2
+
+Schulzeitverlängerungen in der LUSD erfassen ......................................................... 20
+
+Sonderpädagogische Förderung überregionaler BFZ an Förderschulen in der LUSD abbilden
+........................................................................................................................................... 20
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Dieses Dokument befasst sich mit der Abbildung der verschiedenen Förderschulformen und deren
+Abteilungen in der LUSD.
+Hinweis
+Zur Abbildungen von Maßnahmen der sonderpädagogischen Förderung an Regelschulen
+lesen Sie bitte die Anleitung Erfassung sonderpädagogischer Förderungen - Vorbeugende Maßnahmen (VM) und Inklusive Beschulung (IB).
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an LUSD-Anwender an Förderschulen, die Schüler mit Anspruch auf
+sonderpädagogische Förderungen aufnehmen und verwalten. Basiskenntnisse im Umgang mit der
+LUSD werden vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+über die Seite kontakt-helpdesk.hessen.de oder telefonisch unter +49 611 340
+1570.
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+4
+
+1
+
+Schüler mit festgestelltem Anspruch auf sonderpädagogische Förderung der richtigen Stufe zuordnen
+Die Zuordnung eines Schülers zur richtigen Stufe hängt vom festgestellten Förderschwerpunkt ab. Die Informationen in den nachfolgenden Kapiteln sollen dies verdeutlichen.
+Bitte beachten Sie nachstehende Legende zu den Tabellen und den Hinweis auf weiterführende Informationen zur Datenpflege.
+Legende
+* Erwarteter
+Alterskorridor
+(min-max):
+
+Der erwartete Alterskorridor gibt das nach dem hessischen
+Schulgesetz und entsprechender Verordnungen minimal
+und maximal mögliche Alter eines Schülers in der jeweiligen
+Schülerstufe an.
+In den Schülerstufen 09 und 10 sind Schulzeitverlängerungen entsprechend für die zielgleichen Förderschulformen
+und den Förderschwerpunkt Lernen berücksichtigt.
+
+Der Regelbereich des erwarteten Alterskorridors gibt an, in
+** Regelbereich
+des erwarteten Al- welchem Altersbereich die meisten Schüler in der jeweiligen
+terskorridors:
+Schülerstufe liegen.
+Beide Bereiche dienen der Orientierung bei der Zuordnung eines Schülers zu seiner Schülerstufe.
+Informationen zur Datenpflege
+Informationen zur praktischen Zuweisung der Schulformen in der LUSD entnehmen Sie bitte der LUSD-Hilfe der jeweiligen Webseite.
+▪ Schulformen der Schule einrichten
+(SCHULE > SCHULSTAMMDATEN > SCHULFORMEN)
+▪ Stufen/Semester zu Schulformen zuordnen
+(SCHULE > SCHULSTAMMDATEN > STUFEN/SEM.)
+▪ Schüler in die LUSD aufnehmen
+(SCHÜLER > KANDIDATENVERFAHREN > AUFNEHMEN / EINSCHULEN)
+▪ Schullaufbahn, Beurlaubungen und Wiederholungen pflegen
+(SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN)
+▪ Daten zur Schulpflicht pflegen
+(SCHÜLER > SCHÜLERBASISDATEN > SCHULPFLICHT)
+In vielen LUSD-Hilfeseiten können Sie über Links zu passenden Anleitungen
+wechseln.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+5
+
+1.1
+
+Zieldifferente Förderschulformen
+
+1.1.1 Förderschwerpunkte geistige Entwicklung und körperlich-motorische Entwicklung
+In folgenden Förderschulformen werden Schüler entsprechend ihres Schulbesuchsjahres
+erfasst, d.h. in diesen Schulformen entspricht die Schülerstufe dem Schulbesuchsjahr:
+▪ im zieldifferenten Bildungsgang Förderschwerpunkt geistige Entwicklung.
+▪ in den Förderschulformen des Förderschwerpunktes körperlich motorische Entwicklung.
+Entspricht Schul-
+
+Schülerstufe
+
+Alterskorridor
+
+Regelbereich des erwarteten
+
+besuchsjahr
+
+(LUSD)
+
+(min-max)*
+
+Alterskorridors**
+
+0
+
+00 (FS/*/V)
+
+4-7
+
+5-6
+
+1
+
+01
+
+4-9
+
+6-8
+
+2
+
+02
+
+5 - 10
+
+7-9
+
+3
+
+03
+
+6 - 12
+
+8-10
+
+4
+
+04
+
+7 - 13
+
+9-11
+
+5
+
+05
+
+8 - 14
+
+10-12
+
+6
+
+06
+
+9 - 15
+
+11-13
+
+7
+
+07
+
+10 - 16
+
+12-14
+
+8
+
+08
+
+11 - 17
+
+13-15
+
+9
+
+09
+
+12 - 18
+
+14-16
+
+10
+
+10
+
+13 - 20
+
+15-17
+
+11
+
+11
+
+14 - 20
+
+16-18
+
+12
+
+12
+
+15 - 22
+
+17-19
+
+13
+
+13
+
+16 - 22
+
+18-20
+
+14
+
+14
+
+17 - 23
+
+19-21
+
+1.1.2 Förderschwerpunkt Lernen
+In den Schulformen des zieldifferenten Bildungsgangs Förderschwerpunkt Lernen werden die Schüler bis zur Schülerstufe 10/2 entsprechend ihres Schulbesuchsjahres erfasst.
+Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG werden als Wiederholung der Schülerstufe 10 erfasst.
+Regelbereich des
+
+Jahrgangsstufe
+
+(LUSD)
+
+Alterskorridor
+(min-max)*
+
+erwarteten
+Alterskorridors*
+
+1
+
+01
+
+4-9
+
+6-7
+
+2
+
+02
+
+5 - 10
+
+7-8
+
+3
+
+03
+
+6 - 12
+
+8-10
+
+4
+
+04
+
+7 - 13
+
+9-11
+
+5
+
+05
+
+8 - 14
+
+10-12
+
+6
+
+06
+
+9 - 15
+
+11-13
+
+07
+
+10 - 16
+
+12-14
+
+7
+
+tufe
+
+Erwarteter
+
+gss
+
+Schülerstufe
+
+run
+
+Entspricht
+
+tie-
+
+stufe
+sori
+
+en-
+
+Mittelruf
+
+Be-
+
+Grundstufe
+
+Bildungsstufe
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+6
+
+1.2
+
+8
+
+08
+
+11 - 17
+
+13-15
+
+9
+
+09
+
+12 - 21
+
+14-16
+
+10
+
+10
+
+13 - 22
+
+15-17
+
+Lernzielgleiche Förderschulformen
+
+1.2.1 Lernzielgleiche Förderschulformen
+Schüler, die in Schulformen der lernzielgleichen Bildungsgänge, mit Ausnahme des Förderschwerpunktes körperlich motorische Entwicklung, unterrichtet werden, werden der
+Schülerstufe entsprechend des Leistungsniveaus ihres Bildungsgangs abgebildet und nicht
+orientiert am Schulbesuchsjahr.
+▪ Die Schüler können die Stammschulform FS/*/-- bis zur Stufe 09/2 durchlaufen, in der
+sie den Hauptschulabschluss erhalten können und die sie bei Bedarf wiederholen.
+▪ Schüler, die den Realschulabschluss anstreben, können ab der Stufe 05/1 in die Schulform FS/*/R aufgenommen werden. Sie durchlaufen sie bis zur Stufe 10/2, in der sie den
+Mittleren Abschluss erhalten können und die sie bei Bedarf wiederholen.
+▪ Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG werden als Wiederholung der Stufe 09 (Hauptschule) bzw. der Stufe 10 (Realschule) erfasst.
+
+Hinweis
+Findet bei einem Schüler Unterricht und Erziehung in mehreren Förderschwerpunkten statt und weicht einer der Förderschwerpunkte von der Zielsetzung der allgemeinen Schule ab, legt dieser den Bildungsgang fest (vgl. §
+7 (9) Verordnung über Unterricht, Erziehung und sonderpädagogische Förderung von Schülerinnen und Schülern mit Beeinträchtigungen oder Behinderungen vom 15. Mai 2012; aus: www.rv.hessenrecht.hessen.de - VOSB).
+Wie beratende bzw. fördernde Maßnahmen durch überregionale Beratungsund Förderzentren erfasst werden sollen, wird in Kapitel 5 dieser Anleitung
+beschrieben
+
+Förderschwerpunkte Sprachheilförderung, Emotionale und soziale Entwicklung
+Jahrgangsstufe
+
+Schülerstufe
+(LUSD)
+
+Erwarteter Alterskorridor
+(min-max)*
+
+Regelbereich des erwarteten
+Alterskorridors**
+
+0.
+
+00 (FS/*/V)
+
+4-7
+
+5-6
+
+1.
+
+01
+
+4-9
+
+6-8
+
+2.
+
+02
+
+5 - 10
+
+7-9
+
+3.
+
+03
+
+6 - 11
+
+8-10
+
+4.
+
+04
+
+7 - 12
+
+9-11
+
+5.
+
+05
+
+8 - 13
+
+10-12
+
+6.
+
+06
+
+9 - 14
+
+11-13
+
+7.
+
+07
+
+10 - 15
+
+12-14
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+7
+
+8.
+
+08
+
+11 - 16
+
+13-16
+
+9.
+
+09
+
+12 - 20
+
+14-16
+
+10.
+
+10
+
+13 - 21
+
+15-17
+
+Förderschwerpunkte Sehen, Sehen/Blinde, Hören
+Jahrgangsstufe
+
+Schülerstufe
+(LUSD)
+
+Erwarteter Alterskorridor
+(min-max)*
+
+Regelbereich des erwarteten
+Alterskorridors*
+
+0.
+
+00 (FS/*/V)
+
+4-7
+
+5-6
+
+A1
+
+4-9
+
+6-8
+
+A2
+
+4-9
+
+6-8
+
+2.
+
+02
+
+5 - 10
+
+7-9
+
+3.
+
+03
+
+6 - 11
+
+8-10
+
+4.
+
+04
+
+7 - 12
+
+9-11
+
+5.
+
+05
+
+8 - 13
+
+10-12
+
+6.
+
+06
+
+9 - 14
+
+11-13
+
+7.
+
+07
+
+10 - 15
+
+12-14
+
+8.
+
+08
+
+11 - 16
+
+13-16
+
+9.
+
+09
+
+12 - 20
+
+14-16
+
+10.
+
+10
+
+13 - 21
+
+15-17
+
+1.
+
+2
+
+Schüler mit festgestelltem Anspruch auf sonderpädagogische Förderung der richtigen Schulform zuordnen
+Hinweis
+Schüler an Förderschulen, die zusätzliche DaZ-Stunden erhalten, sind nicht der
+Schulform NDHS zu zuordnen, da es sich nicht um Intensivklassen- oder Intensivkursschüler handelt.
+Intensivklassen und -kurse werden an Förderschulen nicht eingerichtet. Stattdessen erhalten diese Schüler, die nicht zwingend Seiteneinsteiger sein müssen, auch DaZ-Förderung in Form von Deutsch-Förderkursstunden. Bitte beachten Sie dazu die Anleitungen zu den Deutsch-Förderkursen unter Sprachfoerderangebot Deutsch-Förderkurse in der LUSD abbilden.
+
+2.1
+
+Förderschwerpunkt Sehen
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/SEH/V
+
+FS - Sehen Vorklasse
+
+00/1-00/2
+
+FS/SEH/---
+
+FS - Sehen
+
+A/1-10/2
+
+FS/SEH/GESA FS - Sehen - Abteilung geistige Entwicklung
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+A/1-14/2
+
+8
+
+FS/SEH/KÖSA FS - Sehen - Abteilung körperliche und motorische Entwicklung
+
+A/1-14/2
+
+FS/SEH/R
+
+FS - Sehen mit Realschulziel
+
+05/1-10/2
+
+Schulform
+
+Schullaufbahn
+
+FS/SEH/V
+
+Besuchen Schüler die Vorklasse einer Förderschule mit Förderschwerpunkt SEH, werden sie der Schulform FS/SEH/V zugeordnet.
+
+FS/SEH/---
+
+▪ Die Schüler werden unabhängig ihres Bildungsgangs in die Schülerstufe A1/1 eingeschult. Für den Fall, dass die Schule über eine Abteilung geistige Entwicklung verfügt, werden die Schüler im Bildungsgang
+Förderschwerpunkt geistige Entwicklung in der Schulform
+FS/SEH/GESA in Stufe A1/1 eingeschult.
+▪ Die Schüler können die Schulform FS/SEH/-- bis zur Schülerstufe 09/2
+durchlaufen. Wiederholungen werden entsprechend des Bildungsgangs Hauptschule in Stufe 9 abgebildet.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/SEH/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/SEH/R vornehmen.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+
+FS/SEH/GESA
+
+▪ Schüler der Abteilung geistige Entwicklung werden in der Schulform
+FS/SEH/GESA in der Stufe A1 aufgenommen.
+Die Schulform bietet mit den Stufen 10/1 bis 14/2 zudem die Möglichkeit,
+Schulzeitverlängerungen nach § 61 (2) HSchG abzubilden (vgl. Kapitel 4)
+
+FS/SEH/KÖSA
+
+FS/SEH/R
+
+▪ Schüler der Abteilung körperliche und motorische Entwicklung werden
+in die Schulform FS/SEH/KÖSA in Schülerstufe A1/1 eingeschult. Die
+Stufen A1/1, A1/2 bzw. A2/1, A2/2 dienen der Abbildung des 5. Grundschuljahres nach § 61(3) HSchG.
+▪ Schüler des Bildungsgangs R wechseln dann in die Schulform
+FS/SEH/R.
+▪
+▪ Die Schulform bietet mit den Stufen 10/1 bis 14/2 zudem die Möglichkeit, Schulzeitverlängerungen nach § 61 (2) HSchG abzubilden (vgl.
+Kapitel 4).
+Wiederholungen in der FS/SEH/R werden entsprechend des Bildungsgangs Realschule in Stufe 10 abgebildet (vgl. Kapitel 4).
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/SEH/R vornehmen.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+9
+
+2.2
+
+Förderschwerpunkt Sehen/Blinde
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/BLI/V
+
+FS - Sehen/Blinde Vorklasse
+
+00/1-00/2
+
+FS/BLI/---
+
+FS - Sehen/Blinde
+
+A1/1-10/2
+
+FS/BLI/GEBA FS - Sehen/Blinde - Abteilung geistige Entwicklung
+
+A1/1-14/2
+
+FS/BLI/KÖBA FS - Sehen/Blinde - Abteilung körperliche und motorische
+Entwicklung
+
+A1/1-14/2
+
+FS/BLI/R
+
+FS - Sehen/Blinde mit Realschulziel
+
+05/1-10/2
+
+Schulform
+
+Schullaufbahn
+
+FS/BLI/V
+
+Schüler, die eine Vorklasse einer Förderschule mit Förderschwerpunkt
+BLI besuchen, werden der Schulform FS/BLI/V zugeordnet.
+
+FS/BLI/---
+
+▪ In der Schulform FS/BLI/-- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe A1/1 eingeschult, es sei denn, die
+Schule verfügt über eine Abteilung geistige Entwicklung oder über eine
+Abteilung körperlich motorische Entwicklung.
+▪ Die Schüler können die Schulform FS/BLI/-- bis zur Schülerstufe 09/2
+durchlaufen. Wiederholungen werden entsprechend des Bildungsgangs Hauptschule in Stufe 9 abgebildet
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/BLI/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/BLI/R vornehmen.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+
+FS/BLI/GEBA Verfügt die Schule über eine Abteilung geistige Entwicklung werden die
+Schüler im Bildungsgang Förderschwerpunkt GE in der FS/BLI/GEBA
+Stufe A1/1 eingeschult.
+FS/BLI/KÖBA Verfügt die Schule über eine Abteilung körperlich motorische Entwicklung,
+werden die Schüler der Abteilung körperlich motorische Entwicklung unabhängig ihres Bildungsganges in der FS/BLI/KÖBA Stufe A1/1 eingeschult.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+10
+
+FS/BLI/R
+
+Wiederholungen werden in der Schulform FS/BLI/R entsprechend des Bildungsgangs Realschule in Stufe 10 abgebildet (vgl. Kapitel 4).
+Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/BLI/R vornehmen.
+
+Die Stufen A1/1, A1/2 bzw. A2/1, A2/2 dienen der Abbildung des 5. Grundschuljahres nach
+§ 61(3) HSchG.
+
+2.3
+
+Förderschwerpunkt emotionale und soziale Entwicklung
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/EMS/V
+
+FS - emotionale und soziale Entwicklung Vorklasse
+
+00/1-00/2
+
+FS/EMS/---
+
+FS - emotionale und soziale Entwicklung
+
+01/1-10/2
+
+FS/EMS/R
+
+FS - emotionale und soziale Entwicklung mit Realschulziel
+
+05/1-10/2
+
+Schulform
+
+Schullaufbahn
+
+FS/EMS/V
+
+Schüler, die eine Vorklasse einer Förderschule mit Förderschwerpunkt
+EMS besuchen, werden der Schulform FS/EMS/V zugeordnet.
+
+FS/EMS/---
+
+▪ In der Schulform FS/EMS/--- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe 01/1 eingeschult.
+▪ Die Schüler können die Schulform FS/EMS/-- bis zur Stufe 09/2 durchlaufen. Wiederholungen werden in der Schulform FS/EMS/--- entsprechend des Bildungsgangs Hauptschule in Schülerstufe 9 abgebildet.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/EMS/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/EMS/R vornehmen.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+
+FS/EMS/R
+
+Wiederholungen werden in FS/EMS/R entsprechend des Bildungsgangs
+Realschule in Stufe 10 abgebildet (vgl. Kapitel 4).
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/EMS/R vornehmen.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+11
+
+2.4
+
+Förderschwerpunkt geistige Entwicklung
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/GE/---
+
+FS - geistige Entwicklung
+
+01/1-14/2
+
+FS/GE/KÖGA
+
+FS - geistige Entwicklung - Abteilung körperliche und moto01/1-14/2
+rische Entwicklung
+
+FS/GE/---
+
+▪ In der Schulform FS/GE/--- werden die Schüler im Bildungsgang Förderschwerpunkt geistige Entwicklung in die Schülerstufe 01/1 eingeschult.
+▪ Die Stufe des Schülers entspricht dem Schulbesuchsjahr.
+Die Schulform bietet mit den Stufen 10/1 bis 14/2 zudem die Möglichkeit,
+Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG abzubilden (vgl. Kapitel 4).
+
+FS/GE/KÖGA
+
+▪ Schüler der Abteilung körperlich motorische Entwicklung werden in der
+Schulform FS/GE/KÖGA in Stufe 01/1 eingeschult.
+▪ Die Stufe des Schülers entspricht dem Schulbesuchsjahr.
+Die Schulform bietet mit den Stufen 10/1 bis 14/2 zudem die Möglichkeit,
+Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG abzubilden (vgl. Kapitel 4).
+
+2.5
+
+Förderschwerpunkt Hören
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/HÖR/V
+
+FS - Hören Vorklasse
+
+00/1-00/2
+
+FS/HÖR/---
+
+FS - Hören
+
+A/1-10/2
+
+FS/HÖR/GEHA FS - Hören - Abteilung geistige Entwicklung
+
+A/1-14/2
+
+FS/HÖR/LEHA FS - Hören - Abteilung Lernen
+
+A/1-10/2
+
+FS/HÖR/R
+
+FS - Hören mit Realschulziel
+
+05/1-10/2
+
+FS/HÖR/SEHA FS - Hören - Abteilung Sehen
+
+A/1-10/2
+
+Schulform
+
+Schullaufbahn
+
+FS/HÖR/V
+
+Schüler, die eine Vorklasse einer Förderschule mit Förderschwerpunkt
+Hören besuchen, werden der Schulform FS/HÖR/V zugeordnet.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+12
+
+FS/HÖR/---
+
+▪ In der Schulform FS/HÖR/-- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe A/1 eingeschult.
+▪ Die Schüler können die Schulform FS/HÖR/-- bis zur Schülerstufe 09/2
+durchlaufen.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/HÖR/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/HÖR/R vornehmen.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+Wiederholungen werden in der Schulform FS/HÖR/--- entsprechend des
+Bildungsgangs Hauptschule in Stufe 9 abgebildet.
+
+FS/HÖR/GEHA
+
+FS/HÖR/LEHA
+
+▪ Schüler der Abteilungen geistige Entwicklung werden im Bildungsgang
+Förderschwerpunkt geistige Entwicklung in der Schulform
+FS/HÖR/GEHA in Stufe A1/1 eingeschult.
+▪ Schüler in der Schulform FS/HÖR/GEHA können bis zur Stufe 14/2 geführt werden.
+▪ Schüler der Abteilungen Lernen werden im Bildungsgang Förderschwerpunkt Lernen in der Schulform FS/HÖR/LEHA in Stufe A1/1 eingeschult.
+In der Schulform FS/HÖR/LEHA wiederholen die Schüler im Falle von
+Schulzeitverlängerungen die Stufe 10 mit dem Ziel, den Berufsorientierten
+Abschluss zu erreichen.
+
+FS/HÖR/R
+
+Wiederholungen werden in der Schulform FS/HÖR/R entsprechend des
+Bildungsgangs Realschule in Stufe 10 abgebildet.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/HÖR/R vornehmen.
+
+FS/HÖR/SEHA
+
+▪ Schüler der Abteilung Sehen werden in die Schulform FS/HÖR/SEHA
+in Stufe A1/1 eingeschult.
+▪ Sie können dort bis zur Stufe 09/2 geführt werden.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/HÖR/R.
+Wiederholungen werden in der Schulformen FS/HÖR/SEHA entsprechend des Bildungsgangs Hauptschule in Stufe 9 abgebildet
+
+Die Stufen A1/1, A1/2 bzw. A2/1, A2/2 dienen der Abbildung des 5. Grundschuljahres nach
+§ 61(3) HSchG.
+
+2.6
+
+Förderschwerpunkt körperliche und motorische Entwicklung
+Schulform / Bildungskombination
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+13
+
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/KÖR/V
+
+FS - körperliche und motorische Entwicklung Vorklasse
+
+00/1-00/2
+
+FS/KÖR/---
+
+FS - körperliche und motorische Entwicklung
+
+01/1-14/2
+
+FS/KÖR/R
+
+FS - körperliche und motorische Entwicklung mit Realschul05/1-10/2
+ziel
+
+Schulform
+
+Schullaufbahn
+
+FS/KÖR/V
+
+Schüler, die eine Vorklasse einer Förderschule mit Förderschwerpunkt
+KME besuchen, werden der Schulform FS/KÖR/V zugeordnet.
+
+FS/KÖR/---
+
+▪ In der Schulform FS/KÖR/--- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe 01/1 eingeschult.
+▪ Die Stufe des Schülers wird in den Schulformen FS/KÖR/* entsprechend des Schulbesuchsjahres des Schülers abgebildet.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/KÖR/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/KÖR/R vornehmen.
+Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG können in den Stufen 10/1 bis 14/2 abgebildet werden (vgl. Kapitel 4).
+
+FS/KÖR/R
+
+Wiederholungen werden in der Schulform FS/KÖR/R entsprechend des
+Bildungsgangs Realschule in Stufe 10 abgebildet.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/KÖR/R vornehmen.
+
+2.7
+
+Förderschwerpunkt kranke Schülerinnen und Schüler
+§ 7 (6) VOSB
+Im Förderschwerpunkt kranke Schülerinnen und Schüler (§ 50Abs. 3 Nr. 6 des Schulgesetzes) werden Schüler mit Zustimmung der behandelnden Ärzte gefördert, die in eine Klinik
+oder eine ähnliche Einrichtung stationär oder teilstationär aufgenommen werden und daher
+am Besuch ihrer allgemeinen Schule gehindert sind.
+www.rv.hessenrecht.hessen.de - VOSB
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+14
+
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/KRA/V
+
+FS - kranke Schülerinnen und Schüler Vorklasse
+
+00/1-00/2
+
+FS/KRA/---
+
+FS - kranke Schülerinnen und Schüler
+
+01/1-14/2, E1, E2,
+Q1-4
+
+Wenn Schüler in der LUSD einer Schule für Kranke verwaltet werden, sind folgende Regelungen zu beachten:
+Schulform
+
+Schullaufbahn
+
+FS/KRA/V
+
+Schüler, die eine Vorklasse einer Schule für Kranke besuchen, werden
+der Schulform FS/KRA/V zugeordnet.
+
+FS/KRA/---
+
+In der Schulform FS/KRA/--- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe 01/1 eingeschult.
+Die Schulform FS/KRA/-- bietet grundsätzlich die Möglichkeit,
+▪ Schüler bis zur Stufe 14/2 zu führen, um ggf. Schulzeitverlängerungen
+nach § 59 (3) HSchG bzw. § 61 (2) HSchG abzubilden.
+▪ Schüler der gymnasialen Oberstufe in den Stufen E1 bis Q4 in der
+LUSD zu führen.
+
+2.8
+
+Förderschwerpunkt Lernen
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/LER/---
+
+FS - Lernen
+
+01/1-10/2
+
+FS/LER/EMLA FS - Lernen - Abteilung emotionale und soziale Entwicklung
+
+01/1-10/2
+
+FS/LER/GELA FS - Lernen - Abteilung geistige Entwicklung
+
+01/1-14/2
+
+FS/LER/KÖLA
+
+FS - Lernen - Abteilung körperliche und motorische Entwick01/1-14/2
+lung
+
+FS/LER/SPLA FS - Lernen - Abteilung Sprachheilförderung
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+01/1-10/2
+
+15
+
+Schulform
+
+FS/LER/---
+
+FS/LER/EMLA
+
+Schullaufbahn
+
+▪ In der Schulform FS/LER/--- werden die Schüler im Bildungsgang Förderschwerpunkt Lernen in die Schülerstufe 01/1 eingeschult.
+▪ Sie durchlaufen diese Schulform zunächst einmal bis zur Stufe 10/2.
+▪ In der Schulform FS/LER/EMLA werden die Schüler im Bildungsgang
+Förderschwerpunkt Lernen und einem Anspruch auf sonderpädagogische Förderung im Förderschwerpunkt emotionale und soziale Entwicklung in die Schülerstufe 01/1 eingeschult, sofern die Schule über
+eine entsprechende Abteilung verfügt.
+▪ Sie durchlaufen diese Schulform zunächst einmal bis zur Stufe 10/2.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG
+werden in der Schulform FS/LER/EMLA als Wiederholungen der Stufe 10
+abgebildet (vgl. Kapitel 4)
+
+FS/LER/GELA
+
+▪ In der Schulform FS/LER/GELA werden die Schüler im Bildungsgang
+Förderschwerpunkt geistige Entwicklung in die Schülerstufe 01/1 eingeschult, sofern die Schule über eine entsprechende Abteilung verfügt.
+▪ Sie durchlaufen diese Schulform zunächst einmal bis zur Stufe 09/2.
+Die Schulform FS/LER/GELA bietet mit den Stufen 10/1 bis 14/2 zudem
+die Möglichkeit, Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61
+(2) HSchG abzubilden.
+
+FS/LER/KÖLA
+
+▪ In der Schulform FS/LER/KÖLA werden die Schüler im Bildungsgang
+Förderschwerpunkt Lernen und einem Anspruch auf sonderpädagogische Förderung im Förderschwerpunkt körperliche und motorische Entwicklung in die Schülerstufe 01/1 eingeschult, sofern die Schule über
+eine entsprechende Abteilung verfügt.
+▪ Sie durchlaufen diese Schulform zunächst einmal bis zur Stufe 10/2.
+Die Schulform FS/LER/KÖLA bietet mit den Stufen 10/1 bis 14/2 zudem
+die Möglichkeit, Schulzeitverlängerungen nach § 59 (3) HSchG bzw. § 61
+(2) HSchG abzubilden.
+
+FS/LER/SPLA
+
+▪ In der Schulform FS/LER/SPLA werden die Schüler im Bildungsgang
+Förderschwerpunkt Lernen und einem Anspruch auf sonderpädagogische Förderung im Förderschwerpunkt Sprachheilförderung in die
+Schülerstufe 01/1 eingeschult, sofern die Schule über eine entsprechende Abteilung verfügt.
+▪ Sie durchlaufen diese Schulform zunächst einmal bis zur Stufe 10/2
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2) HSchG
+werden in der Schulform FS/LER/SPLA als Wiederholungen der Stufe 10
+abgebildet (vgl. Kapitel 4).
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+16
+
+2.9
+
+Förderschwerpunkt Sprachheilförderung
+Schulform / Bildungskombination
+Kürzel
+
+Bezeichnung
+
+Stufen
+
+FS/SPR/V
+
+FS - Sprachheilförderung Vorklasse
+
+00/1-00/2
+
+FS/SPR/---
+
+FS - Sprachheilförderung
+
+01/1-10/2
+
+FS/SPR/HÖSA FS - Sprachheilförderung Abteilung Hören
+
+01/1-10/2
+
+FS/SPR/R
+
+FS - Sprachheilförderung mit Realschulziel
+
+051-10/2
+
+Schulform
+
+Schullaufbahn
+
+FS/SPR/V
+
+Schüler, die vom Schulbesuch zurückgestellt wurden und eine Vorklasse
+besuchen, werden der Schulform FS/SPR zugeordnet.
+
+FS/SPR/---
+
+▪ In der Schulform FS/SPR/--- werden die Schüler unabhängig ihres Bildungsgangs in die Schülerstufe 01/1 eingeschult.
+▪ Die Schüler können die Schulform FS/SPR/-- bis zur Stufe 09/2 durchlaufen.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/SPR/R.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/SPR/R vornehmen.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+Wiederholungen werden in der Schulform FS/ SPR /--- entsprechend des
+Bildungsgangs Hauptschule in Stufe 9 abgebildet (vgl. Kapitel 4).
+
+FS/SPR/HÖSA
+
+▪ Schüler der Abteilung Hören werden in die Schulform FS/SPR/HÖSA
+in Schülerstufe 01/1 eingeschult.
+▪ Sie können dort bis zur Stufe 09/2 geführt werden.
+▪ Schüler des Bildungsgangs R wechseln in die Schulform FS/SPR/R.
+Schulpflichtverlängerungen nach § 59 (3) HSchG bzw. § 61 (2)
+HSchG werden als Wiederholungen der Schülerstufe des entsprechenden Bildungsgangs in der Schulform abgebildet.
+Wiederholungen werden in der Schulform FS/SPR/HÖSA entsprechend
+des Bildungsgangs Hauptschule in Stufe 9 abgebildet.
+
+FS/SPR/R
+
+Wiederholungen werden in der Schulform FS/ SPR /R entsprechend des
+Bildungsgangs Realschule in Stufe 10 abgebildet.
+▪ Schulen mit eigenem Realschulzweig können bereits ab der Stufe 05/1
+eine Differenzierung in die Schulform FS/SPR/R vornehmen.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+17
+
+3
+
+Hauptschulabschluss nach erfolgreichem Abschluss des Bildungsgangs
+Förderschwerpunkt Lernen in der LUSD abbilden
+Der Bildungsgang Förderschwerpunkt Lernen schließt mit dem Berufsorientierten Abschluss im Förderschwerpunkt Lernen (BAFL) ab.
+Daher ist eine Vergabe des Hauptschulabschlusses HA oder HQ in diesem Bildungsgang
+formal nur in Zusammenarbeit mit einer kooperierenden Haupt-, Mittelstufen- oder Gesamtschule als Zielschule möglich.
+Informationen zur Datenpflege
+Informationen zur praktischen Zuweisung der Schulformen in der LUSD entnehmen Sie bitte der LUSD-Hilfe der jeweiligen Webseite.
+▪ Halbjahresdaten und Förderungen von Schülern pflegen
+(SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN)
+▪ Schüler zu anderen Schulen überweisen
+(SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG)
+▪ Hauptschulabschluss bearbeiten
+(Unterricht > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS)
+▪ Realschulabschluss bearbeiten
+(Unterricht > ABSCHLÜSSE > MITTLERER ABSCHLUSS)
+▪ Abitur bearbeiten (Unterricht > ABSCHLÜSSE > ABITUR)
+In vielen LUSD-Hilfeseiten können Sie über Links zu passenden Anleitungen
+wechseln zum Beispiel der Anleitung Abschlüsse und ihre Erfassung in der
+LUSD.
+Vorgehensweise:
+Schritte
+
+1
+2
+
+Formale Aufhebung des Anspruchs auf sonderpädagogische Förderung
+LER in der Regel zum Ende der Stufe 09/2 oder 10/2.
+Kurz vor der Durchführung der Zentralen Abschlussarbeiten (ZAA)
+Hauptschulabschluss legt die Förderschule LER für den Schüler in der
+
+Stamm-
+
+Ziel-
+
+schule
+
+schule
+
+x
+x
+
+LUSD auf der WEBSEITE SCHÜLER > KANDIDATEN-VERFAHREN > ABGÄNGER ein Kandidatenverfahren (KV) mit der kooperierenden Ziel-
+
+schule als Wunschschule an.
+
+3
+4
+5
+6
+
+Zuweisen des Schülers zu den erforderlichen Kursen und erfassen der
+Noten in der LUSD durch die Zielschule.
+Erfolgreiche Teilnahme an den Zentralen Abschlussarbeiten (ZAA)
+Hauptschulabschluss.
+Durchführung der Abschlussroutine Hauptschulabschluss und Zeugnisdruck in der LUSD in der Zielschule
+Ausgabe des Abschlusszeugnisses in der Zielschule
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+x
+x
+x
+x
+
+18
+
+7
+
+Für Schüler, die die Prüfung nicht erfolgreich absolviert haben, legt die
+
+x
+
+kooperierenden Zielschule in der LUSD auf der WEBSEITE SCHÜLER >
+
+KANDIDATENVERFAHREN > ABGÄNGER ein Kandidatenverfahren (KV)
+mit der Förderschule LER als Wunschschule an.
+
+8
+
+Die Förderschule LER weist dem Schüler den Abschluss BAFL zu.
+
+x
+
+4
+
+Schulzeitverlängerungen nach § 59 (3) bzw. § 61 (2) HSchG in der
+LUSD abbilden
+
+4.1
+
+Rechtsgrundlagen
+Paragraph
+
+Inhalt
+
+§ 59 (3)
+HSchG:
+
+„Für Jugendliche, die nach dem Ende der Vollzeitschulpflicht (Abs. 1)
+keine weiterführende Schule besuchen, keinen Wehr-, Zivil-, Bundesfreiwilligen- oder Jugendfreiwilligendienst ableisten und in kein Ausbildungsverhältnis im Sinne des Berufsbildungsgesetzes und keine Maßnahme der Bundesagentur für Arbeit eintreten, wird die Vollzeitschulpflicht um ein Jahr verlängert.
+In begründeten Ausnahmefällen kann die Schulaufsichtsbehörde auf Antrag der Eltern weitere gleichwertige Maßnahmen der verlängerten Vollzeitschulpflicht gleichstellen.“
+(aus: www.rv.hessenrecht.hessen.de - VOSB)
+
+§ 61 (2)
+HSchG:
+
+„Für Schülerinnen und Schüler mit Anspruch auf sonderpädagogische
+Förderung kann die Schulpflicht auf Antrag oder nach Anhörung der Eltern durch die Schulleiterin oder den Schulleiter um bis zu drei Jahre
+verlängert werden, wenn anzunehmen ist, dass sie dadurch dem angestrebten Abschluss nähergebracht werden können.
+Den Schülerinnen und Schülern, deren Vollzeitschulpflicht nach Satz 1
+um drei Jahre verlängert wurde, ist auf Antrag der Eltern durch die
+Schulaufsichtsbehörde zu gestatten, die Schule nach Beendigung der
+Vollzeitschulpflicht bis zu zwei weitere Jahre zu besuchen, wenn sie
+dadurch dem Abschluss an dieser Schule näher gebracht werden können oder wenn die weitere Verlängerung des Schulbesuchs an dieser
+Schule geeignet ist, die Aussichten der Schülerinnen und Schüler auf
+dem Berufs- oder Arbeitsmarkt zu verbessern.“
+(aus: www.rv.hessenrecht.hessen.de - VOSB)
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+19
+
+4.2
+
+Schulzeitverlängerungen in der LUSD erfassen
+In der LUSD wird eine Schulpflichtverlängerung bzw. eine Gestattung des Schulbesuchs
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULPFLICHT erfasst.
+Hinweis
+Die Schulpflicht beginnt mit dem Eintritt eines Schülers in der Schülerstufe 01
+bzw. Stufe A1 zum 01.08. eines Schuljahres.
+In der LUSD wird grundsätzlich eine automatische Verlängerung der Vollzeitschulpflicht nach § 59 (3) HSchG angenommen.
+Eine Erfassung der Schulzeitverlängerung nach § 61 (2) ist in der LUSD daher erst ab dem 11. Schulbesuchsjahr durchzuführen
+
+▪ Schüler in den Schulform- / Bildungskombinationen des Bildungsgangs Förderschwerpunkt geistige Entwicklung bzw. körperliche und motorische Entwicklung werden in der
+ihrem Schulbesuchsjahr entsprechende Stufe geführt.
+▪ Schüler der Schulform FS/KÖR/R mit Realschulziel wiederholen im Falle von Schulzeitverlängerungen die Stufe 10.
+▪ Schüler in den Schulform- / Bildungskombinationen des Bildungsgangs Förderschwerpunkt Lernen wiederholen im Falle von Schulzeitverlängerungen die Schülerstufe 09
+oder 10 mit dem Ziel, den Berufsorientierten Abschluss (BAFL) zu erreichen.
+▪ Schüler in allen weiteren zielgleichen Bildungsgängen wiederholen im Falle von Schulzeitverlängerungen
+▪ mit Ziel Hauptschulabschluss die Schülerstufe 09
+▪ mit Ziel Realschulabschluss die Stufe 10 der Schulform FS/*/R.
+Informationen zur Erfassung von Schulpflichtverlängerungen in der LUSD finden Sie in der LUSD-Hilfe der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULPFLICHT.
+
+5
+
+Sonderpädagogische Förderung überregionaler BFZ an Förderschulen
+in der LUSD abbilden
+Beratende bzw. fördernde Maßnahmen, die überregionale Beratungs- und Förderzentren
+(BFZ) an Förderschulen leisten, werden in der LUSD auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ. / SEMESTERDATEN als sonderpädagogische Förderung (vorbeugende Maßnahme VM im entsprechenden Förderschwerpunkt) erfasst.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+20
+
+Informationen, wie sie die sonderpädagogischen Förderungen VM und IB in
+der LUSD abbilden, finden Sie
+▪ in der LUSD-Hilfe der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ. /
+SEMESTERDATEN.
+▪ in der Anleitung Erfassung sonderpädagogischer Förderungen Vorbeugende Maßnahmen / Inklusive Beschulung.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version: 2.2 | Letzter Stand: 17.11.2025
+
+21
+
+

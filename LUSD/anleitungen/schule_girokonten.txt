@@ -1,0 +1,86 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassung der Schulgirokonten (für Drittmittel)
+Handreichung
+
+1
+
+Anlass
+Seit dem LUSD-Release 54.0 ist es Schulen möglich, Schulgirokonten direkt in der LUSD
+zu erfassen. Bisher mussten die öffentlichen Schulen die Schulgirokonten für Drittmittel und
+deren Vorhandensein jährlich im Rahmen einer ESDAL-Umfrage den Schulämtern zur
+Überprüfung melden. Klassenkonten sind hingegen nicht über die LUSD zu melden.
+Die jährliche Meldung der erfolgten Kassenprüfung der Schulgirokonten wird über die
+Webseite SCHULE > FINANZEN > SCHULGIROKONTEN vorgenommen.
+
+2
+
+Wichtiges zur Übersicht
+
+2.1
+
+Standard-Eintrag in der Übersichtstabelle
+In der Übersichtstabelle ist der Hinweis kein Schulgirokonto vorhanden standardmäßig
+hinterlegt. Sobald eine Schule ein tatsächlich genutztes Konto mit einem „Gültig ab“-Datum
+vor März 2024, bzw. älter als 365 Tage ab Stichdatum heute, erfasst, wird dieser StandardEintrag automatisch ausgeblendet. In der Tabelle wird dann ausschließlich das korrekt
+erfasste Konto angezeigt.
+
+2.2
+
+Bearbeiten statt Löschen
+Einträge in der Tabelle können nicht gelöscht, sondern ausschließlich bearbeitet werden.
+1. Um einen fehlerhaften Eintrag zu korrigieren, klicken Sie bitte auf den entsprechenden
+Tabelleneintrag und nehmen Sie die erforderlichen Anpassungen vor.
+2. Bei doppelt oder irrtümlich erfassten Konten nutzen Sie bitte ebenfalls die Funktion
+BEARBEITEN.
+Tragen Sie in den Feldern GÜLTIG AB und GÜLTIG BIS das gleiche Datum ein, um die
+Gültigkeit des betreffenden Kontos effektiv aufzuheben.
+Der Antrag wird Ihnen weiterhin angezeigt, wird jedoch in der Auswertung nicht
+berücksichtigt. Eine Bereinigung der Anzeige erfolgt zu jedem Releasewechsel der
+LUSD.
+
+HMKB | LUSD | Erfassung der Schulgirokonten (für Drittmittel) | Version: 1.0 | 29.07.2025
+
+1
+
+2.3
+
+Jährliche Bestätigungspflicht
+Einmal jährlich – im Zeitraum zwischen dem 1. Januar und dem 15. März eines jeden
+Jahres – ist die Richtigkeit der Kontenerfassung sowie die Kontoprüfung zu bestätigen. Zu
+diesem Zweck wird der Bestätigungsstatus aller Einträge automatisch zum 1. Januar
+zurückgesetzt, und es erscheint eine entsprechende Aufgabe in Ihrer Aufgabenliste.
+Zur Durchführung:
+1. Öffnen Sie die Webseite SCHULE > FINANZEN > SCHULGIROKONTEN.
+2. Wählen Sie den zu bestätigenden Eintrag in der Tabelle aus.
+3. Klicken Sie auf BESTÄTIGEN.
+Die Bestätigung ist so lange möglich, bis alle Einträge genehmigt wurden – auch dann,
+wenn die Aufgabe in der Aufgabenliste nicht mehr sichtbar ist. Die übermittelte Bestätigung
+wird automatisch an das zuständige Schulamt weitergeleitet.
+
+2.4
+
+Geltungsbereich laut Erlass
+Hinweis
+Bitte beachten Sie, dass gemäß Erlass ausschließlich Schulgirokonten für
+Drittmittel zu erfassen und zu bestätigen sind. Andere Kontoarten sind nicht
+Bestandteil dieses Verfahrens.
+Hier finden Sie weitere Informationen: kultus.hessen.de
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Erfassung der Schulgirokonten (für Drittmittel) | Version: 1.0 | 29.07.2025
+
+1
+
+

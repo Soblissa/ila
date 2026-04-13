@@ -1,0 +1,1130 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Daten aus der LUSD effektiv
+verwenden
+
+Version: 2.0
+Letzter Stand: 07.07.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+1
+
+2
+
+Microsoft-Excel-Dateien für eigene Zwecke nutzen .............................................................. 7
+1.1
+
+Spalten oder Zeilen markieren ..................................................................................... 7
+
+1.2
+
+Spalten ausblenden, verschieben und sortieren .......................................................... 7
+
+1.3
+
+Die AutoFilter-Funktion ................................................................................................ 9
+
+1.4
+
+Spalten für eigene Zwecke hinzufügen ...................................................................... 11
+
+1.5
+
+Berechnungen durchführen (ein Beispiel) .................................................................. 11
+
+1.6
+
+Tabellen-Verknüpfung................................................................................................ 13
+
+Seriendruck-Funktionalität mit Word ................................................................................... 16
+2.1
+
+Grundlegendes .......................................................................................................... 16
+
+2.2
+
+Seriendrucke in der Praxis ......................................................................................... 17
+
+2.3
+
+Einfache Seriendrucke ............................................................................................... 17
+
+2.2
+
+Seriendrucke mit Abfragen: Wenn… Dann… Sonst… ............................................... 22
+
+2.3
+
+Tabellen über die Seriendruckfunktion ....................................................................... 23
+
+3
+
+Etikettendruck ..................................................................................................................... 27
+
+4
+
+Gescannte Formulare mit Textfeldern ................................................................................. 30
+
+5
+
+Abschließende Hinweise ..................................................................................................... 34
+
+Abbildungsverzeichnis
+Abb. 1 Spalte ausblenden .............................................................................................................. 7
+Abb. 2 Ausgeblendete Spalten wieder einblenden ......................................................................... 8
+Abb. 3 Spalten verschieben ........................................................................................................... 8
+Abb. 4 Sortieren in der Gruppe Bearbeiten .................................................................................... 9
+
+Abb. 5 Sortierwarnung in Excel ...................................................................................................... 9
+Abb. 6 Spalten mehrfach sortieren ................................................................................................. 9
+Abb. 7 Autofilter-Liste ................................................................................................................... 10
+Abb. 8 Benutzerdefinierter Autofilter ............................................................................................ 11
+Abb. 9 Inhalt der Berechnung der Beispiel-Zellen ........................................................................ 12
+Abb. 10 Markierung der Beispiel-Zellen ....................................................................................... 12
+Abb. 11 Beispiel-Zellen nach der kombinierten Sortierung ........................................................... 12
+Abb. 12 Beispiel-Felder im Abfrageassistenten ............................................................................ 13
+Abb. 13 Dialogfenster Namen definieren ...................................................................................... 14
+Abb. 14 Fenster anordnen ........................................................................................................... 14
+Abb. 15 Darstellung des Ergebnis bei horizontal geteilter Ansicht ................................................ 15
+Abb. 16 Beispiel-Zellen mit Altersspalte ....................................................................................... 15
+Abb. 17 Zusammenhang von Hauptdokument, Datenquelle und Serienbrief................................ 16
+Abb. 18 Auswahl des Seriendruck-Assistenten ............................................................................ 17
+Abb. 19 Empfänger auswählen .................................................................................................... 18
+Abb. 20 Auswahl der Seriendruck-Empfänger-Datei .................................................................... 18
+Abb. 21 Auswahl der Datenliste Allgemein ................................................................................... 19
+Abb. 22 Auswahl der Datenliste aus LUSD-Dateien ..................................................................... 19
+Abb. 23 Auswahl des Empfängers ............................................................................................... 19
+Abb. 24 Auswahl des Seriendruckfelds ........................................................................................ 20
+Abb. 25 Vorschau Ergebnisse anzeigen lassen ........................................................................... 20
+Abb. 26 Serienbriefe überprüfen .................................................................................................. 20
+Abb. 27 Fertig stellen und zusammenführen ................................................................................ 21
+Abb. 28 Datensatzauswahl für Seriendruck.................................................................................. 21
+Abb. 29 Ergebnis des Seriendruck-Assistenten ........................................................................... 21
+Abb. 30 Bedingungsfeld-/Regel-auswahl ..................................................................................... 22
+Abb. 31 Dialog Bedingungsfeld einfügen: WENN ......................................................................... 22
+Abb. 32 Tabellenkopf in Kopfzeile des Dokuments anlegen ......................................................... 23
+Abb. 33 Hauptdokumenttyp Verzeichnis festlegen ....................................................................... 24
+Abb. 34 Empfänger auswählen .................................................................................................... 24
+Abb. 35 Auswahl der Seriendruck-Empfänger-Datei .................................................................... 24
+Abb. 36 Auswahl des Datenliste Allgemein .................................................................................. 25
+Abb. 37 Auswahl des Datenliste aus LUSD-Dateien .................................................................... 25
+Abb. 38 Seriendruckfelder in Tabelle einfügen ............................................................................. 25
+Abb. 39 Bedingungsfeld-/Regel-auswahl ..................................................................................... 26
+Abb. 40 Funktion Sequenz zusammenführen............................................................................... 26
+Abb. 41 Datensatzauswahl für Seriendruck.................................................................................. 26
+Abb. 42 Hauptdokumenttyp Verzeichnis festlegen ....................................................................... 27
+Abb. 43 Dialog Etiketten einrichten .............................................................................................. 27
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+2
+
+Abb. 44 Etikettenformular Allgemein ............................................................................................ 28
+Abb. 45 Empfänger auswählen .................................................................................................... 28
+Abb. 46 Datenquelle auswählen................................................................................................... 28
+Abb. 47 Auswahl des Datenliste Allgemein .................................................................................. 29
+Abb. 48 Auswahl des Datenliste aus LUSD-Dateien .................................................................... 29
+Abb. 49 Etikettenformular nach der Auswahl der Empfängerdaten .............................................. 29
+Abb. 50 Seriendruckfelder in Etikette einfügen............................................................................. 30
+Abb. 51 Auswahldialog für benutzerdefinierte Wasserzeichen ..................................................... 31
+Abb. 52 Dokument mit Formular-Hintergrund ............................................................................... 31
+Abb. 53 Textfeld mit Textfeld-Symbolleiste .................................................................................. 32
+Abb. 54 Form formatieren wählen ................................................................................................ 32
+Abb. 55 Dialogfenster Form formatieren ...................................................................................... 32
+Abb. 56 Formular mit Textfeldern (hervorgehoben) ...................................................................... 33
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt die in der LUSD notwendigen Arbeitsschritte, um die Daten
+der LUSD effizient zu nutzen.
+Bitte beachten Sie: Aus datenschutzrechtlichen Gründen sind nicht alle Daten, die in der LUSD
+eingetragen oder berechnet werden, für eine Nutzung mit externen Programmen freigegeben.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Die Anleitung richtet sich an Personen, die bereits mit Berichten in der LUSD arbeiten und die
+Daten in erstellten CSV-Berichten individueller nachbearbeiten und alternative Ausgabeformate
+generieren möchten.
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+▪ der Schüleraufnahme.
+▪ der Schüler-, Kurs- und Klassensuche.
+▪ der Kursbearbeitung.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+5
+
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+6
+
+1
+
+Microsoft-Excel-Dateien für eigene Zwecke nutzen
+Dieses Kapitel zeigt Möglichkeiten in MICROSOFT-EXCEL auf, die Ihnen die Arbeit mit den
+von der LUSD gelieferten CSV-Dateien komfortabler machen können.
+Für das Verständnis der folgenden Kapitel sind also fundierte Kenntnisse in EXCEL
+notwendig.
+
+1.1
+
+Spalten oder Zeilen markieren
+Spalten oder Zeilen werden durch einen Klick mit der linken Maustaste im Spalten- oder
+Zeilenkopf markiert.
+Alternativ können Sie von einer bereits gewählten Zelle aus mit [STRG] + [Leertaste] die
+ganze Spalte oder mit SHIFT + [Leertaste] die ganze Zeile der aktuell ausgewählten Zelle
+markieren.
+
+1.2
+
+Spalten ausblenden, verschieben und sortieren
+Spalten, die Sie in der Tabelle nicht benötigen, können Sie auch ausblenden. Diese
+Vorgehensweise hat den Vorteil, dass die Informationen in der Tabelle erhalten bleiben.
+Um Spalten auszublenden:
+1. Markieren Sie die auszublendende(n) Spalte(n) über einen Klick mit der linken
+Maustaste im Spaltenkopf.
+2. Klicken Sie mit der rechten Maustaste in die Spalte und wählen im Kontextmenü den
+Befehl AUSBLENDEN.
+
+Abb. 1 Spalte ausblenden
+
+Zum Wiedereinblenden von Spalten:
+1. Markieren Sie die beiden Spalten, die rechts und links der ausgeblendeten Spalte
+sichtbar sind.
+2. Klicken Sie mit der rechten Maustaste in den Spaltenkopfbereich und wählen
+EINBLENDEN.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+7
+
+Abb. 2 Ausgeblendete Spalten wieder einblenden
+
+Zum Verschieben von Spalten:
+1. Markieren Sie zuerst die ganze Spalte.
+2. Klicken Sie mit der rechten Maustaste auf die Spalte und wählen Sie AUSSCHNEIDEN.
+Alternativ können Sie auch den Shortcut [STRG] + [X] verwenden.
+3. Markieren Sie dann die Spalte, vor der Sie die ausgeschnittene Spalte einsetzen
+möchten.
+4. Klicken Sie mit der rechten Maustaste auf die Spalte und wählen AUSGESCHNITTENE
+ZELLEN EINFÜGEN.
+
+Abb. 3 Spalten verschieben
+
+Alternativ können Sie auch über die Maus verschieben:
+1. Markieren Sie zuerst die ganze Spalte.
+2. Führen Sie die Maus an die Spaltenlinie bis ein Kreuz mit Eckpfeilen erscheint.
+3. Ziehen Sie nun mit gedrückter Maustaste die Spalte an die gewünschte Stelle.
+
+Zum Spalten sortieren:
+4. Markieren Sie die Spalte, die Sie sortieren möchten.
+5. Klicken Sie im Register START in der Gruppe BEARBEITEN unter SORTIEREN UND FILTERN
+auf die Schaltsymbole
+(alphabetisch aufsteigend) oder
+(alphabetisch
+absteigend):
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+8
+
+Abb. 4 Sortieren in der Gruppe Bearbeiten
+
+6. Da Sie nur eine Spalte ausgewählt haben, öffnet sich ein Dialogfenster, indem nach der
+Erweiterung des Sortierbereichs gefragt wird, damit die gesamte Tabelle mitsortiert wird.
+
+Abb. 5 Sortierwarnung in Excel
+
+7. Möchten Sie mehrstufig (d.h. nach mehreren Spalten) sortieren, klicken Sie im Register
+START in der Gruppe BEARBEITEN unter SORTIEREN UND FILTERN auf den Schalter
+BENUTZERDEFINIERTES SORTIEREN. Hierfür darf keine Spalte oder Zeile markiert sein. Die
+Angaben der 1. Zeile der Tabelle werden als Überschriften erkannt. Es wird ein
+Dialogfenster angezeigt, in dem Sie mit dem Schalter
+Sortierebenen aneinanderhängen können.
+
+beliebig viele
+
+Abb. 6 Spalten mehrfach sortieren
+
+1.3
+
+Die AutoFilter-Funktion
+Mit der Funktion AUTOFILTER wird man in die Lage versetzt, die Tabelle auf einfache Art
+und Weise nach bestimmten Kriterien zu filtern.
+Hierbei haben Sie zwei Möglichkeiten:
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+9
+
+Anwendung für einzelne Spalten:
+1. Markieren Sie zunächst die Spaltenüberschriften.
+2. Klicken Sie dann im Register START unter SORTIEREN UND FILTERN auf die Schalfläche
+.
+
+Anwendung für alle Spalten:
+1. Klicken Sie eine Zelle in der Tabelle an.
+2. Klicken Sie dann im Register START unter SORTIEREN UND FILTERN auf die Schalfläche
+nun die Schaltsymbole
+
+. In den Zellen mit den Spaltenüberschriften erscheinen
+erzeugt.
+
+3. Klicken Sie diese an, um alle Inhalte der darunter liegenden Spalte aufzulisten.
+Mehrfach vorkommende Werte werden nur einmal aufgelistet. Zusätzlich werden die
+A>Z- und Z>A-Sortierungen sowie weitere Optionen wie ALLES AUSWÄHLEN, LEERE und
+NACH FARBE SORTIEREN oder TEXTFILTER angeboten. Die Option LEERE wird nur
+angezeigt, wenn es in der entsprechenden Spalte leere Zellen gibt.
+
+Abb. 7 Autofilter-Liste
+
+4. Wenn Sie eines der Autofilter-Kriteriums verwenden, wird in der ersten Spalte das
+Schaltsymbol Trichter-Pfeil
+angezeigt. Dieses zeigt außerdem als Hilfe die FilterKriterien an
+
+.
+
+5. Sie können auch benutzerdefiniert sortieren. Klicken Sie auf das Schaltsymbol
+und
+danach auf TEXTFILTER > BENUTZERDEFINIERTER FILTER . Stellen Sie ihre Filter
+benutzerdefiniert ein. Sie können beispielsweise zwei Kriterien für die Filterung
+miteinander kombinieren. Es wird dabei immer ein Kriterium mit einem Inhalt verknüpft
+(z.B. SLR_PLZOrtName „enthält“ Lützelbach o.ä.). Platzhalterzeichen (?) bzw. Asterisk
+(*) sind möglich.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+10
+
+Abb. 8 Benutzerdefinierter Autofilter
+
+6. Die Anzahl der gefilterten Datensätze wird in der Statuszeile links angezeigt:
+7. Soll der AutoFilter wieder entfernt werden, so wählen Sie Sie im Register START in der
+Gruppe BEARBEITEN unter SORTIEREN UND FILTERN die Option LÖSCHEN aus.
+
+1.4
+
+Spalten für eigene Zwecke hinzufügen
+Wenn Sie für eigene Eintragungen in der Tabelle zusätzliche Spalten benötigen…
+1. Markieren Sie ab der Stelle in der Tabelle, an der Sie die Spalten benötigen, mit
+gedrückter linker Maustaste so viele Spaltenköpfe, wie Sie Spalten haben möchten.
+2. Drücken Sie danach die Tastenkombination [STRG] + [].
+
+1.5
+
+Berechnungen durchführen (ein Beispiel)
+Berechnungen werden in EXCEL sehr schnell und komfortabel über Formeln, Funktionen
+und Zellbezüge hergestellt. Berechnungen können Ihnen viel Arbeit abnehmen und sind
+zudem immer aktuell, weil EXCEL die Ergebnisse immer aktuell verarbeitet.
+Im Folgenden wird ein Beispiel beschrieben, anhand derer Sie eine solche Berechnung
+nachvollziehen können.
+Sie möchten eine Geburtstagsliste der Lehrkräfte an Ihrer Schule erstellen, die nach Daten
+im Jahresablauf sortiert ist und gleichzeitig das jeweils aktuelle Alter berechnet.
+1. Die LUSD liefert unter EXTRAS > BERICHTE in der Kategorie PERSONAL eine
+Lehrkräfteliste für die aktuelle UV. In dieser Liste, die Sie als CSV-Datei ausgeben
+müssen, ist auch das Geburtsdatum mit der Feldbezeichnung LEH_GEBDAT verzeichnet.
+Lassen Sie sich diese Tabelle ausgeben und öffnen Sie sie in EXCEL.
+2. Navigieren Sie in der Tabelle bis zur Spalte mit der Feldbezeichnung LEH_GEBDAT .
+Markieren die Spalte rechts davon und fügen Sie, wie unter Kapitel 1.4 beschrieben, vier
+neue Spalten ein (jeweils eine für TAG, MONAT, JAHR DES GEBURTSDATUMS und ALTER).
+3. Schreiben Sie in die ersten Zeilen der Spalten entsprechend TAG, MONAT, JAHR und
+ALTER.
+4. Schreiben Sie in die Zelle unter der Überschrift TAG
+=tag(
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+11
+
+ohne danach die ENTER-Taste zu drücken. Führen Sie Ihre Maus in die Zelle der
+gleichen Zeile, in der das Geburtsdatum der Lehrkraft steht (in unserem Beispiel steht
+das Geburtsdatum in Zelle „N2“ siehe Abb. 9) und bestätigen mit ENTER. In der Zelle
+sollte nun eine Zahl zu lesen sein, die dem Tag des Geburtsdatums entspricht.
+5. Wiederholen Sie dieses Vorgehen in den beiden danebenliegenden Zellen für Monat
+und Jahr, wobei Sie die Funktion =TAG( durch =MONAT( bzw. =JAHR( ersetzen müssen.
+6. Für das Alter gibt es nun zwei Möglichkeiten.
+▪ Entweder es wird das Alter am aktuellen Datum angezeigt. Dann lautet die Formel:
+=DATEDIF(Geburtsdatum;HEUTE();"y")
+▪ Oder es wird das Alter im laufenden Jahr angezeigt. Dann lautet die Formel:
+=(JAHR(HEUTE())-JAHR(Geburtsdatum)
+Die Stelle, an der in der Formel Geburtsdatum steht, ist ein Bezug auf die Zelle, in der
+das Geburtsdatum eingetragen ist. In der Formel muss also die entsprechende
+Zellennummer (in unserem Beispiel N2) eingetragen werden. Die Zelle ALTER enthält in
+unserem Beispiel also folgende Formeln:
+
+Abb. 9 Inhalt der Berechnung der Beispiel-Zellen
+
+7. Übertragen Sie Ihre Formeln auf die anderen Zeilen der jeweiligen Lehrkräfte. Markieren
+Sie hierzu alle Zellen der einen Zeile unterhalb von TAG, MONAT, JAHR und ALTER, indem
+Sie mit gedrückter linker Maustaste von der ersten bis zu letzten Zelle streichen, bis die
+vier Zellen einen gemeinsamen Rahmen wie im folgenden Bild haben:
+
+Abb. 10 Markierung der Beispiel-Zellen
+
+8. Klicken Sie auf das kleine schwarze Viereck am unteren rechten Rand des Kastens und
+ziehen den Kasten mit gedrückter Maustaste nach unten bis zur letzten Zeile Ihrer
+Tabelle. Die Formeln werden damit auf die folgenden Zeilen übertragen und die
+Zellbezüge zu den entsprechenden Geburtsdatums-Zellen der jeweiligen Zeile
+automatisch angepasst.
+9. Sortieren Sie die fertige Tabelle abschließend kombiniert über die Spalten Monat und
+Tag wie in Kapitel 1.2 beschrieben, damit die Lehrkräfte über den Jahresablauf nach
+Geburtsdaten sortiert sind.
+
+Abb. 11 Beispiel-Zellen nach der kombinierten Sortierung
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+12
+
+10. Wenn Sie die Tabelle ausdrucken möchten, können Sie die Spalten mit den
+Informationen, die sie nicht für die Geburtstagsliste benötigen, einfach wie oben
+beschrieben vor dem Drucken ausblenden.
+
+1.6
+
+Tabellen-Verknüpfung
+Um Berechnungen effizient zu gestalten, können Sie auf die Tabelle aus der LUSD eine
+Berechnungs- und Layout-Tabelle aufsetzen. Damit verhindern Sie, dass Änderungen in
+der LUSD zu einer ständigen Neu-Arbeit an der ausgegebenen Tabelle führen.
+
+1.6.1 Die Vorbereitung
+Da eine Verknüpfung nur funktioniert, wenn die Bezüge nicht verloren gehen, ist es wichtig,
+dass die LUSD-Tabelle und die Berechnungs- und Layout-Tabelle im gleichen Verzeichnis
+abgespeichert sind.
+1. Erstellen Sie zuerst eine Tabelle über den Abfrageassistenten der LUSD. Den
+Abfrageassistent finden Sie auf der Webseite EXTRAS > BERICHTE > INDIVIDUELLE
+BERICHTE.
+2. Wenn noch keine Abfrage für Schüler in Form einer Schülerliste vorhanden ist,
+verwenden Sie nur die Felder SCHÜLER_NACHNAME, SCHÜLER_VORNAME,
+KLASSEN_KLASSENBEZEICHNUNG und SCHÜLER_GEBURTSDATUM).
+
+Abb. 12 Beispiel-Felder im Abfrageassistenten
+
+1.6.2 Die Organisation der LUSD-Tabelle
+In der gespeicherten EXCEL-Tabelle vergeben Sie nun wie folgt einen Bereichsnamen:
+1. Klicken Sie in der Tabelle links oben auf das leere graue Feld
+die gesamte Tabelle).
+
+(damit markieren Sie
+
+2. Wählen Sie aus dem Register FORMELN in der Gruppe DEFINIERTE NAMEN unter NAMEN
+DEFINIEREN den Schalter
+
+3. Schreiben Sie in den markierten Eingabekasten lusddaten als Name.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+13
+
+Abb. 13 Dialogfenster Namen definieren
+
+4. Schließen Sie das Dialogfenster mit OK und speichern Sie die Tabelle ab.
+1.6.3 Die Berechnungs- und Layout-Tabelle erstellen
+1. Erstellen Sie nun in EXCEL über DATEI > NEU eine neue Tabelle, die Sie ebenfalls in das
+Verzeichnis der LUSD-Tabelle abspeichern.
+2. Lassen Sie sich nun beide Tabellen übereinander anzeigen. Dazu klicken Sie in im
+Register ANSICHT in der Gruppe FENSTER auf die Schaltfläche ALLE ANORDNEN und
+danach auf HORIZONTAL > OK.
+
+Abb. 14 Fenster anordnen
+
+Führen Sie nun zur Verknüpfung der neuen Tabelle mit der LUSD-Tabelle (die nun
+ebenfalls angezeigt wird) folgende Schritte aus:
+1. Gehen Sie in der neuen Tabelle in die Zelle A1.
+2. Schreiben Sie ein Gleichheitszeichen (=) in diese Zelle, ohne die ENTER-Taste zu
+betätigen.
+3. Klicken Sie dann in der LUSD-Tabelle in das leere graue Feld
+
+ganz oben links.
+
+4. Drücken Sie danach die ENTER-Taste. Dadurch ist eine Verknüpfung von der
+Berechnungs- und Layout-Tabelle zur LUSD-Tabelle für die Zelle A1 hergestellt worden.
+5. Diese Verknüpfung soll nun auf alle anderen Zellen erweitert werden. Gehen Sie hier vor
+wie in Kapitel 1.5, Schritt 8 beschrieben, durch Klicken auf das kleine schwarze Quadrat
+und erweitern des Rahmens. Erweitern Sie den Rahmen um die gleiche Anzahl an
+Zeilen und Spalten, wie in der LUSD-Tabellen abgebildet sind.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+14
+
+Abb. 15 Darstellung des Ergebnis bei horizontal geteilter Ansicht
+
+6. Um die LUSD-Tabelle wieder zu verdecken, maximieren Sie die Berechnungs- und
+Layout-Tabelle über das Schaltsymbol am oberen rechten Rand
+
+.
+
+1.6.4 Die Berechnungs- und Layout-Tabelle mit Berechnungen versehen
+1. Blenden Sie nun in der Berechnungs- und Layout-Tabelle alle Spalten aus, die Sie nicht
+verwenden möchten (in Beispielfall bleiben jetzt nur die Spalten SLR_NACHNAME,
+SLR_STRASSEHAUSNUMMER, SLR_PLZORTNAME, SLR_GEBURTSDATUM und
+SLR_GESCHLECHT_MW eingeblendet). Die Spaltenköpfe können Sie auch umbenennen.
+2. Damit das Alter der Schüler mit angezeigt wird, fügen Sie hinter der letzten Spalte eine
+zusätzliche Spalte ein (die Position ist wichtig, weil sonst die Verknüpfung nicht
+funktioniert).
+3. Die oberste Zelle dieser Spalte erhält den Eintrag ALTER und die folgenden Zellen die
+Formel, die für die Berechnung benutzt wird. Für die Darstellung des Alters gibt es zwei
+Möglichkeiten.
+▪ Entweder das Alter am aktuellen Datum wird angezeigt. Dann lautet die Formel:
+=DATEDIF(Geburtsdatum;HEUTE();"y")
+▪ Oder das Alter im laufenden Jahr wird angezeigt. Dann lautet die Formel:
+=(JAHR(HEUTE())-JAHR(Geburtsdatum)
+Wobei für das Geburtsdatum wiederum ein Zellbezug auf die Zelle mit dem
+Geburtsdatum eingesetzt wird (siehe Kapitel 1.5, Schritt 6)
+4. Übertragen Sie diese Formel ebenfalls über Ziehen der Zelle auf die darunterliegenden
+Zellen bis ans Ende der Spalte, damit auch hier das Alter der Schüler erscheint (siehe
+Kapitel 1.5, Schritt 7).
+
+Abb. 16 Beispiel-Zellen mit Altersspalte
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+15
+
+1.6.5 Die Berechnungs- und Layout-Tabelle sortieren
+Durch die Verknüpfung der Berechnungs- und Layout-Tabelle mit der LUSD-Tabelle ergibt
+sich das Problem, dass in der Berechnungs- und Layout-Tabelle nicht ohne Weiteres nach
+bestimmten Spalten (in dem Beispiel nach Alter) sortiert werden kann, da die LUSD-Tabelle
+die Zellinhalte bestimmt.
+Für das weitere Vorgehen sollten Sie die Formatierungen der Tabelle abgeschlossen und
+die Datei abgespeichert haben.
+Um sortieren zu können, müssen die Formeln zuerst in Festwerte umgewandelt werden.
+Gehen Sie dazu wie folgt vor:
+1. Markieren Sie den gesamten Datenbereich in der Tabelle (gehen Sie in Zelle A1 und
+halten die STRG- und SHIFT-Taste gedrückt und drücken dann zusätzlich erst die
+Pfeiltaste rechts und dann unten.).
+2. Klicken Sie mit der rechten Maustaste den rechten Rand der Markierung an und ziehen
+Sie ihn bei gedrückt gehaltener rechter Maustaste eine Spalte nach rechts und gleich
+danach wieder nach links. Lassen Sie die rechte Maustaste wieder los.
+3. Wählen Sie aus dem Kontextmenü den Befehl HIERHIN NUR ALS WERTE KOPIEREN und
+die Verknüpfungen werden durch Festwerte ersetzt.
+
+2
+
+Seriendruck-Funktionalität mit Word
+
+2.1
+
+Grundlegendes
+Die Seriendruck-Funktionalität von WORD oder einem funktionsähnlichen Programm
+ermöglicht es Ihnen, die ausgegebenen Daten der LUSD individuell auf Ihre Bedürfnisse
+ausgerichtet neu zu interpretieren und in völlig anderer Form für Ihre Zwecke nutzbar zu
+machen.
+Ein Seriendruck (seit WORD 2007 als SENDUNGEN bezeichnet) besteht immer aus einem
+Hauptdokument (dem eigentlichen Brief o.ä.) und einem Steuerdokument.
+
+Abb. 17 Zusammenhang von Hauptdokument, Datenquelle und Serienbrief
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+16
+
+Das Hauptdokument enthält die Seriendruckfelder, sowie alle gleich bleibenden
+Textabschnitte, die sich in jedem Seriendruck wiederholen sollen.
+Als Steuerdokument dient eine Tabelle, welche z.B. mit Word oder EXCEL angelegt wurde.
+Im Fall der Verwendung von Seriendrucken mit der LUSD wird es eine XLSX-Datei sein,
+die mit dem Abfrageassistenten generiert wurde oder eine CSV-Datei, die mit der
+Berichtsverwaltung generiert wurde.
+Um die Serienbriefe auszudrucken, müssen beide Dokumente zu einem Seriendokument
+verknüpft werden.
+
+2.2
+
+Seriendrucke in der Praxis
+Die Erstellung eines Seriendruckes in WORD erfolgt in der Regel folgenden Schritten:
+▪
+▪
+▪
+▪
+
+Dokumententyp auswählen (Briefe, E-Mail, Umschläge, Etiketten, Verzeichnisse, etc.)
+Datenquelle auswählen (vorhandene Dateien im Typ *.xls- oder *.doc)
+Brief- oder Dokument schreiben (Text schreiben, Seriendruckfelder einfügen…)
+Seriendruck-Vorschau erstellen (Prüfung der Seriendrucke im Vorschaufenster am
+Bildschirm)
+▪ Seriendruck durchführen (Ausgabe einer neuen Datei oder als gedruckte Version über
+den Drucker)
+Diese Auflistung dient zunächst der ersten Übersicht. Wie Sie die Schritte mit LUSD-Daten
+durchprozessieren, erklären die weiteren Kapitel.
+
+2.3
+
+Einfache Seriendrucke
+Die einfachste Nutzung von Seriendrucken erfolgt über die Berichtsverwaltung der LUSD.
+Eine eigene Seriendruckerstellung kann aber nur mit Hilfe aus der LUSD generierten EXCEL
+-Datensätzen erfolgen.
+
+2.1
+
+Verwendung der Seriendruckfunktion von Word
+Die einzelnen Arbeitsschritte sollen nun am Beispiel des Aufnahmeschreibens
+exemplarisch durchlaufen werden.
+Schritt 1: Dokumenttyp auswählen
+1. Starten Sie MICROSOFT WORD. Wählen Sie im Register SENDUNGEN > SERIENDRUCK
+STARTEN > BRIEFE.
+
+Abb. 18 Auswahl des Seriendruck-Assistenten
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+17
+
+Zur Unterscheidung der möglichen Auswahlfelder (Auszug):
+▪ Bei BRIEF wird eine ganze Seite pro Datensatz der Quelle erstellt.
+▪ Bei VERZEICHNIS wird eine Zeile pro Datensatz der Quelle untereinander aufgelistet
+bis die Seite gefüllt ist.
+▪ Bei ETTIKETTEN werden Ettiketten in vorab auswählbarem Maß mit bestimmte
+Datensätze aus der Quelle erstellt (siehe Kapitel 3).
+Schritt 2: Empfänger wählen
+2. Wählen Sie unter EMPFÄNGER AUSWÄHLEN > VORHANDENE LISTE VERWENDEN aus, da Sie
+die Empfänger-Datei bereits über die Berichtsverwaltung oder den Abfrageassistenten
+erstellt haben.
+
+Abb. 19 Empfänger auswählen
+
+3. Rufen Sie im Dialogfenster die EXCEL-Datei auf, die die gewünschten Datensätze
+enthält.
+
+Abb. 20 Auswahl der Seriendruck-Empfänger-Datei
+
+4. Es erscheint danach ein Dialogfenster, das die einzelnen Tabellenblätter der EXCELDatei auflistet. Das erste Tabellenblatt, in dem sich alle exportierten Daten befinden, ist
+bereits ausgewählt (Tabelle1$). Schließen Sie das Dialogfenster per Klick auf OK.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+18
+
+Abb. 21 Auswahl der Datenliste Allgemein
+
+Wenn Sie Empfängerdaten verwenden, die als CSV-Datei von der LUSD direkt erstellt
+wurden, dann ist die Tabellen-Auswahl eingeschränkt, weil diese Dateien nur ein
+Tabellenblatt enthalten:
+
+Abb. 22 Auswahl der Datenliste aus LUSD-Dateien
+
+Mit dem Button EMPFÄNGERLISTE BEARBEITEN können Sie gezielt einzelne Datensätze
+auswählen. Da bereits alle Datensätze durch Häkchen ausgewählt sind, schließen Sie
+das Dialogfenster mit Klick auf OK.
+
+Abb. 23 Auswahl des Empfängers
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+19
+
+Schritt 3: Brief schreiben, Datenbankfelder einfügen
+5. Geben Sie nun im Hauptdokument entweder den Text ein, der in allen Serienbriefen
+gleich sein wird.
+Eine Alternative dazu ist folgende:
+6. Sie haben den Brief schon erstellt und die Stellen gekennzeichnet, an denen variablen
+Inhalte eingefügt werden sollen (z.B. für die Anrede jedes einzelnen Ansprechpartners).
+Diese Kennzeichnungen müssen nun durch die adäquaten Datenbankfelder ersetzt
+werden. Generell ist folgendes Vorgehen sinnvoll:
+7. Setzen Sie den Mauszeiger an die Stelle, an der das Seriendruckfeld eingefügt werden
+soll. Wählen Sie im Wordmenü SENDUNGEN > SERIENDRUCKFELD EINFÜGEN und wählen
+Sie das gewünschte Feld aus. Das Feld wird an der gewünschten Position eingefügt und
+mit zwei spitzen Klammern als Seriendruckfeld dargestellt (z.B. <<ANREDE>>).
+Wiederholen Sie diese Schritte, bis alle Seriendruckfelder eingefügt sind.
+
+Abb. 24 Auswahl des Seriendruckfelds
+
+8. Klicken Sie auf SENDUNGEN > VORSCHAU ERGEBNISSE um zum nächsten Schritt zu
+gelangen.
+
+Abb. 25 Vorschau Ergebnisse anzeigen lassen
+
+Schritt 4: Seriendruck-Vorschau
+9. In der Seriendruckvorschau können Sie sich am Bildschirm die fertigen Serienbriefe
+anzeigen lassen. Prüfen Sie hiermit, ob die Platzhalter an der richtigen Stelle stehen und
+die Serienbriefe damit korrekt ausgegeben werden. Über die Schaltflächen
+bzw.
+können Sie zwischen den einzelnen Serienbriefen zurück- bzw. vorwärts blättern.
+
+Abb. 26 Serienbriefe überprüfen
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+20
+
+10. Wenn der Serienbrief korrekt angezeigt wird, klicken Sie auf FERTIGSTELLEN UND
+ZUSAMMENFÜHREN.
+
+Abb. 27 Fertig stellen und zusammenführen
+
+Schritt 5: Serienbrief beenden, Ausgabe in separates Dokument
+Im letzten Schritt bestimmen Sie, wie Sie die Serienbriefe ausgeben möchten.
+11. Um die Serienbriefe als separates Dokument zu speichern, klicken Sie auf EINZELNE
+DOKUMENTE BEARBEITEN…Es erscheint ein Dialogfenster SERIENDRUCK IN NEUES
+DOKUMENT, in dem Sie auswählen können, welche Datensätze Sie ausgeben möchten.
+
+Abb. 28 Datensatzauswahl für Seriendruck
+
+In unserem Beispiel fügt WORD nach Bestätigung mit OK alle Briefe in ein neues
+Dokument mit dem vorläufigen Namen SERIENBRIEFE1 ein.
+
+Abb. 29 Ergebnis des Seriendruck-Assistenten
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+21
+
+2.2
+
+Seriendrucke mit Abfragen: Wenn… Dann… Sonst…
+Ein Problem, auf das Sie beim Erstellen von Serienbriefen häufig treffen, sind die
+unterschiedlichen Anreden, die Sie im Falle HERR und FRAU brauchen.
+1. Klicken Sie im WORD-Menübaum unter SENDUNGEN > SCHREIB- UND EINFÜGEFELDER >
+REGELN > WENN…DANN…SONST.
+
+Abb. 30 Bedingungsfeld-/Regel-auswahl
+
+2. Beginnen Sie mit dem Bereich: BEDINGUNGSFELD EINFÜGEN: WENN. Unter FELDNAME
+finden Sie eine Liste mit den Feldnamen, die in Ihrem STEUERDOKUMENT vorhanden
+sind. Sie können hierbei auch auf Felder zugreifen, die Sie im HAUPTDOKUMENT nicht
+verwendet haben.
+
+Abb. 31 Dialog Bedingungsfeld einfügen: WENN
+
+3. Suchen Sie sich hier einen Feldnamen aus, auf den eine Bedingung zutreffen soll, z.B.
+GESCHLECHT.
+4. Suchen Sie unter VERGLEICH nun eine Art des Vergleiches aus. So soll zum Beispiel ein
+bestimmter Text in dem Feld GESCHLECHT stehen, der angibt, ob der Adressat des
+Briefes männlich oder weiblich ist. Also wählen Sie Gleich. Unter VERGLEICHEN MIT:
+geben Sie nun ein, mit welchem Inhalt das Geschlecht verglichen werden soll. Haben
+Sie in Ihrem Serienbrief das Geschlecht durch den Buchstaben M spezifiziert, muss der
+Inhalt des Feldes unter GESCHLECHT mit diesem Buchstaben verglichen werden.
+5. Legen Sie nun fest, welcher Text eingefügt werden soll, wenn die angegebene
+Bedingung erfüllt wird. Tragen Sie diesen Text im Feld DANN DIESEN TEXT EINFÜGEN: ein,
+z.B. Lieber.
+Achtung
+Die Zeile darf nicht mit Return beendet werden.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+22
+
+6. Geben Sie zum Schluss noch im Feld SONST DIESEN TEXT EINFÜGEN: den Alternativtext
+ein, wenn die Bedingung nicht zutrifft. Das Feld kann auch leer bleiben, wenn im
+Seriendruck nichts erscheinen soll. So zum Beispiel Liebe.
+Achtung
+Auch hier die Zeile nicht mit Return beenden.
+7. Klicken Sie auf OK. An dieser Stelle sollten Sie einen Seriendrucktestdurchlauf machen,
+indem Sie wie oben beschrieben die Seriendruck-Vorschau mit Klick auf VORSCHAU
+ERGEBNISSE aufrufen.
+
+Hinweis
+Für weiterführende Informationen zum Bedingungsfeld WENN... DANN…
+SONST… rufen Sie die Hilfe von WORD auf.
+
+2.3
+
+Tabellen über die Seriendruckfunktion
+In den bisherigen Beispielen hat WORD für jeden Datensatz eine neue Seite angelegt.
+Sollen möglichst viele Datensätze (z.B. Lehrer mit Geburtstagen) auf einer Seite
+ausgegeben werden, müssen Sie eine Tabelle als Seriendruck erstellen.
+Hierfür stellt WORD die Seriendruckoption VERZEICHNIS zur Verfügung.
+1. Legen Sie hierfür eine neue Datei an. Klicken Sie in dieser Datei doppelt in den
+Kopfzeilenbereich und erstellen dort über den EINFÜGEN>TABELLE eine einzeilige Tabelle
+mit der Anzahl der benötigten Tabellenspalten.
+2. Formatieren Sie die Spaltenbreiten durch Schieben der Spaltentrennlinien und füllen
+diese Tabelle danach mit den gewünschten Spaltenüberschriften.
+
+Abb. 32 Tabellenkopf in Kopfzeile des Dokuments anlegen
+
+3. Klicken Sie doppelt in die Dokumentenfläche um den Kopfzeilenbereich zu verlassen. In
+der ersten Zeile des Dokuments erstellen Sie nun auf die gleiche Art eine weitere
+einzeilige Tabelle mit der gleichen Tabellenspaltenaufteilung wie in der Kopfzeile.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+23
+
+4. Klicken Sie danach auf SERIENDRUCK STARTEN > VERZEICHNIS.
+
+Abb. 33 Hauptdokumenttyp Verzeichnis festlegen
+
+5. Wählen Sie unter EMPFÄNGER AUSWÄHLEN die Option VORHANDENE LISTE VERWENDEN…
+aus, da Sie die Empfänger-Datei bereits über die Berichtsverwaltung oder den
+Abfrageassistenten erstellt haben.
+
+Abb. 34 Empfänger auswählen
+
+6. Es öffnet sich ein Dialogfenster. Klicken Sie auf die EXCEL-Datei, die die gewünschten
+Datensätze enthält und anschließend auf ÖFFNEN.
+
+Abb. 35 Auswahl der Seriendruck-Empfänger-Datei
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+24
+
+7. Es öffnet sich ein Dialogfenster, das die einzelnen Tabellenblätter der EXCEL-Datei
+auflistet. Das erste Tabellenblatt, in dem sich alle exportierten Daten befinden, ist bereits
+ausgewählt (Tabelle1$). Schließen Sie das Dialogfenster mit Klick auf OK.
+
+Abb. 36 Auswahl des Datenliste Allgemein
+
+Wenn Sie Empfängerdaten verwenden, die als CSV-Datei von der LUSD direkt erstellt
+wurden, ist die Tabellen-Auswahl eingeschränkt, weil diese Dateien nur ein Tabellenblatt
+enthalten.
+
+Abb. 37 Auswahl des Datenliste aus LUSD-Dateien
+
+8. Mit dem Button EMPFÄNGERLISTE BEARBEITEN können Sie gezielt einzelne Datensätze
+auswählen. Da bereits alle Datensätze durch Häkchen ausgewählt sind, bestätigen Sie
+die Auswahl mit Klick auf OK.
+9. Die Tabelle des Hauptdokumentes muss nun mit den entsprechenden
+Seriendruckfeldern gefüllt werden. Setzen Sie den Mauszeiger in die Zelle, in die das
+Seriendruckfeld eingefügt werden soll. Klicken auf SENDUNGEN>SERIENDRUCKFELD
+EINFÜGEN wählen das gewünschte Feld aus. Das Feld wird an der vorab gewählten
+Position eingefügt und mit zwei spitzen Klammern als Seriendruckfeld dargestellt (z.B.
+<<Anrede>>). Wiederholen Sie diese Schritte, bis alle Zellen gefüllt sind.
+
+Abb. 38 Seriendruckfelder in Tabelle einfügen
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+25
+
+WORD stellt auch die Option zur Verfügung, Datensätze nach bestimmten Regeln
+durchzunummerieren. Beispielsweise wenn die Daten der ersten Spalte automatisch
+durchnummeriert werden sollen, unabhängig von ihrer Position in der Datenquelle. Dies
+wird über die Regel SEQUENZ ZUSAMMENFÜHREN GELÖST.
+1. Setzen Sie den Mauszeiger in das Tabellenfeld, in dem die Nummer angezeigt werden
+soll.
+2. Klicken Sie im Register Sendungen > auf die Schaltfläche
+SEQUENZ ZUSAMMENFÜHREN aus.
+
+und wählen
+
+Abb. 39 Bedingungsfeld-/Regel-auswahl
+
+In der Tabelle wird dies durch den Eintrag << Seriendrucksequenz-Nr.>> angezeigt.
+
+Abb. 40 Funktion Sequenz zusammenführen
+
+3. Bestimmen Sie nun, wie Sie die Tabelle ausgeben möchten. Um die Tabelle als separates Dokument zu speichern, klicken Sie auf EINZELNE DOKUMENTE BEARBEITEN…
+4. Es öffnet sich das Dialogfenster SERIENDRUCK IN NEUES DOKUMENT, in dem Sie
+auswählen können, welche Datensätze Sie ausgeben möchten.
+
+Abb. 41 Datensatzauswahl für Seriendruck
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+26
+
+3
+
+Etikettendruck
+Wenn Sie für den Versand von Unterlagen Briefumschläge ohne Adressfenster verwenden
+möchten, können Sie die erforderlichen Adressaufkleber auch als Seriendruck erstellen.
+Eine weitere Anwendungsmöglichkeit könnten auch Aufkleber für Karteikarten für Schüler
+oder auch Personal sein.
+Für die oder ähnliche Anwendungsfälle stellt WORD die Seriendruckoption ETIKETTEN zur
+Verfügung.
+1. Legen Sie hierfür eine neue Datei an. Wählen Sie im Menüband SENDUNGEN >
+SERIENDRUCK STARTEN > ETIKETTEN.
+
+Abb. 42 Hauptdokumenttyp Verzeichnis festlegen
+
+Es öffnet sich das Dialogfester Etiketten einrichten.
+
+Abb. 43 Dialog Etiketten einrichten
+
+2. Wählen Sie in diesem Dialogfenster unter ETIKETTENINFORMATIONEN in den Feldern
+ETIKETTENHERSTELLER und ETIKETTENNUMMER jeweils einen beliebigen Eintrag
+entsprechend der Ihnen vorliegenden Etikettenblätter, z.B. Avery Zweckform und 347.
+Die Informationen finden Sie in der Regel auf der Etikettenverpackung. Bestätigen Sie
+Ihre Auswahl mit OK. WORD erstellt nun eine ganzseitige Tabelle mit den Abmessungen
+des ausgewählten Etikettentyps.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+27
+
+Abb. 44 Etikettenformular Allgemein
+
+3. Wählen Sie unter EMPFÄNGER AUSWÄHLEN die Option VORHANDENE LISTE VERWENDEN…
+aus, da Sie die Empfänger-Datei bereits über die Berichtsverwaltung oder den
+Abfrageassistenten erstellt haben.
+
+Abb. 45 Empfänger auswählen
+
+4. Es öffnet sich das Dialogfenster DATENQUELLE AUSWÄHLEN. Wählen Sie hier die EXCELDatei, die die gewünschten Datensätze enthält und bestätigen Sie mit ÖFFNEN.
+
+Abb. 46 Datenquelle auswählen
+
+5. Es öffnet sich dann ein Dialogfenster, der die einzelnen Tabellenblätter der EXCEL-Datei
+auflistet. Das erste Tabellenblatt, in dem sich alle exportierten Daten befinden, ist bereits
+ausgewählt (Tabelle1$). Schließen Sie das Dialogfenster mit Klick auf OK.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+28
+
+Abb. 47 Auswahl des Datenliste Allgemein
+
+Wenn Sie die Empfängerdaten verwenden, die als CSV-Datei von der LUSD direkt
+erstellt wurden, dann ist die Tabellen-Auswahl eingeschränkt, weil diese Dateien nur ein
+Tabellenblatt enthalten.
+
+Abb. 48 Auswahl des Datenliste aus LUSD-Dateien
+
+Mit dem Button EMPFÄNGERLISTE BEARBEITEN können Sie gezielt einzelne Datensätze
+auswählen. Da bereits alle Datensätze durch Häkchen ausgewählt sind, schließen Sie
+auch hier das Dialogfenster mit Klick auf OK.
+Die Tabelle ändert ihr Aussehen. Normalerweise erstellt WORD beim Seriendruck nach
+jedem Datensatz einen Seitenwechsel. Das Seriendruckfeld <<Nächster Datensatz>>
+sorgt dafür, dass der nächste Datensatz ebenfalls noch auf dieser Seite ausgegeben
+wird.
+
+Abb. 49 Etikettenformular nach der Auswahl der Empfängerdaten
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+29
+
+6. Ergänzen Sie nun die entsprechenden Seriendruckfelder in der ersten Zelle des
+Etikettenformulars (z.B. <<VORNAME>>, <<NACHNAME>> etc.). Setzen Sie dazu den
+Mauszeiger an die Stelle des ersten Etiketts, an der das Seriendruckfeld eingefügt
+werden soll. Klicken Sie im Menüband unter SENDUNDEN > SERIENDRUCKFELD EINFÜGEN
+und wählen Sie das gewünschte Feld aus. Das Feld wird an der vorab gewählten
+Position eingefügt und mit zwei spitzen Klammern als Seriendruckfeld dargestellt.
+Wiederholen Sie diese Schritte, bis alle Seriendruckfelder eingefügt sind.
+
+Abb. 50 Seriendruckfelder in Etikette einfügen
+
+7. Formatieren Sie nun die Etikettendaten nach Ihren Bedürfnissen.
+8. Das Layout und der Inhalt des ersten Etiketts müssen nun auch auf die anderen
+Etiketten übertragen werden. WORD stellt hierfür eine Funktion zur Verfügung. Klicken
+Sie im Menüband unter SENDUNGEN > SCHREIB- UND EINFÜGEFELDER > ETIKETTEN
+AKTUALISIEREN
+. WORD füllt nun alle anderen Etiketten mit den
+gleichen Seriendruckfeldern wie im ersten Etikett.
+Hinweis
+Führen Sie diese Aktion ebenfalls aus, wenn Sie am Inhalt oder der
+Formatierung der Etiketten Änderungen durchführen müssen. Dafür müssen
+Sie dann lediglich die Änderungen im ersten Etikett eintragen und dann
+erneut aktualisieren.
+9. Setzen Sie nun den Seriendruck wie vorher beschrieben fort (z.B. über Ausgabe in
+eine Datei).
+
+4
+
+Gescannte Formulare mit Textfeldern
+Neben der Möglichkeit, die Seriendrucke in WORD als Text selbst zu erstellen, gibt es noch
+eine Möglichkeit, auch fertige Formulare (z.B. Schulzeitbescheinigung bzw. Unfallanzeige)
+mit der Seriendruck-Funktionalität und den LUSD-Datensätzen auszugeben.
+Hierzu erhalten Sie im Folgenden eine Anleitung.
+
+4.1
+
+Das Formular erstellen
+Die hier vorgestellte Methode funktioniert nur bei einseitigen Formularen. Mehrseitige
+Formulare können nur über Grafik-Einbindungen erstellt werden.
+Für das Formular benötigen Sie eine Originalvorlage in Papierform.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+30
+
+1. Scannen Sie dieses Papier zunächst in Original-Größe (z.B. DIN A4), Schwarz-Weiß
+oder in Farbe und mit einer Scan-Auflösung von 96 dpi ein. Dadurch wird sichergestellt,
+dass das Formular exakt zum Dokument passt. Legen Sie das gescannte Blatt in dem
+gleichen Verzeichnis wie das Dokument, welches Sie mit WORD erstellen, als Bild-Datei
+im JPG-Format ab.
+2. Öffnen Sie ein neues Dokument und legen Sie über LAYOUT > SEITE EINRICHTEN über
+FORMAT und AUSRICHTUNG die Größe und die Ausrichtung des Dokumentes so fest, wie
+das Originalblatt vorgelegen hat.
+3. Legen Sie danach über ENTWURF > SEITENHINTERGRUND > WASSERZEICHEN >
+BENUTZERDEFINIERTES WASSERZEICHEN den Scan als Wasserzeichen fest. Hierzu
+wählen Sie im angezeigten Dialogfenster die Option BILDWASSERZEICHEN. Achten Sie
+hierbei darauf, dass die Skalierung 100% beträgt und dass der Haken bei AUSWASCHEN
+nicht gesetzt ist, da sonst der Scan nicht richtig angezeigt und gedruckt wird.
+
+Abb. 51 Auswahldialog für benutzerdefinierte Wasserzeichen
+
+Das Dokument erscheint jetzt mit einem Hintergrund in Form des gescannten Formulars.
+
+Abb. 52 Dokument mit Formular-Hintergrund
+
+Hinweis
+Wenn Sie das Formular mit Hintergrund benutzen, müssen Sie bedenken,
+dass eine korrekte Anzeige dieses Hintergrunds sowohl im Seiten-Layout als
+auch in der Seitenansicht nur erfolgt, wenn die ZOOM-Stufe des Dokuments
+auf 100% eingestellt ist.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+31
+
+4.2
+
+Die Formularfelder ins Formular einsetzen
+Die Formularfelder werden nun nicht über normalen Text eingegeben, da dieser Text nicht
+frei auf dem Dokument platziert werden kann.
+1. Verwenden Sie deshalb Textfelder. Klicken Sie dazu im Menüband auf EINFÜGEN > TEXT
+> TEXTFELD ERSTELLEN. Das Textfeld kann frei im Dokument positioniert werden. Beim
+Klick auf das Textfeld erscheint im Menüband der neue Reiter FORMFORMAT. Darin
+können Sie weiterführende Formatierungen (wie z.B. Textausrichtung etc.) vornehmen.
+
+Abb. 53 Textfeld mit Textfeld-Symbolleiste
+
+2. Mit gedrückter Maustaste auf den Griffen
+
+können Sie die Größe und auf dem Kreuz
+
+die Position des Textfeldes (auch über die Pfeiltasten bedienbar) auf dem Formular
+verändern.
+3. Wenn Sie ein positioniertes Textfeld mit der rechten Maustaste anklicken, können Sie im
+Kontext-Menü FORM FORMATIEREN auswählen. Hier können in verschiedenen
+Abteilungen weitere Formatierungen für das Textfeld vorgenommen werden.
+
+Abb. 54 Form formatieren wählen
+
+Abb. 55 Dialogfenster Form formatieren
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+32
+
+4. Damit nur der Inhalt des Textfeldes später im Formular erscheint, wählen Sie für die
+Füllung Keine Füllung und für die Linie Keine Linie aus.
+Tipp
+Kopieren Sie das formatierte Textfeld in die Zwischenablage und fügen es bei
+jedem entsprechenden Formularfeld wieder ein, müssen Sie danach nur noch
+die Größe anpassen.
+4.3
+
+Die Formularfelder als Seriendruck-Datenfelder anlegen
+Die Eintragung der Seriendruckfelder ist einfach und erfolgt nun auf die gleiche Art und
+Weise, wie bereits oben beschrieben:
+1. Datenquelle öffnen.
+2. Seriendruckfeld in Textfeld einfügen.
+3. Gegebenenfalls Ankreuzfelder mit WENN… DANN… SONST… - Bedingungsfeld und TextEinfügung „X“ erstellen.
+4. Seriendruck-Vorschau anzeigen lassen.
+5. Seriendruck in ein neues Dokument erstellen.
+
+Und so könnte dann ein fertiges Formular aussehen:
+
+Abb. 56 Formular mit Textfeldern (hervorgehoben)
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+33
+
+Hinweis
+Wenn Sie das Formular als PDF-Dokument ausgeben möchten, damit es z.B.
+per E-Mail versendet werden kann, beachten Sie bitte, dass die Auflösungen
+bei PDF-Ausgaben eingestellt werden muss. Stellen Sie die Auflösung des
+PDF-Druckers ebenfalls auf die Auflösung des Dokuments (96 dpi).
+
+5
+
+Abschließende Hinweise
+Folgende Hinweise können Ihnen Ihre Arbeit mit der LUSD vereinfachen:
+▪ Die Berichtsverwaltung enthält über 100 verschiedene Berichte. Versuchen Sie zuerst,
+Ihre Daten mit den passenden Standard-Berichten auszugeben. Das spart Ihnen Arbeit.
+▪ Möchten Sie eigene Seriendrucke erstellen, die denen aus der Berichtsverwaltung
+ähneln, so können Sie zuerst einmal den Bericht im WORD-Format ausgeben lassen,
+abspeichern und dann nach Ihren Wünschen ändern und mit dem gleichen Bericht im
+EXCEL-Format wieder als Seriendruck verknüpfen.
+
+▪ Der Abfrage-Assistent gibt die größtmögliche Datenmenge aus der LUSD in EXCELTabellen aus. Hier können Sie auch sogenannte All-Inklusive-Tabellen (in denen dann
+alle Datenfelder enthalten sind) ausgeben, die für eine gezielte Weiterverarbeitung mit
+EXCEL bzw. WORD verfeinert werden können.
+▪ Verwenden Sie Filter im Abfrage-Assistenten, um gezielte Tabellen zu erstellen.
+▪ Sie können bereits vorliegende Texte leicht in Seriendruck-Texte umwandeln, in dem
+Sie das Seriendruck-Setup in WORD dazu benutzen, das Dokument als Serienbrief zu
+definieren, und dann Datenfelder hinzufügen.
+▪ Sollten Sie noch Serienbriefe aus der alten LUSD vorliegen haben, können Sie diese
+trotz anderer Seriendruckfeld-Bezeichnungen weiterverwenden. Ein Assistent in WORD
+hilft Ihnen beim Ersetzen der alten Feldnamen durch die jetzt gültigen.
+
+HMKB | LUSD | Daten aus der LUSD effektiv verwenden | Letzter Stand: 07.07.2025 | Version: 2.0
+
+34
+
+

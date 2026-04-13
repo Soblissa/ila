@@ -1,0 +1,166 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Sprachförderangebot Deutsch-Förderkurs
+Abbildung von Deutsch-Förderkursen in der LUSD
+
+1
+
+Zu diesem Dokument
+Das Sprachförderangebot Deutsch-Förderkurse wird für Schüler verschiedener
+Altersstufen zur Erweiterung ihrer Deutschkenntnisse angeboten.
+Deutsch-Förderkurse…
+ helfen Schülern, die deutsche Sprache in Wort und Schrift noch besser zu verstehen
+und zu gebrauchen.
+ unterstützen Schüler auf dem Weg zu einem qualifizierten Schulabschluss.
+ stellen ein additives Angebot zum Regelunterricht dar.
+ umfassen
+ in der Grundschule bis zu zwei zusätzliche Unterrichtsstunden in der Woche.
+ in den weiterführenden Schulen bis zu vier zusätzliche Unterrichtstunden in der
+Woche.
+ können klassen-, stufen- und schulformübergreifend angelegt werden.
+ sind in ihrer maximalen Dauer nicht festgelegt.
+ können im Zeugnis vermerkt werden (siehe Kap. Fehler! Verweisquelle konnte nicht
+gefunden werden.).
+
+Deutsch-Förderkurse werden gemäß § 52 VOGSV eingerichtet für…
+ Schüler nichtdeutscher Herkunftssprache in Regelklassen,
+ die sich zwar verständigen können, aber noch nicht über die für eine erfolgreiche
+Mitarbeit im Unterricht erforderlichen Kenntnisse der deutschen Sprache in Wort und
+Schrift verfügen.
+ die nicht an einem Vorlaufkurs oder einer Intensivmaßnahme (Intensivklasse,
+Intensivkurs, Alphabetisierungskurs) teilnehmen.
+
+HMKB | LUSD | Sprachförderangebot Deutsch-Förderkurs | Version: 1.1 | 24.04.2024
+
+1
+
+Diese Schüler sind verpflichtet, an den eingerichteten Deutsch-Förderkursen
+teilzunehmen!
+ Schüler nichtdeutscher Herkunftssprache in Regelklassen nach Abschluss der
+Intensivmaßnahme, deren Sprachförderung – nach Beschluss der Klassenkonferenz –
+weitergeführt werden soll.
+Schüler, die an Deutsch-Förderkursen teilnehmen
+ zählen nicht zu den Seiteneinsteigern und werden daher nicht in der Schulform
+NDHS/- geführt,
+ können, aber müssen nicht in der Vergangenheit der Schulform NDHS/- zugeordnet
+worden sein,
+ werden den passenden Regelschulformen und Regelklassen zugeordnet.
+Hinweis
+Diese Anleitung berücksichtigt die Abbildung des Sprachförderangebotes in
+den Bildungsgängen der allgemeinbildenden und beruflichen Schulen,
+ausgenommen sind die Bildungsgänge zur Berufsvorbereitung (BZB).
+Um die Deutschförderung für ehemalige Seiteneinsteigerinnen und
+Seiteneinsteiger während der dualen Ausbildung im Rahmen des zweiten
+Berufsschultages abzubilden, beachten Sie bitte die Anleitung Erfassen der
+Deutschförderung am zweiten Berufsschultag.
+
+2
+
+Deutsch-Förderkurse anlegen
+Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die
+benötigten Deutschkurse für das Sprachförderangebot Deutsch-Förderkurse an.
+Kursmerkmal
+
+Eintrag/Anmerkung
+
+Kursart
+
+Z – Zusatzunterricht
+ Für diese Kurse werden keine Leistungen erfasst und sie werden
+nicht im Zeugnis angezeigt (siehe Kapitel Fehler! Verweisquelle
+konnte nicht gefunden werden.).
+ Unter Bemerkungen kann der Besuch eines Kurses im Zeugnis
+vermerkt werden (siehe Kapitel Fehler! Verweisquelle konnte
+nicht gefunden werden.).
+
+Schulform/ Stufe/
+Klasse
+
+Die Deutsch-Förderkurse können sowohl
+ für eine bestimmte Schulform/Stufe/Klasse als auch
+
+HMKB | LUSD | Sprachförderangebot Deutsch-Förderkurs | Version: 1.1 | 24.04.2024
+
+2
+
+Kursmerkmal
+
+Eintrag/Anmerkung
+
+ schulform-/stufen-/klassenübergreifend angelegt werden.
+Fach*
+
+DAZ - Deutsch als Zweitsprache
+
+Kursoption
+
+F - Förderunterricht
+
+Stundenzahl*
+
+Grundlage hierfür ist die Stundenzahl in der Zuweisung Ihrer
+Schule.
+
+Abb. 1 Webseite Kursbearbeitung: Deutsch-Förderkurs anlegen
+
+3
+
+Schüler den Deutsch-Förderkursen zuordnen
+Ordnen Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+betroffenen Schüler den Deutsch-Förderkursen des Sprachförderangebotes zu.
+
+Abb. 2 Webseite Schüler-Kurszuordnung: Schüler dem Deutsch-Förderkurs zuordnen
+
+4
+
+Leistungserfassung und Zeugnis
+
+4.1
+
+Leistungserfassung
+Für das Sprachförderangebot Deutsch-Förderkurse wird keine Leistung erfasst.
+
+HMKB | LUSD | Sprachförderangebot Deutsch-Förderkurs | Version: 1.1 | 24.04.2024
+
+3
+
+Das Feld NOTE kann nicht bearbeitet werden.
+
+Abb. 3 Webseite Schüler: Leistungserfassung
+
+4.2
+
+Zeugnis
+Wenn Sie die Teilnahme am Sprachförderangebot Deutsch-Förderkurse im Zeugnis
+vermerken möchten, erfassen Sie auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine entsprechende Bemerkung.
+Z. B. [Name des Schülers] hat am Deutsch-Förderkurs teilgenommen.
+
+Abb. 4 Webseite Schüler: Zeugnisbemerkung erfassen
+
+Die erfasste Bemerkung wird im Zeugnis unter BEMERKUNGEN ausgegeben.
+
+HMKB | LUSD | Sprachförderangebot Deutsch-Förderkurs | Version: 1.1 | 24.04.2024
+
+4
+
+Abb. 5 Zeugnis: Bemerkung im Zeugnis
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur
+Verfügung:
+
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Sprachförderangebot Deutsch-Förderkurs | Version: 1.1 | 24.04.2024
+
+5
+
+

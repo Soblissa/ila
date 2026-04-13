@@ -1,0 +1,1824 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Grundlagen und Basiswissen
+Überblick über Struktur, Inhalte und Standardfunktionen der LUSD
+
+Version: 3.0
+Letzter Stand: 05.05.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+6
+
+Inhalt dieses Dokuments ................................................................................................................ 6
+Zielgruppe ...................................................................................................................................... 6
+Vorausgesetzte Kenntnisse ........................................................................................................... 6
+LUSD-Anwenderunterstützung....................................................................................................... 7
+
+Grundlagen und Basiswissen
+
+8
+
+1
+
+Was ist die LUSD? ................................................................................................................ 8
+
+2
+
+Erste Schritte in der LUSD .................................................................................................... 8
+2.1
+
+Die LUSD starten und sich als Benutzer anmelden ...................................................... 8
+
+2.2
+
+Das eigene Passwort ändern ..................................................................................... 10
+
+2.3
+
+Tastaturbedienbarkeit ................................................................................................ 12
+
+Struktur und Aufbau der LUSD
+3
+
+4
+
+13
+
+Die LUSD-Startseite............................................................................................................ 13
+3.1
+
+Hauptmenü ................................................................................................................ 14
+
+3.2
+
+Newsmeldungen ........................................................................................................ 14
+
+3.3
+
+Kacheln ..................................................................................................................... 14
+
+3.4
+
+Menüumschaltung ..................................................................................................... 15
+
+3.5
+
+Navigationsschnellsuche ........................................................................................... 15
+
+3.6
+
+Supportinformationen ................................................................................................ 15
+
+3.7
+
+Der Kalender ............................................................................................................. 16
+
+3.8
+
+Tastaturbedienung der LUSD-Startseite .................................................................... 17
+
+Das LUSD Anwendungsfenster .......................................................................................... 18
+4.1
+
+Kopfbereich ............................................................................................................... 18
+
+4.2
+
+Pfad ........................................................................................................................... 21
+
+4.3
+
+Hauptmenü ................................................................................................................ 22
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+2
+
+4.4
+5
+
+6
+
+Arbeitsbereich ............................................................................................................ 26
+
+Grundfunktionen in der LUSD ............................................................................................. 27
+5.1
+
+Mit Auswahllisten arbeiten ......................................................................................... 27
+
+5.2
+
+Mit Tabellen arbeiten ................................................................................................. 29
+
+5.3
+
+Daten zur Bearbeitung suchen und übernehmen ....................................................... 32
+
+5.4
+
+Daten bearbeiten ....................................................................................................... 39
+
+LUSD - Anwenderunterstützung.......................................................................................... 42
+6.1
+
+Die LUSD Startseite ................................................................................................... 42
+
+6.2
+
+Die Online-Hilfe der LUSD ......................................................................................... 42
+
+6.3
+
+Der HMBK Helpdesk .................................................................................................. 45
+
+6.4
+
+Fortbildungen ............................................................................................................. 45
+
+Abbildungsverzeichnis
+Abb. 1 Startbildschirm der LUSD
+
+9
+
+Abb. 2 Anmeldedialog der LUSD
+
+9
+
+Abb. 3 Startseite der LUSD
+
+10
+
+Abb. 4 Option zur Änderung des eigenen Passwortes
+
+11
+
+Abb. 5 Vergabe eines neuen Passwortes
+
+11
+
+Abb. 6 Beispiel für eine Tastenkombination
+
+12
+
+Abb. 7 Die LUSD-Startseite
+
+13
+
+Abb. 8 Kacheln auf dem Dashboard
+
+15
+
+Abb. 9 Navigationsschnellsuche
+
+15
+
+Abb. 10 Beispiel für das LUSD Anwendungsfenster
+
+18
+
+Abb. 11 Die LUSD-Hilfe im Kopfbereich aufrufen
+
+19
+
+Abb. 12 Berichte im Kopfbereich aufrufen
+
+19
+
+Abb. 13 Seitenbereich Notfallinformationen
+
+20
+
+Abb. 14 Seitenbereich Notfallinformationen nach Auswahl eines Schülerdatensatzes
+
+21
+
+Abb. 15 Pfad der Webseite
+
+21
+
+Abb. 16 Einzelne Datensätze auswählen und übernehmen
+
+31
+
+Abb. 17 Alle Datensätze einer Seite auswählen und übernehmen
+
+32
+
+Abb. 18 Übernahme mehrerer Datensätze in den Arbeitsbereich
+
+33
+
+Abb. 19 Dialogfenster Schüler und Sortierung auswählen
+
+33
+
+Abb. 20 Die Schülersuche – Optionen für Schüler und Kandidaten
+
+34
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+3
+
+Abb. 21 Die Schülersuche – Erweiterte Suche
+
+34
+
+Abb. 22 Die Schülersuche – Expertensuche
+
+35
+
+Abb. 23 Dialogfenster – Personalsuche
+
+35
+
+Abb. 24 Dialogfenster – Klassensuche: Festlegen der Filterkriterien
+
+36
+
+Abb. 25 Dialogfenster – Klassensuche: Ergebnis
+
+37
+
+Abb. 26 Dialogfenster – Kurssuche: Filterkriterien festlegen
+
+38
+
+Abb. 27 Dialogfenster – Kurssuche: Ergebnis
+
+38
+
+Abb. 28 Beispiel 1 für eine Webseite mit Bereichen (aus: Schule > Basisdaten > Fächer)
+
+39
+
+Abb. 29 Beispiel 2 für eine Webseite mit Bereichen (aus: Unterricht > UV-Bearbeitung > LehrerKurszuordnung)
+40
+Abb. 30 Die Startseite der LUSD
+
+42
+
+Abb. 31 Beispiel einer LUSD-Hilfeseite (z.B. unter Schüler > Basisdaten > Schülerstammdaten) 43
+Abb. 32 Beispiel einer erweiterten LUSD-Hilfeseite
+
+44
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+4
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+5
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument enthält das nötige Basiswissen, um sich in der Lehrer- und Schülerdatenbank (LUSD) zurechtzufinden und mit der LUSD zu arbeiten.
+Folgende Inhalte lernen Sie in dieser Anleitung kennen:
+▪ Basiswissen zur Arbeit mit der LUSD (ab Kapitel 2)
+▪ Überblick über Struktur und Inhalte der LUSD (ab Kapitel 3)
+▪ Überblick über unsere Unterstützungsangebote zur LUSD (ab Kapitel 6)
+Tipp
+Um wirklich effektiv mit der LUSD arbeiten zu können, empfehlen wir den Besuch unserer Schulungen (siehe Kapitel 6.4):
+▪ Grundlagenschulungen zu Schülermanagement sowie Schul- und Unterrichtsmanagement.
+▪ Aufbau- und themenbezogene Schulungen, z. B. zu UV-Planung, Leistungserfassung und Zeugnissen, Abschlüssen und Statistik.
+
+Zielgruppe
+Das vorliegende Dokument richtet sich an alle Benutzer der Lehrer- und Schülerdatenbank
+(LUSD), die noch keine oder nur wenig Erfahrungen in der praktischen Arbeit mit der LUSD haben.
+
+Vorausgesetzte Kenntnisse
+Grundkenntnisse im Umgang mit dem Computer und den allgemeinen Bildschirmelementen im
+Microsoft Edge-Browser.
+Tipp
+Beim Markieren funktionieren alle aus Microsoft Office bekannten Markiermöglichkeiten.
+▪ Nicht zusammenhängende Datensätze markieren Sie mit gedrückter STRG-Taste.
+▪ Zusammenhängende Datensätze markieren Sie mit gedrückter Umschalttaste.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+6
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+7
+
+Grundlagen und Basiswissen
+1
+
+Was ist die LUSD?
+Die LUSD steht für Lehrer- und Schüler-Datenbank.
+Die LUSD
+▪ dient den hessischen Schulen zur Verwaltung ihrer Schüler-, Personal- und Unterrichtsdaten.
+▪ beinhaltet zurzeit die Daten von etwa:
+▪ 2.000 Schulen
+▪ mit rund 60.000 Lehrkräften
+▪ sowie Schüler-, Unterrichts- und Leistungsdaten von ca. 810.000 Schülern.
+▪ ist eine Datenbank, in der alle Schuldaten zentral bei der HZD (Hessische Zentrale für
+Datenverarbeitung) gespeichert werden. Aus Datenschutzgründen greift jede Schule,
+innerhalb des hessischen Schulverwaltungsnetzes, über das Internet ausschließlich auf
+ihre eigenen Daten zu.
+▪ Alle Daten müssen nur einmal in der LUSD gespeichert werden, um sie dann in unterschiedlichen Zusammenhängen und Aufgaben zu nutzen.
+▪ Die LUSD unterstützt Ihre Arbeit zum Beispiel in folgenden Punkten:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+Stammdaten Ihrer Schule, Schüler und Nicht-SAP-Lehrkräfte pflegen
+Unterricht- und Lehrereinsatz planen
+Unterrichts- und Leistungsdaten verwalten
+Schulabschlüsse automatisch berechnen
+Zeugnisse erstellen und ausdrucken
+Berichte und Abfragen erstellen und weiternutzen
+Daten für Schulstatistiken bereitstellen
+
+2
+
+Erste Schritte in der LUSD
+
+2.1
+
+Die LUSD starten und sich als Benutzer anmelden
+Um auf die LUSD-Datenbank zugreifen zu können, benötigen Sie
+▪ einen dafür eingerichteten Computer mit dem Webbrowser Microsoft Edge, der in das
+Hessische Schulverwaltungsnetz (HSVN) eingebunden ist.
+▪ einen Benutzernamen und ein Passwort.
+Beides bekommen Sie in der Regel vom LUSD-Administrator Ihrer Schule.
+Um die LUSD zu starten und sich anzumelden, gehen Sie wie folgt vor:
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+8
+
+1. Geben Sie im Microsoft Edge-Browser die Internetadresse (URL)
+https://www.lusd.hessen.de ein.
+Es erscheint der Startbildschirm der LUSD (Abb. 1).
+
+Abb. 1 Startbildschirm der LUSD
+
+Tipp
+Speichern Sie sich die URL als Favorit in der Favoritenleiste des Edge-Browsers ab.
+2. Klicken Sie auf die Auswahl LUSD STARTEN.
+Es erscheint der Anmeldedialog der LUSD (Abb. 2).
+
+Abb. 2 Anmeldedialog der LUSD
+
+3. Geben Sie Ihren Benutzernamen und Ihr Passwort ein.
+Tipp
+Mit Klicken auf das Augen-Symbol, können Sie überprüfen, ob Sie das Passwort richtig eingetippt haben.
+Achtung
+Nach drei Fehlversuchen wird der Zugang für 30 Minuten gesperrt!
+4. Klicken Sie auf die Schaltfläche mit dem Pfeil
+
+oder die ENTER-Taste.
+
+Es erscheint die Startseite der LUSD (Abb. 3).
+Hier finden Sie u.a. aktuelle Informationen zur LUSD (→ weitere Infos siehe Kapitel 3).
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+9
+
+Abb. 3 Startseite der LUSD
+
+Achtung
+Bei der ersten Anmeldung muss das Passwort geändert werden.
+Beachten Sie dabei die Regeln zur Passwortvergabe (siehe Kapitel 2.2)!
+
+2.2
+
+Das eigene Passwort ändern
+Grundsätzlich kann jeder Benutzer nur sein eigenes Passwort ändern.
+Eine Änderung Ihres Passwortes ist (bei Anmeldung an die LUSD über HSVN) nach 30 Tagen notwendig, oder sobald Sie Sicherheitsbedenken haben.
+Achtung
+Wenn Sie Ihr Passwort vergessen haben, wenden Sie sich an den
+LUSD-Administrator Ihrer Schule und fordern Sie ein neues Passwort an.
+Um Ihr Passwort zu ändern gehen Sie wie folgt vor:
+1. Klicken Sie auf Ihren Namen. Dort erhalten Sie die Option zur Passwortänderung
+(Abb. 4).
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+10
+
+Abb. 4 Option zur Änderung des eigenen Passwortes
+
+Hinweis
+Die Option zur Passwortänderung steht Ihnen nur zur Verfügung, wenn Sie über
+das HSVN an der LUSD angemeldet sind, nicht über die Schul-ID.
+Alternativ kann Ihr LUSD Administrator Ihr Passwort auf der Webseite
+SCHULE>ADMINISTRATION>BENUTZER zurücksetzen.
+2. Klicken Sie auf PASSWORTÄNDERUNG.
+
+Abb. 5 Vergabe eines neuen Passwortes
+
+3. Geben Sie im Feld ALTES PASSWORT* Ihr altes Passwort ein.
+4. Geben Sie im Feld NEUES PASSWORT* Ihr neues Passwort ein.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+11
+
+Hinweis - Passwortregeln
+Beachten Sie dabei die Regeln zur Passwortvergabe.
+Das Passwort muss mindestens
+▪
+▪
+▪
+▪
+
+8 Zeichen lang sein (je mehr, desto sicherer).
+eine Ziffer enthalten (0123456789).
+einen Buchstaben enthalten (a-z, A-Z, ä, ö, ü, Ä, Ö, Ü, ß).
+eines der folgenden Satzzeichen enthalten: Punkt, Komma, Doppelpunkt oder
+Semikolon.
+
+Die Gültigkeit des Passwortes beträgt 30 Tage.
+Ein bereits vergebenes Passwort darf innerhalb eines Jahres nicht erneut verwendet werden.
+5. Geben Sie im Feld PASSWORTWIEDERHOLUNG* Ihr neues Passwort ein.
+6. Klicken Sie auf die Schaltfläche
+
+2.3
+
+.
+
+Tastaturbedienbarkeit
+An verschiedenen Stellen in der LUSD wird Ihnen eine Tastaturbedienbarkeit ermöglicht
+(siehe auch Kapitel 3.8).
+Die Tastenkombination wird Ihnen in der jeweiligen Kurzinfo angezeigt:
+▪ Bezeichnung des Elements.
+▪ Drücken Sie: [Tastenkombination]
+
+Abb. 6 Beispiel für eine Tastenkombination
+
+Hinweis
+Alle Tastenkombinationen führen nur auf der aktuell aktiven Webseite zur
+entsprechenden Aktion.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+12
+
+Struktur und Aufbau der LUSD
+3
+
+Die LUSD-Startseite
+Nach der Anmeldung ist die LUSD-Startseite geöffnet. Sie enthält folgende Bereiche und
+Elemente (Abb. 7):
+
+Abb. 7 Die LUSD-Startseite
+
+Nummer
+
+Name des Elements
+
+Kapitel
+
+Hauptmenü
+
+Kapitel 3.1
+
+Newsmeldungen
+
+Kapitel 3.2
+
+Dashboard mit Kacheln
+
+Kapitel 3.3
+
+Menüumschaltung
+
+Kapitel 3.4
+
+Navigationsschnellsuche
+
+Kapitel 3.5
+
+Supportinformationen
+
+Kapitel 3.6
+
+Kalender
+
+Kapitel 3.7
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+13
+
+3.1
+
+Hauptmenü
+Das Hauptmenü enthält sechs Hauptmenüpunkte mit einem oder mehreren Untermenüpunkten.
+Hinweis
+Die Ansicht der Menüpunkte wird über die Benutzerberechtigungen gesteuert.
+Deshalb kann es sein, dass Ihnen – je nachdem, welche Benutzerberechtigung Sie haben – der ein oder andere Menü- oder Untermenüpunkt nicht angezeigt wird.
+Über das Hauptmenü gelangen Sie zu den gewünschten Webseiten. Sollte das Hauptmenüs nicht angezeigt werden, klicken Sie auf die Schaltfläche Menüumschaltung
+Sie sich in der Kalenderansicht befinden, klicken Sie auf
+zuschalten.
+
+3.2
+
+. Falls
+
+, um zum Hauptmenü zurück-
+
+Newsmeldungen
+Hier werden Ihnen wichtige Informationen zur Verfügung gestellt. Um die Einträge vollständig darzustellen, klicken Sie auf
+
+.
+
+Blaue und unterstrichene Textstellen enthalten einen Link, über den Sie weitere Informationen öffnen können.
+
+3.3
+
+Kacheln
+▪ Die Kacheln Schülerstatus, Schulform, Staatsangehörigkeit und Konfession
+zeigen – in Form von Diagrammen – statistische Daten zu Schülern Ihrer Schule.
+Ein Klick auf ein beliebiges Segment des Diagramms öffnet die Webseite SCHÜLERSTAMMDATEN mit den entsprechenden Schülern.
+▪ Die Kachel Sonderpädagogische Förderung zeigt – in Form eines Diagramms – statistische Daten zu Schülern Ihrer Schule.
+Ein Klick auf ein beliebiges Segment des Diagramms öffnet die Webseite HALBJAHRES/SEMESTERDATEN mit den entsprechenden Schülern.
+▪ Die Kachel mit dem Diagramm Aufgabenliste zeigt die Anzahl der Einträge der einzelnen Regelgruppen.
+Ein Klick auf ein beliebiges Segment des Diagramms öffnet die Seite AUFGABENLISTE mit
+den Einträgen der gewählten Regelgruppe.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+14
+
+Abb. 8 Kacheln auf dem Dashboard
+
+3.4
+
+Menüumschaltung
+Ein Klick auf das Symbol
+wechselt zwischen der Anzeige des Navigationsbereichs und
+des Kalenders (siehe Kapitel 3.7).
+
+3.5
+
+Navigationsschnellsuche
+In der Navigationsschnellsuche oben links können Sie nach Webseiten und Registern suchen. Dies ermöglicht eine schnelle Navigation durch die LUSD.
+
+Abb. 9 Navigationsschnellsuche
+
+3.6
+
+Supportinformationen
+Hier finden Sie Hinweise zu LUSD Supportmöglichkeiten wie den LUSD Helpdesk.
+Diese Informationen verschwinden, wenn:
+▪ die Kalenderanzeige aktiv ist.
+▪ der Navigationsbereich durch ausgeklappte Menüpunkte vergrößert ist.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+15
+
+3.7
+
+Der Kalender
+▪ Um von der Navigationsansicht zum Kalender zu wechseln, klicken Sie auf die Menüumschaltung
+.
+▪ Termine in roter Schrift sind zentral in der LUSD gepflegte Termine, z. B. die Ferientermine oder die Termine, an denen die neuen Releases freigeschaltet werden. Diese Termine können Sie nicht bearbeiten oder
+löschen.
+▪ Termine in schwarzer Schrift sind die von Ihnen für
+Ihre Schule angelegten Termine. Diese Termine können
+Sie bearbeiten und löschen. Dazu muss Ihrem Benutzerprofil die Elementarrolle Kalenderverarbeitung zugeordnet sein!
+
+Sie können…
+…einen Termin anlegen:
+1. Klicken Sie auf
+
+.
+
+2. Legen Sie den neuen Termin im Dialogfenster TERMIN HINZUFÜGEN an.
+
+…einen Termin bearbeiten:
+1. Klicken Sie auf den Namen des Termins.
+2. Passen Sie den Termin im Dialogfenster TERMIN BEARBEITEN an.
+
+…einen Termin löschen:
+1. Klicken Sie auf den Termin. Das Dialogfenster TERMIN BEARBEITEN wird angezeigt.
+2. Klicken Sie auf
+
+. Der Termin ist gelöscht.
+
+3. Klicken Sie in der Meldung auf
+
+.
+
+…zum aktuellen Datum gehen:
+1. Klicken Sie auf das Symbol
+
+. Das aktuelle Datum wird angezeigt.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+16
+
+3.8
+
+Tastaturbedienung der LUSD-Startseite
+Folgende Elemente der LUSD Startseite können Sie auch mit der Tastatur bedienen:
+▪ Den Kalender
+▪ Die Kacheln
+▪ Die Navigation
+Die Navigation mittels Pfeiltasten ist innerhalb des Hauptmenüs möglich. Sie ist der Tastaturnavigation im Windows Explorer nachempfunden.
+Menü-Funktion
+Hoch und runter navigieren
+
+Haupt- und Untermenüpunkt ausklappen
+
+Geöffnetes Menü einklappen
+
+Webseite öffnen
+
+Zur höheren Menüebene wechseln,
+ohne das Menü zu schließen
+
+Tastaturbedienung
+▪ Drücken der Pfeiltasten
+▪ Drücken der Pfeiltaste rechts
+▪ Drücken der Taste Enter auf den Hauptoder Untermenüpunkt
+▪ Drücken der Pfeiltaste links
+▪ Drücken der Taste Enter auf den Hauptoder Untermenüpunkt
+▪ Drücken der Taste Enter auf einen der
+Menüpunkte öffnet sich die entsprechende
+Webseite. Der Cursor steht am Anfang der
+geöffneten Webseite.
+▪ Drücken der Pfeiltaste links auf einem Untermenüpunkt. Der Cursor springt auf den
+darüber liegenden Hauptmenüpunkt. Das
+Untermenü bleibt dabei geöffnet.
+▪ Drücken der Pfeiltaste links auf einem Menüpunkt springt der Cursor auf den darüber liegenden Untermenüpunkt. Das
+Menü bleibt dabei geöffnet.
+▪ Zwischen den Menüpunkten kann durch
+
+Im Menü navigieren
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+Drücken der Pfeiltasten hoch und runter
+navigiert werden
+
+17
+
+4
+
+Das LUSD Anwendungsfenster
+Das LUSD Anwendungsfenster besteht aus mehreren Bereichen. In Abb. 10 sehen Sie den
+typischen Aufbau einer LUSD-Webseite.
+Pfad
+
+Kopfbereich
+
+Hauptmenü
+
+Arbeitsbereich
+
+Abb. 10 Beispiel für das LUSD Anwendungsfenster
+
+Elemente des LUSD-Anwendungsfensters
+
+4.1
+
+Kopfbereich
+
+➔ Kapitel 4.1
+
+Pfad
+
+➔ Kapitel 4.2
+
+Arbeitsbereich
+
+➔ Kapitel 4.4
+
+Hauptmenü
+
+➔ Kapitel 4.3
+
+Kopfbereich
+Im Kopfbereich können Sie …
+▪ sich von der LUSD abmelden und die LUSD schließen.
+
+▪
+▪
+▪
+▪
+
+die zur gerade geöffneten Webseite passende Online-Hilfe aufrufen.
+zur gerade geöffneten Webseite passende Berichte aufrufen.
+zu ihren Favoriten wechseln.
+einen Notfall anlegen.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+18
+
+4.1.1 Von der LUSD abmelden und die LUSD schließen
+Achtung
+Der Umgang mit personenbezogenen Daten erfordert höchste Sorgfalt und die
+Einhaltung des Datenschutzes.
+Wenn Sie Ihren Arbeitsplatz für längere Zeit verlassen, müssen Sie sich von der
+LUSD abmelden!
+
+Von der LUSD abmelden
+Um sich von der LUSD abzumelden, klicken
+Sie im Kopfbereich auf
+
+.
+
+Die aktuelle Webseite wird geschlossen und es
+erscheint der Anmeldedialog (Abb. 2).
+LUSD schließen
+Um die LUSD komplett zu schließen, klicken
+Sie rechts oben auf das Kreuz.
+
+4.1.2 Die passende LUSD-Hilfe zur gerade geöffneten Webseite aufrufen
+Um die LUSD-Hilfe zur gerade geöffneten Webseite aufzurufen, klicken Sie im Kopfbereich
+auf
+
+. Es erscheint automatisch die zu dieser Webseite passende LUSD-Hilfe.
+
+Mehr Informationen zur LUSD-Hilfe finden Sie in Kapitel 6.2.
+
+Abb. 11 Die LUSD-Hilfe im Kopfbereich aufrufen
+
+4.1.3 Zur Webseite passende Berichte aufrufen
+Im Kopfbereich jeder Webseite sind im Auswahlfeld BERICHT die Berichte wählbar, die thematisch zu dieser Webseite passen.
+
+Abb. 12 Berichte im Kopfbereich aufrufen
+
+Um einen dieser Berichte aufzurufen, öffnen Sie die Auswahlliste und klicken Sie auf den
+gewünschten Bericht. Damit verlassen Sie die ursprüngliche Webseite und wechseln direkt
+zum ausgewählten Bericht auf der Webseite EXTRAS > BERICHTE. Diese kann dann wieder
+mit dem X geschlossen werden, die LUSD muss dann im alten Browserfenster erneut geöffnet werden, dies ist allerdings ohne erneute Anmeldung möglich.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+19
+
+4.1.4 Favoriten
+Sie können eine Webseite oder einen Bericht in der LUSD
+▪ durch Klick auf den Optionsschalter
+
+zu Ihren Favoriten hinzufügen,
+
+▪ und anschließend durch Klick auf
+fen
+
+von jeder Seite der LUSD aus aufru-
+
+4.1.5 Notfall anlegen
+Durch Klick auf
+öffnet sich der Seitenbereich NOTFALLINFORMATIONEN. Über eine
+Auswahlliste werden Ihnen alle Schüler Ihrer Schule alphabetisch sortiert angeboten. Sie
+können die Auswahlliste durch Eingabe des Namens oder Teilen des Namens filtern.
+
+Abb. 13 Seitenbereich Notfallinformationen
+
+Nach Auswahl eines Schülers werden Ihnen
+▪ die Ansprechpartner,
+▪ die hinterlegten Telefonnummern, inklusive der Notfallnummer (falls vorhanden) und
+▪ die lebenswichtigen Informationen (falls vorhanden)
+angezeigt.
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+20
+
+Zudem wird Ihnen das Schülerstammblatt als Download angeboten.
+
+Abb. 14 Seitenbereich Notfallinformationen nach Auswahl eines Schülerdatensatzes
+
+4.2
+
+Pfad
+Der gesamte Pfad, der im Navigationsmenü gewählt wurde, wird auf der Webseite noch
+einmal angezeigt. Beispiel: SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+
+Abb. 15 Pfad der Webseite
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+21
+
+Hinweis
+Durch Verknüpfungen innerhalb der einzelnen Webseiten kann es passieren,
+dass der im Navigationsmenü rot markierte Untermenüpunkt nicht die tatsächlich
+aktive Webseite wiedergibt.
+Orientieren Sie sich daher an dem angegebenen Pfad. Dieser stimmt stets mit
+der angezeigten Webseite überein.
+Durch Anklicken von SCHLIEßEN oder ALT + X verlassen Sie die Seite wieder
+
+4.3
+
+Hauptmenü
+Hinweis
+In der gesamten LUSD gibt es keine Doppelklicks. Alle Arbeitsschritte in der
+LUSD können mit einfachen Mausklicks erledigt werden.
+Zurück gelangen Sie mit einem Klick auf die Schaltfläche SCHLIEßEN.
+
+4.3.1 Menüstruktur
+Insgesamt besteht das Hauptmenü aus maximal drei Ebenen.
+▪ Hauptmenü
+▪ Untermenü
+▪ Menüpunkt
+Die Ansicht der Menüpunkte wird über Benutzerberechtigungen gesteuert.
+Deshalb kann es sein, dass Ihnen ‒ je nachdem, welche Benutzerberechtigung Sie haben
+‒ der ein oder andere Menü- oder Untermenüpunkt nicht angezeigt wird.
+
+Das Hauptmenü besteht aus sechs Hauptmenüpunkten.
+Sobald Sie auf einen Hauptmenüpunkt klicken, öffnet
+sich das dazugehörende Untermenü.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+22
+
+Im Untermenü zeigt das Symbol
+an, zu welchen Untermenüpunkten es weitere Menüpunkte gibt.
+Sobald Sie auf einen solchen Untermenüpunkt klicken,
+erscheinen die dazugehörenden Menüpunkte.
+Der aktuell ausgewählte Menüpunkt ist mit einem roten
+Punkt gekennzeichnet.
+
+4.3.2 Untermenüpunkte - WO bearbeite ich WAS?
+Hauptmenüpunkte
+
+Untermenüpunkte
+
+SCHULE
+
+Der Hauptmenüpunkt SCHULE enthält folgende Untermenüpunkte:
+SCHULBASISDATEN
+SCHULUMFELD
+
+Hier pflegen Sie die Grunddaten Ihrer
+Schule
+
+FINANZEN
+SCHLÜSSEL
+
+Datenaustausch
+
+ADMINISTRATION
+
+hier können Sie Ihr eigenes Passwort
+ändern und die LUSD-Benutzer Ihrer
+Schule verwalten
+
+ASSISTENTEN
+
+hier planen Sie Ihre Unterrichtsverteilung (UV-Planung) für das kommende
+Schulhalbjahr.
+
+Der Hauptmenüpunkt DATENAUSTAUSCH enthält folgende Untermenüpunkte:
+EINWOHNERMELDEDATEN
+
+Die Webseite zeigt Ihnen als verfahrensverantwortliche Grundschule die
+Einwohnermeldedaten jener Personen,
+deren Adressen zu Ihrem Grundschulbezirk gehören. Sie können hier zudem
+den Abruf der Einschulkinderdaten auf
+der Seite Aufnehmen / Einschulen
+steuern.
+Als Schule ohne Verfahrensverantwortung gemäß den kommunalen Schulbezirken ist diese Liste leer.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+23
+
+SCHÜLERSTAMMDATENABGLEICH
+
+Hier sehen Sie eine Gegenüberstellung
+von schülerbezogenen LUSD- und Einwohnermeldedaten, sofern der Name
+und das Geburtsdatum in zwei Datensätzen übereinstimmen. Die Webseite
+hilft Ihnen, die LUSD-Schülerstammdaten auf dem aktuellen Stand zu halten.
+
+DATENAUSTAUSCHVERWAL- Die Webseite ermöglicht die AktivieTUNG
+rung von unterschiedlichen Austauschpartnern für den Datenimport/-export,
+sofern diese Entscheidung nicht durch
+eine Rechtsvorschrift o.ä. fest vorgegeben ist.
+DATENEXPORT ELTERN
+DATENEXPORT PERSONAL
+DATENEXPORT SCHÜLER
+
+Personal
+
+SCHÜLER
+
+Die Seiten ermöglichen das gezielte
+Ausschließen einzelner Personen vom
+Datenexport über die jeweiligen
+Schnittstellen.
+
+Der Hauptmenüpunkt PERSONAL enthält folgende Untermenüpunkte:
+PERSONALBASISDATEN
+
+Hier pflegen Sie die Stammdaten Ihres
+Personals.
+
+PERSONALVERWALTUNG
+
+Hier verwalten Sie Ihr Personal bezüglich der Fachgruppen und der Lehrerzuordnung (Matchen von SAP-Personal).
+
+BENUTZERKONTO
+
+Hier können Sie einen Verbesserungsvorschlag einreichen und Ihr Passwort
+für die LUSD ändern (nur bei Zugriff
+auf die LUSD über das Hessische Verwaltungsnetz - HSVN).
+
+Der Hauptmenüpunkt SCHÜLER enthält folgende Untermenüpunkte:
+SCHÜLERBASISDATEN
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+Hier pflegen Sie die Stammdaten Ihrer
+Schüler
+
+24
+
+KANDIDATEN-VERFAHREN
+
+Unterricht
+
+Hier nehmen Sie neue Schüler in die LUSD
+auf und pflegen die Schülerdaten bei Schulund Schulformwechsel.
+
+Der Hauptmenüpunkt UNTERRICHT enthält folgende Untermenüpunkte:
+EXPORT / IMPORT
+
+Hier können Sie Daten für den Externen Notenclient (ENC), Stundenplanprogramme oder
+Littera aus der LUSD exportieren und die bearbeiteten Daten danach wieder in die LUSD
+importieren.
+
+UV-BEARBEITUNG
+
+Hier aktivieren Sie zu Beginn eines Schulhalbjahres eine UV-Planungsvariante und verwalten und bearbeiten die Unterrichtsverteilung
+des aktuellen Schulhalbjahres.
+
+LEISTUNGSERFAS-
+
+Hier erfassen Sie alle Schülerleistungen.
+
+SUNG
+
+PRÜFUNGEN
+
+Hier erfassen Sie die Ergebnisse
+▪ der schriftlichen Abiturprüfungen bzw.
+▪ der schriftlichen FOS-Prüfungen.
+
+ABSCHLÜSSE
+
+Hier verwalten und bearbeiten Sie die Abschlüsse Ihrer Schüler.
+
+ZEUGNISSE
+
+Hier erstellen Sie die Zeugnisse.
+
+ZEUGNISKONFIGU-
+
+Hier legen Sie die Konfiguration Ihre Zeugnisse fest und welche Daten Sie in den ENC
+exportieren, welche Zeugnisbemerkungen Sie
+verwenden.
+
+RATION
+
+DATENPRÜFUNGEN
+
+Hier können Sie automatisiert Daten prüfen
+lassen.
+
+STUNDENPLAN
+
+Hier können Sie alle stundenplanrelevanten
+Einstellungen vornehmen und Stundenpläne
+erstellen.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+25
+
+Extras
+
+Der Hauptmenüpunkt EXTRAS enthält folgende Untermenüpunkte:
+AUFGABENLISTE
+
+Hier sehen Sie offene Aufgaben, Hinweise zu
+fehlenden oder fehlerhaften Daten, sowie Informationen zu Personaldaten aus SAP.
+
+BERICHTE
+
+Hier können Sie vorkonfigurierte Berichte mit
+Ihren Daten erstellen und abspeichern.
+
+DOKUMENTE
+
+Hier können Sie Dokumente und Serienbriefe
+erstellen.
+
+DRUCKEINSTELLUN- Hier legen Sie fest, welche Daten bei erstellten
+GEN
+Anschreiben, mit ausgedruckt werden sollen
+Links
+
+Der Hauptmenüpunkt LINKS enthält folgenden Untermenüpunkt
+LUSD-INFO
+
+4.4
+
+Link zu diversen Informationen rund um die
+LUSD zum Beispiel Anleitungen.
+
+Arbeitsbereich
+Im Arbeitsbereich können Sie Daten ansehen, Datensätze hinzufügen, bearbeiten, löschen
+und speichern.
+Je nach Webseite finden Sie im Arbeitsbereich folgende Bildschirmelemente:
+Bildschirmelement
+
+Beispiel / Handhabung
+
+Feld
+
+Sie können etwas in das Feld schreiben.
+
+Pflichtfeld*
+
+Sie müssen etwas in das Feld schreiben.
+
+Gekennzeichnet mit
+einem *
+
+Auswahlliste
+
+Der Platzhalter * steht für den Eintrag alle.
+Sobald Sie mit der Eingabe von Daten in der
+Auswahlliste beginnen, wird der Listeninhalt
+nach diesen Eingaben gefiltert.
+Um einen Eintrag auszuwählen, klicken Sie
+ihn in der Auswahlliste an.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+26
+
+Innerhalb der Auswahlliste blättern können
+Sie mit den Pfeiltasten
+oder mit der Maus.
+
+und
+
+der Tastatur
+
+Register
+
+Um zur Unterseite einer Webseite zu gelangen, klicken Sie auf das gewünschte Register.
+
+Optionsschalter
+
+Um eine bestimmte Option zu wählen, klicken
+Sie auf den gewünschten Optionsschalter.
+
+Kontroll-kästchen
+
+Um eine bestimmte Auswahl zu treffen, klicken
+Sie in das/die entsprechende/n Kontrollkästchen. Diese sind dann angehakt. Erneutes Klicken entfernt das Häkchen.
+
+Schaltsymbol
+
+Beim Klick auf ein Schaltsymbol öffnet sich ein
+Dialogfenster oder es wird eine Funktion ausgeführt.
+
+Symbol
+
+Symbole zeigen den Status eines Datensatzes
+an.
+Eine Übersicht aller Symbole und Schaltflächen finden Sie in der LUSD-HILFE > ALLGEMEINE INFORMATIONEN > SYMBOLE UND SCHALTFLÄCHEN.
+
+Schaltfläche
+
+Sobald Sie auf eine Schaltfläche klicken, wird
+die entsprechende Aktion ausgelöst.
+In manchen Fällen erscheint eine Meldung.
+
+5
+
+Grundfunktionen in der LUSD
+
+5.1
+
+Mit Auswahllisten arbeiten
+Viele Felder in der LUSD stehen Ihnen als Auswahllisten zur Verfügung. Auswahllisten sind
+unterschiedlich aufgebaut. Es gibt ein- und mehrspaltige Listen sowie solche mit und ohne
+Spaltenüberschrift.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+27
+
+Tipp
+Schauen Sie sich hierzu das Tutorial In der LUSD mit Auswahllisten und Tabellen
+arbeiten an.
+
+Sie möchten …
+
+Vorgehen
+
+die Auswahlliste öffnen
+
+Klicken Sie auf das Schaltsymbol
+in das Feld.
+
+einen Eintrag auswählen
+
+Klicken Sie auf den gewünschten Listeneintrag.
+
+oder klicken Sie direkt
+
+Sie können mit einem Klick der linken Maustaste oder auch
+mit den Pfeiltasten den gewünschten Eintrag auswählen
+und diesen mit der Enter-Taste übernehmen.
+
+die Anzeige der Auswahl
+einschränken
+
+Klicken Sie in das Feld und geben Sie eine Zeichenfolge
+ein.
+
+Übernehmen Sie den gewünschten Eintrag per Mausklick
+oder mit der Enter-Taste.
+die Anzeige sortieren
+
+Klicken Sie auf die Spaltenüberschrift. Die Sortierung erfolgt
+alphabetisch aufsteigend. Sie erkennen dies an dem Symbol
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+neben dem Spaltentitel.
+
+28
+
+Sie möchten …
+
+Vorgehen
+Ein weiterer Klick auf den Titel oder das Symbol, ändert die
+Sortierfolge in alphabetisch absteigend. Sie erkennen dies
+an dem Symbol
+
+5.2
+
+neben dem Spaltentitel.
+
+Mit Tabellen arbeiten
+Auf vielen Webseiten und in vielen Dialogfenstern wird mit Tabellen gearbeitet.
+Sie können Tabellenansichten bearbeiten, Tabellenspalten sortieren und sich in Tabellen
+bewegen.
+Tipp
+Schauen Sie sich hierzu das Tutorial In der LUSD mit Auswahllisten und Tabellen
+arbeiten an.
+
+Sie möchten …
+
+Vorgehen
+
+die Ansicht einer Tabellen- Durch Klick auf das Schaltsymbol
+zeile erweitern oder versicht der Tabellenzeile.
+mindern
+
+Durch Klick auf das Schaltsymbol
+
+erweitern Sie die An-
+
+vermindern Sie die
+
+Ansicht der Tabellenzeile wieder.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+29
+
+Sie möchten …
+
+Vorgehen
+
+sich in einer Tabelle bewegen
+
+Nutzen Sie hierfür die horizontale und vertikale Bildlauf-
+
+Spalten auf- oder absteigend sortieren
+
+Klicken Sie auf die Spaltenüberschrift. Die Tabelle wird
+nach dieser Spalte aufsteigend sortiert und das Symbol
+
+leiste
+
+.
+
+angezeigt.
+Beim zweiten Klick wird die Tabelle nach der Spalte absteigend sortiert und
+die Breite einer Spalte
+verändern
+
+angezeigt.
+
+Klicken Sie mit der linken Maustaste auf die Spaltentrennlinie zwischen den Überschriften halten die Taste gedrückt.
+Ziehen Sie die Trennlinie auf die gewünschte Position.
+Diese Positionierung wird nicht dauerhaft gespeichert.
+
+die Anzahl der sichtbaren
+Einträge pro Seite ändern
+
+Die Anzahl der sichtbaren Einträge pro Seite sehen Sie
+in der Auswahlliste rechts unterhalb der Tabelle. Beispiel:
+
+Geben Sie die gewünschte Anzahl ein. Möglich sind 10,
+20, 50, 100, 200 oder 500 Einträge pro Seite.
+in einer Tabelle blättern
+
+Die Anzahl der Seiten und der Einträge sehen Sie
+rechts unterhalb der Tabelle. Die aktuelle Seite ist ROT
+dargestellt.
+Beispiel:
+
+Zwischen den Seiten blättern können Sie mit dem Menü
+links unter der Tabelle.
+Seitenweise vorwärts oder rückwärts blättern.
+Zur ersten oder zur letzten Seite gehen.
+Einzelne Datensätze auswählen und übernehmen
+
+Klicken Sie in die Kontrollkästchen vor den gewünschten
+Datensätzen (Abb. 16).
+Klicken Sie dann auf die Schaltfläche
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+.
+
+30
+
+Sie möchten …
+
+Vorgehen
+
+Alle Datensätze einer
+Seite auswählen und
+übernehmen
+
+Klicken Sie links neben der ersten Spaltenüberschrift in
+das Kontrollkästchen. Alle Datensätze der aktuellen Seite
+sind angehakt (Abb. 17).
+Vorsicht: Sollten die Suchergebnisse mehrere Seiten umfassen, werden nicht alle Datensätze der Suche ausgewählt und übernommen.
+Erneutes Anklicken hebt die Auswahl wieder auf.
+Klicken Sie dann auf die Schaltfläche
+
+Alle Datensätze einer Suche übernehmen
+
+.
+
+Klicken Sie auf die Schaltfläche
+, wenn
+Sie alle Datensätze der Suche (auch bei mehrseitigen Suchergebnissen) übernehmen wollen.
+
+Abb. 16 Einzelne Datensätze auswählen und übernehmen
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+31
+
+Abb. 17 Alle Datensätze einer Seite auswählen und übernehmen
+
+5.3
+
+Daten zur Bearbeitung suchen und übernehmen
+Auf vielen Webseiten können Sie Daten direkt eingeben und bearbeiten.
+In den meisten Fällen müssen Sie die zu bearbeitenden Datensätze jedoch zunächst suchen und übernehmen. Dies ist z. B. bei der Bearbeitung von Schüler-, Personal- und Unterrichtsdaten der Fall.
+Hinweis
+In der Anleitung Beispiele zur Schülersuche finden Sie hilfreiche Tipps. Darüber
+hinaus gibt es auf manchen Webseiten spezielle Suchen, deren Handhabung in
+der jeweiligen LUSD-Hilfe der Webseite beschrieben wird.
+
+5.3.1 Grundsätzliches zu den Suchen
+Das Suchergebnis…
+▪ bleibt so lange erhalten, bis Sie eine neue Suche durchführen.
+▪ können Sie auf allen Webseiten der Menüs SCHÜLER > SCHÜLERBASISDATEN >
+… und SCHÜLER > KANDIDATENVERFAHREN > … sowie auf manchen Webseiten
+im Menü UNTERRICHT > … nutzen.
+Grundsätzlich besteht jede Suche aus den folgenden Schritten:
+1. Klicken Sie auf
+Kapitel 5.3.2).
+
+. Es erscheint ein Dialogfenster (z. B. die Schülersuche – siehe
+
+2. Legen Sie die Suchkriterien fest.
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+32
+
+3. Klicken Sie auf
+oder
+. Das Suchergebnis erscheint in einer Ergebnisliste, die Sie bearbeiten können (siehe Kapitel 5.2).
+4. Klicken Sie in der Ergebnisliste die Einträge an, die Sie zur Bearbeitung übernehmen
+möchten.
+5. Klicken Sie auf
+. Das Dialogfenster ist geschlossen und die Datensätze
+sind in das Arbeitsfenster übernommen.
+
+Haben Sie mehrere Datensätze übernommen, wird dies im Arbeitsbereich rechts oben
+angezeigt (Abb. 18).
+
+Abb. 18 Übernahme mehrerer Datensätze in den Arbeitsbereich
+
+Sie können in diesen Datensätzen vor-
+
+und zurückblättern
+
+.
+
+Sie können gezielt zu einem Datensatz wechseln:
+1. Klicken Sie hierfür auf das Symbol
+AUSWÄHLEN erscheint.
+
+. Das Dialogfenster SCHÜLER UND SORTIERUNG
+
+Abb. 19 Dialogfenster Schüler und Sortierung auswählen
+
+2. Klicken Sie im Dialogfenster die Zeile mit dem gewünschten Datensatz an. Die Zeile wird
+blau hinterlegt.
+3. Klicken Sie auf ANZEIGEN. Das Dialogfenster ist geschlossen und der Datensatz ist in
+das Arbeitsfenster übernommen.
+5.3.2 Schüler suchen
+Im Dialogfenster SCHÜLERSUCHE wird grundsätzlich zwischen Kandidaten und Schülern
+unterschieden (Abb. 20).
+Hinweis
+In der Anleitung Beispiele zur Schülersuche finden Sie hilfreiche Tipps.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+33
+
+Suchkriterien in der Schülersuche festlegen
+1. Klicken Sie auf den Optionsschalter KANDIDATEN oder SCHÜLER.
+▪ Für die Option KANDIDATEN sind standardmäßig alle Kontrollkästchen angehakt, außer Kandidaten auf Warteliste und abgelehnt / desinteressiert.
+▪ Für die Option SCHÜLER ist standardmäßig das Kontrollkästchen AKTIVE angehakt.
+2. Klicken Sie für die gewählte Option auf die gewünschten Kontrollkästchen. Je nachdem
+wie detailliert Sie suchen möchten, können Sie die Suchmöglichkeiten in den Registern
+SUCHE, ERWEITERTE SUCHE oder EXPERTENSUCHE nutzen.
+
+Abb. 20 Die Schülersuche – Optionen für Schüler und Kandidaten
+
+Hinweis
+Die Option OHNE SD-R bedeutet ohne Stammdatenrecht. Die Option MIT SD-R bedeutet mit Stammdatenrecht. Schauen Sie hierzu gerne auch in die Übersicht
+Schüler- und Kandidatenstatus in der LUSD.
+
+Abb. 21 Die Schülersuche – Erweiterte Suche
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+34
+
+Abb. 22 Die Schülersuche – Expertensuche
+
+5.3.3 Personal suchen
+Hinweis
+Sie können gleichzeitig nach den Kriterien PERSONALTYP, KÜRZEL, NACHNAME
+und PERSONALART suchen (Abb. 23).
+Ein Datensatz in der Ergebnisliste erfüllt alle ausgewählten Suchkriterien
+Die Suche finden Sie zum Beispiel auf der Webseite PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGENE.
+
+Abb. 23 Dialogfenster – Personalsuche
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+35
+
+Hinweis
+Schauen Sie hierzu gerne auch in die Anleitung Beispiele zur Personalsuche.
+5.3.4 Klassen suchen
+Klassen können Sie suchen unter UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG.
+1. Legen Sie im Register SUCHE im Bereich EBENENAUSWAHL fest, in welcher Schulform
+und Stufe Sie Klassen suchen (Abb. 24).
+▪ Um einzelne Stufen auswählen zu können, klicken Sie auf das vor der gewünschten Schulform. Klicken Sie dann in das Kontrollkästchen vor den gewünschten Stufen.
+▪ Um alle Stufen auszuwählen, klicken Sie auf
+Symbol
+
+. Mit einem Klick auf das
+
+heben Sie die Auswahl wieder auf.
+
+2. Legen Sie im Bereich WEITERE FILTER bei Bedarf weitere Suchkriterien fest.
+
+Abb. 24 Dialogfenster – Klassensuche: Festlegen der Filterkriterien
+
+3. Klicken Sie auf
+
+. Die Ansicht wechselt automatisch ins Register ERGEBNIS.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+36
+
+Abb. 25 Dialogfenster – Klassensuche: Ergebnis
+
+Hinweis
+Schauen Sie hierzu gerne auch in die Anleitung Beispiele zur Klassensuche.
+5.3.5 Kurse suchen
+Kurse können Sie suchen unter UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG.
+1. Legen Sie im Register SUCHE im Bereich EBENENAUSWAHL fest, in welcher Schulform,
+Stufe und Klasse Sie Kurse suchen (Abb. 26).
+Sie möchten …
+
+Vorgehen
+
+alle Kurse Ihrer Schule suchen
+
+Klicken Sie auf das Symbol
+
+.
+
+Mit einem Klick auf das Symbol
+heben Sie die Auswahl wieder auf.
+alle Kurse einer Schulform suchen
+
+Klicken Sie auf die gewünschte Schulform.
+
+alle Kurse einer Stufe suchen
+
+Klicken Sie auf das
+Schulform.
+
+vor der gewünschten
+
+Klicken Sie auf die gewünschte Stufe.
+alle Kurse einer Klasse suchen
+
+Klicken Sie auf das vor der gewünschten
+Schulform und Stufe.
+Klicken Sie auf die gewünschte Klasse.
+
+alle Schulform-übergreifenden
+Kurse suchen
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+Klicken Sie auf Übergreifend.
+
+37
+
+2. Legen Sie bei Bedarf weitere Suchkriterien im Bereich WEITERE FILTER fest.
+
+Abb. 26 Dialogfenster – Kurssuche: Filterkriterien festlegen
+
+3. Klicken Sie auf
+
+. Die Ansicht wechselt automatisch ins Register ERGEBNIS.
+
+Abb. 27 Dialogfenster – Kurssuche: Ergebnis
+
+Hinweis
+Schauen Sie hierzu gerne auch in die Anleitung Beispiele zur Kurssuche.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+38
+
+5.4
+
+Daten bearbeiten
+
+5.4.1 Daten direkt auf der Webseite bearbeiten
+Auf vielen Webseiten können Sie Daten direkt eingeben und bearbeiten. In den meisten
+Fällen haben Sie die zu bearbeitenden Datensätze durch eine Suche ins Arbeitsfenster
+übernommen.
+5.4.2 Daten in Bereichen bearbeiten
+Auf einigen Webseiten wird mit Bereichen gearbeitet (Beispiele siehe Abb. 28 und Abb. 29).
+Hierbei werden Daten aus einem Bereich in den anderen Bereich verschoben oder zugeordnet. Wie Sie mit Bereichen arbeiten, wird nachfolgend erklärt.
+Datensätze in Bereichen verschieben
+Hinweis
+Schauen Sie hierzu gerne auch in die Anleitung Beispiele zur Kurssuche.
+
+Hinweis
+Ein Datensatz – in unserem Beispiel ein Fach (Abb. 28) – kann nur in einer der
+beiden Bereiche vorkommen.
+
+Fach von links nach rechts verschieben
+
+Fach von rechts nach links verschieben
+
+Markieren Sie das Fach im linken Bereich und klicken Sie dann auf
+
+.
+
+Markieren Sie das Fach im rechten Bereich und klicken Sie dann auf
+
+.
+
+Abb. 28 Beispiel 1 für eine Webseite mit Bereichen (aus: Schule > Basisdaten > Fächer)
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+39
+
+Datensätze in Bereichen zuordnen
+Hinweis
+Datensätze des linken Bereichs – in unserem Beispiel Lehrkräfte (Abb. 29) – können mehreren Datensätzen des rechten Bereichs zugeordnet werden.
+
+Lehrkräfte einem oder mehreren
+Kurs/en zuordnen
+
+Markieren Sie links die gewünschten
+Lehrkräfte und rechts den/die gewünschten Kurs/e.
+Klicken Sie dann auf
+
+.
+
+Abb. 29 Beispiel 2 für eine Webseite mit Bereichen (aus: Unterricht > UV-Bearbeitung > Lehrer-Kurszuordnung)
+
+5.4.3 Daten mit Dialogfenstern bearbeiten
+Die Bearbeitung von Daten in der LUSD, wird durch die Verwendung von Symbolen und
+Schaltflächen unterstützt. Die wichtigsten Funktionen zur Datenbearbeitung werden nachfolgend beschrieben.
+Hier finden Sie eine Übersicht über die Schaltflächen in der LUSD.
+
+Datensatz hinzufügen
+1. Klicken Sie auf einer Webseite auf das Symbol
+fenster, in dem Sie einen neuen Datensatz erfassen.
+
+. Es erscheint ein Dialog-
+
+2. Geben Sie die gewünschten Daten ein.
+3. Danach haben Sie folgende Optionen:
+Sie möchten …
+
+Vorgehen
+
+den Datensatz verwerfen.
+
+Klicken Sie auf
+. Der Datensatz wird nicht
+angelegt und das Dialogfenster wird geschlossen.
+
+den Datensatz übernehmen
+und speichern.
+
+Klicken Sie auf
+. Der Datensatz wird
+übernommen, jedoch noch nicht gespeichert!
+Klicken Sie auf
+. Der Datensatz wird gespeichert und das Dialogfenster wird geschlossen.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+40
+
+Achtung
+Aus Sicherheitsgründen wird bei längerer Inaktivität die Verbindung zur LUSD
+unterbrochen. Nicht gespeicherte Daten gehen dann unwiderruflich verloren!
+Wir empfehlen daher: Speichern Sie jede gewünschte Änderung sofort ab.
+
+Datensatz bearbeiten
+1. Markieren Sie den zu bearbeitenden Eintrag.
+2. Klicken Sie auf das Symbol
+ausgewählten Datensatz bearbeiten.
+
+. Es erscheint ein Dialogfenster, in dem Sie den
+
+3. Geben Sie die gewünschten Datenänderungen ein.
+4. Danach haben Sie folgende Optionen:
+
+Sie möchten …
+
+Vorgehen
+
+die Datenänderung verwerfen
+
+Klicken Sie auf
+. Die Datenänderung wird verworfen und das Dialogfenster wird
+geschlossen.
+
+den Datensatz übernehmen und
+speichern
+
+Klicken Sie auf
+. Die Änderung
+wird übernommen, jedoch noch nicht gespeichert!
+Klicken Sie auf
+. Die Änderung wird
+gespeichert und das Dialogfenster wird geschlossen.
+
+Datensatz löschen
+1. Markieren Sie den zu bearbeitenden Eintrag.
+2. Klicken Sie auf das Symbol
+Rückfrage gelöscht.
+
+. Der ausgewählte Datensatz wird zunächst ohne
+
+3. Danach haben Sie folgende Optionen:
+
+Sie möchten …
+
+Vorgehen
+
+das Löschen rückgängig machen.
+
+Klicken Sie auf
+Meldung:
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+. Es erscheint eine
+
+41
+
+Klicken Sie im Meldungsfenster auf
+Der gelöschte Datensatz ist wieder hergestellt.
+das Löschen bestätigen.
+
+6
+
+Klicken Sie auf
+endgültig gelöscht.
+
+.
+
+. Der Datensatz wird
+
+LUSD - Anwenderunterstützung
+Wir unterstützen Ihre Arbeit mit der LUSD durch folgende Angebote:
+
+6.1
+
+Die LUSD Startseite
+Sobald Sie sich in der LUSD angemeldet haben, erscheint die LUSD Startseite.
+Im Bereich NEWS sehen Sie aktuelle Informationen und wichtige Hinweise (Abb. 30).
+
+Abb. 30 Die Startseite der LUSD
+
+6.2
+
+Die Online-Hilfe der LUSD
+Sie erreichen die LUSD-Hilfe auf jeder Webseite der LUSD durch einen Klick auf
+
+.
+
+Es erscheint automatisch die zu dieser Webseite passende Online-Hilfe.
+Die LUSD-Hilfe erklärt Ihnen für jede Webseite …
+▪ WAS Sie auf dieser Webseite tun können.
+▪ WIE Sie dies tun.
+▪ Wo Sie zum jeweiligen Thema Antworten auf häufige Fragen finden und Zusatzinformationen z.B. in Form von Anleitungen, Checklisten oder Videos bekommen.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+42
+
+Die LUSD-Hilfe besteht aus den folgenden Elementen:
+
+Abb. 31 Beispiel einer LUSD-Hilfeseite (z.B. unter Schüler > Basisdaten > Schülerstammdaten)
+
+Elemente einer LUSD-Hilfeseite
+Die Seitenüberschrift nennt das Thema der Seite.
+Der Pfad der Webseite informiert Sie über Ihren Standort in der Hilfe.
+Links zu allgemeinen Informationen zur LUSD und zur LUSD-Hilfe.
+Die Menüleiste bietet verschiedene Informationsquellen.
+Unter SIE MÖCHTEN... sehen Sie die auf dieser Hilfeseite beschriebenen Handlungen.
+Um zu einer bestimmten Handlungsanleitung zu gelangen, klicken Sie auf den
+entsprechenden Text.
+Am Ende jeder Handlungsanleitung gibt es die Schaltfläche
+Mit einem Klick darauf gelangen Sie zurück zur MENÜLEISTE.
+
+.
+
+Unter ANLEITUNGEN gelangen Sie zu den Anleitungen.
+Klicken Sie hierfür auf den Link der gewünschten Anleitung.
+Die Ansicht wird um INHALTSVERZEICHNIS UND SUCHE ANZEIGEN erweitert.
+Klicken Sie links oben auf INHALTSVERZEICHNIS UND SUCHE ANZEIGEN.
+Die Ansicht der Hilfe erweitert sich (Abb. 32).
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+43
+
+Elemente einer erweiterten LUSD-Hilfeseite:
+
+Abb. 32 Beispiel einer erweiterten LUSD-Hilfeseite
+
+Elemente einer erweiterten LUSD-Hilfeseite
+Über die Baumstruktur können Sie gezielt einzelne Hilfeseiten
+aufrufen.
+Klicken Sie auf INDEX, um gezielt nach Stichworten zu suchen.
+Geben Sie im Eingabefeld einen Suchbegriff ein (verwenden
+des Platzhalters * ist möglich). Der Suchbegriff wird blau unterlegt.
+Klicken Sie auf den Suchbegriff. Es erscheint die entsprechende
+Hilfeseite.
+Klicken Sie auf SUCHEN, um nach Stichworten zu suchen. Diese
+Volltextsuche ergibt u. U. eine große Trefferzahl. Gezielter suchen Sie mit der Funktion INDEX.
+Geben Sie im Feld SUCHEN einen Suchbegriff ein (verwenden
+des Platzhalters * ist möglich).
+Klicken Sie auf das Symbol
+zum Suchbegriff.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+. Es erscheint eine Ergebnisliste
+
+44
+
+Klicken Sie auf einen Ergebniseintrag. Sie gelangen direkt zur
+entsprechenden Hilfeseite.
+Klicken Sie auf GLOSSAR, um alphabetisch sortiert Erklärungen
+für Begriffe der LUSD zu finden.
+Klicken Sie auf den gewünschten Begriff. Im unteren Bereich
+DEFINITION sehen Sie die Erklärung des Begriffs.
+Klicken Sie auf DRUCKEN, um den Inhalt einer Hilfeseite auszudrucken.
+Wählen Sie im Windows-Dialogfenster den gewünschten Drucker aus und klicken Sie auf DRUCKEN.
+
+6.3
+
+Der HMBK Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+6.4
+
+Fortbildungen
+Wir bieten Ihnen vielfältige Fortbildungsangebote und Workshops zur LUSD, die sich am
+Verlauf des Schuljahres und den dann anstehenden Aufgaben orientieren.
+Hier finden Sie eine Anleitung zur Anmeldung zu LUSD Fortbildungen.
+Sie finden unser Fortbildungsprogramm auf der Webseite der Digitalen Schule Hessen. Bei
+Fragen senden Sie bitte eine E-Mail an: fortbildungzegov@kultus.hessen.de.
+
+HMKB | LUSD | Grundlagen und Basiswissen | Version: 3.0 |
+
+45
+
+

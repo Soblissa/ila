@@ -1,0 +1,116 @@
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers
+Ein Schüler kann unterschiedliche Beziehungen zu mehreren Schulen haben. Diese Beziehungen werden in der LUSD wie folgt abgebildet:
+▪ Ein Schüler hat an Ihrer Schule einen SCHÜLERSTATUS: die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+▪ Ein Schüler kann zu Ihrer Schule ein KANDIDATENVERHÄLTNIS haben: die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN
+Die nachfolgende Übersicht beschreibt die möglichen Schülerstatus eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+Schülerstatus
+
+Kandidatenverhältnis
+
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN
+
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN
+Kandidat
+
+Kandidat mit SD-R
+
+Der Schüler möchte an
+Ihre Schule wechseln.
+
+Der Schüler hat in Ihrer Schule
+das Kandidatenverhältnis:
+angenommen und ist an keiner
+anderen hessischen Schule:
+
+Sie können das
+Kandidatenverhältnis
+auf einen der folgenden
+Einträge setzen:
+▪
+▪
+▪
+▪
+
+ist Kandidat
+angenommen
+auf Warteliste
+abgelehnt/
+desinteressiert
+
+▪ aktiv
+oder
+▪ der Schüler hat einen
+Eintrag zum internen
+Schulformübergang an Ihrer
+Schule (nur in UVPlanungsvariante).
+
+Kandidat ohne SD-R
+Der Schüler hat zu Ihrer
+Schule ein
+Kandidatenverhältnis:
+▪
+▪
+▪
+▪
+▪
+
+ist Kandidat,
+abgelehnt,
+auf Warteliste,
+angenommen oder
+desinteressiert.
+
+Das Stammdatenrecht liegt
+bei der Schule, an der der
+Schüler aktiv ist.
+
+Aktive
+Der Schüler
+nimmt an Ihrer
+Schule am
+Unterricht teil
+und
+Ihre Schule ist
+verantwortlich für
+die Erstellung
+und Ausgabe von
+Zeugnissen.
+
+Ehemalige
+
+Externe
+
+Der Schüler hat Ihre
+Schule verlassen, weil
+
+Der Schüler ist an
+einer anderen
+hessischen Schule
+
+▪ er an einer
+anderen
+hessischen Schule
+aktiv ist.
+▪ er an einer nichthessischen Schule
+unterrichtet wird.
+▪ er die
+Schullaufbahn
+beendet hat.
+
+▪ aktiv
+und
+▪ er besucht
+(zeitlich begrenzt)
+Kurs/e an Ihrer
+Schule.
+
+Und der Schüler nimmt noch
+nicht am Unterricht Ihrer
+Schule teil.
+LUSD | Übersicht Kandidatenverhältnis und Schülerstatus eines Schülers | Version: 2.8 | 09.04.2025
+
+26
+
+

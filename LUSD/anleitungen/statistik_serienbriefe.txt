@@ -1,0 +1,298 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Dokumente und Serienbriefe
+erstellen
+Mit der LUSD schuleigene Dokumente bzw. Serienbriefe erstellen und bearbeiten
+
+1
+
+Zusammenfassung
+Ab Release 54.0 (Dezember 2024) können Sie in der LUSD schulspezifisch Dokumente
+erstellen und generieren.
+▪ Ihre Vorlagen und Hintergründe konfigurieren Sie auf der Webseite SCHULE >
+ADMINISTRATION > DOKUMENTENKONFIGURATION.
+▪ Ihre Dokumente erstellen Sie auf der Webseite EXTRAS > DOKUMENTE auf Basis der
+Vorlagen und Hintergründe.
+Das vorliegende Dokument beschreibt, wie Sie die Einstellungen vornehmen und
+Dokumente erstellen.
+Hinweis
+Zur Konfiguration Ihrer Vorlagen und Hintergründe benötigen Sie die
+Berechtigung Dokumentenkonfiguration verwalten.
+Haben Sie nur die Berechtigung Dokumente bearbeiten, springen Sie zum
+Kapitel Dokumente erstellen.
+
+2
+
+Eigene Hintergründe erstellen
+
+2.1
+
+Eigene Vorlagen für den Hintergrund erstellen
+Um einen individuellen Hintergrund zu erstellen, können Sie Ihre gewohnte Vorlage aus
+Ihrem Textverarbeitungsprogramm, wie z. B. MS Word nutzen. Dafür müssen vor der
+Erstellung der Hintergründe in der LUSD folgende Schritte durchgeführt werden:
+1. Öffnen Sie Ihre Vorlage, die zum Beispiel ein Logo oder einen Adressbereich enthält, in
+Ihrem Textverarbeitungsprogramm.
+2. Löschen Sie alle veränderlichen Daten aus der Vorlage, wie z. B. Datum, Anschrift des
+Adressaten, Beispieltext, Unterschrift, Anrede, Betreff, etc.
+3. Behalten Sie alle Elemente bei, die auf dem Hintergrund zu sehen sein sollen, z. B.
+Designelemente, das Logo und den Schulnamen.
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+1
+
+Hinweis
+Ihre Vorlage kann mehrere Seiten mit unterschiedlichen Elementen
+beinhalten.
+Wenn sich die erste Seite von den Folgeseiten unterscheidet, verwenden Sie
+Zeilenumbrüche mit der Eingabetaste oder Seitenumbrüche.
+4. Speichern Sie das bearbeitete Dokument als PDF-Datei auf Ihren PC ab.
+
+Abb. 1 Webseite Hintergrund: Individuelle PDF-Datei aus dem Textverarbeitungsprogramm
+
+2.2
+
+Hintergründe in der LUSD hinzufügen und bearbeiten
+Sobald Sie ein PDF-Dokument aus Ihrer individuellen Vorlage erstellt haben, können Sie
+dieses in der LUSD als Hintergrund hinzufügen und konfigurieren.
+5. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > DOKUMENTENKONFIGURATION.
+6. Klicken Sie auf das Register HINTERGRÜNDE.
+7. Klicken Sie auf die Schaltfläche
+oder
+, um einen neuen
+Hintergrund hinzuzufügen oder einen vorhandenen Hintergrund zu bearbeiten.
+8. Geben Sie im Feld BEZEICHNUNG* einen Namen für den neuen Hintergrund ein.
+Tipp
+Zur besseren Identifikation, empfiehlt sich eine sprechende Bezeichnung zu
+wählen, wie z. B. DIN A4 zweiseitig mit Logo und Falzmarke.
+9. Laden Sie im Feld DATEI die gewünschte PDF-Datei von Ihrem PC hoch.
+Hinweis
+Der Name der hochgeladenen Datei wird im Feld angezeigt.
+Die PDF-Datei kann gelöscht und erneut hochgeladen werden.
+10.
+Setzen Sie den Schalter STANDARDHINTERGRUND, wenn Sie diesen Hintergrund
+automatisch für neue Dokumentenvorlagen anwenden möchten.
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+2
+
+11.
+Legen Sie im Bereich KONFIGURATION fest, welches Format, Layout und welche
+Seitenränder angewendet werden sollen.
+Tipp
+Orientieren Sie sich hierbei an der PDF-Datei, die Sie hochgeladen haben.
+Die Werte können Sie im Textverarbeitungsprogramm auslesen.
+12.
+
+Geben Sie bei mehrseitigen Hintergründen auch die Werte für die Folgeseiten an.
+
+13.
+
+Klicken Sie auf
+
+und dann auf
+
+.
+
+Tipp
+Legen Sie nach dem Anlegen eines Dokumenten-Hintergrunds zum Test eine
+Vorlage an, die viel Text enthält.
+Im Register VORLAGEN können Sie Mithilfe der VORSCHAU überprüfen, ob die
+Seitenränder korrekt sind.
+
+3
+
+Eigene Vorlagen erstellen und bearbeiten
+Um Ihre individuellen Dokumenten-Vorlagen zu erstellen, navigieren Sie über SCHULE >
+ADMINISTRATION > DOKUMENTENKONFIGURATION zum Register VORLAGEN. Hier verwalten
+Sie die Dokumentenvorlagen.
+Sie können Ihre vorher angelegten Dokumenten-Hintergründe in einer Vorlage verwenden.
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > DOKUMENTENKONFIGURATION.
+2. Klicken im Register VORLAGEN auf die Schaltfläche
+oder
+eine neue Vorlage hinzuzufügen oder eine vorhandene Vorlage zu bearbeiten.
+
+, um
+
+Tipp
+Sie können eine vorhandene Vorlage duplizieren.
+▪ Nach Klick auf die Schaltfläche DUPLIZIEREN öffnet sich die Vorlage mit
+den Inhalten.
+▪ Vergeben Sie eine neue Bezeichnung.
+▪ Passen Sie die Angaben wie gewünscht an und speichern die neue
+Vorlage ab.
+3. Tragen Sie im Editor auf der rechten Seite Ihre Inhalte ein.
+Den eingegebenen Text können Sie über das Menüband und die Schaltflächen
+anpassen, wie bei anderen Textverarbeitungsprogrammen.
+4. Wählen Sie bei Bedarf in der Auswahlliste passende Platzhalter aus.
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+3
+
+Hinweis
+Platzhalter werden bei der Generierung des Dokuments auf der Seite EXTRAS
+> DOKUMENTE durch die Werte für die einzelnen Datensätze ersetzt.
+Wollen Sie das Layout bei einem mehrseitigen Dokument auf allen Seiten
+nutzen, müssen Sie vor jeder neuen Seite den Platzhalter Seitenumbruch
+einfügen.
+5. Geben Sie im Feld BEZEICHNUNG* einen Namen für die neue Vorlage ein.
+Tipp
+Zur besseren Identifikation, empfiehlt sich eine sprechende Bezeichnung zu
+wählen, wie z. B. Vorlage Einladung Elternabend.
+6. Wählen Sie in der Auswahlliste DOKUMENTENHINTERGRUND* einen Hintergrund aus oder
+nutzten Sie die Auswahlmöglichkeit ohne Hintergrund.
+Die Auswahl ohne Hintergrund besteht aus einem weißen Hintergrund mit 25 mm
+breiten Seitenrändern.
+7. Klappen Sie den Bereich OPTIONEN aus, wenn Sie die Gruppierung in der Vorlage
+anpassen möchten.
+8. Setzen Sie den Schalter STATUS auf AKTIV, um die Vorlage für den weiteren Gebrauch
+zu aktivieren.
+Hinweis
+Damit Sie die Dokumentenvorlage auf der Seite EXTRAS > DOKUMENTE
+nutzen können, müssen Sie den STATUS AKTIV zuweisen.
+9. Klicken Sie auf die Schaltfläche VORSCHAU, um eine Vorschau der Dokumentenvorlage
+anzuzeigen.
+10. Klicken Sie auf
+
+4
+
+und dann auf
+
+.
+
+Dokumente erstellen
+Mit den erstellten und konfigurierten Vorlagen und Hintergründen können Sie Dokumente
+schulspezifisch erstellen und personalisieren. Sie können Serienbriefe, Informationen oder
+Einladungen individuell gestalten. Zum Beispiel können Sie ein Dokument für eine
+Einladung zum Elternabend einer Klasse 7 erstellen und dieses Dokument auch für die
+Klasse 9 nutzen.
+
+4.1
+
+Dokument hinzufügen und bearbeiten
+Um Dokumente für bestimmte Anlässe zu erstellen und Empfängern zuzuweisen, führen
+Sie folgenden Schritte durch:
+1. Öffnen Sie die Webseite EXTRAS > DOKUMENTE.
+2. Klicken Sie auf die Schaltfläche
+hinzuzufügen oder zu bearbeiten.
+
+oder
+
+, um ein neues Dokument
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+4
+
+Tipp
+Sie können ein vorhandenes Dokument duplizieren.
+▪ Nach Klick auf die Schaltfläche DUPLIZIEREN öffnet sich das Dokument mit
+den Inhalten.
+▪ Vergeben Sie eine neue Bezeichnung.
+▪ Passen Sie die Angaben wie gewünscht an und speichern Sie das neue
+Dokument ab.
+3. Tragen Sie im Editor auf der rechten Seite Ihre Inhalte ein.
+Den eingegebenen Text können Sie über das Menüband und die Schaltflächen
+anpassen, wie bei anderen Textverarbeitungsprogrammen.
+4. Wählen Sie bei Bedarf in der Auswahlliste passende Platzhalter aus.
+Hinweis
+Diese Platzhalter werden bei der Generierung des Dokuments durch die
+Werte für die einzelnen Datensätze ersetzt. Damit die Daten als Serienbrief
+übernommen werden, müssen die Empfänger im Bereich AUSGABE
+ausgewählt sein (siehe Seite 6).
+Wollen Sie das Layout bei einem mehrseitigen Dokument auf allen Seiten
+nutzen, müssen Sie vor jeder neuen Seite den Platzhalter Seitenumbruch
+einfügen.
+5. Geben Sie im Feld BEZEICHNUNG* einen Namen für das neue Dokument ein.
+Tipp
+Zur besseren Identifikation, empfiehlt sich eine sprechende Bezeichnung zu
+wählen, wie z. B. Dokument Einladung Elternabend.
+6. Wählen Sie in der Auswahlliste DOKUMENTENVORLAGE* eine Vorlage aus oder nutzten
+Sie die Auswahlmöglichkeit ohne Vorlage.
+Die Auswahl ohne Vorlage besteht aus einem weißen Hintergrund mit 25 mm breiten
+Seitenrändern.
+Hinweis
+Ist keine Dokumentenvorlage auswählbar, kontaktieren Sie eine Person mit
+der Berechtigung Dokumentenkonfiguration verwalten.
+7. Klappen Sie den Bereich OPTIONEN aus, um für das Dokument zusätzliche
+Informationen zu hinterlegen, nach welchen Sie in der Dokumentenübersicht filtern
+möchten.
+8. Markieren Sie das Kontrollkästchen AUSGABE ALS ZIP, wenn Sie die Dokumente in einer
+Zip-Datei herunterladen möchten.
+9. Wählen Sie die Empfänger über die Auswahl in der Schülersuche aus, indem Sie auf die
+Schaltfläche SUCHE klicken.
+10. Gruppieren Sie über die Kontrollkästchen die Ausgabe der Dokumente nach SF/BK,
+ST./SEM. oder KLASSE.
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+5
+
+11. Klicken Sie auf die Schaltfläche GENERIEREN, um die Zip-Datei mit den PDFDokumenten zu erstellen.
+12. Klicken Sie auf
+
+4.2
+
+und dann auf
+
+.
+
+Dokument für einen Serienbrief erstellen
+Sie können die Empfänger direkt bei der Erstellung der Dokumente auswählen, um
+Serienbriefe zu erstellen.
+Um Serienbriefe zu nutzen, beachten Sie folgende Schritte:
+1. Öffnen Sie die Webseite EXTRAS > DOKUMENTE.
+2. Fügen Sie ein neues Dokument hinzu oder bearbeiten Sie ein bereits vorliegendes
+Dokument.
+3. Fügen Sie im Text passende Platzhalter über das Menüband aus.
+Hinweis
+Beim Generieren des Dokuments werden die angegebenen Platzhalter durch
+die hinterlegten Werte aus der LUSD ersetzt. Aus #{Schueler_Strasse} wird
+bspw. Hauptstraße 25.
+Damit die Daten als Serienbrief übernommen werden, müssen die Empfänger
+im Bereich AUSGABE ausgewählt sein.
+4. Wählen Sie im Bereich KONFIGURIEREN unter der Auswahl AUSGABE die entsprechenden
+Schüler mithilfe der SUCHE aus, für die das Dokument bestimmt ist.
+Hinweis
+Nach dem Einfügen der Schüler wird die Anzahl der Schüler angezeigt. Beim
+Generieren des Dokuments werden entsprechend so viele Dokumente in
+einer PDF-Datei erstellt, wie Schüler ausgewählt sind. Die Daten werden von
+dem hinterlegten Postempfänger bezogen.
+5. Klicken Sie in das Kontrollkästchen ALLE POSTEMPFÄNGER, um für alle hinterlegten
+Ansprechpartner ein Dokument zu erzeugen.
+Hinweis
+Bei der Auswahl von dem Kontrollkästchen ALLEN POSTEMPFÄNGER werden
+alle Ansprechpartner im Dokument berücksichtigt, die als Postempfänger
+ausgewählt sind. Sind mehrere Postempfänger bei den Schülern hinterlegt,
+wird pro Empfänger ein Dokument in der PDP-Datei erstellt.
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+6
+
+4.2.1 Gruppierung der Dokumente
+Im Bereich OPTIONEN können Sie die Gruppierung der Dokumente in der PDF-Datei
+anpassen. Mit der Auswahl der Werte SF/BK, ST./SEM. oder KLASSEN wird im PDF ein
+Trennblatt mit den Klassennamen zwischen den Dokumenten erstellt.
+Hierbei wird die Anzahl der Schüler und die personalisierten Namen berücksichtigt. Das
+Verteilen der Dokumente wird vereinfacht, da ermittelt werden kann, welche Schüler noch
+kein Dokument erhalten haben.
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur
+Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Dokumente und Serienbriefe erstellen | Version: 1.2 | 01.12.2025
+
+7
+
+

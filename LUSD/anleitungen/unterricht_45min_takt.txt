@@ -1,0 +1,88 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Abweichung vom 45min-Takt
+Abweichende Unterrichtslängen in der LUSD eintragen
+
+1
+
+Umrechnung
+Wenn Sie von der üblichen 45-Minuten-Taktung für eine Unterrichtsstunde abweichen,
+müssen Sie zunächst folgenden Umrechnungsfaktor berechnen:
+𝑈𝑚𝑟𝑒𝑐ℎ𝑛𝑢𝑛𝑔𝑠𝑓𝑎𝑘𝑡𝑜𝑟 =
+
+𝑀𝑖𝑛𝑢𝑡𝑒𝑛 𝑒𝑖𝑛𝑒𝑟 𝑈𝑛𝑡𝑒𝑟𝑟𝑖𝑐ℎ𝑡𝑠𝑒𝑖𝑛ℎ𝑒𝑖𝑡 𝑛𝑒𝑢
+45
+
+Bei einer Unterrichtsstunde von 60 Minuten beträgt der Umrechnungsfaktor 1,333333.
+Unterrichtsstunden im 60-
+
+Eintragung in LUSD
+
+Minuten-Takt
+
+(UV-Bearbeitung und Stundentafel)
+
+1
+
+1,33
+
+2
+
+2,67
+
+3
+
+4,00
+
+4
+
+5,33
+
+2
+
+Eintrag der neu berechneten Stundenanzahl
+
+2.1
+
+Stundentafel
+Passen Sie unter SCHULE > SCHULBASISDATEN > STUNDENTAFEL die STD/HHJ. entsprechend
+an.
+
+Abb. 1 Eintrag der Stunden in das Dialogfenster Allgemeines Fach der Stundentafel bearbeiten
+
+HMKB | LUSD | Abweichung vom 45min-Takt | Version: 1.0 | 17.12.2024
+
+1
+
+Hinweis
+Im Beispielbild Abb. 1 ist das Feld WO/HJ* mit 20h belegt, da dies die
+durchschnittliche Wochenstundenzahl pro Halbjahr darstellt.
+
+Abb. 2: Veränderte Stundenanzahl in der Stundentafel
+
+2.2
+
+Kurs
+Navigieren Sie zu UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG, Dialogfenster
+KURSBEARBEITUNG und geben Sie den neuberechneten Wert in das Feld STUNDENANZAHL*
+ein.
+
+Abb. 3 : Eintrag der Stunden im Dialogfenster Kursbearbeitung
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Abweichung vom 45min-Takt | Version: 1.0 | 17.12.2024
+
+2
+
+

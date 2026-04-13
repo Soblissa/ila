@@ -1,0 +1,633 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Flexibler Schulanfang – GFLX
+Abbilden des flexiblen Schulanfangs in der LUSD
+
+Version: 4.0
+Letzter Stand: 23.04.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Den flexiblen Schulanfang in der LUSD abbilden
+
+7
+
+1
+
+Schulbasisdaten vorbereiten ................................................................................................. 7
+
+2
+
+Zieldaten für die Kinder des flexiblen Schulanfangs eintragen ............................................... 8
+
+3
+
+Klassen und Kurse für den flexiblen Schulanfang einrichten ................................................. 9
+
+4
+
+5
+
+6
+
+3.1
+
+Klassen für die Schulform GFLX einrichten und die Kinder der Klasse zuweisen ......... 9
+
+3.2
+
+Kurse für die Schulform GFLV einrichten ................................................................... 10
+
+3.3
+
+Kinder den Kursen der Schulform GFLX zuordnen ..................................................... 11
+
+Halbjahreswechsel .............................................................................................................. 11
+4.1
+
+Klassen ...................................................................................................................... 11
+
+4.2
+
+Kurse ......................................................................................................................... 12
+
+4.3
+
+Schüler ....................................................................................................................... 12
+
+Schulbesuchsdauer ............................................................................................................. 13
+5.1
+
+Hinweise in Bezug auf den Halbjahreswechsel .......................................................... 13
+
+5.2
+
+Schulbesuchsjahr eines Kindes mit Schulform GFLX erkennen ................................. 13
+
+Schülerdaten zum Ende des flexiblen Schulanfangs pflegen............................................... 13
+6.1
+
+7
+
+Schüler wechselt in die Schulform Grundschule ......................................................... 13
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers ................................... 16
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulformen: Schulform GFLX als schulbezogene Schulform hinzufügen. ...........7
+Abb. 2 Webseite Stufen/Semester: Schulform GFLX mit Stufen/Semestern und Halbjahren anlegen
+........................................................................................................................................................7
+
+Abb. 3 Webseite Stufen/Semester: Aufnahme von Schülern zum 01.02. .........................................8
+Abb. 4 Webseite Stundentafel: Stundentafel für die Schulform GFLX anlegen ................................8
+Abb. 5 Webseite Kandidaten bearbeiten: Bearbeiten der Zieldaten .................................................9
+Abb. 6 Webseite Klassenbildung: Klasse/n für die Schulform GFLX hinzufügen..............................9
+Abb. 7 Webseite Klassenbildung: Kinder der oder den Klasse/n hinzufügen .................................10
+Abb. 8 Webseite Kursbearbeitung: Automatisch generierte Klassenkurse .....................................10
+Abb. 9 Webseite Kursbearbeitung: Beispiel: Deutschkurs für die Schulform GFLX anlegen ..........10
+Abb. 10 Webseite Schüler-Kurszuordnung: Schüler-Kurszuordnung .............................................11
+Abb. 11 Webseite Klassenbildung: Klasse im zweiten Halbjahr .....................................................11
+Abb. 12 Webseite UV-Planung: Ins erste Halbjahr hochgesetzte Klasse (UV-Planung).................12
+Abb. 13 Webseite Kursbearbeitung: Kurse im zweiten Halbjahr ....................................................12
+Abb. 14 Webseite UV-Planung: Ins erste Halbjahr hochgesetzte Kurse (UV-Planung) ..................12
+Abb. 15 Webseite Statusverwaltung: Interner Schulformübergang ................................................14
+Abb. 16 Webseite Statusverwaltung: Informationen zum internen Schulformübergang .................14
+Abb. 17 Webseite Schulpflicht: Löschen der automatisch generierten Schulpflichtverlängerung ...15
+Abb. 18 Webseite Schulpflicht: Beginn der Schulpflichtverlängerung überprüfen ..........................15
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+ Grundschulen können die Jahrgangsstufen 1 und 2 curricular und unterrichtsorganisatorisch in
+dem durch Kerncurriculum und Stundentafel gesetzten Rahmen zu einer pädagogischen Einheit
+entwickeln (flexibler Schulanfang).
+ Schülerinnen und Schüler können nach ihrem jeweiligen Leistungs- und Entwicklungsstand die
+pädagogische Einheit auch in einem oder drei Schuljahren durchlaufen.
+ Die Entscheidung über die Einrichtung eines flexiblen Schulanfangs trifft die
+Schulaufsichtsbehörde im Einvernehmen mit dem Schulträger auf der Grundlage einer
+pädagogischen Konzeption der Schule.
+ In der Konzeption kann die Möglichkeit vorgesehen werden, Kinder auch jeweils zum 1. Februar
+aufzunehmen.
+Das vorliegende Dokument beschreibt, welche Daten von Ihnen im Rahmen des Unterrichtes im
+flexiblen Schulanfang in der LUSD zu pflegen sind.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die in der LUSD Schüler in den flexiblen
+Schulanfang aufnehmen und bearbeiten möchten.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben: Der Umgang mit
+
+
+
+
+
+
+der Schüleraufnahme
+der Kursbearbeitung
+der Schüler-, Kurs- und Klassensuche
+dem internen Schulformwechsel der Statusverwaltung
+der Erstellung von Berichten (z.B. Kurslisten)
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+5
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+6
+
+Den flexiblen Schulanfang in der LUSD abbilden
+1
+
+Schulbasisdaten vorbereiten
+Um in der LUSD den flexiblen Schulanfang abbilden zu können, sind zunächst die
+nachfolgend beschriebenen Voraussetzungen zu erfüllen.
+Hinweis
+Aus technischen Gründen wird der flexible Schulanfang (GFLX) in der LUSD
+als Schulform abgebildet
+1. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im
+Bereich SCHULBEZOGENEN SCHULFORMEN die Schulform GRUNDSCHULE – FLEXIBLER
+SCHULANFANG (GFLX) vorhanden ist. Ist dies nicht der Fall, fügen Sie diese hinzu.
+
+Abb. 1 Webseite Schulformen: Schulform GFLX als schulbezogene Schulform hinzufügen.
+
+2. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER
+für die Schulform GFLX für die Stufen und Halbjahre die entsprechenden Häkchen
+gesetzt sind. Wenn nicht fügen Sie diese hinzu.
+
+Abb. 2 Webseite Stufen/Semester: Schulform GFLX mit Stufen/Semestern und Halbjahren anlegen
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+7
+
+Hinweis
+Die Schulform GFLX ist ohne Stufenzuordnung. Es werden nur die Halbjahre
+-/1 und -/2 angezeigt.
+In der Schulform GFLX können Schüler (je nach Konzeption) auch zum
+01.02. aufgenommen werden. Haken Sie in diesem Fall
+ bei -/1 auch das 2. Halbjahr und
+ bei -/2 auch das 1. Halbjahr an.
+
+Abb. 3 Webseite Stufen/Semester: Aufnahme von Schülern zum 01.02.
+
+3. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL für
+die Schulform GFLX eine Stundentafel für beide Halbjahre vorhanden ist. Die
+Stundentafel wird auf Basis des Pflichtunterrichts des flexiblen Schulanfangs
+automatisch vorgegeben und kann je nach Bedarf entsprechend des curricularen
+Konzepts angepasst werden.
+Ein Hinzufügen, Bearbeiten und Löschen der Stundentafel ist wahlweise möglich.
+
+Abb. 4 Webseite Stundentafel: Stundentafel für die Schulform GFLX anlegen
+
+2
+
+Zieldaten für die Kinder des flexiblen Schulanfangs eintragen
+1. Zum Einpflegen der Schülerinnen und Schüler in den flexiblen Schulanfang wählen Sie
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN die
+gewünschten Kandidaten über die Schaltfläche
+aus.
+2. Klicken Sie auf
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+8
+
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Tragen Sie im Dialogfenster ZIELDATEN BEARBEITEN das Zielhalbjahr, die Zielschulform
+GFLX und die Zielstufe -/1 ein.
+
+Abb. 5 Webseite Kandidaten bearbeiten: Bearbeiten der Zieldaten
+
+Hinweis
+In der Schulform GFLX können Schüler (je nach Konzeption) auch zum
+01.02. aufgenommen werden.
+Wählen Sie in diesem Fall als Ziel-Halbjahr 20XX/2 und als
+Aufnahmedatum den 01.02.XX.
+
+3
+
+Klassen und Kurse für den flexiblen Schulanfang einrichten
+Hinweis
+Die nachfolgenden Schritte beziehen sich auf das aktuelle Halbjahr.
+Wenn Sie Klassen und Kurse für das kommende Halbjahr einrichten
+möchten, gehen Sie zunächst auf die Webseite SCHULE >ASSISTENTEN > UVPLANUNG und dort auf die beschriebenen Seiten.
+
+3.1
+
+Klassen für die Schulform GFLX einrichten und die Kinder der Klasse zuweisen
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+benötigte Anzahl Klassen für die Schulform GFLX an.
+
+Abb. 6 Webseite Klassenbildung: Klasse/n für die Schulform GFLX hinzufügen
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+9
+
+2. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+Schüler der gewünschten Klasse zu.
+
+Abb. 7 Webseite Klassenbildung: Kinder der oder den Klasse/n hinzufügen
+
+3.2
+
+Kurse für die Schulform GFLV einrichten
+Hinweis
+Wenn Sie in der Stundentafel der Schulform GFLX bei einem Fach das
+Häkchen bei KLASSENKURS gesetzt haben, wird bei Anlage einer Klasse mit
+der Schulform GFLX automatisch der zum Fach gehörende Kurs gemäß der
+Stundentafel generiert!
+
+Abb. 8 Webseite Kursbearbeitung: Automatisch generierte Klassenkurse
+
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die
+benötigten Kurse entsprechend der Stundentafel für den flexiblen Schulanfang an.
+
+Abb. 9 Webseite Kursbearbeitung: Beispiel: Deutschkurs für die Schulform GFLX anlegen
+
+2. Fahren Sie in gleicher Weise mit den anderen Kursen der Stundentafel (z.B. M, MUSB,
+PHR usw.) fort.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+10
+
+3.3
+
+Kinder den Kursen der Schulform GFLX zuordnen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform GFLX bei einem Fach das
+Häkchen bei Klassenkurs gesetzt haben, werden alle Kinder der Klasse
+automatisch dem dazugehörigen Kurs zugeordnet!
+1. Weisen Sie auf die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG die Schüler den gewünschten Kursen zu.
+
+Abb. 10 Webseite Schüler-Kurszuordnung: Schüler-Kurszuordnung
+
+Hinweis
+Sobald die Kinder am Unterricht des flexiblen Schulanfangs teilnehmen,
+aktivieren Sie die Schüler auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > STATUSVERWALTUNG. Mit Aktivierung des Schülers
+wird der Beginn der Schulpflicht auf der Seite SCHÜLER > SCHÜLERBASISDATEN
+> SCHULPFLICHT automatisch gesetzt.
+
+4
+
+Halbjahreswechsel
+
+4.1
+
+Klassen
+Die Klassen werden mit jedem Halbjahreswechsel weitergeführt und wechseln immer von
+Stufe -/2 in Stufe -/1 und umgekehrt. Die Klassenzugehörigkeit der Schüler bleibt erhalten
+(außer es wurde ein Schulformübergang für das kommende Halbjahr angelegt, siehe
+Kapitel 6).
+
+Abb. 11 Webseite Klassenbildung: Klasse im zweiten Halbjahr
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+11
+
+Abb. 12 Webseite UV-Planung: Ins erste Halbjahr hochgesetzte Klasse (UV-Planung)
+
+4.2
+
+Kurse
+ Zum ersten Halbjahr werden die Kurse mit dem Präfix -2 in Kurse mit dem Präfix -1
+hochgesetzt. Die Schüler-Kurszuordnung bleibt erhalten.
+ Zum zweiten Halbjahr werden die Kurse mit dem Präfix -1 in Kurse mit dem Präfix -2
+hochgesetzt. Die Schüler-Kurszuordnung bleibt erhalten.
+
+Abb. 13 Webseite Kursbearbeitung: Kurse im zweiten Halbjahr
+
+Abb. 14 Webseite UV-Planung: Ins erste Halbjahr hochgesetzte Kurse (UV-Planung)
+
+4.3
+
+Schüler
+ Ohne angelegten Schulformübergang (siehe Kapitel 6) bleibt die Schulform GFLX beim
+Halbjahreswechsel bei allen Schülern erhalten. Sie wechseln immer wieder von Stufe /1 in -/2 bzw. von -/2 in -/1.
+ Wenn ein Schulformübergang für das kommenden Halbjahr angelegt wurde, wechseln
+die Schüler mit dem Halbjahreswechsel z. B. in die Schulform G und die Stufe 03/1
+(siehe Kapitel 6).
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+12
+
+5
+
+Schulbesuchsdauer
+
+5.1
+
+Hinweise in Bezug auf den Halbjahreswechsel
+Schulbesuchsdauer
+
+Hinweise
+
+Ein halbes oder ein
+Schuljahr
+
+Pflegen Sie die Schülerdaten zum Ende des flexiblen
+Schulanfangs wie in Kapitel 6 beschrieben. Weitere Eingaben
+sind nicht notwendig.
+
+Eineinhalb oder zwei
+Schuljahre
+
+Pflegen Sie die Schülerdaten zum Ende des flexiblen
+Schulanfangs wie in Kapitel 6 beschrieben. Weitere Eingaben
+sind nicht notwendig.
+
+Zweieinhalb oder drei
+Jahre
+
+Pflegen Sie die Schülerdaten zum Ende des flexiblen
+Schulanfangs wie in Kapitel 6 beschrieben.
+Sie müssen nach dem zweiten Schulbesuchsjahr keine
+Nichtversetzung eintragen.
+Es gibt für das dritte Schulbesuchsjahr keinen
+Wiederholungseintrag in der LUSD.
+
+5.2
+
+Schulbesuchsjahr eines Kindes mit Schulform GFLX erkennen
+Die Schulform GFLX ist ohne Stufenzuordnung. Es werden als ‚Stufe‘ nur die Halbjahre -/1
+und -/2 angezeigt. Hierdurch können Sie von der eingetragenen Stufe eines Schülers nicht
+auf seine Schulbesuchsjahre schließen.
+Möglichkeit 1
+Die Dauer des Schulbesuchs der besuchten Schulformen ist auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULLAUFBAHN einsehbar.
+Möglichkeit 2
+Erstellen Sie den Bericht Schüler-Historie mit dem Parameter 6 Halbjahre auf der Seite
+EXTRAS > BERICHTE > UNTERRICHT > LEISTUNGEN. In diesem Bericht ist die Anzahl der
+Schulbesuchsjahre der besuchten Schulformen einsehbar.
+
+6
+
+Schülerdaten zum Ende des flexiblen Schulanfangs pflegen
+
+6.1
+
+Schüler wechselt in die Schulform Grundschule
+Nach Beendigung des flexiblen Schulanfangs müssen die Schüler von der Schulform
+Grundschule – flexibler Schulanfang (GFLX) in Stufe 3 der Schulform Grundschule (G)
+wechseln.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+die gewünschten Schüler über
+aus.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+13
+
+2. Klicken Sie auf das Register INTERNEN SCHULFORMÜBERGANG.
+3. Markieren Sie die Schüler und tragen über
+das entsprechende Halbjahr,
+die Wunschschulform G und die Wunschstufe 03/1 ein.
+
+Abb. 15 Webseite Statusverwaltung: Interner Schulformübergang
+
+Abb. 16 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+14
+
+Hinweis
+Ein Schüler besucht die Schulform GFLX tatsächlich nur zwei Jahre, wird aber erst
+nach dem 01.08. in die Schulform G überführt?
+1. Löschen Sie in diesem Fall bitte die automatisch generierte
+Schulpflichtverlängerung auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULPFLICHT.
+2. Markieren Sie hierfür den Verlängerungseintrag und klicken Sie auf die
+Schaltfläche
+und anschließend auf
+.
+
+Abb. 17 Webseite Schulpflicht: Löschen der automatisch generierten Schulpflichtverlängerung
+
+Achtung
+Datenpflege im Halbjahr vor dem Wechsel
+Es empfiehlt sich, den Schulformübergang von der SF GFLEX in die SF G
+bereits in der UV-Planung zu berücksichtigen, um so
+ für die Schulform G eine korrekte Planung zu erstellen sowie
+ die oben beschriebene automatische Schulpflichtverlängerung nach dem
+01.08. zu vermeiden.
+
+Abb. 18 Webseite Schulpflicht: Beginn der Schulpflichtverlängerung überprüfen
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+15
+
+7
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers
+
+Ein Schüler kann unterschiedliche Beziehungen zu einer oder mehreren Schulen haben. Die nachfolgende Übersicht beschreibt die möglichen Schülerstatus
+eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+ Ein Schüler hat an Ihrer Schule einen Schülerstatus  die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+ Ein Schüler hat zu Ihrer Schule ein Kandidatenverhältnis  die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN.
+Schülerstatus
+Kandidatenverhältnis
+auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN
+
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+Kandidat mit SD-R
+
+Kandidat ohne SD-R
+
+Aktiv
+
+Ehemalig
+
+Extern
+
+Der Schüler nimmt an
+Ihrer Schule am
+Unterricht teil.
+
+Der Schüler hat Ihre
+Schule verlassen,
+weil
+
+Der Schüler ist an
+einer anderen hessischen Schule aktiv
+
+und
+
+ er an einer
+anderen
+hessischen
+Schule aktiv ist
+ er an einer nichthessischen
+Schule
+unterrichtet wird
+ er die Schullaufbahn beendet hat
+
+und
+
+SD-R = Stammdatenrecht (= Recht die Stammdaten eines Schülers zu bearbeiten)
+
+Der Schüler möchte an
+Ihre Schule wechseln.
+Sie können das Kandidatenverhältnis auf einen der folgenden Einträge setzen:
+
+
+
+
+
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Der Schüler hat an Ihrer
+Schule das Kandidatenverhältnis:
+angenommen
+und ist an keiner
+anderen hessischen
+Schule: aktiv
+oder
+Der Schüler hat einen
+Eintrag zum internen
+Schulformübergang an
+Ihrer Schule (nur in UVPlanungsvariante).
+
+Der Schüler hat zu Ihrer Schule
+ein Kandidatenverhältnis:
+
+
+
+
+
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Das Stammdatenrecht liegt bei
+der Schule, an der der Schüler
+aktiv ist
+und
+Der Schüler nimmt noch nicht am
+Unterricht Ihrer Schule teil.
+
+HMKB | LUSD | Flexibler Schulanfang – GFLX | Version: 4.0 | Letzter Stand: 23.04.2024
+
+Ihre Schule ist
+verantwortlich für die
+Erstellung und
+Ausgabe von
+Zeugnissen (entfällt in
+der SF VG, da hier
+nach § 10 (2) VOBGM
+keine Zeugnisse
+erteilt werden).
+
+er besucht (zeitlich
+begrenzt) Kurs/e an
+Ihrer Schule.
+
+16
+
+

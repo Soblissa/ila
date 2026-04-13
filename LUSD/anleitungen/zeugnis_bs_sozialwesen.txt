@@ -1,0 +1,363 @@
+Hessisches Ministerium
+Für Kultus, Bildung und Chancen
+
+LUSD
+
+Fachschule für Sozialwesen
+Hinweise und Zeugnisbeispiele
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Jahreszeugnis
+
+A2
+
+7.1
+
+Abgangszeugnis
+
+A3
+
+7.2
+
+Abschlusszeugnis
+
+A3
+
+7.3
+
+Abschluss nicht bestanden
+
+A3
+
+7.4
+
+Abschlusszeugnis A4 (staatl. Anerkennung)
+
+A4
+
+7.5
+
+Zusatzzeugnis (Fachhochschulreife)
+
+A4
+
+7.6
+
+2
+
+Kursmerkmale
+
+Zeugnisart
+
+Kursart
+
+Kursdifferenzierung
+
+Fächer des allgemeinen Lernbereichs
+
+P
+
+-
+
+Aufgabenfelder des beruflichen Lernbereichs
+
+P
+
+-
+
+Fächer des Zusatzunterrichtes Fachhochschulreife
+
+Z
+
+ZUF
+
+Fächer des Wahlunterrichts *
+
+W
+
+-
+
+Fächer des Wahlunterrichts
+
+F
+
+-
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+1
+
+3
+
+Zeugnisdaten
+
+Zeugnisart
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum
+
+Ende Schulbesuch Abschlusszeugnis A3
+
+Abschluss-Prüfung Datum
+
+Datum Prüfung staatliche Anerkennung (STAN)
+
+Mündliche Prüfung Datum
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe Register Gesamtnoten
+bzw. Versetzung/Eignung
+
+Durchschnittsnote Fachhochschulreife
+
+Durchschnittsnote Fachhochschulreife
+
+(Note mit einer Nachkommastelle)
+Durchschnittsnote Abschlusszeugnis
+
+Gesamtnote beruflicher Bereich
+
+Note staatliche Anerkennung Abschluss A4
+
+Endnote/Prüfungsnote
+
+Mentoring (erfolgreich?)
+
+voreingestellt ist „JA“
+
+Fachpraktische Ausbildung(erfolgreich?)
+
+voreingestellt ist „JA“
+
+Zulassung zum zweiten Ausbildungsabschnitt
+
+voreingestellt ist „JA“
+
+5
+
+Abschlüsse
+
+Stufe
+
+FSOT: 03/1 – 04/2
+
+Mögliche Abschlüsse
+
+▪ Fachhochschulreife
+▪ theoretische Abschlussprüfung
+
+FSOT: 04/1 – 05/2
+
+Staatliche Anerkennung
+
+FSOT: 03/1 – 05/2
+
+Kein Abschluss (nach Beendigung des
+Bildungsganges)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+2
+
+Stufe
+
+Mögliche Abschlüsse
+
+FSOV:02/2
+
+▪ Fachhochschulreife
+▪ theoretische Abschlussprüfung
+
+FSOV: 03/2 – 04/1
+
+Staatliche Anerkennung
+
+FSOV: 02/2 – 04/1
+
+Kein Abschluss (nach Beendigung des
+Bildungsganges)
+
+FOSP: 03/1 – 04/2
+
+▪ Fachhochschulreife
+▪ Theoretische Abschlussprüfung
+
+FOSP: 03/2 – 04/2
+FOSP: 02/2 – 04/2
+
+▪ Staatliche Anerkennung
+▪ Kein Abschluss (nach Beendigung des
+Bildungsganges)
+
+6
+
+Hinweise
+
+▪ Fächer des allgemeinen Lernbereichs, des Wahlpflichtunterrichts und des Wahlunterrichts
+werden in den Zeugnissen nur angezeigt, wenn entsprechende Kurse belegt wurden.
+Aufgabenfelder des beruflichen Lernbereichs werden unabhängig von der UV immer alle
+angezeigt.
+▪ Nur für den Schwerpunkt Sozialpädagogik.
+▪ Das Fach WPU1 (neu) wird links unter Gruppe 1 ausgedruckt – Schuleigene Themen vergeben
+▪ Das Fach WPU2 (neu) wird rechts unter Gruppe 2 ausgedruckt – Schuleigene Themen
+vergeben.
+▪ In Abgangs- und Abschlusszeugnissen werden die historischen Aufgabenfeldnoten des
+Schuljahres übernommen. Wurde z. B. in der Stufe 03/2 keine Bewertung erfasst, wird die
+Bewertung aus 03/1 im Zeugnis ausgewiesen.
+▪ In Abgangszeugnissen bei vorzeitigem Ausscheiden, d. h. ohne Teilnahme an der
+Abschlussprüfung, darf bei der Zeugniszuweisung kein Abschluss-Prüfung Datum eingetragen
+werden.
+▪ In Abgangszeugnissen nach einer Abschlussprüfung muss das Abschluss-Prüfung Datum
+eingetragen werden. Durch diesen Eintrag kommt auf das Zeugnis der Satz "Er/Sie hat an der
+Abschlussprüfung teilgenommen und diese nicht bestanden." Des Weiteren kommt durch den
+Eintrag dieses Datums der Unterschriftenblock mit der/dem Prüfungsvorsitzende(n) je nach
+Eintrag unter UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISFORMULARE.
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+3
+
+7
+
+Beispielzeugnisse
+
+7.1
+
+Zeugnis über den ersten Ausbildungsabschnitt Zweijährige Fachschule für
+Sozialwesen (Vollzeit)
+
+Satz erscheint je nach Auswahl Mentoring erfolgreich ja/ nein
+
+Abb. 1 Beispiel Jahreszeugnis Fachschule für Sozialwesen (01/2) in Vollzeit (Innenseite links)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+4
+
+Satz erscheint je nach Auswahl Fachpraktische Ausbildung
+erfolgreich ja/ nein
+
+Satz erscheint je nach Auswahl Versetzung ja/ nein
+Hinweis:
+Im Jahreszeugnis (01/2) der PiVA wird dieser Satz generell nicht
+ausgegeben.
+
+Abb. 2 Beispiel Jahreszeugnis Fachschule für Sozialwesen (01/2) in Vollzeit (Innenseite rechts)
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+5
+
+7.2
+
+Abgangszeugnis Zweijährige Fachschule für Sozialwesen (Vollzeit)
+
+Abb. 3 Beispiel Abgangszeugnis Fachschule für Sozialwesen (Innenseite links)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+6
+
+Abb. 4 Beispiel Abgangszeugnis Fachschule für Sozialwesen (Innenseite rechts)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+7
+
+7.3
+
+Abschlusszeugnis über den zweiten Ausbildungsabschnitt Zweijährige Fachschule für Sozialwesen
+
+Abb. 5 Beispiel Abschlusszeugnis der theoretischen Prüfung Fachschule für Sozialwesen (Vorder- und Rückseite)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+8
+
+WPU1
+
+WPU2
+
+Hinweis:
+Im Vertiefungsbereich wird je Gruppe nur ein Fach ausgewiesen
+
+Hinweis:
+Im Abschlusszeugnis der theoretischen Prüfung der PiVA wird dieser Satz
+generell nicht ausgegeben.
+
+Abb. 6 Beispiel Abschlusszeugnis der theoretischen Prüfung Fachschule für Sozialwesen (Innenseiten)
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+9
+
+7.4
+
+Abschlusszeugnis über den zweiten Ausbildungsabschnitt Zweijährige Fachschule für Sozialwesen - nicht bestanden
+
+Abb. 7 Beispiel Abschlusszeugnis der theoretischen Prüfung Fachschule für Sozialwesen (Vorder- und Rückseite) – nicht bestanden
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+10
+
+Hinweis:
+Nicht bestanden wird ausgegeben, wenn ein Abschluss-Prüfungsdatum gepflegt wird
+
+Abb. 8 Beispiel Abschlusszeugnis der theoretischen Prüfung Fachschule für Sozialwesen (Vorder- und Rückseite) – nicht bestanden
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+11
+
+7.5
+
+Abschlusszeugnis A4 Zweijährige Fachschule für Sozialwesen
+
+Datum der theoretischen Abschlussprüfung
+
+Datum mdl. Prüfung
+
+Ausgabedatum
+
+„Prüfungsausschussvorsitz“ gepflegt
+Abb. 9 Beispiel Abschlusszeugnis A4 Fachschule für Sozialwesen
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+12
+
+7.6
+
+Zusatzzeugnis Fachhochschulreife
+
+Abb. 10 Beispiel Zusatzzeugnis Fachhochschulreife
+
+Hessisches Kultusministerium | LUSD | Fachschule für Sozialwesen | Stand: 06.01.2026
+
+13
+
+

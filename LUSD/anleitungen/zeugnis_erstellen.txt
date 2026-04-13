@@ -1,0 +1,1087 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zeugnisse erstellen mit der
+LUSD
+
+Version: 3.3
+Letzter Stand: 17.03.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt, Zielgruppe und vorausgesetzte Kenntnisse ......................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Zeugnisse erstellen mit der LUSD
+
+5
+
+1
+
+Zeugnisse erstellen - Übersicht ............................................................................................. 5
+
+2
+
+Zeugniserstellung vorbereiten ............................................................................................... 6
+
+3
+
+2.1
+
+Leistungen der Schüler erfassen ................................................................................. 6
+
+2.2
+
+Zeugnisarten konfigurieren .......................................................................................... 6
+
+2.3
+
+Fächersortierfolge festlegen....................................................................................... 10
+
+Zeugnisse erstellen ............................................................................................................. 14
+3.1
+
+Schüler zur Zeugniserstellung auswählen .................................................................. 14
+
+3.2
+
+Zeugnisse zuweisen .................................................................................................. 14
+
+3.3
+
+Zeugnisse generieren + Testdruck erstellen .............................................................. 17
+
+3.4
+
+Zeugnisse abrufen ..................................................................................................... 20
+
+3.5
+
+Zeugnisse drucken .................................................................................................... 21
+
+4
+
+Zeugnisse archivieren ......................................................................................................... 23
+
+5
+
+Historisches Zeugnis erstellen ............................................................................................ 23
+
+6
+
+Anhang ............................................................................................................................... 24
+6.1
+
+Übersicht Zeugniskategorien ..................................................................................... 24
+
+6.2
+
+Zeugnis-Beispiel mit Hinweisen zur Herkunft der Zeugnisdaten ................................. 25
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z. B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+3
+
+Zu diesem Dokument
+Inhalt, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt alle notwendigen Arbeitsschritte zur Erstellung von
+Zeugnissen mit der LUSD. Damit die Zeugnisse inhaltlich und optisch einwandfrei sind, müssen
+alle dafür nötigen Daten korrekt in der LUSD gepflegt sein. Bitte beachten Sie hierzu unsere
+Informationen in Kapitel 2.
+Diese Anleitung richtet sich an alle Anwender, die Zeugnisse mit der LUSD erstellen. Folgende
+Kenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser Anleitung nicht
+näher beschrieben:
+▪ Der Umgang mit der Schüler-, Kurs- und Klassensuche
+▪ Der Umgang mit der Erstellung von Berichten
+▪ Die Leistungserfassung in der LUSD oder mit dem ENC
+Im Anhang (siehe Kapitel 6) finden Sie ein Zeugnis-Beispiel mit Hinweisen zur Herkunft der
+Zeugnisdaten.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter Anleitungen, Fortbildungsangebote
+und FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+4
+
+Zeugnisse erstellen mit der LUSD
+1
+
+Zeugnisse erstellen - Übersicht
+Die Erstellung von Zeugnissen erfolgt in 4 Schritten:
+
+Schritt 1
+Zeugniserstellung
+vorbereiten
+(siehe Kapitel 2)
+
+Schritt 2
+Zeugnisse zuweisen
+(siehe Kapitel 3.2)
+Schritt 3
+Zeugnisse generieren
+(siehe Kapitel 3.3)
+
+Schritt 4
+Zeugnisse abrufen
+(siehe Kapitel 3.4)
+
+Damit Sie korrekte Zeugnisse mit der LUSD erstellen
+können, sind folgende Vorarbeiten nötig:
+▪ Die Leistungen der Schüler müssen korrekt und
+vollständig erfasst sein.
+▪ Die Zeugnisarten müssen konfiguriert sein.
+▪ Die Fächersortierfolge muss korrekt sein.
+Mit diesem Schritt legen Sie fest, welche Art von Zeugnis
+Schüler bekommen sollen. z.B. Halbjahres- oder
+Abschlusszeugnis.
+In diesem Schritt erstellen (generieren) Sie das eigentliche
+Zeugnis:
+▪ Das in Schritt 2 zugewiesene Zeugnis wird nun mit den
+Noten und Bemerkungen der Schüler „gefüllt“.
+▪ Die Zeugnisse werden auf den Servern der HZD als
+PDF-Datei erstellt und dann zum Download und
+anschließendem Drucken bzw. Speichern bereitgestellt.
+In diesem Schritt rufen Sie die in Schritt 3 erstellen
+Zeugnisse als PDF-Datei ab.
+Diese Dateien können Sie ausdrucken und/oder
+abspeichern.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+5
+
+2
+
+Zeugniserstellung vorbereiten
+
+Um inhaltlich und optisch fehlerfreie Zeugnisse erstellen zu können, müssen folgende
+Daten in der LUSD korrekt erfasst und gepflegt sein:
+▪ Die Leistungen der Schüler (Noten und Beurteilung) sowie ggf. Bemerkungen müssen
+erfasst sein.
+▪ Die Zeugnisunterschriften für jede Zeugnisart müssen festgelegt sein.
+▪ Die Zeugnisarten je Schulform und Stufe müssen Ihren Anforderungen entsprechend
+konfiguriert sein.
+▪ Die Reihenfolge der Unterrichtsfächer muss richtig sein.
+
+2.1
+
+Leistungen der Schüler erfassen
+Damit auf den Zeugnissen die richtigen Noten, Bemerkungen und Beurteilungen
+erscheinen, müssen diese in der LUSD korrekt gepflegt sein.
+Tipp
+Anleitungen und unterstützende Materialien finden Sie auf der Seite
+schulehessen.de/lusdanleitungen zum Beispiel zu den Themen:
+▪ Leistungserfassung vorbereiten
+▪ Leistungen mit dem Externen Notenclient (ENC) erfassen
+▪ Leistungen in der LUSD erfassen
+
+2.2
+
+Zeugnisarten konfigurieren
+Für jede Stufe einer Schulform legen Sie auf der Webseite LEISTUNGEN >
+ZEUGNISKONFIGURATION > ZEUGNISFORMULARE die Einstellungen der Zeugnisarten fest
+(Abb. 1).
+1. Wählen Sie eine Zeugnisart aus: Klicken Sie im linken Bereich ZEUGNISART auf die
+gewünschte Zeugnisart einer Schulform.
+Im rechten Bereich STUFEN UND UNTERSCHRIFTEN erscheinen die Stufen der Schulform
+(Abb. 1). Zu jeder Stufe sehen Sie die aktuellen Zeugnis-Einträge zu NAME
+ZWEITUNTERSCHRIFT, FUNKTION ZWEITUNTERSCHRIFT, DRUCK DER FEHLZEITEN
+UNTERBINDEN und dem PRÜFUNGSAUSSCHUSSVORSITZ.
+2. Klicken Sie in die Kontrollkästchen vor den STUFEN/SEMESTERN (St/S), deren Zeugnisse
+Sie bearbeiten möchten.
+3. Klicken Sie auf die Schaltfläche
+.
+Es erscheint das Dialogfenster ZEUGNISFORMULARE-DETAILS BEARBEITEN (Abb. 2).
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+6
+
+Abb. 1 Webseite Zeugnisformulare: Zeugnisarten konfigurieren
+
+Abb. 2 Webseite Zeugnisformulare: Zeugnisformulare Details bearbeiten
+
+2.2.1 Zweitunterschrift bearbeiten
+Für jede Zeugnisart können Sie festlegen, wer die Zweitunterschrift leistet. Als
+Erstunterschrift erscheint automatisch die Klassenleitung.
+1. Sie haben eine Zeugnisart ausgewählt (siehe Kapitel 2.2) und befinden sich im
+Dialogfenster ZEUGNISFORMULARE-DETAILS BEARBEITEN (Abb. 2).
+2. Geben Sie die gewünschten Daten für die Zweitunterschrift ein.
+Hinweis
+▪ Wenn Sie eine Stufe ausgewählt haben, werden die ursprünglichen Einträge
+angezeigt und können geändert werden.
+▪ Wenn Sie mehrere Stufen ausgewählt haben, müssen die Daten neu
+eingegeben werden und gelten für alle ausgewählten Stufen.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+7
+
+Feld
+mit * = Pflichtfeld
+
+FUNKTION
+ZWEITUNTERSCHRIFT*
+
+Inhalt
+Wählen Sie einen Eintrag aus.
+Zur Auswahl stehen die Funktionen, denen auf der Webseite
+SCHULE > SCHLÜSSEL > FUNKTIONEN Personal zugeordnet
+wurde.
+
+NAME
+ZWEITUNTERSCHRIFT*
+
+Wählen Sie einen Eintrag aus.
+Zur Auswahl stehen die Personen, denen auf der Webseite
+SCHULE > PERSONAL > PERSONAL BEARBEITEN - Register
+SCHULBEZOGEN im Bereich UNTERSCHRIFTEN/ZEUGNISSE die
+gewählte Funktion zugeordnet wurde.
+
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+4. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+2.2.2 Ausdruck von Fehlzeiten im Zeugnis unterbinden
+DRUCK DER FEHLZEITEN UNTERBINDEN bedeutet, dass im gewählten Halbjahr keine
+Fehlzeiten auf dem Zeugnis ausgegeben werden.
+1. Sie haben eine Zeugnisart ausgewählt (siehe Kapitel 2.2) und befinden sich im
+Dialogfenster ZEUGNISFORMULARE-DETAILS BEARBEITEN (Abb. 2).
+Hinweis
+▪ Wenn Sie eine Stufe ausgewählt haben, werden die ursprünglichen Einträge
+angezeigt und können geändert werden.
+▪ Wenn Sie mehrere Stufen ausgewählt haben, müssen die Daten neu
+eingegeben werden und gelten für alle ausgewählten Stufen.
+
+2. Klicken Sie im Bereich FEHLZEITEN in das Kontrollkästchen vor DRUCK DER FEHLZEITEN
+UNTERBINDEN.
+Es ist angehakt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+4. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+8
+
+2.2.3 Prüfungsausschussvorsitz angeben
+1. Sie haben eine Zeugnisart ausgewählt (siehe Kapitel 2.2) und befinden sich im
+Dialogfenster ZEUGNISFORMULARE-DETAILS BEARBEITEN (Abb. 2).
+Hinweis
+▪ Wenn Sie eine Stufe ausgewählt haben, werden die ursprünglichen Einträge
+angezeigt und können geändert werden.
+▪ Wenn Sie mehrere Stufen ausgewählt haben, müssen die Daten neu
+eingegeben werden und gelten für alle ausgewählten Stufen.
+
+2. Geben Sie nun im Bereich PRÜFUNGSAUSSCHUSSVORSITZ die gewünschten Daten ein.
+Feld
+mit * = Pflichtfeld
+
+GESCHLECHT
+
+Inhalt
+Klicken Sie die entsprechende Option an.
+Diese Festlegung dient der Darstellung der Texte „Der Vorsitzende
+des Prüfungsausschusses“ oder „Die Vorsitzende des
+Prüfungsausschusses“.
+
+NAME
+
+Geben Sie den Namen incl. eventueller Namensbestandteile ein.
+
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+4. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+2.2.4 Kopfanzeige bearbeiten
+Hinweis
+Die hier festgelegten Einstellungen beziehen sich jeweils nur auf die Zeugnisart
+einer Schulform
+1. Wählen Sie eine Zeugnisart aus:
+2. Klicken Sie im linken Bereich ZEUGNISART auf die gewünschte Zeugnisart einer
+Schulform.
+Im rechten Bereich KOPFANZEIGE erscheinen die aktuellen Einstellungen für die gewählte
+Zeugnisart.
+
+Abb. 3 Webseite Zeugnisformulare: Zeugniskopf
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+9
+
+3. Wählen Sie eine der folgenden Varianten:
+
+I. Keinen Kopf anzeigen:
+Lassen Sie das Kontrollkästchen vor KOPF ANZEIGEN deaktiviert. Ein mit dieser Variante
+erstelltes Zeugnis hat im Kopfbereich ca. 3 cm Platz. Diesen können Sie z. B. für die
+Gestaltung eines eigenen Zeugniskopfes auf dem an Ihrer Schule verwendeten
+Zeugnispapier nutzen.
+
+II. Mit Kopf anzeigen:
+Klicken Sie im Bereich KOPFANZEIGE in das Kontrollkästchen vor dem Feld KOPF
+ANZEIGEN. Es ist angehakt. Geben Sie in den Feldern SCHULNAME* (Pflichtfeld),
+PLZ/ORT*(Pflichtfeld) und LEERZEILE die gewünschten Daten oder Werte ein. Legen Sie
+die Formatierung fest:
+▪ Feld SCHULNAME*, PLZ/ORT: Vorbelegt mit den Einträgen der Webseite SCHULE >
+SCHULBASISDATEN > SCHULSTAMMDATEN (Feld NAME, PLZ und ORT). Die Einträge
+können überschrieben werden.
+▪ Feld: LEERZEILE: Freitext möglich.
+▪ Schriftgröße: Die Schriftgrößen entsprechen den Werten von 8 bis 24 analog zu
+z. B. Microsoft Word ®.
+4. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+
+2.3
+
+Fächersortierfolge festlegen
+Für jede Stufe/Semester einer Schulform legen Sie hier fest, in welcher Reihenfolge die
+Unterrichtsfächer in Zeugnissen und Konferenzlisten erscheinen.
+Nicht in der Sortierfolge berücksichtigte Fächer werden alphabetisch aufsteigend (sortiert
+nach Kürzel) an die bestehende Liste der Fächer angehängt.
+
+2.3.1 Fächersortierfolge prüfen
+1. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > FÄCHERSORTIERFOLGE.
+2. Klicken Sie im Bereich STUFEN/SEMESTER das Kontrollkästchen vor der gewünschten
+Stufe an.
+Hinweis
+Die Anzeige einer bestehenden Fächersortierfolge ist jeweils nur für einzelne
+Stufen/Semester möglich.
+3. Klicken Sie dann unter dem Baum auf die Schaltfläche AKTUALISIEREN.
+In der mittleren Tabelle SCHULBEZOGENE FÄCHER erscheinen alle Fächer Ihrer Schule,
+die Sie der Tabelle FESTGELEGTE SORTIERFOLGE noch hinzufügen können.
+Die rechte Tabelle FESTGELEGTE SORTIERFOLGE zeigt die bisher festgelegte Reihenfolge
+der Fächer.
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+10
+
+Abb. 4 Webseite Fächersortierfolge
+
+2.3.2 Fächersortierfolge bearbeiten
+Sie können …
+▪ die Fächersortierfolge für einzelne Stufen bearbeiten.
+▪ die Fächersortierfolge für mehrere Stufen gleichzeitig bearbeiten.
+Fächersortierfolge einer Stufe bearbeiten
+1. Klicken Sie im Bereich STUFEN/SEMESTER das Kontrollkästchen vor der gewünschten
+Stufe an.
+2. Klicken Sie dann unter dem Baum auf die Schaltfläche AKTUALISIEREN.
+In der mittleren Tabelle SCHULBEZOGENE FÄCHER erscheinen alle Fächer Ihrer Schule,
+die Sie der Tabelle FESTGELEGTE SORTIERFOLGE noch hinzufügen können.
+Die rechte Tabelle FESTGELEGTE SORTIERFOLGE ist leer oder enthält eine bereits
+festgelegte Sortierung (Abb. 4).
+3. Um alle Fächer auszuwählen, klicken Sie im Kopfbereich in der Tabelle
+SCHULBEZOGENE FÄCHER auf das oberste Kontrollkästchen.
+Um einzelne Fächer auszuwählen, klicken Sie auf die Kontrollkästchen vor den
+jeweiligen Fächern.
+4. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die rechte Tabelle FESTGELEGTE SORTIERFOLGE
+verschoben.
+5. Sie können nun ...
+Aufgabe
+
+Vorgehen
+
+Ein Fach in der
+Sortierfolge
+verschieben
+
+1. Klicken Sie im Bereich FESTGELEGTE SORTIERFOLGE das
+gewünschte Fach an.
+Die Zeile wird blau hervorgehoben. Eine
+Mehrfachauswahl von Fächern ist nicht möglich.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+11
+
+2. Klicken Sie auf das das Schaltsymbol
+oder
+,
+um das Fach in der Fächersortierfolge eine Position nach
+vorn bzw. nach hinten zu verschieben.
+Fächer entfernen
+
+1. Klicken Sie in der Tabelle FESTGELEGTE SORTIERFOLGE in
+die Kontrollkästchen vor den gewünschten Fächern.
+2. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die mittlere Tabelle
+SCHULBEZOGENE FÄCHER verschoben und erscheinen
+nun nicht mehr auf dem Zeugnis der gewählten
+Stufe.
+
+Fächer hinzufügen
+
+1. Klicken Sie in der mittleren Tabelle SCHULBEZOGENE
+FÄCHER in die Kontrollkästchen vor den gewünschten
+Fächern.
+2. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die rechte Tabelle
+FESTGELEGTE SORTIERFOLGE verschoben und
+erscheinen nun auf dem Zeugnis der gewählten
+Stufe.
+
+3. Wiederholen Sie bei Bedarf die beschriebenen Schritte für weitere Stufen.
+4. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+Fächersortierfolge mehrerer Stufen gleichzeitig festlegen
+1. Klicken Sie in der Tabelle STUFEN/SEMESTER die Kontrollkästchen vor den gewünschten
+Stufen an.
+2. Klicken Sie dann unter dem Baum auf die Schaltfläche AKTUALISIEREN
+In der mittleren Tabelle SCHULBEZOGENE FÄCHER erscheinen alle Fächer Ihrer Schule,
+die Sie der Tabelle FESTGELEGTE SORTIERFOLGE noch hinzufügen können.
+Die rechte Tabelle FESTGELEGTE SORTIERFOLGE ist leer.
+3. Um alle Fächer auszuwählen, klicken Sie in der Tabelle SCHULBEZOGENE FÄCHER auf
+das oberste Kontrollkästchen.
+Um einzelne Fächer auszuwählen, klicken Sie auf die Kontrollkästchen vor den
+jeweiligen Fächern.
+4. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die rechte Tabelle FESTGELEGTE SORTIERFOLGE
+verschoben.
+5. Sie können nun ...
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+12
+
+Aufgabe
+
+Vorgehen
+
+Ein Fach in der
+Sortierfolge
+verschieben
+
+1. Klicken Sie im Bereich FESTGELEGTE SORTIERFOLGE das
+gewünschte Fach an.
+Die Zeile wird blau hervorgehoben.
+
+Eine Mehrfachauswahl
+von Fächern ist nicht
+möglich.
+
+2. Klicken Sie auf das das Schaltsymbol
+oder
+, um das Fach in der Fächersortierfolge eine
+Position nach vorn bzw. nach hinten zu verschieben.
+
+Fächer entfernen
+
+1. Klicken Sie in der Tabelle FESTGELEGTE SORTIERFOLGE
+in die Kontrollkästchen vor den gewünschten Fächern.
+2. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die mittlere Tabelle
+SCHULBEZOGENE FÄCHER verschoben und erscheinen
+nun nicht mehr auf dem Zeugnis der gewählten
+Stufe.
+
+Fächer hinzufügen
+
+1. Klicken Sie in der mittleren Tabelle SCHULBEZOGENE
+FÄCHER in die Kontrollkästchen vor den gewünschten
+Fächern.
+2. Klicken Sie auf das Symbol .
+Die gewählten Fächer werden in die rechte Tabelle
+FESTGELEGTE SORTIERFOLGE verschoben und
+erscheinen nun auf dem Zeugnis der gewählten
+Stufe.
+
+Achtung
+Sollten bei den gewählten Stufen/Semestern bereits Sortierfolgen bestehen,
+werden diese beim Speichern unwiderruflich überschrieben.
+3. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+13
+
+3
+
+Zeugnisse erstellen
+Sobald die Vorbereitungen erfolgt sind (siehe Kapitel 2), können Sie mit der Erstellung von
+Zeugnissen beginnen.
+Suchen Sie sich zunächst die Schüler heraus, für die Sie Zeugnisse erstellen möchten
+(siehe Kapitel 3.1).
+
+3.1
+
+Schüler zur Zeugniserstellung auswählen
+Hinweis
+Das Suchergebnis bleibt für alle Register der Webseite ZEUGNIS ERSTELLEN
+so lange erhalten, bis Sie eine erneute Suche vornehmen.
+1. Wählen Sie auf der Webseite LEISTUNGEN > ZEUGNISSE > ZEUGNIS ERSTELLEN - Register
+ZEUGNIS ZUWEISEN im Auswahlfeld HALBJAHR das Halbjahr aus, für das Sie Zeugnisse
+erstellen möchten.
+2. Wählen Sie eine Option aus:
+Aufgabe
+
+Vorgehen
+
+Alle Schüler einer Klasse auswählen:
+
+Klicken Sie in die Optionsschaltfläche KLASSE.
+
+Alle Schüler einer Schulform und
+Stufe/Sem auswählen:
+
+klicken Sie in die Optionsschaltfläche SF/BK.
+
+Einen bestimmten Schüler auswählen
+
+klicken Sie in die Optionsschaltfläche NAME.
+
+3. Wählen Sie
+▪ einen Eintrag in der/den Auswahllisten oder
+▪ geben Sie den Namen des Schülers ein.
+4. Klicken Sie auf die Schaltfläche
+lassen.
+
+3.2
+
+, um die Schüler in der Tabelle anzeigen zu
+
+Zeugnisse zuweisen
+
+Mit dem Schritt Zeugnis(se) zuweisen legen Sie fest, welche Zeugnisart die Schüler
+bekommen sollen: z.B. Halbjahres- oder Abschlusszeugnis. Je nach Schulform und Stufe
+wird hierfür ein bestimmtes Zeugnisformular verwendet.
+1. Öffnen Sie die Webseite LEISTUNGEN > ZEUGNISSE > ZEUGNIS ERSTELLEN – Register
+ZEUGNIS ZUWEISEN.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+14
+
+2. Wählen Sie in der Auswahlliste HALBJAHR das gewünschte Halbjahr aus.
+Das aktuelle Halbjahr ist vorbelegt.
+3. Wählen Sie die Schüler aus, denen Sie Zeugnisse zuweisen möchten (siehe Kapitel
+3.1). Sie sehen die Schüler, die der gewählten Option entsprechen (Abb. 5).
+
+Abb. 5 Webseite Zeugnis erstellen: Register Zeugnis zuweisen
+
+Den Status eines Schülers erkennen Sie am vorstehenden Symbol.
+Symbol
+
+Schülerstatus
+
+Hinweis
+
+Kein Zeugnis zugewiesen
+Zeugnis der Kategorie 2 ist zugewiesen und
+Abschlusszuweisung fehlt
+
+Zeugnis der Kategorie 2 und ein Abschluss sind
+zugewiesen oder ein Zeugnis der Kategorie 1
+oder 3 ist zugewiesen
+
+Eine Übersicht der
+Zeugniskategorien finden
+Sie im Kapitel 6.1 oder
+im Dokument Übersicht
+der Zeugniskategorien.
+
+Sie können nun …
+einem oder mehreren Schülern
+ein Zeugnis zuweisen.
+
+Klicken Sie in das Kontrollkästchen vor den
+gewünschten Namen.
+
+allen ausgewählten Schülern
+ein Zeugnis zuweisen.
+
+Klicken Sie in das Kontrollkästchen links oben
+im Kopfbereich der Tabelle
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+15
+
+Achtung
+Sie weisen mit diesem Schritt allen ausgewählten Schülern das gleiche Zeugnis
+zu. Für das aktuelle Halbjahr bereits zugewiesene Zeugnisse (= oder )
+werden dabei überschrieben!
+4. Klicken Sie auf die Schaltfläche BEARBEITEN.
+Es erscheint das Dialogfenster ZUWEISUNG BEARBEITEN (Abb. 6 und Abb. 7).
+
+Abb. 6 Webseite Zeugnis erstellen: Zuweisung bearbeiten – einzelner Schüler
+
+Abb. 7 Webseite Zeugnis erstellen: Zuweisung bearbeiten – mehrere Schüler gleichzeitig
+
+5. Wählen Sie in der Auswahlliste ZEUGNISART das gewünschte Zeugnis aus.
+6. Geben Sie die weiteren Daten ein.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+16
+
+Feld
+mit * = Pflichtfeld
+
+Inhalt
+
+KONFERENZ DAT.
+AUSGABE DAT.*
+
+Geben Sie das jeweilige Datum ein.
+
+ABSCHLUSS-PRÜFUNG DATUM
+
+Das AUSGABEDATUM (Pflichtangabe) des
+Zeugnisses muss vor dem Freigabedatum liegen!
+
+MÜNDLICHE PRÜFUNG DATUM
+ZUSATZPRÜFUNG DATUM
+KONFESSION IM ABITURZEUGNIS
+ANZEIGEN
+
+ABSCHLUSS ZUWEISEN
+
+EIGNUNG ZUWEISEN
+
+Bei Abiturienten, deren Konfession im Abiturzeugnis
+ausgedruckt werden soll, haken Sie das
+Kontrollkästchen an.
+
+Die Abschlussart wird automatisch auf die Webseite
+SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN
+im Bereich SCHULABSCHLÜSSE übernommen.
+
+Die Eignung wird automatisch auf die Webseite
+SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN
+im Bereich EIGNUNG/VORAUSSICHTLICHER
+ABSCHLUSS übernommen.
+
+7. Klicken Sie auf die Schaltfläche
+.
+Sie sehen den aktuellen Status der/des Schüler/s.
+8. Klicken Sie auf die Schaltfläche
+, wenn sie einen Datensatz verändert haben
+und die geänderten Daten dauerhaft speichern wollen.
+9. Sie können nun in das Register ZEUGNIS GENERIEREN wechseln, um die zugewiesenen
+Zeugnisse zu generieren (siehe Kapitel 3.3 ab Schritt 4).
+
+3.3
+
+Zeugnisse generieren + Testdruck erstellen
+
+Hinweis
+Was passiert beim Generieren von Zeugnissen?
+Beim Generieren wird das eigentliche Zeugnis als PDF-Datei erstellt. Das den
+Schülern in Schritt 2 zugewiesene Zeugnisformular wird mit Noten und
+Bemerkungen gefüllt.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+17
+
+Die Datei(en) mit den Zeugnissen werden auf den Servern bei der HZD als PDFDateien erstellt und dann auf dem Register ZEUGNIS ABRUFEN zur Einsicht und
+zum Ausdrucken bereitgestellt.
+Testdruck: Sie können anschließend testweise bis zu 3 generierte Zeugnisse
+generieren und ausdrucken.
+1. Öffnen Sie die Webseite LEISTUNGEN > ZEUGNISSE > ZEUGNIS ERSTELLEN – Register
+ZEUGNIS GENERIEREN.
+2. Wählen Sie …
+▪ in der Auswahlliste HALBJAHR das gewünschte Halbjahr aus. Das aktuelle Halbjahr ist
+vorbelegt.
+▪ die gewünschten Schüler über die Suche (siehe Kapitel 3.1) aus.
+▪ in der Auswahlliste ZEUGNISART das gewünschte Zeugnis aus.
+3. Klicken Sie auf die Schaltfläche FILTER, um die gewünschte Auswahl anzeigen zu
+lassen.
+4. Wählen Sie eine Option aus, um zu bestimmen, wessen Zeugnisse die generierte Datei
+enthalten soll.
+Für alle Schüler einer Stufe
+eine Zeugnisdatei generieren.
+
+Klicken Sie auf die Optionsschaltfläche
+STUFENWEISE.
+
+Für alle Schüler einer Klasse
+eine Zeugnisdatei generieren.
+
+Klicken Sie auf die Optionsschaltfläche
+KLASSENWEISE.
+
+Für einzelne Schüler je eine
+Zeugnisdatei generieren.
+
+Klicken Sie auf die Optionsschaltfläche
+EINZELN.
+
+Je nach gewählter Option sehen Sie die Stufen, Klassen oder einzelne Schüler. Alle
+Einträge sind automatisch angehakt (Abb. 8).
+5. Möchten Sie für einzelne Stufen, Klassen oder Schüler kein Zeugnis generieren, klicken
+Sie in das Kontrollkästchen vor dem Namen bzw. Datensatz. Das Häkchen und die
+Markierung verschwinden.
+6. Legen Sie optional noch die Namensbestandteile und Druckoptionen fest.
+Namensbestandteile festlegen
+Alle im Bereich NAMENSBESTANDTEILE angehakten Felder werden auf den Zeugnissen
+ausgedruckt.
+Hinweis
+Das Programm setzt für die Felder TITEL und NAMENSZUSATZ die Haken
+automatisch. Die Haken müssen daher bei Bedarf für jede Generierung entfernt
+werden
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+18
+
+Abb. 8 Webseite Zeugnis erstellen: Register Zeugnis generieren
+
+Druckoptionen festlegen
+Feld
+
+Inhalt
+
+mit * = Pflichtfeld
+
+KEIN DUPLEXDRUCKER
+
+Wenn Sie keinen Duplexdrucker nutzen, klicken Sie in das
+Kontrollkästchen. Es ist angehakt.
+Wenn Sie keinen DIN A3 Duplexdrucker zur Verfügung
+haben, können Sie Vorderseite und Rückseite des
+Zeugnisses auch einzeln generieren.
+
+SORTIERUNG RÜCKSEITE
+
+Wird automatisch angehakt, wenn das Kontrollkästchen
+KEIN DUPLEXDRUCKER angehakt ist.
+Wählen Sie aus, in welcher Reihenfolge mehrseitige
+Zeugnisse ausgedruckt werden sollen (A-Z oder Z-A).
+
+1. Klicken Sie auf
+▪
+
+, um die Zeugnisdateien zu erstellen.
+
+▪
+
+, um maximal drei exemplarische Zeugnisse der ausgewählten Schüler zu
+erstellen.
+
+2. Wechseln Sie auf das Register ZEUGNIS ABRUFEN.
+
+Hinweis
+Generierte Zeugnisdateien können nur gelöscht werden, wenn in der Spalte
+TESTDRUCK ein Häkchen steht oder solange der Status auf (Rot) steht.
+Zeugnisdateien mit Status
+automatisch gelöscht.
+
+(grün) werden beim Halbjahreswechsel
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+19
+
+3.4
+
+Zeugnisse abrufen
+
+In diesem Schritt rufen Sie die in Schritt 3 erstellen Zeugnisse als PDF-Datei ab. Diese
+Dateien können Sie ausdrucken und/oder abspeichern.
+1. Öffnen Sie die Webseite LEISTUNGEN > ZEUGNISSE > ZEUGNIS ERSTELLEN – Register
+ZEUGNIS ABRUFEN.
+2. Wählen Sie in der Auswahlliste HALBJAHR das gewünschte Halbjahr aus.
+Das aktuelle Halbjahr ist vorbelegt.
+3. Wählen Sie die gewünschten Schüler über die Suche aus (siehe Kapitel 3.1).
+Sie sehen die Zeugnisdateien (PDF), die der gewählten Option entsprechen.
+Den Status der Zeugnisdatei erkennen Sie am vorstehenden Symbol:
+Symbol
+
+Status
+
+Warten
+
+Hinweis
+
+Die Zeugnisdatei wurde noch nicht erstellt.
+Der Auftrag kann noch gelöscht werden.
+
+In Arbeit
+
+Die Zeugnisdatei wird gerade erstellt.
+Der Auftrag kann nicht mehr gelöscht werden.
+
+Fertig
+
+Die Zeugnisdatei ist fertig zum Download. Am Ende der Zeile
+sehen Sie das pdf-Symbol
+
+. Der Auftrag kann nicht mehr
+
+gelöscht werden.
+
+4. Klicken Sie auf die Schaltfläche AKTUALISIEREN, um die Anzeige zu aktualisieren.
+Dies können Sie mehrfach wiederholen. Sobald eine Zeugnisdatei den Status hat, ist
+sie bereit zum Download (Abb. 9).
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+20
+
+Abb. 9 Webseite Zeugnis erstellen: Register Zeugnis abrufen
+
+5. Klicken Sie auf das Symbol
+
+, um die PDF-Datei herunterzuladen oder zu öffnen.
+
+Hinweis
+Die PDF-Dateien sind nach einem festgelegten Schema benannt:
+Zeugnisart_Schulform_Stufe/Semester_Klasse_Vorname Nachname des
+Schülers_Jahr (zweistellig)_Monat (zweistellig)_Tag (zweistellig)_Nummer
+Soweit die Informationen nicht vorhanden sind, entfallen sie im Datei-Namen.
+Beispiele:
+▪ Abschluss_A4_GYM_13_2_13K_MaxMuster_060128_123.pdf
+Abiturzeugnis für Einzelschüler Max Muster
+▪ Halbjahreszeugnis_R_10_1_10B_060125_123.pdf
+Halbjahreszeugnis, Realschule, Stufe 10/01, Klasse 10B
+▪ Halbjahreszeugnis_H_09_1_060728_294.pdf
+Halbjahreszeugnisse, Hauptschule, Stufe 09/01
+
+3.5
+
+Zeugnisse drucken
+Die Zeugnisse werden als pdf-Datei ausgegeben und können mit dem Adobe Acrobat
+Reader ® gelesen werden.
+1. Öffnen Sie die gewünschte Zeugnisdatei.
+Jede Zeugnisdatei beginnt mit einem PROTOKOLL ZUM ZEUGNISAUSDRUCK (Abb. 10).
+Dieses Protokoll enthält u.a. Informationen zur Zeugnisart und eine Auflistung der
+Schüler.
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+21
+
+Abb. 10 Webseite Zeugnis erstellen: Protokoll LUSD Zeugnisdruck
+
+2. Um das/die Zeugnis/se zu drucken, klicken Sie auf DATEI > DRUCKEN.
+Es erscheint das Dialogfenster Drucken.
+
+Abb. 11 Webseite Zeugnis erstellen Dialogfenster Drucken
+
+3. Geben Sie die nötigen Daten ein.
+4. Klicken Sie auf DRUCKEN.
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+22
+
+4
+
+Zeugnisse archivieren
+Hinweis
+Sie können ein Zeugnis rückwirkend (nur) für die letzten 10 Schuljahre erstellen
+Sie können Zeugnisse jahrgangsweise generieren und danach abspeichern und sicher (!)
+verwahren. Das liegt aber in Ihrem Verantwortungsbereich, da Sie alle Zeugniskopien in
+der Zeugnisakte des Schülers aufbewahren.
+Wichtige Aufbewahrungsfristen:
+▪ 50 Jahre für Abgangs- und Abschlusszeugnisse (Kopien)
+▪ Fünf Jahre für Zeugnislisten
+▪ Zwei Jahre für Notenlisten
+
+5
+
+Historisches Zeugnis erstellen
+Sie können auch historische Zeugnisse aus vergangenen Schulhalbjahren generieren.
+Wenn relevante Zeugnisdaten nicht geändert werden müssen, gehen Sie wie im Kapitel
+3.3 beschrieben vor und wählen nur das entsprechende Halbjahr aus.
+
+Abb. 12 Webseite Zeugnis erstellen: Historische Zeugnisse drucken
+
+Wenn relevante Zeugnisdaten geändert werden müssen, gehen Sie auf die Webseite
+LEISTUNGSDATEN und ändern die betroffenen Einträge (siehe Anleitung Leistungserfassung
+in der LUSD).
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+23
+
+6
+
+Anhang
+
+6.1
+
+Übersicht Zeugniskategorien
+Sie finden alle Zeugniskategorien und Erklärung der Abkürzungen in der Übersicht der
+Zeugniskategorien.
+1. Zeugnis
+
+2. Zeugnis
+
+3. Zeugnis
+
+Halbj.Zeug.m.LF
+
+Abg. Zeug. o. LF
+
+Anl. Versetzungsgefährdung
+
+Halbj. Zeug. o. LF
+
+Abgang 11
+
+Beiblatt Projektprüfung
+
+Halbjahresbescheinigung
+
+Abgang 12
+
+Beiblatt Projektprüfung LER
+
+Halbjahreszeugnis
+
+Abgang E
+
+FHR-Bescheinigung u. -Zeugnis
+
+Halbjahreszeugnis (leer)
+
+Abgang LER A3
+
+Überfachliche Kompetenzen
+
+Halbjahreszeugnis LER
+
+Abgang V
+
+Zusatzzeugnis
+
+Abgangsbescheinigung
+
+Zusatzzeugnis 1
+
+Halbjahreszeugnis o. LF.
+
+Abgangszeugnis
+
+Zusatzzeugnis 2
+
+Halbjahreszeugnis SchuB
+
+Abgangszeugnis (leer)
+
+Halbjahreszeugnis Text
+
+Abgangszeugnis o. LF.
+
+kompetenzorientiertes Zeugnis A3
+
+Abschluss A3
+
+kompetenzorientiertes Zeugnis A4
+
+Abschluss A3 BO
+
+Semesterzeugnis
+
+Abschluss A4
+
+Halbjahreszeugnis mit
+Kompetenzen
+
+Abschluss nicht bestanden
+Abschlusszeugnis
+Abschlusszeugnis (leer)
+Abschlusszeugnis A4
+Abschlusszeugnis o. LF.
+Beiblatt Kompetenzen
+Deutsch
+Bescheinigung
+Jahreszeugnis
+Schulwechselzeugnis
+Schulwechselzeugnis (leer)
+Schulwechselzeugnis LER
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+24
+
+6.2
+
+Zeugnis-Beispiel mit Hinweisen zur Herkunft der Zeugnisdaten
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+25
+
+HMKB | LUSD | Zeugnisse erstellen mit der LUSD | Version: 3.3 | Letzter Stand: 17.03.2026
+
+26
+
+

@@ -1,0 +1,653 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Beispiele zur Schülersuche
+
+Version: 2.0
+Letzter Stand: 04.04.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+1
+
+Inhalt dieses Dokuments ................................................................................................................ 1
+LUSD-Anwenderunterstützung ....................................................................................................... 1
+
+Beispiele zur Schülersuche
+1
+
+2
+
+2
+
+Beispiele im Register Suche.................................................................................................. 2
+1.1
+
+Alle aktiven Schüler, deren Nachname mit Ma beginnt................................................. 2
+
+1.2
+
+Alle ehemaligen Schüler mit der Schulform GYM8 ....................................................... 2
+
+Beispiele im Register Erweiterte Suche ................................................................................. 3
+2.1
+
+Alle aktiven Schüler Ihrer Schule .................................................................................. 3
+
+2.2
+
+Alle neu aufgenommenen Schüler mit SD-R ................................................................ 3
+
+2.3
+
+Alle aktiven Schüler mit der Feldangabe ohne Angabe bei der Auswahl des
+Geschlechts ................................................................................................................. 4
+
+2.4
+
+Alle aktiven Schüler mit einem Konfessionseintrag: Sonstige/Keine ............................. 4
+
+2.5
+
+Alle aktiven Schüler ohne Klassezuordnung................................................................. 5
+
+2.6
+
+Alle aktiven Schüler in der Mittelstufe ........................................................................... 5
+
+2.7
+
+Alle aktiven Schüler der Schulform GYM und der Stufe 06/1 ........................................ 6
+
+2.8
+
+Alle aktiven Schüler, deren Postleitzahl mit 34 beginnt................................................. 6
+
+2.9
+
+Alle aktiven männlichen Schüler, die bis zum 31.12.2025 volljährig sind ...................... 7
+
+2.10 Alle aktiven Schüler der Mittelstufe mit Latein als 2. Fremdsprache ............................. 7
+2.11 Alle aktiven Schülerinnen ............................................................................................. 8
+2.12 Alle aktiven Schüler ohne deutsche Staatsangehörigkeit ............................................. 8
+2.13 Alle aktiven, evangelischen Schüler ............................................................................. 9
+2.14 Alle aktiven Schüler, die in einer Straße wohnen, in der „Hof“ vorkommt...................... 9
+2.15 Alle aktiven Schüler, deren Eltern Mitglied der Schulkonferenz sind........................... 10
+2.16 Alle aktiven Schüler mit Freigabe zum 31.07.2016 ..................................................... 10
+2.17 Alle aktiven Schüler mit hinterlegten lebenswichtigen Informationen .......................... 11
+2.18 Alle aktiven Schüler mit hinterlegten schulinternen Informationen .............................. 11
+
+3
+
+Expertensuche .................................................................................................................... 12
+3.1
+
+Schülersuche nach mehreren Fremdsprachen und Mittelstufe ................................... 12
+
+3.2
+
+Schülersuche nach unterschiedlichen Nachnamen .................................................... 12
+
+3.3
+
+Beispiel Umgang mit den Klammern in der Expertensuche ........................................ 13
+
+Abbildungsverzeichnis
+Abb. 1 Schülersuche: Register Suche – Beispiel 1 ..........................................................................2
+Abb. 2 Schülersuche: Register Suche – Beispiel 2 ..........................................................................2
+Abb. 3 Schülersuche: Register Erweitere Suche – Beispiel 5 ..........................................................3
+Abb. 4 Schülersuche: Register Erweiterte Suche – Beispiel 1 .........................................................3
+Abb. 5 Schülersuche: Register Erweitere Suche – Beispiel 2 ..........................................................4
+Abb. 6 Schülersuche: Register Erweitere Suche – Beispiel 3 ..........................................................4
+Abb. 7 Schülersuche: Register Erweitere Suche – Beispiel 6 ..........................................................5
+Abb. 8 Schülersuche: Register Erweitere Suche – Beispiel 7 ..........................................................5
+Abb. 9 Schülersuche: Register Erweitere Suche – Beispiel 8 ..........................................................6
+Abb. 10 Schülersuche: Register Erweitere Suche – Beispiel 9 ........................................................6
+Abb. 11 Schülersuche: Register Erweitere Suche – Beispiel 10 ......................................................7
+Abb. 12 Schülersuche: Register Erweitere Suche – Beispiel 11 ......................................................8
+Abb. 13 Schülersuche: Register Erweitere Suche – Beispiel 12 ......................................................8
+Abb. 14 Schülersuche: Register Erweitere Suche – Beispiel 13 ......................................................8
+Abb. 15 Schülersuche: Register Erweitere Suche – Beispiel 14 ......................................................9
+Abb. 16 Schülersuche: Register Erweitere Suche – Beispiel 15 ......................................................9
+Abb. 17 Schülersuche: Register Erweitere Suche – Beispiel 16 ....................................................10
+Abb. 18 Schülersuche: Register Erweitere Suche – Beispiel 17 ....................................................11
+Abb. 19 Schülersuche: Register Erweitere Suche – Beispiel 19 ....................................................11
+Abb. 20 Schülersuche: Register Expertensuche – Beispiel 1.........................................................12
+Abb. 21 Schülersuche: Register Expertensuche – Beispiel 2.........................................................12
+Abb. 22 Schülersuche: Register Expertensuche – Beispiel Klammern 1.0.....................................13
+Abb. 23 Schülersuche: Register Expertensuche – Beispiel Klammern 1.1.....................................14
+Abb. 24 Schülersuche: Register Expertensuche – Beispiel Klammern 1.2.....................................14
+Abb. 25 Schülersuche: Register Expertensuche – Beispiel Klammern 1.3.....................................15
+Abb. 26 Schülersuche: Register Expertensuche – Beispiel Klammern 1.4.....................................16
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 2.0 | Letzter Stand: 04.04.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Die Beispiele in der Schülersuche sind aufgeteilt nach den Registern SUCHE, ERWEITERTE SUCHE
+und EXPERTENSUCHE.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+1
+
+Beispiele zur Schülersuche
+1
+
+Beispiele im Register Suche
+
+1.1
+
+Alle aktiven Schüler, deren Nachname mit Ma beginnt
+Sie suchen nach allen aktiven Schülerinnen und Schülern, deren Nachname mit Ma
+beginnt.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Geben Sie im Feld NACHNAME die Auswahl Ma* ein.
+
+Abb. 1 Schülersuche: Register Suche – Beispiel 1
+
+Tipp
+Verwenden Sie ein Sternchen * bei der Suche als Platzhalter, um nach jedem
+beliebigen Wort mit diesen Anfangsbuchstaben zu suchen.
+Der Suchoperator * kann auch in der ERWEITERTEN SUCHE und der
+EXPERTENSUCHE bei unterschiedlichen Suchkriterien verwendet werden.
+
+1.2
+
+Alle ehemaligen Schüler mit der Schulform GYM8
+Sie suchen nach allen ehemaligen Schülerinnen und Schülern mit der Schulform GYM8.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld EHEMALIGE.
+3. Wählen Sie im Feld SCHULFORM die Auswahl GYM8 in der Liste aus.
+
+Abb. 2 Schülersuche: Register Suche – Beispiel 2
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+2
+
+2
+
+Beispiele im Register Erweiterte Suche
+
+2.1
+
+Alle aktiven Schüler Ihrer Schule
+Sie suchen nach allen aktiven Schülerinnen und Schüler Ihrer Schule.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag NACHNAME aus.
+4. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen Zeichen.
+5. Geben Sie im Freitextfeld zz ein, damit alle Namen durchsucht werden.
+
+Abb. 3 Schülersuche: Register Erweitere Suche – Beispiel 5
+
+2.2
+
+Alle neu aufgenommenen Schüler mit SD-R
+Sie suchen nach allen neu aufgenommenen Schülerinnen und Schülern (Kandidaten mit
+SD-R).
+1. Wählen Sie den Optionschalter KANDIDATEN aus.
+2. Setzen Sie einen Haken in den Feldern MIT SD-R und IST KANDIDAT.
+3. Wählen Sie in der Auswahl den Eintrag NACHNAME aus.
+4. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen.
+5. Geben Sie im Freitextfeld zz ein, damit alle Namen durchsucht werden.
+
+Abb. 4 Schülersuche: Register Erweiterte Suche – Beispiel 1
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+3
+
+2.3
+
+Alle aktiven Schüler mit der Feldangabe ohne Angabe bei der Auswahl des
+Geschlechts
+Sie suchen nach allen aktiven Schülerinnen und Schülern mit dem Eintrag: ohne Angabe
+im Feld GESCHLECHT(M/W).
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag GESCHLECHT(M/W) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld ohne Angabe ein.
+
+Abb. 5 Schülersuche: Register Erweitere Suche – Beispiel 2
+
+2.4
+
+Alle aktiven Schüler mit einem Konfessionseintrag: Sonstige/Keine
+Sie suchen nach allen aktiven Schülerinnen und Schülern mit dem Eintrag: Sonstige/Keine
+im Feld KONFESSION.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag KONFESSION (LANGTEXT) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld sonstige/Keine ein.
+
+Abb. 6 Schülersuche: Register Erweitere Suche – Beispiel 3
+
+Hinweis
+Bei der Suche nach Begriffen muss das erste Zeichen ein Buchstabe oder
+eine Ziffer sein.
+Sie brauchen bei der Eingabe ihres Suchbegriffs nicht auf die Groß- und
+Kleinschreibung im Feld zu achten.
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+4
+
+2.5
+
+Alle aktiven Schüler ohne Klassezuordnung
+Zuerst suchen Sie nach allen aktiven Schülerinnen und Schülern Ihrer Schule (Abb. 3).
+Danach können Sie die Schüler ohne Klasseneintrag in der Ergebnisliste filtern.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag NACHNAME aus.
+4. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen Zeichen.
+5. Geben Sie im Freitextfeld zz ein, damit alle Namen durchsucht werden.
+6. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift KLASSE. Die Schüler ohne
+Klasseneintrag stehen am Anfang der Ergebnisliste.
+
+Abb. 7 Schülersuche: Register Erweitere Suche – Beispiel 6
+
+2.6
+
+Alle aktiven Schüler in der Mittelstufe
+Sie suchen nach allen aktiven Schülerinnen und Schülern in der Mittelstufe.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag STUFE/SEMESTER aus.
+4. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen.
+5. Geben Sie im Freitextfeld eine Bezeichnung der Stufe oder des Semesters ein.
+Im Beispiel wird die 10/2 verwendet.
+
+Abb. 8 Schülersuche: Register Erweitere Suche – Beispiel 7
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+5
+
+2.7
+
+Alle aktiven Schüler der Schulform GYM und der Stufe 06/1
+Sie suchen nach allen aktiven Schülerinnen und Schülern der Schulform GYM und der
+Stufe 06/1.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag STUFE/SEMESTER aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen hinter das Feld
+STUFE/SEMESTER.
+5. Geben Sie im Freitextfeld eine Bezeichnung der Stufe oder des Semesters ein. Im
+Beispiel wird die 06/1 verwendet.
+6. Wählen Sie in der Auswahl den Eintrag SCHULFORM (KÜRZEL) aus.
+7. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen hinter das Feld SCHULFORM
+(KÜRZEL).
+8. Geben Sie im Freitextfeld die Schulform ein. Im Beispiel wird die Schulform GYM
+eingegeben.
+
+Abb. 9 Schülersuche: Register Erweitere Suche – Beispiel 8
+
+2.8
+
+Alle aktiven Schüler, deren Postleitzahl mit 34 beginnt
+Sie suchen nach allen aktiven Schülerinnen und Schülern, deren Postleitzahl mit 34
+beginnt.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag PLZ aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld eine Postleitzahl ein. Im Beispiel wird die 34* verwendet.
+
+Abb. 10 Schülersuche: Register Erweitere Suche – Beispiel 9
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+6
+
+2.9
+
+Alle aktiven männlichen Schüler, die bis zum 31.12.2025 volljährig sind
+Sie suchen nach allen aktiven männlichen Schülern, die bis zum 31.12.2025 volljährig sind.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag GESCHLECHT (M/W) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen hinter das Feld GESCHLECHT
+(M/W).
+5. Geben Sie im Freitextfeld eine Bezeichnung der Stufe des Geschlechts ein. Im Beispiel
+wird m verwendet.
+6. Wählen Sie in der Auswahl den Eintrag GEBURTSDATUM (TT.MM.JJJJ) aus.
+7. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen hinter das Feld
+GEBURTSDATUM (TT.MM.JJJJ).
+8. Geben Sie im Freitextfeld ein Datum ein. Im Beispiel wird das Datum 31.12.2025
+eingegeben.
+
+Abb. 11 Schülersuche: Register Erweitere Suche – Beispiel 10
+
+2.10 Alle aktiven Schüler der Mittelstufe mit Latein als 2. Fremdsprache
+Sie suchen nach allen aktiven Schülerinnen und Schülern der Mittelstufe 10/2, die Latein
+als 2. Fremdsprache haben.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag STUFE/SEMESTER aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen hinter das Feld
+STUFE/SEMESTER.
+5. Geben Sie im Freitextfeld eine Bezeichnung der Stufe oder des Semesters ein. Im
+Beispiel wird die 10/2 verwendet.
+6. Wählen Sie in der Auswahl den Eintrag 2.FREMDSPRACHE (KÜRZEL) aus.
+7. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen hinter das Feld
+2.FREMDSPRACHE (KÜRZEL).
+8. Geben Sie im Freitextfeld das Kürzel der zweiten Fremdsprache ein. Im Beispiel wird die
+Schulform L eingegeben.
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+7
+
+Abb. 12 Schülersuche: Register Erweitere Suche – Beispiel 11
+
+2.11 Alle aktiven Schülerinnen
+Sie suchen nach allen aktiven Schülerinnen Ihrer Schule.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag GESCHLECHT (M/W) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld eine Bezeichnung des Geschlechts ein. Im Beispiel wird w
+verwendet.
+
+Abb. 13 Schülersuche: Register Erweitere Suche – Beispiel 12
+
+2.12 Alle aktiven Schüler ohne deutsche Staatsangehörigkeit
+Sie suchen nach allen aktiven Schülerinnen und Schülern ohne eine deutsche
+Staatsangehörigkeit.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag 1. STAATSANGEHÖRIGKEIT (LANGTEXT) aus.
+4. Setzen Sie ein <> (in Worten: Kleiner-Größer-Zeichen) Zeichen.
+5. Geben Sie im Freitextfeld die erste Staatsangehörigkeit ein. Im Beispiel wird deutsch
+verwendet.
+
+Abb. 14 Schülersuche: Register Erweitere Suche – Beispiel 13
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+8
+
+2.13 Alle aktiven, evangelischen Schüler
+Sie suchen nach allen aktiven Schülerinnen und Schülern, die evangelisch sind.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag KONFESSION (LANGTEXT) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld die Konfession ein. Im Beispiel wird ev* verwendet.
+
+Abb. 15 Schülersuche: Register Erweitere Suche – Beispiel 14
+
+Hinweis
+Die Beschreibung in der Klammer hinter einem Suchkriterium gibt an, was im
+Suchfeld angegeben werden sollte. Bei der Beschreibung (Langtext) können
+Sie die Wörter mit dem Platzhalter Sternchen * verkürzen.
+
+2.14 Alle aktiven Schüler, die in einer Straße wohnen, in der „Hof“ vorkommt
+Sie suchen nach allen aktiven Schülerinnen und Schülern, die in einer Straße wohnen, die
+mit Hof beginnt.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag STRAßE aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld den Straßennamen ein. Im Beispiel wird Hof* verwendet.
+
+Abb. 16 Schülersuche: Register Erweitere Suche – Beispiel 15
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+9
+
+2.15 Alle aktiven Schüler, deren Eltern Mitglied der Schulkonferenz sind
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag ANSPRECHPARTNER SCHULKONFERENZ aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld ein die Auswahl Mitglied ein, um nach Eltern in der
+Schulkonferenz zu suchen. Im Beispiel wird Mitglied verwendet.
+
+Tipp
+Sie können bei dem Suchkriterium ANSPRECHPARTNER SCHULKONFERENZ
+nach Eltern der Schüler suchen, die Mitglied, Ersatzmitglied oder kein
+Mitglied sind.
+Kürzen Sie die Eingabe auch mit dem Platzhalter Sternchen * ab, um z. B.
+mit dem Suchbegriff M* alle Mitglieder und Ersatzmitglieder zu suchen.
+Sie können die Sucheingaben auch bei den Suchkriterien ANSPRECHPARTNER
+ELTERNBEIRAT und ANSPRECHPARTNER SCHULELTERNBEIRAT verwenden.
+
+2.16 Alle aktiven Schüler mit Freigabe zum 31.07.2016
+Sie suchen nach allen aktiven Schülerinnen und Schülern mit einer Freigabe zum
+31.07.2016.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag ABGÄNGER FREIGEGEBEN ZUM (TT.MM.JJJJ) aus.
+4. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+5. Geben Sie im Freitextfeld das Datum für Freigabe der Abgänger ein. Im Beispiel wird
+31.07.2016 verwendet.
+
+Abb. 17 Schülersuche: Register Erweitere Suche – Beispiel 16
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+10
+
+2.17 Alle aktiven Schüler mit hinterlegten lebenswichtigen Informationen
+Sie suchen nach allen aktiven Schülerinnen und Schülern, für die lebenswichtige
+Informationen hinterlegt sind.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag LEBENSWICHTIGE INFORMATIONEN aus.
+4. Setzen Sie ein >= (in Worten: Größer-Gleich-Zeichen) Zeichen.
+5. Geben Sie im Freitextfeld ein a ein.
+
+Abb. 18 Schülersuche: Register Erweitere Suche – Beispiel 17
+
+2.18 Alle aktiven Schüler mit hinterlegten schulinternen Informationen
+Sie suchen nach allen aktiven Schülerinnen und Schüler, für die schulinterne Informationen
+hinterlegt sind.
+1. Wählen Sie den Optionschalter SCHÜLER aus.
+2. Setzen Sie einen Haken in dem Feld AKTIVE.
+3. Wählen Sie in der Auswahl den Eintrag SCHULINTERNE INFORMATIONEN aus.
+4. Setzen Sie ein >= (in Worten: Größer-Gleich-Zeichen) Zeichen.
+5. Geben Sie im Freitextfeld ein a ein.
+
+Abb. 19 Schülersuche: Register Erweitere Suche – Beispiel 19
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+11
+
+3
+
+Expertensuche
+
+3.1
+
+Schülersuche nach mehreren Fremdsprachen und Mittelstufe
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schülerinnen und Schüler, mit 2. Fremdsprache französisch (F) oder mit 3.
+Fremdsprache französisch (F) und als 3. Fremdsprache kein Spanisch (SPA) und in der
+Mittelstufe sind.
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in der dem ersten zwei Feldern den Eintrag 2. FREMDSPRACHE (KÜRZEL) und
+3. FREMDSPRACHE (KÜRZEL) aus und geben Sie im Freitextfeld das Kürzel F ein.
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+4. Setzen Sie einen Haken neben der ersten Klammer und hinter der zweiten Klammer
+(siehe Abb. 20) und wählen Sie in der rechten ersten Auswahl oder aus.
+5. Wählen Sie in der dritten Auswahl den Eintrag 3. FREMDSPRACHE (KÜRZEL) und geben
+Sie im Freitextfeld das Kürzel SPA ein.
+6. Setzen Sie ein <> (in Worten: Kleiner-Größer-Zeichen) Zeichen.
+7. Wählen Sie in der dem ersten zwei Feldern den Eintrag STUFE/SEMESTER und geben Sie
+im Freitextfeld die Stufe ein.
+8. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen.
+
+Abb. 20 Schülersuche: Register Expertensuche – Beispiel 1
+
+3.2
+
+Schülersuche nach unterschiedlichen Nachnamen
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schülerinnen, die Schmidt oder Müller heißen oder deren Nachname mit B
+beginnt.
+
+Abb. 21 Schülersuche: Register Expertensuche – Beispiel 2
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+12
+
+Hinweis
+Wenn Sie die Klammern weglassen, finden Sie weibliche und männliche
+Schüler, die Schmidt oder Müller heißen oder deren Nachname mit B beginnt.
+
+3.3
+
+Beispiel Umgang mit den Klammern in der Expertensuche
+Folgendes Beispiel zeigt, wie sich das Ergebnis verändert, wenn bei gleichen
+Sucheingaben die Klammern anders gesetzt werden:
+
+3.3.1 Beispiel Klammer 1.0
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schülerinnen, deren Wohnort mit Wa beginnt und deren Nachname mit
+Schm anfängt alle Bedingungen müssen erfüllt sein.
+Diese Suche entspricht der erweiterten Suche.
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in dem drei Auswahlfeldern jeweils die Einträge ORT, GESCHLECHT (W/M)
+und NACHNAME aus.
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen für jede Auswahl.
+4. Geben Sie jeweils in die Freitextfelder die passende Suchbegriff ein. Im Beispiel wird
+Wa* als Ort, w für Geschlecht und Schm* für den Nachname verwendet.
+
+Abb. 22 Schülersuche: Register Expertensuche – Beispiel Klammern 1.0
+
+3.3.2 Beispiel Klammer 1.1
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schüler, deren Wohnort mit Wa beginnt und weiblich sind oder deren
+Nachname mit Schm anfängt.
+Tipp
+Beispiel in einer der Klammerform:
+▪ Ort und (Geschlecht oder Nachname)
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in der dem drei Auswahlfeldern jeweils die Einträge ORT, GESCHLECHT (W/M)
+und Nachname aus.
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+13
+
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen für jede Auswahl.
+4. Geben Sie jeweils in die Freitextfelder die passende Suchbegriff ein. Im Beispiel wird
+Wa* als Ort, w für Geschlecht und Schm* für den Nachname verwendet.
+5. Setzen Sie einen Haken neben die zweite Klammer und hinter die dritte Klammer
+(siehe Abb. 23).
+6. Wählen Sie in der rechten zweiten Auswahl oder aus.
+
+Abb. 23 Schülersuche: Register Expertensuche – Beispiel Klammern 1.1
+
+3.3.3 Beispiel Klammer 1.2
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schüler, deren Wohnort mit Wa beginnt oder die weiblich sind und deren
+Nachname mit Schm anfängt.
+Tipp
+Beispiel in einer der Klammerform:
+▪ Ort oder (Geschlecht und Nachname)
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in der dem drei Auswahlfeldern jeweils die Einträge ORT, GESCHLECHT (W/M)
+und Nachname aus.
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen für jede Auswahl.
+4. Geben Sie jeweils in die Freitextfelder die passende Suchbegriff ein. Im Beispiel wird
+Wa* als Ort, w für Geschlecht und Schm* für den Nachname verwendet.
+5. Setzen Sie einen Haken neben die zweite Klammer und hinter die dritte Klammer
+(siehe Abb. 24).
+6. Wählen Sie in der rechten ersten Auswahl oder aus.
+
+Abb. 24 Schülersuche: Register Expertensuche – Beispiel Klammern 1.2
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+14
+
+3.3.4 Beispiel Klammer 1.3
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schüler, die weiblich sind und deren Wohnort mit Wa beginnt oder deren
+Nachname mit Schm anfängt.
+Tipp
+Beispiel in einer der Klammerform:
+▪ (Ort und Geschlecht) oder Nachname
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in der dem drei Auswahlfeldern jeweils die Einträge ORT, GESCHLECHT (W/M)
+und Nachname aus.
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen für jede Auswahl.
+4. Geben Sie jeweils in die Freitextfelder die passende Suchbegriff ein. Im Beispiel wird
+Wa* als Ort, w für Geschlecht und Schm* für den Nachname verwendet.
+5. Setzen Sie einen Haken neben die erste Klammer und hinter die zweite Klammer (siehe
+Abb. 25).
+6. Wählen Sie in der rechten zweite Auswahl oder aus.
+
+Abb. 25 Schülersuche: Register Expertensuche – Beispiel Klammern 1.3
+
+3.3.5 Beispiel Klammer 1.4
+Sie suchen nach folgenden Einträgen:
+Alle aktiven Schüler, die weiblich sind oder deren Wohnort mit Wa beginnt und deren
+Nachname mit Schm anfängt.
+Tipp
+Beispiel in einer der Klammerform:
+▪ (Ort oder Geschlecht) und Nachname
+1. Wählen Sie den Optionschalter SCHÜLER aus und setzen Sie einen Haken in dem Feld
+AKTIVE.
+2. Wählen Sie in der dem drei Auswahlfeldern jeweils die Einträge ORT, GESCHLECHT (W/M)
+und Nachname aus.
+3. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen für jede Auswahl.
+4. Geben Sie jeweils in die Freitextfelder die passende Suchbegriff ein. Im Beispiel wird
+Wa* als Ort, w für Geschlecht und Schm* für den Nachname verwendet.
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+15
+
+5. Setzen Sie einen Haken neben die erste Klammer und hinter die zweite Klammer (siehe
+Abb. 26).
+6. Wählen Sie in der rechten ersten Auswahl oder aus.
+
+Abb. 26 Schülersuche: Register Expertensuche – Beispiel Klammern 1.4
+
+HMKB | LUSD | Beispiele zur Schülersuche | Version: 3.0 | 05.02.2025
+
+16
+
+

@@ -1,0 +1,268 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Berufsschule Teilzeit [BST, BSBT]
+Hinweise und Zeugnisbeispiele
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+A4
+
+Siehe Kapitel 6.1
+
+Abgangszeugnis
+
+A3
+
+Siehe Kapitel 6.2
+
+Abschlusszeugnis
+
+A3
+
+Siehe Kapitel 6.3
+
+Halbjahreszeugnis ohne Lernfelder
+Nur für besondere Berufe
+Fächer individuell anzulegen (ggfs. mit Themen)
+
+A4
+
+Siehe Kapitel 6.4
+
+Zusatzzeugnis (FH-Reife)
+
+A4
+
+Siehe Kapitel 6.5
+
+2
+
+Kursmerkmale
+
+Zeugnisart
+
+Kursart
+
+Kursdifferenzierung
+
+Fächer des allgemeinbildenden Lernbereichs
+
+P
+
+-
+
+Lernfelder des beruflichen Lernbereichs
+
+P
+
+-
+
+Fächer des beruflichen Lernbereichs
+(nur Zeugnisse ohne Lernfelder)
+
+P
+
+BR
+
+Fächer des Wahlpflichtunterrichts
+
+W
+
+-
+
+Fächer des Wahlunterrichts
+Zusatzunterricht zur FHR- Reife
+
+F
+
+Fächer im Zusatzzeugnis (FH-Reife)
+nur für das Zusatzzeugnis
+
+Z
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+ZUF
+
+1
+
+3
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+Automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum
+
+Ende Schulbesuch Abschlusszeugnis
+
+Abschluss-Prüfung Datum
+
+Datum Abschlusszeugnis im Zusatzzeugnis
+
+Ausgabe Datum
+
+Datum Zusatzzeugnis
+
+Zusatzprüfung Datum
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Fach- u. Lernfeldnoten
+
+LUSD oder ENC
+
+Gesamtnote berufsbildender Lernbereich
+
+LUSD: Gesamtnote BBU
+
+(Note ohne Kommastelle)
+
+ENC: Gesamtnote beruflicher Lernbereich
+
+Gesamtnote der berufsschulischen Leistungen
+
+ENC: Endnote/Prüfungsnote
+
+(Zahl mit einer Nachkommastelle)
+
+5
+
+Hinweise
+ Fächer des allgemeinbildenden Bereichs, des Wahlpflichtunterrichts und des
+Wahlunterrichts werden in den Zeugnissen nur angezeigt, wenn entsprechende Kurse
+belegt wurden.
+ Alle Lernfelder des berufsbildenden Lernbereichs (je nach Ausbildungsberuf des
+Schülers) werden angezeigt. Zur Noteneingabe ist die Anlage entsprechender Kurse
+erforderlich.
+ In Abgangs- und Abschlusszeugnissen werden die historischen Lernfeldnoten
+übernommen. Ausgewählt wird aus der Leistungshistorie des Schülers das letzte
+Halbjahr, in dem der Schüler einen Kurs in dem betreffenden Lernfeld belegt hat und
+eine Note erhielt. Wurde im aktuellen Halbjahr und in den zurückliegenden Halbjahren
+keine Note erteilt, wird im Zeugnis “-“ anstelle einer Note ausgedruckt.
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+2
+
+6
+
+Beispielzeugnisse
+
+6.1
+
+Beispiel Halbjahreszeugnis
+
+P-Kurse
+
+W-Kurse mit eigenem Thema
+
+F-Kurs mit eigenem Thema
+
+Abb. 1 Beispiel: Halbjahreszeugnis – Vorderseite
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+3
+
+Abb. 2 Beispiel: Halbjahreszeugnis – Rückseite
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+4
+
+6.2
+
+Beispiel Abgangszeugnis
+
+Abb. 3 Beispiel: Abgangszeugnis – Vorderseite
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+5
+
+P-Kurse
+
+W-Kurse mit eigenem Thema
+
+F-Kurs mit eigenem Thema
+
+Abb. 4 Beispiel: Abgangszeugnis – Rückseite
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+6
+
+6.3
+
+Beispiel Abschlusszeugnis
+
+Abb. 5 Beispiel: Abschlusszeugnis
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+7
+
+P-Kurse
+
+W-Kurs mit eigenem Thema
+F-Kurs mit eigenem Thema
+
+Abb. 6 Beispiel: Abschlusszeugnis
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+8
+
+6.4
+
+Halbjahreszeugnis ohne Lernfelder
+
+Kurse mit Differenzierung BR
+
+Abb. 7 Beispiel: Halbjahreszeugnis ohne Lernfelder
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+9
+
+6.5
+
+Beispiel Zusatzzeugnis (FH-Reife)
+
+Z-Kurse
+
+Abb. 8 Beispiel: Zusatzzeugnis (FH-Reife)
+
+HMKB | LUSD | Berufsschule Teilzeit [BST, BSBT] | Version 2.0 | Stand: 20.08.2025
+
+10
+
+

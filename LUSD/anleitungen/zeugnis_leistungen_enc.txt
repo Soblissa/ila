@@ -1,0 +1,1364 @@
+Hessisches Kultusministerium
+Referat IV.2
+E-Government-Verfahren und Geschäftsprozessanalyse
+
+Von der Leistungserfassung
+bis zum Zeugnis
+
+Version: 2.0 – Stand: 29.03.2023
+
+3 – Leistungen mit dem ENC erfassen
+
+Inhalt
+Leistungserfassung mit dem ENC
+1
+
+2
+
+3
+
+6
+
+Technische Voraussetzungen ...............................................................................................6
+1.1
+
+Mobile Installation mit der Einbindung der Exportdatei.................................................................6
+
+1.2
+
+Mobile Installation mit dem Download-Link ..................................................................................7
+
+Möglichkeiten der Datenerfassung ........................................................................................7
+2.1
+
+Datenerfassung kursweise ............................................................................................................8
+
+2.2
+
+Datenerfassung klassenweise ......................................................................................................8
+
+2.3
+
+Datenerfassung kursweise / klassenweise ...................................................................................8
+
+Daten aus der LUSD in den ENC exportieren ........................................................................9
+3.1
+
+Checkliste zu den Exportoptionen ................................................................................................9
+
+3.2
+
+Geeignete Exportoption festlegen...............................................................................................10
+
+3.3
+
+3.2.1
+
+Exportoption Arbeitsstationen ........................................................................................10
+
+3.2.2
+
+Exportoption Datei für einzelnen Lehrer ........................................................................10
+
+3.2.3
+
+Exportoption Einzelne Dateien für alle Lehrer ...............................................................10
+
+Dateiexport durchführen .............................................................................................................11
+
+4
+
+Automatische Versendung der ENC-Passwörter .................................................................12
+
+5
+
+Mit dem ENC arbeiten .........................................................................................................13
+5.1
+
+Den ENC starten .........................................................................................................................13
+Der Startbildschirm .........................................................................................................13
+
+5.2
+
+Programmoberfläche ..................................................................................................................13
+5.2.1
+
+Bedeutung der allgemeinen Symbole ............................................................................14
+Symbole vor einer Kursbezeichnung, Kursart oder Klassenbezeichnung in einer
+Auswahlliste .........................................................................................................14
+Symbole hinter einer Auswahlliste .................................................................................14
+
+6
+
+5.2.2
+
+Mehrfachnotenerfassung (für mehrere Kurse gleicher Kursart und gleichen Faches) ..14
+
+5.2.3
+
+Erfassung der zentralen Abschlussarbeiten ..................................................................15
+
+5.2.4
+
+Klassenweise Erfassung von Leistungen und allgemeinen Daten durch den
+Klassenlehrer .................................................................................................................15
+
+5.2.5
+
+Kursweise Erfassung durch Klassenlehrer ....................................................................17
+
+5.2.6
+
+Kursweise Erfassung von Noten und Fehlzeiten durch Fachlehrer ...............................18
+
+Leistungsdaten im ENC eingeben .......................................................................................20
+6.1
+
+Tastaturtipps ...............................................................................................................................20
+6.1.1
+
+Navigation ......................................................................................................................20
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+2 von 30
+
+6.1.2
+
+Spaltenweise Eingabe ....................................................................................................20
+
+6.1.3
+
+Zeilenweise Eingabe ......................................................................................................20
+
+6.1.4
+
+Blättern… .......................................................................................................................21
+… innerhalb einer Tabelle ..............................................................................................21
+… innerhalb der Register ...............................................................................................21
+… innerhalb der Kursarten (nur bei klassenweiser Erfassung) .....................................21
+
+6.2
+
+Zentrale Abschlussarbeiten erfassen .........................................................................................21
+
+6.3
+
+Leistungen erfassen ....................................................................................................................21
+
+6.4
+
+Bemerkungen eines Schülers löschen .......................................................................................23
+
+6.5
+
+6.6
+
+7
+
+6.4.1
+
+Einzelne Bemerkungen löschen ....................................................................................23
+
+6.4.2
+
+Alle Bemerkungen löschen ............................................................................................24
+
+Eignung/Versetzung bearbeiten..................................................................................................24
+6.5.1
+
+Versetzungsgefährdende Fächer bearbeiten.................................................................24
+
+6.5.2
+
+Daten zur Versetzung/Eignung bearbeiten ....................................................................25
+
+6.5.3
+
+Versetzung/Eignung – Fachschule für Sozialwesen
+Sozialpädagogik/Heilerziehungspflege ..........................................................................26
+
+6.5.4
+
+Versetzung/Eignung – Fachoberschule .........................................................................28
+
+Kopfnoten erfassen .....................................................................................................................29
+
+Im ENC erfasste Daten in die LUSD importieren .................................................................29
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+3 von 30
+
+Abbildungsverzeichnis
+Abb. 1
+
+Datenfluss im Prozess „externe Leistungserfassung“
+
+6
+
+Abb. 2
+
+Webseite UNTERRICHT > EXPORT / IMPORT > ENC EXPORT
+
+9
+
+Abb. 3
+
+Optionsschaltfläche Arbeitsstationen
+
+10
+
+Abb. 4
+
+Optionsschaltfläche Datei für einzelnen Lehrer
+
+10
+
+Abb. 5
+
+Optionsschaltfläche für alle Lehrer
+
+11
+
+Abb. 6
+
+Neue Schaltfläche: Passwörter senden
+
+12
+
+Abb. 7
+
+ENC-Anmeldefenster
+
+13
+
+Abb. 8
+
+Mehrfachnotenerfassung
+
+14
+
+Abb. 9
+
+Erfassung der zentralen Abschlussarbeiten mit Beschreibung
+
+15
+
+Abb. 10 Klassenweise Erfassung mit Beschreibung
+
+16
+
+Abb. 11 ENC vor Auswahl der Erfassung
+
+17
+
+Abb. 11 Menü Erfassung
+
+17
+
+Abb. 13 Kursweise Notenerfassung
+
+18
+
+Abb. 14 Klassenweise Erfassung
+
+18
+
+Abb. 15 Menü Erfassung bei einem Fachlehrer
+
+18
+
+Abb. 16 Kursweise Erfassung mit Beschreibung
+
+19
+
+Abb. 17 Bemerkungen zuweisen
+
+22
+
+Abb. 18 Erfassung von Bemerkungen (geschlossener Baum)
+
+23
+
+Abb. 19 Erfassung von Bemerkungen (geöffneter Baum)
+
+23
+
+Abb. 20 Klassenweise Erfassung Register Eignung / Versetzung
+
+24
+
+Abb. 21 Erfassung Versetzungsgefährdende Fächer
+
+25
+
+Abb. 22 Klassenweise Erfassung Register Eignung / Versetzung – Anzahl Fächer
+
+25
+
+Abb. 23 Erfassung Versetzung / Eignung – Mehrfachauswahl
+
+25
+
+Abb. 24 Klassenweise Erfassung Register Versetzung / Eignung – Versetzung gefährdet
+
+26
+
+Abb. 25 Klassenweise Erfassung Register Versetzung / Eignung – Mentoring erfolgreich / fachpraktische
+Ausbildung erfolgreich
+27
+Abb. 26 Register Versetzung / Eignung - Standarteinstellung vor der Änderung
+
+27
+
+Abb. 27 Register Versetzung / Eignung - nach der Änderung
+
+27
+
+Abb. 28 Erfassung Versetzung / Eignung - Fachpraktische Ausbildung erfolgreich
+
+28
+
+Abb. 29 Versetzung / Eignung - Standarteinstellung vor der Änderung
+
+28
+
+Abb. 30 Versetzung / Eignung - nach der Änderung
+
+28
+
+Abb. 31 Klassenweise Erfassung - Register Kopfnoten
+
+29
+
+Abb. 32 ENC Import - Datei auswählen
+
+30
+
+Abb. 33 ENC Import - Datei importieren
+
+30
+
+Abb. 34 Import Status
+
+30
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+4 von 30
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten.
+
+Hinweis auf Einträge in der Aufgabenliste
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Hinweis auf die Online-Hilfe
+
+Hinweis auf Informationsfilme
+
+Typografische Konventionen
+Fettschrift
+
+Bezeichnungen für Schaltfläche, Dialogfenster etc.
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+KAPITÄLCHEN
+
+Menü bzw. Menüpunkt und Pfadangabe
+
+Blau unterstrichen
+
+Link
+
+Blau hervorgehoben
+
+Bezeichnung von Bereichen und Tabellen
+
+Rot hervorgehoben
+
+Bezeichnung von Registern
+
+Grün hervorgehoben
+
+Kennzeichnung von Informationen zu Neuerungen
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten sind anonymisiert. Tatsächliche Übereinstimmungen
+sind zufällig und nicht beabsichtigt.
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher
+Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten gleichwohl für beide Geschlechter.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+5 von 30
+
+Leistungserfassung mit dem ENC
+Der externe Notenclient dient der Eingabe und Bearbeitung von Halbjahres-, bzw. Jahres- und Abschlussleistungen von Schülern außerhalb der Webanwendung LUSD. Sein Einsatz erleichtert die
+zeitnahe Leistungserfassung durch das Lehrpersonal unabhängig von einem direkten Zugriff auf die
+Webanwendung.
+Mit dem externen Notenclient können Noten entweder durch die Kurslehrer oder klassenweise für
+alle Fächer durch die Klassenlehrer erfasst werden. Außerdem können mit dem ENC Kopfnoten sowie Bemerkungen, Versetzungs- und Eignungseinträge erfasst werden. Integrierte Gesamtschulen
+können darüber hinaus auch die voraussichtlichen Abschlüsse ihrer Schüler mit dem ENC pflegen.
+
+Abb. 1
+
+1
+
+Datenfluss im Prozess „externe Leistungserfassung“
+
+Technische Voraussetzungen
+Für die Nutzung des externen Notenclients (ENC) benötigen Sie auf den entsprechenden Computern eine Installation der Software .Net-Framework in der aktuellen Version.
+Sie können diese Software auf der Webseite der Firma Microsoft kostenfrei herunterladen.
+Die für die Notenerfassung benutzten Computer müssen den Datenschutzrichtlinien entsprechen.
+Nach der Installation der .Net-Framework-Software können Sie die ENC-Programmdateien auf Ihren
+Rechner oder auf einem mobilen Datenträger kopieren und benutzen.
+
+1.1
+
+Mobile Installation mit der Einbindung der Exportdatei
+Bei der lauffähigen mobilen Version des ENC ist keine Programminstallation notwendig. Die Programmdateien für die mobile ENC-Version können Sie durch einen Notenexport mit herunterladen.
+Danach kopieren Sie die ENC-Dateien einmalig in einen Ordner. Bei weiteren Exporten zur Datenerfassung über den ENC ist es dann nicht mehr notwendig, den ENC-Client in die Exportdatei einzubinden. Nach eventuellen Aktualisierung des ENC müssen Sie die Datei wieder neu einbinden.
+Klicken Sie auf der Webseite UNTERRICHT > EXPORT / IMPORT > ENC EXPORT auf das Kontrollkästchen
+.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+6 von 30
+
+Haken Sie mindestens eine Stufe im Bereich Schülerauswahl an.
+Klicken Sie auf
+
+.
+
+Die Datei ENCEX_2022xxxx wird im Downloadorder abgespeichert.
+Extrahieren Sie die Zip-Datei.
+Verschieben Sie die ENC-Dateien in einen Ordner Ihrer Wahl auf dem mobilen Datenträger oder
+Ihrem Computer.
+Erstellen Sie eine Verknüpfung zu der Datei ENC.exe.
+Verschieben Sie die Verknüpfung in das Hauptverzeichnis Ihres mobilen Datenträgers oder auf
+den Desktop Ihres Computers, an dem der ENC aufgerufen wird.
+
+Empfehlung
+Erstellen Sie einen Ordner für die Dateien des ENC und einen anderen Ordner für
+die zur Datenerfassung benötigten Dateien (Alle .xml-Dateien und .pdf-Dateien).
+
+1.2
+
+Mobile Installation mit dem Download-Link
+Bei der lauffähigen mobilen Version des ENC ist keine Programminstallation notwendig. Die Programmdateien für die mobile ENC-Version können Sie über den Download-Link herunterladen.
+Danach kopieren Sie die ENC-Dateien einmalig in einen Ordner. Bei weiteren Exporten zur Datenerfassung über den ENC ist es dann nicht mehr notwendig, den ENC-Client in die Exportdatei einzubinden. Nach eventuellen Aktualisierung des ENC (Release Information) müssen Sie die Datei
+wieder neu einbinden bzw. neu speichern.
+Klicken Sie auf der Webseite UNTERRICHT > EXPORT / IMPORT > ENC EXPORT links unten auf
+.
+Klicken Sie im Windows-Dialogfenster auf die Schaltfläche
+
+.
+
+Extrahieren Sie die Zip-Datei.
+Verschieben Sie die ENC-Dateien in einen Ordner Ihrer Wahl auf dem mobilen Datenträger oder
+Ihrem Computer.
+Erstellen Sie eine Verknüpfung zu der Datei ENC.exe.
+Verschieben Sie die Verknüpfung in das Hauptverzeichnis Ihres mobilen Datenträgers oder auf
+den Desktop Ihres Computers, an dem der ENC aufgerufen wird.
+
+2
+
+Möglichkeiten der Datenerfassung
+Welche Leistungsdaten Sie mit dem ENC erfassen können, legen Sie auf der Webseite UNTERRICHT
+> ZEUGNISKONFIGURATION > NOTENKONFIGURATION fest (siehe Anleitung Leistungserfassung vorbereiten).
+Kopfnoten, Bemerkung und Versetzung / Eignung können optional über den ENC ausgegeben werden.
+Mit Hilfe des ENC können Sie folgende Daten komfortabel als Listen auf unterschiedliche Art erfassen:
+Ergebnisse der zentralen Abschlussarbeiten
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+7 von 30
+
+2.1
+
+Datenerfassung kursweise
+Kurslehrer erfassen:
+
+ Fehlzeiten kursweise (nur Angabe von Stunden, entschuldigt / unentschuldigt)
+ Noten / Punkte kursweise
+Ist ein Kurslehrer gleichzeitig Klassenlehrer erfasst er zusätzlich:
+
+ Kopfnoten klassenweise
+ Bemerkungen klassenweise
+ Eignung / Versetzung (versetzungsgefährdende Fächer / Eignung / Voraussichtlicher Abschluss /
+Versetzung gefährdet / Versetzung) klassenweise
+
+2.2
+
+Datenerfassung klassenweise
+Bei dieser Art der Notenerfassung werden alle Daten vom Klassenlehrer eingegeben.
+
+ Fehlzeiten klassenweise (Fehltage / Fehlstunden, entschuldigt / unentschuldigt)
+ Noten / Punkte klassenweise
+ Bemerkungen (Auswahl aus Vorgaben, individuelle Bemerkungen können Sie nur in der LUSD
+erstellen)
+
+ Kopfnoten (nur Noten, schriftliche Ergänzungen können Sie nur in der LUSD erstellen)
+ Eignung / Versetzung (versetzungsgefährdende Fächer / Eignung / Voraussichtlicher Abschluss /
+Versetzung gefährdet / Versetzung)
+
+2.3
+
+Datenerfassung kursweise / klassenweise
+Bei dieser Mischform erfasst der Klassenlehrer:
+
+ Kopfnoten klassenweise
+ Fehlzeiten klassenweise
+ Bemerkungen klassenweise
+ Eignung / Versetzung (versetzungsgefährdende Fächer / Eignung / Voraussichtlicher Abschluss /
+Versetzung gefährdet / Versetzung) klassenweise
+
+Die Kurslehrer vergeben für die Schüler ihrer Kurse:
+
+ Noten / Punkte kursweise
+Klassenlehrer und Kurslehrer erfassen die Daten in eigenen Dateien. Die Daten der Schüler werden
+nach dem Import in der LUSD zusammengeführt.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+8 von 30
+
+3
+
+Daten aus der LUSD in den ENC exportieren
+Um die Leistungen mit dem ENC erfassen zu können, müssen zuvor die entsprechenden Daten aus
+der LUSD exportiert werden.
+
+3.1
+
+Checkliste zu den Exportoptionen
+Je nachdem, welche Daten von wem wo bearbeitet werden sollen, empfehlen wir folgende Einstellungen / folgendes Vorgehen:
+Legen Sie im rechten Bereich Schülerauswahl fest, für welche Schulform und Stufe Sie Leistungen mit dem ENC erfassen möchten.
+Die Symbole
+
+
+
+(klassenweise Erfassung von Noten) und
+
+
+
+(kursweise Erfassung von Noten)
+
+signalisieren Ihnen die Erfassungseinstellungen, die Sie in der Notenkonfiguration vorgenommen
+haben (siehe Anleitung Leistungserfassung vorbereiten).
+Danach legen Sie fest, welche ENC-Exportdatei/en Sie erstellen, um diese dann im ENC weiter
+zu bearbeiten.
+Sie haben drei Möglichkeiten:
+
+ Daten arbeitsstationsweise exportieren, das heißt: Sie legen fest, auf wie vielen PCs die
+Leistungen erfasst werden sollen. Das Exportprogramm der LUSD bestimmt die Lehrer, die
+an der jeweiligen Arbeitsstation arbeiten dürfen. Sie bekommen dafür ein Protokoll
+ausgegeben.
+
+ Dateien für einzelne Lehrer exportieren.
+ Alle gewählten Daten für einzelnen Lehrer.
+ Einzelne Dateien für alle Lehrer exportieren.
+ Unabhängig von der Exportoption werden die Daten für einen Kurslehrer oder Klassenlehrer
+immer in einer Datei zusammengefasst.
+
+Abb. 2
+
+Webseite UNTERRICHT > EXPORT / IMPORT > ENC EXPORT
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+9 von 30
+
+3.2
+
+Geeignete Exportoption festlegen
+
+3.2.1 Exportoption Arbeitsstationen
+Klicken Sie auf die Optionsschaltfläche Arbeitsstationen.
+
+Abb. 3 Optionsschaltfläche Arbeitsstationen
+
+Tragen Sie im Feld Anzahl ein, wie viele Dateien zur Datenerfassung erstellt werden sollen.
+Markieren Sie die Kontrollkästchen vor den Schulformen, Stufen oder Klassen, deren Daten
+Sie exportieren wollen.
+
+Die LUSD sucht unter den markierten Schulformen, Stufen oder Klassen alle Kurse
+mit den dazugehörenden Kurslehrern. Alle gefundenen Kurse eines Lehrers werden in einer Datei zusammengefasst.
+
+3.2.2 Exportoption Datei für einzelnen Lehrer
+Wenn Sie diese Option wählen, werden alle Kurse des ausgewählten Lehrers in eine einzige
+Datei exportiert. Die Auswahl der Kurse geschieht im Bereich Schülerauswahl.
+Wenn Sie die Schulformen, Stufen oder Klassen nicht kennen, in denen die Lehrkraft unterrichtet, markieren Sie die Kontrollkästchen vor allen Schulformen, Stufen
+und Klassen durch Klick auf
+.
+Ein Klick auf
+hebt die Markierung aller Kontrollkästchen auf.
+Wenn Sie auf die Schaltfläche
+klicken, sucht die LUSD alle Kurse
+der Lehrkraft aus den markierten Schulformen, Stufen oder Klassen.
+
+Klicken Sie auf die Optionsschaltfläche Datei für einzelnen Lehrer.
+
+Abb. 4 Optionsschaltfläche Datei für einzelnen Lehrer
+
+Wählen Sie in der Auswahlliste eine Lehrkraft aus. Die Liste ist nach Kürzel sortiert.
+Markieren Sie im Bereich Schülerauswahl durch Anklicken der Kontrollkästchen die Stufen oder
+Klassen, in denen die Lehrkraft unterrichtet.
+
+3.2.3 Exportoption Einzelne Dateien für alle Lehrer
+Wenn Sie diese Option wählen, durchsucht die LUSD alle markierten Stufen und Klassen des Bereiches Schülerauswahl. Für jede Lehrkraft, die gefunden wird, wird eine Datei erstellt. Diese Datei
+enthält alle Kurse der Lehrkraft, die in den markierten Stufen oder Klassen vorhanden sind.
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+10 von 30
+
+Klicken Sie auf die Optionsschaltfläche Einzelne Dateien für alle Lehrer.
+
+Abb. 5 Optionsschaltfläche für alle Lehrer
+
+Markieren Sie die Kontrollkästchen vor den Schulformen, Stufen oder Klassen, deren Daten Sie
+exportieren wollen.
+Klicken Sie auf die Schaltfläche
+
+3.3
+
+.
+
+Dateiexport durchführen
+Nachdem Sie die Exportoption festgelegt haben (siehe Kapitel 3.2), können Sie den Dateiexport
+durchführen.
+Klicken Sie auf die Schaltfläche
+
+.
+
+Klicken Sie im folgenden Windowsfenster auf
+
+.
+
+Speichern Sie die Datei in einem geeigneten Ordner.
+Der Dateiname ist nach dem Muster ENCEX_JahrMonatTagStundeMinuteSekunde.zip aufgebaut.
+Exportieren Sie die Passwörter.
+Extrahieren Sie das Zip-Archiv.
+
+Je nach Exportoption enthält die ZIP-Datei (ENCEX_JahrMonatTagStundeMinuteSekunde.zip) folgende Dateien:
+Exportoption Arbeitsstationen
+
+ Sie finden die angegebene Anzahl Dateien (für die Arbeitsstationen =
+Computer) sowie die Datei Arbeitsstationsbericht.pdf im Exportordner.
+
+ Kopieren Sie je eine Datei (AB…..xml) auf eine Arbeitsstation (Computer oder Datenträger).
+
+ Öffnen Sie die Datei Arbeitsstationsbericht.pdf.
+Diese enthält die Exportauswahl …
+
+… sowie eine Auflistung der Kurslehrer für jede Arbeitsstation. Alle aufgelisteten Kurslehrer benutzen (nicht gleichzeitig) die gleiche Datei. Sie enthält alle notwendigen Kursdaten für die angegebenen Lehrer.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+11 von 30
+
+Exportoption Datei
+für einzelnen Lehrer
+
+Im Exportordner finden Sie eine Datei für die ausgewählte Lehrkraft. Der
+Dateiname ist nach folgendem Muster aufgebaut:
+Lehrerkürzel_JahrMonatTagStundeMinuteSekunde.xml
+Beispiel:
+
+Exportoption Einzelne Dateien für
+alle Lehrer
+
+4
+
+Der Dateiname ist nach folgendem Muster aufgebaut:
+ENCEX_JahrMonatTagStundeMinuteSekunde.zip
+
+Automatische Versendung der ENC-Passwörter
+Eine E-Mail mit dem entsprechenden Passwort für den ENC kann auch direkt an die dienstliche EMail-Adresse einer Kollegin oder eines Kollegen versendet werden:
+Auf der Seite UNTERRICHT > ENC EXPORT/IMPORT > ENC-EXPORT gibt es rechts neben der
+Schaltfläche
+dafür die (neue) Schaltfläche
+.
+
+Abb. 6 Neue Schaltfläche: Passwörter senden
+
+Die Schaltfläche
+wird erst aktiv, wenn die Schaltfläche
+die PDF-Datei mit den Passwörtern gespeichert wurde.
+
+angeklickt und somit
+
+Dadurch wird sichergestellt, dass dem LUSD-Anwender die Passwörter für den ENC vorliegen, falls
+die Lehrkraft keinen Zugriff auf die gesendete E-Mail hat oder diese ausversehen gelöscht wurde.
+Die E-Mail mit dem Passwort für den aktuellen ENC wird ausschließlich an die dienstliche E-Mail
+Adresse vorname.nachname@schule.hessen.de versendet (Datenschutzvorgabe).
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+12 von 30
+
+5
+
+Mit dem ENC arbeiten
+
+5.1
+
+Den ENC starten
+Der Startbildschirm
+
+Abb. 7
+
+Ziffer
+
+ENC-Anmeldefenster
+
+Bedeutung
+Geben Sie Ihr Lehrerkürzel ein.
+Geben Sie Ihr Passwort ein.
+Hier wird die zuletzt benutzte Datei mit dem Dateipfad angezeigt.
+Klicken Sie auf die Schaltfläche und wählen Sie eine Datei aus.
+Nur Dateien mit der Endung .xml können vom ENC verarbeitet werden!
+Klicken Sie auf die Schaltfläche, um die Daten zu bearbeiten.
+
+5.2
+
+Programmoberfläche
+Die Programmoberfläche ist von der Art der Datenerfassung abhängig.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+13 von 30
+
+5.2.1 Bedeutung der allgemeinen Symbole
+Symbole vor einer Kursbezeichnung, Kursart oder Klassenbezeichnung in einer Auswahlliste
+Symbol
+
+Bedeutung
+Die Leistungen sind in diesem Kurs, dieser Kursart, dieser Klasse noch nicht vollständig erfasst.
+Die Leistungen in diesem Kurs, dieser Kursart, dieser Klasse sind vollständig erfasst.
+
+Symbole hinter einer Auswahlliste
+Symbol
+
+Bedeutung
+Die Leistungen sind noch nicht vollständig erfasst.
+Die Leistungen wurden vollständig erfasst.
+
+5.2.2 Mehrfachnotenerfassung (für mehrere Kurse gleicher Kursart und gleichen Faches)
+Bei der klassenweisen Erfassung von Leistungen kann es vorkommen, dass mehrere Kurse eines
+Schülers mit gleicher Kursart einem Fach zugeordnet sind (Kursarten A, F, B, Z, W).
+Die Noten werden dann in folgender Form dargestellt:
+keine Noten vorhanden oder
+Noten vorhanden.
+Klicken Sie mit der Maus auf das Feld, um das Dialogfenster Mehrfachnotenerfassung zu öffnen.
+Die erste Zeile ist blau hervorgehoben.
+
+Abb. 8
+
+Mehrfachnotenerfassung
+
+Klicken Sie in eine Tabellenzelle. Sie können die Leistungen mit der Tastatur eingeben oder
+durch einen Doppelklick in die Tabellenzelle einen Wert aus der Liste auswählen (siehe auch
+Fehler! Verweisquelle konnte nicht gefunden werden.).
+Klicken Sie auf die Schaltfläche
+.
+Die eingegeben Daten werden angezeigt.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+14 von 30
+
+5.2.3 Erfassung der zentralen Abschlussarbeiten
+Der Kurslehrer startet den ENC. Nach der Anmeldung erscheint die Eingabeoberfläche des ENC.
+
+Abb. 9
+
+Ziffer
+
+Erfassung der zentralen Abschlussarbeiten mit Beschreibung
+
+Bedeutung
+Titelzeile mit Versionsnummer
+Anzeige der Erfassungsart
+Name des gewählten Schülers (blau hervorgehobene Zeile)
+Auswahlliste zur Kursauswahl
+Fach – Schulform – Stufe des Kurses
+Eingabebereich, die Eingabezeile ist blau hervorgehoben.
+Grau hervorgehobene Zellen können nicht bearbeitet werden.
+Lehrerkürzel
+Datum und Zeit
+Schaltfläche
+
+5.2.4 Klassenweise Erfassung von Leistungen und allgemeinen Daten durch den Klassenlehrer
+Der Klassenlehrer startet den ENC. Nach der Anmeldung erscheint die Eingabeoberfläche des
+ENC.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+15 von 30
+
+Abb. 10
+
+Ziffer
+
+Klassenweise Erfassung mit Beschreibung
+
+Bedeutung
+Titelzeile mit Versionsnummer
+Anzeige der Erfassungsart
+Name des gewählten Schülers (blau hervorgehobene Zeile)
+Auswahlliste für die Klasse des Klassenlehrers.
+Ein Klassenlehrer kann mehr als eine Klasse haben!
+
+Schulform der Klasse und Klassenbezeichnung
+Register zur klassenweisen Erfassung
+Auswahlliste für die verschiedenen Kursarten der Schüler
+
+Eingabebereich, die Eingabezeile ist blau hervorgehoben.
+Grau hervorgehobene Zellen können nicht bearbeitet werden.
+Lehrerkürzel
+Datum und Zeit
+Schaltfläche
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+16 von 30
+
+5.2.5 Kursweise Erfassung durch Klassenlehrer
+Nach dem Start des ENC erscheint folgende Oberfläche, wenn Sie auch Klassenlehrer sind und auf
+der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > NOTENKONFIGURATION die klassenweise Erfassung von Kopfnoten, Fehlzeiten, Bemerkungen oder Versetzung / Eignung konfiguriert wurde.
+
+Abb. 11
+
+Ziffer
+
+ENC vor Auswahl der Erfassung
+
+Bedeutung
+Titelzeile mit Versionsnummer
+Menüleiste
+Lehrerkürzel
+Datum und Zeit
+
+Klicken Sie auf das Menü Erfassung.
+
+Abb. 12 Menü Erfassung
+
+Klicken Sie auf Kursweise, um Leistungen zu erfassen.
+Die Programmoberfläche entspricht der kursweisen Erfassung durch Kurslehrer.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+17 von 30
+
+Abb. 13
+
+Kursweise Notenerfassung
+
+Nehmen Sie auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > NOTENKONFIGURATION folgende Einstellungen vor, um die Register anzuzeigen:
+Bemerkungen: Markieren Sie das Kontrollkästchen Bemerkungen.
+Eignung/Versetzung: Markieren Sie das Kontrollkästchen Versetzung/Eignung.
+Kopfnoten: Wählen Sie in der Auswahlliste Kopfnoten den Eintrag: Note oder Note
+mit schriftlicher Ergänzung.
+
+Klicken Sie auf Klassenweise, um Kopfnoten, Fehlzeiten, Bemerkungen oder Versetzung /
+Eignung zu erfassen.
+
+Abb. 14
+
+Klassenweise Erfassung
+
+5.2.6 Kursweise Erfassung von Noten und Fehlzeiten durch Fachlehrer
+Der Fachlehrer hat im Menü Erfassung nur folgende Auswahl:
+
+Abb. 15 Menü Erfassung bei einem Fachlehrer
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+18 von 30
+
+Nach dem Start des ENC erscheint folgende Oberfläche, wenn Sie Kurslehrer ohne Klassenlehrerfunktion sind.
+
+Die Spalte Differenzierung erscheint nur bei Schulformen mit Differenzierungsmöglichkeiten.
+Die Spalten ges.F Std. und une.F Std. erscheinen nur, wenn auf der Webseite
+UNTERRICHT > ZEUGNISKONFIGURATION > NOTENKONFIGURATION die Erfassung der Fehlzeiten auf kursweise eingestellt wird.
+
+Abb. 16
+
+Ziffer
+
+Kursweise Erfassung mit Beschreibung
+
+Bedeutung
+Titelzeile mit Versionsnummer
+Anzeige der Erfassungsart
+Name des gewählten Schülers (blau hervorgehobene Zeile)
+Auswahlliste zur Kursauswahl
+Fach – Schulform – Stufe des Kurses
+Eingabebereich, die Eingabezeile ist blau hervorgehoben.
+Grau hervorgehobene Zellen können nicht bearbeitet werden.
+Lehrerkürzel
+Datum und Zeit
+Schaltfläche
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+19 von 30
+
+6
+
+Leistungsdaten im ENC eingeben
+Beim Anklicken eines Registers wird die erste Zeile blau hervorgehoben.
+Wenn Sie nach der Bearbeitung von Daten das Register wechseln, ohne vorher gespeichert zu haben, werden Sie durch eine Meldung aufmerksam gemacht.
+
+6.1
+
+Tastaturtipps
+In allen Tabellen zur Notenerfassung und Fehlzeiten können Sie die Daten schnell mit der Tastatur
+unter Beachtung der folgenden Hinweise erfassen:
+
+6.1.1 Navigation
+Beim Aufruf eines Registers ist die Zeile mit dem ersten Schüler blau hervorgehoben. Klicken Sie
+jetzt einmal mit der Maus in die erste zu bearbeitende Zelle.
+Danach können Sie mit den Pfeiltasten zu jeder Tabellenzelle navigieren. Die aktuelle Zelle bleibt in
+der blau hervorgehobenen Zeile weiß.
+Grau hervorgehobene Zellen können nicht bearbeitet werden. Sie werden bei der Navigation übersprungen.
+
+6.1.2 Spaltenweise Eingabe
+Geben Sie in die aktuelle Zelle einen Wert ein.
+Drücken Sie die ENTER – Taste.
+Der Wert wird angezeigt.
+Die nächste Zeile wird blau hervorgehoben.
+Wiederholen Sie die Schritte 1 und 2 bis Sie das Spaltenende erreichen.
+
+Grau hervorgehobene Zellen können nicht bearbeitet werden. Sie werden nach einer
+Eingabe beim Drücken der ENTER – Taste übersprungen.
+
+6.1.3 Zeilenweise Eingabe
+Geben Sie in die aktuelle Zelle einen Wert ein.
+Drücken Sie die TABULATOR – Taste.
+Der Wert wird angezeigt.
+Die weiße Zellmarkierung bewegt sich nach rechts zur nächsten Zelle.
+
+Mit der Tastenkombination Großschreibtaste und Tabulator Taste bewegen Sie die
+Zellmarkierung nach der Eingabe nach links.
+
+Wiederholen Sie die Schritte 1 und 2 bis Sie das Zeilenende erreichen.
+
+Grau hervorgehobene Zellen können nicht bearbeitet werden. Sie werden nach einer
+Eingabe beim Drücken der TABULATOR – Taste übersprungen.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+20 von 30
+
+6.1.4 Blättern…
+… innerhalb einer Tabelle
+Klicken Sie in eine Zelle der Tabelle.
+Die Zeile wird blau hervorgehoben, die Tabellenzelle bleibt weiß.
+Rollen Sie die angezeigte Tabelle mit dem Scrollrad nach oben oder unten.
+Die Zellmarkierung (weiße Zelle in blau hervorgehobener Zeile) bleibt erhalten.
+
+… innerhalb der Register
+Klicken Sie auf ein Register.
+Das Register wird weiß hervorgehoben.
+Mit den PFEIL – Tasten (rechts und links) können Sie zwischen den Registern umschalten.
+
+… innerhalb der Kursarten (nur bei klassenweiser Erfassung)
+Wählen Sie aus der Liste eine Kursart mit der Maus aus.
+Der Eintrag wird blau hervorgehoben.
+Mit dem Scrollrad können Sie zwischen den verschiedenen Kursarten blättern.
+
+6.2
+
+Zentrale Abschlussarbeiten erfassen
+Für den Datenexport können Sie alle Exportoptionen benutzen.
+Starten Sie den ENC und öffnen Sie die gewünschte Datei.
+Geben Sie die erreichten Punkte ein.
+
+Erst wenn alle Punkte ordnungsgemäß eingegeben wurden, wird in der Spalte
+Summe ein Wert angezeigt.
+Zeilen ohne Wert in der Spalte Summe werden beim Import nicht in die LUSD übernommen!
+
+6.3
+
+Leistungen erfassen
+Klicken Sie in eine Tabellenzelle. Sie können die Leistungen mit der Tastatur eingeben oder durch
+einen Doppelklick in die Tabellenzelle einen Wert aus der Liste auswählen Bemerkungen erfassen
+Beim Import der Daten in die LUSD werden schülerindividuelle Bemerkungen überschrieben.
+Erstellen Sie schülerindividuelle Bemerkungen daher immer erst nach dem ENC-Import.
+
+Sie können in einem Zeugnis nur fünf Zeilen Bemerkungen drucken!
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+21 von 30
+
+Nehmen Sie auf der Webseite UNTERRICHT > ZEUGNISKONFIGURATION > NOTENKONFIGURATION folgende Einstellungen vor, um die Register anzuzeigen:
+Bemerkungen: Markieren Sie das Kontrollkästchen Bemerkungen.
+Eignung/Versetzung: Markieren Sie das Kontrollkästchen Versetzung/Eignung.
+Kopfnoten: Wählen Sie in der Auswahlliste Kopfnoten den Eintrag: Note oder Note
+mit schriftlicher Ergänzung.
+
+Markieren Sie die Kontrollkästchen vor den Schülern, denen die gleiche Bemerkung zugewiesen werden soll. Die Zeilen werden blau hervorgehoben.
+
+Weisen Sie mehreren Schülern gleiche Bemerkungen gleichzeitig zu.
+Vorhandene Bemerkungen werden dabei nicht gelöscht!
+Neue Bemerkungen werden hinzugefügt.
+Klicken Sie auf das Kontrollkästchen vor der Spaltenüberschrift Name. Alle Zeilen werden blau hervorgehoben.
+Klicken Sie erneut auf das Kontrollkästchen vor der Spaltenüberschrift Name, um alle
+– auch die nicht sichtbaren – Markierungen zu entfernen. Die blaue Hervorhebung
+der Zeilen wird aufgehoben.
+
+Abb. 17
+
+Bemerkungen zuweisen
+
+Im Bereich Bemerkungen des Schülers werden keine Bemerkungen angezeigt,
+wenn eine Mehrfachauswahl vorliegt!
+
+Klicken Sie auf die Schaltfläche
+.
+Das Dialogfenster Erfassung Bemerkung öffnet sich.
+Klicken Sie auf das Symbol
+Ansicht zu reduzieren.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+, um die Baumansicht zu erweitern oder auf das Symbol
+
+, um die
+
+22 von 30
+
+Abb. 18
+
+Erfassung von Bemerkungen (geschlossener Baum)
+
+Markieren Sie die Kontrollkästchen vor den benötigten Bemerkungen.
+
+Abb. 19
+
+Erfassung von Bemerkungen (geöffneter Baum)
+
+Klicken Sie auf die Schaltfläche
+
+.
+
+Wiederholen Sie die Schritte für weitere Schüler mit anderen Bemerkungen.
+Klicken Sie auf die Schaltfläche
+
+6.4
+
+.
+
+Bemerkungen eines Schülers löschen
+Sie können einzelne Bemerkungen eines Schülers löschen oder alle Bemerkungen ausgewählter
+Schüler.
+
+6.4.1 Einzelne Bemerkungen löschen
+Klicken Sie in die Zeile des Schülers.
+Diese wird blau hervorgehoben.
+Klicken Sie in die Zeile mit der zu löschenden Bemerkung.
+Diese wird blau hervorgehoben.
+Klicken Sie auf das Symbol
+
+.
+
+Wiederholen Sie diese Schritte für weitere Bemerkungen und weitere Schüler.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+23 von 30
+
+6.4.2 Alle Bemerkungen löschen
+Markieren Sie die Kontrollkästchen vor den Schülern, deren Bemerkungen vollständig gelöscht
+werden sollen.
+Im Bereich Bemerkungen des Schülers werden nur die Bemerkungen des zuletzt markierten
+Schülers angezeigt.
+Klicken Sie auf die Schaltfläche
+
+.
+
+Klicken Sie in der folgenden Meldung auf die Schaltfläche
+
+Klicken Sie auf die Schaltfläche
+
+6.5
+
+.
+
+.
+
+Eignung/Versetzung bearbeiten
+Im Register Versetzung/Eignung können Sie versetzungsgefährdende Fächer erfassen oder löschen und Daten zur Versetzung/Eignung bearbeiten. Sie sehen auf diesem Register folgende Daten zu Versetzung:
+
+Abb. 20
+
+Klassenweise Erfassung Register Eignung / Versetzung
+
+6.5.1 Versetzungsgefährdende Fächer bearbeiten
+Markieren Sie den zu bearbeitenden Schüler.
+Klicken Sie auf die Schaltfläche
+.
+Das Dialogfenster Erfassung Versetzungsgefährdende Fächer öffnet sich.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+24 von 30
+
+Abb. 21
+
+Erfassung Versetzungsgefährdende Fächer
+
+Wählen Sie in der Auswahlliste das Fach aus, das gefährdet ist.
+Klicken Sie auf die Schaltfläche
+.
+Das Dialogfenster schließt sich und die Anzahl der gefährdeten Fächer wird angezeigt.
+
+Abb. 22
+
+Klassenweise Erfassung Register Eignung / Versetzung – Anzahl Fächer
+
+Klicken Sie auf die Schaltfläche
+
+.
+
+6.5.2 Daten zur Versetzung/Eignung bearbeiten
+Bearbeiten Sie mehrere Schüler mit gleichen Eigenschaften gleichzeitig.
+Klicken Sie auf das Kontrollkästchen vor der Spaltenüberschrift Name.
+Alle Zeilen werden blau hervorgehoben.
+Klicken Sie erneut auf das Kontrollkästchen vor der Spaltenüberschrift Name, um alle
+– auch die nicht sichtbaren – Markierungen zu entfernen. Die blaue Hervorhebung
+der Zeilen wird aufgehoben.
+
+Markieren Sie die Kontrollkästchen vor den zu bearbeitenden Schülern.
+Klicken Sie auf die Schaltfläche
+.
+Das Dialogfenster Erfassung Versetzung/Eignung wird geöffnet.
+
+Abb. 23
+
+Erfassung Versetzung / Eignung – Mehrfachauswahl
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+25 von 30
+
+Die Häkchen in den Kontrollkästchen bedeuten, dass die angezeigten Daten für alle
+ausgewählten Schüler beim Klick auf die Schaltfläche
+übernommen werden.
+Überlegen Sie daher genau, welche Daten (Eignung / Voraus. Abschluss / Versetzung
+gefährdet / Versetzung) Sie bearbeiten wollen!
+Klicken Sie auf die Kontrollkästchen, deren Daten für die Schülerauswahl nicht übernommen
+werden sollen. Die Häkchen werden entfernt, die Datenfelder werden gesperrt.
+Wählen Sie in den bearbeitbaren Datenfeldern einen Eintrag aus der Liste oder markieren Sie
+das Kontrollkästchen Versetzung gefährdet.
+Klicken Sie auf die Schaltfläche
+.
+Das Dialogfenster wird geschlossen und die erfassten Daten werden im Register Versetzung/Eignung angezeigt.
+Die Markierung der Schüler wird entfernt.
+
+Abb. 24
+
+Klassenweise Erfassung Register Versetzung / Eignung – Versetzung gefährdet
+
+Klicken Sie auf die Schaltfläche
+
+.
+
+Fehler bei der Bearbeitung können Sie durch Auswahl der Schüler und Auswahl eines
+anderen Eintrages im Dialogfenster Erfassung Versetzung/Eignung überschreiben.
+
+6.5.3 Versetzung/Eignung – Fachschule für Sozialwesen
+Sozialpädagogik/Heilerziehungspflege
+Bearbeiten Sie mehrere Schüler mit gleichen Eigenschaften gleichzeitig.
+Klicken Sie auf das Kontrollkästchen vor der Spaltenüberschrift Name.
+Alle Zeilen werden angehakt.
+Klicken Sie erneut auf das Kontrollkästchen vor der Spaltenüberschrift Name, um alle
+– auch die nicht sichtbaren – Markierungen zu entfernen.
+Alle Häkchen werden entfernt.
+
+Markieren Sie die Kontrollkästchen vor den zu bearbeitenden Schülern.
+Klicken Sie auf die Schaltfläche
+
+.
+
+Das Dialogfenster Erfassung Versetzung/Eignung wird geöffnet.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+26 von 30
+
+Abb. 25 Klassenweise Erfassung Register Versetzung / Eignung – Mentoring erfolgreich / fachpraktische Ausbildung erfolgreich
+
+Die Häkchen in den Kontrollkästchen bedeuten, dass die angezeigten Daten für alle
+ausgewählten Schüler beim Klick auf die Schaltfläche
+übernommen werden.
+Überlegen Sie daher genau, welche Daten (Eignung / Versetzung gefährdet / Versetzung / Mentoring erfolgreich /Fachpraktische Ausbildung erfolgreich) Sie bearbeiten
+wollen!
+
+Entfernen Sie die Häkchen hinter Mentoring erfolgreich und/oder Fachpraktische Ausbildung
+erfolgreich, wenn für die zuvor ausgewählten Schülerinnen und Schüler die Felder mit nein (jeweils nicht erfolgreich) gefüllt werden sollen. Voreingestellt ist jeweils die Auswahl Ja (erfolgreich).
+
+Abb. 26
+
+Register Versetzung / Eignung - Standarteinstellung vor der Änderung
+
+Abb. 27
+
+Register Versetzung / Eignung - nach der Änderung
+
+Klicken Sie auf die Schaltfläche
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+.
+
+27 von 30
+
+6.5.4 Versetzung/Eignung – Fachoberschule
+
+Bearbeiten Sie mehrere Schüler mit gleichen Eigenschaften gleichzeitig.
+Klicken Sie auf das Kontrollkästchen vor der Spaltenüberschrift Name.
+Alle Zeilen werden angehakt.
+Klicken Sie erneut auf das Kontrollkästchen vor der Spaltenüberschrift Name, um alle
+– auch die nicht sichtbaren – Markierungen zu entfernen. Alle Häkchen werden entfernt.
+
+Markieren Sie die Kontrollkästchen vor den zu bearbeitenden Schülern.
+Klicken Sie auf die Schaltfläche
+
+.
+
+Das Dialogfenster Erfassung Versetzung/Eignung wird geöffnet.
+
+Abb. 28
+
+Erfassung Versetzung / Eignung - Fachpraktische Ausbildung erfolgreich
+
+Entfernen Sie das Häkchen hinter Fachpraktische Ausbildung erfolgreich, wenn für die zuvor
+ausgewählten Schülerinnen und Schüler das Feld mit nein (nicht erfolgreich) gefüllt werden soll.
+Voreingestellt ist die Auswahl Ja (erfolgreich).
+
+Abb. 29
+
+Versetzung / Eignung - Standarteinstellung vor der Änderung
+
+Abb. 30
+
+Versetzung / Eignung - nach der Änderung
+
+Klicken Sie auf die Schaltfläche
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+.
+
+28 von 30
+
+6.6
+
+Kopfnoten erfassen
+Navigieren Sie zu dem Register Kopfnoten.
+Geben Sie Ihre Einschätzungen zum Arbeits- und Sozialverhalten ein.
+Klicken Sie auf die Schaltfläche
+
+Abb. 31
+
+7
+
+.
+
+Klassenweise Erfassung - Register Kopfnoten
+
+Im ENC erfasste Daten in die LUSD importieren
+Nach Eingabe oder Änderung von Daten im ENC importieren Sie die Daten auf der Webseite UNTERRICHT > EXPORT / IMPORT > ENC IMPORT.
+Hinweis: Sie können eine exportierte Datei mehrfach importieren.
+
+Wenn Sie mehrere Dateien importieren wollen, können Sie die Dateien vor dem Import in einer Datei mit dem ZIP-Format zusammenfassen.
+
+ACHTUNG! In diesem Archiv dürfen nur Dateien mit dem Format .xml gepackt werden. Es können sowohl einzelne .xml Dateien oder Zip-Archive zum Import ausgewählt
+werden. Dazu gehen Sie in die Webseite UNTERRICHT > EXPORT / IMPORT > ENC IMPORT.
+
+Öffnen Sie in der LUSD die Webseite UNTERRICHT > EXPORT / IMPORT > ENC IMPORT.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+29 von 30
+
+Abb. 32
+
+ENC Import - Datei auswählen
+
+Klicken Sie auf die Schaltfläche
+
+.
+
+Wählen Sie im Windows-Dialogfenster eine Datei mit der Endung .xml oder .zip aus.
+Die Datei wird angezeigt.
+
+Abb. 33
+
+ENC Import - Datei importieren
+
+Klicken Sie auf die Schaltfläche
+.
+Im Bereich Importstatus werden Informationen zum Import angezeigt.
+Wenn in der LUSD Noten bereits erfasst wurden bzw. bereits ein Import von Daten zuvor erfolgt war und danach abweichende ENC-Daten importiert werden, erscheinen
+Konfliktmeldungen, auf die Sie reagieren müssen, um den Import abzuschließen.
+
+Abb. 34
+
+Import Status
+
+Bei Konflikten mit bereits in der LUSD vorhandenen Daten können Sie festlegen, welche Daten aus dem ENC übernommen werden sollen und einen Importbericht erstellen.
+Wenn zwischen den Noten in der LUSD und des ENC Abweichungen bestehen, können Sie diese Konflikte einzeln beheben.
+Sollen die Noten aus dem ENC übernommen und in der LUSD überschrieben werden,
+müssen Sie einen Haken an den jeweiligen Konflikt setzen und die Schaltfläche
+klicken.
+ACHTUNG!
+Die Zusatzdaten (Kopfnoten, Fehlzeiten, Versetzungen, Bemerkungen) werden immer
+aus dem ENC übernommen und überschreiben die Daten in der LUSD. Eine Bearbeitung der Bemerkungen in der LUSD macht somit erst nach letztmaligem Import Sinn.
+
+Leistungen mit dem ENC erfassen
+Version 2.0 - Stand: 29.03.2023
+
+30 von 30
+
+

@@ -1,0 +1,1211 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Schüler in die LUSD aufnehmen
+Umgang mit der Webseite Aufnehmen/Einschulen
+
+Version: 2.9
+Letzter Stand: 01.12.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ........................................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+
+Schüler in die LUSD aufnehmen – Kandidatenverhältnis anlegen
+
+7
+
+1
+
+Webseite, auf der Schüler in die LUSD aufgenommen werden (Ort) ..................................... 7
+
+2
+
+Arbeitsschritte beim Anlegen eines Kandidatenverhältnisses (Übersicht) ............................. 9
+
+3
+
+Kandidatenverhältnis (KV) für einen Schüler anlegen – (Anleitung) .................................... 10
+
+4
+
+3.1
+
+Prüfen, ob bereits ein Kandidatenverhältnis in der LUSD besteht .............................. 10
+
+3.2
+
+Status des Schülers einsehen.................................................................................... 12
+
+3.3
+
+Bedeutung des Status von Schülern und folgende Arbeitsschritte – eine Übersicht ... 12
+
+3.4
+
+Vorbereitung der Anlage eines KVs für Schüler mit den Status EMD und N .............. 14
+
+3.5
+
+Vorbereitung der Anlage eines KVs für Schüler mit dem Status AH, KH, E und X ..... 18
+
+3.6
+
+Einträge von Schülern in der Ergebnisliste bearbeiten ............................................... 20
+
+3.7
+
+Zieldaten pflegen ....................................................................................................... 22
+
+3.8
+
+Kandidatenverhältnis anlegen .................................................................................... 25
+
+Ergänzende Informationen .................................................................................................. 26
+4.1
+
+Abkürzungen ............................................................................................................. 26
+
+4.2
+
+Übersicht – Kandidatenverhältnis und Schülerstatus eines Schülers ......................... 28
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Aufnehmen / Einschulen: Register Eingabe und Zieldaten .................................. 7
+Abb. 2 Dialogfenster Kandidatenaufnahme .................................................................................. 10
+Abb. 1 Webseite Aufnehmen/Einschulen: Hinweismeldung fehlende Zeichen ............................. 11
+Abb. 2 Webseite Aufnehmen/Einschulen: Hinweismeldung fehlendes Geburtsdatum .................. 11
+
+Abb. 3 Dialogfenster Kandidatenaufnahme: Beispiel Suchergebnis ............................................. 11
+Abb. 4 Dialogfenster Kandidatenaufnahme: Hinweis Statusübersicht .......................................... 12
+Abb. 5 Hinweismeldung: Funktion noch nicht verfügbar ............................................................... 14
+Abb. 6 Hinweismeldung: Erfolgreicher Abruf von vier Datensätzen .............................................. 14
+Abb. 7 Dialogfenster Kandidatenaufnahme: Autorisierung ........................................................... 15
+Abb. 8 Dialogfenster Kandidatenaufnahme: Schülerstammdaten bereits mit Daten vorbelegt ..... 16
+Abb. 9 Webseite Aufnehmen / Einschulen: Register Eingabe – Schüler mit Status EMD ............. 17
+Abb. 10 Dialogfenster Kandidatenaufnahme: Register Schülerstammdaten................................. 17
+Abb. 11 Dialogfenster Kandidatenaufnahme: Autorisierung ......................................................... 18
+Abb. 12 Webseite Aufnehmen / Einschulen: Autorisierung war erfolgreich .................................. 19
+Abb. 13 Dialogfenster Kandidatenaufnahme: Suche war erfolglos ............................................... 19
+Abb. 14 Dialogfenster Kandidatenaufnahme: Optionsschalter Authentifizierung .......................... 19
+Abb. 15 Dialogfenster Kandidatenaufnahme: Ergebnisliste .......................................................... 20
+Abb. 16 Webseite Aufnehmen / Einschulen: Reiter Eingabe – Spalte Ergebnis ........................... 20
+Abb. 17 Dialogfenster Schule des Schülers anzeigen: Schulinformation ...................................... 21
+Abb. 18 Webseite Aufnehmen / Einschulen: Register Zieldaten ................................................... 23
+Abb. 19 Dialogfester Zieldaten hinzufügen ................................................................................... 23
+Abb. 20 Hinweismeldung: Erfolgreiches Kandidatenverhältnis angelegt. ..................................... 25
+Abb. 21 Schaubild: Schülerstatus ................................................................................................ 29
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern der LUSD verwendeten
+Daten abweichen.
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung mehrerer
+geschlechtsspezifischer Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten
+gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+LUSD-Element (z. B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der
+Anleitung
+Kennzeichnung von Informationen
+
+Grüne Fettschrift
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument
+▪ beschreibt die Funktionen der Webseite AUFNEHMEN / EINSCHULEN in der LUSD,
+▪ beschreibt, wie Ihnen die Schnittstelle zu den Daten der Einwohnermeldeämter das
+Einschulungsverfahren erleichtert,
+▪ erklärt die verwendeten Abkürzungen und Symbole und
+▪ gibt eine Übersicht zu möglichen Kandidatenverhältnissen und zum Status eines Schülers.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die Schüler und Kandidaten in der LUSD
+bearbeiten.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und sind daher in dieser Anleitung nicht näher
+beschrieben:
+Basiswissen zur LUSD
+▪ Anleitungen zum LUSD-Basiswissen finden Sie auf SchuleHessen - LUSD Anleitungen unter
+ANLEITUNGEN UND TUTORIALS > GRUNDLAGEN.
+▪ Besuchen Sie bei Bedarf die Schulung: LUSD - Lernen Sie die LUSD kennen (Basisschulung).
+Eine Übersicht über Abkürzungen und eine ausführliche Erläuterung von Schülerstatus und
+Kandidatenverhältnissen finden Sie außerdem in Kapitel 4.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+5
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+6
+
+Schüler in die LUSD aufnehmen – Kandidatenverhältnis anlegen
+1
+
+Webseite, auf der Schüler in die LUSD aufgenommen werden (Ort)
+Unter dem Menüpunkt SCHÜLER > KANDIDATENVERFAHREN finden Sie die Webseite
+AUFNEHMEN / EINSCHULEN (Abb. 1).
+▪ Ziel dieser Webseite ist es, Kandidatenverhältnisse zu Ihrer Schule anzulegen.
+▪ Dies können Sie für einzelne Schüler oder für mehrere Schüler gleichzeitig tun.
+▪ Es ist auch möglich, ein Kandidatenverhältnis zu einem in der LUSD vorhandenen
+Schüler anzulegen.
+
+Abb. 1 Webseite Aufnehmen / Einschulen: Register Eingabe und Zieldaten
+
+▪ Die Webseite enthält die Register EINGABE und ZIELDATEN.
+▪ Im Register EINGABE können Sie mehrere Schüler „sammeln“, für die Sie ein
+Kandidatenverhältnis zu Ihrer Schule anlegen möchten.
+▪ Im Register ZIELDATEN können Sie diesen Schülern einzeln oder gleichzeitig, z. B.
+gleiche Zieldaten zuweisen und/oder ein Kandidatenverhältnis anlegen. Berufliche
+Schulen können den Schülern einen Beruf zuordnen.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+7
+
+Hinweis
+Alle Schüler, die Sie auf der Webseite AUFNEHMEN / EINSCHULEN
+„gesammelt“ haben, haben noch KEIN Kandidatenverhältnis zu Ihrer Schule.
+Sobald Sie für einen oder mehrere Schüler im Register ZIELDATEN ein
+Kandidatenverhältnis angelegt haben,
+▪ verschwinden diese Schüler auf der Webseite AUFNEHMEN / EINSCHULEN.
+▪ erhalten diese Schüler auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN im Feld Kandidatenverhältnis den
+Eintrag angenommen,
+▪ können Sie diese Schüler in der Schülersuche als angenommene
+Kandidaten finden.
+
+▪ Im Register EINGABE können Sie in der Spalte NEU Kandidaten als neu markieren.
+Nutzen Sie die Schaltflächen ALS NEU MARKIEREN oder ALS ALT MARKIEREN, um den
+Status von mehreren Datensätzen zu ändern.
+▪ Insofern Schüler aus den Einwohnermeldedaten importiert werden, markiert die
+LUSD diese Kandidaten zusätzlich als neu.
+▪ In der Spalte ERSTELLT AM können Sie auch nach neuen Kandidaten filtern.
+Hinweis
+▪ Sie können die Tabellenspalten über das Spaltenmenü ein- und
+ausblenden und an Ihren persönlichen Bedarf anpassen.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+8
+
+2
+
+Arbeitsschritte beim Anlegen eines Kandidatenverhältnisses (Übersicht)
+Welche Arbeitsschritte in der LUSD auszuführen sind, um für einen Schüler ein
+Kandidatenverhältnis zu Ihrer Schule anzulegen, zeigt die nachfolgende Übersicht.
+Die Kapitelangaben beziehen sich auf die entsprechenden Kapitel dieser Anleitung.
+
+Vorhandensein eines Schülers in der LUSD prüfen → Kapitel 3.1
+
+Schüler ist NICHT in der LUSD vorhanden
+
+Schüler IST in der LUSD vorhanden
+
+▪ Schülerdaten können aus der Schnittstelle zu
+den Einwohnermeldeämtern übernommen
+werden (EMD)
+▪ Schüler wird neu eingeschult (N)
+▪ Schüler möchte bei Zuzug nach Hessen eine
+
+▪ Schüler ist an Ihrer Schule aktiv (A) oder Kandidat
+(K)
+▪ Schüler ist an einer anderen hessischen Schule
+aktiv (AH) oder Kandidat an einer anderen Schule
+in Hessen (KH)
+▪ Schüler ist ehemalig hessischer Schüler und kehrt
+wieder in das hessische Schulsystem zurück (E)
+
+hessische Schule besuchen (N)
+
+Schüler ist ein externer Schüler (X)
+Status EMD: Daten abrufen, Autorisierung /
+Authentifizierung durchführen, Daten
+ergänzen → Kapitel 3.4.1, 3.4.2
+
+Autorisierung und ggf. Authentifizierung
+durchführen → Kapitel 3.5
+
+Status N: Schülerstammdaten und
+Ansprechpartner erfassen → Kapitel 3.4.5
+
+Schüler erscheint in der Ergebnistabelle des
+Registers EINGABE → Kapitel 3.6
+Wechseln zum Register ZIELDATEN
+
+Zieldaten hinzufügen / pflegen → Kapitel 3.7
+
+Kandidatenverhältnis (KV) anlegen → Kapitel 3.8
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+9
+
+3
+
+Kandidatenverhältnis (KV) für einen Schüler anlegen – (Anleitung)
+
+3.1
+
+Prüfen, ob bereits ein Kandidatenverhältnis in der LUSD besteht
+Prüfen Sie zunächst, ob ein Schüler bereits in der LUSD angelegt wurde.
+Hinweis
+Diese Prüfung berücksichtigt:
+▪ alle in der LUSD-Datenbank gespeicherten Schüler (aller Schulen).
+▪ alle einzuschulenden Kinder diesen und des nächsten Jahres, deren
+Daten über eine Schnittstelle von den Einwohnermeldeämtern
+bereitgestellt werden.
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > AUFNEHMEN /
+EINSCHULEN. Das Register EINGABE ist aktiv.
+2. Klicken Sie auf
+. Es erscheint das Dialogfenster
+KANDIDATENAUFNAHME – SCHÜLER SUCHEN (Abb. 2).
+
+Abb. 2 Dialogfenster Kandidatenaufnahme
+
+3. Geben Sie in das Feld NACHNAME* die ersten beiden Buchstaben des Nachnamens des
+Kindes gefolgt von *(Sternchen) ein (bei VORNAME* reicht das *(Sternchen, wenn beim
+Nachnamen bereits zwei Zeichen verwendet wurden.)).
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+10
+
+Achtung
+Kinder aus den Einschulungsverfahren, deren Daten über die
+Einwohnermeldeamts-Schnittstelle bereitgestellt werden, finden Sie nur bei
+Eingabe des vollständigen Nachnamens und vollständigen Vornamens
+OHNE *(Sternchen).
+4. Geben Sie im Feld GEBURTSDATUM das Geburtsdatum des Schülers ein.
+5. Klicken Sie auf
+
+.
+
+Wird in keinem der beiden Felder ein Zeichen, sondern nur ein *(Sternchen)
+eingegeben, erscheint eine Hinweismeldung:
+
+Abb. 1 Webseite Aufnehmen/Einschulen: Hinweismeldung fehlende Zeichen
+
+Wird das Feld GEBURTSDATUM nicht ausgefüllt, erscheint folgende Hinweismeldung.
+
+Abb. 2 Webseite Aufnehmen/Einschulen: Hinweismeldung fehlendes Geburtsdatum
+
+In der Ergebnisliste werden nun alle Schüler aufgeführt, die den eingegebenen
+Suchkriterien entsprechen (Abb. 3.).
+
+Abb. 3 Dialogfenster Kandidatenaufnahme: Beispiel Suchergebnis
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+11
+
+3.2
+
+Status des Schülers einsehen
+Die Tabellenspalte STATUS zeigt an, welcher Status für den Schüler besteht. Zum Beispiel
+aktiver Schüler an Ihrer Schule (A), aktiver Schüler an einer anderen Schule (AH), noch
+nicht angelegter Schüler, für den Daten vom Einwohnermeldeamt verfügbar sind (EMD)
+usw. (Abb. 4).
+
+Abb. 4 Dialogfenster Kandidatenaufnahme: Hinweis Statusübersicht
+
+Der Status bestimmt die nächsten Arbeitsschritte.
+
+3.3
+
+Bedeutung des Status von Schülern und folgende Arbeitsschritte – eine Übersicht
+Die folgende Tabelle listet alle verfügbaren Status und ihre Bedeutung auf und skizziert
+kurz das weitere Vorgehen. Eine ausführliche Beschreibung der Arbeitsschritte sind in den
+nachfolgenden Kapiteln zu finden.
+
+Status
+
+Bedeutung
+
+Die nächsten Arbeitsschritte
+
+A
+
+Aktiver Schüler an Ihrer Schule
+
+Sie können für diesen Schüler kein Kandidatenverhältnis anlegen, da der Schüler an Ihrer Schule
+aktiv oder bereits Kandidat ist.
+
+K
+
+Kandidat an Ihrer Schule
+▪ Klicken Sie auf ABBRECHEN.
+
+AH
+
+Aktiver Schüler an einer anderen
+Schule in Hessen. Das bedeutet:
+▪ Zu Ihrer Schule besteht kein
+Kandidatenverhältnis.
+▪ Die Stammdatenrechte (SD-R)
+liegen bei der anderen Schule.
+
+KH
+
+Kandidat an einer anderen Schule in
+Hessen. Das bedeutet:
+▪ Der Schüler hat an der anderen
+Schule den Status: Kandidat mit
+SD-R.
+
+1. Klicken Sie in die Zeile mit dem
+gewünschten Schüler. Sie wird blau
+hinterlegt.
+2. Klicken Sie auf WEITER.
+Es erscheint das Dialogfenster
+KANDIDATENAUFNAHME – AUTORISIERUNG.
+
+3. Führen Sie im Dialogfenster
+KANDIDATEN-AUFNAHME –
+AUTORISIERUNG (siehe Kapitel 3.5)
+▪ die Autorisierung und
+▪ ggf. die Authentifizierung durch.
+
+▪ Die SD-Rechte liegen bei der
+anderen Schule.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+12
+
+Status
+
+Bedeutung
+
+EMD
+
+Einwohnermeldedaten vorhanden.
+Das bedeutet:
+▪ Es gibt noch keinen Schüler in
+der LUSD mit diesem
+Nachnamen, Vornamen und
+Geburtsdatum.
+▪ Sie können Daten aus der
+EinwohnermeldeamtsSchnittstelle übernehmen.
+
+Die nächsten Arbeitsschritte
+4. Klicken Sie in die Zeile des Kindes
+5. Klicken Sie auf WEITER.
+6. Führen Sie im Dialogfenster
+KANDIDATEN-AUFNAHME –
+AUTORISIERUNG (siehe Kapitel 3.5).
+▪ die Autorisierung und
+▪ ggf. die Authentifizierung durch.
+7. Klicken Sie auf
+
+.
+
+Sie befinden sich im Dialogfenster
+KANDIDATEN-AUFNAHME – Register
+SCHÜLERSTAMMDATEN. Hier sind
+Schülerdaten bereits mit den Daten aus
+der Einwohnermeldedatenbank vorbelegt.
+8. Ergänzen Sie die Schülerstammdaten
+(siehe Kapitel 3.6).
+E
+
+X
+
+Ehemaliger Schüler an einer
+hessischen Schule. Das bedeutet:
+
+1. Klicken Sie in die Zeile mit dem
+gewünschten Schüler. Sie wird blau
+hinterlegt
+
+Der Schüler kehrt wieder an eine
+hessische Schule zurück.
+
+2. Klicken Sie auf WEITER.
+
+Externer Schüler an Ihrer Schule.
+Das bedeutet:
+
+▪ Der Schüler ist an einer anderen
+
+3. Führen Sie im Dialogfenster
+KANDIDATEN-AUFNAHME –
+AUTORISIERUNG (siehe Kapitel 3.5).
+▪ die Autorisierung und
+▪ ggf. die Authentifizierung durch.
+
+hessischen Schule aktiv
+und
+▪ er besucht (zeitlich begrenzt)
+Kurs/e an Ihrer Schule.
+N
+
+Neu
+Es gibt noch keinen Schüler in der
+LUSD mit diesem Nachnamen,
+Vornamen und Geburtsdatum.
+
+1. Klicken Sie in die Zeile des Schülers. Sie wird
+blau hinterlegt.
+2. Klicken Sie auf WEITER. Es erscheint das
+Dialogfenster KANDIDATENAUFNAHME.
+3. Erfassen Sie die Schülerstammdaten (siehe
+Kapitel 3.4.5).
+4. Erfassen Sie ggf. den/die Ansprechpartner
+(siehe Kapitel 3.6.3).
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+13
+
+3.4
+
+Vorbereitung der Anlage eines KVs für Schüler mit den Status EMD und N
+In den folgenden Kapiteln werden die vorbereitenden Schritte beschrieben, die für Schüler
+mit dem Status EMD und N durchgeführt werden müssen, bevor ein neues
+Kandidatenverhältnis angelegt wird.
+
+3.4.1 Status EMD - Automatischer Abruf
+Wenn die Schulbezirksdaten Ihrer Kommune bereits im Hessischen Schulbezirkskatalog
+vorhanden sind, können Sie die Einwohnermeldedaten des Einschulkindes automatisch
+abrufen.
+Ob dieser Service zur Verfügung steht, können Sie prüfen.
+1. Klicken Sie hierzu auf die Schaltfläche
+
+.
+
+▪ Wenn für Ihre Schule noch keine Schulbezirksdaten gepflegt wurden, erscheint die
+folgende Meldung:
+
+Abb. 5 Hinweismeldung: Funktion noch nicht verfügbar
+
+▪ Wenn für Ihre Schule Schulbezirksdaten gepflegt wurden und Einschulkinder Ihrer
+Schule zugeordnet werden können, erscheint die folgende Meldung:
+
+Abb. 6 Hinweismeldung: Erfolgreicher Abruf von vier Datensätzen
+
+2. Klicken Sie auf die Schaltfläche OK. Automatisch abgerufene Einschulkinder erscheinen
+im Register EINGABE und sind in der Spalte NEU als ein neuer Datensatz markiert.
+Tipp
+In der Spalte NEU werden alle Schüler aus den Einwohnermeldedaten beim
+ersten Import als neu markiert. Durch die Markierung können sie auf einen
+Blick sehen, welche Kandidaten neu in die LUSD importiert wurden.
+Alle manuell angelegten Schüler können Sie beliebig nach eigenem Bedarf
+oder Arbeitsweise markieren.
+Die Spalte kann über das Spaltenmenü ein- und ausgeblendet werden.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+14
+
+Hinweis
+Sie müssen die automatisch abgerufenen Daten der Einschulkinder immer
+überprüfen und gegebenenfalls korrigieren, bevor Sie mit der Eingabe der
+Zieldaten für die Fortsetzung des Kandidatenverfahrens beginnen.
+Es ist wichtig, dass Sie die automatisch abgerufenen Einschulkinder mit der
+Ihnen vorliegenden Liste des Einwohnermeldeamtes vergleichen, um
+fehlende Einschulkinder-Datensätze zu ermitteln und nachträglich manuell
+einzulesen (siehe Kapitel 3. ).
+3. Bei automatisch abgerufenen Schülern aus den Einwohnermeldedaten fehlen die Daten
+zur Konfession. Der Eintrag ist am Ende der Zeile mit einem Warnzeichen versehen.
+Die Konfession muss manuell nachgetragen werden.
+4. Klicken Sie hierzu in der Tabelle innerhalb des Datensatzes eines Einschulkindes auf
+den Link SD. Die Seite KANDIDATENAUFNAHME öffnet sich.
+5. Wählen Sie im Feld KONFESSION* die passende Konfession aus der Auswahlliste aus
+und klicken anschließend auf SPEICHERN.
+3.4.2 Status EMD - Manueller Abruf
+Wenn die Schulbezirksdaten Ihrer Kommune noch nicht im Hessischen
+Schulbezirkskatalog vorhanden sind, können Sie die Einwohnermeldedaten des
+Einschulkindes manuell abrufen. Zunächst müssen Sie dafür eine Autorisierung
+durchführen und danach die Schülerstammdaten ergänzen. Die folgenden Kapitel erläutern
+Ihnen den Weg.
+3.4.3 Autorisierung durchführen
+1. Klicken Sie im Dialogfenster KANDIDATENAUFNAHME auf die Schaltfläche WEITER. Sie
+befinden sich nun im Dialogfenster KANDIDATENAUFNAHME – AUTORISIERUNG (Abb. 7).
+
+Abb. 7 Dialogfenster Kandidatenaufnahme: Autorisierung
+
+2. Geben Sie im Feld STRAßE die ersten fünf 5 Zeichen und *(Sternchen) der Straße ein, in
+der das Kind wohnt.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+15
+
+Achtung!
+Die Authentifizierung über das LUSD-Nutzerkennwort müssen Sie nur dann
+vornehmen, wenn die Autorisierung über die Straße fehlschlägt (z. B. durch
+einen Umzug).
+3. Klicken Sie auf
+. Sie befinden sich im Dialogfenster KANDIDATENAUFNAHME –
+Register SCHÜLERSTAMMDATEN. Hier sind die Schülerstammdaten bereits mit den Daten
+aus der Einwohnermeldedatenbank vorbelegt (Abb. 8).
+
+Abb. 8 Dialogfenster Kandidatenaufnahme: Schülerstammdaten bereits mit Daten vorbelegt
+
+3.4.4 Schülerstammdaten ergänzen
+Die automatisch abgerufenen Einwohnermeldedaten sind nicht bearbeitbar, da sie täglich
+aktualisiert werden. Sie müssen jedoch gegebenenfalls die Postleitzahl und den Ort
+ergänzen, falls für diese Felder keine validen Werte (Z. B. PLZ „00000“ und für Ort „kein
+Ort!“) eingetragen wurden.
+1. Wählen Sie im Feld KONFESSION* den gewünschten Eintrag aus.
+2. Ergänzen Sie weitere Daten, z. B. im Bereich KOMMUNIKATION.
+TIPP
+
+Wechseln Sie gleich auf die Register ANSPRECHPARTNER. Auch hier sind die
+automatisch abgerufenen Einwohnermeldedaten nicht bearbeitbar. Ergänzen
+Sie bei Bedarf die Daten im Bereich KOMMUNIKATION.
+Bearbeiten Sie ggf. die Häkchen in den Kontrollkästchen SORGEBERECHTIGT
+und / oder POSTEMPFÄNGER.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+16
+
+3. Klicken Sie auf SPEICHERN. Sie befinden sich auf der Webseite AUFNEHMEN /
+EINSCHULEN im Register EINGABE (Abb. 9).
+
+Abb. 9 Webseite Aufnehmen / Einschulen: Register Eingabe – Schüler mit Status EMD
+
+3.4.5 Status N
+1. Geben Sie im Dialogfenster KANDIDATENAUFNAHME – Register SCHÜLERSTAMMDATEN
+mindestens die Daten für die Pflichtfelder ein.
+2. Ergänzen Sie in den Feldern VORNAME und NACHNAME die Angaben, wenn Sie den
+Schüler im Vorfeld mit *(Sternchen) gesucht haben.
+Hinweis
+Geben Sie den/die Vornamen und den Nachnamen des Schülers so ein, wie
+sie im Personalausweis stehen.
+Eine Übersicht der Sonderzeichen, die in der LUSD gespeichert werden
+können finden Sie in der Anleitung Sonderzeichen in der LUSD.
+
+Abb. 10 Dialogfenster Kandidatenaufnahme: Register Schülerstammdaten
+
+3. Klicken Sie auf SPEICHERN.
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+17
+
+4. Sobald Sie den Schüler gespeichert haben, wird erneut geprüft, ob es diesen Schüler
+bereits in der LUSD gibt.
+▪ Falls identische Daten vorhanden sind, erscheint eine Fehlermeldung.
+▪ Falls keine identischen Daten vorhanden sind, schließt sich das Dialogfenster und
+der Schüler erscheint in der Ergebnisliste auf der Webseite AUFNEHMEN / EINSCHULEN
+> Register EINGABE.
+Sie können bei Bedarf
+▪ die Schülerstammdaten nachbearbeiten (siehe Kapitel 3.6.2)
+▪ die Kontaktdaten für einen oder zwei Ansprechpartner erfassen (siehe
+Kapitel 3.6.3).
+
+3.5
+
+Vorbereitung der Anlage eines KVs für Schüler mit dem Status AH, KH, E und X
+Wenn Sie für einen Schüler mit dem Status AH, KH, E oder X ein Kandidatenverhältnis zu
+Ihrer Schule anlegen möchten, ist aus Gründen des Datenschutzes zunächst eine
+Autorisierung im Dialogfenster KANDIDATENAUFNAHME – AUTORISIERUNG (Abb. 11)
+erforderlich.
+1. Geben Sie im Feld STRAßE den Namen der Straße ein, in der der Schüler zuletzt
+gewohnt hat.
+Hinweis
+Um eine bestimmte Straße zu finden, geben Sie mindestens fünf 5 Zeichen
+UND *(Sternchen) ein z. B. haupt*, um die Hauptstraße zu finden.
+Fehlt das *(Sternchen) wird nur nach den eingegebenen Zeichen gesucht.
+1. Klicken Sie auf
+
+.
+
+Abb. 11 Dialogfenster Kandidatenaufnahme: Autorisierung
+
+2. Je nach Ergebnis sind folgende Arbeitsschritte durchzuführen:
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+18
+
+Die Autorisierung war
+…
+
+Die nächsten Arbeitsschritte
+
+▪ Das Dialogfenster KANDIDATENAUFNAHME – AUTORISIERUNG schließt
+Erfolgreich
+
+sich.
+▪ Der Schüler erscheint im Register EINGABE in der Ergebnisliste.
+▪ Das Symbol
+in der Spalte ERGEBNIS zeigt an, dass Sie den
+Schüler im Register ZIELDATEN weiter bearbeiten können.
+
+Abb. 12 Webseite Aufnehmen / Einschulen: Autorisierung war erfolgreich
+
+Erfolglos
+
+Das Symbol
+
+zeigt an, dass die Suche erfolglos war.
+
+Authentifizierung
+nötig
+
+Abb. 13 Dialogfenster Kandidatenaufnahme: Suche war erfolglos
+
+1. Wiederholen Sie die Autorisierung mit anderen Straßennamen.
+2. Bleibt die Autorisierung erfolglos, klicken Sie in den Optionsschalter
+vor AUTHENTIFIZIERUNG.
+
+Abb. 14 Dialogfenster Kandidatenaufnahme: Optionsschalter
+Authentifizierung
+
+3. Setzen Sie ein Häkchen in das Kontrollkästchen.
+4. Geben Sie Ihr LUSD-Benutzerpasswort ein.
+5. Klicken Sie auf
+
+.
+
+Das Dialogfenster KANDIDATENAUFNAHME – AUTORISIERUNG schließt
+sich. Der Schüler erscheint im Register EINGABE in der Ergebnisliste
+(Abb. 15).
+Das Symbol
+in der Spalte ERGEBNIS zeigt an, dass Sie den Schüler
+im Register ZIELDATEN weiter bearbeiten können.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+19
+
+Die Autorisierung war
+…
+
+Die nächsten Arbeitsschritte
+
+Abb. 15 Dialogfenster Kandidatenaufnahme: Ergebnisliste
+
+Hinweis
+Sobald für diesen Schüler ein Kandidatenverfahren angelegt
+wird, sind die Autorisierungsdaten unter EXTRAS >
+BERICHTSVERWALTUNG > SCHÜLER > ALLG. LISTEN >
+AUTORISIERUNGSBERICHT KANDIDATENAUFNAHME für 120 Tage
+abrufbar.
+
+3.6
+
+Einträge von Schülern in der Ergebnisliste bearbeiten
+Hinweis
+Bei jedem Aufruf der Webseite AUFNEHMEN / EINSCHULEN wird der Status bei
+den bisher „gesammelten“ Schülern geprüft.
+Hat sich der Status eines Schülers zu einem nicht bearbeitbaren Status
+geändert, wird in der Spalte ERGEBNIS ein Warnzeichen angezeigt. Bei
+erneutem Aufruf der Webseite AUFNEHMEN / EINSCHULEN wird dieser Schüler
+aus der Liste entfernt.
+
+Abb. 16 Webseite Aufnehmen / Einschulen: Reiter Eingabe – Spalte Ergebnis
+
+Folgende Daten können Sie bei den Schülern in der Ergebnisliste des Registers EINGABE
+ansehen oder bearbeiten:
+
+3.6.1 Stammschule des Schülers ansehen
+Steht in der Spalte STAMMSCHULE eine blau unterstrichene Schulnummer, können Sie
+darauf klicken und sehen die SCHULINFORMATIONEN der Schule des Schülers (Abb. 17).
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+20
+
+Abb. 17 Dialogfenster Schule des Schülers anzeigen: Schulinformation
+
+Hinweis
+Bei Dubletten oder bei ähnlichen Namen kann die Information über die
+aktuelle Stammschule (Schule mit SD-R) für Sie ein zusätzliches Merkmal
+sein, an dem Sie erkennen, ob es sich um den Schüler handelt, den Sie
+aufnehmen wollen
+3.6.2 Schülerstammdaten bearbeiten
+Sie befinden sich auf der Webseite AUFNEHMEN / EINSCHULEN im Register EINGABE.
+1. Klicken Sie bei dem gewünschten Schüler in der Spalte SD auf den unterstrichenen
+Eintrag SD. Es erscheint das Dialogfenster KANDIDATENAUFNAHME.
+2. Bearbeiten Sie die Schülerstammdaten.
+Hinweis
+Die Einträge in den Feldern VORNAME, NACHNAME und GEBURTSDATUM
+können Sie nicht verändern. Erst wenn Sie ein Kandidatenverhältnis angelegt
+haben, können Sie die Namen auf der Webseite SCHÜLERSTAMMDATEN
+wieder bearbeiten.
+Alternative: Sie entfernen den Schüler aus der Tabelle (siehe Kapitel 3.6.4)
+und suchen ihn erneut.
+3.6.3 Ansprechpartner erfassen
+Sie befinden sich auf der Webseite AUFNEHMEN / EINSCHULEN im Register EINGABE.
+1. Klicken Sie bei dem gewünschten Schüler in der Spalte SD auf den unterstrichenen
+Eintrag SD. Es erscheint das Dialogfenster KANDIDATENAUFNAHME.
+2. Klicken Sie auf das Register ANSPRECHPARTNER 1.
+3. Klicken Sie in das Kontrollkästchen ANSPRECHPARTNER 1.
+4. Geben Sie die Daten in den Bereichen ANSPRECHPARTNER, ADRESSE und
+KOMMUNIKATION ein. Achten Sie darauf, dass Sie bei mindestens einem
+Ansprechpartner einen Haken bei POSTEMPFÄNGER setzen.
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+21
+
+5. Wiederholen Sie bei Bedarf die Schritte 3 und 4 analog für den ANSPRECHPARTNER 2
+und ANSPRECHPARTNER 3.
+6. Klicken Sie auf SPEICHERN.
+Hinweis
+In dem Moment, in dem Sie das Häkchen im Kontrollkästchen
+ANSPRECHPARTNER 1, 2 oder 3 entfernen, werden die Inhalte sofort gelöscht.
+Sobald für diesen Schüler ein KV angelegt wurde, erscheinen die hier
+erfassten Einträge auf den Webseiten SCHÜLERSTAMMDATEN und ELTERN /
+ANSPRECHPARTNER.
+3.6.4 Schüler aus der Ergebnisliste im Register Eingabe löschen
+Sie befinden sich auf der Webseite AUFNEHMEN / EINSCHULEN im Register EINGABE.
+1. Setzen Sie vor dem zu löschenden Schüler ein Häkchen in das Kontrollkästchen.
+2. Klicken auf
+
+. Der Schüler ist damit auch im Register ZIELDATEN gelöscht.
+
+Hinweis
+Ein bereits in der LUSD vorhandener Schüler wird damit nicht aus der LUSD
+gelöscht!
+
+3.7
+
+Zieldaten pflegen
+Wechseln Sie auf der Webseite AUFNEHMEN / EINSCHULEN auf das Register ZIELDATEN, um
+die Zieldaten für die Schüler einzugeben, für die Sie ein Kandidatenverhältnis anlegen
+möchten (Abb. 18).
+Hinweis
+Die Spalten Z-BERUF, BERUF-BEGINN und BERUF werden nur an BERUFLICHEN
+SCHULEN angezeigt!
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+22
+
+Abb. 18 Webseite Aufnehmen / Einschulen: Register Zieldaten
+
+3.7.1 Zieldaten hinzufügen / ändern
+1. Setzen Sie ein Häkchen in das Kontrollkästchen bei den Schülern, für die Sie Zieldaten
+hinzufügen möchten.
+Hinweis
+Alle ausgewählten Schüler bekommen dieselben Zieldaten!
+2. Klicken Sie auf
+HINZUFÜGEN (Abb. 19).
+
+. Es erscheint das Dialogfenster ZIELDATEN
+
+Abb. 19 Dialogfester Zieldaten hinzufügen
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+23
+
+3. Geben Sie in allen Feldern die gewünschten Daten ein.
+In der folgenden Tabelle finden Sie eine Übersicht über die Felder und Inhalte.
+Feld
+
+Inhalt
+
+ZIELHALBJAHR*
+
+Wird ein zukünftiges Zielhalbjahr ausgewählt, erscheint als
+
+AUFNAHMEDATUM*
+
+Aufnahmedatum der erste Tag des Zielhalbjahres.
+Hat das Zielhalbjahr bereits begonnen, erscheint als Aufnahmedatum
+das aktuelle Datum.
+Das Datum kann innerhalb der Grenzen des ausgewählten
+Halbjahres geändert werden.
+
+ZIEL-BERUF*
+
+Es werden nur Berufe angeboten, die im Zielhalbjahr gültig und auf
+
+(nur an beruft.
+
+der Webseite SCHULE > SCHLÜSSEL > BERUFE als schuleigene
+
+Schulen)
+
+Berufe gekennzeichnet sind.
+
+BERUFS-BEGINN*
+
+Es wird mit dem Aufnahmedatum vorbelegt und kann geändert
+
+(nur an beruft.
+Schulen)
+
+werden.
+
+ZIEL-SF/BK*
+
+Es werden Ihnen die Schulformen / Bildungskombinationen
+angeboten, die auf der Webseite SCHULE > SCHULBASISDATEN >
+
+SCHULFORMEN als SCHULBEZOGENE SCHULFORMEN zugeordnet
+wurden und die als AKTIV gekennzeichnet sind.
+
+ZIEL-ST/SEM*
+
+Es werden Ihnen die Stufen / Semester zur Auswahl angeboten, die
+auf der Seite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER
+der entsprechenden Schulform / Bildungskombination zugeordnet
+sind.
+
+4. Klicken Sie auf SPEICHERN. Das Dialogfenster schließt sich. Die eingegebenen Daten
+erscheinen in der Tabelle.
+Hinweis
+Solange Sie kein Kandidatenverhältnis (KV) angelegt haben, können Sie die
+Zieldaten jederzeit ändern, indem Sie die Schritte 1 bis 3 für einen oder
+mehrere Schüler wiederholen.
+Die alten Eingaben werden dadurch überschrieben.
+
+Hinweis
+Das AUFNAHMEDATUM wird beim Aktivieren des Schülers zum Beginn-Datum
+des Schullaufbahneintrages zu Ihrer Schule, sofern nicht ein eventuelles
+Freigabedatum der vorherigen Schule zeitlich danach liegt.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+24
+
+3.7.2 Schüler aus der Ergebnisliste im Register Zieldaten löschen
+Sie befinden sich auf der Webseite AUFNEHMEN / EINSCHULEN im Register ZIELDATEN.
+1. Setzen Sie vor dem zu löschenden Schüler ein Häkchen in das Kontrollkästchen.
+2. Klicken auf
+
+. Der Schüler ist damit auch im Register EINGABE gelöscht.
+
+Hinweis
+Ein bereits in der LUSD vorhandener Schüler wird damit nicht aus der LUSD
+gelöscht!
+
+3.8
+
+Kandidatenverhältnis anlegen
+Sobald Sie die Zieldaten für einen oder mehrere Schüler erfasst haben, können Sie ein
+Kandidatenverfahren zu Ihrer Schule anlegen.
+1. Setzen Sie vor den Schülern, für die Sie ein KV zu Ihrer Schule anlegen möchten jeweils
+ein Häkchen in das Kontrollkästchen.
+2. Klicken Sie auf
+
+. Es erscheint eine Hinweismeldung (Abb. 20).
+
+Abb. 20 Hinweismeldung: Erfolgreiches Kandidatenverhältnis angelegt.
+
+3. Klicken Sie auf OK.
+Schüler, für die ein KV angelegt wurde,
+▪ werden aus den Ergebnislisten der Webseite AUFNEHMEN / EINSCHULEN gelöscht.
+▪ finden Sie anschließend in der Schülersuche als angenommene Kandidaten mit oder
+ohne SD-R.
+▪ können Sie auf der Webseite KANDIDATENVERFAHREN > KANDIDATEN ansehen oder
+bearbeiten.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+25
+
+Hinweis
+Ein Schüler, der
+den Status …
+
+N oder E hatte
+
+hat nach Anlage des KV…
+▪ auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+
+SCHÜLERSTAMMDATEN den Schülerstatus: Kandidat
+mit SD-R.
+▪ und auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN das
+Kandidatenverhältnis: angenommen.
+AH, AK oder X
+hatte
+
+▪ auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+
+SCHÜLERSTAMMDATEN den Schülerstatus: Kandidat
+ohne SD-R.
+▪ und auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN das
+Kandidatenverhältnis: angenommen.
+
+4
+
+Ergänzende Informationen
+
+4.1
+
+Abkürzungen
+
+Abkürzung Bedeutung
+
+Erläuterung
+
+A
+
+Aktiver Schüler an der aufrufenden Schule
+
+AH
+
+Aktive Schüler an einer anderen Schule in
+Hessen
+
+E
+
+Ehemaliger Schüler an einer Schule in Hessen
+
+EMD
+
+Für dieses Kind können Sie Daten aus der
+Einwohnermeldeamts-Schnittstelle
+
+Es gibt keinen Schüler in der LUSD mit
+diesem Nachnamen, Vornamen und
+
+übernehmen
+
+Geburtsdatum.
+
+K
+
+Kandidat an der aufrufenden Schule
+
+KH
+
+Kandidat an einer anderen Schule in Hessen
+
+Die SD-Rechte liegen bei der anderen
+Schule.
+
+Die SD-Rechte liegen bei der anderen
+Schule.
+
+KV
+
+Kandidatenverhältnis
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+26
+
+Abkürzung Bedeutung
+
+Erläuterung
+
+N
+
+Es gibt keinen Schüler in der LUSD mit
+
+Neu
+
+diesem Nachnamen, Vornamen und
+Geburtsdatum.
+SD
+
+Stammdaten
+
+SD-R
+
+Stammdaten-Rechte
+
+Nur eine Schule hat die Stammdatenrechte für einen Schüler und kann
+dessen Stammdaten bearbeiten.
+
+Düst
+
+Übergabestatus
+
+X
+
+Externer Schüler an der aufrufenden Schule
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+27
+
+4.2
+
+Übersicht – Kandidatenverhältnis und Schülerstatus eines Schülers
+
+Ein Schüler kann unterschiedliche Beziehungen zu mehreren Schulen haben. Diese Beziehungen werden in der LUSD wie folgt abgebildet:
+▪ Ein Schüler hat an Ihrer Schule einen SCHÜLERSTATUS: die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+▪ Ein Schüler kann zu Ihrer Schule ein KANDIDATENVERHÄLTNIS haben: die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN
+Die nachfolgende Übersicht beschreibt die möglichen Schülerstatus eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+Schülerstatus
+
+Kandidatenverhältnis
+
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN
+
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN
+Kandidat
+
+Kandidat mit SD-R
+
+Der Schüler möchte an
+Ihre Schule wechseln.
+
+Der Schüler hat in Ihrer Schule
+das Kandidatenverhältnis:
+angenommen und ist an keiner
+anderen hessischen Schule:
+
+Sie können das
+Kandidatenverhältnis
+auf einen der folgenden
+Einträge setzen:
+▪
+▪
+▪
+▪
+
+ist Kandidat
+angenommen
+auf Warteliste
+abgelehnt/
+desinteressiert
+
+▪ aktiv
+oder
+▪ der Schüler hat einen
+Eintrag zum internen
+Schulformübergang an Ihrer
+Schule (nur in UVPlanungsvariante).
+
+Kandidat ohne SD-R
+Der Schüler hat zu Ihrer
+Schule ein
+Kandidatenverhältnis:
+▪
+▪
+▪
+▪
+▪
+
+ist Kandidat,
+abgelehnt,
+auf Warteliste,
+angenommen oder
+desinteressiert.
+
+Das Stammdatenrecht liegt
+bei der Schule, an der der
+Schüler aktiv ist.
+
+Aktive
+Der Schüler
+nimmt an Ihrer
+Schule am
+Unterricht teil
+und
+Ihre Schule ist
+verantwortlich für
+die Erstellung
+und Ausgabe von
+Zeugnissen.
+
+Und der Schüler nimmt noch
+nicht am Unterricht Ihrer
+Schule teil.
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+28
+
+Ehemalige
+
+Externe
+
+Der Schüler hat Ihre
+Schule verlassen, weil
+
+Der Schüler ist an
+einer anderen
+hessischen Schule
+
+▪ er an einer
+anderen
+hessischen Schule
+aktiv ist.
+▪ er an einer nichthessischen Schule
+unterrichtet wird.
+▪ er die
+Schullaufbahn
+beendet hat.
+
+▪ aktiv
+und
+▪ er besucht
+(zeitlich begrenzt)
+Kurs/e an Ihrer
+Schule.
+
+Abb. 21 Schaubild: Schülerstatus
+
+LUSD | Schüler in die LUSD aufnehmen | Version: 2.9 | 04.12.2025
+
+29
+
+

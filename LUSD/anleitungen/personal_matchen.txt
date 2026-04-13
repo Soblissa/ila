@@ -1,0 +1,798 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+SAP-HCM LUSD Schnittstelle
+
+Matchen von Personal
+
+Version: 5.2
+Letzter Stand: 07.07.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ........................................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+
+Matchen von Personal
+
+7
+
+1
+
+Ziele der Schnittstelle zwischen SAP HCM und LUSD .......................................................... 7
+
+2
+
+Was bedeutet Matchen? ....................................................................................................... 7
+
+3
+
+Wie wird gematcht? .............................................................................................................. 7
+
+4
+
+Überprüfung des Datensatzes .............................................................................................. 8
+
+5
+
+Berichte zum Personal: Personalstammblatt ......................................................................... 8
+
+6
+
+Berichte zum Personal: SAP-Personalstammblatt ................................................................ 9
+
+7
+
+Inaktives LUSD-Personal finden und wieder aktivieren ....................................................... 10
+
+8
+
+Nach dem Matchen - Woran erkenne ich gematchtes Personal? ........................................ 11
+
+9
+
+Welche Daten werden von SAP in die LUSD übernommen? .............................................. 11
+9.1
+
+Gruppe Person .......................................................................................................... 12
+
+9.2
+
+Gruppe Einstellungsqualifikationen ........................................................................... 13
+
+9.3
+
+Gruppe Schule ........................................................................................................... 14
+
+9.4
+
+Gruppe Fächer .......................................................................................................... 15
+
+9.5
+
+Gruppe Stundenbilanz ............................................................................................... 16
+
+9.6
+
+Gruppe Stundenbilanz Details ................................................................................... 17
+
+9.7
+
+Daten UV-Einsatz ...................................................................................................... 18
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Berichte: Personalstammblatt ............................................................................. 8
+Abb. 2 Dialogfenster Lehrersuche: Eingabefelder leer lassen ........................................................ 9
+
+Abb. 3 Bereich Weitere Parameter: SAP Personalnummer leer lassen .......................................... 9
+Abb. 4 SAP-Personalstammblatt – Beispiel vor dem Matchen ..................................................... 10
+Abb. 5 Webseite Personalsuche: Tabelle Personal der Schule .................................................... 10
+Abb. 6 Webseite Personenbezogen: Eintrag im Feld SAP-Personalnr. ........................................ 11
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt das Matchen von Personal über die SAP HCM – LUSDSchnittstelle.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwenderinnen und Anwender, die Personaldaten in der LUSD
+pflegen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+▪ Der Umgang mit der LUSD-Lehrersuche
+▪ Kenntnisse zum Abspeichern und Ausdrucken von Dateien
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Support
+Bei Fragen rund um die LUSD steht ihnen der Helpdesk HKM zur Verfügung:
+
+▪
+über das Kontaktformular auf der Seite https://lusdinfo.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+LUSD-Anleitungen
+Alle bestehenden Anleitungen zur LUSD finden Sie auf
+www.SchuleHessen.de/lusdanleitungen unter ANLEITUNGEN.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+5
+
+LUSD-Schulungen
+LUSD-Grundlagen- und Aufbau-Schulungen richten sich sowohl an Anfängerinnen und
+Anfänger, als auch an bereits langjährig Nutzende.
+▪ Eine Übersicht über die anstehenden Fortbildungen finden Sie dort genauso wie auch
+Empfehlungen zur Kurswahl für unsere unterschiedlichen Zielgruppen.
+
+Fortbildungen zur LUSD | Digitale Schule Hessen.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+6
+
+Matchen von Personal
+1
+
+Ziele der Schnittstelle zwischen SAP HCM und LUSD
+Die Personaldaten werden aus SAP über eine Schnittstelle in die LUSD übertragen und
+sind dort nur noch in wenigen Fällen bearbeitbar. Die Schnittstelle hat folgende Vorteile:
+▪ Der Verwaltungsaufwand sowie der Aufwand für Datenabgleiche in den Schulen und
+den personalverwaltenden Dienststellen wird reduziert.
+▪ Die Qualität der Daten wird erhöht.
+▪ Die Häufigkeit von Fehlern bei Auswertungen und Datennutzungen in den
+Folgesystemen wird verringert.
+▪ Die Datenbestände sind weitgehend tagesaktuell.
+
+2
+
+Was bedeutet Matchen?
+Beim sogenannten Matchen wird einer in SAP verwalteten Person die entsprechende
+Person in der LUSD zugeordnet.
+▪ Sobald dies erfolgt ist, gibt es keine Trennung mehr zwischen SAP-Personaldaten und
+LUSD-Personaldaten.
+▪ Die über die Schnittstelle gelieferten sind in SAP und in der LUSD identisch.
+▪ Personaldaten, die in SAP geändert wurden, werden nachts über die Schnittstelle in die
+LUSD übertragen.
+
+3
+
+Wie wird gematcht?
+Personal muss grundsätzlich nur einmal in der LUSD gematcht werden.
+1. Prüfen Sie zunächst, auf der LUSD-Webseite PERSONAL > PERSONALVERWALTUNG >
+PERSONALZUORDNUNG ob die Lehrkraft bereits unter dem Register SAP-PERSONAL in der
+Tabelle ZUZUORDNENDES SAP-PERSONAL zu finden ist.
+Falls die Lehrkraft noch nicht zu finden ist…
+…legen Sie den Personaldatensatz unter PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGEN >
+
+an.
+
+2. Markieren Sie den Datensatz der neuen Lehrkraft und klicken auf die
+
+.
+
+3. Es öffnet sich die Website PERSONAL > PERSONALBASISDATEN > PERSONENBEZOGEN.
+4. Tragen Sie im Pflichtfeld SCHULINTERNES KÜRZEL, ein an Ihrer Schule noch nicht
+vergebenes Kürzel ein.
+5. Klicken Sie im Anschluss auf
+
+.
+
+Die Lehrkraft wurde Ihrem Personalstamm hinzugefügt.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+7
+
+4
+
+Überprüfung des Datensatzes
+Der Personaldatensatz ist nun über die SAP-Schnittstelle zu finden auf: PERSONAL >
+PERSONALVERWALTUNG > PERSONALZUORDNUNG > Register SAP-PERSONAL > Tabelle
+ZUZUORDNENDES SAP-PERSONAL.
+1. Klicken Sie den Datensatz des Personals auf beiden Seiten (ZUZUORDNENDES SAPPERSONAL und PERSONAL OHNE SAP-NUMMER) an.
+2. Überprüfen Sie sorgfältig, ob es sich um denselben Datensatz handelt!
+3. Falls ja, klicken Sie auf den Zuordnungspfeil in der Mitte und anschließend auf
+.
+Der Datensatz ist nun auf der Website nicht mehr vorhanden. Sie haben erfolgreich
+gematcht.
+Hinweis
+Bei vertraglichen Änderungen einer Lehrkraft wird der Datensatz automatisch
+erneut gematcht.
+
+5
+
+Berichte zum Personal: Personalstammblatt
+Der Bericht PERSONALSTAMMBLATT enthält die aktuell in der LUSD gespeicherten
+Personaldaten.
+Den Bericht PERSONALSTAMMBLATT erstellen Sie auf der Webseite EXTRAS > BERICHTE >
+PERSONAL > PERSONALBASISDATEN – PERSONALSTAMMBLATT (Abb. 1).
+
+Abb. 1 Webseite Berichte: Personalstammblatt
+
+1. Wählen Sie im Bereich LEHRKRÄFTEAUSWAHL über die Schalfläche AUSWÄHLEN alle in
+der LUSD angelegten Personen aus. Lassen Sie hierfür in allen Feldern das
+*(Sternchen) stehen.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+8
+
+Abb. 2 Dialogfenster Lehrersuche: Eingabefelder leer lassen
+
+2. Wählen Sie das Ausgabeformat pdf
+3. Klicken Sie auf
+
+.
+
+.
+
+4. Klicken Sie auf Datei öffnen.
+
+Es erscheint die pdf-Datei mit den erstellen Personalstammblättern.
+
+6
+
+Berichte zum Personal: SAP-Personalstammblatt
+Der Bericht SAP-Personalstammblatt…
+▪ kann nur für noch nicht gematchtes Personal erstellt werden.
+▪ enthält die aus SAP gelieferten Personaldaten. Diese Daten werden nach dem Matchen
+in die LUSD übernommen.
+Den Bericht SAP-PERSONALSTAMMBLATT erstellen Sie auf der Webseite EXTRAS > BERICHTE
+> STANDARDBERICHTE > PERSONAL > PERSONALBASISDATEN - SAP-PERSONALSTAMMBLATT
+(Abb. 1).
+1. Wählen Sie das Ausgabeformat pdf
+
+.
+
+2. Lassen Sie das Feld SAP-Personalnummer leer.
+
+Abb. 3 Bereich Weitere Parameter: SAP Personalnummer leer lassen
+
+3. Klicken Sie auf
+
+.
+
+4. Klicken Sie auf Datei öffnen.
+
+Es erscheint die pdf-Datei mit den erstellen SAP-Personalstammblättern.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+9
+
+Abb. 4 SAP-Personalstammblatt – Beispiel vor dem Matchen
+
+7
+
+Inaktives LUSD-Personal finden und wieder aktivieren
+Inaktives Personal aktivieren Sie auf der Webseite PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGEN.
+1. Klicken Sie auf die Schaltfläche
+PERSONALSUCHE.
+
+. Es erscheint das Dialogfenster
+
+2. Klicken Sie in das Kontrollkästchen INAKTIVES PERSONAL. Es ist angehakt.
+
+Abb. 5 Webseite Personalsuche: Tabelle Personal der Schule
+
+3. Klicken Sie auf die Schaltfläche SUCHEN.
+In der Tabelle PERSONAL DER SCHULE wird ihr inaktives Personal angezeigt.
+4. Klicken Sie in die Kontrollkästchen vor den Personen, die Sie wieder aktivieren möchten
+(Abb. 5).
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+10
+
+5. Klicken Sie auf die Schaltfläche ÜBERNEHMEN. Das ausgewählte inaktive Personal ist auf
+die Webseite PERSONENBEZOGEN übernommen.
+6. Klicken Sie auf
+
+.
+
+7. Klicken Sie auf SPEICHERN.
+8. Klicken Sie auf SCHLIEßEN.
+
+Aktivierte Personen …
+▪ erscheinen wieder auf der Webseite PERSONAL > PERSONALBASISDATEN >
+PERSONALÜBERSICHT und auf Personallisten.
+▪ können wieder zu Klassen und Kursen zugeordnet werden.
+Dafür müssen Sie für diese Personen zuvor auf der Webseite PERSONAL >
+PERSONALBASISDATEN > SCHULBEZOGEN das Feld UV-RELEVANT anhaken.
+
+8
+
+Nach dem Matchen - Woran erkenne ich gematchtes Personal?
+Gematchtes Personal erkennen Sie in der LUSD an dem Eintrag im Feld SAPPERSONALNUMMER (Abb. 6).
+
+Abb. 6 Webseite Personenbezogen: Eintrag im Feld SAP-Personalnr.
+
+9
+
+Welche Daten werden von SAP in die LUSD übernommen?
+Die aus SAP in die LUSD übernommenen Personaldaten sind folgenden 6 Gruppen
+zugeordnet:
+▪
+▪
+▪
+▪
+▪
+
+Person
+Einstellungsqualifikationen
+Schule
+Fächer
+Stundenbilanz
+
+▪ Stundenbilanz Details
+▪ Dienstliche E-Mail
+Die nachfolgenden Kapitel beschreiben, welche Daten aus SAP in die LUSD übernommen
+werden.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+11
+
+9.1
+
+Gruppe Person
+▪ Die Daten der ROT umrandeten Felder kommen aus
+SAP in die LUSD
+
+LUSD
+
+▪ Die Schule kann in der LUSD die Felder der Gruppe
+PERSON nur für eigenes SAP-Personal bearbeiten. Für
+an die Schule abgeordnete Personen, LiVs und Ausbilder
+kann die Schule diese Daten nicht bearbeiten.
+
+SAP
+Infotyp
+
+SAP-Feld
+
+LUSD-Feld
+
+0002
+
+Titel
+
+Titel
+
+0002
+
+Nachname
+
+Nachname*
+
+0002
+
+Vorsatzwort
+
+Namenszusatz
+
+0002
+
+Zusatzwort
+
+0002
+
+Vorname
+
+Vorname*
+
+0002
+
+Geburtsdatum
+
+Geboren am*
+
+0002
+
+Anrede
+
+Geschlecht*
+
+0002
+
+Nationalität
+
+Staatsangehörigkeit*
+
+0006
+
+Postleitzahl
+
+PLZ*
+
+0006
+
+Ort
+
+Ort*
+
+0006
+
+Straße und Hausnr.
+
+Straße / Hausnr*
+
+SAP
+Personalnummer
+
+SAP-Personalnr.
+
+Personalart
+
+Personalart
+
+Schulnr . (DST Nr)
+
+Dienststelle
+
+Schulname
+0002
+
+Amts/Dienstbezeichnung lang
+
+Bemerkung
+
+Kann nur vom
+Staatlichen Schulamt
+geändert werden
+
+SAP
+
+Aus SAP kommt nur der
+Hauptort.
+
+Kann nur vom
+Staatlichen Schulamt
+geändert werden
+
+Dienstbezeichnung *
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+12
+
+0016
+
+Vertragsart
+
+Vertragsart*
+
+105
+
+E-Mail
+
+Dienstliche E-Mail
+
+9.2 Gruppe Einstellungsqualifikationen
+
+▪ Der Eintrag Einstellungsqualifikation kommt aus SAP in
+die LUSD.
+
+SAP
+Infotyp
+0024
+
+SAP-Feld
+
+LUSD-Feld
+
+Einstellungsqualifikation
+
+Einstellungsqualifikation
+
+LUSD
+
+Bemerkung
+Sind in SAP mehrere
+Einstellungsqualifikation
+en vorhanden, wird nur
+eine in die LUSD
+übernommen.
+
+SAP
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+13
+
+9.3
+
+Gruppe Schule
+▪ Die Einträge des GELB umrandeten Feldes kommen aus
+SAP in die LUSD.
+
+LUSD
+
+▪ Die Schule kann in der LUSD das Feld AMTLICHE
+FUNKTION nicht bearbeiten.
+
+SAP
+Infotyp
+1001
+
+SAP-Feld
+
+LUSD-Feld
+
+Bemerkung
+
+Kriterium der
+
+Amtliche
+
+Planstelle
+
+Funktion
+
+Kann nur vom Staatlichen
+Schulamt geändert werden
+
+SAP
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+14
+
+9.4
+
+Gruppe Fächer
+▪ Die Einträge der BLAU umrandeten Felder kommen aus
+SAP in die LUSD.
+
+LUSD
+
+▪ Die Schule kann in der LUSD diese Felder nicht
+bearbeiten.
+
+SAP
+
+SAP-Feld
+
+LUSD-Feld
+
+Bezeichnung (der
+
+Fach/
+
+Qualifikationsgruppe)
+
+Fachrichtung
+
+0024
+
+Ausprägung
+
+Ausprägung
+
+0024
+
+Beginn
+
+Gültig von
+
+0024
+
+Ende
+
+Gültig bis
+
+Infotyp
+0024
+
+Bemerkung
+Diese Felder
+können nur vom
+Staatlichen
+Schulamt
+geändert werden
+
+SAP
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+15
+
+9.5
+
+Gruppe Stundenbilanz
+▪ Die Einträge der LILA umrandeten Felder kommen aus
+SAP in die LUSD.
+
+LUSD
+
+▪ Die Schule kann in der LUSD das Feld PFLICHTSTUNDEN
+sowohl für eigenes SAP-Personal als auch für an die
+Schule abgeordnete Personen, LiVs und Ausbilder
+bearbeiten.
+
+SAP
+Infotyp
+9007
+
+9007
+
+SAP-Feld
+
+LUSD-Feld
+
+Bemerkung
+
+Regelstunden
+
+Pflichtstunden
+
+Nach Genehmigung
+des Änderungsantrages werden die
+unterrichtswirksamen
+Stunden automatisch
+berechnet und
+angezeigt
+
+Unterrichtswirksame
+
+Unterrichtswirksame Stunden
+
+SAP
+
+Stunden
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+16
+
+9.6
+
+Gruppe Stundenbilanz Details
+▪ Die Einträge der TÜRKIS umrandeten Felder kommen aus
+SAP in die LUSD.
+
+LUSD
+
+Hinweis
+Welche Werte aus SAP in welchen LUSD-Bereich
+übernommen werden, sehen Sie in der Liste
+STUNDENBILANZ ÜBERSICHT GRÜNDE.
+▪ Schulen finden diese Liste auf SchuleHessen LUSD Anleitungen
+▪ Schulämter finden diese Liste im SAPHandbuch.
+▪ Das Feld Anmerkungen ist schulintern. Es kann bearbeitet
+werden, ohne dass ein Änderungsantrag in LUSDIK
+erzeugt wird.
+
+SAP
+
+▪ Die Schule kann in der LUSD die Felder +/-, STD* sowie
+GRUND sowohl für eigenes SAP-Personal als auch für
+SAP-Personal aus anderen Dienststellen bearbeiten.
+SAP
+Infotyp
+
+SAP-Feld
+
+LUSDFeld
+
+9007
+
++/-
+
++/-
+
+9007
+
+STD
+
+Std*
+
+Mind./Erh.grund
+
+Grund
+
+Bemerkung
+
+Hier steht …
+
+Funktion
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+17
+
+Funktionsart
+
+9.7
+
+Daten UV-Einsatz
+
+▪ falls in SAP
+gefüllt, der
+Eintrag des
+Feldes
+Funktionsart.
+▪ sonst, falls in
+SAP gefüllt, der
+Eintrag des
+Feldes Funktion.
+
+Die Daten auf dem Register UV-Einsatz
+- sonst, falls in
+SAP
+▪ enthalten keine Daten, die über die Schnittstelle
+aus
+SAP kommen.
+gefüllt,
+▪ sind ausschließlich schulinterne Daten.
+der Eintrag des
+Feldes
+Mind./Erh.grund.
+
+HMKB | SAP-HCM LUSD Schnittstelle | Matchen von Personal | Version: 5.2 | Letzter Stand: 07.07.2025
+
+18
+
+

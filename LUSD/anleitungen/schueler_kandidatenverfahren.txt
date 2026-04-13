@@ -1,0 +1,1827 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Kandidatenverfahren
+Kandidatenverhältnisse in der LUSD pflegen
+
+Version: 1.0
+Letzter Stand: 11.02.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse ........................................... 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Begriffsklärung
+
+6
+
+1
+
+Schüler in die LUSD aufnehmen und einschulen ................................................................... 6
+
+2
+
+Kandidaten bearbeiten .......................................................................................................... 6
+
+3
+
+4
+
+2.1
+
+Bearbeiten von Kandidaten mit oder ohne SD‑R .......................................................... 7
+
+2.2
+
+Nutzung des Registers Klassenplanung ....................................................................... 9
+
+2.3
+
+Nutzung des Registers KV beenden........................................................................... 13
+
+Kandidaten aktiv setzen ...................................................................................................... 14
+3.1
+
+Einzelaktivierung von Kandidaten .............................................................................. 15
+
+3.2
+
+Globale Aktivierung von mehreren Kandidaten .......................................................... 16
+
+Schüler an andere Schulen in Hessen abgeben .................................................................. 17
+4.1
+
+Auswahl von Schülern ................................................................................................ 17
+
+4.2
+
+Freigabe ..................................................................................................................... 18
+
+4.3
+
+Wunsch-Schule und -Schulform ................................................................................. 19
+
+4.4
+
+Wunsch-Religionsunterricht........................................................................................ 21
+
+4.5
+
+Wunsch-Daten bearbeiten oder löschen..................................................................... 22
+
+4.6
+
+Schulumfeld ............................................................................................................... 23
+
+5
+
+Globale Freigabe / Ehemaligsetzung von Schülern ............................................................. 24
+
+6
+
+Schulwechsel an Schulen außerhalb Hessens oder ins Ausland ......................................... 27
+
+7
+
+Kandidaten an andere Schulen in Hessen abgeben ............................................................ 30
+
+8
+
+7.1
+
+Freigeben der Kandidaten .......................................................................................... 30
+
+7.2
+
+Wunsch-Schule und Wunsch-Schulform von Kandidaten ........................................... 31
+
+7.3
+
+Wunsch-Religionsunterricht von Kandidaten .............................................................. 33
+
+7.4
+
+Wunsch-Daten von Kandidaten bearbeiten oder löschen ........................................... 34
+
+Abgangsdaten von ehemaligen Schülern einsehen ............................................................. 35
+
+9
+
+10
+
+Aktive Schüler ehemalig setzen........................................................................................... 37
+9.1
+
+Notwendigkeit des Freigabedatums ........................................................................... 38
+
+9.2
+
+Ehemalig setzen von Schülern ohne Kandidatenverhältnis durchführen..................... 38
+
+Überweisung von Schülern für externe Schulverhältnisse ................................................... 41
+10.1 Vorwissen .................................................................................................................. 41
+10.2 Überweisung anlegen................................................................................................. 41
+10.3 Auswirkung einer Überweisung auf andere Webseiten............................................... 46
+
+11
+
+Interner Schulformübergang ................................................................................................ 46
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt, wie Sie Kandidatenverhältnisse in der LUSD korrekt
+pflegen.
+Zielgruppe sind alle Anwender, die in der LUSD Kandidatenverhältnisse anlegen und bearbeiten
+möchten.
+Grundlegende Kenntnisse der LUSD wie z. B. die Schülersuche werden vorausgesetzt.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+5
+
+Begriffsklärung
+In der LUSD wird zwischen Kandidaten und Schülern unterschieden.
+Kandidaten
+▪ Ein Kandidat ist eine Person, die noch nicht Schüler der Schule ist und die sich z. B. für die
+Aufnahme beworben oder angemeldet hat. Kandidaten erscheinen u. a. auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN.
+▪ Sie können verschiedene Status haben:
+▪
+▪
+▪
+▪
+▪
+
+IST KANDIDAT
+ANGENOMMEN
+AUF WARTELISTE
+ABGELEHNT
+DESINTERESSIERT
+
+▪ Ein Kandidat nimmt noch nicht am Unterricht teil.
+▪ Es gibt zwei Formen von Kandidaten:
+▪ Kandidat mit SD-R (Stammdatenrecht): Die Schule verwaltet selbst die Stammdaten.
+▪ Kandidat ohne SD-R: Die Stammdaten werden von einer anderen Schule gepflegt,
+wenn der Schüler (noch) an einer anderen Schule aktiv ist.
+
+Schüler
+▪ Ein Schüler ist eine Person, die aktuell an der Schule unterrichtet wird und für die Zeugnisse
+und Leistungsdaten geführt werden.
+▪ Schüler erscheinen u. a. auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN.
+
+1
+
+Schüler in die LUSD aufnehmen und einschulen
+Gehen Sie hier so vor, wie in der ausführlichen Anleitung Schüler in die LUSD aufnehmen
+beschrieben.
+
+2
+
+Kandidaten bearbeiten
+Die folgenden Kapitel beschreiben …
+▪ das Bearbeiten von Kandidaten mit oder ohne SD‑R (Stammdatenrecht)...
+▪ die Nutzung des Registers Klassenplanung innerhalb der Webseite…
+▪ die Beendigung bestehender Kandidatenverhältnisse (KV) über das Register KV…
+im Zusammenhang mit der Festlegung und Pflege der Schulform, Stufe/Semester. Sie
+enthalten zudem ergänzende Informationen aus der LUSD Datenbank.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+6
+
+Unter dem Menüpunkt SCHÜLER >KANDIDATENVERFAHREN finden Sie die Webseite
+KANDIDATEN BEARBEITEN. Ziel der Webseite ist es,
+▪ einem oder mehreren Kandidaten gleichzeitig Zieldaten zuzuweisen.
+▪ Informationen zu Eignung und Bewerbungsunterlagen einzusehen.
+▪ Einblick in ein bestehendes Kandidatenverhältnis eines Schülers zu erhalten.
+
+2.1
+
+Bearbeiten von Kandidaten mit oder ohne SD‑R
+1. Öffnen Sie die Webseite SCHÜLER >KANDIDATENVERFAHREN>KANDIDATEN BEARBEITEN.
+1. Stellen Sie sicher, dass das Register K. OHNE ZIELDATEN ausgewählt ist.
+2. Klicken Sie auf das Schaltsymbol SUCHE. Die Suchoption KANDIDATEN ist gewählt und
+die Häkchen in den Kontrollkästchen KANDIDATEN OHNE SD-R, MIT SD-R sowie IST
+KANDIDAT UND ANGENOMMEN sind gesetzt.
+3. Suchen Sie den gewünschten Schüler anhand des Nachnamens, der Schulform, der
+Stufe oder der Klasse und übernehmen Sie einen oder mehrere Datensätze auf die
+Webseite.
+4. Die Webseite KANDIDATEN BEARBEITEN ist aktiv.
+▪ In der Ergebnisliste stehen die ausgewählten Kandidaten, die noch keine Zieldaten
+besitzen.
+▪ In der Ergebnisliste stehen keine schulinternen Kandidaten, da diese bereits
+Zieldaten haben.
+5. Setzen Sie bei den Kandidaten, denen Sie Zieldaten zuordnen wollen, einen Haken in
+das Kontrollkästchen.
+6. Klicken Sie auf BEARBEITEN. Es erscheint ein Dialogfenster ZIELDATEN HINZUFÜGEN.
+
+Abb. 1 Webseite Kandidaten bearbeiten: Dialogfenster Zieldaten hinzufügen
+
+7. Geben Sie in allen Pflichtfelder die gewünschten Daten ein.
+8. Klicken Sie auf ÜBERNEHMEN. Die bearbeiteten Schüler wurden in das Register K. MIT
+ZIELDATEN verschoben.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+7
+
+2.1.1 Informationen zur Eignung und Bewerbungsunterlagen eines Kandidaten einsehen
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register K. OHNE ZIELDATEN.
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus.
+▪ Die Webseite Kandidaten bearbeiten ist aktiv.
+▪ In der Ergebnisliste stehen die ausgewählten Kandidaten, die noch keine Zieldaten
+besitzen.
+3. Klicken Sie in der Spalte AUFN-DETAILS bei dem gewünschten Schüler auf DETAILS. Es
+erscheint das Dialogfenster AUFNAHMEDETAILS BEARBEITEN.
+4. Wählen Sie in der Auswahlliste EIGNUNGSPRÜFUNG den gewünschten Eintrag aus.
+
+Abb. 2 Webseite Kandidaten bearbeiten: Dialogfenster Aufnahmedetails bearbeiten
+
+▪ Wählen Sie den Optionsschalter BEWERBUNGSUNTERLAGEN VOLLSTÄNDIG, wenn alle
+Unterlagen vorhanden sind.
+▪ Wählen Sie den Optionsschalten Fehlende Bewerbungsunterlagen, wenn Unterlagen
+fehlen. Haken Sie die entsprechenden an. Die fehlenden Unterlagen entsprechen
+denen auf der Webseite SCHULE > SCHLÜSSEL > BEWERBUNGSUNTERLAGEN.
+5. Klicken Sie auf ÜBERNEHMEN.
+6. Wiederholen Sie die Schritte 2 bis 5 oder klicken Sie auf SCHLIEßEN.
+
+2.1.2 Schülerinformationen einsehen
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN REGISTER K. OHNE ZIELDATEN
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus.
+▪ Die Webseite KANDIDATEN BEARBEITEN ist aktiv.
+▪ In der Ergebnisliste stehen die ausgewählten Kandidaten, die noch keine Zieldaten
+besitzen.
+3. Klicken Sie in der Spalte NAME bei dem gewünschten Schüler auf SCHÜLERNAME. Es
+erscheint das Dialogfenster SCHÜLERDATEN.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+8
+
+Abb. 3 Webseite Kandidaten bearbeiten: Dialogfenster Schülerdaten
+
+4. Klicken Sie auf SCHLIEßEN.
+5. Klicken Sie in der Spalte KV bei dem gewünschten Schüler auf die angezeigte Zahl. Es
+erscheint das Dialogfenster KANDIDATENVERHÄLTNISSE.
+
+Abb. 4 Webseite Kandidaten bearbeiten: Dialogfenster Kandidatenverhältnis
+
+6. Klicken Sie auf SCHLIEßEN.
+7. Wiederholen Sie bei Bedarf die Schritte 2 bis 6.
+
+8. Wiederholen Sie bei Bedarf die Schritte 2 bis 4.
+
+2.2
+
+Nutzung des Registers Klassenplanung
+Innerhalb der Webseite SCHÜLER>KANDIDATENVERFAHREN>KANDIDATENBEARBEITEN befindet
+sich das Register KLASSENPLANUNG.
+Mit diesem Register können Sie aufgenommene Kandidaten sichten und die Organisation
+und Zuweisung zu voraussichtlichen Klassen im Rahmen der Einschulungs- oder
+Jahrgangsplanung vorbereiten.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+9
+
+Hier erfasst sind Schüler mit bestehendem, gültigem Kandidatenstatus an der Schule, die
+jedoch noch nicht aktiv am Unterricht teilnehmen.
+Diese Funktion unterstützt insbesondere Grundschulen sowie weiterführende Schulen bei
+der Vorbereitung von Klassenzuteilungen – beispielsweise im Rahmen der Einschulung
+neuer Erstklässler oder des Übergangs von Jahrgangsstufe 4 zu Jahrgangsstufe 5.
+Die Seite stellt hierfür eine tabellarische Übersicht mit Eingabefeldern für den
+vorgesehenen Klassenbezug bereit und ermöglicht die gleichzeitige Bearbeitung mehrerer
+Schüler. Die tatsächliche Klassenzuordnung erfolgt erst auf der Webseite
+Klassenbildung.
+2.2.1 Bei Kandidaten eine Notiz zur Klassenplanung hinzufügen
+1. Öffnen sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register KLASSENPLANUNG.
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus. Die Webseite
+KANDIDATEN BEARBEITEN ist aktiv.
+
+Abb. 5 Webseite Kandidaten bearbeiten: Schülersuche geöffnet.
+
+3. Setzen Sie bei den Kandidaten, denen Sie eine Notiz zuordnen wollen, einen Haken in das
+Kontrollkästchen.
+4. Klicken Sie auf KLASSE PLANEN. Es erscheint das Dialogfenster KLASSENPLANUNG.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+10
+
+Abb. 6 Webseite Kandidaten bearbeiten: Dialogfenster Klassenplanung
+
+5. Geben Sie im Feld GEPLANTE KLASSE die gewünschte Notiz ein.
+6. Klicken Sie auf ÜBERNEHMEN.
+7. Klicken Sie auf Speichern.
+8. Wiederholen Sie die Schritte 2 bis 7 für weitere Kandidaten oder klicken Sie auf
+SCHLIEßEN.
+Hinweis
+Die Angaben in der Klassenzuordnung und Bemerkung dienen ausschließlich
+der internen Planung und sind nicht verbindlich.
+▪ Die tatsächliche Zuweisung zur Klasse erfolgt über die Seite UNTERRICHT >
+UV- BEARBEITUNG > KLASSENBILDUNG.
+▪ Die Felder können jederzeit bearbeitet oder gelöscht werden.
+
+2.2.2 Den Text zur Klassenplanung bearbeiten
+1. Öffnen sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register KLASSENPLANUNG.
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus. Die Webseite
+KANDIDATEN BEARBEITEN ist aktiv.
+3. Setzen Sie ein Häkchen in das Kontrollkästchen vor die Kandidaten, bei denen Sie Text
+zur Klassenplanung ändern wollen.
+4. Klicken Sie auf KLASSE PLANEN. Es erscheint das Dialogfenster KLASSENPLANUNG.
+5. Ändern Sie im Feld GEPLANTE KLASSE den vorhandenen Text.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+11
+
+Abb. 7 Webseite Kandidaten bearbeiten: Dialogfenster Klassenplanung
+
+6. Klicken Sie auf ÜBERNEHMEN.
+7. Klicken Sie auf SPEICHERN.
+8. Wiederholen Sie die Schritte 2 bis 7 für weitere Kandidaten oder klicken Sie auf
+SCHLIEßEN.
+2.2.3 Schülerinformationen einsehen
+1. Öffnen sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register KLASSENPLANUNG.
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus. Die Webseite
+KANDIDATEN BEARBEITEN ist aktiv.
+In der Ergebnisliste werden die Kandidaten angezeigt, die den Status ANGENOMMEN
+oder AUF WARTELISTE haben.
+3. Klicken Sie in der Spalte NAME bei dem gewünschten Schüler auf SCHÜLERNAME. Es
+erscheint das Dialogfenster SCHÜLERDATEN (siehe Abb. 3).
+4. Klicken Sie auf SCHLIEßEN.
+5. Wiederholen Sie ggf. die Schritte 2 bis 4.
+
+2.2.4 Lebenswichtige Information einsehen
+1. Öffnen sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register KLASSENPLANUNG.
+2. Wählen Sie die gewünschten Kandidaten über die Schülersuche aus. Die Webseite
+KANDIDATEN BEARBEITEN ist aktiv.
+In der Ergebnisliste werden die Kandidaten angezeigt, die den Status ANGENOMMEN
+oder AUF WARTELISTE haben.
+3. Klicken Sie bei dem gewünschten Schüler in der Spalte LWIN auf JA. Es erscheint das
+Dialogfenster LEBENSWICHTIGE INFORMATIONEN ANZEIGEN.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+12
+
+Abb. 8 Webseite Kandidaten bearbeiten: Dialogfenster Lebenswichtige Informationen anzeigen
+
+4. Klicken Sie auf SCHLIEßEN.
+5. Wiederholen Sie ggf. die Schritte 2 bis 4.
+
+2.3
+
+Nutzung des Registers KV beenden
+Innerhalb der Webseite SCHÜLER>KANDIDATENVERFAHREN>KANDIDATENBEARBEITEN befindet
+sich das Register KV BEENDEN.
+Mit diesem Register können Sie bestehende Kandidatenverhältnisse beenden, zum
+Beispiel im Zusammenhang mit abgelehnten Aufnahmeverfahren, Rücktritten,
+Schulwechseln vor der Aktivierung sowie nachträglichen Korrekturen.
+Die Funktion bezieht sich ausschließlich auf Kandidaten, deren Aktivierung noch nicht
+erfolgt ist. Daher werden im Register KV BEENDEN ausschließlich Schüler gelistet, für die
+aktuell ein gültiges Kandidatenverhältnis der Schule besteht, die aber noch nicht in den
+aktiven Schülerbestand übernommen wurden.
+Die Funktion ermöglicht die endgültige Löschung des Kandidatenverhältnisses, wenn z.B.
+ein Schüler seine Anmeldung storniert hat und nicht am Unterricht teilnehmen wird.
+Sie können das Kandidatenverhältnis für einen oder mehrere Kandidaten gleichzeitig
+beenden.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+13
+
+Hinweis
+Voraussetzungen für die Beendigung eines Kandidatenverhältnisses
+▪ Für Kandidaten mit SDR wurden (neben dem KV an die eigene Schule)
+keine weiteren Kandidatenverhältnisse angelegt. Sollte das der Fall
+sein, müssen diese KVs erst auf der Seite SCHÜLER >
+KANDIDATENVERFAHREN > ABGÄNGER gelöscht werden. Beachten Sie bitte,
+dass die Löschung eines KVs nur für die Schule möglich ist, die das KV
+angelegt hat.
+▪ Der Status des Kandidaten muss im Register K. MIT ZIELDATEN auf
+abgelehnt oder desinteressiert gesetzt worden sein.
+1. Wählen Sie im Register KV beenden die gewünschten Kandidaten über die
+Schülersuche aus.
+Wählen sie die Suchoption KANDIDATEN und stellen Sie sicher, dass das Häkchen bei
+abgelehnt / desinteressiert gesetzt ist und übernehmen Sie diese auf die Seite.
+In der Auswahl stehen anschließend nur Kandidaten mit KVs, die gelöscht werden
+können.
+
+Abb. 9 Webseite Kandidaten bearbeiten: Register KV beenden
+
+2. Wählen Sie in der Auswahlliste KANDIDATENGRUPPE den gewünschten Eintrag aus.
+3. Setzen Sie vor den gewünschten Schülern ein Häkchen in das Kontrollkästchen.
+4. Klicken Sie auf KV BEENDEN. Es erscheint das Dialogfenster BEENDEN BESTÄTIGEN.
+5. Klicken Sie auf FORTFAHREN oder auf ABBRECHEN.
+6. Wiederholen Sie ggf. die Schritte 2 bis 6 oder klicken Sie auf SCHLIEßEN.
+
+3
+
+Kandidaten aktiv setzen
+Diese Anleitung beschreibt das Vorgehen zum Aktivsetzen von Kandidaten in der LUSD.
+Es werden zwei Anwendungsfälle vorgestellt:
+▪ Die Einzelaktivierung über die Schülerbasisdaten. Die Einzelaktivierung eignet sich
+insbesondere für Fälle, in denen einzelne Schüler kurzfristig aufgenommen werden,
+etwa bei einem Schulwechsel im laufenden Halbjahr.
+▪ Die globale Aktivierung über die Statusverwaltung. Die globale Aktivierung dient der
+gleichzeitigen Übernahme ganzer Jahrgänge, Stufen oder Klassen, beispielsweise bei
+der Einschulung neuer Erstklässler.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+14
+
+Hinweis
+Eine gültige Berechtigung zur Bearbeitung dieser Webseiten ist erforderlich.
+
+3.1
+
+Einzelaktivierung von Kandidaten
+Die Aktivierung einzelner Schüler erfolgt über die Webseite SCHÜLER > SCHÜLERBASISDATEN
+> SCHÜLERSTAMMDATEN. Diese Vorgehensweise eignet sich insbesondere für Schüler, die
+unterjährig – z. B. im laufenden Schuljahr – neu aufgenommen wurden. Sie wird häufig
+verwendet, wenn Schüler kurzfristig umziehen und direkt am neuen Schulstandort
+aufgenommen werden sollen.
+1. Öffnen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+2. Klicken Sie auf das Schaltsymbol SUCHE. Wählen sie die Suchoption KANDIDATEN und
+stellen Sie sicher, dass das Häkchen bei ANGENOMMEN gesetzt ist.
+
+Abb. 10 Webseite Schülerstammdaten: Haken gesetzt bei angenommen
+
+3. Suchen Sie den gewünschten Kandidaten anhand des Nachnamens und übernehmen
+Sie den Datensatz auf die Webseite.
+4. Prüfen Sie Anhand des Nachnamens, des Vornamens, des Geburtsdatums und der
+Adresse, ob es sich um den korrekten Datensatz handelt.
+5. Wählen Sie im Feld SCHÜLERSTATUS den Eintrag Aktiv.
+6. Klicken Sie auf SPEICHERN.
+7. Prüfen Sie die Angaben auf Vollständigkeit, insbesondere:
+▪ Konfession
+▪ Staatsangehörigkeit
+▪ Zuzug
+Hinweis
+Kandidaten ohne SD-R können nur aktiviert werden, sobald alle folgenden
+Bedingungen erfüllt sind:
+▪
+▪
+▪
+▪
+
+Der Kandidatenstatus ist ANGENOMMEN.
+Das Freigabedatum im Feld FREIGABE ZUM ist erreicht.
+Das Freigabedatum liegt in dem von Ihnen eingetragenen Zielhalbjahr.
+Die Zielschulform und -stufe sind angegeben.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+15
+
+3.2
+
+Globale Aktivierung von mehreren Kandidaten
+Die globale Aktivierung von Kandidaten erfolgt auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > STATUSVERWALTUNG. Diese Vorgehensweise eignet sich zur
+Aktivierung ganzer Jahrgänge, Stufen oder Klassen – typischerweise zu Beginn des
+Schuljahres.
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG.
+Stellen Sie sicher, dass der Optionsschalter AKTIVIEREN ausgewählt ist.
+
+Abb. 11 Webseite Statusverwaltung: Optionsschalter aktivieren ausgewählt
+
+2. Die Tabelle zeigt alle Schulformen, in denen Kandidaten aktiviert werden können.
+Hinweis
+Sie können nur Schüler aktivieren,
+▪ die den Kandidatenstatus ANGENOMMEN haben.
+▪ denen eine Schulform und Stufe zugewiesen wurde (Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN).
+▪ deren Freigabedatum erreicht ist (betrifft Kandidaten ohne SD-R von
+anderen Schulen).
+3. Wenn Sie alle Kandidaten aktivieren möchten, setzen Sie einen Haken im
+Kontrollkästchen im Tabellenkopf vor der Spalte NACHNAME.
+Alternativ klappen Sie die Baumstruktur vor der gewünschten Schulform, Stufe und
+Klasse auf und setzen die Häkchen vor den gewünschten Kandidatendatensätzen.
+4. Klicken Sie auf die Schaltfläche ÜBERNEHMEN und anschließend auf SPEICHERN.
+Die ausgewählten Kandidaten werden auf der Webseite nicht mehr angezeigt. Sie
+haben den Status AKTIV und können nun weitergehend bearbeitet werden.
+Hinweis
+Sobald Sie als aufnehmende Schule einen Kandidaten aktiviert haben, …
+▪ erhält der Schüler in seiner Schullaufbahn einen neuen Eintrag: Beginn =
+aktuelles Datum.
+▪ erhält der Schullaufbahneintrag der abgebenden Schule das Datum des
+Vortages als Enddatum.
+▪ erhält der Schüler an der abgebenden Schule den Status EHEMALIG.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+16
+
+4
+
+Schüler an andere Schulen in Hessen abgeben
+Einen Schul- und Schulformwechsel an andere Schulen in Hessen erfolgt auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER im Register AKTIVE. Dazu müssen ein oder
+mehrere Kandidatenverhältnisse für die betroffenen Schüler angelegt werden.
+
+4.1
+
+Auswahl von Schülern
+Wählen Sie zunächst einen oder mehrere Schüler aus.
+
+Abb. 12 Webseite Abgänger
+
+4.1.1 Einzelauswahl von Schülern
+1. Aktivieren Sie den Optionsschalter EINZELAUSWAHL.
+2. Geben im Feld NAME einen Teil des Namens oder den Nachnamen, ggf. gefolgt von
+einem Komma und dem Vornamen, in das entsprechende Feld ein.
+3. Wählen Sie anschließend den gewünschten Datensatz aus.
+4. Bestätigen Sie mit der Enter-Taste, um den Datensatz zu öffnen.
+
+Abb. 13 Webseite Abgänger: Einzelauswahl
+
+4.1.2 Mehrfachauswahl von Schülern
+1. Aktivieren Sie den Optionsschalter MEHRFACHAUSWAHL.
+1. Wählen Sie eine Schulform und Jahrgangsstufe, bei Bedarf auch eine Klasse.
+2. Klicken Sie rechts auf FILTER, um die Schüler anzuzeigen.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+17
+
+Abb. 14 Webseite Abgänger: Mehrfachauswahl
+
+4.2
+
+Freigabe
+
+4.2.1 Freigeben von Schülern
+1. Setzen Sie einen Haken in das Kontrollkästchen vor einen oder mehrere Schüler.
+2. Möchten Sie alle Schüler freigeben, setzen sie das Häkchen im Kontrollkästchen im
+Tabellenkopf vor der Spalte KVs.
+
+Abb. 15 Webseite Abgänger: Auswahl der Datensätze
+
+3. Erfassen Sie zuerst ein Freigabedatum.
+▪ Entweder tragen Sie unten links im Feld FREIGABE ZUM einen Datumswert manuell
+ein.
+▪ oder verwenden Sie den Datumsnavigator auf der rechten Seite
+▪ oder klicken Sie auf SOFORTFREIGABE, um das aktuelle Datum einzutragen.
+
+Abb. 16 Webseite Abgänger: Freigabedatum
+
+Hinweis
+Bei einem Wechsel zum Schuljahresende ist das korrekte Datum der 31.07.
+Andere Datumswerte werden nur in Ausnahmefällen akzeptiert, zum Beispiel
+bei einem Umzug.
+Das Datum muss zwingend innerhalb des aktuellen Schulhalbjahres liegen.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+18
+
+4.2.2 Freigabe stornieren
+1. Markieren Sie einen oder mehrere Schüler.
+2. Klicken Sie auf FREIGABE STORNIEREN. Bei jedem markierten Schüler wird das
+Freigabedatum gelöscht und damit die Kandidatenverhältnisse aufgehoben.
+
+4.3
+
+Wunsch-Schule und -Schulform
+
+4.3.1 Wunsch-Schule hinzufügen
+1. Klicken Sie im Bereich W-SCHULE auf HINZUFÜGEN. Das Dialogfenster WUNSCHSCHULE
+HINZUFÜGEN öffnet sich. Befüllen Sie die angebotenen Felder. Es stehen in den
+Auswahllisten folgende Einträge zur Verfügung:
+Tipp
+Tippen Sie die ersten Buchstaben eines gewünschten Eintrages ein. Es
+werden Ihnen die passenden Vorschläge in der Auswahlliste angezeigt.
+Felder mit einem *(Sternchen) sind Pflichtfelder.
+
+▪ WUNSCH-SCHULE: Sie können Schulen auswählen, die in ihrem Schulumfeld
+hinterlegt sind. Wie das Schulumfeld angepasst wird, lesen Sie in Kapitel 4.6.1.
+▪ WUNSCH-SCHULFORM (W-SF): Es stehen nur Schulformen zur Verfügung, die an der
+Wunsch-Schule angeboten werden.
+▪ Wunsch-Stufe (W-ST/SEM): Es stehen nur Stufen zur Verfügung, die an der WunschSchule und in der Wunsch-Stufe angeboten werden.
+Hinweis
+Bitte erfassen Sie in den Feldern W-SF und / oder W-ST/SEM keine
+manuellen Einträge. Dies führt sicher zu einer Fehlermeldung.
+Wenn Sie einen Eintrag in den Auswahllisten dieser Felder vermissen,
+nehmen Sie Kontakt mit der aufnehmenden Schule auf und klären den
+Umstand.
+
+▪ Priorität: Initial wird die Priorität beginnend mit Priorität 1 automatisch gesetzt. Sind
+mehrere Wünsche erfasst, können die Prioritäten auch geändert werden
+▪ Wunsch-Sprache: Es stehen Fremdsprachen zur Verfügung, die an der WunschSchule und in der Wunsch-Stufe angeboten werden. Befüllen Sie dieses Feld nach
+Bedarf.
+2. Klicken Sie auf ÜBERNEHMEN und wiederholen Sie den Vorgang, wenn Sie weitere
+Wunsch-Schulen erfassen wollen.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+19
+
+Abb. 17 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+4.3.2 Wunsch-Schulformen hinzufügen
+Für jede Wunsch-Schule können mehrere Wunsch-Schulformen eingetragen werden.
+1. Markieren Sie eine erfasste Wunsch-Schule und klicken Sie bei W-DATEN auf
+HINZUFÜGEN.
+
+Abb. 18 Webseite Abgänger: Weitere Wunsch-Schulformen
+
+2. Erfassen Sie die Werte wie in Kapitel 4.3.1 beschrieben.
+3. Klicken Sie auf ÜBERNEHMEN und wiederholen Sie den Vorgang, wenn Sie weitere
+Wunsch-Schulformen erfassen wollen.
+Hinweis
+Weitere Wunsch-Schulformen können nur jeweils für eine Schüler-SchulKombination erfasst werden.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+20
+
+Der Eintrag im Feld EIGNUNG wird von der Webseite UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER - Register VERSETZUNG/EIGNUNG
+automatisch übernommen. Als Stichtag wird automatisch das aktuelle Datum
+eingetragen. Der Stichtag bestimmt, ab wann der Kandidatenwunsch an der
+Wunschschule sichtbar ist.
+Die Einträge im Bereich BISHERIGE SPRACHEN werden von der Webseite
+SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN automatisch
+übernommen.
+4.3.3 Wunschschulform löschen
+1. Wenn Sie eine Wunsch-Schule löschen möchten, klicken Sie bei W-SCHULE auf
+LÖSCHEN. Der Eintrag wird gelöscht.
+Hinweis
+Ist bei Schülern jeweils nur eine Wunsch-Schule eingetragen, können Sie
+auch einen oder mehrere Schüler markieren, um die jeweils erfasste
+Wunsch-Schule zu löschen.
+
+Abb. 19 Webseite Abgänger: Wunsch-Schule löschen
+
+4.4
+
+Wunsch-Religionsunterricht
+
+4.4.1 Wunsch-Religionsunterricht hinzufügen
+1. Wenn Sie einen Wunsch-Religionsunterricht hinzufügen möchten, klicken Sie bei W-RU
+auf die Schaltfläche BEARBEITEN. Das Dialogfenster WUNSCH-RELIGION BEARBEITEN
+öffnet sich.
+2. Wählen Sie in der Auswahlliste den passenden Wunsch-Religionsunterricht aus oder
+tippen Sie Teile der Wunsch-Religion in das Feld ein um passende Vorschläge aus der
+Auswahlliste zu erhalten.
+3. Klicken Sie auf ÜBERNEHMEN.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+21
+
+Abb. 20 Webseite Abgänger: Wunsch-Religion bearbeiten
+
+4.4.2 Wunsch-Religionsunterricht bearbeiten oder löschen
+1. Markieren Sie einen Schüler und klicken Sie bei W-RU auf BEARBEITEN.
+2. Der Eintrag kann bearbeitet oder gelöscht werden.
+3. Erfassen Sie die Werte wie in Kapitel 4.4.1 beschrieben.
+
+Abb. 21 Webseite Abgänger: Wunsch-Religionsunterricht bearbeiten oder löschen
+
+4.5
+
+Wunsch-Daten bearbeiten oder löschen
+1. Markieren Sie Wunsch-Daten eines Schülers und klicken Sie bei W-DATEN auf
+BEARBEITEN. Der Eintrag kann bearbeitet werden.
+2. Erfassen Sie die Werte wie in Kapitel 4.3.1 beschrieben.
+3. Markieren Sie Wunsch-Daten eines Schülers und klicken Sie bei W-DATEN auf LÖSCHEN.
+Der Eintrag wird gelöscht.
+Hinweis
+Die Funktionen BEARBEITEN und LÖSCHEN stehen nur zur Verfügung, wenn
+mindestens zwei Wunsch-Schulformen bei einer Wunsch-Schule
+eingetragen sind
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+22
+
+Abb. 22 Webseite Abgänger: Wunsch-Daten bearbeiten oder löschen
+
+4.6
+
+Schulumfeld
+Hessische Schulen, an die Sie Schüler per Kandidatenverfahren abgeben wollen, müssen
+in Ihrem Schulumfeld sein. Das Schulumfeld wird in der LUSD auf der Webseite SCHULE >
+SCHULUMFELD > SCHULEN im Register HESSEN gepflegt.
+
+Abb. 23 Webseite Schulen: Schulumfeld
+
+4.6.1 Eine Schule dem Schulumfeld hinzufügen
+1. Klicken Sie auf HINZUFÜGEN.
+2. In der Suchmaske SCHULE SUCHEN können sie
+▪
+▪
+▪
+▪
+
+SCHULTYP
+SCHULNAME
+DIENSTSTELLENNUMMER
+POSTLEITZAHL
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+23
+
+▪ ORT
+▪ BFZ (Beratungs- und Förderzentrum) eingeben.
+▪ Außerdem kann im Feld FSGE (Förderschule Geistige Entwicklung) mit dem Wert ja
+ausgewählt werden, ob eine Förderschule die Schulform Geistige Entwicklung
+haben soll.
+3. Klicken Sie auf SUCHEN.
+4. Markieren Sie die gewünschte Schule und klicken Sie auf ÜBERNEHMEN und
+anschließend auf SPEICHERN.
+4.6.2 Eine Schule aus dem Schulumfeld löschen
+1. Markieren Sie die zu löschende Schule.
+2. Klicken Sie auf LÖSCHEN.
+3. Klicken Sie auf SPEICHERN.
+Die Schule wird aus dem Schulumfeld gelöscht.
+
+5
+
+Globale Freigabe / Ehemaligsetzung von Schülern
+
+5.1.1 Allgemeines zur globalen Freigabe
+Die globale Freigabe wird auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG im Register SCHÜLER durchgeführt. Sie dient zur gleichzeitigen
+Freigabe mehrerer Schülerdatensätze und des Überführens mehrerer Schüler in den Status
+EHEMALIG. Sie ermöglicht es, mehrere Schüler gleichzeitig aus dem aktiven Bestand zu
+entlassen. Dies erfolgt in der Regel nach bestandenen Abschlüssen, bei Schulwechsel oder
+nach Abbrüchen.
+Entscheidend ist das korrekte Freigabedatum. Es gibt folgende Varianten:
+Freigabedatum
+
+Erläuterung
+
+Heutiges Datum
+
+Der Schüler wird bei Speicherung morgen in den Status
+EHEMALIG überführt, sofern kein aktives
+Kandidatenverhältnis besteht.
+
+Vergangenes Datum
+
+Das Freigabedatum ist zulässig, sofern es nicht
+innerhalb eines bestehenden
+Überweisungsverhältnisses liegt.
+
+Zukünftiges Datum
+
+Der Schüler verbleibt zunächst im Status AKTIV und wird
+zum angegebenen Freigabedatum automatisch auf
+EHEMALIG gesetzt, sofern kein aktives
+Kandidatenverhältnis besteht.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+24
+
+Wird ein unzulässiges Freigabedatum eingegeben, verhindert eine Hinweismeldung den
+Vorgang.
+5.1.2 Globale Freigabe durchführen
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG.
+2. Stellen Sie sicher, dass der Optionsschalter FREIGEBEN ausgewählt ist.
+
+Abb. 24 Webseite Statusverwaltung: Optionsschalter Freigeben
+
+3. Filtern Sie nach SCHULFORM, STUFE oder KLASSE, um gezielt Schüler auszuwählen.
+Möchten Sie alle Schüler freigeben, setzen sie das Häkchen im Kontrollkästchen im
+Tabellenkopf vor der Spalte NACHNAME. Alternativ klappen Sie die Baumstruktur vor der
+gewünschten SCHULFORM, STUFE und KLASSE auf und setzen die Häkchen vor den
+gewünschten Kandidatendatensätzen.
+4. Tragen Sie im unteren Bereich im Feld FREIGABE DATUM das gewünschte
+Freigabedatum ein.
+5. Klicken Sie auf das Schaltsymbol ÜBERNEHMEN.
+Hinweis
+▪ Der Tag vor dem Freigabedatum ist der letzte Aktiv-Tag des Schülers.
+▪ Schüler mit Kandidatenverhältnis können ab dem Freigabedatum von der
+aufnehmenden Schule aktiv gesetzt werden.
+▪ Schüler ohne Kandidatenverhältnis werden mit Erreichen des
+Freigabedatums EHEMALIG.
+6. Klicken Sie auf SPEICHERN.
+5.1.3 Schüler gezielt ehemalig setzen
+Schüler können gezielt über das Freigabedatum in den Status EHEMALIG gesetzt werden.
+Die Eintragung eines gültigen Freigabedatums führt – je nach Konstellation – zu einem
+sofortigen oder späteren Statuswechsel.
+LUSD-Verhalten je nach Freigabedatum
+Fall
+
+Bedingung
+
+Verhalten der LUSD / Hinweise
+
+Heutiges Datum
+
+Schüler ohne Kandidatenverhältnis
+
+Status wird morgen auf
+EHEMALIG gesetzt.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+25
+
+Fall
+
+Bedingung
+
+Verhalten der LUSD / Hinweise
+
+Vergangenes Datum Schüler ohne Kandidatenverhältnis
+
+Hinweismeldung erscheint.
+Bei Bestätigung mit der
+Schaltfläche FORTFAHREN wird
+der Status direkt auf
+EHEMALIG gesetzt.
+
+Zukünftiges Datum
+
+Schüler bleibt zunächst AKTIV.
+Es erfolgt ein automatischer
+Statuswechsel zum
+Freigabedatum.
+
+Kein Kandidatenverhältnis
+
+Kandidatenverhältnis
+Unabhängig vom Freigabedatum
+vorhanden
+
+Schüler wird erst nach
+Aktivierung durch die
+aufnehmende Schule auf
+EHEMALIG gesetzt.
+
+Bestehende
+Überweisung aktiv
+
+Hinweismeldung erscheint.
+Freigabedatum wird nicht
+übernommen, Spalte bleibt
+leer.
+
+Freigabedatum liegt innerhalb des
+Überweisungszeitraums
+
+Achtung
+Wird ein Schüler mit Kandidatenverhältnis rückwirkend freigegeben, erfolgt
+keine sofortige Ehemaligsetzung. Diese erfolgt erst bei Aktivierung durch die
+aufnehmende Schule.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+26
+
+Hinweis
+▪ Bei Schülern mit fehlenden Bewerbungsunterlagen erscheint automatisch
+eine Aufgabe in der Aufgabenliste:
+„Ein Nachforderungsschreiben für Bewerbungsunterlagen für Kandidat
+[Name] muss erstellt werden.“
+▪ Ein vorhandenes Freigabedatum kann jederzeit überschrieben oder
+gelöscht werden.
+▪ Bestehende Kandidatenverhältnisse bleiben erhalten, auch wenn der
+Schüler ehemalig ist.
+▪ Bei geplanten Schulabgängen zum Ende des Schuljahres muss der 31.07.
+als Datum eingetragen werden.
+▪ Bestehende Überweisungen blockieren die Freigabe, wenn das gewählte
+Freigabedatum innerhalb des aktiven Überweisungszeitraums liegt. In
+diesem Fall erscheint eine Hinweismeldung, und das Freigabedatum wird
+nicht gespeichert.
+▪ Ergänzen Sie ggf. Abschluss- oder Abgangszeugnisse.
+▪ Erstellen Sie vor Erreichen des Freigabedatums ein Schulwechselzeugnis,
+falls erforderlich!
+
+6
+
+Schulwechsel an Schulen außerhalb Hessens oder ins Ausland
+
+6.1.1 Allgemeines zum Schulwechsel an Schulen außerhalb Hessens
+Ein Schulwechsel von einer hessischen Schule in ein anderes Bundesland oder ins
+Ausland kann in der LUSD dokumentiert werden.
+Dieser Schulwechsel erfolgt über die Webseite SCHÜLER > KANDIDATENVERFAHREN >
+ABGÄNGER über das Register AKTIVE. Die Schülerdatensätze wechseln dann nach
+Erreichen des Freigabedatums vom Status AKTIV in den Status EHEMALIG an ihrer Schule.
+Die Vorgehensweise bei regelhaften Übergängen (Stufen 4/5, 9/10, 10/11) entnehmen Sie
+bitte der Anleitung Anmeldung von Schülern an weiterführenden Schule (AWS).
+6.1.2 Schüler bearbeiten, die das hessische Schulsystem verlassen werden
+1. Suchen Sie den einzelnen Schüler über die Einzelauswahl oder mehrere Schüler über
+die Mehrfachauswahl.
+2. Setzen Sie einen Haken in das Kontrollkästen der betroffenen Schüler.
+3. Geben Sie im Feld FREIGABE ZUM das Datum des letzten Schultages an Ihrer Schule ein
+oder klicken Sie auf SOFORTFREIGABE.
+Hinweis: Die Schritte 4, 5 und 7 sind optional.
+4. Klicken Sie auf das Schaltsymbol HINZUFÜGEN unterhalb des Bereichs W-SCHULE. Das
+Dialogfenster WUNSCH-SCHULE HINZUFÜGEN öffnet sich (dieser Schritt ist optional).
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+27
+
+Abb. 25 Webseite Abgänger: W-Schule hinzufügen für Wechsel des Bundeslandes
+
+5. Klicken im Dialogfenster ausschließlich in das Kontrollkästchen WECHSEL BUNDESLAND).
+
+Abb. 26 Webseite Abgänger: Kontrollkästchen Wechsel Bundesland
+
+Hinweis
+Durch das Setzen des Hakens im Kontrollkästchen werden die drei oberen
+Auswahllisten (WUNSCH-SCHULE*, WUNSCH-SCHULFORM* und WUNSCHSTUFE*) gesperrt. Die vorherige Eingabe ist folglich nicht notwendig. Die
+beiden Felder PRIO und W-SPRACHE können unverändert bleiben.
+6. Klicken Sie auf die Schaltfläche ÜBERNEHMEN.
+7. Prüfen Sie die Darstellung der Tabelle. Sie finden die Eintragung WECHSEL DES
+BUNDESLANDS beim aufgeklappten Schülerdatensatz und in der Spalte ANZ. die Zahl 1.
+Die Zahl 1 steht für ein von Ihnen angelegtes Kandidatenverhältnis zu einer Schule
+außerhalb Hessens.
+8. Klicken Sie auf die Schaltfläche SPEICHERN.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+28
+
+Abb. 27 Webseite Abgänger: Wunschschule – Wechsel Bundesland
+
+Hinweis
+Das Kontrollkästchen WECHSEL BUNDESLAND kann auch für Schüler, die ins
+Ausland wechseln, analog verwendet werden. Für die Vorgänge im
+Hintergrund der LUSD sowie die Statistik ist es irrelevant, ob die Schüler ins
+Ausland oder in ein anderes Bundesland wechseln.
+
+Hinweis
+Bei einem Schulwechsel an eine Schule außerhalb Hessens oder einer
+Schule im Ausland können für die Wunsch-Schule keine Zweit oder
+Drittwünsche eingetragen werden. In einem solchen Fall erscheint eine
+Hinweismeldung: „Doppelter Eintrag! Der Eintrag Wechsel Bundesland kann
+nicht mehrmals erfasst werden.“
+Sie verhindert die Möglichkeit der Datenübernahme. Die Daten können nicht
+abgespeichert werden.
+6.1.3 Löschen des Kandidatenverhältnisses beim Verlassen des hessischen Schulsystems
+Hinweis
+Solange das Freigabedatum noch nicht erreicht ist, kann ein von Ihnen
+angelegtes Kandidatenverhältnis für einen Wechsel in ein anderes
+Bundesland oder ins Ausland noch gelöscht werden.
+1. Markieren Sie zunächst den Schülerdatensatz.
+2. Klicken Sie auf die Schaltfläche LÖSCHEN unterhalb des Bereichs W-SCHULE.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+29
+
+Abb. 28 Webseite Abgänger: Löschen des KVs für Wechsel des Bundeslandes/Ausland
+
+3. Klicken Sie auf die Schaltfläche SPEICHERN.
+
+7
+
+Kandidaten an andere Schulen in Hessen abgeben
+Die Abgabe von Kandidaten an andere hessische Schulen führen Sie in der LUSD auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER im Register K. M. SD-R durch,
+indem Sie ein Kandidatenverhältnis oder mehrere Kandidatenverhältnisse für die
+betroffenen Kandidaten anlegen.
+In dem Register werden alle Kandidaten mit Stammdatenrecht angezeigt. Bei jedem
+Kandidaten wird mindestens ein Kandidatenverhältnis angezeigt. Es ist das
+Kandidatenverhältnis zur eigenen Schule. Weitere Kandidatenverhältnisse können angelegt
+werden.
+
+Abb. 29 Webseite Abgänger: Register K.m. SD-R
+
+7.1
+
+Freigeben der Kandidaten
+1. Setzen Sie einen Haken in das Kontrollkästchen vor einen oder mehrere Kandidaten.
+2. Möchten Sie alle Kandidaten freigeben, setzen sie das Häkchen im Kontrollkästchen im
+Tabellenkopf vor der Spalte KVs.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+30
+
+Abb. 30 Webseite Abgänger: Auswahl der Datensätze
+
+3. Erfassen Sie zuerst ein Freigabedatum.
+▪ Entweder tragen Sie unten links im Feld FREIGABE ZUM einen Datumswert manuell
+ein
+▪ oder verwenden Sie den Datumsnavigator auf der rechten Seite
+▪ oder klicken Sie auf SOFORTFREIGABE, um das aktuelle Datum einzutragen.
+
+Abb. 31 Webseite Abgänger: Freigabedatum
+
+4. Speichern Sie Ihre Eingaben.
+7.1.1 Freigabe stornieren
+1. Markieren Sie einen oder mehrere Kandidaten
+2. Klicken Sie auf FREIGABE STORNIEREN. Bei jedem markierten Kandidaten wird das
+Freigabedatum gelöscht und damit die Kandidatenverhältnisse aufgehoben.
+3. Speichern Sie Ihre Eingaben.
+
+7.2
+
+Wunsch-Schule und Wunsch-Schulform von Kandidaten
+
+7.2.1 Wunsch-Schule von Kandidaten hinzufügen
+1. Klicken Sie im Bereich W-SCHULE auf HINZUFÜGEN. Das Dialogfenster WUNSCHSCHULE
+HINZUFÜGEN öffnet sich. Befüllen Sie die angebotenen Felder. Es stehen in den
+Auswahllisten folgende Einträge zur Verfügung:
+Tipp
+Tippen Sie die ersten Buchstaben eines gewünschten Eintrages ein. Es
+werden Ihnen die passenden Vorschläge in der Auswahlliste angezeigt.
+Felder mit einem *(Sternchen) sind Pflichtfelder.
+
+▪ WUNSCH-SCHULE: Sie können Schulen auswählen, die in ihrem Schulumfeld
+hinterlegt sind. Wie das Schulumfeld angepasst wird, lesen Sie in Kapitel 4.6.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+31
+
+▪ WUNSCH-SCHULFORM (W-SF): Es stehen nur Schulformen zur Verfügung, die an der
+Wunsch-Schule angeboten werden.
+▪ Wunsch-Stufe (W-ST/SEM): Es stehen nur Stufen zur Verfügung, die an der WunschSchule und in der Wunsch-Stufe angeboten werden.
+▪ Priorität: Initial wird die Priorität beginnend mit Priorität 1 automatisch gesetzt. Sind
+mehrere Wünsche erfasst, können die Prioritäten auch geändert werden
+▪ Wunsch-Sprache: Es stehen Fremdsprachen zur Verfügung, die an der WunschSchule und in der Wunsch-Stufe angeboten werden. Befüllen Sie dieses Feld nach
+Bedarf.
+2. Klicken Sie auf ÜBERNEHMEN und wiederholen Sie den Vorgang, wenn Sie weitere
+Wunsch-Schulen erfassen wollen.
+
+Abb. 32 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+7.2.2 Wunsch-Schulformen für Kandidaten hinzufügen
+Für jede Wunsch-Schule können mehrere Wunsch-Schulformen eingetragen werden.
+1. Markieren Sie eine erfasste Wunsch-Schule und klicken Sie bei W-DATEN auf
+HINZUFÜGEN.
+
+Abb. 33 Webseite Abgänger: Weitere Wunsch-Schulformen
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+32
+
+2. Erfassen Sie die Werte wie in Kapitel 7.2.1 beschrieben.
+3. Klicken Sie auf ÜBERNEHMEN und wiederholen Sie den Vorgang, wenn Sie weitere
+Wunsch-Schulformen erfassen wollen.
+Hinweis
+Weitere Wunsch-Schulformen können nur jeweils für eine Kandidaten-SchulKombination erfasst werden.
+Der Stichtag wird automatisch beim Anlegen eines Kandidatenverhältnis auf
+das aktuelle Tagedatum gesetzt und bestimmt, ab wann der
+Kandidatenwunsch an der Wunschschule sichtbar ist.
+
+7.2.3 Wunschschulform von Kandidaten löschen
+1. Wenn Sie eine Wunsch-Schule löschen möchten, klicken Sie bei W-SCHULE auf
+LÖSCHEN. Der Eintrag wird gelöscht.
+Hinweis
+Das Kandidatenverhältnis zur eigenen Schule kann nicht gelöscht werden.
+Wird der Kandidat wahrscheinlich zu einer anderen Schule gehen, ändern Sie
+bei Bedarf die Priorität.
+
+Abb. 34 Webseite Abgänger: Wunsch-Schule löschen
+
+7.3
+
+Wunsch-Religionsunterricht von Kandidaten
+
+7.3.1 Wunsch-Religionsunterricht von Kandidaten hinzufügen
+1. Wenn Sie einen Wunsch-Religionsunterricht hinzufügen möchten, klicken Sie bei W-RU
+auf die Schaltfläche BEARBEITEN. Das Dialogfenster WUNSCH-RELIGION BEARBEITEN
+öffnet sich.
+2. Wählen Sie in der Auswahlliste den passenden Wunsch-Religionsunterricht aus oder
+tippen Sie Teile der Wunsch-Religion in das Feld ein um passende Vorschläge aus der
+Auswahlliste zu erhalten.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+33
+
+3. Klicken Sie auf ÜBERNEHMEN.
+
+Abb. 35 Webseite Abgänger: Wunsch-Religion bearbeiten
+
+7.3.2 Wunsch-Religionsunterricht von Kandidaten bearbeiten oder löschen
+1. Markieren Sie einen Kandidaten und klicken Sie bei W-RU auf BEARBEITEN.
+2. Der Eintrag kann bearbeitet oder gelöscht werden.
+3. Erfassen Sie die Werte wie in Kapitel 7.3.1 beschrieben.
+
+Abb. 36 Webseite Abgänger: Wunsch-Religionsunterricht bearbeiten oder löschen
+
+7.4
+
+Wunsch-Daten von Kandidaten bearbeiten oder löschen
+1. Markieren Sie Wunsch-Daten eines Kandidaten und klicken Sie bei W-DATEN auf
+BEARBEITEN. Der Eintrag kann bearbeitet werden.
+2. Erfassen Sie die Werte wie in Kapitel 7.2.1 beschrieben.
+3. Markieren Sie Wunsch-Daten eines Schülers und klicken Sie bei W-DATEN auf LÖSCHEN.
+Der Eintrag wird gelöscht.
+Hinweis
+Die Funktion LÖSCHEN steht nur zur Verfügung, wenn mindestens zwei
+Wunsch-Schulformen bei einer Wunsch-Schule eingetragen sind
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+34
+
+Abb. 37 Webseite Abgänger: Wunsch-Daten bearbeiten oder löschen
+
+8
+
+Abgangsdaten von ehemaligen Schülern einsehen
+Auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER finden Sie das Register
+EHEMALIGE. Dort werden Schüler angezeigt, die den Status EHEMALIG innehaben. Das
+Register dient der Auswertung und Nachverfolgung abgeschlossener Schülerlaufbahnen.
+Hinweis
+Um auf das Register zugreifen zu können, benötigen Sie in Ihrem LUSD
+Benutzer die lesende Berechtigung für ehemalige Schülerdaten.
+
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER Register
+EHEMALIGE
+2. Klicken Sie auf das Schaltsymbol SUCHE. Die Schülersuche ist mit den Suchoptionen für
+ehemalige Schüler vorbelegt und kann nicht angepasst werden.
+
+Abb. 38 Webseite Abgänger: Schülersuche Option Ehemalige
+
+3. Suchen Sie eine oder mehrere ehemalige Schüler anhand der Nachnamen und
+übernehmen Sie die Datensätze mit der Schaltfläche ÜBERNEHMEN auf die Webseite.
+4. Die Tabelle zeigt Ihnen folgende Daten der ausgewählten ehemaligen Schüler:
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+35
+
+Spalte
+
+Bedeutung
+
+KVS
+
+Ein-/Ausklappbarer Bereich zur Anzeige aktiver oder vergangener
+Kandidatenverhältnisse.
+
+ANZ.
+
+Anzahl der bestehenden Kandidatenverhältnisse.
+
+NAME
+
+Nachname und Vorname der Schülerin / des Schülers.
+
+G.
+
+Geschlecht.
+
+GEB.DAT
+
+Geburtsdatum.
+
+FREIGABE
+
+Datum, an dem die Schülerin / der Schüler freigegeben wurde.
+
+EHEMALIG ZUM
+
+Wirksamkeitsdatum des Statuswechsels. Kann ggf. vom
+Freigabedatum abweichen.
+
+SF/BK
+
+Schulform oder Bildungsgangkennzeichen zum Zeitpunkt des
+Abgangs (z. B. R für Realschule).
+
+ST/SEM
+
+Jahrgangsstufe und Halbjahr (z. B. 10/2 für Klasse 10, zweites
+Halbjahr).
+
+EIGNUNG
+
+Angestrebter oder erreichter Bildungsabschluss (z. B. FOS für
+Fachoberschulreife).
+
+KLASSE
+
+Klassenbezeichnung (z. B. 10Ra).
+
+KLALE
+
+Klassenleiterkürzel oder Zuordnungsschlüssel zur Klasse (z. B.
+Y108).
+
+SCHULE MIT SDR
+
+Schulnummer und Name der Schule, an der der Schüler zuletzt
+geführt wurde.
+
+BISH. SPR.
+
+Link zum Dialog Bisherige Sprachen. Zeigt die Belegung, von-bis,
+der bisherigen Fremdsprachen des Schülers an.
+
+Tipp
+Die Spalten können angepasst und sortiert werden. Nutzen Sie hierfür die
+Tabellenoptionen am oberen Rand der Ansicht
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+36
+
+9
+
+Aktive Schüler ehemalig setzen
+Auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER finden Sie das Register
+AKTIVE. Über dieses Register können einzelne Schülerdatensätze nach Erreichen des
+Freigabedatums in den Status EHEMALIG gesetzt werden. Typische Gründe für den Abgang
+sind ein erreichter Schulabschluss, das Verlassen der Schule ohne Abschluss sowie nach
+Abbrüchen ohne anschließenden Schulwechsel und folglich ohne anschließendes
+Kandidatenverfahren.
+Um Schüler aus dem aktiven Bestand zu entlassen, ist das korrekte Freigabedatum
+entscheidend. Hierfür gibt es folgende Varianten:
+Freigabedatum
+
+Erläuterung
+
+Aktuelles Tagesdatum
+
+Schüler wird bei nach Speicherung in den Status
+EHEMALIG überführt. Aufgrund der Nachtverarbeitung ist
+der Status E erst am Folgetag einsehbar.
+
+(über die Schaltfläche
+SOFORTFREIGABE gesetzt)
+
+Zulässig, sofern es im aktuellen Schulhalbjahr liegt.
+Vergangenes Datum
+
+Die Rück-Datierung bis zum ersten Tag des aktuell
+laufenden Schulhalbjahres ist möglich.
+
+(händisch oder über die
+Kalenderfunktion gesetzt)
+
+Wird ein unzulässiges Freigabedatum eingegeben,
+verhindert eine Hinweismeldung den Vorgang. Der
+Schüler wird dann rückwirkend sofort ehemalig gesetzt
+zum eingetragenen Freigabedatum.
+
+Zukünftiges Datum
+
+Der Schüler verbleibt zunächst im Status AKTIV und wird
+zum angegebenen Freigabedatum automatisch auf
+EHEMALIG gesetzt.
+
+(händisch oder über die
+Kalenderfunktion gesetzt)
+
+Hinweis
+Der Tag des Freigabedatum ist der letzte Aktiv-Tag des Schülers an Ihrer
+Schule. Bis hierhin kann die Schule noch die Daten (Schülerbasisdaten etc.)
+des Schülers pflegen oder auch das Freigabedatum bearbeiten. Danach sind
+diese Möglichkeiten durch den Wechsel des Schüler-Status AKTIV (A) auf
+EHEMALIG (E) ausgegraut.
+Ein vorhandenes Freigabedatum kann jederzeit überschrieben oder gelöscht
+werden, sofern es noch nicht durch die Nachtverarbeitung der LUSD erreicht
+wurde.
+Bei geplanten Schulabgängen zum Ende des Schuljahres ist der 31.07. als
+Freigabedatum einzutragen.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+37
+
+9.1
+
+Notwendigkeit des Freigabedatums
+Warum muss ein Freigabedatum gesetzt werden, wenn Schüler mit dem Erreichen des
+letzten Tages ihrer aktuellen Schulform ohnehin ehemalig werden?
+Hintergrund ist neben der Statistik u.a. die Datenübermittlung an das Statistische
+Landesamt, die Schulaufsicht sowie die Verwaltung der Schullaufbahnen. Mit dem
+Vorgehen der Freigabe werden also alle Schulabgänge in Hessen dokumentiert.
+Das Erreichen des Tages nach dem Freigabedatum bildet außerdem den Tag ab, ab dem
+andere Schulen Zugriff auf diese Schüler- und Abgangsdaten haben können. Der
+Verwaltungsprozess der Schule, die das Freigabedatum eingetragen hat, -endet hier. Es
+wird somit eine Anmeldung an einer neuen Schule, z. B. durch Übernahme der bisherigen
+Stammdaten (zur Vermeidung von Doppelpflege) ermöglicht. Ohne das Setzen des
+Freigabedatums können die Schülerdatensätze an andere Schulen nicht aktiviert werden.
+Werden die Daten von keiner hessischen Schule abgerufen, bleiben Sie noch eine Zeit lang
+im Hintergrund in der LUSD archiviert bis sie schließlich ans hessisches Hauptstaatsarchiv
+zur Verwahrung übergeben werden.
+Hinweis
+Einmal in der LUSD gepflegte und auf ehemalig gesetzte Schülerdatensätze
+können bei Bedarf von hessischen Schulen eine Zeit lang reaktiviert werden.
+Hierbei bildet das Datum der Löschfristen von personenbezogenen Daten
+nach den einschlägigen Gesetzen der DSGVO etc. die Grenze.
+
+9.2
+
+Ehemalig setzen von Schülern ohne Kandidatenverhältnis durchführen
+Schüler ohne Kandidatenverhältnis werden am Tag nach Erreichen des Freigabedatums
+EHEMALIG.
+1. Suchen Sie die gewünschten Schüler auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > ABGÄNGER im Register AKTIVE über die Einzelauswahl oder
+über die Mehrfachauswahl mehrere Schüler gleichzeitig. Klicken Sie auf die Schaltfläche
+ÜBERNEHMEN. Die gefundenen Datensätze werden in der Tabelle aufgelistet.
+2. Je nach Freigabeart (siehe Tabelle in Kapitel 9) gehen Sie wie in den folgenden Kapiteln
+beschrieben vor.
+
+9.2.1 Ehemalig setzen über die Sofortfreigabe
+1. Setzen Sie einen Haken in das Kontrollkästchen vor den oder die betroffenen Schüler.
+2. Klicken Sie unter dem Feld FREIGABE ZUM auf die Schaltfläche SOFORTFREIGABE. Das
+Feld FREIGABE ZUM wird automatisch mit dem aktuellen Tagesdatum befüllt. Ebenso wird
+die Spalte FREIGABE mit diesem Datum befüllt.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+38
+
+Abb. 39 Webseite Abgänger: Sofortfreigabe eines einzelnen Schülers aus der Mehrfachauswahl zum
+aktuellen Tagesdatum
+
+3. Klicken Sie anschließen auf die Schaltfläche SPEICHERN. Es erscheint kurz oben mittig
+der Hinweis: speichern erfolgreich.
+9.2.2 Ehemalig setzen über die rückwirkende Freigabe
+1. Setzen Sie einen Haken in das Kontrollkästchen vor den oder die betroffenen Schüler.
+2. Geben Sie im Feld FREIGABE ZUM ein zurückliegendes Datum aus dem aktuellen
+Schulhalbjahr ein. Das ist bei einem laufenden ersten Schulhalbjahr ein Datum zwischen
+dem 01.08. und dem aktuellen Tagesdatum oder bei einem laufenden zweiten
+Schulhalbjahr ein Datum zwischen dem ersten Schultag im Februar und dem aktuellen
+Tagesdatum.
+3. Klicken Sie auf die Schaltfläche SPEICHERN. Es erscheint die Hinweismeldung
+„Sie haben für folgenden Datensatz ohne Kandidatenverhältnis ein rückwirkendes
+Freigabedatum eingetragen:
+Schülervorname, Schülernachname
+Möchten Sie sie ehemalig setzen?“
+
+Abb. 40 Webseite Abgänger: Rückwirkende Freigabe eines einzelnen Schülers
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+39
+
+4. Bestätigen Sie die Hinweismeldung mit Klick auf die Schaltfläche JA. Es erscheint kurz
+oben mittig der Hinweis: speichern erfolgreich.
+Der Datensatz des Schülers verschwindet von der Webseite. Der Status des Schülers ist
+ab sofort und auch rückwirkend ehemalig. Der Tag an dem dieser Schüler ihre Schule
+verlassen hat ist das von Ihnen rückwirkend eingetragene Datum minus einen Tag, zu
+kontrollieren unter SCHÜLER>SCHÜLERBASISDATEN>SCHULLAUFBAHN, Bereich
+SCHULLAUFBAHN, im Feld BIS.
+9.2.3 Ehemalig setzen über die zukünftige Freigabe
+1. Setzen Sie einen Haken in das Kontrollkästchen vor den oder die betroffenen Schüler.
+2. Geben Sie im Feld FREIGABE ZUM das Datum des letzten Schultages ein. Das ist bei
+einem Wechsel zum kommenden Schuljahr der 31.07. des aktuellen Schuljahres.
+3. Klicken Sie auf die Schaltfläche SPEICHERN.
+Das vorher befüllt Feld FREIGABE ZUM ist nach dem Speichern leer und das dort
+eingetragene Datum befindet sich nun in der Spalte FREIGABE.
+Der Schüler wird / die Schüler werden am Tag nach Erreichen des Freigabedatums
+31.07.XXXX ehemalig und sind einschließlich des Tages des Freigabedatums noch an
+Ihrer Schule aktiv.
+
+Abb. 41 Webseite Abgänger: Zukünftige Freigabe mehrerer Schüler zum Ende eines Schulhalbjahres
+
+Hinweis
+Sie können bereits in einem ersten Schulhabjahr das Freigabedatum des
+31.07. des zweiten Schulhalbjahres setzen und speichern.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+40
+
+10
+
+Überweisung von Schülern für externe Schulverhältnisse
+
+10.1
+
+Vorwissen
+Die Überweisung wird auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG
+durchgeführt.
+Ziel dieser Webseite ist es, ein zeitlich begrenztes Schulverhältnis (= Überweisung auf
+Zeit) eines an ihrer Schule aktiven Schülers anzulegen. Damit kann ihr Schüler
+zusätzlich zum Unterricht bei Ihnen auch am Unterricht einer anderen Schule (=externe
+Schule) teilnehmen. Dies ist zum Beispiel der Fall, wenn der Schüler externen Unterricht,
+Probeunterricht oder kooperative Angebote besucht.
+Sie erstellen hierfür ein externes Schulverhältnis. Es findet dabei kein Schulwechsel statt.
+Die Stammdatenrechte verbleiben damit bei Ihnen.
+Hinweis
+Schüler können von der externen Schule in deren UV-Planung verplant
+werden.
+Die externe Schule gibt die Daten für den dort stattfindenden Unterricht ein. Folglich setzt
+die externe Schule den Schüler in den oder die gewünschten Kurse hinein und pflegt immer
+die Kursnote/n eines externen Kurses welcher/welche bei ihr besucht wird/werden. Damit
+endet die Datenpflege der externen Schule.
+Diese Note kann von der Stammschule im laufenden Halbjahr nicht geändert werden. Sie
+wird mittels der LUSD an die Stammschule unter UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER im Register KURSNOTEN übermittelt und ausgegraut dargestellt.
+Im anschließenden Halbjahr können Noten der externen Schule auf der Seite HIST.
+LEISTUNGSDATEN von ihren Stammschulen geändert werden.
+Externer Unterricht kann auch an Schulen außerhalb Hessens stattfinden. Hierzu wählen
+Sie im Dialogfenster ÜBERWEISUNG HINZUFÜGEN in der Auswahlliste EXTERNE SCHULE* eine
+Schule aus einem anderen Bundesland oder aus dem Ausland. Schulen aus anderen
+Bundesländern oder dem Ausland fügen Sie ihrem Schulumfeld zuvor analog den
+hessischen Schulen unter SCHULE > SCHULUMFELD > SCHULEN hinzu.
+
+10.2
+
+Überweisung anlegen
+
+10.2.1 Bestehende Überweisungen prüfen
+Prüfen Sie zunächst, ob bereits eingetragene Überweisungen bestehen, indem Sie
+eingetragene Überweisungen aufrufen.
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG.
+2. Suchen Sie den oder die Schüler über die Schülersuche.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+41
+
+3. Zum Aufklappen der Informationen von bereits bestehenden Überweisungen klicken Sie
+auf das Dreieck, vor dem Namen des betreffenden Schülers oder bei mehreren Schülern
+auf das Dreieck im Tabellenkopf.
+
+Abb. 42 Webseite Überweisung: Dreieck im Tabellenkopf bei Mehrfachauswahl von Schülern
+
+10.2.2 Eine neue Überweisung hinzufügen
+Die Vorbedingung ist, dass unter SCHULE > SCHULUMFELD > SCHULEN alle Schulen aus
+Hessen, aus anderen Bundesländern und / oder dem Ausland ins Schulumfeld editiert
+wurden, die als Zielschule des externen Schulverhältnisses in Frage kommen.
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG.
+2. Suchen Sie den oder die Schüler über die Schülersuche.
+3. Klicken Sie in das Kontrollkästchen vor den Schülern, denen Sie dieselbe Überweisung
+hinzuzufügen möchten.
+4. Klicken Sie auf das Schaltsymbol HINZUFÜGEN.
+5. Es öffnet sich das Dialogfenster ÜBERWEISUNG HINZUFÜGEN.
+6. Geben Sie alle erforderlichen Daten ein.
+
+Abb. 43 Webseite Überweisung: Dialogfenster Überweisung hinzufügen
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+42
+
+Erklärungen zu möglichen Einträgen der Auswahllist Art der Überweisung
+Art der Überweisung
+
+Externer Unterricht
+
+Erläuterung
+
+Beispiel
+
+▪
+Ein Schüler nimmt zeitlich
+begrenzt oder kursbezogen an
+Unterricht an einer zweiten
+▪
+Schule teil.
+Dauer: begrenzt oder
+regelmäßig.
+
+▪
+Probeunterricht nach Ein Schüler nimmt zeitlich
+§ 9 VSOB
+befristet und zur Feststellung
+der Eignung am Unterricht teil,
+ohne bereits in die Schule
+▪
+aufgenommen zu sein.
+Dauer: Kurzfristig für Tage
+oder Wochen.
+
+Kooperationsklassen Schüler nehmen im Rahmen
+und kooperative
+eines organisierten
+Angebote an
+Schulverbunds oder einer
+allgemeinen Schulen Kooperation an bestimmten
+nach §19 VOSB
+Unterrichtsangeboten teilUnterricht im Schulverbund.
+
+Eine Schülerin des
+Gymnasiums A besucht einen
+Physik-LK am Gymnasium B.
+Ein Schüler der Berufsschule
+Marburg nimmt am EnglischFörderunterricht an der
+Beruflichen Schule Kirchhain
+teil.
+Ein Schüler einer Förderschule
+besucht 3 Wochen lang den
+gesamten Regelunterricht einer
+allgemeinbildenden Schule.
+Ein Schüler möchte aus dem
+Realschulzweig in den
+Gymnasialzweig wechseln und
+besucht den Unterricht 3 Tage
+lang vor
+Aufnahmeentscheidung.
+
+▪ Projekt „Technik trifft Kunst“:
+Kooperation zwischen
+Gesamtschule und
+Berufsschule.
+▪ Kooperative Berufsausbildung:
+Praxismodule bei PartnerSchule oder Firma.
+
+Dauer: Laufend z.B. 1-2 Kurse
+pro Woche.
+
+7. Klicken Sie auf das Schaltsymbol ÜBERNEHMEN und anschließend auf SPEICHERN.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+43
+
+Hinweis
+Bitte beachten Sie folgendes:
+▪ Eine Überweisung kann frühestens am morgigen Tag starten. Andernfalls
+erscheint eine Hinweismeldung: „Eine Überweisung darf frühestens
+morgen beginnen.“
+▪ An der externen Schule entsteht durch das Anlegen Ihrer Überweisung ein
+Aufgabenlisteneintrag unter der Regelgruppe ÜBERWEISUNG: „Externes
+Schülerverhältnis bezüglich [Art der Überweisung] für [Nachname,
+Vorname] zum Stichtag xx.xx.xxxx an Ihrer Schule angelegt.“. Hierüber
+weiß die Schule des externen Schulverhältnisses welcher/welche Schüler
+wann für zusätzlichen Unterricht an die externe Schule kommen wird.
+▪ Es können nicht mehrere zeitgleiche Überweisungen zur gleichen
+externen Schule erstellt werden. Hierbei ist es irrelevant, ob eine zweite
+Überweisung das gleiche Von* - Bis*-Datum enthält oder ein anderes.
+Ebenso zählt auch die Auswahl einer anderen Überweisungsart als der
+zuvor gewählten als zweite Überweisung zur externen Schule. Andernfalls
+erscheint eine Hinweismeldung: „Zu einer Schule darf nur eine
+Überweisung mit Bis-Datum in der Zukunft existieren. Betroffene Schüler:
+<Schülername>.“
+▪ Rückwirkende Überweisungen können nicht eingegeben werden.
+Andernfalls erscheint die Hinweismeldung: „Zu einer Schule darf nur eine
+Überweisung mit Bis-Datum in der Zukunft existieren. Betroffene Schüler:
+<Schülername>.“
+
+10.2.3 Eine bestehende Überweisung bearbeiten
+Bestehende Überweisungen können nur unter bestimmten Voraussetzungen bearbeitet
+werden:
+▪ Zukünftige Überweisungen (das Von*-Datum liegt in der Zukunft) können bearbeitet
+werden.
+▪ Aktive Überweisungen (das aktuelle Datum liegt zwischen dem Von*- und
+dem Bis*-Datum) können nur teilweise bearbeitet werden.
+▪ Abgelaufene Überweisungen können nicht bearbeitet werden. Diese Überweisungen
+werden aber weiterhin angezeigt.
+Gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG.
+2. Wählen Sie den oder die gewünschten Schüler über die Schülersuche aus.
+3. Suchen Sie den oder die Schüler über die Schülersuche.
+4. Rufen Sie die Informationen zur bestehenden Überweisung durch Klick auf das Dreieck
+auf wie in Kapitel 10.2.1 beschrieben. Bereits vorhandene Überweisungsverhältnisse
+des Schülers werden angezeigt.
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+44
+
+5. Klicken Sie auf die Überweisung, die Sie bearbeiten möchten (nicht auf den
+Schülernamen) und anschließend auf die Schaltfläche BEARBEITEN.
+
+Abb. 44 Webseite Überweisung: Datensatz der bearbeitet werden soll
+
+6. Ändern Sie das Datenfeld VON* oder BIS*.
+Hinweis
+Die Datenfelder ART DER ÜBERWEISUNG* und EXTERNE SCHULE* sind
+ausgegraut. Diese Überweisung kann lediglich gelöscht werden und neu
+erstellt werden mit anderen Daten.
+7. Klicken Sie auf ÜBERNEHMEN und anschließend auf SPEICHERN.
+
+10.2.4 Eine bestehende Überweisung löschen
+Bestehende Überweisungen können nur unter bestimmten Voraussetzungen gelöscht
+werden:
+▪ Zukünftige Überweisungen (das Von*-Datum liegt in der Zukunft) können gelöscht
+werden.
+▪ Aktive Überweisungen (das aktuelle Datum liegt zwischen dem Von*- und
+dem Bis*-Datum) können nicht gelöscht, sondern nur beendet werden. An der externen
+Schule erscheint dann der Aufgabenlisteneintrag „Das externe Schülerverhältnis zu
+[Nachname, Vorname] wurde nach Ablauf des Zeitraums beendet.“
+▪ Abgelaufene Überweisungen können nicht gelöscht werden.
+Gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG.
+2. Wählen Sie den oder die gewünschten Schüler über die Schülersuche aus.
+3. Suchen Sie den oder die Schüler über die Schülersuche.
+4. Rufen Sie die Informationen zur bestehenden Überweisung durch Klick auf das Dreieck
+auf wie in Kapitel 10.2.1 beschrieben. Bereits vorhandene Überweisungsverhältnisse
+des Schülers werden angezeigt.
+5. Klicken Sie auf die Überweisung, die Sie löschen möchten (nicht auf den Schülernamen)
+und anschließend auf die Schaltfläche LÖSCHEN.
+6. Klicken Sie anschließend auf SPEICHERN.
+
+10.2.5 Eine bestehende Überweisung beenden
+Sie können ausschließlich aktive Überweisungen (das aktuelle Datum liegt zwischen dem
+VON*- und dem BIS*-Datum) beenden.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+45
+
+Gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG.
+2. Wählen Sie den oder die gewünschten Schüler über die Schülersuche aus.
+3. Suchen Sie den oder die Schüler über die Schülersuche.
+4. Rufen Sie die Informationen zur bestehenden Überweisung durch Klick auf das Dreieck
+auf wie in Kapitel 10.2.1 beschrieben. Bereits vorhandene Überweisungsverhältnisse
+des Schülers werden angezeigt.
+5. Klicken Sie auf die Überweisung, die Sie beenden möchten (nicht auf den
+Schülernamen) und anschließend auf die Schaltfläche EXTERNES SCHÜLERVERHÄLTNIS
+BEENDEN. Das BIS*-Datum wird auf das aktuelle Datum eingestellt.
+6. Klicken Sie auf SPEICHERN.
+
+10.3
+
+Auswirkung einer Überweisung auf andere Webseiten
+Schüler, für die ein aktuelles oder zukünftiges externes Schulverhältnis (eine Überweisung)
+besteht, können auf der Seite ABGÄNGER nicht über die Zuweisung eines Freigabedatums
+aus der Vergangenheit EHEMALIG gesetzt werden. Das Speichern wird in diesem Fall
+verhindert.
+Wenn Schüler über die Mehrfachauswahl ehemalig gesetzt werden, bei denen für einen
+oder mehrere Schüler eine aktive Überweisung eingetragen ist, wird das Speichern für
+diese Schüler mit Überweisung verhindert. Für die Schüler ohne Überweisung wird ein
+entsprechendes Freigabedatum gesetzt.
+
+11
+
+Interner Schulformübergang
+Auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG finden Sie das
+Register INTER. SCHULFORMÜBERGANG. Über dieses Register können schulforminterne
+Übergänge von Schülern abgebildet werden.
+Der interne Schulformübergang wird verwendet, wenn ein Schüler die Schulform oder den
+Bildungsgang innerhalb der eigenen Schule wechselt, ohne dass ein Schulwechsel
+stattfindet, zum Beispiel der Wechsel eines NDHS-Schülers in die Regelschulform oder
+eine Querversetzung von der Realschule in die Hauptschule. Er ermöglicht sowohl sofortige
+als auch zukünftige Übergänge.
+Wird der Wechsel im laufenden Halbjahr durchgeführt, erfolgt die Umstellung unmittelbar
+und ohne Erzeugung eines Kandidatenverhältnisses. Erfolgt der Wechsel hingegen zum
+folgenden Halbjahr, legt das System ein Kandidatenverhältnis zur eigenen Schule an, und
+die Umsetzung findet zu einem späteren Zeitpunkt statt. Diese Funktion kommt
+typischerweise bei strukturellen oder förderbedingten Umstellungen zum Einsatz, etwa bei
+der Integration von NDHS-Schülern in eine Regelklasse oder bei Bildungsgangwechseln
+zwischen z.B. Haupt- und Realschule.
+Um den internen schulformübergang in der LUSD einzutragen, gehen Sie wie folgt vor:
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+46
+
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+
+Register INTERNER SCHULFORMÜBERGANG.
+2. Wählen Sie den Optionsschalter SCHÜLER aus und setzten Sie einen Haken im
+Kontrollkästchen vor AKTIVE. Klicken Sie auf das Schaltsymbol SUCHE.
+
+Abb. 45 Webseite Statusverwaltung: Schülersuche
+
+3. Suchen Sie den oder die gewünschten Schüler anhand des Nachnamens, der
+Schulform, der Stufe oder der Klasse und übernehmen Sie einen oder mehrere
+Datensätze auf die Webseite.
+4. Markieren Sie einen oder mehrere Datensätze die die gleichen Zieldaten erhalten sollen.
+5. Im Dialogfenster INFORMATIONEN ZUM ÜBERGANG wählen Sie das gewünschte Halbjahr,
+die Wunschschulform, und die Wunschstufe.
+
+Abb. 46 Webseite Statusverwaltung: Informationen zum Übergang
+
+Das Aufnahmedatum wird bei Übergängen in zukünftige Halbjahre automatisch auf den
+ersten Tag des gewählten Halbjahres gesetzt. Beim Setzen eines Hakens im
+Kontrollkästchen vor AKTUELLES HALBJAHR wird das Tagesdatum gesetzt. In beiden
+Fällen ist das Aufnahmedatum manuell änderbar.
+Hinweis
+Benötigte Schulformen erstellen Sie auf der Webseite SCHULE >
+SCHULBASISDATEN > SCHULFORMEN.
+6. Klicken Sie auf ÜBERNEHMEN und anschließend auf SPEICHERN.
+Je nach Umsetzungszeitpunkt und Bedingungen wirkt sich der interne Schulformübergang
+in der LUSD unterschiedlich aus:
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+47
+
+Bedingung
+
+Auswirkung
+
+Wechsel im aktuellen
+Halbjahr
+
+▪ sofortiger Übergang
+▪ Schullaufbahneintrag wird angepasst
+▪ kein Kandidatenverhältnis
+
+Wechsel im
+kommenden Halbjahr
+
+▪ Kandidatenverhältnis zur eigenen Schule
+▪ Umsetzung erfolgt zum Halbjahreswechsel
+
+Schüler ist
+Klassenmitglied
+
+▪ Klassenzugehörigkeit geht verloren
+▪ Schüler muss neu zugeordnet werden
+
+Kursteilnahmen
+bestehen
+
+▪ nur schulformübergreifende Kurse bleiben bestehen
+
+Wechsel von „Note“ zu ▪ Noten der bestehenden Kurse dieses Halbjahres werden auf
+„Punkte“ oder
+NV gesetzt.
+umgekehrt
+
+Hinweis
+Bitte beachten Sie:
+▪ Nach dem Wechsel erfolgt keine automatischer Kurs- oder
+Klassenzuordnung. Diese Zuordnungen müssen manuell erfolgen.
+▪ Der Wechsel innerhalb des Schuljahres führt zum sofortigen Verlust von
+Klassenzuordnung und Klassenkursen.
+▪ Das Register eignet sich auch zur Bearbeitung mehrerer Schüler
+gleichzeitig (z. B. Übergang 4-5 an der eigenen Schule).
+▪ Die Option steht ausschließlich für den Wechsel innerhalb der eigenen
+Schule zur Verfügung. Bei Schulwechsel ist stattdessen das
+Kandidatenverfahren mit Freigabe und Aktivierung zu nutzen.
+
+HMKB | LUSD | Kandidatenverfahren | Version: 1.0 | Letzter Stand: 11.02.2026
+
+48
+
+

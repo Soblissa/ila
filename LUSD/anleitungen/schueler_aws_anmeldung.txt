@@ -1,0 +1,518 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Anmeldung von Schülern an
+weiterführenden Schulen (AWS)
+
+Version: 4.1
+Letzter Stand: 07.07.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+2
+
+Inhalt dieses Dokuments ................................................................................................................ 2
+Zielgruppe ...................................................................................................................................... 2
+Vorausgesetzte Kenntnisse ............................................................................................................ 2
+LUSD-Anwenderunterstützung ....................................................................................................... 3
+
+Anmeldung von Schülern an weiterführenden Schulen (AWS)
+1
+
+4
+
+Die Erhebung AWS ............................................................................................................... 4
+1.1
+
+Zweck der Erhebung .................................................................................................... 4
+
+1.2
+
+Inhalt der Erhebung ...................................................................................................... 4
+
+1.3
+
+Zeitpunkt der Erhebung ................................................................................................ 5
+
+1.4
+
+Allgemeine Hinweise zur AWS-bezogenen Datenpflege .............................................. 5
+
+2
+
+Schulformübergang an weiterführende Schulformen in der eigenen Schule .......................... 6
+
+3
+
+Schulwechsel und Schulformwechsel an andere Schulen in Hessen .................................... 8
+
+4
+
+Schulwechsel an Schulen außerhalb Hessens oder ins Ausland ......................................... 10
+
+5
+
+Nicht-Versetzung der Schülerinnen und Schüler erfassen ................................................... 12
+
+6
+
+Eignung der Schülerinnen und Schüler erfassen ................................................................. 12
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Statusverwaltung: Register Interner Schulformübergang ..................................... 7
+Abb. 2 Webseite Abgänger: Register Aktive ................................................................................... 8
+Abb. 3 Webseite Abgänger: Wechsel des Bundeslandes ............................................................. 10
+Abb. 4 Webseite Abgänger: Freigabe zum 31.07. ........................................................................ 10
+Abb. 5 Dialogfenster: Wunsch-Schule hinzufügen ........................................................................ 11
+Abb. 6 Automatische Einträge ...................................................................................................... 11
+Abb. 7 Webseite Qualifikationen: Register Eignung / Abschlüsse / Berufe ................................... 12
+Abb. 8 Webseite Schüler: Register Versetzung/Eignung .............................................................. 12
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten
+Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Die vorliegende Anleitung beschreibt fallbezogen die Arbeitsschritte zur Anmeldung von Schülern
+an weiterführende Schulen (AWS).
+Dazu gehören:
+▪ die Einrichtung von Kandidatenverfahren an andere Schulen (siehe Kapitel 3).
+▪ die Eintragung von internen Schulformübergängen an der eigenen Schule (siehe Kapitel 2).
+▪ die Eintragung von Schulwechsel an Schulen außerhalb Hessens oder Schulen, die nicht mit der
+LUSD arbeiten (siehe Kapitel 4).
+Zwar werden die Übergänge für Abgänger aus den allgemeinbildenden Schulen an Berufliche
+Schulen – außer an Berufliche Gymnasien – nicht von der AWS-Erhebung erfasst, dennoch müssen
+auch diese Übergänge, zu den jeweiligen Stichtagen der Anmeldung, in der LUSD eingetragen
+werden.
+Hinweis
+Bitte beachten Sie bei Ihrer Datenpflege den aktuellen Erlass zur jährlich stattfindenden
+Erhebung Anmeldungen an weiterführende Schulen – AWS.
+
+Zielgruppe
+Diese Anleitung richtet sich an LUSD-Benutzer, die an allgemeinbildenden Schulen (außer
+Förderschulen) voraussichtliche Übergänge von Schülern in andere allgemeinbildende Schulen und
+Schulformen erfassen.
+
+Vorausgesetzte Kenntnisse
+Basiskenntnisse im Umgang mit der LUSD sowie Kenntnisse zum Schülermanagement werden
+vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+2
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot
+rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+3
+
+Anmeldung von Schülern an weiterführenden Schulen (AWS)
+1
+
+Die Erhebung AWS
+
+1.1
+
+Zweck der Erhebung
+Zweck der AWS-Erhebung ist die Erfassung der voraussichtlichen Übergänge von Schülern
+in andere allgemeinbildende Schulen und Schulformen. Sie dient der Kultusverwaltung als
+Informations- und Planungsbasis, insbesondere für die Schulentwicklungsplanung.
+
+1.2
+
+Inhalt der Erhebung
+Folgende Daten der allgemeinbildenden Schulen (außer Förderschulen) zu
+voraussichtlichen Übergängen in andere Schulen oder Schulformen werden im Rahmen der
+AWS-Erhebung erhoben:
+
+Voraussichtliche Übergänger …
+
+Ergänzende Informationen
+
+▪ aus der Jahrgangsstufe 4 der Grundschule in die
+Dabei müssen die
+Jahrgangsstufe 5 einer allgemeinbildenden
+Elternwünsche, in welche
+Schulform.
+Schule und Schulform der
+Übergang erfolgen soll, mit den
+Schüler der Schulform NDHS/PS sind nicht Teil der
+entsprechenden Prioritäten
+AWS-Erhebung und werden daher auch nicht in den
+eingetragen werden.
+Berichten AWS Namen und AWS Zahlen aufgeführt.
+▪ aus der Jahrgangsstufe 6 der Förderstufe in die
+Jahrgangsstufe 7 einer allgemeinbildenden
+Schulform, unabhängig davon, ob dabei ein
+Schulwechsel stattfindet.
+▪ aus der Jahrgangsstufe 6 einer
+allgemeinbildenden Schulform in die
+Jahrgangsstufe 7 mit einem Schul- oder
+Schulformwechsel.
+▪ aus den Jahrgangsstufen 9 des 8-jährigen
+Gymnasiums und den Jahrgangsstufen 10 der
+übrigen allgemeinbildenden Schulformen mit
+dem Ziel des Übergangs in die Einführungsphase
+der gymnasialen Oberstufe oder des beruflichen
+Gymnasiums, wenn dieser Übergang mit einem
+Schul- oder Schulformwechsel verbunden ist.
+
+In der LUSD sind die Elternbzw. Schülerwünsche mit den
+entsprechenden Prioritäten
+einzutragen.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+4
+
+Achtung
+Voraussichtliche Übergänge aus abschlussbezogenen IGS-Klassen der
+Jahrgangsstufe 10 sind im aktuellen Schuljahr mit der Schulform IGS zu führen.
+Hinweis
+▪ Schüler der Schulform NDHS/PS sind nicht Teil der AWS-Erhebung und werden
+daher auch nicht in den Berichten AWS Namen und AWS Zahlen aufgeführt.
+▪ Für die an der Schule verbleibenden Schüler der Schulform Gymnasium (9jährig, GYM) ist beim Übergang in die Einführungsphase der gymnasialen
+Oberstufe KEINE Kennzeichnung in LUSD nötig.
+
+1.3
+
+Zeitpunkt der Erhebung
+Die Erhebungsdaten werden direkt, zu dem per Erlass angekündigten Stichtag (etwa Mitte
+März) aus der LUSD abgezogen:
+Die Daten müssen in der LUSD, laut den zutreffenden Verordnungen, bis zu folgenden
+Terminen eingetragen werden:
+▪ 1. März: Übergänge in die Einführungsphase der gymnasialen Oberstufe (GYM und
+BGYM) (OAVO).
+▪ 5. März: Übergänge aus der Jahrgangsstufe 4 der Grundschule und aus der
+Jahrgangsstufe 6 der allgemeinbildenden Schulformen (Verordnung zur Gestaltung des
+Schulverhältnisses).
+Hinweis
+Die Staatlichen Schulämter können die in der LUSD eingetragenen Daten in dem
+Programm LUSDIK (ohne Schülernamen) sehen und so fehlende oder fehlerhafte
+Einträge für die betroffenen Jahrgangsstufen erkennen.
+Auf dieser Basis fordern Sie die Schulen u.U. zu Korrekturen bzw. Ergänzungen
+auf.
+
+1.4
+
+Allgemeine Hinweise zur AWS-bezogenen Datenpflege
+▪ Tragen Sie bei der Anlage der Kandidatenverfahren und der geplanten internen
+Schulformübergänge die Elternwünsche mit entsprechenden Prioritäten ein.
+▪ Ausgewertet werden auch die Versetzungen an allen allgemeinbildenden Schulen in der
+bisherigen Schulform. In diesen Fällen müssen Sie keine zusätzlichen Daten pflegen!
+▪ Die Statistik geht davon aus, dass Schüler, für die kein interner Schulformübergang und
+kein Kandidatenverhältnis zu einer anderen Schule angelegt worden ist, in der bisherigen
+Schulform versetzt werden.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+5
+
+Hinweis
+Wollen Sie einen einmal eingetragenen internen Schulformübergang
+nachträglich korrigieren, da Sie z. B. für einen Schüler irrtümlich die falsche
+Schulform eingetragen haben, können Sie diese Korrektur auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN durchführen, indem
+Sie Zielschulform, -stufe und -halbjahr nachträglich ändern.
+
+2
+
+Schulformübergang an weiterführende Schulformen in der eigenen Schule
+Folgende Übergänge an weiterführende Schulformen in der eigenen Schule sind für die
+Datenpflege zur AWS-Erhebung relevant:
+▪ Grundschule von Stufe 4
+▪ Förderstufe 6
+▪ IGS Stufe 10
+
+nach Stufe 5 (z. B. an einer GHRS)
+nach 7 (z. B. an einer KGS)
+an Einführungsphase in eigener Oberstufe
+
+▪ R Stufe 10
+▪ GYM8 Stufe 9
+
+an Einführungsphase in eigener Oberstufe
+an Einführungsphase in eigener Oberstufe.
+
+Diese sogenannten Internen Schulformübergänge bilden Sie in der LUSD auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG im Register INTERNER
+SCHULFORMÜBERGANG ab.
+Tipp
+Informationen zur Durchführung eines internen Schulformübergangs finden
+Sie in der LUSD-Hilfe.
+Klicken Sie hierzu auf der Webseite STATUSVERWALTUNG auf die Schaltfläche
+.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+6
+
+Abb. 1 Webseite Statusverwaltung: Register Interner Schulformübergang
+
+Hinweis
+Die Schüler mit internem Schulformübergang
+▪ sind im aktuellen Schulhalbjahr weiterhin aktive Schüler in ihrer aktuellen
+Schulform.
+▪ haben gleichzeitig für das eingetragene Ziel-Halbjahr den Kandidaten-Status:
+angenommene Kandidaten mit der entsprechenden Zielschulform und
+Zielstufe.
+
+Tipp
+Wenn Sie einen Bericht zu allen Schülern mit internem Schulformübergang
+ausdrucken möchten, wählen Sie im oberen Bereich der Webseite aus der
+Auswahlliste den Bericht SCHULINTERNE KANDIDATEN aus und klicken Sie auf
+.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+7
+
+3
+
+Schulwechsel und Schulformwechsel an andere Schulen in Hessen
+Folgende Übergänge an andere weiterführende Schulen sind für die Datenpflege zur AWSErhebung relevant:
+▪ Von der Grundschule
+▪ Von der Förderstufe 6
+▪ Von der Stufe 6
+▪
+▪
+▪
+▪
+
+Von der IGS Stufe 10
+Von R Stufe 10
+Von GYM8 Stufe 9
+Von GYM Stufe 10
+
+an eine andere weiterführende Schule von Stufe 4 nach 5
+nach Stufe 7 einer anderen Schule
+nach Stufe 7 einer anderen Schule mit oder ohne
+Schulformwechsel
+an die Oberstufe einer anderen Schule
+an die Oberstufe einer anderen Schule
+an die Oberstufe einer anderen Schule
+an die Oberstufe einer anderen Schule
+
+Die Schul- und Schulformwechsel an andere Schulen in Hessen bilden Sie in der LUSD auf
+der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER ab, indem Sie ein
+Kandidatenverhältnis oder mehrere Kandidatenverhältnisse für die betroffenen Schüler
+anlegen.
+Tipp
+Informationen zum Anlegen eines Kandidatenverfahrens für Abgänger finden
+Sie in der LUSD-Hilfe.
+Klicken Sie hierzu auf der Webseite ABGÄNGER auf die Schaltfläche
+
+.
+
+Abb. 2 Webseite Abgänger: Register Aktive
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+8
+
+Hinweis
+Der Eintrag im Feld EIGNUNG wird von der Webseite UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER - Register Versetzung/Eignung (siehe Kapitel
+6) automatisch übernommen.
+Als STICHTAG wird automatisch das aktuelle Datum eingetragen. Der Stichtag
+ist der Tag, an dem der Kandidatenwunsch bei der Wunschschule sichtbar wird.
+Die Einträge im Bereich BISHERIGE SPRACHEN werden von der Webseite
+SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN automatisch übernommen.
+
+Hinweis
+Sie können für einen Schüler
+▪ mehrere Kandidatenverhältnisse zu verschiedenen Schulen anlegen.
+▪ für eine Wunschschule mehrere Wunsch-Schulformen eintragen.
+Dies kann z. B. beim Übergang in eine KGS oder eine berufliche Schule
+relevant sein, wenn unklar ist, welche Eignung der Schüler am Ende des
+Schuljahres erlangen wird.
+
+Achtung
+Die AWS-Erhebung wertet nur die Kandidatenverhältnisse mit der Priorität 1
+aus.
+Geben Sie die Priorität 1 deshalb der Wunschschule - und ggf. der
+Wunschschulform - zu der der Schüler als Erstwunsch wechseln möchte.
+
+Tipp
+Zum Ausdrucken vom Bericht von allen Abgängern zu anderen Schulen:
+▪ Wählen Sie im oberen Bereich der Webseite aus der Auswahlliste den
+Bericht ÜBERSICHT SCHÜLER (ABGEBENDE SCHULE) aus und klicken Sie auf
+.
+Zum Ausdrucken vom Bericht über die Abgänger bezogen auf einen AWSrelevanten Übergang:
+▪ Wählen Sie im oberen Bereich der Webseite aus der Auswahlliste den
+Bericht ANMELDUNG WEITERFÜHRENDE SCHULEN (ZAHLEN) oder ANMELDUNG
+WEITERFÜHRENDE SCHULEN (NAMEN) aus
+▪ Wählen Sie die gewünschten Parameter bezüglich des Übergangs und der
+Anzeige der Prioritäten aus und klicken Sie auf
+
+.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+9
+
+4
+
+Schulwechsel an Schulen außerhalb Hessens oder ins Ausland
+Achtung
+Wechselt ein Schüler an eine Schule außerhalb Hessens oder ins Ausland, so kann
+das über ein spezielles Kandidatenverhältnis abgebildet werden.
+Diesen Schulwechsel an eine andere Schule außerhalb Hessens bilden Sie in der LUSD auf
+der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER ab.
+
+Abb. 3 Webseite Abgänger: Wechsel des Bundeslandes
+
+Diese Eintragung können Sie folgendermaßen vornehmen:
+1. Haken Sie den oder die betroffenen Schüler an
+2. Geben Sie im Feld FREIGABE ZUM das Datum des letzten Schultages ein.
+Das ist bei einem Wechsel zum kommenden Schuljahr der 31.07. des aktuellen
+Schuljahres.
+
+Abb. 4 Webseite Abgänger: Freigabe zum 31.07.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+10
+
+3. Wechselt der Schüler im aktuellen Halbjahr sofort an eine Schule außerhalb Hessens oder
+an eine Schule, die nicht mit der LUSD arbeitet, oder ins Ausland.
+4. Klicken Sie auf die Schaltfläche
+
+und dann auf
+
+.
+
+Der Schüler ist dann am nächsten Tag ein Ehemaliger.
+5. Klicken Sie anschließend auf das Schaltsymbol WUNSCH-SCHULE HINZUFÜGEN.
+Es öffnet sich das Dialogfenster Wunsch-Schule hinzufügen.
+
+Abb. 5 Dialogfenster: Wunsch-Schule hinzufügen
+
+6. Klicken Sie in diesem Dialogfenster in das Kontrollkästchen WECHSEL BUNDESLAND.
+Hierdurch erscheinen im Feld WUNSCH-SCHULE, W-SF* und im Feld W-ST/SEM*
+unveränderliche Einträge (Sternchen). Das Feld PRIORITÄT muss, das Feld W-SPRACHE
+kann bearbeitet werden.
+
+Abb. 6 Automatische Einträge
+
+7. Klicken Sie auf die Schaltfläche
+auf der Seite zu übernehmen.
+8. Klicken Sie auf die Schaltfläche
+Freigabedatum zu speichern.
+
+, um den Eintragswechsel des Bundeslands
+, um den Eintrag zusammen mit dem
+
+Dieser Wechsel des Bundeslands wird Ihnen dann auch in den AWS-Berichten (s.o.)
+angezeigt.
+Hinweis
+Für die Erhebung spielt es keine Rolle, ob die Schüler ins Ausland oder in ein
+anderes Bundesland wechseln. Deswegen kann das Kontrollkästchen WECHSEL
+BUNDESLAND auch für Schüler, die ins Ausland wechseln, verwendet werden. Ggf.
+gibt es noch eine Änderung, dass das Kontrollkästchen umbenannt wird in Wechsel
+Bundesland/Ausland.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+11
+
+5
+
+Nicht-Versetzung der Schülerinnen und Schüler erfassen
+Sollte zum Zeitpunkt der Erhebung schon feststehen, dass Schüler die Jahrgangsstufe
+wiederholen werden, so tragen Sie auf der SEITE UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER im Register VERSETZUNG/EIGNUNG im Feld VERSETZUNG nein ein. Im diesem Fall
+brauchen Sie kein Kandidatenverhältnis zu erfassen. Die betroffenen Datensätze werden dann
+in den AWS-Berichten der Schulen und auch der Schulämter als Wiederholer gelistet.
+
+6
+
+Eignung der Schülerinnen und Schüler erfassen
+Die Eignung eines übergehenden Schülers wird von der AWS-Erhebung nicht erfasst. Sie ist
+für die aufnehmenden Schulen aber ein wichtiger Hinweis, ob der Schüler aufgenommen
+werden kann.
+Tragen Sie die Eignung deshalb ein, sofern sie zum Zeitpunkt der Anlage des/der Kandidatenverhältnisse/s bereits feststeht, z. B. beim Übergang von der Grundschule in weiterführende
+Schulen.
+Die Eignung von Schülern können Sie in der LUSD erfassen …
+▪ im Feld LETZTE FESTGESTELLTE EIGNUNG auf der Webseite SCHÜLER > SCHÜLERBASISDATEN
+
+> QUALIFIKATIONEN - Register EIGNUNG / ABSCHLÜSSE / BERUFE.
+
+Abb. 7 Webseite Qualifikationen: Register Eignung / Abschlüsse / Berufe
+
+▪ im Feld LETZTE FESTGESTELLTE EIGNUNG auf der Webseite UNTERRICHT >
+
+LEISTUNGSERFASSUNG > SCHÜLER - Register VERSETZUNG/EIGNUNG.
+
+Abb. 8 Webseite Schüler: Register Versetzung/Eignung
+
+Hinweis
+Eignungen können auch global mit dem externen Notenclient ENC erfasst
+werden. Eine detaillierte Beschreibung hierzu finden Sie im Handbuch Von
+der Leistungserfassung bis zum Zeugnis.
+
+HMKB | LUSD | Anmeldung von Schülern an weiterführenden Schulen (AWS) | Version: 4.1 | Letzter Stand: 07.07.2025
+
+12
+
+

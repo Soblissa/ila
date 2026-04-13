@@ -1,0 +1,454 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Vergabekonzept von Rollen und
+Berechtigungen
+Konzept zur Erstellung und Pflege von Berechtigungen für Schulleiterinnen
+und Schulleiter
+
+Version: 2.3
+Letzter Stand: 23.02.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt und Zielgruppe dieses Dokuments ........................................................................................ 4
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Vergabekonzept von Rollen und Berechtigungen
+
+6
+
+1
+
+Funktionen innerhalb der Schule ........................................................................................... 6
+
+2
+
+Vergabe von Rollen und Berechtigungen .............................................................................. 7
+2.1
+
+Beauftragte für die Administration LUSD-Benutzerverwaltung der Schule .................... 7
+
+2.2
+
+Dokumentation aktueller LUSD-Benutzerprofile ........................................................... 8
+
+2.3
+
+Benutzern Benutzerprofile zuweisen / entziehen ........................................................ 10
+
+2.4
+
+Tabellarische Aufstellung der Berechtigungen von LUSD-Benutzer ........................... 10
+
+2.5
+
+Freigabe ..................................................................................................................... 11
+
+Abbildungsverzeichnis
+Abb. 1 Bericht Personal-Benutzerrollen-Aktiv ................................................................................11
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+3
+
+Zu diesem Dokument
+Inhalt und Zielgruppe dieses Dokuments
+Dieses Dokument unterstützt die Schulleitung bzw. die beauftragten Funktionsträger bei der
+Erstellung und bei der kontinuierlichen Pflege der Berechtigungen.
+Zu dieser Anleitung existieren zwei entsprechende Muster, in denen die Eintragungen
+entsprechend der Anleitung vorgenommen werden können:
+▪ Muster Benutzerprofile in unserer Schule.docx
+▪ Muster Funktionen und Aufgaben in unserer Schule.docx
+Das Konzept zur Vergabe von Rollen und Berechtigungen sowie deren Zuordnungen sollte zum
+Anfang eines jeden Schuljahres durch die Schulleitung überprüft und ggf. aktualisiert werden.
+Die Schule ist nach den datenschutzrechtlichen Bestimmungen verantwortliche Stelle nach der
+Datenschutz-Grundverordnung (DSGVO) und sie wird durch die Schulleitung in Person von der
+Schulleiterin oder des Schulleiters vertreten.
+Die Schulleiterin oder der Schulleiter ist Vorgesetze oder Vorgesetzter im Rahmen der
+Verwaltungsaufgaben und weisungsbefugt (§ 15 Abs. 2 der Dienstordnung für Lehrkräfte,
+Schulleiterinnen und Schulleiter und sozialpädagogische Mitarbeiterinnen und Mitarbeiter).
+Nach Art. 5 Abs. 1 Buchst. f DS-GVO (Grundsätze der Datenverarbeitung) und Art. 32 Abs. 1
+Buchst. b DS-GVO (Sicherheit der Verarbeitung) hat die Schulleitung in Person von der
+Schulleiterin oder des Schulleiters als Verantwortliche technische und organisatorische
+Maßnahmen zu treffen und zu gewährleisten, welche die Vertraulichkeit und Integrität der
+Verarbeitung von personenbezogenen Daten in der LUSD der jeweiligen Schule sicherstellen. Zu
+solchen Maßnahmen zählt u.a. ein rechtskonformes Konzept zur Vergabe von Rollen und
+Berechtigungen, dass die Datenzugriffe und Datenverarbeitungen auf den erforderlichen
+Personenkreis und den erforderlichen Datenumfang beschränkt.
+Die Rollen- und Berechtigungsvergabe ist restriktiv vorzunehmen und beruht auf den Funktionen,
+die durch eine Person ausgeübt werden. Bei Veränderungen (Ausführung anderer Funktionen,
+Verlassen der Schule, etc.) sind die vergebenen LUSD-Berechtigungen sowie die LUSDBenutzerkonten dieser Person zu prüfen und ggf. anzupassen oder zu löschen.
+Für die Datenpflege der LUSD Benutzerverwaltung steht Ihnen die Anleitung Benutzerverwaltung
+in der LUSD zur Verfügung.
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+4
+
+Hinweis
+Bitte beachten Sie, dass im folgenden Dokument kursiv geschriebene
+Inhalte…
+▪ wichtige Arbeitshinweise oder
+▪ Ausfüllhilfen für die Muster, Vorschläge und Beispiele, die Sie ändern
+können
+sind.
+Alle weiteren Eintragungen in den Tabellen sind seitens der LUSD
+vorgegeben.
+
+Vorausgesetzte Kenntnisse
+Als Kenntnisse wird die Vergabe von Berechtigungen in der LUSD vorausgesetzt.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+5
+
+Vergabekonzept von Rollen und Berechtigungen
+1
+
+Funktionen innerhalb der Schule
+Die Schulleiterin oder der Schulleiter legt neben dem LUSD-Administrator folgende
+Funktionen fest. Die Funktion LUSD-Administrator ist abschließend beschrieben.
+1. Tragen Sie die weiteren Funktionen der Schule in das Muster Funktionen und Aufgaben
+in unserer Schule.docx (vgl. Kapitel 1) ein.
+Hinweis zur Tabelle
+Die kursiv geschriebenen Funktionen sind Beispiele, die keinen Anspruch auf
+Vollständigkeit erheben, Ihnen jedoch die Systematik verdeutlichen sollen.
+
+Funktion
+
+LUSD-Administrator
+
+Aufgaben in der LUSD
+
+▪ Anlegen, Bearbeiten und Löschen von LUSD-Benutzern
+▪ Überwachung, der automatischen Zu- und Abgänge der
+LUSD-Benutzer und ggf. aktiveren
+▪ Anlegen, Bearbeiten und Löschen der schuleigenen LUSDBenutzerprofile
+▪ Benutzern LUSD-Benutzerprofile zuweisen oder entziehen
+▪ Administratorpasswort eines anderen LUSD-Administrators
+zurücksetzen (dies ist nur für Zugang über das HSVN
+relevant. Benutzer können beim Schul-ID Hessen Zugang
+über den Selfservice Ihr Passwort selbst zurücksetzten)
+▪ Passwort eines Benutzers zurücksetzen (dies ist nur für
+Zugang über das HSVN relevant. Benutzer können beim
+Schul-ID Hessen Zugang über den Selfservice Ihr Passwort
+selbst zurücksetzten)
+
+Schulleiterin /
+Schulleiter
+UV-Planung
+Abteilungsleitung
+Fachbereichsleitung
+
+Lehrkraft Kurs
+
+▪ Erfassen, Bearbeiten und Löschen von Kursnoten
+▪ Lesen des eigenen Kursplans
+▪ Ausdrucken von Kurslisten
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+6
+
+Funktion
+
+Lehrkraft Klasse
+
+Sekretariat
+
+Aufgaben in der LUSD
+
+▪ Erfassen, Bearbeiten und Löschen von Leistungen
+▪ Erfassen, Bearbeiten und Löschen von Kopfnoten
+▪ Erfassen, Bearbeiten und Löschen Schullaufbahn
+▪ Erfassen, Bearbeiten und Löschen von Personenstammdaten
+
+Weitere Funktion
+
+2
+
+Vergabe von Rollen und Berechtigungen
+Entsprechend des Geschäftsverteilungsplans der Schule und der zugeordneten Funktionen
+sowie der darin enthaltenen Aufgaben sollte die Rollen- und Berechtigungsvergabe in der
+LUSD wie folgt umgesetzt werden:
+▪ Beauftragte für die Administration LUSD-Benutzerverwaltung der Schule (siehe
+Kapitel 2.1).
+▪ Dokumentation aktueller LUSD-Benutzerprofile (siehe Kapitel 2.2).
+▪ Benutzern der Schule die LUSD-Benutzerprofile zuweisen / entziehen (siehe
+Kapitel 2.3).
+
+2.1
+
+Beauftragte für die Administration LUSD-Benutzerverwaltung der Schule
+In der folgenden Tabelle sind die Aufgaben im Bereich BENUTZER, BENUTZERPROFILE und
+PASSWORT beschrieben.
+1. Tragen Sie die weiteren Funktionen der Schule in das Muster Funktionen und Aufgaben
+in unserer Schule.docx (vgl. Kapitel 1) ein.
+Hinweis zur Tabelle
+Die kursiv geschriebenen Funktionen sind Beispiele, die keinen Anspruch auf
+Vollständigkeit erheben, Ihnen jedoch die Systematik verdeutlichen sollen.
+Beachten Sie auch die untenstehenden Erläuterungen zu den einzelnen
+Einträgen.
+
+Aufgabe
+
+Anlegen
+Benutzer
+
+Name/n
+
+Vertreter/in
+
+Emil Mustermann
+
+Vera Musterfrau
+
+Gültigkeit bearbeiten
+Aktiv oder inaktiv setzen
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+7
+
+Aufgabe
+
+Name/n
+
+Vertreter/in
+
+Löschen
+Anlegen / bearbeiten /
+löschen
+Benutzerprofile
+
+Zuweisen
+Entziehen
+
+Passwort
+
+Eines anderen
+Administrators
+zurücksetzen
+Eines Benutzers
+zurücksetzen
+
+Weitere
+Aufgabe
+
+Erläuterungen zu:
+▪ Benutzer anlegen: Für Personal mit SAP-Nummer wird automatisch ein Benutzer
+angelegt. Diese Benutzer sind initial deaktiviert und das Benutzerprofil „Initiale Lehrkraft“
+ist zugeordnet, welches nicht entzogen werden kann.
+▪ Benutzer aktiv oder inaktiv setzen: Wenn dem Personal die SAP-Nummer entzogen
+wird, wird der LUSD Benutzer automatisch deaktiviert und das Gültigkeitsdatum wird
+tagesaktuell neu gesetzt.
+▪ Benutzer löschen: Wird Personal inaktiv gesetzt, wird der LUSD-Benutzer automatisch
+gelöscht.
+
+2.2
+
+Dokumentation aktueller LUSD-Benutzerprofile
+Die folgende Tabelle zeigt die Benutzerprofile der Schule, die über die Schulleiterin oder
+den Schulleiter freigegeben wurden bzw. seitens des HMKB vorgegeben wurden. Die
+Tabelle dokumentiert, welche Elementarrollen dem jeweiligen Benutzerprofil zugewiesen
+sind, über die der lesende und schreibende (inkl. löschende) Zugriff auf die einzelnen
+LUSD-Webseiten gesteuert wird.
+1. Tragen Sie weitere Benutzerprofile im Muster Benutzerprofile in unserer Schule.docx
+(vgl. Kapitel 1) ein
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+8
+
+Hinweis zur Tabelle
+▪ Für die Datenpflege der LUSD Benutzerprofile steht ihnen die Tabelle
+Zuordnung Webseiten zu Elementarrollen.xlsx zur Verfügung. Diese
+Zuordnung der Webseiten zu den Elementarrollen wird seitens des HMKB
+gepflegt. Änderungen in den Zuordnungen werden über die ReleaseInformationen bekannt gegeben.
+▪ Die Benutzerprofile z.B. INITIALE LEHRKRAFT, KONFIGURATION
+LEISTUNGSERFASSUNG und HMKB SCHULLEITER/IN sind LUSD-seitig
+vorgegeben und können von Ihnen nicht gelöscht werden. Lassen Sie
+diese Profile in ihrer Tabelle unverändert. Werden seitens des HMKB neue
+Elementarrollen und nicht editierbare Benutzerprofile in der LUSD ergänzt,
+aktualisieren Sie bitte die tabellarische Übersicht der Benutzerprofile Ihrer
+Schule (Muster Benutzerprofile in unserer Schule.docx)
+▪ Die die Tabelle und die kursiv geschriebenen Inhalte sind Beispiele, die in
+diesem Dokument keinen Anspruch auf Vollständigkeit erheben, jedoch
+die Systematik verdeutlichen sollen.
+
+Benutzerprofile
+Elementarrollen
+Alle Webseiten
+bearbeiten
+
+Initiale
+
+Konfiguration
+
+Lehrkraft
+
+Leitungserfassung Schulleiter/in
+
+(Kann nicht
+gelöscht werden)
+
+(Kann nicht gelöscht
+werden)
+
+HMKB
+(Kann nicht gelöscht
+werden)
+
+(…)
+
+(…)
+
+weitere HMKB
+Benutzerprofile
+
+weitere
+schulische
+Benutzerprofile
+
+X
+
+Bearbeiter Datenaustauschverwaltung
+Bearbeiter
+Personaldaten
+(Schule)
+Bearbeiter
+Schuldaten
+Bearbeiter Schüler
+
+Bearbeiter Schülerkandidaten
+Bearbeiter
+Schullaufbahnentscheidungen
+(…)
+weitere HMKB
+Elementarrollen
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+9
+
+2.3
+
+Benutzern Benutzerprofile zuweisen / entziehen
+Folgende Gründe führen dazu, dass an der Schule ein Benutzerprofil entzogen wird:
+▪ Verlassen der Schule
+▪
+▪
+▪
+▪
+
+Beendigung des Arbeitsverhältnisses
+Pensionierung
+Ende des Referendariats
+Ende der Abordnung
+
+Sobald das Verlassen des Schulpersonals in SAP abgebildet ist, wird der LUSDBenutzer automatisch deaktiviert. In der LUSD Benutzerverwaltung bleibt der LUSDBenutzer bestehen bis dieser manuell gelöscht wird.
+Zudem wird jeder LUSD-Benutzer automatisch gelöscht, sobald er als Personal in der
+LUSD auf inaktiv gesetzt wird.
+▪ Rollen-/Funktionswechsel
+Bei Eintritt eines Rollen-/Funktionswechsels, der zum Entzug von Berechtigungen
+(Elementarrollen) führt, informiert die Schulleiterin oder der Schulleiter die in der Tabelle
+Funktionen und Aufgaben in unserer Schule (siehe Kapitel 2.1 ) für entsprechend der
+Aufgabe eingesetzte Person. Diese setzt den Entzug des jeweiligen
+Berechtigungsprofils umgehend um.
+
+2.4
+
+Tabellarische Aufstellung der Berechtigungen von LUSD-Benutzer
+Die aktuellen Berechtigungen werden in tabellarischer Form in dem LUSD Bericht
+PERSONAL-BENUTZERROLLEN-AKTIV aufgelistet. Der Bericht ist dem Konzept beizufügen.
+Hinweis zur Tabelle LUSD-BENUTZER:
+Die tabellarische Aufstellung in Ihrer Schule erhalten Sie in der LUSD über die Webseite
+EXTRAS > STANDARDBERICHTE > SCHULDATEN > ADMINISTRATION über den Bericht
+PERSONAL-BENUTZERROLLEN-AKTIV.
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+10
+
+Abb. 1 Bericht Personal-Benutzerrollen-Aktiv
+
+2.5
+
+Freigabe
+Die beiden ausgefüllten Muster (vgl. Kapitel 1) zu den Funktionen und deren Beauftragten
+der Schule, sowie die an der Schule vorhandenen LUSD Benutzerprofile sind durch die
+Schulleiterin oder durch den Schulleiter mit Datum und Unterschrift freizugeben.
+
+HMKB | LUSD | Vergabekonzept von Rollen und Berechtigungen | Version: 2.3 | Letzter Stand: 23.02.2026
+
+11
+
+

@@ -1,0 +1,154 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Personal bearbeiten in der LUSD
+Hinweise zur Webseite Stundenbilanz
+
+1
+
+Webseite Stundenbilanz – Bedeutung und Inhalt der Felder
+
+Feld
+
+Bedeutung
+
+Inhalt
+
+Pflichtstunden
+
+Sind die von der Lehrkraft im aktuellen
+Halbjahr zu leistenden Stunden.
+
+Für gematchte Lehrkräfte kommen
+diese Stunden aus SAP.
+
+Erhöhung / Minderung
+
+Sind die +/- Stunden für Erhöhungen
+oder Minderungen im aktuellen Halbjahr.
+
+Anrechnungen
+
+Für LUSD-Lehrkräfte (= nicht
+gematchte Lehrkräfte) müssen diese
+Stunden in der LUSD eingetragen
+werden.
+
+▪ Wenn Sie in der LUSD
+▪ Erhöhungen/Minderungen
+▪ Anrechnungen
+ändern bzw. einpflegen, so errechnen
+sich die Unterrichtswirksamen Std.
+
+Sind die +/- Stunden für Anrechnungen
+im aktuellen Halbjahr.
+
+Abordnungen /
+Freistellungen (WPZU)
+
+Bemerkung
+
+▪ für LUSD-Lehrkräfte nicht
+automatisch neu. Sie können
+
+Sind die +/- Stunden für Abordnungen
+oder Freistellungen im aktuellen
+
+manuell angepasst werden.
+▪
+
+Halbjahr.
+
+für SAP-Personal wird eine
+Meldung an das Staatliche
+
+Unterrichtswirksame
+Stunden
+
+Sind die Stunden, die eine Lehrkraft im
+aktuellen Halbjahr unterrichten muss.
+
+Für gematchte Lehrkräfte kommen
+die Unterrichtswirksamen Stunden
+aus SAP.
+
+Schulamt ausgelöst. Anschließend
+werden die Einträge bearbeitet und
+
+Sie errechnen sich wie folgt
+
+HMKB | LUSD | Personal bearbeiten in der LUSD | Version: 1.4 | 07.07.2025
+
+1
+
+Pflichtstunden
+
+durch das Staatliche Schulamt
+aktualisiert.
+
++/-
+
+Erhöhungen/Minderungen
+
++/-
+
+Anrechnungen
+
++/-
+
+Abordnungen/Freistellungen
+
+▪ Erhöhungen/ Minderungen
+
+(WPZU)
+
+▪ Anrechnungen
+
+▪ Wenn das Staatliche Schulamt in SAP
+
+▪ Abordnungen/Freistellungen
+ändert, werden die Werte dieser Felder
+sowie die Unterrichtswirksamen Std mit
+den SAP-Werten überschrieben.
+UV-Stunden
+
+2
+
+Sind die Unterrichtsstunden mit denen
+
+Der Wert aktualisiert sich
+
+eine Lehrkraft in der aktuellen UV
+
+automatisch, wenn eine Lehrkraft
+
+eingesetzt ist.
+
+einem Kurs zugeordnet wird.
+
+Der Bericht Lehrkraft-Stunden-Historie
+Dieser Bericht zeigt Ihnen für jede Lehrkraft den Verlauf der Stundenbilanz-Werte (zurückliegend bis maximal 10 Schuljahre). Ein Beispiel
+sehen Sie in Abb.1.
+Diesen Bericht erstellen Sie auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > PERSONAL PERSONALBASISDATEN - Lehrkraft-Stunden-Historie.
+
+HMKB | LUSD | Personal bearbeiten in der LUSD | Version: 1.4 | 07.07.2025
+
+2
+
+Abb. 1 Beispiel für den Bericht Lehrkraft-Stunden-Historie
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+HMKB | LUSD | Personal bearbeiten in der LUSD | Version: 1.4 | 07.07.2025
+
+3
+
+

@@ -1,0 +1,292 @@
+Hessisches Ministerium
+Für Kultus, Bildung und Chancen
+
+LUSD
+
+Berufsfachschule mit Berufsabschluss BFSB
+Hinweise und Zeugnisbeispiele
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+A4
+
+Siehe Kapitel 7.1
+
+Abgangszeugnis
+
+A4
+
+Siehe Kapitel 7.3
+
+Abschlusszeugnis
+
+A3
+
+Siehe Kapitel 7.5
+
+Zeugnis der Fachhochschulreife nur Kurse der Kursart Z (D, E,
+M)
+
+A4
+
+Siehe Kapitel 7.7
+
+Zeugnisart
+
+Kursart
+
+Kursdifferenzierung
+
+Fächer des allgemeinen Lernbereichs
+
+P
+
+-
+
+Themen- und Aufgabenfelder des beruflichen Lernbereichs
+
+P
+
+-
+
+Fächer des Wahlpflichtunterrichts z.B. ZUF Kurse
+
+W
+
+-
+
+Fächer des Wahlunterrichts
+
+F
+
+-
+
+Fächer des Zusatzunterrichtes Fachhochschulreife
+
+Z
+
+-
+
+2
+
+3
+
+Kursmerkmale
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+Automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+1
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum ohne Prüfungsdatum vorzeitiger Abgang
+
+Ende Schulbesuch Abschlusszeugnis Ausgabe Datum
+ Ohne Abschluss-Prüfungs Datum VO Anl. 3a
+ Mit Abschluss-Prüfung Datum VO Anl. 3b
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Gesamtnote auf Grundlage der Lernfelder
+
+Gesamtnote beruflicher Bereich
+
+Note mit einer Nachkommastelle
+Gesamtnote beruflicher Bereich nach Prüfung
+
+Gesamtnote
+
+In Abgangs- und Abschlusszeugnissen
+Note mit einer Nachkommastelle
+Durchschnittsnote Fachhochschulreife
+
+Durchschnittsnote Fachhochschulreife
+
+Note mit einer Nachkommastelle
+
+5
+
+Abschlüsse
+
+Ein Abbruch (vorzeitiges Verlassen des Bildungsganges) ist in jeder Stufe möglich.
+Stufe
+
+Mögliche Abschlüsse
+
+11/2
+
+Gleichstellung mit mittlerem Abschluss (GYM8)
+
+12/2
+
+ Abschluss
+ Gleichstellung mit mittlerem Abschluss (MA)
+ Fachhochschulreife
+ Kein Abschluss (nach Beendigung des Bildungsganges)
+
+Je nach Schulform und zugewiesenem Ausbildungsberuf der SuS kommen die entsprechenden
+Lernfelder.
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+2
+
+6
+
+Hinweise
+ Fächer des allgemeinen Lernbereichs, des Wahlpflichtunterrichts und des
+Wahlunterrichts werden in den Zeugnissen nur angezeigt, wenn entsprechende Kurse
+belegt wurden.
+ Alle Lernfelder des berufsbezogenen Unterrichts werden angezeigt. Zur Noteneingabe
+ist die Anlage entsprechender Kurse erforderlich.
+ In Abgangs- und Abschlusszeugnissen werden die historischen Lernfeldnoten des
+Schuljahres übernommen. Wurde z. B. in der Stufe 12/2 keine Bewertung erfasst, wird
+die Bewertung aus 12/1 im Zeugnis ausgewiesen.
+ In Abgangszeugnissen bei vorzeitigem Ausscheiden, d. h. ohne Teilnahme an der
+Abschlussprüfung, darf bei der Zeugniszuweisung kein Abschluss-Prüfung Datum
+eingetragen werden.
+ Wenn bei der Erstellung eines Abgangszeugnisses in der Zeugniszuweisung das
+Abschluss-Prüfungsdatum gesetzt ist, wird über dem Unterschriftenfeld der Satz „Er/Sie
+hat sich der Prüfung unterzogen und diese nicht bestanden.“ gedruckt.
+ Des Weiteren kommt durch den Eintrag dieses Datums der Unterschriftenblock mit
+der/dem Prüfungsvorsitzende(n) je nach Eintrag unter UNTERRICHT >
+ZEUGNISKONFIGURATION > ZEUGNISFORMULARE.
+ Im Register UNTERRICHT>LEISTUNGSERFASSUNG>SCHÜLER > PRAKTISCHE
+AUSBILDUNGSINHALTE können Fachpraktische Ausbildungsinhalte und Arbeitsaufgaben
+erfasst und benotet werden
+
+Abb. 1 Webseite Schüler: Erfassung fachpraktischer Ausbildungsinhalte und Arbeitsaufgaben
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+3
+
+ Im Register GESAMTNOTEN werden die Gesamtnoten dargestellt.
+
+Abb. 2 Webseite Schüler: Darstellung der Gesamtnoten
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+4
+
+7
+
+Beispielzeugnisse
+
+7.1
+
+Beispiel Halbjahreszeugnis - Maßschneider/in
+
+Abb. 3 Beispielzeugnis: Halbjahreszeugnis Vorderseite - Maßschneider/in
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+5
+
+Abb. 4 Beispielzeugnis: Halbjahreszeugnis Rückseite - Maßschneider/in
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+6
+
+7.2
+
+Beispiel Halbjahreszeugnis - Hauswirtschafter/in
+
+Abb. 5 Beispielzeugnis: Halbjahreszeugnis Vorderseite - Hauswirtschafter/in
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+7
+
+Abb. 6 Beispielzeugnis: Halbjahreszeugnis Rückseite - Hauswirtschafter/in
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+8
+
+7.3
+
+Beispiel Abgangszeugnis (vorzeitig ohne Eintrag eines Prüfungsdatums)
+
+Abb. 7 Beispiel Abgangszeugnis (vorzeitig ohne Eintrag eines Prüfungsdatums) – Vorderseite
+
+Abb. 8 Beispiel Abgangszeugnis (vorzeitig ohne Eintrag eines Prüfungsdatums) – Rückseite
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+9
+
+7.4
+
+Beispiel Abgangszeugnis (mit Prüfungsdatum)
+
+Abb. 9 Beispiel Abgangszeugnis (mit Prüfungsdatum) – Vorderseite
+
+Abb. 10 Beispiel Abgangszeugnis (mit Prüfungsdatum) – Rückseite
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+10
+
+7.5
+
+Beispiele Abschlusszeugnis – ohne Prüfungsdatum – VO Anl.3a
+
+Abb. 11 Beispiel Abgangszeugnis – ohne Prüfungsdatum – VO Anl.3a (Vorderseite)
+
+Abb. 12 Beispiel Abgangszeugnis – ohne Prüfungsdatum – VO Anl.3a (Rückseite)
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+11
+
+7.6
+
+Beispiele Abschlusszeugnis – mit Prüfungsdatum – VO Anl.3b
+
+Abb. 13 Beispiel Abgangszeugnis – mit Prüfungsdatum – VO Anl.3b (Vorderseite)
+
+Abb. 14 Beispiel Abgangszeugnis – mit Prüfungsdatum – VO Anl.3b (Rückseite)
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+12
+
+7.7
+
+Beispiel Zusatzzeugnis
+
+Abb. 15 Beispiel Zusatzzeugnis
+
+Hessisches Kultusministerium | LUSD | Berufsfachschule mit Berufsabschluss BFSB | Stand: 29.08.2025
+
+13
+
+

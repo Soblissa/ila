@@ -1,0 +1,5703 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Übersicht aller Standardberichte
+Überblick aller vorhandenen Standardberichte in der LUSD
+
+Version: 2.0
+Letzter Stand: 01.12.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Übersicht aller Standardberichte in der LUSD
+1
+
+2
+
+Personal ................................................................................................................................ 7
+1.1
+
+Personalbasisdaten ...................................................................................................... 7
+
+1.2
+
+Personalverwaltung .................................................................................................... 17
+
+Schuldaten .......................................................................................................................... 20
+2.1
+
+3
+
+4
+
+5
+
+6
+
+6
+
+Administration ............................................................................................................ 20
+
+Schule ................................................................................................................................. 24
+3.1
+
+Basis .......................................................................................................................... 24
+
+3.2
+
+Klassen ...................................................................................................................... 36
+
+3.3
+
+Schulelternbeirat ........................................................................................................ 41
+
+3.4
+
+Schülervertretung ....................................................................................................... 43
+
+Schüler ................................................................................................................................ 45
+4.1
+
+Allg. Listen ................................................................................................................. 45
+
+4.2
+
+Anträge/Bescheide ..................................................................................................... 83
+
+4.3
+
+Bescheinigungen........................................................................................................ 97
+
+4.4
+
+Grundschule ............................................................................................................. 104
+
+4.5
+
+Historie ..................................................................................................................... 114
+
+Statistik ............................................................................................................................. 117
+5.1
+
+Abschlussstatistik ..................................................................................................... 117
+
+5.2
+
+Aufgabenliste Auffälligkeiten .................................................................................... 120
+
+Unterricht .......................................................................................................................... 123
+6.1
+
+Abitur ....................................................................................................................... 123
+
+6.2
+
+Abschlüsse............................................................................................................... 138
+
+6.3
+
+Datenprüfung ........................................................................................................... 141
+
+6.4
+
+FHR-FOS ................................................................................................................. 146
+
+6.5
+
+FHR-Oberstufe ......................................................................................................... 150
+
+6.6
+
+Ganztag ................................................................................................................... 152
+
+6.7
+
+H/R Abschluss.......................................................................................................... 153
+
+6.8
+
+Kurse ....................................................................................................................... 161
+
+6.9
+
+Leistungen ............................................................................................................... 172
+
+6.10 Schulsport ................................................................................................................ 190
+6.11 Stundenplan ............................................................................................................. 194
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument
+▪ bietet Ihnen eine Übersicht über alle in der LUSD nutzbaren Standardberichte
+▪ enthält eine Auflistung der in den LUSD Standardberichten ausgegebenen Daten
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Benutzer, welche Zugriff auf die Webseite EXTRAS >
+STANDARDBERICHTE haben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+5
+
+Übersicht aller Standardberichte in der LUSD
+Die folgende Übersicht aller LUSD-Standardberichte orientiert sich an der in der LUSD
+befindlichen Struktur der Webseite.
+Diese finden Sie unter EXTRAS > BERICHTE > STANDARDBERICHTE.
+
+Abb. 1: Struktur der Webseite STANDARDBERICHTE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+6
+
+1
+
+Personal
+Dieses Kapitel zeigt eine Übersicht über alle Standardberichte im Bereich PERSONAL.
+Dieser ist untergliedert in PERSONALBASISDATEN und PERSONALVERWALTUNG.
+
+Abb. 2: Struktur Standardberichte im Bereich PERSONAL
+
+1.1
+
+Personalbasisdaten
+Hier finden Sie alle Berichte, welche unter PERSONAL > PERSONALBASISDATEN ausgegeben
+werden können.
+
+Abb. 3: Struktur Standardberichte im Bereich PERSONAL > PERSONALBASISDATEN
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+7
+
+1.1.1 Datenexport Personal
+Der Bericht erzeugt eine übersichtliche Liste aller Lehrekräfte an Ihrer Schule.
+
+Abb. 4: Beispiel: Bericht DATENEXPORT PERSONAL
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel, Vor- und Nachname Lehrkraft, Datenexport
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+8
+
+1.1.2 Funktionsträger
+Dieser Bericht gibt Auskunft über die amtlichen und schulinternen Funktionen der
+Lehrkräfte an Ihrer Schule. Schulinterne Funktionen können unter PERSONAL >
+PERSONALBASISDATEN > SCHULBEZOGEN zugewiesen werden.
+
+Abb. 5: Beispiel: Bericht FUNKTIONSTRÄGER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Amtliche Funktion, Schulinterne Funktion, Vor- und Nachname
+Lehrkraft, Kürzel Lehrkraft
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+9
+
+1.1.3 Lehrkräfte ohne Kurse
+Dieser Bericht gibt Lehrkräfte aus, welche bisher keinem Kurs zugeordnet sind. Es werden
+UV-Relevant markierte Lehrkräfte berücksichtigt.
+
+Abb. 6: Beispiel: Bericht LEHRKRÄFTE OHNE KURSE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Lehrkraft
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+10
+
+1.1.4 Lehrkraft-Stunden-Historie
+In diesem Bericht werden die historischen Stundenbilanzen des Personals Ihrer Schule auf
+Basis der ausgewählten Lehrkräfte dargestellt.
+
+Abb. 7: Beispiel: Bericht LEHRKRAFT-STUNDEN-HISTORIE
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Kürzel Lehrkraft, Vor- und Nachname Lehrkraft,
+Halbjahr,Pflichtstunden, Erhöhung / Minderung, Anrechnung,
+Abordnung / Freistellung,unterrichtswirksame Sunden, Stunden
+laut Unterrichtsverteilung
+
+Parameter
+
+Lehrkräfteauswahl
+Anzahl Halbjahre: Alle Halbjahre, Aktuelles Halbjahr, 2 – 10
+Halbjahre)
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+11
+
+1.1.5 Liste der Lehrkräfte
+In diesem Bericht werden Informationen zu den Lehrkräften Ihrer Schule ausgegeben.
+
+Abb. 8: Beispiel: Bericht LISTE DER LEHRKRÄFTE mit Funktionen
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel Lehrkraft, Vor- und Nachname Lehrkraft, Adresse, Telefon,
+Mobiltelefon, Fax, Private E-Mail, Dienstliche E-Mail,,
+Geburtsdatum, Dienstbezeichnung, Amtliche Funktion, Fächer in
+UV, Teilnahme Schulkonferenz, Personalnummer SAP
+
+Parameter
+
+UV
+Version: lang, kurz, mit Funktionen, Raster, zweispaltig
+Überschrift: Freitext
+
+Zusätzliche Informationen
+
+Version kurz: In dieser Version werden Kürzel, Name und mögliche
+Telefon- bzw. Mobiltelefonnummern der Lehrkräfte ausgegeben.
+Version lang: In dieser Version werden Kürzel, Name,
+Kontaktdaten, Geburtsdatum, Dienstbezeichnung und die
+Personalnummer der Lehrkräfte ausgegeben.
+Version mit Funktionen: In dieser Version werden Kürzel, Name,
+Kontaktdaten, Geburtsdatum, Dienstbezeichnung, Funktion,
+Unterrichtsfächer, Teilnahme an der Schulkonferenz und die
+Personalnummer der Lehrkräfte ausgegeben.
+Version Raster: In dieser Version wird eine Liste mit den Namen
+der Lehrkräfte und einer freien Spalte ausgegeben. Diese Version
+kann zum Beispiel als Unterschriftenliste verwendet werden.
+Version zweispaltig: In dieser Version wird eine zweispaltige Liste
+mit den Namen der Lehrkräfte ausgegeben.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+12
+
+1.1.6 Masernschutzstatus Personal
+Dieser Bericht gibt einen Überblick über den Masernschutzstatus des Personals Ihrer
+Schule.
+
+Abb. 9: Beispiel: Bericht MASERNSCHUTZSTATUS PERSONAL
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Personal, Adresse, Geburtsdatum,
+Personalnummer SAP, Masernschutzstatus, Vorlagedatum,
+nächste Untersuchung
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+13
+
+1.1.7 Personal-Änderungs-Historie
+In diesem Bericht werden die Änderungen der Personal-Stammdaten und historischen
+Stundenbilanzen des Personals Ihrer Schule dargestellt.
+
+Abb. 10: Beispiel: Bericht PERSONAL-ÄNDERUNGS-HISTORIE
+
+Ausgabeformate
+
+CSV
+
+Enthaltene Daten
+
+Personal-Nr., Kürzel Lehrkraft, Vor- und Nachname Lehrkraft,
+Namenszusatz, Titel, Geburtsdatum, Geschlecht,
+Staatsangehörigkeit, Personalart, Dienstbezeichnung, Vertragsart,
+PLZ/Ort, Straße/Hausnummer, Einstellungsqualifikation,
+Stundenbilanz, Pflichtstunden, Regelstunden, Unterrichtswirksame
+Stunden
+Alle Felder werden mit aktuellen und geändertem Datensatz
+ausgegeben.
+
+Parameter
+
+Lehrkräfteauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+14
+
+1.1.8 Personalstammblatt
+In diesem Bericht werden die Stammdaten des jeweils ausgewählten Personals angezeigt.
+
+Abb. 11: Beispiel: Bericht PERSONALSTAMMBLATT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Personal, Personaltyp, Adresse, Telefon,
+Mobiltelefon, Fax. Dienstliche E-Mail, Private E-Mail, Kürzel,
+Personalart, SAP-Personalnummer, Geschlecht,
+Geburtsdatum, Staatsangehörigkeit, Dienstbezeichnung,
+Vertragsart, Einstellungsqualifikationen, Amtliche Funktion,
+Funktion für Unterschrift / Zeugnisse, Sonstige Funktionen /
+Anrechnungsgründe, Schulkonferenz, Fächer, Stundenbilanz,
+Summe der Erhöhung- / Minderungsstunden, der
+Anrechnungsstunden und der Abordnungen und
+Freistellungen, unterrichtswirksame Stunden, Unterricht der
+Lehrkraft im aktuellen Halbjahr
+
+Parameter
+
+Lehrkräfteauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+15
+
+1.1.9 SAP Personalstammblatt
+In diesem Bericht werden die SAP-relevanten Daten zu einer in SAP gepflegten Lehrkraft
+dargestellt.
+
+Abb. 12: Beispiel: Bericht SAP PERSONALSTAMMBLATT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Personal, Namensvorsatz, Namenszusatz,
+Adresse, Kürzel, SAP-Personalnummer, Geschlecht,
+Geburtsdatum, Staatsangehörigkeit, Dienstliche E-Mail,
+Masernschutzstatus, Untersuchungsdatum, Nächste
+Untersuchung, Stammdienststelle, Amtl. Funktionsbzeichnung,
+Personalart, Dienstbezeichnung, Einstellungsqualifikation,
+Fächer / Stufe, Stundenbilanz, Summe der Erhöhung- /
+Minderungsstunden, der Anrechnungsstunden und der
+Abordnungen und Freistellungen, unterrichtswirksame,
+Unterricht der Lehrkraft im aktuellen Schuljahr,
+Stundenguthaben aus vorherigem Halbjahr, Reststunden der
+Unterrichtsverpflichtung, korrigierte Reststunden,
+Pflichtstundenveränderungen
+
+Parameter
+
+SAP Personalnummer
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+16
+
+1.2
+
+Personalverwaltung
+Hier finden Sie alle Berichte, welche unter PERSONAL > PERSONALVERWALTUNG
+ausgegeben werden können.
+
+Abb. 13: Beispiel: Struktur PERSONAL > PERSONALVERWALTUNG
+
+1.2.1 Fachgruppen
+Bei diesem Bericht werden alle Fachgruppen der Schule ausgegeben.
+
+Abb. 14: Beispiel: Bericht FACHGRUPPEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Fachkürzel, Fachgruppe Kürzel, Vor- und Nachname des
+Gruppensprechers
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+17
+
+1.2.2 Fachgruppenmitglieder
+Bei diesem Bericht werden alle Fachgruppen der Schule mit den jeweiligen
+Fachgruppenmitgliedern aufgelistet.
+
+Abb. 15: Beispiel: Bericht FACHGRUPPENMITGLIEDER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Fachkürzel, Fachgruppe, Kürzel Lehrkraft, Vor- und Nachname
+Lehrkraft
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+18
+
+1.2.3 Fachgruppensprecher
+Bei diesem Bericht werden die Gruppensprecher der jeweiligen Fachgruppen ausgegeben.
+
+Abb. 16: Beispiel: Bericht FACHGRUPPENSPRECHER
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Fachkürzel, Fachgruppe, Kürzel Lehrkraft, Vor- und Nachname
+des Gruppensprechers
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+19
+
+2
+
+Schuldaten
+Hier finden Sie alle Berichte zu den hinterlegten Benutzern der Schule für den Zugang in
+die LUSD.
+
+Abb. 17: Strukturbaum SCHULDATEN > ADMINISTRATION
+
+2.1
+
+Administration
+
+2.1.1 Benutzer
+Dieser Bericht gibt alle hinterlegten Benutzer Ihrer Schule in der LUSD aus.
+
+Abb. 18: Beispiel: Bericht BENUTZER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Benutzer, Kürzel, Login-Name, Telefon
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+20
+
+2.1.2 Benutzer und Profile
+Dieser Bericht gibt alle hinterlegten Benutzer der LUSD Ihrer Schule und die bei diesen
+hinterlegten Benutzerprofile aus.
+
+Abb. 19: Beispiel: Bericht BENUTZER UND PROFILE
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Benutzer, Kürzel, Login-Name, Zugeordnete
+Benutzerprofile
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+21
+
+2.1.3 Personal-Benutzerrollen-aktiv
+Dieser Bericht gibt eine Übersicht über aktive/inaktive Benutzer der LUSD Ihrer Schule und
+darüber hinaus Anpassungen an deren Rollen-Zuteilung aus.
+
+Abb. 20: Beispiel: Bericht BENUTZERROLLEN AKTIV
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Benutzer, Kürzel, Schul-ID, Login-Name,
+Zugeordnete Benutzerprofile Status des Benutzers, Gültigkeit,
+Änderungen des Status, Änderungen der Benutzerrollen, Änderung
+durch, Autorisiert durch, Begründung
+
+Parameter
+
+Lehrkräfteauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+22
+
+2.1.4 Rechtestruktur
+Der Bericht dokumentiert die Rechtestruktur der Benutzer der LUSD Ihrer Schule.
+
+Abb. 21: Beispiel: Bericht RECHTSTRUKTUR VOLLSTÄNDIG
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Benutzer, Login-Name, Telefon, Login gültig
+bis, Login angelegt am, Login angelegt durch, Zugeordnete
+Benutzerrollen, Benutzerrolle vergeben durch, Benutzerrolle
+vergeben am
+
+Parameter
+
+Version: Administration, Vollständig, Rollen
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+23
+
+3
+
+Schule
+Hier finden Sie alle Berichte zu den für die Schule hinterlegten Informationen.
+
+Abb. 22: Strukturbaum SCHULE
+
+3.1
+
+Basis
+Hier finden Sie alle Berichte, welche die für die Schule hinterlegten Basis-Daten ausgeben.
+
+Abb. 23: Strukturbaum SCHULE > BASIS
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+24
+
+3.1.1 Betriebe nach Branchen
+Dieser Bericht gibt einen Überblick über die hinterlegten Betriebe der Schule. Gruppierung
+nach Branchenbezeichnung und/oder Ort. Sortierung alphabetisch nach
+Branchenbezeichnung und Firmenbezeichnung.
+
+Abb. 24: Beispiel: Bericht BETRIEBE NACH BRANCHEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Branche, Firmenbezeichnung, Adresse, Telefon, Fax, Betrieb Status
+
+Parameter
+
+Branche
+Ort
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+25
+
+3.1.2 Betriebestammblatt
+Dieser Bericht gibt einen Überblick über die Detaildaten der hinterlegten Betriebe der
+Schule. Für jeden Betrieb werden die Ausbildungsberufe der Schüler aufgelistet, die
+diesem Betrieb zugeordnet wurden, ebenso Eintrittsdatum, Klasse und Beziehungsart zum
+Betrieb.
+
+Abb. 25: Beispiel: Bericht BETRIEBESTAMMBLATT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Branche, Bemerkung, Firmenbezeichnung, Anschrift des
+Betriebs, Telefonnummer, Fax, E-Mail, Vor- und Nachname des
+zugeordneten Schülers, Eintrittsdatum des Schülers in den
+Betrieb, Klasse des Schülers, Ausbildungsberuf, Name des
+Ansprechpartners im Betrieb, Beziehungsart des Schülers zum
+Betrieb, Mobiltelefonnummer
+
+Parameter
+
+Branche
+Ort
+Betrieb
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+26
+
+3.1.3 Bildungsangebote
+Dieser Bericht gibt einen Überblick über die an der Schule aktuellen Bildungsangebote.
+
+Abb. 26: Beispiel: Bericht BILDUNGSANGEBOTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Dienststellennummer, SF/BK, Stufe/Semester, Kürzel des Fachs,
+Kursart, Std./Wo., Thema, Anmerkung, aktiv/inaktiv
+
+Parameter
+
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+27
+
+3.1.4 Fächer der Schule
+Dieser Bericht listet die schulbezogenen Fächer (Kürzel/Bezeichnung) und die
+dazugehörigen offiziellen Kürzel und Fachbezeichnungen jeweils mit dem Fachbereich und
+der Fachgruppe auf und sortiert dabei alphabetisch.
+
+Abb. 27: Beispiel: Bericht FÄCHER DER SCHULE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Fachkürzel, Fach, Fachbereich, Fachgruppe
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+28
+
+3.1.5 HSU-Koordinationsstellen
+Dieser Bericht gibt die Koordinationsstellen mit Anschrift für den herkunftsprachlichen
+Unterricht (HSU) aus.
+
+Abb. 28: Beispiel: Bericht HSU-KOORDINIERUNGSSTELLEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Sprache, Verantwortliche HSU Koordinationsstelle, Anschrift der
+Koordinationsstelle
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+29
+
+3.1.6 Kindergärten/Horte
+Dieser Bericht gibt alle schulnahen Kindergärten/Horte und deren Ansprechpartner aus.
+
+Abb. 29: Beispiel: Bericht KINDERGÄRTEN/HORTE
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Name des Kindergarten/Horts, Vor- und Nachname des
+Ansprechpartners im Kindergarten/Hort, Telefonnummer des
+Kindergarten/Hort, Bemerkung zu Kindergarten/Hort, E-Mailadresse
+des Kindergarten/Hort
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+30
+
+3.1.7 Partnerschulen und Austauschfahrten
+Dieser Bericht gibt Informationen zu Partnerschulen und Austauschfahrten aus.
+
+Abb. 30: Beispiel: Bericht PARTNERSCHULEN UND AUSTAUSCHFAHRTEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Partnerschule: Schulname, Ort, Land, PLZ, Reg./Prov./Bundes
+staat/Departement, Academie, Art der Partnerschaft, Von, Bis, Anzahl
+Austauschfahrten: Schulname, Schülerzahl, Zuschussart, Jahr
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+31
+
+3.1.8 Raumliste
+Dieser Bericht listet alle Räume der Schule mit Detaildaten auf.
+
+Abb. 31: Beispiel: Bericht RAUMLISTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel des Raums, Funktion, Anzahl an Plätzen, Fläche,
+Raumbemerkung, Telefon
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+32
+
+3.1.9 Schüler aus Kindergarten/Hort
+Dieser Bericht gibt eine Übersicht über Kindergärten und Horte der Schule, denen Schüler
+zugeordnet sind.
+
+Abb. 32: Beispiel: Bericht SCHÜLER AUS KINDERGARTEN/HORT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Name des Kindergarten/Hort, Anschrift des Kindergarten/Hort,
+Telefonnummer des Kindergarten/Hort, Faxnummer des
+Kindergarten/Hort, E-Mail des Kindergarten/Hort, Vor- und
+Nachname Schüler, Klasse Schüler, Vor- und Nachname des
+Ansprechpartner im Kindergarten/Hort
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+33
+
+3.1.10 Stundentafel
+Dieser Bericht stellt die schuleigene Stundentafel zu der ausgewählten UV dar. In einer
+Matrix werden pro Schulform, Stufe/Semester und Fach die jeweiligen Stunden und die
+Kursart angezeigt. Des Weiteren werden die Summen der Stunden pro Stufe/Semester und
+auch pro Schulform berechnet.
+
+Abb. 33: Beispiel: Bericht STUNDENTAFEL
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Schulform, Stufe, Fachkürzel, Kursartkürzel, Anzahl der Stunden pro
+Fach in der jeweiligen Stufe, Anzahl der Stunden pro Fach in der
+jeweiligen Schulform
+
+Parameter
+
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+34
+
+3.1.11 Themen der Schule
+Der Bericht gibt eine Übersicht über die in der Themenverwaltung eingetragenen
+Kursthemen der Schule (nur aktive Themen).
+
+Abb. 34: Beispiel: Bericht THEMEN DER SCHULE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel des Kursthemas, Kursthema, Kennzeichen Zusatzangebot
+
+Parameter
+
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+35
+
+3.2
+
+Klassen
+Hier finden Sie alle Berichte, welche die für die Schule hinterlegten Daten zu den jeweiligen
+Klassen betreffen.
+
+Abb. 35: Strukturbaum SCHULE > KLASSEN
+
+3.2.1 Bildungstrend
+Der Bericht gibt einen Überblick zu dem Bildungstrend der jeweiligen Klassen.
+
+Abb. 36: Beispiel: Bericht BILDUNGSTREND
+
+Ausgabeformate
+
+CSV
+
+Enthaltene Daten
+
+Schüler-ID, Vor- und Nachname Schüler, Geburtsmonat, Geburtsjahr,
+Geschlecht, Klasse, Bildungsgang, Testheft-Typ, Bewertungssystem,
+Deutschnote, Mathematiknote, Englischnote, Französischnote,
+Biologienote, Chemienote, Physiknote, NaWi-Note, dokumentierter
+sonderpädagogischer Förderbedarf, sonderpädagogischer Förderbedarf
+(Hauptförderschwerpunkt), Übergangsempfehlung, angestrebter
+Schulabschluss
+
+Parameter
+
+Klassenauswahl
+Version: Primar, Sprachen, Nawi, Pisa
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+36
+
+3.2.2 Klassen mit Klasseninformationen
+Der Bericht gibt einen Überblick zu der Verteilung der Schüler in den jeweiligen Klassen
+und den zugeordneten Klassenlehrern, sowie optional ihrer Vertretung. Die Sortierung
+erfolgt nach Klassen.
+
+Abb. 37: Beispiel: Bericht KLASSEN MIT KLASSENINFORMATIONEN MIT VERTRETUNG DER
+KLASSENLEITUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Kürzel Klassenleitung, Vor- und Nachname Klassenleitung,
+Kürzel Klassenleitungsvertretung, Vor- und Nachname
+Klassenleitungsvertretung , Anzahl der Schüler in der Klasse,
+Aufteilung nach Geschlecht, Raum, Kürzel Lehrkräfte, Vor- und
+Nachname Lehrkräfte, Fachkürzel, Kursbezeichnung, Kursart, Kürzel
+Fach, SF/BK
+
+Parameter
+
+Klassenauswahl
+Version: ohne Vertretung der Klassenleitung, mit Vertretung der
+Klassenleitung, mit unterrichtenden Lehrkräften
+Sortierung: nach Klassen, nach Schulform
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+37
+
+3.2.3 Klassenleitungen mit Klasseninformationen
+Der Bericht gibt einen Überblick zu der Verteilung der Schüler in den jeweiligen Klassen
+und den zugeordneten Klassenlehrern und Vertretern. Die Sortierung erfolgt nach Kürzel
+der Lehrkraft.
+
+Abb. 38: Beispiel: Bericht KLASSENLEITUNG MIT KLASSENINFORMATIONEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Kürzel Klassenleitung, Vor- und Nachname Klassenleitung,
+Kürzel Klassenleitungsvertretung, Vor- und Nachname
+Klassenleitungsvertretung, Anzahl der Schüler in der Klasse,
+Aufteilung nach Geschlecht, Raum
+
+Parameter
+
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+38
+
+3.2.4 Klassenliste
+Der Bericht gibt jeweils eine Liste zu den ausgewählten Klassen aus. Dies kann je nach
+Parameter mit verschiedenen Informationen erfolgen.
+
+Abb. 39: Beispiel: Bericht KLASSENLISTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Schüler: Status, Klasse, Vor- und Nachname, St/Sem, SF/BK,
+Straße, PLZ, Wohnort, Geburtsdatum, Geburtsort, Telefon,
+Mobiltelefon, E-Mail, Staatsangehörigkeit, Religion, Geschlecht,
+vorherige Schule, Schuleintritt, letzte SF.St., Notfallnummer
+Klassenleitung: Kürzel, Vor- und Nachname
+Betrieb: Adresse, Betriebsbeziehung von – bis, Telefonnummer, EMail,. Art der Betriebsbeziehung, Ansprechpartner im Betrieb,
+Telefonnummer & E-Mail Ansprechpartner
+Ansprechpartner Schüler: Vor- und Nachname, Sorgeberechtigt,
+Telefonnummer, Telefon Geschäftlich, Mobilnummer, Fax, E-Mail
+
+Parameter
+
+Version: Einfach (mit Schülerstatus), mit Adressen, mit allen
+Betriebsbeziehungen, mit Kommunikationsdaten, mit Linie, mit
+Schülerdaten, mit Raster, mit Staat und Familiensprache, mit
+vorheriger Schule, mit Wohn-/Betriebsanschrift, mit Schüler- und
+Ansprechpartnerdaten, mit Schülerdaten und Sorgeberechtigten
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+39
+
+3.2.5 Klassenliste Querformat
+Der Bericht gibt jeweils eine Liste zu den ausgewählten Klassen im Querformat aus.
+
+Abb. 40: Beispiel: Bericht KLASSENLISTE QUERFORMAT MIT SCHÜLER- UND
+ANSPRECHPARTNERDATEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Schüler: Status, Klasse, Vor- und Nachname, Schüler beurlaubt,
+St/Sem, SF/BK, Straße, PLZ, Wohnort, Geburtsdatum, Geburtsort,
+Telefon, Mobiltelefon, E-Mail, Staatsangehörigkeit, Religion,
+Geschlecht, Schuleintritt, letzte SF.St., Notfallnummer
+CSV: Zuzugsjahr BRD, Familiensprache, Geburtsland, Eintrittsdatum,
+Name, Dienstellennummer, Adresse, SF/BK und Stufe der vorherigen
+Schule
+Klassenleitung: Kürzel, Vor- Nachname
+Betrieb: Ausbildungsberuf, Adresse, Eintritt und Austritt in Betrieb,
+Telefonnummer, E-Mail,. Art der Betriebsbeziehung, Ansprechpartner
+im Betrieb, Telefonnummer & E-Mail Ansprechpartner
+CSV: Betriebsbezeichnung, Beziehung kurz / lang
+Ansprechpartner Schüler: Vorname, Nachname, Sorgeberechtigt,
+Telefonnummer, Telefon Geschäftlich, Mobilnummer, Fax, E-Mail
+Beförderungsdaten: Entfernung Wohnort Schule, Antragsdatum,
+Verkehrsmittel, Beförderungsart
+
+Parameter
+
+Version: mit Schüler- und Ansprechpartnerdaten, mit Schüler- und
+Betriebsdaten, mit Schüler- und Beförderungsdaten
+
+Zusätzliche
+Informationen
+
+In der Exceltabelle der Klassenliste werden nur die ersten drei
+Ansprechpartner ausgegeben. Werden mehr Ansprechpartner benötigt,
+nutzen Sie bitte die Individuellen Berichte.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+40
+
+3.3
+
+Schulelternbeirat
+Hier finden Sie alle Berichte, welche die Elterngremien ausgeben.
+
+Abb. 41: Strukturbaum SCHULE > SCHULELTERNBEIRAT
+
+3.3.1 Elternbeirat-Adressen
+Der Bericht gibt jeweils eine Liste des Schulelternbeirats mit Adressen aus.
+
+Abb. 42: Beispiel: Bericht ELTERNBEIRAT-ADRESSEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Status, Nach- und Vorname des Elternbeirats (Vor- und
+Nachname Schüler), Adresse, Handy, Telefon privat, Telefon
+beruflich, E-Mail
+
+Parameter
+
+Klassenauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+41
+
+3.3.2 Elternbeirat-Anwesenheit
+Der Bericht gibt eine Liste des Elternbeirats aus, welche als Anwesenheitsliste für die
+Sitzungen verwendet werden kann.
+
+Abb. 43: Beispiel: Bericht ELTERNBEIRAT-ANWESENHEIT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Status, Vor- und Nachname Elternbeirat, Unterschrift
+
+Parameter
+
+Klassenauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+3.3.1
+
+Elternbeirat Kurz
+
+Der Bericht gibt eine kurze Liste des Elternbeirats aus.
+
+Abb. 44: Beispiel: Bericht ELTERNBEIRAT KURZ
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Status, Vor- und Nachname Elternbeirat, Vor- und
+Nachname Schüler
+
+Parameter
+
+Klassenauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+42
+
+3.4
+
+Schülervertretung
+Hier finden Sie alle Berichte, welche die Schülervertretung ausgeben.
+
+Abb. 45: Strukturbaum SCHULE > SCHÜLERVERTRETUNG
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+43
+
+3.4.1 Schülervertretung-Adressen
+Der Bericht gibt die Adressen der Schülervertretung aus.
+
+Abb. 46: Beispiel: Bericht SCHÜLERVERTRETUNGS-ADRESSEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel, Funktion, Klasse, Schulform, Vor- und Nachname
+Schülervertreter, Adresse, Mobilnummer, Telefonnummer, E-Mail
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+44
+
+4
+
+Schüler
+Hier finden Sie alle Berichte zu dem Bereich Schüler. Dieser ist untergliedert in die
+Bereiche ALLG. LISTEN, ANTRÄGE/BESCHEIDE, BESCHEINIGUNGEN, GRUNDSCHULE und
+HISTORIE.
+
+Abb. 47: Struktur Berichte im Bereich SCHÜLER
+
+4.1
+
+Allg. Listen
+Hier finden Sie alle allgemeinen Listen im Bereich Schüler.
+
+Abb. 48: Strukturbaum SCHÜLER > ALLG. LISTEN
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+45
+
+4.1.1 Anmeldung weiterführende Schulen (Namen)
+Der Bericht gibt die Namen der Schüler für die jeweiligen Übergänge aus.
+
+Abb. 49 : Beispiel: Bericht ANMELDUNG WEITERFÜHRENDE SCHULEN (NAMEN)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geschlecht, KIasse,
+Stufe, Schulform, Priorität, Freigabedatum
+
+Parameter
+
+Übergang: 4/5, 6/7, 7/8, 9/10 GYM 8, 10/11, 9/10 alle
+Priorität
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+46
+
+4.1.2 Anmeldung weiterführende Schulen (Zahlen)
+Der Bericht gibt die Zahlen der Schüler für die jeweiligen Übergänge aus.
+
+Abb. 50: Beispiel: Bericht ANMELDUNG WEITERFÜHRENDE SCHULEN (ZAHLEN)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kandidatenverhältnis Name Wunschschule, Dienststellennummer
+Wunschschule, Wunschschulform, Wunschstufe, Wunschsemester
+
+Parameter
+
+Übergang: 4/5, 6/7, 7/8, 9/10 GYM 8, 10/11, 9/10 alle
+Priorität
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+47
+
+4.1.3 Ausl. Staatsangehörige
+Der Bericht gibt alle Schüler aus, welche eine zweite oder andere Staatsangehörigkeit als
+Deutsch haben.
+
+Abb. 51: Beispiel: Bericht AUSL. STAATSANGEHÖRIGE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Adresse, Geschlecht, Geburtsdatum,
+Staatsangehörigkeit, Telefonnummer, Klasse
+
+Parameter
+
+Geschlecht: alle, männlich, weiblich, divers, ohne Angabe
+Version: mit Anschrift, kurz
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+48
+
+4.1.4 Autorisierungsbericht Kandidatenaufnahme
+Dieser Bericht gibt die Autorisierungsdaten bei der Kandidatenaufnahme der letzten 120
+Tage an.
+
+Abb. 52: Beispiel: Bericht AUTORISIERUNGSBERICHT KANDIDATENAUFNAHME
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname des Schülers, Geburtsdatum, Autorisiert am,
+Uhrzeit, Benutzerkürzel
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+4.1.5 Berichtsparameter Berufsschüler Umschulung nach §59ff. BBiG und
+Teilzeitberufsausbildung nach §7a BBiG
+Dieser Bericht gibt die Berufsschüler mit Umschulung nach §59 ff. BBiG und
+Teilzeitausbildung nach §7a BBiG aus.
+
+Abb. 53: Beispiel: Bericht BERICHTSPARAMETER BERUFSSCHÜLER UMSCHULUNG NACH §59FF.
+BBIG UND TEILZEITBERUFSAUSBILDUNG NACH §7A BBIG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF, St./Sem., Klasse
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+49
+
+4.1.6 Betriebsbeziehung
+Dieser Bericht gibt die Beziehung zwischen Schülern und Betrieben aus wie beispielsweise
+Ausbildungsbetriebe, Praktikumsstellen oder Arbeitstellen.
+
+Abb. 54: Beispiel: Bericht BETRIEBSBEZIEHUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem, Klasse, Kürzel Lehrkraft, Vor- und Nachname
+Lehrkraft, Vor- und Nachname Schüler, Beginn der
+Betriebsbeziehung, Ende der Betriebsbeziehung, Name des
+Betriebs, Telefon und Fax des Betriebs, Adresse, Vor- und
+Nachname Ansprechpartner, Telefon und E-Mail des
+Ansprechpartners
+
+Parameter
+
+Klassenauswahl
+Beginn der Betriebsbeziehung
+Art der Beziehung: Ausbildungsbetrieb, Praktikumsstelle,
+Arbeitsstelle
+Version: nach KIassen, nach Betrieben
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+50
+
+4.1.7 Beurlaubungen
+Dieser Bericht gibt eine Übersicht zu Beurlaubungen von Schülern.
+
+Abb. 55: Beispiel: Bericht BEURLAUBUNGEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St/Sem, Vor- und Nachname Schüler, Klasse,
+Beurlaubungstyp, Beurlaubung von bis
+
+Parameter
+
+Beginn der Beurlaubung ab Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+51
+
+4.1.8 Datenexport Eltern
+Dieser Bericht gibt die sorgeberechtigten Eltern zu den jeweils ausgewählten Schülern aus.
+
+Abb. 56: Beispiel: Bericht DATENEXPORT ELTERN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Rolle, Vor- und Nachname der Eltern, Vor- und Nachname Schüler,
+Klasse, Kürzel Klassenleitung, Datenexport
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+52
+
+4.1.9 Datenexport Schüler
+Dieser Bericht gibt Informationen zu den ausgewählten Schülern (aktive und externe) aus.
+
+Abb. 57: Beispiel: Bericht DATENEXPORT SCHÜLER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Klasse, Kürzel Klassenleitung, Extern
+oder Intern, Datenexport
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+53
+
+4.1.10 Ehemalige mit Anschrift
+Dieser Bericht gibt ehemalige Schüler mit Kontaktdaten und Adresse aus.
+
+Abb. 58: Beispiel: Bericht EHEMALIGE MIT ANSCHRIFT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname externer Schüler, Adresse, Geburtsdatum,
+Zielschule, Abschlussdatum, Abschluss
+
+Parameter
+
+Abgang ab
+Abgang bis
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+54
+
+4.1.11 Ehemalige mit Schullaufbahn
+Dieser Bericht gibt die Schullaufbahn ehemaliger Schüler aus.
+
+Abb. 59: Beispiel: Bericht EHEMALIGE MIT SCHULLAUFBAHN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname externer Schüler, Adresse, Abschlussdatum,
+Abschlussart, Zielschule, Halbjahr, Stufe, Schulform, Klasse
+
+Parameter
+
+Abgang ab
+Abgang bis
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+55
+
+4.1.12 Externe Schüler
+Dieser Bericht gibt die externen Schüler an Ihrer Schule aus.
+
+Abb. 60: Beispiel: Bericht EXTERNE SCHÜLER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname externer Schüler, Geburtsdatum, Klasse,
+Kandidat, Art,Gültig von - bis, Dienststellennummer, Schule
+
+Parameter
+
+Sortierung: nach Herkunftsschulen, nach Klassen
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+56
+
+4.1.13 Fahrschüler
+Dieser Bericht gibt eine Übersicht über die Beförderung der Schüler.
+
+Abb. 61: Beispiel: Bericht FAHRSCHÜLER
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Adresse, Klasse, Vor- und Nachname
+Klassenleitung, Antragsdatum, Bewilligung Antrag, Datum
+Bewilligung, Gültigkeit, Verkehrsmittel, Beförderungsart, Entfernung
+km
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+57
+
+4.1.14 Förderungshistorie
+Dieser Bericht gibt eine Übersicht über aktive Schüler aus, die eine oder mehrere
+Förderungen eingetragen haben.
+
+Abb. 62: Beispiel: Bericht Förderungshistorie
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Stufe, Klasse, Geburtsdatum,
+Sonderpädagogische Förderung: von bis, Förderungsart, Förderplan,
+Fördernde Schule, Schule mit SD-R
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Der Bericht gibt aktive Schüler aus, die auf der Seite SCHÜLER >
+
+SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN eine oder mehrere
+Förderungen eingetragen haben.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+58
+
+4.1.15 Fremdsprachenfolge
+Dieser Bericht gibt eine Übersicht zu den Fremdsprachen der Schüler sortiert nach Stufe
+oder nach Fremdsprache.
+
+Abb. 63: Beispiel: Bericht FREMDSPRACHENFOLGE (SORT. NACH STUFE)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Stufe, Klasse, Vor- und Nachname Schüler, Fremdsprache,
+Beginn & Ende der Fremdsprache, Rang, GeR
+
+Parameter
+
+Schülerauswahl
+Version: sort. nach Stufe, sort. nach Fremdsprache
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+59
+
+4.1.16 Ganztagsbetreuung
+Dieser Bericht gibt eine Übersicht über Schüler im Ganztagsangebot aus.
+
+Abb. 64: Beispiel: Bericht GANZTAGSBETREUUNG
+
+Ausgabeformate
+
+PDF, CSV, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF/BK, Klasse,
+Pflichtwochenstunden, GTA nicht gebunden, Erfüllung
+Rechtsanspruch
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Voraussetzungen für den Bericht Ganztagsbetreuung sind:
+Ein Eintrag auf der Seite SCHULE > SCHULBASISDATEN >
+
+SCHULSTAMMDATEN im Feld GENEHMIGTE FORM
+GANZTAGSANGEBOT.
+Die Anlage eines Kurses mit Fach GTAB, KA Z und KO GTFA
+(SF: ÜG, Stufe: ÜG, Kurs für: ÜG) auf der Seite UV-
+
+BEARBEITUNG > KURSBEARBEITUNG.
+Ohne diese Voraussetzungen wird der Bericht leer ausgegeben.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+60
+
+4.1.17 Geburtstagsliste
+Dieser Bericht gibt eine Liste der Geburtstage der ausgewählten Schüler aus.
+
+Abb. 65. Beispiel: Bericht GEBURTSTAGSLISTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Lehrer, Vor- und Nachname Lehrer,
+Vor- und Nachname Schüler, Geschlecht, Geburtsdatum
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+61
+
+4.1.18 Kandidaten
+Dieser Bericht gibt eine Übersicht über alle Kandidatenverhältnisse abgebender Schulen an
+die aufnehmende Schule.
+
+Abb. 66: Beispiel: Bericht KANDIDATEN nach abgebender Schule
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Abgebende Schule mit Dienstellennummer, Zielhalbjahr, Telefon der
+abgebenden Schule, jetzige Schülerstufe
+Kandidat: Vor- und Nachname, PLZ, Ort, Geschlecht, Geburtsdatum,
+SF/BK, Wunsch-SF/BK, Wunsch St/Sem. Eignung, Prio, Status,
+Freigabe
+Erstwunsch, Zweitwunsch, Drittwunsch
+
+Parameter
+
+Schülerauswahl
+Version: nach abgebender Schule, nach Wunschschulform, nach
+Zielschulform, nach Wunschschulen
+Auswahl des Zielhalbjahres
+Priorität: Alle, 1, 2, 3
+
+Zusätzliche Informationen
+
+Nach Wunschschulen: In dieser Version des Berichts werden die
+Kandidaten mit ihren Wunschschulen nach der Priorität ausgegeben.
+Je nach gewählter Priorität wird die Menge der Kandidaten auf den
+Erst-, Zweit- oder Drittwunsch beschränkt.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+62
+
+4.1.19 Kandidatenstammblatt
+Dieser Bericht gibt eine Übersicht über die Stammdaten von Kandidaten.
+
+Abb. 67: Beispiel: Bericht KANDIDATENSTAMMBLATT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Zielschulform, Zielstufe, Zielklasse, Klassenleitung
+Kandidat: Vor- und Nachname, Adresse, Telefon, Mobiltelefon, EMail, BAFÖG, Umschüler, Konfession, Abmeldung RU,
+Geburtsdatum, Geburtsname, Geschlecht, Staatsangehörigkeit,
+Zuzug BRD, Geburtsland, Familiensprache, Ansprechpartner
+Notfall, Telefon Notfall, Volljährigkeit
+Fremdsprachen, Fremdsprachenqualifikation
+Zuletzt besuchte Schule, 1. Einschulung, Eintritt in GO, zuletzt
+erreichter Abschluss, zuletzt besuchte Schule
+Zielberuf, Ausbildungsbeginn/-ende, Berufsbranche
+Ansprechpartner: Widerspruch Postempfänger, Vor- und
+Nachname, Adresse, Telefon, Dienstliches Telefon,
+Mobilnummer, Rolle, E-Mail
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+63
+
+4.1.20 Masernschutz nicht vollständig
+Dieser Bericht gibt eine Übersicht über Schüler, deren Masernschutz noch nicht vollständig
+ist.
+
+Abb. 68: Beispiel: Bericht MASERNSCHUTZ NICHT VOLLSTÄNDIG NACH ALPHABET
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- & Nachname Schüler, Adresse, Geschlecht, Geburtstdatum,
+Masernschutz, Klasse, Schülerstatus
+
+Parameter
+
+Sortierung: nach Alphabet, nach Klasse
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+64
+
+4.1.21 Ortsstatistik
+Dieser Bericht gibt eine Übersicht über die Wohnorte aller Schüler der Schule aus.
+
+Abb. 69: Beispiel: Bericht ORTSTATISTIK NACH ORTSCHAFTEN MIT SCHÜLERNAMEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+PLZ, Ort, Vor- und Nachname Schüler, Straße, Klasse, Geschlecht,
+Gesamtschüleranzahl, Anzahl Schüler pro Jahrgang & Ort
+
+Parameter
+
+Version: nach Ortschaften mit Schülernamen, nach Stufen mit
+Schüleranzahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+65
+
+4.1.22 Religionsdaten
+Dieser Bericht gibt eine Übersicht zu der Konfession der Schüler und Informationen zum
+Status des Religionsunterricht aus.
+
+Abb. 70: Beispiel: Bericht RELIGIONSDATEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- & Nachname Schüler, Geburtsdatum, Konfession,
+Abmeldung, akt. RU
+
+Parameter
+
+Schülerauswahl
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+66
+
+4.1.23 Schule für Kranke
+Dieser Bericht gibt eine Übersicht über Schüler aus, welche zeitweise im Rahmen einer
+sonderpädagogischen Förderung VM-KRAüBFZ und KRA-SchfKR über eine Schule für
+Kranke unterrichtet werden.
+
+Abb. 71: Beispiel: Bericht SCHULE FÜR KRANKE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Abrufdatum, Anzahl Stammschüler FS/KRA, Anzahl Stammschüler
+FS/KRA/V, Anzahl Stammschüler FS/EMS/KREA, Anzahl KRASchfKR, Anzahl VM-KRAüBFZ, Mittelwert, Mittelwert 9 stärkste
+Monate
+
+Parameter
+
+Schuljahr
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+67
+
+4.1.24 Schülerdatenauskunftsbericht
+Dieser Bericht gibt auf Basis von Art. 15 der Datenschutzgrundverordnung (DSGVO)
+Datenauskunft über die verarbeiteten personenbezogenen Daten von Schülern in der
+LUSD.
+
+Abb. 72: Beispiel: Bericht SCHÜLERDATENAUSKUNFTSBERICHT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Berichtsdatum
+Schülerstammdaten: Schülerstatus, aktuelle Schulform, aktuelle Stufe,
+Klasse, Klassenleitung, Vor- und Nachname, Adresse, Telefonnummer,
+Mobiltelefonnummer, E-Mail, BaföG, Umschüler, Konfession,
+Abmeldung RU, Geburtstdatum, Geburtsname, Geschlecht,
+Staatsangehörigkeit, Zuzug BRD, Geburtsland, Familiensprache,
+Ansprechpartner Notfall, Telefon Notfall, Volljährigkeit, Fremdsprachen,
+Fremdsprachenqualifikation
+Schullaufbahn: besuchte Schulen von bis, letzte Schulform, letzte Stufe,
+letzte Klasse, Anzahl Halbjahre, 1. Einschulung, Ehemalig zum
+Sonderpädagogische Förderungen: Förderungsart von bis, Förderplan,
+Fördernde Schule, Schule mit SD-R
+Medizinische Informationen: Masernschutz, bis
+Lebenswichtige Informationen: autorisiert durch, Zustimmung zur
+Weitergabe der Informationen liegt vor
+Schulinterne Informationen: Feldname, Feldinhalt
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+68
+
+4.1.25 Schülergesamtliste
+Dieser Bericht gibt eine Liste über alle Schüler der Schule aus.
+
+Abb. 73: Beispiel: Bericht Schülergesamtliste mit Anschrift
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname, Klasse, Geburtsdatum, Adresse, Extern –
+Stammschule, Ansprechpartner, Schulform, Geschlecht, Nationalität,
+Telefon, Externen-Stammschule, Gerburtsland, Familiensprache
+
+Parameter
+
+Geschlecht: Alle, Männlich, Weiblich, Divers, ohne Angabe
+Geboren ab
+Geboren bis
+Version: Schülergesamtliste kurz, Schülergesamtliste mit Adresse
+Unterrichtsverteilung
+
+Zusätzliche Informationen Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+69
+
+4.1.26 Schülerinfoseite
+Dieser Bericht gibt die wichtigsten Informationen über einen Schüler auf einer Seite aus.
+
+Abb. 74: Beispiel: Bericht SCHÜLERINFOSEITE NACH ALPHABET
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Schulhalbjahr
+Schüler: Vor- & Nachname, Namenszusatz, Geschlecht,
+Geburtsdatum, Geburtsort, Geburtsland, Volljährigkeit, Adresse,
+Telefonnummer, Mobiltelefonnummer, Konfession, Abmeldung RU,
+E-Mail, Zuzug nach Deutschland, Familiensprache, Geburtsland,
+Staatsangehörigkeit
+Ansprechpartner: Vor- & Nachname, Rolle, Kontaktdaten
+Stammschule, Status, Extern, SF/BK, St/Sem, Klasse, KL/TUT,
+VersGef. Hj1, VersGef. Hj2, letzte Wiederholung, Wiederholung
+freiwillig, Fremdsprachen, NW FS 2, Beruf, Betrieb, Letzte Eignung,
+vorrausichtlicher Abschluss, Letzter Abschluss, 2. Abschluss,
+Schulpflicht-Ende, Schulbesuchsjahr, Beurlaubt bis, Freigabe, KV
+Priorität, Lebenswichtige Informationen
+Förderungen: Schule, Sonder. päd. Förderungen, bis, Förderplan,
+sonst. Förderungen, bis
+Belegte Kurse: Fach, Vor- und Nachname Lehrkraft, Kürzel
+Lehrkraft, Kursart, Kursoption, Kursdetails, Kursbezeichnung,
+Extern, Note
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Klassen, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+70
+
+4.1.27 Schülerliste
+Dieser Bericht gibt eine Liste über ausgewählte Schüler der Schule mit Informationen aus.
+
+Abb. 75: Beispiel: Bericht SCHÜLERLISTE MIT ANSCHRIFT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- & Nachname Schüler, SF/Stufe, Geburtsdatum, Adresse,
+Telefon, Status / Prio, Eltern, Geschlecht, Nationalität,
+Notfallnummer, Nr. Stammschule
+
+Parameter
+
+Schülerauswahl
+Geschlecht: Alle, Weiblich, Männlich, Divers, ohne Angabe
+Geboren ab
+Geboren bis
+Version: Schülerliste kurz, Schülerliste mit Anschrift
+Sortierung: nach Schulform/Stufe, nach Klassen, nach Alphabet
+Ansprechpartner: Alle, Alphabetisch Ersten
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+71
+
+4.1.28 Schülerstammblatt
+Dieser Bericht gibt ein Datenstammblatt zu den ausgewählten Schülern und deren
+Ansprechpartnern und/oder Betriebsbeziehung aus.
+
+Abb. 76: Beispiel: Bericht SCHÜLERSTAMMBLATT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Schüler: Status, Schulform, Stufe, Klasse, Klassenleitung, Vor- &
+Nachname, Geburtsdatum, Geburtsort, Adresse, Geburtsname,
+Geschlecht, Staatsangehörigkeit, Telefonnummer, Mobilnummer, Zuzug
+D., E-Mail, Geburtsland, Bafög, Familiensprache, Umschüler,
+Ansprechpartner Notfall, Konfession, Telefonnummer Notfall, Abmeldung
+RU, Volljährigkeit, Fremdsprachen, Fremdsprachenqualifikation, SVMitarbeit, Schulkonferenz, zuletzt besuchte Schule, 1. Einschulung,
+Eintritt in aktuelle Schule, Eintritt in aktuelle Schulform, Eintritt in GO,
+ehemalig zum, zuletzt erreichter Abschluss
+Ansprechpartner: Wid. Sp. Postempfänger, Vor- und Nachname,
+Adresse, Telefonnummer, Dienstliche Telefonnummer, Mobilnummer,
+Ansprechpartner-Rolle, E-Mail, Schulverhältnis
+Betriebsbeziehung: Art der Betriebsbeziehung, Firma, Adresse Betrieb,
+Telefonnummer, E-Mail,, Betriebsbeziehungsbeginn & -ende
+Ansprechpartner Betrieb: Vor- und Nachname, Telefon, Fax,
+Schulverhältnis
+
+Parameter
+
+Schülerauwahl
+Version: mit Ansprechpartner, ohne Ansprechpartnern, alle
+Betriebsbeziehungen, mit Ansprechpartnern und allen
+Betriebsbeziehungen, mit Ansprechpartnern und aktueller
+Betriebsbeziehung, nur sorgeberechtigte Ansprechpartner
+
+Zusätzliche Informationen Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+72
+
+4.1.29 Schulinterne Kandidaten
+Dieser Bericht gibt einen Überblick über die schulinternen Kandidaten z.B. für einen
+Schulformwechsel.
+
+Abb. 77: Beispiel: Bericht SCHULINTERNE KANDIDATEN MIT ANSCHRIFT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Zielschulform, Zielstufe, Vor- und Nachname schulinterner Kandidat,
+Klasse, Geburtsdatum, Adresse, Telefon, Vor- und Nachname
+Eltern, Schulform, Geschlecht, Nationalität, Notfallnummer
+
+Parameter
+
+Geschlecht: Alle, Weiblich, Männlich, Divers, ohne Angabe
+Geboren ab
+Geboren bis
+Version: Schülerliste kurz, Schülerliste mit Anschrift
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+73
+
+4.1.30 Schullaufbahn
+Dieser Bericht gibt einen Überblick über die Schullaufbahn der Schüler.
+
+Abb. 78: Beispiel: Bericht SCHULLAUFBAHN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, besuchte Schule mit
+Dienstellennummer von bis, Schulform, letzte Stufe, letzte Klasse,
+Anzahl Halbjahre
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+74
+
+4.1.31 Schulpflicht (Ablauf der Schulpflicht)
+Dieser Bericht gibt einen Überblick über die Schulpflicht der Schüler und deren Ablauf.
+
+Abb. 79: Beispiel: Bericht SCHULPFLICHT (ABLAUF DER SCHULPFLICHT)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Klassenleitung, Vor- und Nachname
+Schüler, Schulpflichtbeginn, berechnetes Schulpflichtende,
+verlängert bis
+
+Parameter
+
+Schülerauswahl
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+4.1.32 Schulpflicht (Ruhen der Schulpflicht)
+Dieser Bericht gibt einen Überblick über die ruhende Schulpflicht der Schüler aus.
+
+Abb. 80: Beispiel: Bericht SCHULPFLICHT (RUHEN DER SCHULPFLICHT)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF/BK, Klasse, Ruhen der
+Schulpflicht von bis, Ruhen der Schulpflicht dauerhaft, Verstorben,
+Grund
+
+Parameter
+
+Sortierung: nach Schulform, nach Klasse, nach Alphabet
+Version: mit Grund, ohne Grund
+
+Zusätzliche Informationen
+
+In dieser Version werden die Daten mit dem Grund zum Ruhen der
+Schulpflicht ausgegeben, der auf der Webseite SCHÜLER >
+
+SCHÜLERBASISDATEN > SCHULPFLICHT eingepflegt wurde.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+75
+
+4.1.33 Sonderpädagogische Förderung
+Der Bericht gibt einen Überblick über sonderpädagogische Förderungen der Schüler.
+
+Abb. 81: Beispiel: Bericht SONDERPÄDAGOGISCHE FÖRDERUNG (OHNE ANSPRECHPARTNER)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Bezugszeitraum, Stammschule, Vor- und Nachname Schüler,
+Geschlecht, Geburtsdatum, Förderzeitraum, Förderart, Förderplan,
+Fördernde Schule, Schulform des Schülers, Stufe des Schülers,
+Klassenname, Vor- und Nachname Ansprechpartner,
+Namenszusatz, Titel, Adresse, Telefon, Mobiltelefon
+
+Parameter
+
+Version: mit Ansprechpartner, ohne Ansprechpartner
+ReportVariante: Stammschule, fördernde Schule
+Bezugszeitraum von
+Bezugszeitram bis
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+76
+
+4.1.34 Übergang weiterführende Schule
+Der Bericht gibt einen Überblick über den Übergang in eine weiterführende Schule.
+
+Abb. 82: Beispiel: Bericht ÜBERGANG WEITERFÜHRENDE SCHULE
+
+Ausgabeformate
+
+CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geschlecht, PLZ, Ort,
+Straße, Hausnummer, Schule, Dienststellennummer, Schule Ort &
+PLZ, Klassenname, Stufe/Semester, Schulform, Priorität,
+Wunschschule, Wunschschule Dienststellennummer,
+Wunschschule Bezeichnung, Wunschschulform, Wunsch
+Stufe/Semester, Freigabedatum
+
+Parameter
+
+Übergang: Übergang 4/5, Übergang 6/7, Übergang 7/8, Übergang
+9/10 GYM8, Übergang 9/10 alle, Übergang 10/11
+Priorität:1, alle
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+77
+
+4.1.35 Übersicht Schüler (abgebende Schule)
+Der Bericht gibt einen Überblick über Schüler, die von einer abgebenden Schule als
+Kandidat an Ihre Schule kommen.
+
+Abb. 83: Beispiel: Bericht Übersicht SCHÜLER ABGEBENDE SCHULE (mit Ansprechpartner)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Wunschule: Name, Dienstellennummer, Adresse
+Schüler: Schulform, Stufe, Vor- und Nachname, Adresse,
+Geburtsdatum, Sprachfolge, Abmeldung vom Religions-Unterricht,
+Klasse, Geschlecht, Staatsangehörigkeit, Geburtsort, Klasse,
+Klassenleitung, Priorität, Freigabedatum
+Ansprechpartner: Adresse
+
+Parameter
+
+Version: ohne Ansprechpartner, mit Ansprechpartner, Anzahl der
+Schüler je Schule und SF
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+78
+
+4.1.36 Überweisungsverhältnisse
+Der Bericht gibt die Überweisungsverhältnisse zwischen Ihrer und anderen Schulen anhand
+der Schüler aus.
+
+Abb. 84: Beispiel: Bericht ÜBERWEISUNGSVERHÄLTNISSE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Vor- und Nachname Schüler, Klasse,
+Überweisungsart, von bis, Zielschule mit Dienstellennummer und
+Adresse
+
+Parameter
+
+Beginn der Überweisung ab
+Textfeld
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+79
+
+4.1.37 Vorherige Schule
+Der Bericht gibt die vorherigen Schulen für die Schüler an Ihrer Schule aus.
+
+Abb. 85: Beispiel: Bericht VORHERIGE SCHULE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vorherige Schule mit PLZ/Ort, Vor- und Nachname Schüler,
+Geburtsdatum, Geschlecht, SF/BK, St./Sem., Klasse, Schuleintritt,
+letzte Schulform/Stufe
+
+Parameter
+
+Schülerauswahl
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+80
+
+4.1.38 Wiederholer
+Der Bericht gibt Wiederholer und Gründe für die Wiederholung aus.
+
+Abb. 86: Beispiel: Bericht WIEDERHOLER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Schulform, Klasse, St/Sem,
+Halbjahr, Jahrgangsstufe, Wiederholungsjahr, Grund
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+81
+
+4.1.39 Zusatzinformationen
+Der Bericht gibt die eingetragenen Zusatzinformationen zu den Schülern Ihrer Schule aus.
+
+Abb. 87: Beispiel: Bericht ZUSATZINFORMATIONEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Klasse, Stufe, Schulform,
+Zusatzinformationen
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+82
+
+4.2
+
+Anträge/Bescheide
+Hier finden Sie alle Informationen für Anträge/Bescheid für die Schüler.
+
+Abb. 88: Strukturbaum SCHÜLER > ANTRÄGE/BESCHEIDE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+83
+
+4.2.1 Absage
+Der Bericht gibt eine Vorlage für eine Absage zur Aufnahme eines Kandidaten an Ihrer
+Schule aus.
+
+Abb. 89: Beispiel: Bericht ABSAGE
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, Geschlecht
+
+Parameter
+
+Schülerauswahl
+Begründung
+Unterzeichner
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+84
+
+4.2.2 Antrag Verlängerung
+Der Bericht gibt eine Vorlage für den Antrag auf Verlängerung der Vollzeitschulpflicht aus.
+
+Abb. 90: Beispiel: Bericht ANTRAG VERLÄNGERUNG
+
+Ausgabeformate
+
+Word
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse, Vor- und
+Nachname Schüler, Adresse, Klasse
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+85
+
+4.2.3 Aufnahmebestätigung
+Der Bericht gibt eine Vorlage für die Aufnahmebestätigung an Ihrer Schule aus.
+
+Abb. 91: Beispiel: Bericht AUFNAHMEBESTÄTIGUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname
+Ansprechpartner, Adresse Ansprechpartner
+
+Parameter
+
+Schülerauswahl
+Aufnahmedatum
+Aufnahmeuhrzeit
+Aufnahmeort
+Unterrichtsende
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+86
+
+4.2.4 Bescheid Verlängerung
+Der Bericht gibt eine Vorlage aus, für den Bescheid für eine Verlängerung.
+
+Abb. 92: Beispiel: Bericht Bescheid VERLÄNGERUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname Ansprechpartner,
+Adresse, Klasse, verlängerte Vollzeitschulpflicht
+
+Parameter
+
+Schülerauswahl
+Antragsdatum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+87
+
+4.2.5 Beschluss Ablehnung
+Der Bericht gibt eine Vorlage für die Ablehnung des von den Eltern gewünschten
+Bildungsgangs aus.
+
+Abb. 93: Beispiel: Bericht BESCHLUSS ABLEHNUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname
+Ansprechpartner, Adresse, Klasse, Schulform
+
+Parameter
+
+Schülerauswahl
+Datum
+Unterzeichner
+Funktion des Unterzeichners
+Elternwunsch
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+88
+
+4.2.6 Beschluss Zustimmung
+Der Bericht gibt eine Vorlage aus, für die Zustimmung zu einem von den Eltern
+gewünschten Bildungsgang.
+
+Abb. 94: Beispiel: Bericht BESCHLUSS ZUSTIMMUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname Ansprechpartner,
+Adresse, Klasse, Schulform
+
+Parameter
+
+Schülerauswahl
+Datum
+Unterzeichner
+Funktion des Unterzeichners
+Elternwunsch
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+89
+
+4.2.7 Empfehlung Schulform
+Der Bericht gibt eine Vorlage für ein Empfehlungsschreiben der Schulform aus.
+
+Abb. 95: Beispiel: Bericht EMPFEHLUNG SCHULFORM
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname Ansprechpartner,
+Adresse, Klasse
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+90
+
+4.2.8 Empfehlung Verlängerung
+Der Bericht gibt eine Vorlage für ein Empfehlungsschreiben für eine
+Schulpflichtverlängerung.
+
+Abb. 96: Beispiel: Bericht EMPFEHLUNG VERLÄNGERUNG
+
+Ausgabeformate
+
+Word
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, Klasse
+
+Parameter
+
+Schülerauswahl
+Rückantwortdatum
+Klasse
+Unterzeichner
+Funktion des Unterzeichners
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+91
+
+4.2.9 Laufbahnprognose IGS
+Der Bericht gibt eine Vorlage für den prognostizierten Schulabschluss an der IGS.
+
+Abb. 97: Beispiel: Bericht LAUFBAHNPROGNOSE IGS
+
+Ausgabeformate
+
+PDF, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, voraussichtlicher Abschluss, Klasse
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+92
+
+4.2.10 Mitteilung BaföG
+Der Bericht gibt eine Vorlage für ein Schreiben an die verantwortliche BaföG-Stelle zur
+Unterrichtung über Ausbildungsunterbrechungen.
+
+Abb. 98: Beispiel: Bericht MITTEILUNG BAFÖG
+
+Ausgabeformate
+
+Word
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum,
+
+Parameter
+
+Schülerauswahl
+Anrede
+BAföG-Stelle
+Straße
+PLZ Ort
+Unterzeichner
+Funktion des Unterzeichners
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+93
+
+4.2.11 Mitteilung BaföG Beurlaubung
+Der Bericht gibt eine Vorlage für ein Schreiben an die verantwortliche BaföG-Stelle zur
+Unterrichtung über Beurlaubungen.
+
+Abb. 99: Beispiel: Bericht MITTEILUNG BAFÖG BEURLAUBUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Beurlaubungszeitraum
+
+Parameter
+
+Schülerauswahl
+Anrede
+BAföG-Stelle
+Straße
+PLZ Ort
+von Datum
+bis Datum
+Unterzeichner
+Funktion des Unterzeichners
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+94
+
+4.2.12 Nachforderungsschreiben
+Der Bericht gibt eine Vorlage für ein Schreiben, um fehlende Bewerbungsunterlagen der
+Schülern nachzufordern.
+
+Abb. 100: Beispiel: Bericht NACHFORDERUNGSSCHREIBEN
+
+Ausgabeformate
+
+Word
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname Ansprechpartner,
+Adresse Ansprechpartner, Schulform, Bildungsgang
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+95
+
+4.2.13 Weiterführende Schule Kl. 7
+Der Bericht gibt eine Vorlage für den Elternwunsch der weiterführende Schule ab Klasse 7
+aus.
+
+Abb. 101: Beispiel: Bericht WEITERFÜHRENDE SCHULE KL. 7
+
+Ausgabeformate
+
+Word
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Schüler, Adresse, Geburtsdatum,
+Staatsangehörigkeit, Zuzug Deutschland, Konfession, Geburtsort,
+Vor- und Nachname Ansprechpartner, Adresse
+Ansprechpartner,Telefonnummer, dienstliche Telefonnummer,
+E-Mail
+
+Parameter
+
+Schülerauswahl
+Abgabedatum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+96
+
+4.3
+
+Bescheinigungen
+Hier finden Sie alle Informationen für Bescheinigungen für die Schüler.
+
+Abb. 102: Strukturbaum SCHÜLER > BESCHEINIGUNGEN
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+97
+
+4.3.1 FS-Zertifikate GO_E
+Der Bericht gibt ein Zertifikat aus, welches dem Schüler bescheinigt, dass er einen
+bilingualen Unterricht in englischer Sprache besucht hat. Das Zertifikat wird in deutscher
+und englicher Sprache ausgegeben.
+
+Abb. 103: Beispiel: Bericht FS-ZERTIFIKATE GO_E
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Stufe, Fach
+
+Parameter
+
+Schülerauswahl
+Prüfungsfach: Auswahl des Prüfungsfachs
+Prüfungsart: Keine, Schriftlich, Mündlich
+Datum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+98
+
+4.3.2 FS-Zertifikate GO_F
+Der Bericht gibt ein Zertifikat aus, welches dem Schüler bescheinigt, dass er einen
+bilingualen Unterricht in französischer Sprache besucht hat. Das Zertifikat wird in deutscher
+und französischer Sprache ausgegeben.
+
+Abb. 104: Beispiel: Bericht FS-ZERTIFIKATE GO_F
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Stufe, Fach
+
+Parameter
+
+Schülerauswahl
+Prüfungsfach
+Prüfungsart
+Datum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+99
+
+4.3.3 FS-Zertifikate GO_SEK1_E
+Der Bericht gibt ein Zertifikat aus, dass dem Schüler in der SEK 1 die Teilnahme am
+bilingualen Unterricht in englischer Sprache bescheinigt. Bei einem Schüler mit GYM8- und
+GYM-Zeiträumen in der Schullaufbahn mit bilingualem-Unterricht in beiden Zeiträumen wird
+das Fremdsprachenzertifikat SEK1 E nur einmal ausgegeben.
+
+Abb. 105: Beispiel: Bericht FS-ZERTIFIKATE GO-SEK1-E
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Stufe, Fach
+
+Parameter
+
+Schülerauswahl
+Datum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+100
+
+4.3.4 FS-Zertifikate GO_SEK1-F
+Der Bericht gibt ein Zertifikat aus, dass dem Schüler in der SEK 1 die Teilnahme am
+bilingualen Unterricht in französischer Sprache bescheinigt. Bei einem Schüler mit GYM8und GYM-Zeiträumen in der Schullaufbahn mit bilingualem-Unterricht in beiden Zeiträumen
+wird das Fremdsprachenzertifikat SEK1 E nur einmal ausgegeben.
+
+Abb. 106: Beispiel: Bericht FS-ZERTIFIKATE GO_SEK1-F
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Stufe, Fach
+
+Parameter
+
+Schülerauswahl
+Datum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+101
+
+4.3.5 Schulbesuchsbescheinigung
+Der Bericht gibt für aktive Schüler die Schulbesuchsbescheinigung aus.
+
+Abb. 107: Beispiel: Bericht SCHULBESUCHSBESCHEINIGUNG
+
+Ausgabeformate
+
+PDF, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geburtsort,
+Adresse, Klasse, besucht Schule seit / bis, Klasse, Schulform,
+Bildungsgang, Namenszusatz
+
+Parameter
+
+Schülerauswahl
+Besucht Schule seit (opt.)
+Besucht Schule bis (opt.)
+Bescheinigung gültig bis (opt.)
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+102
+
+4.3.6 Schulbesuchsbescheinigung (ehemalig)
+Der Bericht gibt für ehemalige Schüler die Schulbesuchsbescheinigung aus.
+
+Abb. 108: Beispiel: Bericht SCHULBESUCHSBESCHEINIGUNG (EHEMALIG)
+
+Ausgabeformate
+
+PDF, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geburtsort, besucht
+Schule seit / bis, Klasse, Schulform, Bildungsgang, letzte
+Jahrgangsstufe
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+103
+
+4.4
+
+Grundschule
+Hier finden Sie alle spezifischen Berichte für Grundschulen.
+
+Abb. 109: Strukturbaum SCHÜLER > GRUNDSCHULE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+104
+
+4.4.1 Abweichende Empfehlung n. VOGSV §11
+Der Bericht gibt eine Vorlage für eine abweichende Empfehlung nach VOGSV §11 aus.
+
+Abb. 110: Beispiel: Bericht ABWEICHENDE EMPFEHLUNG N. VOGSV §11
+
+Ausgabeformate
+
+PDF, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, gewünschter Bildungsgang,
+empfohlenener Bildungsgang, Vor- und Nachname Leiter
+Klassenkonferenz, Schulleiter
+
+Parameter
+
+Schülerauswahl
+Datum der Anmeldung
+Datum der Klassenkonferenz
+von den Eltern gewählter Bildungsgang
+Leistungsstand
+Bisherige Lernentwicklung
+Arbeitshaltung
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+105
+
+4.4.2 Anmeldung
+Der Bericht gibt eine Vorlage für die Anmeldungen der neuen schulpflichtigen Grundschüler
+aus.
+
+Abb. 111: Beispiel: Bericht ANMELDUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner, Vorund Nachname Schüler
+
+Parameter
+
+Schülerauswahl
+Besuchsdatum
+Besuchszeit
+Raum
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+106
+
+4.4.3 Anmeldung Klasse 5
+Der Bericht gibt eine Vorlage für die Anmeldungen der Grundschüler für Klasse 5 aus.
+
+Abb. 112: Beispiel: Bericht ANMELDUNG KLASSE 5
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Sorgeberechtigter, Adresse Sorgebrechtigter,
+Telefonnummer, Mobiltelefon, E-Mail, Vor- und Nachname Schüler,
+Adresse Schüler, , aktuelle Klasse, Geburtsdatum, Geburtsort,
+Geburtsland, Konfession, Staatsangehörigkeit
+
+Parameter
+
+Schülerauswahl
+Anzahl Wunschschulen
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+107
+
+4.4.4 Beschluss ohne Rückmeldung
+Der Bericht gibt eine Vorlage für einen Beschluss der Klassenkonferenz aus, worauf noch
+keine Rückmeldung durch die Sorgeberechtigten erfolgt ist.
+
+Abb. 113: Beispiel: Bericht BESCHLUSS OHNE RÜCKMELDUNG
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, Klasse
+
+Parameter
+
+Datum
+Unterzeichner
+Funktion des Unterzeichners
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+108
+
+4.4.5 Einschulkinder nach EMD
+Der Bericht listet alle Einschulkinder auf, deren Daten vom Einwohnermeldeamt importiert
+wurden.
+
+Abb. 114: Beispiel: Bericht EINSCHULKINDER NACH EMD
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Einschulkind, Geburtsdatum, Telefon, Adresse,
+EMD-Kategorie, Schulname, Dienststellennummer, Adresse Schule,
+Telefon Schule, E-Mail Schule, Vor- und Nachname Ansprechpartner,
+Adresse Ansprechpartner, Telefon Ansprechpartner, E-Mail
+Ansprechpartner
+
+Parameter
+
+Version: Alle, Schulpflicht (aktuell), Schulpflicht (nächstes Schuljahr),
+übrige Jahrgänge
+
+Zusätzliche Informationen
+
+In dieser Version des Berichts werden alle Einschulkinder aufgelistet,
+deren Daten vom Einwohnermeldeamt importiert wurden.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+109
+
+4.4.6 Klassenkonferenz Übergang 4/5
+Der Bericht gibt eine Vorlage für die Dokumentation der Klassenkonferenz für den
+Übergang von Klasse 4 zu 5 aus.
+
+Abb. 115: Beispiel: Bericht KLASSENKONFERENZ ÜBERGANG 4/5
+
+Ausgabeformate
+
+PDF, Word
+
+Enthaltene Daten
+
+Vor- und Nachname Klassenleitung, Klasse, Vor- und Nachname
+Vorsitz Klassenkonferenz, Vor- und Nachname Schüler, Vor- und
+Nachname unterrichtende Lehrkräfte
+
+Parameter
+
+Klassenauswahl
+Datum der KIassenkonferenz
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+110
+
+4.4.7 Schulanfänger
+Der Bericht gibt eine Übersicht über alle erfassten schulpflichtigen Kinder für das
+kommende Jahr aus.
+
+Abb. 116: Beispiel: Bericht SCHULANFÄNGER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Adresse Schüler, Geschlecht,
+Geburtsdatum, Geburtsort, Staatsangehörigkeit, Kann-Kind, Vor- und
+Nachname Ansprechpartner, Adresse Ansprechpartner,
+Kindergarten/Hort, Adresse Kindergarten / Hort
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+111
+
+4.4.8 Zurückstellung Entwicklungsstand HSchG §58 Abs. 3
+Der Bericht gibt eine Vorlage für die Zurückstellung auf Grund des Entwicklungsstands
+nach HSchG §58 Abs. 3.
+
+Abb. 117: Beispiel: Bericht ZURÜCKSTELLUNG ENTWICKLUNGSSTAND HSCHG §58 ABS. 3
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner, Vorund Nachname Schüler, Geburtsdatum
+
+Parameter
+
+Schülerauswahl
+Begründunng
+
+Zusätzliche Informationen
+
+Voraussetzung für den Bericht "Zurückstellung Entwicklungsstand
+HSchG §58 Abs. 3" ist, dass für den bzw. die betroffenen Schüler auf
+der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT im
+Register ZURÜCKSTELLUNG eine Zurückstellung eingetragen wurde
+(Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3) oder
+Kindergarten). Ohne diese Einträge wird der Bericht leer ausgegeben.
+Umfassende Informationen entnehmen Sie bitte der Anleitung
+Zurückstellung aus entwicklungsbedingten Gründen.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+112
+
+4.4.9 Zurückstellung Sprache
+Der Bericht gibt eine Vorlage für die Zurückstellung auf Grund der Sprache.
+
+Abb. 118 Beispiel: Bericht ZURÜCKSTELLUNG SPRACHE
+
+Ausgabeformate
+
+Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, Geburtsdatum
+
+Parameter
+
+Schülerauswahl
+Begründung
+Zielschule
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+113
+
+4.5
+
+Historie
+Hier finden Sie alle Berichte für Ehemalige Schüler.
+
+Abb. 119: Strukturbaum SCHÜLER > HISTORIE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+114
+
+4.5.1 Ehemalige mit Anschrift
+Der Bericht gibt alle ehemaligen Schüler mit Anschrift aus.
+
+Abb. 120: Beispiel: Bericht EHEMALIGE MIT ANSCHRIFT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Adresse Schüler, Geburtsdatum,
+Zielschule, Abschlussdatum, Abschluss
+
+Parameter
+
+Abgang ab
+Abgang bis
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+115
+
+4.5.2 Ehemalige mit Schullaufbahn
+Der Bericht gibt alle ehemaligen Schüler mit der Schullaufbahn aus.
+
+Abb. 121: Beispiel: Bericht EHEMALIGE MIT SCHULLAUFBAHN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Adresse Schüler, Abschlussdatum,
+Abschlussart
+Zielschule, Halbjahr, Stufe, Schulform, Klasse
+
+Parameter
+
+Abgang ab
+Abgang bis
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+116
+
+5
+
+Statistik
+Hier finden Sie alle Berichte zu dem Bereich STATISTIK. Dieser ist untergliedert in
+ABSCHLUSSSTATISTIK, AUFGABENLISTE AUFFÄLLIGKEITEN, LANDESSCHULSTATISTIK und
+SUMMENBÖGEN.
+
+Abb. 122: Struktur Berichte im Bereich Statistik
+
+5.1
+
+Abschlussstatistik
+Hier finden Sie alle Berichte zur Abschlussstatistik.
+
+Abb. 123: Strukturbaum STATISTIK > ABSCHLUSSSTATISTIK
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+117
+
+5.1.1 Abgänger-/Abschlussstatistik
+Der Bericht gibt alle Abgänger des ausgewählten Schuljahres mit Informationen zum
+Abschluss aus.
+
+Abb. 124: Beispiel: Bericht ABGÄNGER-/ABSCHLUSSSTATISTIK
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geschlecht, letzte
+SF/BK, St./Sem., Klasse, Status, Freigabedatum, Abschlussart
+
+Parameter
+
+Schuljahr
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+118
+
+5.1.2 Prüfbericht Abschlussstatistik
+Der Bericht wird in der LUSD vom Referat II.3 unter STATISTIK – ABSCHLUSSSTATISTIK –
+PRÜFBERICHT ABSCHLUSSSTATISTIK zur Verfügung gestellt und weist auf weitere
+Auffälliglkeiten in den Daten hin, die von der Schule geprüft werden sollen. Die Prüfung
+berücksichtigt alle Schüler, die im aktuellen Schuljahr aktiv waren. Er unterstützt Sie bei der
+Bereinigung fehlerhafter Daten.
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Schuljahr
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+119
+
+5.2
+
+Aufgabenliste Auffälligkeiten
+Hier finden Sie alle Berichte zu Auffälligkeiten in der Aufgabenliste.
+
+Abb. 125: Strukturbaum STATISTIK > AUFGABENLISTE AUFFÄLLIGKEITEN
+
+5.2.1 Klassenbezogene Auffälligkeiten
+Der Bericht dient als Prüfbericht für offene Aufgaben bezüglich der Klassen.
+
+Abb. 126: Beispiel: Bericht KLASSENBEZOGENE AUFFÄLLIGKEITEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Meldungen: Alle
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+120
+
+5.2.2 Kursbezogene Auffälligkeiten
+Der Bericht dient als Prüfbericht für offene Aufgaben bezüglich der Kurse.
+
+Abb. 127: Beispiel: Bericht KURSBEZOGENE AUFFÄLLIGKEITEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Meldungen: Alle
+
+Zusätzliche Informationen
+
+Keine
+
+5.2.3 Lehrkräftebezogene Auffälligkeiten
+Der Bericht dient als Prüfbericht für offene Aufgaben bezüglich der Lehrkräfte.
+
+Abb. 128: Beispiel: Bericht LEHRERKRÄFTEBEZOGENE AUFFÄLLIGKEITEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Meldungen
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+121
+
+5.2.4 Schülerbezogene Auffälligkeiten
+Der Bericht dient als Prüfbericht für offene Aufgaben bezüglich der Schüler.
+
+Abb. 129: Beispiel: Bericht SCHÜLERBEZOGENE AUFFÄLLIGKEITEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Meldungen
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+122
+
+6
+
+Unterricht
+Hier finden Sie alle Berichte zu dem Bereich UNTERRICHT. Dieser ist untergliedert in ABITUR,
+ABSCHLÜSSE, DATENPRÜFUNG, FHR-FOS, FHR-OBERSTUFE, GANZTAG, H/R ABSCHLUSS,
+KURSE, LEISTUNGEN und STUNDENPLAN.
+
+Abb. 130: Struktur Berichte im Bereich UNTERRICHT
+
+6.1
+
+Abitur
+Hier finden Sie alle Informationen zum Abitur.
+
+Abb. 131: Strukturbaum UNTERRICHT > ABITUR
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+123
+
+6.1.1 5. PF (nicht mündlich)
+In diesem Bericht werden alle Schüler ausgegeben, die im fünften Prüfungsfach keine
+mündliche Prüfung ablegen, sondern eine Präsentation oder besondere Lernleistung (BLL)
+erbringen.
+
+Abb. 132: Beispiel: Bericht 5. PF (NICHT MÜNDLICH)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, 5. Prüfungsfach, Kürzel
+Prüfer
+
+Parameter
+
+Tutor
+
+Zusätzliche Informationen
+
+Keine
+
+6.1.2 Abiturienten
+In diesem Bericht werden alle Informationen zu Abiturienten des Jahrgangs aufgeführt.
+
+Abb. 133: Beispiel: Bericht ABITURIENTEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor
+Prüfungsfächer: Fach, Kürzel Prüfer, schriftlich/mündlich
+DuScNo, Gesamtpunktzahl
+
+Parameter
+
+Tutor
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+124
+
+6.1.3 Abiturnoten kursweise
+In diesem Bericht werden alle Abiturnoten auf Kursbasis dargestellt.
+
+Abb. 134: Beispiel: Bericht Abiturnoten kursweise
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Prüfer, Kürzel Prüfer, Kurse aus Q4, Fach, Vorund Nachname Schüler, Kürzel Tutor, Klasse, Kursart, Note
+
+Parameter
+
+Kursauswahl
+Version: Schriftliche Noten der PF 1-3, Mündliche Noten der PF 4 – 5
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+125
+
+6.1.4 Anzahl Prüfungen pro Prüfer
+In diesem Bericht werden die Anzahl der Prüfungen in jedem Prüfungsfach einer Lehrkraft
+dargestellt, die als Prüfer erfasst wurden.
+
+Abb. 135: Beispiel: Bericht ANZAHL PRÜFUNGEN PRO PRÜFER – ALLE PRÜFUNGSFÄCHER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Lehrkraft, Kürzel Lehrkraft, Fach, Anzahl
+Prüfungen
+
+Parameter
+
+Version: alle Prüfungsfächer, Prüfungsfächer des Aufgabenfeldes 1,
+Prüfungsfächer des Aufgabenfeldes 2, Prüfungsfächer des
+Aufgabenfeldes 3, Prüfungsfach Sport
+
+Zusätzliche Informationen
+
+Dieser Bericht gibt eine Übersicht über die Anzahl der Prüfungen in
+jedem Prüfungsfach einer Lehrkraft aus, die auf der Seite UNTERRICHT
+> ABSCHLÜSSE > ABITUR > PRÜFUNGSFÄCHER als Prüfer erfasst sind.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+126
+
+6.1.5 Durchschnittsnoten Abitur
+In diesem Bericht werden die Durchschnittsnoten für das Abitur dargestellt.
+
+Abb. 136: Beispiel: Bericht DURCHSCHNITTSNOTEN ABITUR
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Anzahl Schüler jeweils: Abitur gemeldet. Abitur bestanden, Abitur nicht
+zugelassen Grund, Durchschnittsnoten
+Schuldurchschnitt aktuell, Schuldurchschnitt Vergangenheit,
+Landesmittel Durchschnitt
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+127
+
+6.1.6 Kontrollbogen 1 (Meldung)
+Dieser Bericht dient als Kontrollbogen zur Abitur Meldung. Pro gewähltem Schüler werden
+die Kurse / Themen und Noten von Q1 bis Q4 ausgegeben und die erreichten Punkte
+berechnet.
+
+Abb. 137: Beispiel: Bericht KONTROLLBOGEN 1 (MELDUNG)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Fach, Q1 – Q4 Kurs, Vorund Nachname Lehrkraft, Thema, Punkte, Prüfungsfach, Nachname
+Prüfer, Fremdsprachen
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Tutor, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+128
+
+6.1.7 Kontrollbogen 2 (Zulassung)
+Dieser Bericht dient als Kontrollbogen für die Zulassung der Schüler zum Abitur.
+
+Abb. 138 : Beispiel: Bericht KONTROLLBOGEN 2 (ZULASSUNG)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Prüfungsfach , Grund- und
+Leistungskurse, E1 – Q4 Kurs, Kürzel Lehrkraft, Punkte, Fach, Vorund Nachname Prüfer, Fremdsprachen (GeR)
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Tutor, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+129
+
+6.1.8 Kontrollbogen 3 (Schriftliche Ergebnisse)
+Dieser Bericht dient als Kontrollbogen für die schriftlichen Ergebnisse des Abiturs.
+
+Abb. 139: Beispiel: Bericht KONTROLLBOGEN 3 (SCHRIFTLICHE ERGEBNISSE)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Prüfungsfächer, Kürzel
+Lehrkraft, Leistungskurs, Grundkurs, Noten Q1 – Q4, Kürzel Prüfer,
+Prüfungsergebnisse
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Tutor, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+130
+
+6.1.9 Kontrollbogen 4 (Zeugnis)
+Dieser Bericht dient als Kontrollbogen für die schriftlichen Ergebnisse des Abiturs.
+
+Abb. 140: Beispiel: Bericht KONTROLLBOGEN 4 (ZEUGNIS)
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Prüfungsfächer,
+Leistungskurse, Grundkurse, Noten Q1 – Q4, Themen, Kürzel
+Lehrkraft, Kürzel Prüfer, Prüfungsergebnis in einfacher Wertung,
+Gesamtergebnis in vierfacher Wertung
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Tutor, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+131
+
+6.1.10 Prüfer X.PF
+Dieser Bericht gibt eine Übersicht über die Prüfer sortiert nach Prüfungsfach.
+
+Abb. 141: Beispiel: Bericht PRÜFER X.PF NACH SORTIERUNG 1. ODER 2. PRÜFUNGSFACH
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Prüfer, Kürzel Prüfer, 1. Bis 5. Prüfungsfach
+
+Parameter
+
+Sortierung: 1. oder 2. Prüfungsfach, 3. Prüfungsfach, 4.
+Prüfungsfach, 5. Prüfungsfach, 4. Oder 5. Prüfungsfach
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+132
+
+6.1.11 Prüfungsfächer
+Dieser Bericht gibt eine Übersicht über die Anzahl der Prüflinge je nach Prüfungsfach aus.
+
+Abb. 142: Beispiel: Bericht PRÜFUNGSFÄCHER (1. UND 2. PRÜFUNGSFACH)
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Fach, Kursbezeichnung, Kürzel Prüfer, Anzahl der Prüflinge, Summe
+Prüflinge pro Fach
+
+Parameter
+
+Sortierung: 1. und 2. Prüfungsfach, 3. Prüfungsfach, 4. Prüfungsfach,
+5. Prüfungsfach, 4. und 5. Prüfungsfach
+
+Zusätzliche Informationen
+
+In diesem Bericht werden die Prüfungsfächer aus der Q4 dargestellt.
+Es werden Informationen über das Fach, die Kursbezeichnung, den
+oder die Prüfer/in, die Anzahl der Prüflinge pro Kurs und die Summe
+der Prüflinge des gleichen Faches ausgegeben.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+133
+
+6.1.12 Statuswerte Abitur
+Dieser Bericht gibt alle aktuellen Abitur-Statuswerte der Prüflinge aus. Als Vorbereitung für
+die Statistik sollte der Bericht am Ende des Abiturlaufs ausgegeben und geprüft werden.
+
+Abb. 143: Beispiel: Bericht STATUSWERTE ABITUR
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Klasse, Status Abitur
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Der Bericht gibt alle aktuellen Abitur-Statuswerte der Prüflinge aus.
+Als Vorbereitung für die Statistik sollte der Bericht am Ende des
+Abiturlaufs ausgegeben und geprüft werden.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+134
+
+6.1.13 Zulassung Qualifikationsphase
+Dieser Bericht gibt eine Übersicht zu Schülern, welche die Zulassungsbedingungen für die
+Qualifikationsphase nicht erfüllen.
+
+Abb. 144: Beispiel: Bericht ZULASSUNG QUALIFIKATIONSPHASE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Fächer, Lehrkraft je Fach,
+Note, Summe der Punkte der Pflichtfächer, Fächer mit weniger als 5
+Punkten
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+135
+
+6.1.14 Zusatzinformationen Abiturzeugnis
+Dieser Bericht enthält eine Übersicht über die Zeugnisbemerkungen und die Ausgabe der
+Konfession der Schüler in der Q4, die in das Abiturzeugnis übernommen werden.
+
+Abb. 145: Beispiel: Bericht ZUSATZINFORMATIONEN ABITURZEUGNIS
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Vor- und Nachname Tutor,
+Konfessionsdruck, Abiturzeugnis-Bemerkungen
+
+Parameter
+
+Tutor
+
+Zusätzliche Informationen
+
+Dieser Bericht enthält eine Übersicht über die Zeugnisbemerkungen
+und die Ausgabe der Konfession der Schüler in der Q4, die in das
+Abiturzeugnis übernommen werden.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+136
+
+6.1.15 Zusätzl. mündl. Prüfung
+Dieser Bericht enthält eine Übersicht über die Abiturienten mit einer zusätzlichen,
+mündlichen Prüfung.
+
+Abb. 146: Beispiel: Bericht ZUSÄTZL. MÜNDL. PRÜFUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Kürzel Tutor, Prüfungsfach,
+Kürzel Prüfer
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+137
+
+6.2
+
+Abschlüsse
+Hier finden Sie alle Informationen den Abschlüssen der allgemeinbildenden und beruflichen
+Schulen.
+
+Abb. 147: Strukturbaum UNTERRICHT > ABSCHLÜSSE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+138
+
+6.2.1 Abschlüsse (allgemeinbildende Schulen)
+Dieser Bericht gibt eine zusammengefasste Übersicht zu den für das ausgewählte
+Schuljahr erfassten Abschlüssen oder Abgängern.
+
+Abb. 148: Beispiel: Bericht ABSCHLÜSSE (ALLGEMEINBILDENDE SCHULEN)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Name der Schule, Schultyp, Schulort, Dienststellennummer,
+Abschlussart, Schulform, Abschlüsse
+
+Parameter
+
+Schuljahr
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+139
+
+6.2.2 Abschlüsse (berufliche Schulen)
+Dieser Bericht gibt eine zusammengefasste Übersicht zu den für das ausgewählte
+Schuljahr erfassten Abschlüssen oder Abgängern.
+
+Abb. 149: Beispiel: Bericht ABSCHLÜSSE (BERUFLICHE SCHULEN)
+
+Ausgabeformate
+
+CSV
+
+Enthaltene Daten
+
+Name der Schule, Schultyp, Schulort, Schulform, Abschlussart,
+Abschlüsse
+
+Parameter
+
+Schuljahr
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+140
+
+6.3
+
+Datenprüfung
+Hier finden Sie Übersichten zur Prüfung der Abschlussmelde-Daten.
+
+Abb. 150: Strukturbaum UNTERRICHT > DATENPRÜFUNG
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+141
+
+6.3.1 Fehlende Noten
+Dieser Bericht gibt eine Übersicht zu den fehlenden Noten der ausgewählten Klassen aus.
+
+Abb. 151: Beispiel: Bericht FEHLENDE NOTEN NACH KLASSE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung, Vor- und Nachname
+Schüler, Kurs, Kursart, Kürzel Lehrkraft, Note/Kopfnote/Bemerkung,
+Eintrag
+
+Parameter
+
+Klassenauswahl
+Version: Fehlende Noten nach Klassen, fehlende Noten nach
+Lehrkraft
+Textfeld
+
+Zusätzliche Informationen
+
+Dieser Bericht gibt eine Übersicht über nicht eingetragene Noten der
+Schüler aus. Vor der Generierung des Berichts ist eine Überprüfung
+auf fehlende Noten notwendig:
+Navigieren Sie dazu auf die Webseite UNTERRICHT > DATENPRÜFUNG >
+KONFERENZVORBEREITUNG und führen Sie eine Überprüfung auf
+fehlende Noten für die entsprechenden Klassen manuell durch.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+142
+
+6.3.2 Hauptschulprognose IGS Übersicht
+Dieser Bericht gibt eine Prognose für den Hauptschulabschluss IGS aus.
+
+Abb. 152: Beispiel: Bericht HAUPTSCHULPROGNOSE IGS ÜBERSICHT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+St./Sem., Klasse, Kürzel Klassenleitung, Vor- und Nachname
+Klassenleitung, Vor- und Nachname Schüler, Prognose,
+prognostizierte Gesamtleistung, geprüft am
+
+Parameter
+
+Klassenauswahl
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+143
+
+6.3.3 Meldungsübersicht
+Der Bericht gibt die Meldungen aus der Belegungsprüfung aus.
+
+Abb. 153: Beispiel: Bericht MELDUNGSÜBERSICHT - BELEGUNGSÜBERSICHT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+Parameter
+
+Schülerauswahl
+UV
+Version: Belegungstest (Schülerauswahl erforderlich), UVPrüfungstest (keine Schülerauswahl erforderlich)
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+144
+
+6.3.4 Realschulprognose IGS Übersicht
+Dieser Bericht gibt eine Prognose für den Realschulabschluss IGS aus.
+
+Abb. 154: Beispiel: Bericht REALSCHULPROGNOSE IGS
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+St./Sem., Klasse, Kürzel Klassenleitung, Vor- und Nachname
+Klassenleitung, Vor- und Nachname Schüler, Prognose, prog.
+Gesamtleistung, Durchschnittsnote Hauptfächer, Durchschnittsnote
+Restfächer, geprüft am
+
+Parameter
+
+Klassenauswahl
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+145
+
+6.4
+
+FHR-FOS
+Hier finden Sie Übersichten zur FHR-FOS.
+
+Abb. 155: Strukturbaum UNTERRICHT > FHR-FOS
+
+6.4.1 FOS Abschlussprüfungen
+Dieser Bericht gibt eine Übersicht über die FOS-Abschlussprüfungen aus.
+
+Abb. 156: Beispiel: Bericht FOS ABSCHLUSSPRÜFUNGEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Klasse
+Anzahl: freiw. Wiederholer §15, Abschlüsse, nicht bestandene
+Prüfungen, Täuschung §21, nicht angetretene Schüler §27
+Ergebniss, Durchschnittsnote
+
+Parameter
+
+Klassenauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+146
+
+6.4.2 FOS Mündliche Prüfungen
+Dieser Bericht gibt eine Übersicht über die FOS mündlichen Prüfungen aus.
+
+Abb. 157: Beispiel: Bericht FOS MÜNDLICHE PRÜFUNGEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Bezeichnung, Anzahl der Prüfungen, Prüfer (Anzahl)
+
+Parameter
+
+Klassenauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+147
+
+6.4.3 FOS Prüfungsbericht
+Dieser Bericht gibt einen FOS Prüfbericht aus.
+
+Abb. 158: Beispiel: Bericht FOS PRÜFUNGSBERICHT
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geschlecht, St/Sem, Klasse, Kürzel
+Klassenleitung, Bezeichnung, Unterrichtsleistung, Schritftliche
+Prüfung, Mündliche Prüfung, Gesamtleistung, Schriftliche
+Prüfungsfächer, Gesamtpunktzahl, Durchschnittsnote
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+148
+
+6.4.4 Meldungen 1. Register
+Dieser Bericht gibt eine Übersicht zu den Meldungen 1. Register.
+
+Abb. 159: Beispiel: Bericht MELDUNGEN 1. REGISTER
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Schulform, Vor- und Nachname Schüler, Stufe, Klasse, Vor- und
+Nachname Klassenleitung
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+149
+
+6.5
+
+FHR-Oberstufe
+Hier finden Sie Berichte zur FHR-Oberstufe.
+
+Abb. 160: Strukturbaum UNTERRICHT > FHR-OBERSTUFE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+150
+
+6.5.1 FHR-Varianten
+Dieser Bericht gibt eine Übersicht zu den FHR-Varianten aus.
+
+Abb. 161: Beispiel: Bericht FHR-VARIANTEN
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geschlecht, Geburtsdatum, SF/BK,
+Stufe, Klasse, Nachname Tutor, Kursart, Fach, Note Q1 – Q4,
+Punkte LK & GK, Gesamtpunktzahl, Durchschnittsnote, Ergebnisse
+des Prüfungsdurchlaufs
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Alphabet, nach Klasse
+Version: ausgewählte Version, alle Varianten
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+151
+
+6.6
+
+Ganztag
+Hier finden Sie die Übersicht zum Betreuungsangebot im Ganztag.
+
+Abb. 162: Strukturbaum UNTERRICHT > GANZTAG
+
+6.6.1 Betreuungsangebote im Ganztag
+Dieser Bericht gibt eine Übersicht zu den Betreuungsangeboten in Ganztag aus.
+
+Abb. 163 Beispiel: Bericht BETREUUNGSANGEBOTE IM GANZTAG
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+Parameter
+
+SF/BK, St./Sem., Betreuungsart, Thema, Std./Wo., Kürzel Lehkraft,
+Std./Lehrkraft, Anzahl Schüler, Anmerkung, aktiv
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+152
+
+6.7
+
+H/R Abschluss
+Hier finden Sie Berichte für die Haupt- und Realschulabschlüsse.
+
+Abb. 164: Strukturbaum UNTERRICHT > H/R ABSCHLUSS
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+153
+
+6.7.1 Abschluss Elternbenachrichtigung
+Dieser Bericht gibt eine Vorlage für die Elternbenachrichtigung zum Abschluss aus.
+
+Abb. 165: Beispiel: Bericht ABSCHLUSS ELTERNBENACHRICHTIGUNG
+
+Ausgabeformate
+
+PDF, Word, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Ansprechpartner, Adresse Ansprechpartner,
+Vor- und Nachname Schüler, Klasse, Abschluss, Ergebnisse
+Abschlussprüfung, Notenspiegel (kursbezogen), Vor- und
+Nachname Klassenleitung
+
+Parameter
+
+Schülerauswahl
+Prüfungen: ohne Zusatz-/Projektprüfung, mit Zusatz/Projektprüfung, nur Zusatz-/Projektprüfung
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+154
+
+6.7.2 Abschlusszeugnis Konferenzliste
+Dieser Bericht gibt eine Vorlage für die Klassenkonferenz zur Erstellung der
+Abschlusszeugnisse.
+
+Abb. 166: Beispiel: Bericht ABSCHLUSSZEUGNIS KONFERENZLISTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung , Vor- und
+Nachname Klassenleitung, Vor- und Nachname Schüler, Notenart,
+Fächer nach Kursart, Kürzel Lehrkraft
+
+Parameter
+
+Klassenauswahl
+Textfeld
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+155
+
+6.7.3 Durchschnittsnoten HR
+Dieser Bericht gibt eine Übersicht über die Durchschnittsnoten der Haupt- und / oder
+Realschule aus.
+
+Abb. 167: Beispiel: Bericht DURCHSCHNITTSNOTEN HR
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Durchschnittsnoten der einzelnen Fächer
+
+Parameter
+
+Version: Beides, Hauptschule, Realschule
+Schuljahr: Aktuelles Schuljahr, 2 Schuljahre, 3 Schuljahre, 4
+Schuljahre, 5 Schuljahre, Alle
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+156
+
+6.7.4 Ergebnisse Abschlussprüfung - Klasse
+Dieser Bericht gibt eine Übersicht über die Ergebnisse der Abschlussprüfungen der Hauptund/oder Realschule nach Klassen wieder.
+
+Abb. 168: Beispiel: Bericht ERGEBNISSE ABSCHLUSSPRÜFUNGEN - KLASSE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung, Vor- und
+Nachname Klassenleitung, Vor- und Nachname Schüler,
+Ergebnisse der schriftlichen Prüfung, Ergebnis der Zusatzprüfung,
+Gesamtergebnisse, Abschlussart
+
+Parameter
+
+Klassenauswahl
+Version: Hauptschule, Realschule
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+157
+
+6.7.5 Ergebnisse Abschlussprüfung - Schüler
+Dieser Bericht gibt eine Übersicht über die Ergebnisse der Abschlussprüfungen der Hauptund/oder Realschule nach Schülern wieder.
+
+Abb. 169: Beispiel: Bericht ERGEBNISSE ABSCHLUSSPRÜFUNGEN - SCHÜLER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF/BK, St./Sem., Klasse, Kürzel
+Klassenleitung, Vor- und Nachname Klassenleitung, Kursart, Fach,
+Halbjahr, Halbjahrnote, Kürzel Lehrkraft, Prüfungsnoten, Endnote,
+Zeugnisnote
+
+Parameter
+
+Schülerauswahl
+Version: Hauptschule, Realschule
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+158
+
+6.7.6 Ergebnisse schriftlicher Abschlussarbeiten
+Dieser Bericht gibt eine Übersicht über die Ergebnisse der schriftlichen Abschlussarbeiten.
+
+Abb. 170: Beispiel: Bericht ERGEBNISSE SCHRIFTLICHE ABSCHLUSSARBEITEN LEER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung Vor- und Nachname
+Klassenleitung, Vor- und Nachname Schüler, Kursbezeichnung, Vorund Nachname Kurslehrkraft, Detaillierte Ergebnisse nach der
+Abschlussarbeit
+
+Parameter
+
+Kursauswahl
+Aufruf Art: Leer, Mit Abschlüsse
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+159
+
+6.7.7 HR Berechnung der Gesamtleistung
+Dieser Bericht gibt eine Übersicht über die Berechnung der Gesamtleistung für Real- oder
+Hauptschule.
+
+Abb. 171: Beispiel: Bericht HR BERECHNUNG DER GESAMTLEISTUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geschlecht, St./Sem., Klasse, Art des
+Abschlusses, Fach, Jahresnote, Prüfungsnote, Endnote,
+Berechnung der Durchschnittsnote
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Klassen, nach Alphabet
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+160
+
+6.8
+
+Kurse
+Hier finden Sie Übersichten zu allen Kursen.
+
+Abb. 172: Strukturbaum UNTERRICHT > KURSE
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+161
+
+6.8.1 Kurse mit Themen
+Dieser Bericht gibt eine Übersicht über alle hinterlegten Kurse und deren Themen aus. In
+dem Bericht werden nur die Kurse ausgegeben, denen unter UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG oder in der UV-Planungsvariante eine Lehrkraft
+zugewiesen wurde.
+
+Abb. 173: Beispiel: Bericht KURSE MIT THEMEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Fach, Kursart, Kursbezeichnung, Anzahl Schüler,
+Kursstunden, Kürzel Lehrkraft, Stunden der Lehrkraft, Zeiten,
+Thema
+
+Parameter
+
+Kursauswahl
+UV
+
+Zusätzliche Informationen
+
+In dem Bericht werden nur die Kurse ausgegeben, denen unter
+UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG oder in der
+UV - Planungsvariante unter Kursbearbeitung eine Lehrkraft
+zugewiesen wurde.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+162
+
+6.8.2 Kurslisten
+Dieser Bericht gibt eine detaillerte Übersicht zu allen Schülern eines Kurses aus.
+
+Abb. 174: Beispiel: KURSLISTEN MIT SCHÜLERINDIVIDUELLEN EIGENSCHAFTEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Fach, Klasse, Stufe, SF, Thema, Kursbezeichnung, Kürzel Lehrkraft,
+Vor- und Nachname Lehrkraft, Kursart, Kursoption,
+Kursdifferenzierung, Stunden, Zeiten, Räume, Vor- und Nachname
+Schüler, Kürzel Klassenleitung, Kürzel Vertreter, St./Sem., SF/BK,
+Status
+
+Parameter
+
+Kursauswahl
+UV
+Sortierung: nach Alphabet, nach Klasse
+Version: mit schülerindividuellen Kurseigenschaften, ohne
+schülerindividuelle Kurseigenschaften
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+163
+
+6.8.3 Kursstärken
+Dieser Bericht gibt die Anzahl der Schüler nach Kursen aus.
+
+Abb. 175: Beispiel: KURSSTÄRKEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Stufe, Fach, Kursbezeichnung, Kursart, Kursoption,
+Kursdifferenzierung, Kürzel Lehrkraft, Anzahl Schüler je Kurs/Fach,
+Mittelwert/Fach
+
+Parameter
+
+Unterrichtsverteilung
+
+Zusätzliche Informationen
+
+In dem Bericht werden nur die Kurse ausgegeben, denen unter
+UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG oder in der UV Planungsvariante unter Kursbearbeitung eine Lehrkraft zugewiesen
+wurde.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+164
+
+6.8.4 Planung UV-Vergleich
+Dieser Bericht gibt einen der UV-Planung aus.
+
+Abb. 176: Beispiel: PLANUNG UV-VERGLEICH
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+UV-Planungsvariante, Vergleich mit UV des Hj./Sem.,
+Klassenvergleich, SF, St./Sem., Klasse, Anzahl Schüler in Klassen,
+Anzahl Schüler Stufe Gesamt, Schüler ohne Klasse, Schüler ohne
+Schulform
+
+Parameter
+
+Unterrichtsverteilungsvariante
+Aktive UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+165
+
+6.8.5 Schülerbezogene Kurslisten
+Dieser Bericht gibt alle Schüler bezogen auf ihre Kurse aus.
+
+Abb. 177: Beispiel: Bericht SCHÜLERBEZOGENE KURSLISTEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Fächer, Kursbezeichnung, Kursart, Kürzel Lehrkraft
+
+Parameter
+
+Klassenauswahl
+Version: ohne Schülerkurseigenschaften, mit
+Schülerkurseigenschaften
+Unterrichtsverteilung
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+166
+
+6.8.6 Schülerbezogene Kurslisten A3
+Dieser Bericht gibt alle Schüler bezogen auf ihre Kurse im A3-Format aus.
+
+Abb. 178: Beispiel: Bericht SCHÜLERBEZOGENE KURSLISTEN A3
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Fächer, Kursbezeichnung, Kursart, Kürzel Lehrkraft
+
+Parameter
+
+Klassenauswahl
+Version: ohne Schülerkurseigenschaften, mit
+Schülerkurseigenschaften
+Unterrichtsverteilung
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+167
+
+6.8.7 Schüler-Kurse
+Dieser Bericht gibt alle Kurse bezogen auf die Schüler aus.
+
+Abb. 179: Beispiel: Bericht SCHÜLER-KURSE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF/BK, Stufe, Klasse, Kürzel
+Klassenleitung, Kursbezeichnung, Fach, Kürzel Lehrkraft, Kursart,
+Kursoption, Stunden Gesamt, Zeiten, Räume
+
+Parameter
+
+Schülerauswahl
+Version: einfach, mit Kurseigenschaften, mit Kurseigenschaften,
+Zeiten und Räumen
+Auswahl UV
+Sortierung: nach Klasse, nach Alphabet
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+168
+
+6.8.8 Unterrichte der Lehrkräfte
+Dieser Bericht gibt eine Übersicht über die Verteilung des Unterrichts der Lehrkräfte aus.
+
+Abb. 180: Beispiel: Bericht UNTERRICHTE DER LEHRKRÄFTE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Kürzel Lehrkraft, SF, St./Sem., Fach, Klasse, Kursbezeichnung,
+Kursart, Kursoption, Kursdifferenzierung, Epochal, Stunden,
+Schüleranzahl
+
+Parameter
+
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+169
+
+6.8.9 Unterrichtsverteilung
+Dieser Bericht gibt eine Übersicht über die Unterrichtsverteilung aus.
+
+Abb. 181: Beispiel: Bericht UNTERRICHTSVERTEILUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Fach, Klasse, Kursbezeichnung, Kürzel Thema
+Kursart, Kursoption, Kursdifferenzierung, Epochal, Std/Kurs,
+Std/Lehrkraft, Kürzel Lehrkraft
+
+Parameter
+
+UV
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+170
+
+6.8.10 Unterrichtsverteilung (alle Standorte)
+Dieser Bericht gibt eine Übersicht über die Unterrichtsverteilung (alle Standorte).
+
+Abb. 182: Beispiel: Bericht Unterrichtsverteilung (alle Standorte)
+
+Ausgabeformate
+
+PDF,CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Fach, Klasse, Kursbezeichnung, Kursart,
+Kursoption, Kursdifferenzierung, Epochal, Std/Kurs, Std/Lehrkraft,
+Kürzel Lehrkraft
+
+Parameter
+
+UV: aktive UV, Planungsvarianten mit Prio 1
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+171
+
+6.9
+
+Leistungen
+Hier finden Sie Übersichten zu den Leistungen.
+
+Abb. 183: Strukturbaum UNTERRICHT > LEISTUNGEN
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+172
+
+6.9.1 GeR-Niveau
+Dieser Bericht gibt eine Übersicht über das GeR-Niveau.
+
+Abb. 184: Beispiel: Bericht GER-NIVEAU
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Fach Fremdsprache, Halbjahre, Kursart, Noten, Kürzel
+Lehrkraft, GeR-Niveau, GeR-Zeugnis
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Dieser Bericht gibt eine Übersicht über das automatisch berechnete
+und das manuell eingetragene Sprachniveau in den GeRFremdsprachen aus.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+173
+
+6.9.2 Kursnotenliste
+Dieser Bericht gibt eine Übersicht über die Noten der Schüler in den jeweiligen Kursen.
+
+Abb. 185: Beispiel: Bericht KURSNOTENLISTE NACH ALPHABET, OHNE SCHÜLERINDIVIDUELLE
+KURSEIGENSCHAFTEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Fach, Klasse, Stufe, SF, Thema, Kürzel Lehrkraft, Vor- und
+Nachname Lehrkraft, Kursbezeichnung, Vor- und Nachname
+Schüler, Kürzel Klassenleitung, Klasse, Note, Fehlstunden (Gesamt,
+Unentschuldigt)
+
+Parameter
+
+Kursauswahl
+Sortierung: nach Alphabet, nach Klasse
+Version: ohne schülerindividuelle Kurseigenschaften, mit
+schülerindividuellen Kurseigenschaften
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+174
+
+6.9.3 Kursnotenliste Gym. Oberstufe
+Dieser Bericht gibt eine Übersicht über die Noten der Schüler in den jeweiligen Kursen der
+gymnasialen Oberstufe.
+
+Abb. 186: Beispiel: Bericht KURSNOTENLISTE GYM. OBERSTUFE NACH ALPHABET
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Fach, Thema, Kürzel Lehrkraft, Vor- und Nachname Lehrkraft,
+Klasse, KA, KO, Stunden, Note, Fehlstunden
+
+Parameter
+
+Kursauswahl
+Sortierung: nach Alphabet, nach Klasse
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+175
+
+6.9.4 Leistungshistorie (nach Kursen)
+Dieser Bericht gibt eine Übersicht zu der Leistungshistorie nach Kursen aus.
+
+Abb. 187: Beispiel: Bericht LEISTUNGSHISTORIE (NACH KURSEN)
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Kurs, Klasse, Fach, SF/BK, Kürzel Lehrkraft, Vor- und Nachname
+Lehrkraft, Vor- und Nachname Schüler, Kürzel Kursleiter/Tutor, Note
+Halbjahr, Kursart
+
+Parameter
+
+Kursauswahl
+
+Zusätzliche Informationen
+
+Dieser Bericht gibt eine halbjahresbezogene Übersicht über die
+Leistungen der Schüler der letzten drei Halbjahre eines Kurses aus.
+Der Bericht gibt nur die vergangenen Halbjahresleistungen für Kurse
+mit der Kursart L, G, P, W und B mit der jeweiligen Jahrgangsstufe
+aus.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+176
+
+6.9.5 Leistungshistorie (nach Schülern DIN A4)
+Dieser Bericht gibt eine Übersicht zu der Leistungshistorie pro Schüler in DIN A4.
+
+Abb. 188: Beispiel: Bericht LEISTUNGSHISTORIE (NACH SCHÜLERN DIN A4)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Halbjahr, St./Sem., Arbeits- und Sozialverhalten, Fach,
+Kursart, Note, Kürzel Lehrkraft
+
+Parameter
+
+Schülerauswahl
+Halbjahrvergangenheit: Aktuelles Halbjahr, Alle, 1 – 10 Halbjahre in
+die Vergangenheit
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+177
+
+6.9.6 Leistungshistorie (nach Schülern – DIN A3)
+Dieser Bericht gibt eine Übersicht zu der Leistungshistorie im Format A3.
+
+Abb. 189: Beispiel: Bericht LEISTUNGSHISTORIE A3 (NACH SCHÜLERN DIN A4)
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Halbjahr, St./Sem., Arbeits- und Sozialverhalten, Fach,
+Kursart, Note, Kürzel Lehrkraft
+
+Parameter
+
+Schülerauswahl
+Halbjahresvergangenheit: Aktuelles Halbjahr, Alle, 1 – 10 Halbjahre
+in die Vergangenheit
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+178
+
+6.9.7 Notensprünge
+Dieser Bericht gibt eine Übersicht über die Notensprünge aus.
+
+Abb. 190: Beispiel: Bericht NOTENSPRÜNGE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, SF/BK, St./Sem., Fach, Kürzel Lehrkraft, Note aktuelles
+Halbjahr, Note letztes Halbjahr
+
+Parameter
+
+Sortierung: nach Klasse, nach Alphabet
+
+Zusätzliche Informationen
+
+Hinweis:
+Dieser Bericht gibt eine Übersicht über die Notensprünge aus. Vor
+der Generierung des Berichts ist eine Überprüfung auf
+Notensprünge notwendig:
+Eine automatische Prüfung der Notensprünge erfolgt regelmäßig
+über Nacht.
+Wenn Sie heute Noten eingetragen oder geändert haben, müssen
+sie eine manuelle Überprüfung der Notensprünge vornehmen.
+Navigieren Sie dazu auf die Webseite UNTERRICHT >
+DATENPRÜFUNG > KONFERENZVORBEREITUNG und führen Sie die
+Überprüfung auf Notensprünge für die entsprechenden Klassen
+manuell durch.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+179
+
+6.9.8 Schüler Zeugnisbemerkungen
+Dieser Bericht gibt eine Übersicht über die Zeugnisbemerkungen pro Schüler aus.
+
+Abb. 191: Beispiel: Bericht SCHÜLER ZEUGNISBEMERKUNGEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung, Vor- und Nachname
+Schüler, Bemerkung-Abkürzung, Bemerkung-Text
+
+Parameter
+
+Klassenauswahl
+Textfeld
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+180
+
+6.9.9 Schüler-Historie
+Dieser Bericht gibt eine Übersicht über die Historie des ausgewählten Schülers aus.
+
+Abb. 192: Beispiel: Bericht SCHÜLER-HISTORIE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Klasse, Nachname
+Klassenleitung, Halbjahr, SF/BK, St./Sem., Eintritt, Klasse,
+Klassenleitung Kürzel, Anzahl Wiederholung, Versetzung gefährdet,
+Versetzung, Abschluss, Fach, Kurs, Kursart, Note, Kürzel
+Kurslehrkraft, Fehltage Gesamt/Unentschuldigt, Fehlstunden
+Gesamt/Unentschuldigt
+
+Parameter
+
+Schülerauswahl
+Halbjahre Vergangenheit: Aktuelles Halbjahr, Alle, 2 – 10 Halbjahre
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+181
+
+6.9.10 Schüler-Noten
+Dieser Bericht gibt eine Übersicht über die Noten der ausgewählten Schüler.
+
+Abb. 193: Beispiel: Bericht SCHÜLER-NOTEN
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, SF/BK, St./Sem, Klasse, Nachname
+Klassenleitung, Kursbezeichnung, Fach, Kürzel Lehrkraft, Kursart,
+Kursoption, Kursdifferenzierung, Stunden, Note, Fehlstunden
+Gesamt, Fehlstunden unentschuldigt, Fehlzeiten summiert
+(kursweise, klassenweise)
+
+Parameter
+
+Schülerauswahl
+Fehlzeiten anzeigen: mit Fehlzeiten, ohne Fehlzeiten
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+182
+
+6.9.11 Versetzung - Eignung
+Dieser Bericht gibt eine Übersicht über die Versetzung und Eignung der Schüler.
+
+Abb. 194: Beispiel: Bericht VERSETZUNG MIT HISTORISCHER EIGNUNG
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, St./Sem., Klasse, Kürzel Klassenleitung, Vor- und Nachname
+Klassenleitung, Vor- und Nachname Schüler, Gefährdung,
+Versetzung, Querversetzung, Letzte festgelegte Eignung,
+Voraussichtlicher Abschluss, historische Eignung nach Halbjahr
+
+Parameter
+
+Klassenauswahl
+Freitex
+Version: Gefährdung/Versetzung, mit Eignung, mit vorauss.
+Abschluss, mit historischer Eignung
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+183
+
+6.9.12 Vorschläge AV/SV
+Dieser Bericht gibt eine Übersicht über Vorschläge für die Bewertung des Arbeits- und
+Sozialverhalten aus.
+
+Abb. 195: Beispiel: Bericht VORSCHLÄGE AV/SV LEER
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Schüler, Fach, Kürzel Lehrkraft, Note Sozialverhalten, Note
+Arbeitsverhalten
+
+Parameter
+
+Klassenauswahl
+Version: leer, mit Noten
+Kursoption GTAB: ohne Kurse mit der Kursoption GTAB, mit Kursen der
+Kursoption GTAB
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+184
+
+6.9.1
+
+Vorschläge AV/SV (Excel)
+
+Dieser Bericht gibt eine Übersicht über Vorschläge für die Bewertung des Arbeits- und
+Sozialverhalten in Ecxel aus.
+
+Abb. 196: Beispiel: Bericht VORSCHLÄGE AV/SV (Excel)
+
+Ausgabeformate
+
+XLSX
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Vertretung, Vor- und Nachname Schüler, Fach, Kürzel Lehrkraft,
+Halbjahr
+
+Parameter
+
+Klassenauswahl
+Version: ohne vorgeschlagene Noten im Arbeits- und Sozialverhalten,
+mit vorgeschlagenen Noten im Arbeits- und Sozialverhalten
+Kursoption GTAB: ohne Kurse mit der Kursoption GTAB, mit Kursen der
+Kursoption GTAB
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+185
+
+6.9.2 Zeugnisbemerkungen der Schule
+Dieser Bericht gibt eine Übersicht über die schuleigenen Zeugnisbemerkungen aus.
+
+Abb. 197: Beispiel: Bericht ZEUGNISBEMERKUNG DER SCHULE
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, Schuleigene Zeugnisbemerkungen, Kürzel
+Zeugnisbemerkungen
+
+Parameter
+
+Keine
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+186
+
+6.9.3 Zeugniskonferenzliste (Excel)
+Dieser Bericht gibt eine Vorlage für die Zeugniskonferenz im Excel-Format aus.
+
+Abb. 198: Beispiel: Bericht ZEUGNISKONFERENZLISTE (EXCEL)
+
+Ausgabeformate
+
+Excel
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Vertretung, Vor- und Nachname Schüler, Fach, Kürzel Lehrkraft,
+Fehlzeiten, Kursart, Note, Arbeitsverhalten, Sozialverhalten,
+Wiederholung in Stufe, Nachprüfung in Stufe, Notensprünge,
+Kompetenzen, WSPR in Fach
+
+Parameter
+
+Klassenauswahl
+Kursart ausgeben: mit Kursart, ohne Kursart
+Fehlzeiten ausgeben: mit Fehlzeiten, ohne Fehlzeiten
+Version: Liste gefüllt, Liste leer
+Notenwerte: mit Noten, ohne Noten
+
+Zusätzliche Informationen
+
+Die automatische Prüfung der Notensprünge erfolgt regelmäßig über
+Nacht.
+Wenn Sie heute Noten eingetragen oder geändert haben, müssen
+Sie daher eine manuelle Überprüfung der Notensprünge vornehmen,
+bevor Sie den Bericht erstellen.
+Navigieren Sie dazu auf die Webseite UNTERRICHT > DATENPRÜFUNG
+> KONFERENZVORBEREITUNG und führen Sie die Prüfung für die
+betroffenen Klassen durch.
+In der Zeugniskonferenzliste werden die Notensprünge in einem
+Fach durch ein (N) hinter der jeweiligen Note gekennzeichnet.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+187
+
+6.9.4 Zeugniskonferenzliste (DIN A3)
+Dieser Bericht gibt eine Vorlage für die Zeugniskonferenz im Format A3 aus.
+
+Abb. 199: Beispiel: Bericht ZEUGNISKONFERENZLISTE (DIN A3)
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Vertretung, Vor- und Nachname Schüler, Fach, Kürzel Lehrkraft,
+Fehlzeiten, Kursart, Note, Arbeitsverhalten, Sozialverhalten,
+Wiederholung in Stufe, Nachprüfung in Stufe, Notensprünge,
+Kompetenzen, WSPR in Fach
+
+Parameter
+
+Klassenauswahl
+Kursart ausgeben: mit Kursart, ohne Kursart
+Fehlzeiten ausgeben: mit Fehlzeiten, ohne Fehlzeiten
+Version: Liste gefüllt, Liste leer
+Notenwerte: mit Noten, ohne Noten
+
+Zusätzliche Informationen
+
+Die automatische Prüfung der Notensprünge erfolgt regelmäßig
+über Nacht.
+Wenn Sie heute Noten eingetragen oder geändert haben, müssen
+Sie daher eine manuelle Überprüfung der Notensprünge
+vornehmen, bevor Sie den Bericht erstellen.
+Navigieren Sie dazu auf die Webseite UNTERRICHT >
+DATENPRÜFUNG > KONFERENZVORBEREITUNG und führen Sie die
+Prüfung für die betroffenen Klassen durch.
+In der Zeugniskonferenzliste werden die Notensprünge in einem
+Fach durch ein (N) hinter der jeweiligen Note gekennzeichnet.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+188
+
+6.9.5 Zeugniskonferenzliste (DIN A4)
+Dieser Bericht gibt eine Vorlage für die Zeugniskonferenz im Format A3 aus.
+
+Abb. 200: Beispiel: Bericht Zeugniskonferenzliste (DIN A4)
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Klasse, Vor- und Nachname Klassenleitung, Vor- und Nachname
+Vertretung, Vor- und Nachname Schüler, Fach, Kürzel Lehrkraft,
+Versetzung, Fehlzeiten, Kursart, Note, Arbeitsverhalten,
+Sozialverhalten, Anzahl Wiederholung, Nachpüfung in Stufe,
+Notensprünge, Arbeitsverhalten, Sozialverhalten, WSPR in Fach
+
+Parameter
+
+Klassenauswahl
+Kursart ausgeben: mit Kursart, ohne Kursart
+Fehlzeiten ausgeben: mit Fehlzeiten, ohne Fehlzeiten
+Version: Liste gefüllt, Liste leer
+Zeileninfo: Werte in einer Zeile, Werte in Einzelzeilen
+Notenwerte: mit Noten, ohne Noten
+Sortierung: nach Klassennamen, nach Klassenlehrer
+
+Zusätzliche Informationen
+
+Die automatische Prüfung der Notensprünge erfolgt regelmäßig über
+Nacht.
+Wenn Sie heute Noten eingetragen oder geändert haben, müssen
+Sie daher eine manuelle Überprüfung der Notensprünge vornehmen,
+bevor Sie den Bericht erstellen.
+Navigieren Sie dazu auf die Webseite UNTERRICHT > DATENPRÜFUNG
+> KONFERENZVORBEREITUNG und führen Sie die Prüfung für die
+betroffenen Klassen durch.
+In der Zeugniskonferenzliste werden die Notensprünge in einem
+Fach durch ein (N) hinter der jeweiligen Note gekennzeichnet.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+189
+
+6.10 Schulsport
+Hier finden Sie Berichte für den Schulsport.
+
+Abb. 201: Strukturbaum UNTERRICHT > SCHULSPORT
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+190
+
+6.10.1 Schulschwimmpass
+Dieser Bericht gibt den Schulschwimmpass für Schüler aus und kann anstatt des händisch
+auszufüllenden Schulschwimmpass an die Schüler ausgegeben werden.
+
+Abb. 202: Beispiel: Bericht SCHULSCHWIMMPASS
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Schüler, Geburtsdatum, Geburtsort,
+Niveaustufe Schwimmen, Erlangt im Schulhalbjahr
+
+Parameter
+
+Schülerauswahl
+
+Zusätzliche Informationen
+
+Der Bericht Schulschwimmpass generiert die Daten aus den
+gepflegten Niveaustufen im Register Schwimmfähigkeit der
+Seite SCHÜLER -> SCHÜLERBASISDATEN -> QUALIFIKATIONEN und kann Schülern
+anstatt des händisch auszufüllenden Schulschwimmpass
+ausgehändigt werden.
+Der Bericht ist farbig gestaltet und sollte mit einem Farbdrucker
+gedruckt werden.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+191
+
+6.10.2 Schulschwimmpass (Beobachtungsbogen)
+Der Beobachtungsbogen zum Schulschwimmpass dient der Lehrkraft als Hilfe und
+Unterstützung für die Erfassung der erreichten Kompetenzen der einzelnen Niveaustufen
+für den Schulschwimmpass.
+
+Abb. 203: Beispiel: Bericht SCHULSCHWIMMPASS (BEOBACHTUNGSBOGEN)
+
+Ausgabeformate
+
+CSV
+
+Enthaltene Daten
+
+Kurs, Lehrkraft, Vor- und Nachname Schüler, Klasse, Niveaustufe
+Schwimmen, Kompetenzen
+
+Parameter
+
+Kursauswahl
+Version: Niveaustufen mit Seepferdchen und Bronze, Niveaustufen
+erweitert mit Silber und Gold
+
+Zusätzliche Informationen
+
+Der Beobachtungsbogen zum Schulschwimmpass dient der
+Lehrkraft als Hilfe und Unterstützung für die Erfassung der erreichten
+Kompetenzen der einzelnen Niveaustufen für den
+Schulschwimmpass.
+Der Bericht ist farbig gestaltet und sollte mit einem Farbdrucker
+gedruckt oder der Lehrkraft digital zur Verfügung gestellt werden.
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+192
+
+6.10.3 Schwimmfähigkeit
+Der Bericht gibt einen Überblick über die Schwimmfähigkeit der ausgewählten Schüler.
+
+Abb. 204: Beispiel: Bericht SCHWIMMFÄHIGKEIT
+
+Ausgabeformate
+
+PDF, CSV
+
+Enthaltene Daten
+
+SF/BK, Stufe, Vor- und Nachname Schüler, Klasse,
+Klassenleitung Kürzel, Aktuelle Niveaustufe Schulschwimmpass,
+Aktuelles Deutsches Schwimmabzeichen
+
+Parameter
+
+Schülerauswahl
+Sortierung: nach Schulform/Stufe, nach Klasse, nach Alphabet
+Freitext
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+193
+
+6.11 Stundenplan
+Hier finden Sie Berichte für die Stundenplanung.
+
+Abb. 205: Strukturbaum UNTERRICHT > STUNDENPLAN
+
+6.11.1 Stundenplan Lehrkräfte
+Dieser Bericht gibt den Stundenplan der einzelnen Lehkräfte aus.
+
+Abb. 206: Beispiel: Bericht STUNDENPLAN LEHRKRÄFTE
+
+Ausgabeformate
+
+PDF
+
+Enthaltene Daten
+
+Vor- und Nachname Lehrkraft, Kürzel Lehrkraft, Stufe, Klasse, Fach,
+Kursbezeichnung, Kursart, Raumkürzel, Unterrichtsfrequenz
+
+Parameter
+
+Lehrkräfteauswahl
+
+Zusätzliche Informationen
+
+Keine
+
+HMKB | LUSD| Übersicht aller Standardberichte | Version: 2.0 | Letzter Stand: 01.12.2025
+
+194
+
+

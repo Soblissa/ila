@@ -1,0 +1,2364 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Haupt- und Realschulabschlüsse in der LUSD abbilden
+
+Version: 3.2
+Letzter Stand: 23.09.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt und Zweck dieses Dokuments .............................................................................................. 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ........................................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 6
+
+Überblick über die Änderungen
+
+7
+
+Neues bei den H-R-Abschlüssen im Jahr 2020 .............................................................................. 7
+Hauptschulniveau .......................................................................................................................... 7
+Realschulniveau - Mittleres Anspruchsniveau ................................................................................ 7
+Gymnasiales Niveau ...................................................................................................................... 7
+Neues bei den H-R-Abschlüssen im Jahr 2018 (Änderungen in der VOBGM in 08/2018) .............. 8
+Neues bei den H-R-Abschlüssen im Jahr 2016 (Änderungen in der VOBGM in 11/2015): ............. 8
+
+Datenpflege für Haupt- und Realschulabschlüsse – ein Überblick
+
+9
+
+Mithilfe von LUSD und ENC können Sie ........................................................................................ 9
+1
+
+Vorbereitende Arbeitsschritte ................................................................................................ 9
+
+2
+
+Schulform- und Stufenzugehörigkeit der Schüler prüfen und korrigieren ............................. 11
+
+3
+
+2.1
+
+Die Stufenzugehörigkeit von Schülern anpassen ....................................................... 11
+
+2.2
+
+Die Schulformzugehörigkeit von Schülern anpassen ................................................. 12
+
+2.3
+
+Klassenzugehörigkeit der Schüler und Zuordnung der Klassenlehrer prüfen ............. 14
+
+2.4
+
+Fremdspracheneinträge prüfen .................................................................................. 16
+
+2.5
+
+Pflege der Kurse ........................................................................................................ 18
+
+2.6
+
+Fächer prüfen ............................................................................................................ 20
+
+2.7
+
+Schüler-Kurszuordnungen prüfen .............................................................................. 22
+
+2.8
+
+Lehrer-Kurszuordnungen prüfen ................................................................................ 26
+
+Erfassen des voraussichtlichen Abschlusses ...................................................................... 27
+3.1
+
+Übersicht möglicher Schulformen und Abschlüsse .................................................... 27
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+1
+
+4
+
+5
+
+3.2
+
+Globales Erfassen des voraussichtlichen Abschlusses mit dem ENC ........................ 29
+
+3.3
+
+Erfassen des voraussichtlichen Abschlusses in der LUSD......................................... 34
+
+3.4
+
+Besonderheiten für Hauptschulabschlüsse, Mittlerer Abschlüsse und kooperative
+Gesamtschulen .......................................................................................................... 35
+
+3.5
+
+Mittlerer Abschluss für Hauptschulabschlüsse mit H10 .............................................. 35
+
+3.6
+
+Hinweise zur Datenpflege für Förderschulen ............................................................. 36
+
+3.7
+
+Besonderheiten für integrierte Gesamtschulen .......................................................... 36
+
+3.8
+
+Behandlung der Fälle nach VOBGM § 41, Absatz 4 und 5......................................... 40
+
+Historische Leistungsdaten erfassen .................................................................................. 46
+4.1
+
+Noten der „abgeschlossenen Fächer“ ........................................................................ 46
+
+4.2
+
+Noten des 1. Halbjahres ............................................................................................ 46
+
+Erfassen der zusätzlichen Prüfungen.................................................................................. 47
+
+Erfassen der zentralen Abschlussarbeiten ZAA
+
+50
+
+6
+
+Vorbereiten der Formulare für die Erfassung der schriftlichen Arbeiten............................... 50
+
+7
+
+Erfassen der zentralen Abschlussarbeiten mit dem externen Notenclient (ENC) ................ 53
+
+8
+
+7.1
+
+Exportieren der Daten für die Erfassung der zentralen Abschlussarbeiten ................. 54
+
+7.2
+
+Erfassen der Abschlussergebnisse mit dem ENC ...................................................... 55
+
+7.3
+
+Erfasste Daten in die LUSD importieren .................................................................... 57
+
+Erfassen der zentralen Abschlussarbeiten mit der LUSD .................................................... 57
+8.1
+
+Notenschutz für Lese- und Rechtschreibschwäche im Fach Deutsch ........................ 61
+
+8.2
+
+Ergebnislisten der schriftlichen Abschlussarbeiten..................................................... 62
+
+8.3
+
+Ergebnisse der Schriftlichen Abschlussarbeiten - Elternbenachrichtigung ................. 63
+
+8.4
+
+Beiblatt Projektprüfung............................................................................................... 64
+
+Erfassen der Haupt- und Realschulabschlüsse mit der LUSD
+9
+
+66
+
+Prüfen des erreichten Abschlusses ..................................................................................... 66
+
+Erstellen der Abschlusszeugnisse
+
+70
+
+10
+
+Zeugnis zuweisen und Abschluss zuweisen ....................................................................... 70
+
+11
+
+Zeugnis generieren ............................................................................................................. 72
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+2
+
+12
+
+Zeugnis abrufen .................................................................................................................. 74
+
+13
+
+Zeugnisdruck ...................................................................................................................... 75
+
+14
+
+Kein Abschluss, Übergang, Abgang und Freigabe .............................................................. 77
+
+15
+
+Verändern von historischen Abschlussdaten / Nachprüfung ............................................... 78
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z. B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+4
+
+Zu diesem Dokument
+Inhalt und Zweck dieses Dokuments
+Das vorliegende Dokument beschreibt, wie in der LUSD Abschlüsse erfasst und abgebildet werden
+von
+
+
+
+
+
+
+
+Hauptschulen
+Realschulen
+Förderschulen
+kooperativen und integrierten Gesamtschulen
+Mittelstufenschulen
+Abendschulen
+
+Zusammenfassend finden Sie in diesem Dokument folgende Schwerpunkte:
+ In Kapitel 1 und 7 können Sie zunächst anhand einer Checkliste prüfen, ob Ihre Daten für die
+Erfassung der zentralen Abschlussarbeiten korrekt gepflegt sind und bei Bedarf Korrekturen
+vornehmen. Kapitel 7 beschreibt alle Arbeitsschritte zur Erfassung der zentralen Abschlussarbeiten mit dem ENC und mit der LUSD.
+ Zur vollständigen Erfassung der Haupt- und Realschulabschlüsse Ihrer Schule mit der LUSD
+finden Sie ab Kapitel 6 die dazu erforderlichen Erläuterungen. Möchten Sie zusätzlich auch die
+Abschlusszeugnisse mithilfe der LUSD erstellen, finden Sie in Kapitel 10 die entsprechende Hilfestellung. Hier finden Sie am Ende auch Hinweise auf die korrekte Behandlung von Abgängern
+und Übergängern.
+ In Kapitel 15 finden Sie Hinweise zur Änderung historischer Abschlussdaten für ehemalige
+Schüler.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwenderinnen und Anwender, die Abschlüsse in der LUSD
+abbilden.
+
+Vorausgesetzte Kenntnisse
+Ein Basiswissen im Umgang mit der LUSD wird vorausgesetzt und daher in dieser Anleitung nicht
+näher beschrieben.
+Beachten Sie bitte zu Abschlüssen auch die Anleitung „ABSCHLÜSSE UND IHRE ERFASSUNG IN
+LUSD“ auf dem jeweils aktuellen Stand. Diese Anleitung enthält allgemeine Informationen zur
+Vergabe von Abschlüssen in der LUSD.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+5
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Support
+Bei Fragen rund um die LUSD steht ihnen der Helpdesk zur Verfügung:
+
+
+über das Kontaktformular auf der Seite https://lusdinfo.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+LUSD-Anleitungen
+Alle bestehenden Anleitungen zur LUSD finden Sie auf www.SchuleHessen.de/lusdanleitungen unter ANLEITUNGEN.
+LUSD-Schulungen
+LUSD-Grundlagen- und Aufbau-Schulungen richten sich sowohl an Anfängerinnen und Anfänger, als auch an bereits langjährig Nutzende.
+ Eine Übersicht über die anstehenden Fortbildungen finden Sie dort genauso wie auch
+Empfehlungen zur Kurswahl für unsere unterschiedlichen Zielgruppen.
+
+Fortbildungen zur LUSD | Digitale Schule Hessen.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+6
+
+Überblick über die Änderungen
+Neues bei den H-R-Abschlüssen im Jahr 2020
+ In der Auswahlliste des Feldes Kursdifferenzierung (KD) gibt die sogenannte Binnendifferenzierung das Niveau der Halbjahresnote an. Diese neuen Merkmale werden auf den Zeugnissen
+nicht ausgegeben und sind derzeit in 9/2 für die Hauptschulabschlussseite und das Hauptschulabschlusszeugnis relevant.
+ Im Ausblick ist die Pflege der Daten auch für das von der Verordnung vorgesehene optionale
+Halbjahreszeugnis auf Hauptschulniveau in 9/1 relevant. In den genannten Fällen entfällt die
+händische Relativierung der Noten auf Hauptschulniveau.
+ Diese KD-Merkmale können kursbezogen und ggf. abweichend schülerindividuell gepflegt werden.
+
+Hauptschulniveau
+ Die KD "h" entspricht der c-Binnendifferenzierung (ggfs. Relativierung wie C-Differenzierung)
+ Die KD "p" entspricht der g-Binnendifferenzierung (ggfs. Relativierung wie G-Differenzierung)
+
+Realschulniveau - Mittleres Anspruchsniveau
+ Die KD "-" ist Standard, die Kursnote bezieht sich auf das Mittlere Anspruchsniveau (ggfs. Relativierung wie B- oder E-Differenzierung)
+ Die KD "r" entspricht der b-Binnendifferenzierung (ggfs. Relativierung wie B-Differenzierung)
+ Die KD "m" entspricht der e-Binnendifferenzierung (ggfs. Relativierung wie E-Differenzierung)
+
+Gymnasiales Niveau
+ Die KD "v" entspricht der a-Binnendifferenzierung (ggfs. Relativierung wie A-Differenzierung)
+Hinweis
+Für schulformübergreifende Gesamtschulen mit abschlussbezogenen Klassen ist für alle Kurse auf Hauptschulniveau in der KD "h" oder "p", für alle
+Kurse auf gymnasialen Niveau in der KD "v" zu pflegen.
+
+ Für Kurse auf mittlerem Niveau entspricht die KD "-", es kann auch die KD "r" oder "m" gepflegt
+werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+7
+
+Neues bei den H-R-Abschlüssen im Jahr 2018 (Änderungen in der VOBGM
+in 08/2018)
+ Der Mittlere Abschluss (Realschulabschluss) in Form des qualifizierenden Realschulabschlusses wird nach § 59 VOBGM schon zuerkannt, wenn die berechnete Durchschnittsnote in den
+Fächern Deutsch, Mathematik und erste Fremdsprache sowie in den übrigen Fächern gleichfalls jeweils mindestens befriedigend (3,0) ist.
+ Gemäß dem neuen Absatz 4 des § 41 können an schulformbezogenen (kooperativen) Gesamtschulen Schülerinnen und Schüler, die den Bildungsgang Mittlerer Abschluss oder den gymnasialen Bildungsgang besuchen, am Ende der Jahrgangsstufe 9 an der Hauptschulabschlussprüfung teilnehmen. Darüber hinaus können Schülerinnen und Schüler, die den 6-jährig organisierten Gymnasialzweig besuchen, am Ende der Jahrgangsstufe 10 an der Realschulabschlussprüfung teilnehmen.
+ Gemäß dem neuen Absatz 5 des § 41 können an verbundenen Haupt- und an Mittelstufenschulen die Realschüler und -schülerinnen am Ende der Jahrgangsstufe 9 an der Hauptschulabschlussprüfung teilnehmen.
+ In der LUSD werden diese Abschlüsse verordnungskonform abgebildet.
+
+Neues bei den H-R-Abschlüssen im Jahr 2016 (Änderungen in der VOBGM
+in 11/2015):
+ Für die Durchschnittsnote der Hauptfächer werden die Noten von D, M, und erste Fremdsprache für den qualifizierenden Mittleren Abschluss MAQ (Kursart P) herangezogen. Die Einbeziehung einer Naturwissenschaft entfällt.
+ Bei der Berechnung der Endnote wird nun auf eine ganze Zahl gerundet (bisher wurde nach einer Nachkommastelle abgeschnitten).
+ Die Beschränkung der VOBGM auf Pflichtfächer für die Hausarbeit mit Präsentation für den
+Mittleren Abschluss (MA) wird erst mit dem Schuljahr 2016/2017 wirksam.
+ HQ und HA können auch in der Schulform PUSA vergeben werden. Die voraussichtlichen Abschlüsse HA-SchuB und HQ-SchuB sind nur noch im Schuljahr 2015/2016 gültig.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+8
+
+Datenpflege für Haupt- und Realschulabschlüsse – ein Überblick
+Mithilfe von LUSD und ENC können Sie
+ die Ergebnisse der schriftlichen Abschlussarbeiten fachweise oder schülerindividuell erfassen.
+ die Ergebnisse der mündlichen Prüfungen, der Präsentationen oder der Projektprüfungen erfassen.
+ die korrekten Summen der eingegebenen Punkte sowie der Noten der schriftlichen Abschlussarbeiten automatisch ermitteln.
+ klassenweise Berichte über die erreichten Ergebnisse bei den schriftlichen Abschlussarbeiten
+erzeugen.
+ prüfen, ob alle erforderlichen Daten für die Erteilung eines Abschlusses vorliegen.
+ die Endnoten für das Abschlusszeugnis berechnen.
+ die Gesamtleistung ermitteln.
+ prüfen, welche Art des Abschlusses zugeteilt werden kann.
+ Konferenzlisten und Bemerkungslisten erzeugen.
+ das Beiblatt als Anlage zum Zeugnis mit der Information über Thema und Bewertung der Projektprüfung erstellen.
+ Abschlusszeugnisse erstellen.
+ Abschlüsse, Abgänge und Übergänge verwalten.
+
+1
+
+Vorbereitende Arbeitsschritte
+1. Überprüfen Sie zur Vorbereitung auf die Leistungserfassung, ob die in den folgenden
+Kapiteln beschriebenen Daten an Ihrer Schule korrekt gepflegt sind.
+2. Aktualisieren Sie diese falls nötig.
+Bei korrekt gepflegter Unterrichtsverteilung sollten Sie keinen zusätzlichen Aufwand für
+die Datenpflege haben.
+Die folgende Checkliste fasst die vorbereitenden Arbeitsschritte für die Erfassung
+der zentralen Abschlussarbeiten zusammen.
+Arbeitsbe- Aufgabe
+
+Besonderheiten
+
+reich
+LUSD
+
+Die Schüler müssen der korrekten Stufe angehören.
+Schüler
+
+Mit dem Wechsel der Stufe verliert ein Schüler
+sämtliche Kurs- und Klassenzugehörigkeiten.
+Neue Kurszuordnungen müssen erstellt werden. Zuordnungen , die zu der neuen Stufe
+schon bestehen, bleiben allerdings erhalten.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+9
+
+Arbeitsbe- Aufgabe
+reich
+
+Besonderheiten
+
+LUSD
+
+Die Schüler müssen der korrekten Schulform angehören.
+
+Bei einem Wechsel im aktuellen Halbjahr bleiben die schulformübergreifenden Kurse der
+Schüler erhalten. Alle weiteren bestehenden
+Kurszuordnungen und die bestehende Klassenzuordnung werden gelöscht.
+
+Die Schüler müssen den korrekten Klassen zugeordnet
+sein.
+
+Wenn ein Schüler einer Klasse zugewiesen
+wird, bekommt er automatisch alle Klassenkurse.
+
+Den Klassen müssen die rich- Wenn ein Schüler einer Klasse zugewiesen
+tigen Klassenlehrer zugeord- wird, bekommt er automatisch alle Klassennet sein.
+kurse.
+Den Klassen müssen die richDies ist wichtig, damit die Klassenlehrer die
+tigen Klassenlehrer zugeordLeistungen mit dem ENC erfassen können.
+net sein.
+Die Fremdspracheneinträge
+Für die Erfassung der Abschlussleistungen
+der Schüler müssen stimmen. steht immer nur die 1. Fremdsprache zur Verfügung.
+Die Kurse der Abschlussklassen müssen inklusive Kursart,
+Kursoptionen und eventuellen
+Kursdifferenzierungen korrekt
+erfasst sein.
+Schüler-Kurszuordnungen mit Schüler können individuelle Kurseigenschaften
+Kurseigenschaften müssen
+haben, die von den Eigenschaften des Kurses
+Unterricht
+stimmen.
+abweichen.
+Lehrer-Kurszuordnungen müs- Beachten Sie die in Kapitel 2.8 beschriebenen
+sen stimmen.
+Besonderheiten.
+Die voraussichtlichen Abschlüsse der Schüler müssen
+korrekt erfasst sein.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+10
+
+2
+
+Schulform- und Stufenzugehörigkeit der Schüler prüfen und korrigieren
+Über die Schülersuche können Sie Schüler nach Schulform und Stufe selektieren und so
+prüfen, ob die Schülerinnen und Schüler der Abschlussjahrgänge den korrekten Schulformen und Stufen zugeordnet sind.
+Es gibt zwei unterschiedliche Verfahren, wie Sie die Schulform oder die Stufenzugehörigkeit von Schülern anpassen können. Dies ist davon abhängig, ob Sie
+ nur einen Stufenwechsel durchführen
+ oder die Schulform und ggf. gleichzeitig die Stufenzugehörigkeit eines Schülers ändern
+wollen.
+Bitte beachten Sie:
+In der LUSD müssen die Schüler, die Klassen und die Kurse jeweils einer
+Schulform und einer Stufe zugeordnet sein. Lediglich Kurse können auch als
+stufen- oder schulformübergreifend definiert werden.
+In der Regel sollten die Schulform-/Stufen-Zuordnungen der Schüler mit den
+Zuordnungen ihrer Klassen und Kurse übereinstimmen.
+Abweichungen sind zwar möglich, können aber auf Fehler hinweisen, wenn
+z. B. ein Schüler in eine andere Klasse gesteckt wurde, ohne dass seine
+Schulform oder Stufe entsprechend angepasst wurde.
+Solche Anpassungen werden vom System nicht automatisch vorgenommen.
+
+2.1
+
+Die Stufenzugehörigkeit von Schülern anpassen
+Wenn Sie nur die Stufe und nicht gleichzeitig die Schulform eines Schülers anpassen
+möchten, gehen Sie wie folgt vor:
+1. Öffnen Sie die Seite UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+11
+
+Abb. 1 Webseite Stufenwechsel: Auswahl Zielschulform und Zielstufe
+
+2. Filtern und selektieren Sie die betroffenen Schüler entweder über die Mehrfachauswahl
+oder die Einzelauswahl.
+3. Ordnen Sie über die Auswahlfelder St/Sem neu den entsprechenden Schülern die richtige Stufe zu.
+4. Speichern Sie die Auswahl.
+Achtung
+Bitte beachten Sie, dass mit dem Wechsel der Stufe sämtliche Kurs- und
+Klassenzuordnungen der gewählten Schüler im System aufgehoben werden.
+Führen Sie daher im Rahmen der UV-Pflege nachträglich für alle gewählten
+Schüler neue Zuordnungen durch! Zuordnungen, die zu der Schulform/Stufe
+bestehen, in die die Schüler wechseln, bleiben jedoch erhalten.
+
+2.2
+
+Die Schulformzugehörigkeit von Schülern anpassen
+Wenn Sie feststellen, dass Sie die Schulform und ggf. gleichzeitig die Stufe von Schülern
+ändern müssen, gehen Sie wie folgt vor:
+1. Rufen Sie die Seite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG auf.
+2. Klicken Sie auf die Registerkarte INTERNER SCHULFORMÜBERGANG und selektieren Sie
+dann über die Schaltfläche
+die Schüler, deren Schulform Sie ändern möchten.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+12
+
+Die von Ihnen ausgesuchten Schüler sind in der Tabelle INTERNER SCHULFORMÜBERGANG mit ihrer aktuellen Schulform und aktuellen Stufe zu sehen (siehe Abb. 2). Die Felder für Zielschulform, Zielstufe und Zielhalbjahr bleiben zunächst leer.
+
+Abb. 2 Webseite Statusverwaltung: Tabelle Interner Schulformübergang
+
+In dieser Tabelle können Sie für die ausgewählten Schüler deren Schulform und Stufe
+gleichzeitig bearbeiten:
+3. Markieren Sie das Kontrollkästchen vor dem Nachnamen der Schüler mit einem Haken
+(siehe Abb. 2) und klicken Sie auf die Schaltfläche
+. Das Dialogfenster INFORMATION ZUM ÜBERGANG öffnet sich (Abb. 3).
+
+Abb. 3 Dialogfenster Information zum Übergang: Kandidateninformation eintragen
+
+4. Wählen Sie die Wunschschulform und Wunschschulstufe aus. Setzen Sie einen Haken
+im Kontrollkästchen AKTUELLES HALBJAHR, wenn der Wechsel im aktuellen Halbjahr stattfindet.
+5. Klicken Sie auf die Schaltfläche
+
+.
+
+Die vorgenommenen Änderungen werden in der Tabelle INTERNER SCHULFORMÜBER-
+
+GANG angezeigt (siehe Abb. 4).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+13
+
+Achtung
+Bitte beachten Sie, dass bei einem Wechsel im aktuellen Halbjahr nur die
+schulformübergreifenden Kurse des Schülers erhalten bleiben. Alle weiteren
+bestehenden Kurszuordnungen und die bestehende Klassenzuordnung werden gelöscht.
+
+Abb. 4 Webseite Statusverwaltung: Schulformübergang mit geänderter Schulform und Stufe
+
+Achtung
+Pflegen Sie auf keinen Fall Schüler nur zum Zweck der Datenerfassung
+für die zentralen Abschlussarbeiten in die Schulform H oder R ein, wenn
+diese Schulformen nicht an Ihrer Schule unterrichtet werden! In LUSD und
+ENC können die Haupt- und Realschulabschlüsse für alle Schulformen erfasst werden, in denen diese Abschlüsse möglich sind.
+Schüler einer IGS müssen immer der Schulform IGS und Schüler einer H10
+müssen immer der Schulform H zugeordnet sein, damit die entsprechenden
+Berechnungen in der LUSD korrekt erfolgen können.
+
+2.3
+
+Klassenzugehörigkeit der Schüler und Zuordnung der Klassenlehrer prüfen
+1. Überprüfen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG, ob
+die Schülerinnen und Schüler Ihrer Abschlussjahrgänge auch den richtigen Klassen mit
+einer korrekten Schulform-/Stufen-Zuordnung zugeordnet sind.
+2. Wählen Sie die Registerkarte AKTIVE und öffnen Sie die SCHÜLERSUCHE über die Schaltfläche
+. Nun können sie ausschließlich nach aktiven Schülern suchen. Die selektierten Schüler werden in der Registerkarte tabellarisch aufgelistet (siehe Abb. 5
+Webseite Klassenbildung: Tabelle selektrierte aktive Schüler).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+14
+
+Abb. 5 Webseite Klassenbildung: Tabelle selektrierte aktive Schüler
+
+3. Wählen Sie im rechten Bereich der Webseite die Klassen aus. Klicken Sie auf den Namen einer bestehenden Klasse. Das Dialogfenster SCHÜLER EINER KLASSE öffnet sich.
+Dort werden alle Schüler angezeigt, die dieser Klasse angehören (Abb. 6).
+
+Abb. 6 Dialogfenster Schüler der Klasse: Auflistung aller Schüler
+
+4. Weisen Sie Schüler der Klasse zu. Setzen Sie dafür in der Tabelle SCHÜLERAUSWAHL
+den Haken in das Kontrollkästchen vor den jeweiligen Schüler und im Bereich KLASSENÜBERSICHT das Kontrollkästchen vor der Klasse, in die der Schüler zugeordnet werden
+soll.
+5. Klicken Sie auf das Schaltsymbol
+6. Klicken Sie auf
+
+(siehe Abb. 5).
+
+.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+15
+
+Hinweis
+Wenn Schüler einer Klasse zugewiesen werden, bekommen sie automatisch
+alle Klassenkurse.
+
+Achten Sie bei der Klassenbildung auf die korrekte Zuordnung der Klassenlehrer, damit
+diese in den weiteren Arbeitsschritten der Leistungserfassung mit dem ENC Daten bearbeiten können. Um die Zuordnung der Klassenlehrer zusammen mit weiteren Klassendetails
+zu bearbeiten, gehen Sie wie folgt vor:
+1. Wählen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG eine
+Klasse aus.
+2. Klicken Sie auf das Schaltsymbol
+
+.
+
+Es öffnet sich das Dialogfenster KLASSE ÄNDERN.
+3. Ornen Sie im Dialogfenster die jeweiligen Klassenlehrer sowie deren Vertreter und bei
+Bedarf einen Raum über Auswahlfelder der Klasse zu (Abb. 7).
+
+Abb. 7 Dialogfenster Klasse ändern: Klassenpflege
+
+2.4
+
+Fremdspracheneinträge prüfen
+Welche Fremdsprache bei dem jeweiligen Schüler in den Dialogfenstern und Webseiten
+von ENC und LUSD zur Erfassung der Abschlussarbeiten erscheint, wird über die Fremdspracheneinträge bestimmt.
+Für die Erfassung der Abschlussleistungen steht immer nur die 1. Fremdsprache zur Verfügung.
+Auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN im Reiter FREMDSPRACHEN können Sie die Randfolgen der Fremdsprachen prüfen und ggf. korrigieren (Abb.
+8).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+16
+
+Abb. 8 Webseite Qualifikationen: Fremdsprachenreihenfolge prüfen
+
+Achtung
+Sind die Fremdspracheneinträge nicht korrekt, funktionieren die Abschlussprüfungen nicht.
+Falls die Daten nicht korrekt eingetragen sind, können diese in der Fremdsprachentabelle ergänzt oder geändert werden. Zu den möglichen Änderungen zählen:
+ Von- und Bis-Stufe
+ Fremdsprachenrang
+Einen Überblick über die Fremdspracheneinträge der Schüler gibt der Bericht
+FREMDSPRACHENFOLGE im Bereich BERICHTE > SCHÜLER > ALLG. LISTEN.
+
+Abb. 9 Webseite Berichte: Menübaum
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+17
+
+2.5
+
+Pflege der Kurse
+Überprüfen, korrigieren und ergänzen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die Pflicht-, Wahlpflicht- und freiwilligen Kurse der Abschlussklassen inklusive Kursart, Kursoptionen und eventuellen Kursdifferenzierungen.
+1. Klicken Sie auf die Schaltfläche
+
+. Das Dialogfenster KURSSUCHE öffnet sich.
+
+2. Klicken Sie auf das Schaltsymbol , um die Anzeige der Baumstruktur zu erweitern.
+(Abb. 9).
+3. Setzen Sie einen Haken vor die Schulformen, Stufen oder Klassen, deren Kurse sie suchen. Im Bereich WEITERE FILTER zusätzliche Filterkriterien für die Kurssuche festlegen.
+4. Klicken Sie auf die Schaltfläche
+. Die gefundenen Ergebnisse werden automatisch im Register ERGEBNISSE eingeblendet.
+5. Markieren Sie in diesem Register die Kurse, die in der Tabelle KURSBEARBEITUNG anzeigt werden sollen.
+6. Setzen Sie den Haken in das Kontrollkästchen vor der Spaltenüberschrift KURS, UM alle
+angezeigten Kurse in die Auswahl aufzunehmen. Durch einen zweiten Klick werden sie
+aus der Auswahl entfernt.
+7. Klicken Sie auf
+, schließen Sie das Fenster und aktualisieren Sie die Tabelle KURSBEARBEITUNG (Abb. 11).
+
+Abb. 10 Dialogfenster Kurssuche: Filter für die Kursbearbeitung
+
+In dieser Übersichtstabelle KURSBEARBEITUNG können Sie einzelne Kurse zur Bearbeitung auswählen.
+8. Setzen Sie dazu einen Haken in das Kontrollkästchen vor der Kursbezeichnung. (Abb.
+11)
+9. Klicken Sie auf
+, um die oben genannten Eigenschaften der ausgewählten Kurse zu
+bearbeiten. Es erscheint ein Dialogfenster, in dem Sie die Kursdetails einsehen und ändern können.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+18
+
+Abb. 11 Webseite Kursbearbeitung: Übersicht ausgewählter Kurse in der Kursbearbeitung
+
+Beachten Sie:
+ Sie können mehrere Kurse gleichzeitig auswählen und einzelne Eigenschaften global
+für alle ausgewählten Kurse ändern.
+ Die Prüfungsfächer der Zentralen Abschlussarbeiten müssen die Kursart P (Pflichtkurs)
+haben.
+ Das 4. Prüfungsfach in den Realschulprüfungen kann ein Pflichtkurs (Kursart P) oder
+ein Wahlpflichtkurs (Kursart W) sein.
+ Für Kurse ohne Fachzuordnung zu einem regulären Fach der Stundentafel benutzen
+Sie die Fächer WPU (Wahlpflichtunterricht), WU (Wahlunterricht), SOWA (Sonstiger
+Wahlunterricht) oder SOUN (Sonstiger Unterricht).
+ Haben Sie in einer Stufe im Wahlpflichtbereich mehrere Kurse in einem Fach, von denen der Schüler zwei gleichzeitig belegen kann (nur in der IGS zulässig), benutzen Sie
+die Kursoptionen WP1 und WP2 zur Unterscheidung der Kurse. Dies ist notwendig, damit bei einer Auswahl eines solchen Kurses als Prüfungsfach die richtige Zuordnung
+der Prüfungsnote zur Kursnote erfolgen kann.
+Hinweis
+Kurse mit der Fachbezeichnung TUT ( = Tutoren- oder Klassenlehrerkurse)
+werden grundsätzlich nicht im Zeugnis ausgedruckt.
+Ebenfalls nicht im Zeugnis ausgedruckt werden Kurse mit der Kursart Z (Zusatzkurse), die z. B. Kursen des Ganztagsangebot zugewiesen wird, für die
+keine Notenerfassung und kein Zeugnisdruck erfolgt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+19
+
+Hinweis
+Wenn Sie lediglich das Thema und nicht das Fach eines Kurses im Zeugnis
+ausdrucken möchten, z. B. für Wahlpflicht- oder Wahlkurse ohne Fach, setzen Sie den Haken für „Nur Thema im Zeugnis anzeigen“ (siehe Abb. 12).
+
+Abb. 12 Webseite Kursbearbeitung: Kursdetails – Nur Thema im Zeugnis anzeigen
+
+2.6
+
+Fächer prüfen
+Beachten Sie bitte folgende Hinweise zur Verwendung der Fächer:
+ Verwenden Sie keine ungültigen Fächer wie REL (Religion ohne Konfessionsbezeichnung), CHOR, ORCH, SWIM usw. Es dürfen nur Fächer verwendet werden, die in der
+offiziellen Stundentafel für die Schulformen aufgeführt sind.
+ Es dürfen auch keine beruflichen Fächer verwendet werden, die nur für berufliche
+Schulen erlaubt sind, z. B. Ernährungslehre, Datenverarbeitungstechnik usw.
+ Wenn Sie an Ihrer Schule die Lernbereiche statt der Einzelfächer verwenden, müssen
+Sie dafür die Fächer LBGL (Lernbereich Gesellschaftslehre), LBNW (Lernbereich Naturwissenschaften) und LBÄB (Lernbereich Ästhetische Bildung) nehmen.
+Die Fächer können Sie sich auf der Seite SCHULE > SCHULBASISDATEN > FÄCHER aus
+dem offiziellen Fächerkatalog als schulbezogene Fächer zuordnen.
+ In den Schulformen/Stufen mit Lernbereichen dürfen nicht gleichzeitig die Einzelfächer
+wie Erdkunde, Geschichte, Politik und Wirtschaft für den Lernbereich Gesellschaftslehre, Biologie, Chemie und Physik für den Lernbereich Naturwissenschaften sowie Kunst und Musik für den Lernbereich Ästhetische Bildung benutzt werden.
+Die Lernbereich werden im Regelwerk wie Hauptfächer behandelt.
+ In der Mittelstufenschule im Mittleren Bildungsgang können, wenn keine Zusammenarbeit mit einer beruflichen Schule stattfindet, auch die Fächer GESO Gesundheit und
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+20
+
+Soziales, TEK Technik, WIVE Wirtschaft und Verwaltung und NAWI Naturwissenschaften benutzt werden. Diese Fächer müssen dann die Kursart W (Wahlpflichtunterricht) haben.
+ Arbeiten Mittelstufenschulen mit beruflichen Schulen zusammen, müssen die beruflichen Schulen das Fach BBU (Berufsbezogener Unterricht) in der Kursart W einrichten
+und dürfen nur in diesem Fach eine Note vergeben. Die Note dieses externen Kurses
+erscheint für Schüler mit Überweisungen für externen Unterricht automatisch im Zeugnis, das die Stammschule ausdruckt. Weitere fachbezogene berufliche Kurse an der Berufsschule müssen der Kursart Z zugeordnet sein, werden nicht benotet und erscheinen
+nicht im Zeugnis.
+ Für freie Ganztagsangebote verwenden Sie in der Regel das Fach GTAB und die Kursart Z. Für Kurse mit dieser Kursart ist keine Notenerfassung möglich und sie werden
+nicht im Zeugnis ausgedruckt.
+Tipp
+Eine ausführliche Anleitung zur Erfassung der Ganztagsangebote in der
+LUSD finden Sie auf schulehssen.de/lusdanleitungen unter GANZTAGSANGEBOTE – ERFASSUNG IN DER LUSD.
+ Für Deutsch-Förderkurse für Seiteneinsteiger (in Intensivklassen, Intensivkursen oder in
+Fördermaßnahmen) und Schüler mit Migrationshintergrund verwenden Sie das Fach
+DAZ (Deutsch als Zweitsprache). DAZ-Förderkurse sind Pflichtkurse für die Schüler
+(Kursart P).
+ Seiteneinsteiger sind Schüler mit geringen oder gar keinen Deutschkenntnissen, die
+in der Regel seit weniger als drei Jahren in Deutschland zur Schule gehen.
+ Schüler mit Migrationshintergrund sind Schüler, die in der Regel mindestens eines
+der Merkmale Geburtsland nicht Deutschland, Familiensprache nichtdeutsch, Staatsangehörigkeit nichtdeutsch aufweisen, sich aber auf Deutsch verständigen können
+und seit mehr als 3 Jahren in Deutschland zur Schule gehen, allerdings noch Förderunterricht benötigen.
+Tipp
+Eine ausführliche Anleitung zur Erfassung der Seiteneinsteiger in der LUSD
+finden Sie auf schulehessen.de/lusdanleitungen unter SEITENEINSTEIGER IN
+DER LUSD.
+ Für Kurse im Wahlpflichtbereich (Kursart W), im AG-Bereich (Kursart A) oder bei den
+freiwilligen Unterrichtsveranstaltungen (Kursart F), die keinem der offiziellen Fächer zugeordnet werden können, verwenden Sie bitte die „freien“ Fächer WPU (Wahlpflichtunterricht), WU (Wahlunterricht), SOWA (sonstiger Wahlunterricht) oder SOUN (sonstiger
+Unterricht). Durch die Eingabe eines Kursthemas und die Option nur Thema im Zeugnis
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+21
+
+anzeigen können Sie dem Kurs im Zeugnis einen sprechenden Namen geben, z. B.
+„Schach-AG“.
+ Fächer des herkunftssprachlichen Unterrichts, z. B. Türkisch, zählen nicht als Fremdsprache für die Schüler. Zur Kennzeichnung, ob ein Kurs in einer Sprache ein herkunftssprachlicher Unterricht ist, muss der Kurs die Kursoption HHES (herkunftsprachlicher Unterricht Verantwortung Land Hessen) oder HHKL (herkunftssprachlicher Unterricht Verantwortung des Herkunftslandes) erhalten, er wird dann auf der Seite SCHÜLER
+> QUALIFIKATIONEN nicht im oberen Fremdsprachenbereich der Fremdsprachen mit
+Rang ausgewiesen.
+
+2.7
+
+Schüler-Kurszuordnungen prüfen
+1. Öffnen Sie die Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG auf,
+um die Zuordnung der Schüler zu den Kursen zu prüfen und ggf. zu korrigieren.
+2. Rufen Sie über
+
+die Kurssuche auf.
+
+3. Selektieren die Kurse Ihrer Abschlussjahrgänge nach der gewünschten Kombination aus
+Schulform, Stufe, Fach, Kursart etc. und klicken abschließend auf das Filtersymbol
+(siehe Abb. 13).
+4. Es erscheint ein Dialogfenster mit den Ergebnissen der Kurssuche. Setzen Sie einen
+Haken vor die Kurse, deren Schülerzuordnung Sie prüfen möchten (Abb. 14).
+5. Klicken Sie auf
+
+.
+
+Abb. 13 Dialogfenster Kurssuche
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+22
+
+Abb. 14 Dialogfenster Kurssuche: Ergebnisse der Kurssuche.
+
+6. Falls Sie eine neue Suche starten oder Ihre Suche verfeinern möchten, klicken Sie in die
+Registerkarte SUCHE. Dort können Sie eine erneute KURSSUCHE starten.
+7. Im rechten Bereich der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG sehen Sie die Kurse, die Sie über die Kurssuche selektiert haben (Abb. 15). Um
+die korrekte Kurszuordnung eines Schülers zu prüfen, klicken Sie im Bereich KURSAUSWAHL auf die Zahl im Reiter ANZ (Abb. 16).
+
+Abb. 15 Webseite Schüler-Kurszuordnung
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+23
+
+Abb. 16 Dialogfenster Schüler im Kurs
+
+8. Klicken Sie auf , um die individuellen Kurseigenschaften einzelner Schülers zu bearbeiten. Das Dialogfenster erweitert sich daraufhin um Auswahllisten und ein Eingabefeld
+zur Bearbeitung der Kurseigenschaften. Hier können Sie die individuellen Kurseigenschaften der Schüler bearbeiten, die Sie vorher mit einem Häkchen markierten haben.
+9. Im linken Bereich der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG können Sie über das Lupensymbol
+die Schülersuche aufrufen und die Schüler
+Ihrer Abschlussjahrgänge selektieren. Um Schüler aus dem linken Bereich der Seite einem oder mehreren Kursen im rechten Bereich der Seite zuordnen zu können, markieren Sie die entsprechenden Schüler und Kurse mit einem Häkchen und klicken dann auf
+das Schaltsymbol .
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+24
+
+Achtung
+Legen Sie die Schüler-Kurs-Zuordnung vor Eingabe der Prüfungsergebnisse
+endgültig fest.
+Wird die Schüler-Kurs-Zuordnung nach der Eingabe von Prüfungsergebnissen (auch der Zusatzprüfung) noch geändert, werden die Prüfungsergebnisse der betroffenen Kurse gelöscht.
+Beispiel: Wird im 1. Halbjahr im Fach Physik die Zusatzprüfung abgelegt und
+auch in die LUSD eingetragen und wird anschließend im 2. Halbjahr die Kurszuordnung von Physik geändert, wird die Eintragung für die Zusatzprüfung
+gelöscht.
+
+Anmerkungen zum Fach Sport und zur Kursoption X – Sport: Befreit vom
+Unterricht anhand von Fallbeispielen:
+ Ein Schüler kann das Fach Sport nur als Zusatzprüfungsfach wählen,
+wenn mindestens eine Halbjahresnote aus den Halbjahren 09/1 bis 10/2
+vorliegt.
+ Ein Schüler hat das Fach Sport als Zusatzprüfungsfach gewählt, ist
+in 10/1 und/oder 10/2 vom Sport befreit, eine Note aus Jahrgang 09
+liegt vor: In diesem Fall kann die Kursoption X (befreit vom Sport) auf der
+Seite UNTERRICHT > UV-BEARBEITUNG > HIST.LEISTUNGSDATEN für das
+Halbjahr 10/1 und/oder auf der Seite UNTERRICHT > UV-BEARBEITUNG >
+SCHÜLER-KURSZUORDNUNG für das Halbjahr 10/2 eingetragen werden. Die
+zuletzt vergebene Halbjahresnote wird zur Berechnung der End- und
+Zeugnisnote herangezogen, das Fach Sport wird bei der Berechnung der
+Gesamtleistung berücksichtigt.
+ Ein Schüler hat das Fach Sport nicht als Zusatzprüfungsfach gewählt, ist in 10/2 z.B. wegen einer Verletzung vom Sportunterricht befreit, eine Note für 10/1 liegt vor: Da das Zeugnis am Ende eines Schuljahres den Leistungsstand ausweist, der während des Schuljahres erreicht
+wurde (HSchG, §74 (2)), kann die Sportlehrkraft für das 2. Halbjahr eine
+Sportnote erteilen. In diesem Fall ist die Kursoption X (befreit vom Sport)
+auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG nicht einzutragen, das Fach Sport wird bei der Berechnung der Gesamtleistung berücksichtigt.
+ Ein Schüler hat das Fach Sport nicht als Zusatzprüfungsfach gewählt, ist in 10/1 und 10/2 jeweils vom Sport befreit: In diesem Fall ist
+die Kursoption X (befreit vom Sport) auf den Seiten UNTERRICHT > UV-BEARBEITUNG > HIST.LEISTUNGSDATEN und UNTERRICHT > UV-BEARBEITUNG >
+SCHÜLER-KURSZUORDNUNG für jedes Halbjahr einzutragen. Im Abschlusszeugnis lautet dann der Eintrag für Sport ‚bf‘, das Fach Sport wird bei der
+Berechnung der Gesamtleistung nicht berücksichtigt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+25
+
+2.8
+
+Lehrer-Kurszuordnungen prüfen
+1. Rufen Sie die Seite UNTERRICHT > UV-BEARBEITUNG > LEHRER-KURSZUORDNUNG auf, um
+die Zuordnung der Lehrer Ihrer Schule zu den Kursen zu prüfen und ggf. zu korrigieren
+(siehe Abb. 17). Dies ist besonders dann wichtig, wenn Sie Leistungen mit dem ENC
+erfassen möchten.
+
+Abb. 17 Webseite Lehrer-Kurszuordnung
+
+2. Wählen Sie im linken Bereich der Seite die Lehrer Ihrer Schule nach der Zugehörigkeit
+zu einer Fachgruppe oder direkt über das Lehrerkürzel aus. Klicken Sie dazu auf die gewünschten Werte in den Auswahllisten FACHGRUPPE und KÜRZEL.
+3. Klicken Sie anschließend auf
+4. Markieren Sie in der Tabelle LEHRER einen oder mehrere Lehrer mit einem Haken und
+klicken auf
+. In der darunterliegenden Tabelle KURSE werden die bereits
+zugeordneten Kurse der markierten Lehrer angezeigt.
+5. Im rechten Bereich wählen Sie ebenfalls über Auswahlfelder Kurse nach Schulform-,
+Stufen- und Klassenzugehörigkeit aus. Klicken Sie auf
+.
+6. In der darunterliegenden Tabelle LEHRER werden die bereits zugeordneten Lehrkräfte
+eines oder mehrerer markierter Kurse aufgelistet.
+Bitte beachten Sie:
+ Einem Kurs können auch mehrere Lehrer zugeordnet sein.
+ Sie können einen oder mehrere Lehrer aus dem linken Bereich der Seite einem oder
+mehreren Kursen aus dem rechten Bereich der Seite zuordnen. Setzen Sie dazu einen
+Haken vor die entsprechenden Lehrer und Kurse und klicken Sie auf .
+ Sie können die Lehrer-Kurszuordnung auch auf der Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG in dem Bearbeitungsdialog KURS BEARBEITEN durchführen.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+26
+
+3
+
+Erfassen des voraussichtlichen Abschlusses
+ Die möglichen Abschlüsse werden abhängig von der Schulform nach unterschiedlichen
+Kriterien erreicht und berechnet. Damit die Ergebnisse der zentralen Abschlussarbeiten
+in LUSD und ENC korrekt erfasst werden können, muss vorher für alle Schüler der Abschlussjahrgänge festgelegt sein, welchen Abschluss sie voraussichtlich erlangen
+werden.
+ Der voraussichtliche Abschluss kann schülerindividuell direkt in der LUSD oder global für eine Gruppe von Schülern im ENC erfasst werden.
+ Bei den Abschlussjahrgängen einiger Schulformen sind die voraussichtlichen Abschlüsse bereits vorbelegt. Beachten Sie daher bitte die entsprechenden Hinweise in
+den Kapiteln 3.4 bis 3.7.
+ Über den eingetragenen voraussichtlichen Abschluss wird in der LUSD gesteuert, ob
+und auf welcher Abschlussseite ein Schüler zur Bearbeitung angezeigt wird. Ohne voraussichtlichen Abschluss wird ein Schüler auf den Abschlussseiten nicht angezeigt.
+Hinweis
+Voraussichtliche Abschlüsse, die nicht bereits vorbelegt sind, sollten global
+mit dem ENC erfasst werden.
+
+3.1
+
+Übersicht möglicher Schulformen und Abschlüsse
+Die folgende Tabelle stellt die verschiedenen Abschlüsse nach Schulformen sortiert zusammen. Neben der Beschreibung des Abschlusses wird auch das jeweilige Kürzel aufgelistet,
+mit dem jeder Abschluss im Feld VORAUSSICHTLICHER ABSCHLUSS bezeichnet ist.
+Schulform
+
+Voraussichtlicher Abschluss - Beschreibung
+
+Voraussichtlicher
+Abschluss Kürzel
+
+H
+
+Hauptschulabschluss
+
+HA
+
+qualifizierender Hauptschulabschluss
+
+HQ
+
+Hauptschulabschluss-SchuB
+
+HA
+
+qualifizierender Hauptschulabschluss-SchuB
+
+HQ
+
+H10
+
+Mittlerer Abschluss-H10
+
+MA-H10
+
+R
+
+Mittlerer Abschluss
+
+MA
+
+MSBP
+PUSA
+(R
+MSMB
+GYM
+GYM8)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+27
+
+Schulform
+
+Voraussichtlicher Abschluss - Beschreibung
+
+Voraussichtlicher
+Abschluss Kürzel
+
+MSMB
+(GYM)
+
+IGS
+
+Hauptschulabschluss (abschlussbezogene Klassen)
+
+HA
+
+qualifizierender Hauptschulabschluss (abschlussbezogene Klassen)
+
+HQ
+
+Mittlerer Abschluss (abschlussbezogene Klassen)
+
+MA
+
+Hauptschulabschluss-IGS (mit Kursdifferenzierung)
+
+HA-IGS
+
+qualifizierender Hauptschulabschluss-IGS (mit Kursdifferenzierung)
+
+HQ-IGS
+
+Mittlerer Abschluss-IGS (mit Kursdifferenzierung)
+
+MA-IGS
+
+Voraussichtlicher Übergang in die Einführungsphase
+der gymnasialen Oberstufe (keine Teilnahme an den
+V-E1
+Abschlussprüfungen zum Hauptschulabschluss oder
+Mittleren Abschluss)
+Hauptschulabschluss-AH
+
+HA-AH
+
+qualifizierender Hauptschulabschluss-AH
+
+HQ-AH
+
+Mittlerer Abschluss-AR
+
+MA-AR
+
+Hauptschulabschluss
+
+HA
+
+qualifizierender Hauptschulabschluss
+
+HQ
+
+Mittlerer Abschluss
+
+MA
+
+AH
+
+AR
+
+FS
+
+Berufsorientierter Abschluss (Förderschwerpunkt LerBAFL
+nen, nicht lernzielgleiche inklusive Beschulung)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+28
+
+Schulform
+
+Voraussichtlicher Abschluss - Beschreibung
+
+Voraussichtlicher
+Abschluss Kürzel
+
+mit Abschluss aus der Schule mit Förderschwerpunkt
+geistige Entwicklung (nicht lernzielgleiche inklusive
+GE
+Beschulung)
+
+Hinweis
+Es gibt in der LUSD keinen voraussichtlichen Abschluss „qualifizierender
+Mittlerer Abschluss“ MAQ. Für den Mittleren Abschluss wird immer nur der
+MA als voraussichtlicher Abschluss eingetragen. Ob der Schüler den MA
+oder den MAQ erreicht, berechnet die LUSD automatisch.
+
+3.2
+
+Globales Erfassen des voraussichtlichen Abschlusses mit dem ENC
+Mithilfe des ENC können Sie die voraussichtlichen Abschlüsse global einer vorher ausgewählten Gruppe von Schülern zuweisen. Damit Sie die dazu nötigen Daten für die Bearbeitung im ENC exportieren können, müssen Sie die Notenkonfiguration für die Abschlussjahrgänge Ihrer Schule anpassen auf klassenweise Erfassung.
+1. Öffnen Sie die Seite UNTERRICHT > ZEUGNISKONFIGURATION > NOTENKONFIGURATION. Im
+linken Bereich der Seite sehen Sie die Übersicht STUFENAUSWAHL.
+2. Setzen Sie Haken in die Kontrollkästchen der passenden Stufen Ihrer Abschlussjahrgänge. Für die so markierten Stufen können Sie nun allgemeine Konfigurationseinstellungen vornehmen und die Konfiguration für die externe Notenerfassung festlegen. Für
+die Erfassung der voraussichtlichen Abschlüsse müssen die Option VERSETZUNG/EIGNUNG angehakt und im Feld NOTENERFASSUNG die Option KLASSENWEISE ausgewählt
+sein (siehe Abb. 18).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+29
+
+Abb. 18 Webseite Notenkonfiguration: Voreinstellung Bearbeitung der voraussichtlichen Abschlüsse
+im ENC
+
+3. Nachdem Sie die Notenkonfiguration angepasst und gespeichert haben, rufen Sie die
+Webseite UNTERRICHT > IMPORT/EXPORT > ENC EXPORT auf.
+4. Im linken Bereich der Seite können Sie die Exportoptionen festlegen. Wählen Sie hier
+die Option ARBEITSSTATION oder EINZELNE DATEIEN FÜR ALLE LEHRER. Da Sie bereits in
+der Notenkonfiguration die klassenweise Notenerfassung festgelegt haben, werden bei
+Auswahl dieser Option nur einzelne Dateien für die Klassenlehrer exportiert (siehe Abb.
+19). Wenn Sie den Haken für ENC-CLIENT IN DIE EXPORTDATEI EINBINDEN setzen, brauchen Sie den ENC nicht zu installieren, da er in der Exportdatei enthalten ist.
+5. Klicken Sie auf
+
+. Speichern Sie die Exportdatei.
+
+Abb. 19 Webseite ENC Export: Einstellungen für die Pflege der voraussichtlichen Abschlüsse
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+30
+
+6. Bevor Sie den ENC benutzen können, müssen Sie die ENC-Exportdatei noch entpacken, dabei werden die Dateien standardmäßig in einem eigenen Ordner gespeichert.
+7. Klicken Sie unmittelbar nach erfolgtem Export der ENC-Datei aus der LUSD und deren
+Speichern auf die Schaltfläche
+. Diese Schaltfläche ist nur einmal nach
+dem Export aktiv. Die Passwörter werden zusammengefasst in einer PDF-Datei zur
+Verfügung gestellt.
+8. Es öffnet sich ein Dialogfenster zum Öffnen oder Speichern dieser Passwortdatei (siehe
+Abb. 20).
+
+Abb. 20 Dialogfenster Dateidownload
+
+Achtung
+Wird die PDF-Datei ohne Speicherung geschlossen, kann sie nicht noch einmal geöffnet werden!
+
+Abb. 21 PDF-Datei Passwörter
+
+Das PDF-Dokument listet in tabellarischer Form die Nachnamen und Vornamen der
+Lehrkräfte, für die Exportdateien erstellt wurden, und die dazugehörigen Passwörter für
+die ENC-Anmeldung auf (siehe Abb. 21).
+9. Teilen Sie die erstellten Passwörter den betreffenden Lehrkräften mit, damit diese den
+ENC für die Leistungserfassung einsetzen können.
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+31
+
+Bitte beachten Sie:
+ Sollten Sie eine Sicherheitskopie der Passwort-Datei anlegen oder Passwörter schriftlich dokumentieren, beachten Sie bei der Aufbewahrung die gültigen Datenschutzrichtlinien!
+ Lehrkräfte, die in mehreren nacheinander erzeugten Exportdateien vertreten sind, besitzen für die verschiedenen Exportdateien unterschiedliche Passwörter. Dies tritt
+z. B. ein, wenn Lehrer in mehreren Schulformen unterrichten und die zugehörigen Schüler nach Schulform getrennt exportiert werden.
+ Bei jedem Exportvorgang wird für die betreffenden Kolleginnen und Kollegen ein Passwort generiert, das nur für die jeweils erzeugte Exportdatei gültig ist. Das bedeutet, dass
+zum Öffnen einer Exportdatei im ENC jeweils ein anderes Passwort eingegeben werden muss.
+ Sie können die Zusammengehörigkeit eines Exports und der dazugehörigen PasswortDatei anhand des übereinstimmenden Datums im Dateinamen erkennen.
+ Beispiel: Die Passwort-Datei "ENCPW_20110519111522.pdf gehört zur Exportdatei
+"ENCEX_20110519111522.zip"
+ Wer eine Datei zur Bearbeitung im ENC öffnen möchte, muss sich mit seinem Lehrerkürzel und dem Passwort authentifizieren, das für die betreffende Datei generiert
+wurde (siehe Abb. 22). Der Benutzername entspricht dem auf der Seite SCHULE > PERSONAL > PERSONALSTAMM erfassten Kürzel der Lehrkraft.
+ Ein Passwort besteht aus acht Zeichen. Achten Sie bei der Passworteingabe auf Großund Kleinschreibung und verwechseln Sie nicht das kleine "L" mit der Ziffer "1".
+ Bei Falscheingabe des Passworts erscheint die Meldung „Zeit bis zum nächsten Loginversuch 15 Sekunden“. Nach Ablauf der 15 Sekunden wird die „OK“-Schaltfläche
+wieder aktiv und die Passworteingabe kann wiederholt werden. Bei erneuter Falscheingabe erhöht sich die Wartezeit exponentiell.
+ Falls im Verlauf der Leistungserfassung neuerliche Exporte erforderlich werden, bietet
+die Exportoption „Datei für einzelnen Lehrer“ den Vorteil, dass gezielt die Unterrichte einer Lehrkraft exportiert werden und damit nur für diese ein neues Passwort ausgegeben wird.
+
+Abb. 22 Dialogfenster LUSD Externe Notenerfassung: Authentifizierung im ENC
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+32
+
+1. Nach dem Export können die voraussichtlichen Abschlüsse durch die Klassenlehrer im
+ENC erfasst werden. Markieren Sie dazu im ENC jeweils die Schüler ihrer Klasse, die
+den gleichen Abschluss anstreben.
+2. Klicken dann auf die Schaltfläche VERSETZUNG/EIGNUNG ZUWEISEN. Es öffnet sich ein
+Dialogfenster, in dem der voraussichtliche Abschluss für die markierten Schülerinnen
+und Schüler über eine Auswahlliste festgelegt werden kann (siehe Abb. 23).
+
+Abb. 23 Dialogfenster Erfassung Versetzung/Eignung: Erfassung der voraussichtlichen Abschlüsse
+
+Hinweis
+Verwenden Sie immer die jeweils aktuelle Version des ENC. Dies ist gewährleistet, wenn Sie den ENC-Client wie beschrieben in die Export-Datei
+einbinden.
+
+3. Nachdem Sie alle Einträge vorgenommen haben, exportieren Sie die ENC-Dateien über
+die Seite UNTERRICHT > EXPORT / IMPORT > ENC IMPORT (siehe Abb. 24).
+
+Abb. 24 Webseite ENC Import: Import der voraussichtlichen Abschlüsse
+
+4. Nach erfolgreichem Import wird das Ergebnis angezeigt:
+
+Abb. 25 Importdatei: Import-Status
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+33
+
+3.3
+
+Erfassen des voraussichtlichen Abschlusses in der LUSD
+Statt im ENC können die voraussichtlichen Abschlüsse auch in der LUSD erfasst bzw. auch
+dort geändert werden. Dies ist aber nur individuell möglich.
+1. Rufen Sie die Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER auf, um die voraussichtlichen Abschlüsse der Schüler in den Abschlussjahrgängen zu erfassen (Abb. 26).
+2. Wählen Sie über die Schaltfläche
+schlussjahrgänge aus.
+
+zunächst die jeweiligen Schüler der Ab-
+
+Übersicht der Seite:
+Im linken Bereich der Seite werden alle Kurse der ausgewählten Schülerinnen und
+Schüler im Halbjahr angezeigt. Im rechten Bereich können Sie mit den Pfeiltasten
+zwischen den einzelnen Schülern Ihrer Vorauswahl wechseln oder sich über das
+Zeichen eine Übersichtstabelle der ausgewählten Schüler anzeigen lassen.
+Im rechten Bereich befinden sich mehrere Registerkarten. Innerhalb dieser Registerkarten, die ebenfalls durch Navigationspfeile
+angesteuert werden, können Sie
+eine Vielzahl von Informationen zu Schülerleistungsdaten erfassen. Hierbei handelt es
+sich in der Regel um ergänzende schülerbezogene Leistungsdaten.
+3. Wählen Sie die Registerkarte VERSETZUNG/EIGNUNG, um den voraussichtlichen Abschluss der Schüler auszuwählen. Wählen Sie im Feld VORAUSSICHTLICHER ABSCHLUSS
+einen der angebotenen Einträge auswählen (siehe Abb. 26).
+4. Klicken Sie auf
+
+.
+
+Abb. 26 Webseite Schüler: Register Versetzung/Eignung
+
+Alternativ kann der voraussichtliche Abschluss auch auf der Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN auf dem Register EIGNUNG/ABSCHLÜSSE/BERUFE eingetragen werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+34
+
+Abb. 27 Webseite Qualifikationen: Alternative Pflege des voraussichtlichen Abschlusses
+
+ Hier können Sie auch halbjährlich die Eignung, das Datum eines Elternberatungsgespräches und – nur für IGS – den Abschlusswunsch der Eltern erfassen. In der
+Tabelle HIST. VORAUSS. ABSCHLUSS können Sie sehen, ob der eingetragene voraussichtliche Abschluss des Schülers in den vergangenen Halbjahren geändert wurde.
+ Schüler ohne voraussichtlichen Abschluss oder V-E1, z. B. aus Gymnasialklassen oder
+mit angestrebter Versetzung in die Oberstufe, werden auf den Abschlussseiten der
+LUSD nicht angezeigt und nicht in den ENC für die ZAA-Erfassung exportiert.
+ Bei Schülern von Hauptschulabschlüssen, Mittleren Abschlüssen und kooperativen Gesamtschulen wird das Feld „Voraussichtlicher Abschluss“ nach Schulform und Jahrgangsstufe in den jeweiligen beiden Abschlusshalbjahren vorbelegt.
+
+3.4
+
+Besonderheiten für Hauptschulabschlüsse, Mittlerer Abschlüsse und kooperative
+Gesamtschulen
+Für Schüler mit Hauptschulabschluss ist als voraussichtlicher Abschluss immer der qualifizierende Hauptschulabschluss HQ vorbelegt.
+Für Schüler, die nur den einfachen Hauptschluss anstreben und daher keine zentrale Abschlussarbeit in der 1. Fremdsprache schreiben, muss daher die Voreinstellung des voraussichtlichen Abschlusses auf HA geändert werden.
+Damit wird die 1. Fremdsprache als Prüfungsfach ausgeschaltet und es wird bei der Abschlussprüfung keine Note mehr in diesem Fach erwartet.
+Für Schüler mit einem Mittleren Abschluss ist als voraussichtlicher Abschluss immer der
+Mittlere Abschluss MA eingestellt. Ob der Schüler den MA oder den MAQ erreicht, berechnet die LUSD dann automatisch.
+
+3.5
+
+Mittlerer Abschluss für Hauptschulabschlüsse mit H10
+Bei Schülern der Hauptschulklasse 10 wird das Feld VORAUSSICHTLICHER ABSCHLUSS mit
+MA-H10 vorbelegt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+35
+
+Der Mittlere Abschluss wird in der Hauptschulklasse 10 in gleicher Weise erreicht wie der
+Mittlere Abschluss in der Mittlerer Abschluss.
+Der qualifizierende Hauptschulabschluss kann in der H10 nicht mehr erworben werden,
+da er seit 2011 bereits für den Eintritt in die H10 vorausgesetzt wird.
+
+3.6
+
+Hinweise zur Datenpflege für Förderschulen
+Bei Schülern der Förderschule wird das Feld VORAUSSICHTLICHER ABSCHLUSS nicht vorbelegt.
+In Förderschulen gibt es zielgleiche und zielabweichende Schulformen.
+In den zielgleichen Schulformen (alle Schulformen außer LER (Förderschwerpunkt Lernen) oder GE (Förderschwerpunkt Geistige Entwicklung)) können die Abschlüsse direkt an
+der Förderschule abgelegt werden. Es gibt keinen Unterschied zum Verfahren der Hauptschulabschlüsse.
+Der Mittlere Abschluss MA wird nur an den Förderschulen mit einer Realschulabteilung erworben.
+In der nichtzielgleichen Schulform der Förderschulen mit dem Förderschwerpunkt LERNEN kann kein Hauptschulabschluss erworben werden.
+Schülerinnen und Schüler, die im Rahmen einer Kooperation mit einer Hauptschule den
+Hauptschulabschluss anstreben, nehmen an den zentralen Abschlussprüfungen der Hauptschule teil.
+Wenn nach Auswertung der zentralen Abschlussarbeiten die Kriterien für den Hauptschulabschluss oder den qualifizierenden Hauptschulabschluss erfüllt sind, werden sie als Kandidaten an die kooperierende Hauptschule geschickt und dort als Schüler der Jahrgangsstufe 9 aktiviert. Die Förderschule teilt der kooperierenden Hauptschule die Zeugnisnoten
+und die Ergebnisse der Projektprüfung mit. Die Zeugnisnoten, die Ergebnisse der Projektprüfung und die Ergebnisse der zentralen Abschlussarbeiten werden dann an der kooperierenden Hauptschule erfasst.
+Mögliche Abschlüsse sind der Hauptschulabschluss (HA) (ohne Fremdsprache als Prüfungsfach) und der qualifizierende Hauptschulabschluss (HQ) (mit Fremdsprache als Prüfungsfach).
+Schülerinnen und Schüler, die den Hauptschulabschluss nicht erreichen konnten, verbleiben an der Förderschule und erhalten dort den jeweiligen Abschluss.
+
+3.7
+
+Besonderheiten für integrierte Gesamtschulen
+An integrierten Gesamtschulen IGS gibt es keine Vorbelegung des Feldes VORAUSSICHTLICHER ABSCHLUSS. In der Stufe 9 und 10 können die Schüler entweder in integrierten Klassen mit (teilweise) differenzierten Kursen oder in abschlussbezogenen Klassen ohne Kursdifferenzierung unterrichtet werden. Die abschlussbezogenen Klassen sind bildungsgang-
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+36
+
+bezogen, d.h. die Schülerinnen und Schüler werden in Klassen unterrichtet, die ohne Kursdifferenzierung entweder zum Hauptschulabschluss (HA oder HQ) oder zum Realschulabschluss (MA) führen. Der Unterricht findet komplett auf dem jeweiligen Abschlussniveau
+statt.
+Die entsprechenden Daten der Schüler/innen in den Abschlussklassen werden in der LUSD
+automatisch erlasskonform nach den Regeln für den jeweils angestrebten Abschluss verarbeitet, wenn der voraussichtliche Abschluss korrekt eingetragen wurde.
+Schüler/innen, die das Abitur anstreben, werden in Klassen unterrichtet, die dem gymnasialen Niveau entsprechen. Ihnen kann der voraussichtliche Abschluss „V-E1“ oder „-“ (kein
+voraussichtlicher Abschluss) zugewiesen werden.
+In integrierten Klassen gibt es für die Schüler in den Stufen 9 und 10 weiterhin differenzierte
+Kurse für die entsprechenden Fächer. Für diese Schüler errechnet die LUSD die Abschlüsse automatisch auf der Basis der differenzierten Kurse. Die Kursdifferenzierung erscheint für diese Schüler/innen auch auf dem Zeugnis. Noten in differenzierten Kursen werden für die Abschlussberechnung je nach Kursniveau automatisch an das Abschlussniveau angepasst.
+Schüler/innen, die in integrierten Klassen unterrichtet werden, dem gymnasialen Niveau
+entsprechen und nicht an den Abschlussprüfungen zum Hauptschulabschluss oder Mittleren Abschluss teilnehmen, wird der voraussichtliche Abschluss „V-E1“ zugewiesen.
+ Die gültigen voraussichtlichen Abschlüsse für Schüler/innen der abschlussbezogenen
+Klassen sind
+ HA (= Hauptschulabschluss),
+ HQ (= qualifizierender Hauptschulabschluss) und
+ MA (= Mittlerer Abschluss).
+ Die gültigen voraussichtlichen Abschlüsse für Schüler/innen in integrierten Klassen sind
+ HA-IGS, (= Hauptschulabschluss IGS),
+ HQ-IGS (= qualifizierender Hauptschulabschluss IGS) und
+ MA-IGS (= Mittlerer Abschluss IGS).
+Hinweis
+Ob ein Schüler der IGS in einer abschlussbezogenen oder einer integrierten
+Klasse unterrichtet wird, wird für die Abschlussberechnung und für die Stellenzuweisung durch den zugeteilten voraussichtlichen Abschluss der
+Schüler gekennzeichnet.
+Schüler in abschlussbezogenen Klassen müssen innerhalb einer Klasse alle
+Schüler den gleichen voraussichtlichen Abschluss haben! Die Kursdifferenzierungen KD der Kurse müssen mit dem voraussichtlichen Abschluss übereinstimmen.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+37
+
+Achtung
+Ordnen Sie für integrierte Gesamtschulen, die keine weiteren offiziellen
+Schulformen haben, auch die Schüler der abschlussbezogenen Klassen ausschließlich der Schulform IGS zu.
+Richten Sie auf keinen Fall zusätzlich die Schulformen H und R ein, um
+die abschlussbezogenen Klassen in der LUSD zu verwalten! Sollten Sie
+diese Schulformen bereits irrtümlich eingerichtet haben, korrigieren Sie die
+entsprechenden Einträge bitte umgehend, um sicherzustellen, dass Ihrer
+Schule alle Schüler/innen korrekt angerechnet werden.
+
+Hinweis
+Für integrierte Gesamtschulen gilt eine Besonderheit: Schülerinnen und
+Schüler, bei denen der Mittlere Bildungsabschluss (MA) gefährdet erscheint,
+können auch in der Jahrgangsstufe 10 an der Abschlussprüfung zum
+Hauptschulabschluss in Form des einfachen (HA) und des qualifizierenden
+Hauptschulabschlusses (HQ) teilnehmen.
+In diesen Fällen tragen Sie als voraussichtlichen Abschluss entweder HA
+(bzw. HA-IGS) oder HQ (bzw. HQ-IGS) ein. Nur an der IGS geht dies auch in
+der Stufe 10.
+
+Hinweis
+Die Schülerinnen und Schüler müssen immer das gesamte Prüfungsprogramm ablegen. Bereits erbrachte Leistungen im Rahmen des Hauptschulabschlusses in der Stufe 9 können nicht für den Mittleren Abschluss in Stufe
+10 angerechnet werden.
+
+Für Schüler, die in die Gymnasiale Oberstufe wechseln, tragen Sie in das Feld VORAUSSICHTLICHER ABSCHLUSS keinen Abschluss (-) bzw. V-E1 ein. Sie können zur Kennzeichnung dieser Schüler auch den Abschlusswunsch der Eltern V-E1 (Versetzung in die Einführungsphase der gymnasialen Oberstufe) erfassen und nach Prüfung der Eignung die Eignung „GO/BGYM“ eintragen.
+Schüler ohne voraussichtlichen Abschluss oder mit V-E1 werden auf den Abschlussseiten
+nicht angezeigt.
+Die folgende Tabelle stellt die Unterschiede in den beiden Verfahren gegenüber:
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+38
+
+Kursdifferenzierung
+
+IGS mit
+
+IGS mit
+
+integrierten Klassen
+
+abschlussbezogenen Klassen
+
+Ja (einige Fächer)
+
+Die Kursdifferenzierungen
+KD der Kurse müssen mit
+dem voraussichtlichen Abschluss übereinstimmen:
+- HA bzw. HQ: Kurse auf
+Hauptschulniveau erhalten
+KD h oder p
+- MA: Kurse auf mittlerem
+Niveau erhalten KD - oder
+m oder r
+- V-E1: Kurse auf gymnasialem Niveau erhalten KD
+v
+
+Voraussichtlicher
+Abschluss
+
+HA-IGS, HQ-IGS, MA-IGS, V-E1 HA, HQ, MA, V-E1
+
+Abschlusszeugnis
+
+Kurse mit äußerer Fachleistungsdifferenzierung werden mit
+Differenzierung angezeigt, bei
+binnendifferenzierten Kursen
+nicht. Bei Prüfungsfächern mit
+Kursdifferenzierung wird die
+Prüfungsnote für die Zeugnisnote des Faches an das Kursniveau angepasst.
+
+Kurse mit äußerer Fachleistungsdifferenzierung
+werden mit Differenzierung angezeigt, bei binnendifferenzierten Kursen
+nicht. Bei Prüfungsfächern
+mit Kursdifferenzierung
+wird die Prüfungsnote für
+die Zeugnisnote des Faches an das Kursniveau
+angepasst.
+
+Abschlussberechnung
+
+Die Differenzierung wird bei der
+Berechnung der Gesamtleistung
+je nach Niveau positiv oder negativ in den Endnoten und der
+Gesamtleistung berücksichtigt.
+
+Die erreichten Noten sind
+durch die gepflegten Kursdifferenzierungen auf den
+Abschluss bezogen, brauchen also nicht umgerechnet zu werden.
+
+Abschlusszuweisung
+
+HA, HQ, (HA-G), MA, MAQ,
+(MA-G)
+
+HA, HQ, (HA-G), MA,
+MAQ, (MA-G)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+39
+
+Hinweis
+Schülerinnen und Schüler der Abschlussjahrgänge 9 und 10 können nicht
+zwischen abschlussbezogenen Klassen und integrierten Klassen wechseln.
+Die Kurse müssen in den beiden aufeinanderfolgenden Abschlussjahrgängen
+9 und 10 entweder in integrierten Klassen differenziert und undifferenziert (integriert) oder in abschlussbezogenen Klassen nur undifferenziert, d.h. auf
+dem Abschlussniveau unterrichtet werden. Dies wird im Rahmen der Lehrerstellenzuweisung jeweils für die zwei aufeinanderfolgenden Jahrgänge geprüft.
+Richten Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die Kurse für die abschlussbezogenen Klassen immer mit Kursdifferenzierung KD ein:
+ Kurse auf Hauptschulniveau mit „h“ oder „p“
+ Kurse auf mittlerem Niveau mit „-“ oder „r“ oder „m“
+ Kurse auf gymnasialem Niveau mit „v“
+
+3.8
+
+Behandlung der Fälle nach VOBGM § 41, Absatz 4 und 5
+
+3.8.1 Verordnungsgrundlage
+Folgende Regelungen werden innerhalb der LUSD berücksichtigt. Einzelheiten werden
+nachfolgend aufgeführt.
+
+VOBGM § 41, Absatz 4
+ An schulformbezogenen (kooperativen) Gesamtschulen nehmen in den Bildungsgängen Hauptschule und Realschule die Schülerinnen und Schüler an der Abschlussprüfung des von ihnen besuchten Bildungsganges teil.
+ Schülerinnen und Schülern, welche den Bildungsgang der Realschule oder den
+gymnasialen Bildungsgang besuchen, steht am Ende der Jahrgangsstufe 9 die Teilnahme an der Abschlussprüfung des Bildungsganges der Hauptschule nach Beratung
+durch die Schule und Entscheidung der Eltern frei (Abb. 28) sowie (Abb. 29) und (Abb.
+30).
+ Darüber hinaus steht Schülerinnen und Schülern, welche den 6-jährig organisierten
+Gymnasialzweig besuchen, am Ende der Jahrgangsstufe 10 die Teilnahme an der Abschlussprüfung des Bildungsganges der Realschule nach Beratung durch die Schule
+und Entscheidung der Eltern frei (Abb. 31).
+ Im Falle der Sätze 2 und 3 werden die am Ende der Jahrgangsstufen 9 und 10 erzielten
+Noten bei der Berechnung der Endnoten und der Gesamtleistung je Anspruchsebene
+um eine Notenstufe besser bewertet, in das bei Bestehen der Abschlussprüfung neben
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+40
+
+dem Zeugnis des besuchten Bildungsganges zu erteilende Abschlusszeugnis aber unverändert übernommen, sofern sie sich nicht durch die Prüfungsleistung bei der Berechnung der Endnote verändert haben.
+ In den Abschnitt BEMERKUNGEN des betreffenden Abschlusszeugnisses ist ein Vermerk
+darüber aufzunehmen, in welchem Bildungsgang die zugrundeliegenden Leistungen erbracht wurden.
+
+VOBGM § 41, Absatz 5
+ An verbundenen Haupt- und Realschulen und Mittelstufenschulen nehmen die
+Schülerinnen und Schüler an der Abschlussprüfung des von ihnen besuchten Bildungsganges teil.
+ Schülerinnen und Schülern, welche den Bildungsgang der Realschule besuchen,
+steht am Ende der Jahrgangsstufe 9 die Teilnahme an der Abschlussprüfung des Bildungsganges der Hauptschule nach Beratung durch die Schule und Entscheidung der
+Eltern frei (Abb. 28).
+ Im Falle von Satz 2 werden die am Ende der Jahrgangsstufe 9 erzielten Noten bei der
+Berechnung der Endnoten und der Gesamtleistung um eine Notenstufe besser bewertet, in das bei Bestehen der Abschlussprüfung neben dem Zeugnis des Bildungsganges
+der Realschule zu erteilende Abschlusszeugnis aber unverändert übernommen, sofern
+sie sich nicht durch die Prüfungsleistung bei der Berechnung der Endnote verändert haben.
+ In den Abschnitt BEMERKUNGEN des Abschlusszeugnisses ist ein Vermerk darüber aufzunehmen, dass die zugrundeliegenden Leistungen im Bildungsgang der Realschule
+erbracht wurden.
+3.8.2 Erfassen des voraussichtlichen Abschlusses
+Für die Fälle nach VOBGM § 41, Absatz 4, Satz 2 sowie VOBGM § 41, Absatz 5, Satz 2
+
+Abb. 28 Webseite Qualifikationen: Bildungsgang Realschule – 9/2 (R,MSMB)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+41
+
+Abb. 29 Webseite Qualifikationen: Bildungsgang Gymnasium – 9/2
+
+Abb. 30 Webseite Qualifikationen: Bildungsgang Gymnasium, G8 – 9/2
+
+Für den Fall nach VOBGM § 41, Absatz 4, Satz 3
+
+Abb. 31 Webseite Qualifikationen: Bildungsgang Gymnasium – 10/2
+
+3.8.3 Ermittlung der Gesamtleistung
+ Ist der angestrebte Abschluss ein Realschulabschluss, wird die Endnote wie folgt ermittelt:
+ Ist die Schüler-Kurs-SF/BK GYM, entspricht die Endnote der eingetragenen Halbjahresnote minus 1 (Abb. 32).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+42
+
+Abb. 32 Webseite Realschulabschluss: Beispielübersicht
+
+ Ist der angestrebte Abschluss ein Hauptschulabschluss, wird die Note wie folgt relativiert:
+ Ist die Schüler-Kurs-SF/BK GYM oder GYM8, entspricht die Endnote der eingetragenen Halbjahresnote minus 2 (Abb. 33).
+
+Abb. 33 Webseite Hauptschulabschluss: Beispielübersicht
+
+ Ist die Schüler-Kurs-SF/BK R oder MSMB, entspricht die Endnote der eingetragenen
+Halbjahresnote minus 1 (Abb. 34).
+ Die so ermittelten Endnoten stehen auf der Abschluss-Seite in der Spalte Endnote.
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+43
+
+Abb. 34 Webseite Hauptschulabschluss: Beispielübersicht 2
+
+3.8.4 Relativierung der Prüfungsnote/Ermittlung der Zeugnisnote
+Ist der angestrebte Abschluss ein Realschulabschluss, wird die Prüfungsnote wie folgt
+relativiert:
+ Ist die Schüler-Kurs-SF/BK GYM (KGS – 10/2), entspricht die relativierte Prüfungsnote
+der eingetragenen Prüfungsnote plus 1.
+Ist der angestrebte Abschluss ein Hauptschulabschluss, wird die Prüfungsnote wie folgt
+relativiert:
+ Ist die Schüler-Kurs-SF/BK GYM oder GYM8 (KGS – 9/2), entspricht die relativierte Prüfungsnote der eingetragenen Prüfungsnote plus 2.
+ Ist die Schüler-Kurs-SF/BK R oder MSMB (9/2), entspricht die relativierte Prüfungsnote
+der eingetragenen Prüfungsnote plus 1 (Abb. 35)
+Auf der Abschluss-Seite wird die nicht relativierte Prüfungsnote im Bereich Prüfungen angezeigt. Die relativierte Prüfungsnote wird nur für die Berechnung der Zeugnisnote verwendet. Sie erscheint nicht auf der Oberfläche.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+44
+
+Abb. 35 Webseite Hauptschulabschluss: Beispielübersicht 3
+
+Beispiel: Realschüler mit Prüfungsfach Deutsch in der Hauptschulprüfung
+Erläuterung zum Beispiel aus Abb. 35:
+Ein Realschüler, der am Ende der 9.ten Jahrgangsstufe an der Hauptschulprüfung mit dem
+Prüfungsfach Deutsch teilnimmt, erhält im dargestellten Beispiel nach folgender Rechnung
+die Zeugnisnote „ausreichend“ im Fach Deutsch auf Realschulniveau:
+ZeugnisnoteDeutsch,R =
+
+�PrüfungsnoteDeutsch,H + 1� + �2 ∙ NoteDeutsch,09/2 �
+3
+
+⇒ ZeugnisnoteDeutsch,R =
+
+(5+1)+(2∙3)
+3
+
+=
+
+12
+=4
+3
+
+ Abschluss- und Zeugniszuweisung: Es ist möglich, den betroffenen Schülern, die
+entspr. Abschlüsse und Zeugnisse zuzuweisen.
+ Automatisierter Abschlusseintrag: Wenn ein GYM-Schüler den Mittleren Abschluss
+nicht besteht, wird kein neuer Eintrag auf der Seite Qualifikationen generiert. Wenn ein
+GYM, GYM8-, MSMB- oder R-Schüler den Hauptschulabschluss nicht besteht, wird
+kein neuer Eintrag (KABS) auf der Seite Qualifikationen generiert.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+45
+
+4
+
+Historische Leistungsdaten erfassen
+Wenn bisher an Ihrer Schule keine Leistungen in der LUSD erfasst wurden, wird es notwendig sein, historische Leistungsdaten der Schüler zu pflegen. Außer dem aktuellen Halbjahr müssen auch alle im Vorjahr abgeschlossenen Fächer benotet sein.
+
+4.1
+
+Noten der „abgeschlossenen Fächer“
+ABGESCHLOSSENE FÄCHER sind Pflichtfächer (Kursart P) und Wahlpflichtfächer (Kursart
+W), die im Abschlussjahr nicht mehr unterrichtet werden, die aber im Vorjahr unterrichtet
+und benotet wurden.
+Laut Verordnung müssen diese Fächer und die Benotung im Abschlusszeugnis ausgewiesen werden, obwohl sie nicht in die Gesamtleistung einfließen.
+Sollten die historischen Leistungen nicht vorhanden sein, können sie auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > HIST. LEISTUNGSDATEN nachgetragen werden.
+Voraussetzung dafür ist allerdings, dass das Fach als schulbezogenes Fach auf der Seite
+SCHULE > SCHULBASISDATEN > FÄCHER aufgenommen wurde.
+Die historischen Leistungsdaten können nur für die Halbjahre verändert werden, in denen
+die betroffenen Schüler an der aktuellen Schule aktiv waren oder nicht an einer hessischen LUSD-Schule unterrichtet wurden. In allen anderen Fällen setzen Sie sich bitte mit
+der ehemaligen Schule in Verbindung, wenn eine Änderung historischer Leistungsdaten
+notwendig ist.
+
+4.2
+
+Noten des 1. Halbjahres
+Wenn einzelne Fächer nur im 1. Halbjahr der Jahrgangsstufe des Abschlusses unterrichtet
+wurden, achten Sie darauf, dass auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG >
+HIST. LEISTUNGSDATEN für das entsprechende Halbjahr des Faches im Feld EPOCHALTYP
+der Eintrag Ja ausgewählt ist. Nur dann erscheinen diese Fächer mit dem Epochal-Hinweis
+(1. Halbjahr oder 2. Halbjahr) im Zeugnis.
+1. Um dieses Kursdetail zu bearbeiten, klicken Sie zuerst mit der Maus in das entsprechende Halbjahr des Faches und dann auf das Symbol .
+Es öffnet sich ein Dialogfenster.
+2. Bearbeiten Sie hier nach Wunsch Wochenstunden, Thema, Epochaltyp, Kursart und
+Kursoption.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+46
+
+Hinweis
+Dies ist bei bereits vorhandenen Fächern möglich und auch, wenn das Fach
+für das 1. Halbjahr nachträglich eingetragen werden muss. In diesem Fall
+wird zuerst eine Note in das entsprechende Halbjahresfeld eingetragen und
+gespeichert, danach kann über das Markieren des Notenfeldes und den Bearbeitungsbutton ein Unterdialog zum Eintragen der Eigenschaften dieses virtuellen Kurses geöffnet werden.
+
+5
+
+Erfassen der zusätzlichen Prüfungen
+Die zusätzlichen Prüfungen (mündliche Prüfung, Präsentation einer Hausarbeit oder Projektprüfung) werden schülerindividuell direkt in der LUSD erfasst.
+1. Rufen Sie die in Abb. 36 und Abb. 37 dargestellte Dialogfenster für den Hauptschuloder den Realschulabschluss auf, indem Sie auf der Webseite UNTERRICHT > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS oder der Webseite UNTERRICHT > ABSCHLÜSSE >
+MITTLERER ABSCHLUSS die Schüler auswählen.
+2. Klicken Sie auf Schaltfläche
+
+.
+
+Beachten Sie für ihre Eintragungen:
+ Die Auswahl des 4. Prüfungsfaches und dessen Note können bereits im 1. Halbjahr des
+Abschlussjahres eingegeben werden. Sie werden für die Abschlusserstellung im 2.
+Halbjahr hinterlegt.
+ Stellen Sie sicher, dass vor der Erfassung der zusätzlichen Prüfungen die SchülerKurs-Zuordnungen korrekt sind. Eine Änderung von Schüler-Kurs-Zuordnungen nach
+der Erfassung der zusätzlichen Prüfung kann Datenverluste zur Folge haben.
+ Für den Hauptschulabschluss wird keine Fachauswahl ermöglicht, da keine Verrechnung mit einer Fachnote erfolgt. Die Projektprüfungsnote wird im Abschlusszeugnis getrennt ausgegeben. Das Thema der Projektprüfung wird nicht auf dem Zeugnis ausgegeben. Die Eingabe des Themas ist aber notwendig, da es auf dem Beiblatt ausgedruckt wird.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+47
+
+Abb. 36 Dialogfenster Abschluss Hauptschule: Projektprüfung Hauptschulabschluss
+
+ Die Vorbelegung im Bereich VORAUSSICHTLICHER ABSCHLUSS ist für alle Hauptschüler
+automatisch immer qualifizierender Hauptschulabschluss (HQ), kann aber geändert wer
+
+
+
+
+
+
+
+den.
+Der qualifizierende Hauptschulabschluss (HQ) wird nach erfolgreichem Absolvieren der
+schriftlichen Prüfungen in Deutsch, Mathematik und der 1. Fremdsprache automatisch
+berechnet und ggf. zuerkannt. Die erste Fremdsprache bestimmt sich nach den Einträgen auf der Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN.
+Nimmt der Schüler nicht an der schriftlichen Prüfung in der 1. Fremdsprache teil oder
+erreicht er nicht den für einen qualifizierenden Hauptschulabschluss (HQ) erforderlichen
+Notendurchschnitt, wird der Hauptschulabschluss (HA) zuerkannt.
+Bei Nichtteilnahme an der Prüfung in der 1. Fremdsprache muss als VORAUSSICHTLICHER ABSCHLUSS der Hauptschulabschluss (HA) zugewiesen werden (siehe Kapitel
+3.4).
+Für den Realschulabschluss ist außer in der Abendschule die Prüfungsart HAUSARBEIT
+MIT PRÄSENTATION vorgeschrieben und kann nicht verändert werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+48
+
+Abb. 37 Dialogfenster Abschluss Realschule: Zusatzprüfung Mittlerer Abschluss
+
+ Es muss für den Realschulabschluss ein 4. Prüfungsfach (Pflichtfeld) für die Prüfung
+ausgewählt werden. Dieses kann ein im Abschlussjahr belegtes oder ein im Vorjahr abgeschlossenes Fach sein. Es werden nur die Fächer zur Verfügung gestellt, in denen
+laut Verordnung diese Prüfung abgelegt werden kann. Dieses sind die Pflichtfächer
+(Kursart P) und – nur noch für den Abschluss im Jahr 2016 - die Wahlpflichtfächer
+(Kursart W). Es muss sich um ein reguläres Fach handeln und es darf kein Fach sein,
+das bereits Prüfungsfach der ZAA ist.
+ Zur Unterscheidung von zwei Wahlpflichtkursen im gleichen Fach in der IGS werden die
+Kursoptionen WP1 und WP2 angezeigt, die solchen Kursen zugewiesen sein müssen
+(siehe Kapitel 2.5 Pflege der Kurse).
+ In allen anderen Schulformen ist nur ein Wahlpflichtkurs im Schuljahr zulässig.
+ Die Eingabe des Themas ist nicht verpflichtend.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+49
+
+Erfassen der zentralen Abschlussarbeiten ZAA
+ Die schriftlichen Abschlussergebnisse können kursweise mit dem ENC oder schülerindividuell direkt in der LUSD erfasst werden. Die Erfassung mit dem ENC ist effizienter, weil dabei an
+mehreren Rechnern gleichzeitig gearbeitet werden kann und die Nutzerinnen und Nutzer des
+ENC keine LUSD-Zugangsdaten und keinen Zugang zu einem Rechner, der im Schulverwaltungsnetz ist, benötigen.
+Hinweis
+Für die Abendschulen können die ZAA-Ergebnisse nicht im ENC erfasst werden, die Erfassung ist hier derzeit nur zentral in der LUSD und ohne die
+Punktwertungen der einzelnen Aufgaben möglich.
+
+ Die Ergebnisse der Zentralen Abschlussarbeiten können – außer für Abendschulen – erst nach
+dem 20. April erfasst werden, vorher sind die Erfassungsmasken deaktiviert.
+ Die Kurse der Fächer für die ZAA müssen die Kursart P (Pflichtkurse) haben!
+Achtung
+Stellen Sie sicher, dass vor der Erfassung von Prüfungsleistungen die Schüler-Kurs-Zuordnungen korrekt sind. Eine Änderung von Schüler-Kurs-Zuordnungen nach der Erfassung von Prüfungsleistungen kann Datenverluste zur
+Folge haben..
+
+6
+
+Vorbereiten der Formulare für die Erfassung der schriftlichen Arbeiten
+Auf der Webseite EXTRAS > BERICHTE können Sie unter UNTERRICHT > HR-ABSCHLUSS - Ergebnisse schriftliche Abschlussarbeiten „leere Formulare“ ausdrucken und diese den Prüfungslehrern für die Erfassung der Punkte während der Korrektur zur Verfügung stellen.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+50
+
+Abb. 38 Webseite Berichte: Ergebnisse schriftliche Abschlussarbeiten – Aufruf Art* (leer)
+
+Bevor Sie die leeren Formulare ausdrucken können, müssen Sie über das Schaltsymbol
+die entsprechenden Kurse auswählen.
+Sie können in einem Arbeitsgang alle Listen gleichzeitig erzeugen, indem Sie in der Kursauswahl jeweils die gesamten Abschlussjahrgänge auswählen.
+
+Abb. 39 Webseite Kurssuche: Auswahl für den Bericht Ergebnisse schriftliche Abschlussarbeiten
+
+Dadurch werden zwar alle Kurse der Abschlussjahrgänge selektiert, aber für alle Klassen
+werden nur Ergebnislisten in den Kursen erzeugt, die für die Erfassung der erreichten
+Punkte in den Abschlussarbeiten benötigt werden.
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+51
+
+Kurse, in denen keine Abschlussarbeiten geschrieben werden, bleiben bei der Erstellung
+der Listen automatisch unberücksichtigt.
+
+Abb. 40 Webseite Kurssuche: Auswahl für den Bericht Ergebnisse schriftliche Abschlussarbeiten 2
+
+Die Darstellung der Formulare für die Erfassung der schriftlichen Arbeiten entspricht den
+Erfassungsmasken im ENC und erleichtert so die Übertragung der Ergebnisse.
+
+Abb. 41 Bericht Deutsch für Realschule: Ergebnisse schriftliche Abschlussarbeiten (leer)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+52
+
+7
+
+Erfassen der zentralen Abschlussarbeiten mit dem externen Notenclient
+(ENC)
+Zum Erfassen der zentralen Abschlussarbeiten muss der externe Notenclient (ENC) nicht
+auf den für die Erfassung vorgesehenen Rechnern installiert werden.
+1. Gehen Sie auf die Webseite UNTERRICHT > EXPORT / IMPORT > ENC EXPORT.
+2. Setzen Sie einen Haken in das Kontrollkästchen vor ENC-CLIENT IN DIE EXPORTDATEI
+EINBINDEN. Damit laden Sie eine lauffähige Version des ENC direkt mit den Exportdaten
+herunterladen (Abb. 42).
+
+Abb. 42 Webseite ENC Export: ENC einbinden
+
+3. Die ausführbare Datei ENC.exe befindet sich nach dem Herunterladen zusammen mit
+den Exportdaten in einem einzigen gepackten ZIP-Verzeichnis. Entpacken Sie die ZIPDatei aus dem Ordner heraus.
+4. Starten Sie den ENC mit einem Doppelklick auf den Dateinamen ENC.exe (Abb. 43).
+
+Abb. 43 Dateidownload ENC: Arbeitsdatei
+
+Ausführbare ENC.exe
+Es empfiehlt sich, eine Datei-Verknüpfung der ENC Programm-Datei ENC.exe auf dem
+Desktop zu erstellen, da der ENC sich nach jedem Benutzer schließt und vom nächsten
+Benutzer neu geöffnet werden muss. Dieser Schritt wird durch eine Verknüpfung auf dem
+Desktop erleichtert.
+1. Klicken Sie dazu mit der rechten Maustaste auf die Datei. Wählen Sie SENDEN AN DESKTOP.
+2. Eine Verknüpfung wird hergestellt.
+3. Nach dem ersten Öffnen des ENC muss dieser noch mit der zu bearbeitenden ArbeitsDatei verbunden werden.
+4. Klicken Sie dazu auf die Schaltfläche
+auf dem Startfenster des ENC. Es wird das
+Verzeichnis mit der Arbeitsdatei, z. B. AB01_20110412122121.xml, angezeigt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+53
+
+5. Wählen Sie diese mit einem Klick an.
+6. Klicken Sie auf Öffnen.
+7. Die Datei wird mit dem ENC verbunden. Sie ist auf dem Startbildschirm angezeigt.
+Diese Verbindung bleibt auch nach dem Schließen des ENC für den nächsten Benutzer
+erhalten.
+
+Abb. 44 Arbeitsdatei ENC: Anzeige der Arbeitsdatei
+
+7.1
+
+Exportieren der Daten für die Erfassung der zentralen Abschlussarbeiten
+1. Für den Datenexport zur Erfassung der Leistungsdaten rufen Sie die Seite UNTERRICHT
+> EXPORT/IMPORT > ENC EXPORT auf.
+2. Diese Seite ist zweigeteilt. Im linken Bereich legen Sie die Exportoptionen fest. Wählen
+Sie für die Erfassung der zentralen Abschlussarbeiten hier am besten die Option ARBEITSSTATIONEN oder EINZELNE DATEIEN FÜR ALLE LEHRER (siehe Abb. 45) aus.
+3. Klicken Sie das Kontrollkästchen ENC-CLIENT IN DIE EXPORTDATEI EINBINDEN an, um
+ohne Installation des ENC mit diesem arbeiten zu können.
+4. Für die Leistungserfassung der zentralen Abschlussarbeiten klicken Sie im rechten Bereich das Feld ZENTRALE ABSCHLUSSARBEITEN an (siehe Abb. 45). Nach dem Anhaken
+wird die Baumstruktur unter der Überschrift SCHÜLERAUSWAHL nicht mehr angezeigt. Die
+betroffenen Schüler mit einem voraussichtlichen Abschluss und die Kurse, in denen sie
+schriftliche Abschlussarbeiten schreiben, werden zusammengestellt und mit den Kurslehrern vorbereitet.
+
+Abb. 45 Webseite ENC-Export: Export zur Erfassung der zentralen Abschlussarbeiten
+
+5. Klicken Sie auf
+
+und speichern Sie die Export-Datei.
+
+6. Klicken Sie unmittelbar nach erfolgtem Export und Speichern auf die Schaltfläche
+. Diese Schaltfläche ist nur einmal nach dem Export aktiv. Die Passwörter
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+54
+
+werden zusammengefasst in einer PDF-Datei zur Verfügung gestellt. Weitere Informationen hierzu finden Sie im Kapitel 3.2.
+7. Beim Datenexport werden die einzelnen Dateien in ein Zip-Archiv gepackt. Dieses Archiv muss vor der Arbeit mit den Dateien entpackt werden. Anschließend können Sie
+den Speicherort für den Ordner mit den extrahierten *.xml-Dateien frei wählen.
+
+7.2
+
+Erfassen der Abschlussergebnisse mit dem ENC
+1. Starten Sie den ENC. Geben Sie als Benutzernamen Ihr Lehrer-Kürzel und Ihr Passwort
+ein.
+2. Wählen Sie über die Schaltfläche
+die dazu passende Datei aus (Abb. 46). Bei der
+empfohlenen Exportoption EINZELNE DATEIEN FÜR ALLE LEHRER beginnt der Dateiname
+jeweils mit dem Lehrerkürzel. Bei einem Export auf Arbeitsstationen entsteht für jede Arbeitsstation eine eigene Datei.
+Hinweis
+Zur Bearbeitung einer Datei im ENC müssen Sie sich mit einem Benutzernamen und einem Passwort authentifizieren, das für die betreffende Datei generiert wurde. Der Benutzername entspricht dem auf der Seite SCHULE > PERSONAL > PERSONALSTAMM erfassten Kürzel der Lehrkraft. Weitere Informationen hierzu finden Sie unter dem Kapitel 3.2.
+
+Abb. 46 Anwendung ENC: Anmeldungsbildschirm
+
+Die Erfassungsmasken im ENC orientieren sich an den leeren Formularen aus der Berichtsverwaltung. Vergleichen Sie hierzu Abb. 47, Abb. 48 und Abb. 49 mit Abb. 59 und
+Abb. 60.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+55
+
+Abb. 47 Anwendung ENC: Dialogfenster zentrale Abschlussarbeiten
+
+ Bei der Eingabe im Fach Deutsch können Sie die Textauswahl (Text 1, Text 2 oder Text
+3) über einen Doppelklick auf die jeweilige Zelle in der Spalte Textauswahl ändern. So
+können verschiedene Textvarianten erfasst werden (siehe Abb. 48).
+
+Abb. 48 Anwendung ENC: Dialogfenster Zentrale Abschlussarbeiten - Fach Deutsch
+
+ Für die 1. Fremdsprache ist die Notenerfassung für alle Sprachen gleich. Welche Sprache als 1. Fremdsprache des Schülers gilt, wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN geregelt.
+
+Abb. 49 Anwendung ENC: Dialogfenster Zentrale Abschlussarbeiten - 1. Fremdsprache
+
+ Die Maximalpunkte, die Sie pro Aufgabentyp eingeben können, erscheinen als Tooltipp,
+sobald Sie mit dem Mauszeiger auf die Spaltenüberschriften zeigen.
+ Wenn die eingegebenen Punkte höher sind als die vorgegebene Maximalpunktzahl,
+können Sie erst weiterarbeiten, nachdem Sie die eingegebenen Punkte korrigiert haben.
+ Das Programm bildet die Summe der relevanten Punkte. Wenn ein Schüler im Wahlbereich mehr Aufgaben als gefordert bearbeitet hat, wird automatisch die für den Schüler
+günstigste Kombination berechnet
+ Die Notenberechnung erfolgt erst nach dem Import der Daten in die LUSD.
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+56
+
+7.3
+
+Erfasste Daten in die LUSD importieren
+1. Rufen Sie die Webseite UNTERRICHT > EXPORT / IMPORT > ENC IMPORT auf, um die im
+ENC bearbeiteten Daten zu importieren.
+Erst bei der Übernahme findet automatisch die Notenberechnung der erfassten
+schriftlichen Prüfungen statt.
+2. Klicken Sie zunächst auf die Schaltfläche
+Rechner für den Import auszuwählen.
+
+, um eine Datei auf Ihrem
+
+Beispiel: In Abb. 50 befindet sich die Datendatei auf dem Desktop des Rechners.
+3. Nachdem Sie eine Importdatei ausgewählt haben, klicken Sie auf
+den Import durchzuführen.
+
+, um
+
+Abb. 50 Webseite ENC Import: Import der Abschlussarbeiten
+
+4. Nach dem Import können Sie im Bereich Import-Status das Ergebnis des Imports sehen.
+Wenn in der LUSD schon Daten vorhanden sind, werden beim Import abweichender Daten aus dem ENC Konflikte angezeigt. Sie haben dann die Möglichkeit, diese zu übernehmen oder zu verwerfen.
+Beim Übernehmen der Konflikte werden die alten Daten in der LUSD durch die neuen
+Daten des ENC überschrieben.
+
+Abb. 51 Webseite ENC Import: Importstatus Abschlussarbeiten
+
+8
+
+Erfassen der zentralen Abschlussarbeiten mit der LUSD
+Die Ergebnisse der Zentralen Abschlussarbeiten können – außer für Abendschulen – erst
+nach dem 20. April erfasst werden, vorher sind die Erfassungsmasken deaktiviert.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+57
+
+Sie können die schriftlichen Abschlussarbeiten auch schülerindividuell direkt auf den Seiten
+UNTERRICHT > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS UND UNTERRICHT > ABSCHLÜSSE >
+MITTLERER ABSCHLUSS in der LUSD erfassen (Abb. 52).
+Dieses Verfahren ist dann sinnvoll, wenn einzelne Datensätze verändert oder nachgepflegt
+werden müssen. Für Hauptschulabschlüsse und Mittlere Abschlüsse kann die Noten-Erfassung nur hier erfolgen.
+1. Wählen Sie zunächst über die Auswahlliste eine der Abschlussklassen aus und klicken
+Sie dann auf
+. Sie sehen daraufhin im linken Bereich der Seite die Schülerinnen
+und Schüler der ausgewählten Klasse (Abb. 52).
+Alternativ klicken Sie auf den Eintrag ALLE KLASSEN und bekommen dann alle Schüler
+der Abschlussklassen angezeigt.
+
+Abb. 52 Webseite Mittlerer Abschluss: Auswahl der Klassen zum Erfassen der Abschlussarbeiten
+
+2. Markieren Sie im linken Bereich der Seite die Schülerinnen und Schüler mit einem Haken, deren Abschlussnoten Sie erfassen wollen. Die Anzahl der markierten Schüler wird
+am unteren Ende der Schülerliste angezeigt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+58
+
+Abb. 53 Webseite Mittlerer Abschluss: Auswahl der Schüler zum Erfassen der Abschlussarbeiten
+
+ Wenn Sie auf den Namen eines einzelnen Schülers klicken (Markierung Fettdruck), werden im rechten Bereich der Seite die Leistungen des Schülers in den abschlussrelevanten Halbjahren angezeigt.
+ Die farbigen Symbole neben den Schülernamen geben Auskunft darüber, ob die Abschlussdaten des Schülers bereits bearbeitet wurden, ob der einfache oder der qualifizierende Abschluss erreicht wurde bzw. ob der Abschluss nicht erreicht wurde.
+Symbol Bezeichnung Bedeutung des Symbols
+
+MAQ
+
+Der Schüler hat den qualifizierenden Realschulabschluss bestanden.
+
+MA
+
+Der Schüler hat den Realschulabschluss bestanden.
+
+MA/KB
+
+Dem Schüler wurde laut Konferenzbeschluss der qualifizierende
+Realschulabschluss aberkannt und der Realschulabschluss zugewiesen.
+
+Kein MA
+
+Der Schüler hat den Realschulabschluss nicht bestanden.
+
+ungeprüft
+
+Der Schüler ist noch nicht geprüft.
+
+Abb. 54 Statusübersicht der Abschlusserfassung Mittlerer Abschluss
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+59
+
+ Mit der Schaltfläche „Abschluss & Prüfungen“ kann auf der Seite MITTLERER ABSCHLUSS
+ein errechneter MAQ aufgrund eines Konferenzbeschlusses z. B. wegen fehlender Arbeitshaltung des Schülers auf den einfachen MA zurückgesetzt werden.
+ Diese Angaben sind dann für Sie wichtig, wenn Sie nicht nur die Zentralen Abschlussarbeiten erfassen, sondern die Haupt- und Realschulabschlüsse vollständig mit der LUSD
+erfassen wollen. Näheres dazu finden Sie in Kapitel 9.
+
+Abb. 55 Dialogfenster Abschluss Realschule
+
+3. Nachdem Sie die Schüler ausgewählt haben, klicken Sie im unteren Bereich der Seite
+auf die Schaltfläche
+. Es öffnet sich ein Dialogfenster, in dem Sie
+die Prüfungsnoten für die einzelnen Prüfungsfächer erfassen können.
+
+Abb. 56 Dialogfenster Abschluss Hauptschule
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+60
+
+ Durch Klick auf die Schaltfläche
+gelangen Sie in die jeweilige Eingabemaske für das Fach, in der Sie die Punkte der schriftlichen Arbeiten erfassen bzw. korrigieren können.
+ Wenn Sie bereits erfasste Ergebnisse in den Eingabemasken löschen wollen, klicken
+Sie auf
+.
+ Für Hauptschulabschlüsse und Mittlere Abschlüsse werden nur die Prüfungsendnoten
+erfasst, die Eingabemasken für die Punktwerte der Aufgaben sind deaktiviert.
+
+Abb. 57 Dialogfenster Zentrale Abschlussarbeiten: Erfassung der Abschlussarbeiten in der LUSD
+
+8.1
+
+Notenschutz für Lese- und Rechtschreibschwäche im Fach Deutsch
+Im Dialogfenster zur Erfassung der Prüfungsnoten können Sie im Fach Deutsch auswählen, ob für einzelne Schüler bei der Bewertung der Noten auf eine bescheinigte Lese- und
+Rechtschreibschwäche Rücksicht genommen wird.
+1. Markieren Sie dazu das Kontrollkästchen mit der Bezeichnung LRS NOTENSCHUTZ.
+2. Klicken Sie auf
+(Abb. 58). Sofern dadurch für den Schüler eine Verbesserung der Note erfolgt, wird diese sofort angezeigt.
+Für Schüler mit LRS-Notenschutz wird eine andere Punktetabelle zugrunde gelegt, eine
+maximale Punktzahl für die Rechtschreibung darf dabei nicht überschritten werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+61
+
+Hinweis
+Bedenken Sie bitte, dass es nur in seltenen Fällen zu einer Notenveränderung um eine ganze Zensur kommt. Für den Fall, dass der Notenschutz nicht
+zu einer positiven Zensurveränderung führt, empfiehlt es sich nicht, den LRS
+Notenschutz zu aktivieren, da im Fall einer Gewährung des Notenschutzes
+eine entsprechende Bemerkung im Zeugnis – auch im Abschlusszeugnis –
+stehen muss. Überprüfen Sie also, ob es zu einer Veränderung der errechneten Zensur kommt.
+Die Zeugnisbemerkung zum Notenschutz müssen Sie betroffenen Schülern
+selbst zuordnen, sie wird nicht automatisch erzeugt.
+
+Abb. 58 Dialogfenster Abschluss Realschule: Erfassung des LRS-Notenschutzes
+
+8.2
+
+Ergebnislisten der schriftlichen Abschlussarbeiten
+Auf der Seite EXTRAS > BERICHTE können Sie im Feld UNTERRICHT – H/R-ABSCHLUSS im
+ersten Untermenüpunkt die Ergebnislisten der schriftlichen Abschlussarbeiten abrufen. Die
+Ergebnislisten werden kursweise erstellt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+62
+
+Abb. 59 Bericht Deutsch für Realschule: Ergebnisliste der schriftlichen Abschlussarbeiten
+
+Abb. 60 Bericht Mathematik für Hauptschule: Ergebnisliste der schriftlichen Abschlussarbeiten
+
+8.3
+
+Ergebnisse der Schriftlichen Abschlussarbeiten - Elternbenachrichtigung
+Die Eltern der Schüler, die noch nicht volljährig sind, müssen über die Ergebnisse der Zentralen Abschlussarbeiten informiert werden. Dazu gehört auch ein Notenspiegel, in dem die
+Ergebnisse der Klasse/des Kurses ersichtlich sind.
+Diese fertig ausgefüllten Formulare können Sie auf der Seite EXTRAS > BERICHTE unter UNTERRICHT – H/R-ABSCHLUSS herunterladen, nachdem Sie vorher die entsprechenden Schüler ausgewählt haben.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+63
+
+Abb. 61 Bericht Haupt- und Realschule A: Elternbenachrichtigung über die Ergebnisse der schriftlichen
+Abschlussarbeiten
+
+8.4
+
+Beiblatt Projektprüfung
+Das Beiblatt Projektprüfung für die im Rahmen der Hauptschulabschlussprüfung erfolgte
+Projektprüfung muss dem Zeugnis (in der Regel dem Halbjahreszeugnis des ersten Halbjahres) beigefügt werden.
+Dieses Beiblatt können Sie auf der Seite ZEUGNISSE > ZEUGNIS ERSTELLEN unter der Zeugnisart 3. ZEUGNIS zuweisen.
+
+Abb. 62 Webseite Zeugnis erstellen: Beiblatt Projektprüfung zuweisen
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+64
+
+Abb. 63 Beiblatt zum Zeugnis: Auszug Beispiel
+
+Eine Beschreibung des Projektes ist in der LUSD nicht möglich, das Beiblatt kann aber als
+bearbeitbare Word-Datei erstellt werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+65
+
+Erfassen der Haupt- und Realschulabschlüsse mit der LUSD
+9
+
+Prüfen des erreichten Abschlusses
+1. Um die Anschlussergebnisse zu prüfen, gehen Sie zur Webseite UNTERRICHT > ABSCHLÜSSE > MITTLERER ABSCHLUSS bzw. UNTERRICHT > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS. Zunächst sehen Sie eine Seite ohne Einträge.
+
+Abb. 64 Webseite Mittlerer Abschluss
+
+2. Selektieren Sie im linken Bereich der Seite nun eine Abschlussklasse und klicken Sie
+danach auf die Schaltfläche
+. Sie können auch die Voreinstellung ALLE KLASSEN
+wählen, um alle Schüler von Abschlussklassen auszuwählen.
+
+Abb. 65 Webseite Mittlerer Abschluss: Auswahl Abschlussklasse
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+66
+
+Sie können auf dieser Seite
+
+
+
+
+
+einen Schüler markieren,
+mehrere Schüler markieren,
+alle Schüler markieren oder
+keinen Schüler markieren.
+
+3. Klicken Sie auf den Namen eines einzelnen Schülers, um im rechten Bereich der Seite
+die Leistungen dieses Schülers in den abschlussrelevanten Halbjahren anzeigen zu lassen (Abb. 66).
+
+Abb. 66 Webseite Mittlerer Abschluss: Mittlerer Abschluss mit selektierten Schülern
+
+Es werden nur Kurse angezeigt und in der Abschlussberechnung berücksichtigt, die der
+Schüler in seiner aktuellen Schulform belegt hatte. Hat der Schüler innerhalb der letzten
+zwei Jahre seine Schulform gewechselt, werden die Kurse und Leistungen aus der vorherigen Schulform nicht berücksichtigt.
+4. Führen Sie den Prüflauf jeweils für die mit einem Häkchen markierten Schüler durch. Klicken Sie dazu auf die Schaltfläche PRÜFEN. Alternativ können Sie die Prüfung für alle
+Schüler anstoßen, indem Sie auf die Schaltfläche ALLE PRÜFEN klicken.
+Nach dem Prüflauf zeigen die Symbole vor den Namen der Schüler den Status der Prüfung auf den erreichten Abschluss an.
+5. Der Prüfvorgang verläuft erfolgreich, wenn alle Noten vorliegen. Sollten Noten fehlen,
+wird eine Fehlermeldung im Feld ERGEBNISSE DES PRÜFDURCHLAUFS ausgegeben.
+Erfolgreiche Prüfdurchläufe ändern den Status der Schüler entsprechend der oben dargestellten Übersicht.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+67
+
+Bitte beachten Sie
+ Beim Prüfen werden die Regeln der einzelnen Schulformen für die Erteilung des jeweiligen Abschlusses nach Maßgabe der Verordnung berücksichtigt.
+ Die Noten der Halbjahre und die Noten der Prüfungen werden zur Endnote verrechnet.
+Für IGS mit integrierten Klassen und Kursdifferenzierung wird dabei die Kursnote je
+nach Kursdifferenzierung an das Abschlussniveau angepasst.
+ Die Abschlusszeugnisnote wird durch Runden der Endnote ermittelt. Für IGS mit integrierten Klassen und Kursdifferenzierung wird dabei die Prüfungsnote je nach Kursdifferenzierung an das auf dem Zeugnis angegebene Kursniveau angepasst.
+ Außerdem werden die Versetzungsregelungen geprüft und die Ausgleichsregeln im Hintergrund herangezogen sowie die Gesamtleistung berechnet und bezüglich des erreichten Abschlusses bewertet.
+ Im Feld ERGEBNISSE DES PRÜFDURCHLAUFS erscheint der zuerkannte Abschluss. (Abb.
+67).
+ Wird einem Schüler der qualifizierende Mittlere Abschluss MAQ rechnerisch zuerkannt,
+aber aufgrund des Konferenzbeschlusses nicht zugeteilt, so kann mit der Schaltfläche
+KONFERENZBESCHLUSS MA der entsprechende Abschluss auf den MA zurückgesetzt werden.
+ Die Gesamtleistung wird berechnet und im Zeugnis ausgewiesen. Für den MAQ werden
+auch die beiden relevanten Notendurchschnitte Durchschnitt Hauptfächer und Durchschnitt restliche Fächer berechnet und angezeigt, aber nicht im Zeugnis ausgewiesen.
+
+Abb. 67 Webseite Mittlerer Abschluss: Korrektur des Prüfdurchlaufs durch Konferenzbeschluss
+
+ Der durch den Prüfdurchlauf berechnete Abschluss wird dem Schüler vom System
+automatisch zugewiesen und wird anschließend mit dem Datum der Zuweisung auf der
+Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN (Abb. 68) und auf der Seite
+UNTERRICHT > ZEUGNISSE > ZEUGNIS (Abb. 69) erstellen angezeigt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+68
+
+Abb. 68 Webseite Qualifikationen: Anzeige des berechneten Abschlusses
+
+Abb. 69 Webseite Zeugnis erstellen: Anzeige des berechneten Abschlusses
+
+Hinweis
+Wenn die Prüfung auf den qualifizierenden Hauptschulabschluss nicht erfolgreich verläuft, da die Regeln für die Zuerkennung verletzt sind (z. B. die
+Gesamtleistung ist größer als 3,0), dann wird automatisch die Leistung in der
+schriftlichen Prüfung der 1. Fremdsprache ignoriert und die Prüfung auf den
+einfachen Hauptschulabschluss reduziert.
+In diesem Fall kann es geschehen, dass sich die Gesamtleistung verbessert, weil durch die Nichtberücksichtigung der schriftlichen Leistungsnote in
+der 1. Fremdsprachen eine günstigere Notenkonstellation entsteht.
+Eine entsprechende Meldung wird als Kommentar unter ERGEBNISSE DES
+PRÜFDURCHLAUFS ausgegeben.
+Die Note der Abschlussprüfung in der 1. Fremdsprache erscheint dann nicht
+im Zeugnis
+
+Achtung
+Die Möglichkeit in der LUSD, einem Schüler, der laut Berechnung keinen Abschluss erhält, per Konferenzbeschluss doch einen Abschluss zuzuweisen, ist
+entfallen!
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+69
+
+Erstellen der Abschlusszeugnisse
+Nach erfolgreichem Abschluss der Prüfläufe für die Abschlüsse können die Abschlusszeugnisse
+direkt mit der LUSD erstellt werden.
+
+10
+
+Zeugnis zuweisen und Abschluss zuweisen
+1. Öffnen Sie auf der Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN den Reiter
+ZEUGNIS ZUWEISEN.
+2. Wählen Sie das Halbjahr und die entsprechende Klasse oder Schulform und Stufe oder
+einen Namen eines Schülers aus.
+ Wählen Sie eine Klasse aus, werden alle Schüler dieser Klasse angezeigt, egal welche Schulform/Stufe sie haben, ggf. auch abweichend von der Schulform/Stufe der
+Klasse.
+ Wählen Sie eine Schulform – ggf. zusätzlich mit der Stufe – aus, werden in den Klassen nur diejenigen Schüler angezeigt, die auch die ausgewählte Schulform/Stufe haben.
+ Wählen Sie die Option NAME, müssen Sie mindestens zwei Buchstaben eingeben
+und können danach die Wildcard * benutzen.
+Die Ergebnisse werden als Liste angezeigt, in der Schüler einzeln oder global ausgewählt werden können (Abb. 70).
+
+Abb. 70 Webseite: Zeugnis erstellen – Zeugnis zuweisen
+
+3. Klicken Sie nach dem Anhaken von einem oder mehreren Schülern auf das Schaltsymbol , um das Dialogfenster zur Zuweisung der Zeugnisart, der Zeugnisdaten und der
+Abschlussart für den/die ausgewählten Schüler zu öffnen (Abb. 71).
+4. Tragen Sie hier die Zeugnisart (Abschluss A3, für Schüler mit SchuB-Förderung: Abschluss A3 SchuB) sowie das Konferenzdatum und das Zeugnis-Ausgabedatum ein.
+Den erreichten Abschluss brauchen Sie nicht einzutragen. Wenn der Abschluss vom
+System berechnet wurde, ist er bereits dem Schüler zugewiesen und wird angezeigt,
+wenn Sie nur einen Schüler ausgewählt haben. Sie müssen nur solche Abschlüsse eintragen, die nicht auf den Abschlussseiten berechnet werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+70
+
+5. Klicken sie auf
+. Nach der Übernahme der Daten werden die Schüler, denen Daten zugewiesen wurden, mit einem farbigen Statussymbol markiert.
+6. Klicken Sie auf Speichern.
+Hinweis
+Bitte beachten Sie die allgemeinen Erläuterungen zur Zuweisung von Abschlüssen in der LUSD in der Anleitung Abschlüsse und ihre Erfassung in der
+LUSD auf schulehessen.de/lusdanleitungen.
+
+Abb. 71 Dialogfenster Zuweisung bearbeiten: Zuweisen der Zeugnisart und Zeugnisdaten
+
+Abb. 72 Webseite Zeugnis erstellen: Zeugnis zuweisen - Statusanzeige
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+71
+
+Hinweis
+Werden mehrere Schüler zur Bearbeitung in die Auswahl genommen,
+muss in dem Zuweisungsdialog für jeden Bereich angehakt werden, ob hier
+für alle ausgewählten Schüler eine Zuweisung erfolgen soll.
+Nicht angehakte Bereiche bleiben unverändert und bereits vorhandene Daten
+der Schüler werden nicht überschrieben, z. B. bei den automatisch zugewiesenen Abschlüssen. Vorhandene Daten können bei der Auswahl mehrerer
+Schüler nicht im Bearbeitungsdialog angezeigt werden.
+
+Hinweis
+Wird in der Zeugniszuweisung ein Abschluss zugewiesen, wird er automatisch in die Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN >
+SCHULABSCHLÜSSE übernommen.
+Nach dem Übernehmen und Speichern der Daten wird der Status des Schülers angezeigt.
+ Eine rote Markierung
+zugewiesen wurde.
+
+bedeutet, dass dem Schüler noch kein Zeugnis
+
+ Eine grüne Markierung
+bedeutet, dass dem Schüler mindestens ein
+Zeugnis zugewiesen wurde.
+Eine gelbe Markierung
+bedeutet, dass dem Schüler ein Zeugnis der Kategorie 2. Zeugnis (Abschluss-, Abgangs- oder Schulwechselzeugnis), aber
+kein Abschluss zugewiesen wurde.
+
+11
+
+Zeugnis generieren
+1. Übernehmen Sie auf der Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN im
+Reiter ZEUGNIS GENERIEREN (Abb. 73) die Schülerauswahl von dem vorherigen Reiter
+ZEUGNIS ERSTELLEN übernommen.
+2. Wählen Sie anschließend die zu generierende Zeugnisart ABSCHLUSS A3 für das Abschlusszeugnis aus.
+3. Klicken Sie auf die Schalfläche
+. Es werden diejenigen Schüler der gewünschten
+Stufe und Klasse in der Schülerauswahl angezeigt, denen die ausgewählte Zeugnisart
+zugewiesen wurde.
+ In der Schüleranzeige ist die Option STUFENWEISE voreingestellt. Bei dieser Option werden diejenigen Stufen angezeigt, die zu der obigen Schülerauswahl passen und denen
+die ausgewählte Zeugnisart zugewiesen wurde. Für jede Stufe wird bei der Generierung
+eine Datei mit allen Schülern dieser Stufe mit dem ausgewählten Zeugnis erstellt.
+ Die Option KLASSENWEISE zeigt die jeweiligen Klassen der obigen Schülerauswahl an,
+denen ein entsprechendes Zeugnis zugewiesen wurde. Bei der Generierung wird für
+jede Klasse eine Datei erzeugt.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+72
+
+ Wenn Sie die Option EINZELN auswählen, werden die Schüler der Auswahl einzeln angezeigt und für jeden ausgewählten Schüler wird eine einzelne Datei erzeugt.
+
+Abb. 73 Webseite Zeugnis erstellen: Zeugnis generieren
+
+Abb. 74 Webseite Zeugnis erstellen: Zeugnis generieren – Option einzeln
+
+4. Stellen Sie die Optionen für die Namensbestandteile und das Drucken ein.
+5. Klicken Sie anschließen auf GENERIEREN, um das Erzeugen der Zeugnisse anstoßen.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+73
+
+Hinweis
+Ein Klick auf TESTDRUCK erzeugt maximal drei exemplarische Testdrucke und
+eignet sich nicht für Testdrucke aller Schüler einer Klasse.
+
+Hinweis
+Wenn Sie keinen DIN A3 Duplexdrucker zur Verfügung haben, dann können
+Vorderseite und Rückseite des Zeugnisses auch getrennt in der Datei generiert werden (vgl. Kapitel 13).
+Wenn die Duplikate zur Arbeitsersparnis erst hergestellt werden sollen, nachdem die Zeugnisse unterschrieben und gesiegelt sind, dann lassen Sie „DUPLIKATE DRUCKEN“ deaktiviert. Duplikate sind generell für die Schulakte und
+
+nicht als Zeugniskopie für den Schüler geeignet!
+
+12
+
+Zeugnis abrufen
+1. Um die generierten Zeugnisse abzurufen, gehen Sie auf die Seite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN zum Reiter ZEUGNIS ABRUFEN.
+2. Wählen Sie das entsprechende Halbjahres (Voreinstellung ist immer das aktuelle Halbjahr), die entsprechende Klasse oder Schulform und Stufe aus.
+Wenn Sie im Vorfeld den Reiter ZEUGNIS GENERIEREN aufgerufen haben, wird die vorher
+getroffene Schülerauswahl übernommen.
+3. Klicken Sie auf FILTER, um den Status der generierten Zeugnisse anzusehen.
+ Ein rotes Quadrat zeigt an, dass die Zeugnisse noch nicht zum Download bereit sind.
+ Ein grünes Quadrat zeigt an, dass die Zeugnisse fertig sind und mit einem Klick auf
+das pdf-Symbol geöffnet oder gespeichert werden können.
+ Ein rot/grünes Symbol bedeutet, dass die Generierung im Gange, aber noch nicht abgeschlossen ist
+4. Mit der Schaltfläche
+
+können Sie die Seite aktualisieren.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+74
+
+Abb. 75 Webseite Zeugnis erstellen: Zeugnis abrufen
+
+Hinweis
+Sie können nur die Zeugnisse löschen, die noch nicht fertig sind oder die Sie
+im Rahmen eines Testdrucks generiert haben.
+Sie können jedoch Zeugnisse nach eventuellen Änderungen erneut generieren und abrufen.
+Eine laufende Nummer sorgt neben dem Datum als Bestandteil des Dateinamens dafür, dass Sie die jeweils aktuellste Zeugnisvariante erkennen können.
+
+13
+
+Zeugnisdruck
+Die Zeugnisse werden als PDF-Datei ausgegeben und können mit dem ADOBE ACROBAT
+READER ® gelesen werden.
+1. Wenn Sie nur eine der Doppelseiten ausdrucken möchten, dann wählen Sie im Feld
+DRUCKBEREICH unter der Option DRUCKEN > NUR GERADE SEITEN bzw. NUR UNGERADE
+SEITEN.
+2. Für ein optimales Druckergebnis wählen Sie im Feld SEITENEINSTELLUNGEN die Option
+SEITENANPASSUNG – KEINE oder AUF DRUCKBEREICH VERKLEINERN.
+3. Testen Sie das beste Druckergebnis mit einem Probedruck aus.
+4. Speichern Sie diejenigen Zeugnisdateien, die die korrekten Zeugnisse enthalten, in einem Zeugnisarchiv ab.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+75
+
+Abb. 76 Dialogfeld Drucken: Einstellungen für Zeugnisdruck
+
+Abb. 77 Zeugnis: Zeugnis des Mittleren Abschluss (Beispiel)
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+76
+
+14
+
+Kein Abschluss, Übergang, Abgang und Freigabe
+Allen Schülern muss am Ende von Stufe 09/2 oder 10/2 ein Abschluss oder eine Gleichstellung mit einem Abschluss zugewiesen werden.
+ Schüler, die den Hauptschulabschluss nicht erreichen, erhalten den Abschluss ohne
+Hauptschulabschluss (OHA). Im Wiederholungsfall nach zweiter erfolgloser Prüfung
+erhalten sie den Abschluss kein Abschluss (KABS).
+ Schüler der Stufe 10, die am Ende der Stufe 9 bereits den Hauptschulabschluss HA
+oder qualifizierenden Hauptschulabschluss HQ nach erfolgreichen Prüfungen erreicht
+haben oder denen am Ende der 09/2 ohne Prüfungsteilnahme durch Konferenzbeschluss die Gleichstellung mit dem Hauptschulabschluss HA-G zuerkannt wurde, erhalten beim Scheitern in der Realschulabschlussprüfung den Abschluss kein Abschluss
+KABS.
+ Übergänger aus Stufe 10 von Gymnasialzweigen oder IGS mit Versetzung in die Einführungsphase erhalten die Gleichstellung mit dem Mittleren Abschluss MA-G. Übergänger
+aus Stufe 9 von GYM8-Zweigen erhalten dagegen nur die Gleichstellung mit dem
+Hauptschulabschluss HA-G.
+ Abgängern, die kein Abschlusszeugnis erhalten, ist in der LUSD auf der Seite Zeugniszuweisung außerdem ein Abgangszeugnis zuzuweisen. Übergänger erhalten ein Schulwechselzeugnis. Der Wechsel vom allgemeinbildenden ins berufliche Schulwesen ist
+immer ein Abgang und kein Übergang.
+Hinweis
+Zu allen Fragen der Abschlüsse und Abgänge siehe die ausführlichen Erläuterungen in der Anleitung Abschlüsse und ihre Erfassung in der LUSD auf
+schulehessen.de/lusdanleitungen.
+
+ Abschlussschüler, Abgänger und Übergänger aus der Schule nach Stufe 9 oder 10
+müssen darüber hinaus ein Kandidatenverfahren zu einer Schule erhalten, wenn sie innerhalb Hessens auf eine LUSD-Schule wechseln. Dies wird auf der Seite SCHÜLER >
+KANDIDATENVERFAHREN > ABGÄNGER eingetragen. Dort ist mit dem Kandidatenverfahren
+auch ein Freigabedatum einzutragen, in der Regel das Ende des Schuljahres, d.h. der
+31.07. bzw. bei Abschluss-Schülern der Tag nach der Zeugnisausgabe.
+ Verlassen die Schüler die Schule, ohne auf eine LUSD-Schule überzugehen, muss
+ihnen ein Freigabedatum auf der Seite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER
+OHNE EINRICHTUNG EINES KANDIDATENVERFAHRENS eingetragen werden. Mit dem Erreichen dieses Freigabedatums werden die Schüler dann ehemalig. Als Freigabedatum
+tragen Sie in der Regel den 31.07. als Ende des Schuljahres ein, bei Abschluss-Schülern den Tag nach der Zeugnisausgabe.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+77
+
+ Mit dem Eintragen des Abschlusses, der zutreffenden Zeugnisart und des Freigabedatums, ggf. in Verbindung mit einem Kandidatenverfahren, haben Sie alles Notwendige für die korrekte Schullaufbahn des Schülers und für die hessische Abgängerund Landesschulstatistik getan.
+
+15
+
+Verändern von historischen Abschlussdaten / Nachprüfung
+Wenn die Abschlussleistungen eines ehemaligen Schülers geändert werden müssen, wird
+der Schüler dafür nicht neu an der Schule aktiviert.
+1. Rufen Sie stattdessen die Webseite UNTERRICHT > LEISTUNGSERFASSUNG > HIST. LEISTUNGSDATEN auf.
+2. Suchen Sie den ehemaligen Schüler über die SCHÜLERSUCHE.
+Es werden die historischen Leistungsdaten des Schülers an dieser Schule angezeigt.
+
+Abb. 78 Webseite Historische Leistungsdaten
+
+3. Verändern Sie, wenn nötig die Noten, die an dieser Schule entstanden sind.
+4. Auch die historischen Abschlussdaten können verändert werden, wenn der Abschluss in
+der LUSD zugewiesen wurde. Klicken Sie dazu auf die Schaltfläche ABSCHLUSS BEARBEITEN. Das Dialogfenster [NAME DES ABSCHLUSS] BEARBEITEN öffnet sich (Abb. 79).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+78
+
+Abb. 79 Dialogfenster Historischen Haupt-/Realschulabschluss bearbeiten
+
+5. Ändern Sie in diesem Dialogfenster die notwendigen Abschlussdaten.
+Hinweis
+Bei der Notenänderung findet keine automatische Neuberechnung von
+Endnoten und Gesamtleistung statt. Diese Berechnungen und ggf. die Änderung der Abschlussart müssen nach Noten-Änderungen selbst durchgeführt
+und eingetragen werden.
+6. Generieren Sie anschließend das Abschlusszeugnis in der Zeugnisgenerierung für das
+ehemalige Abschlusshalbjahr neu. Es kann dann abgerufen und ausgedruckt werden.
+Hinweis
+Ändert sich auch die Abschlussart, muss das Zeugnis vor der Generierung inklusive des richtigen Abschlusses für das Abschlusshalbjahr auch neu zugewiesen werden (Zeugniszuweisung).
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+79
+
+Hinweis
+Muss ein Schüler die Prüfungskampagne wegen Krankheit abbrechen und
+kann die Prüfungen erst im nachfolgenden Halbjahr vollenden, ist ihm bereits
+im eigentlichen Prüfungshalbjahr ein vollständiger Abschluss mit vorläufigen
+Noten sowie Zeugnis- und Abschlusszuweisung einzutragen. Die tatsächlichen Prüfungsleistungen werden dann nachträglich über „Abschluss bearbeiten“ eingetragen. Die Stammdaten eines Ehemaligen lassen sich dagegen
+nur nach einer Neuaufnahme des Schülers als angenommener Kandidat ändern. Die Änderungen und der Neuausdruck des geänderten Zeugnisses
+müssen aber vor einer Aktivierung des Schülers vorgenommen werden, weil
+durch die Aktivierung die Abschlussdaten zerstört werden können, wenn man
+den Schüler erneut aktiviert. Eine trotzdem notwendige Aktivierung des Schülers (etwa, weil er nach einem Hauptschulabschluss nun in den Realschulzweig wechselt) sollte erst nach der Erstellung des neuen Zeugnisses und
+nicht in der vorherigen Schulform erfolgen. Bei einem anderen Vorgehen können die Abschlussdaten unwiderruflich zerstört werden.
+
+HMKB | LUSD | Haupt- und Realschulabschlüsse in der LUSD abbilden | Version: 3.2 | Letzter Stand: 23.09.2025
+
+80
+
+

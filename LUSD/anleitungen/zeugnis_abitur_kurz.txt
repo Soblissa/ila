@@ -1,0 +1,759 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Kurzanleitung Abitur
+Schritte des Abiturablaufs durchführen ohne Hintergrundinformationen
+
+Version: 3.0
+Letzter Stand: 19.06.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+2
+
+Inhalt des Dokuments, Zielgruppe und vorausgesetzte Kenntnisse ............................................... 2
+Voraussetzungen für die Anmeldung zum Abitur............................................................................ 2
+LUSD-Anwenderunterstützung....................................................................................................... 2
+1
+
+2
+
+Einstiegswebseite (Abschlüsse – Abitur)............................................................................... 4
+1.1
+
+Detailbereich ................................................................................................................ 4
+
+1.2
+
+Selektionsbereich ........................................................................................................ 4
+
+1.3
+
+Schülerbereich ............................................................................................................. 4
+
+1.4
+
+Kursübersichtsbereich ................................................................................................. 5
+
+1.5
+
+Abiturschritte................................................................................................................ 5
+
+1.6
+
+Das Abiturzeugnis...................................................................................................... 13
+
+1.7
+
+Abitur und Entlassung der Schüler ............................................................................. 17
+
+1.8
+
+Vollenden der Prüfungen im nachfolgenden Halbjahr ................................................ 17
+
+1.9
+
+Nachträgliche Änderungen ........................................................................................ 20
+
+LUSD-Eventplan Gymnasien / gymnasiale Oberstufen, Berufliche Gymnasien und Schulen
+für Erwachsene ................................................................................................................... 20
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Abitur: Selektionsbereich
+
+4
+
+Abb. 2 Webseite Abitur: Schülerbereich
+
+5
+
+Abb. 3 Webseite Abitur: Selektions-, Schüler und Kursübersichtsbereich und Tool-Tipp
+
+5
+
+Abb. 4 Webseite Abitur: Beispiel aktiver Schaltflächen
+
+6
+
+Abb. 5 Webseite Abitur: Dialogfenster Erstanmeldung
+
+6
+
+Abb. 6 Webseite Abitur: Dialogfenster Prüfungsfächer
+
+7
+
+Abb. 7 Webseite Abitur: Dialogfenster Kontrolle Abiturmeldung
+
+8
+
+Abb. 8 Webseite Abitur: Dialogfenster Zulassung zu den Abiturprüfungen
+
+10
+
+Abb. 9 Webseite Abitur: Dialogfenster Erfassung schriftlicher Ergebnisse
+
+11
+
+Abb. 10 Webseite Abitur: Dialogfenster zusätzliche mündliche Prüfungen
+
+11
+
+Abb. 11 Webseite Abitur: Dialogfenster Abiturabschluss
+
+12
+
+Abb. 12 Webseite Zeugnisformulare: Konfiguration des Zeugnisformulars
+
+13
+
+Abb. 13 Webseite Schüler: Individuelle Zeugnisbemerkungen erfassen
+
+14
+
+Abb. 14 Webseite Schülerstammdaten: Prüfung der Stammdaten
+
+14
+
+Abb. 15 Webseite Qualifikationen: Register Fremdsprachen
+
+15
+
+Abb. 16 Webseite Zeugnis erstellen: Zeugniszuweisung bearbeiten
+
+15
+
+Abb. 17 Webseite Zeugnis erstellen: Register Zeugnis generieren
+
+16
+
+Abb. 18 Webseite Zeugnis erstellen: Zeugnis abrufen
+
+16
+
+Abb. 19 Webseite Stufen/Semester:Stufe Q4 zuordnen
+
+18
+
+Abb. 20 Webseite Statusverwaltung: Informationen zum Übergang
+
+18
+
+Abb. 21 Webseite Klassenbildung: Schüler der Klasse Q4 zuordnen
+
+19
+
+Abb. 22 Webseite Abitur: Auswahl der Halbjahre
+
+19
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+1
+
+Zu diesem Dokument
+Inhalt des Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Diese Kurzanleitung ist für diejenigen Nutzer der LUSD gedacht, die die Schritte des Abiturablaufs
+ohne ausführliche Hintergrundinformationen und spezielle Detailfragen aufgezeigt bekommen
+wollen. Umfassender informieren das LUSD-Handbuch für das Abitur sowie das Handbuch
+Abschlüsse und ihre Erfassung in LUSD. Basiskenntnisse im Umgang mit der LUSD werden
+vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben
+
+Voraussetzungen für die Anmeldung zum Abitur
+Das Regelwerk der LUSD deckt die Regeln der OAVO in der jeweils gültigen Fassung ab.
+Bearbeitet werden können Daten der Schüler, die folgende Schulformen/Stufen besuchen:
+▪ GYM, BGYM, AGYM und KO,
+▪ in den Stufen Q3 und Q4.
+Folgende Daten der Abiturienten müssen korrekt gepflegt sein:
+▪ Stammdaten (SCHÜLER>SCHÜLERBASISDATEN>SCHÜLERSTAMMDATEN),
+▪ das Datum „Eintritt in die GO“ (SCHÜLER>SCHÜLERBASISDATEN>SCHULLAUFBAHN),
+▪ die Fremdsprachenhistorie, der Eintrag „Nachweis 2. Fremdsprache" sowie der Eintrag Latinum
+(SCHÜLER>QUALIFIKATIONEN, Register Fremdsprachen).
+Die Prüfer müssen den Fachgruppen zugeordnet sein.
+Die Kurse und Leistungen der Schüler für die Stufen Q1-Q3 bzw. Q4 müssen vollständig
+vorhanden sein.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+2
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+3
+
+1
+
+Einstiegswebseite (Abschlüsse – Abitur)
+
+1.1
+
+Detailbereich
+Der Detailbereich der Webseite ist inhaltlich in drei Abschnitte unterteilt:
+▪ SELEKTIONSBEREICH
+▪ SCHÜLERBEREICH
+▪ KURSÜBERSICHTSBEREICH
+Hinweis
+Im Initialzustand ist nur der SELEKTIONSBEREICH sichtbar.
+Der SCHÜLERBEREICH öffnet sich erst nach Auswahl der Selektionskriterien und
+Klick auf die Schaltfläche
+
+.
+
+Der KURSÜBERSICHTSBEREICH öffnet sich erst nach Klick auf einen Schüler im
+Schülerbereich.
+
+1.2
+
+Selektionsbereich
+Im SELEKTIONSBEREICH wählen Sie die Kriterien für die Schülerauswahl.
+
+Abb. 1 Webseite Abitur: Selektionsbereich
+
+1.3
+
+Schülerbereich
+Über Aktivierung der Schaltfläche FILTER werden entsprechend der Kriterien im
+Selektionsbereich
+▪ die Namen der Schüler und
+▪ ihr jeweiliger Abiturstatus (farbiges Symbol) angezeigt.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+4
+
+Abb. 2 Webseite Abitur: Schülerbereich
+
+1.4
+
+Kursübersichtsbereich
+Mit Klick auf den Schülernamen öffnet sich der Kursübersichtsbereich des Schülers.
+Fährt man mit dem Mauszeiger über eine Note im Kursübersichtsbereich, werden in der
+Kurzinfo Kursinformationen angezeigt (KURSBEZEICHNUNG, LEHRER, KURSSTUNDEN).
+
+Abb. 3 Webseite Abitur: Selektions-, Schüler und Kursübersichtsbereich und Tool-Tipp
+
+1.5
+
+Abiturschritte
+Ab der Stufe Q3 bzw. Q4 können die Abiturschritte der aufgelisteten Schüler bearbeitet
+werden. Die folgenden Kapitel zeigen Ihnen alle nötigen Bearbeitungsschritte.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+5
+
+1. Um zu starten, klicken Sie zunächst auf den Namen des Schülers und auf eine der
+sieben Schaltflächen, die aktiv sind.
+Welche Abiturschritte bearbeitbar (aktiv) sind, hängt vom Status des jeweiligen Schülers
+ab.
+
+Abb. 4 Webseite Abitur: Beispiel aktiver Schaltflächen
+
+Bedeutung der Status
+Schaltfläche
+
+Abiturschritt
+
+Erstanmeldung
+Prüfungsfächer
+Kontrolle Abiturmeldung
+Zulassung zu den Abiturprüfungen
+Erfassung schriftlicher Ergebnisse
+Zusätzliche mündliche Prüfungen
+Abiturabschluss
+
+1.5.1
+
+Erstanmeldung
+
+Abb. 5 Webseite Abitur: Dialogfenster Erstanmeldung
+
+Das Dialogfenster ERSTANMELDUNG öffnet sind. Es wird die zugrundeliegende Verordnung
+angezeigt. Die Halbjahre sind vorausgewählt und können bei Wiederholern verändert
+werden. Nach Schließen der Seite erhält der Schüler den Status ZUR MELDUNG BERECHTIGT
+.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+6
+
+Achtung
+Durch Wegnehmen und erneutes Setzen eines Hakens bei den Halbjahren wird
+der Status ERSTANMELDUNG erneuert.
+Die bisher eingetragenen Daten für die weiteren Zulassungsschritte werden
+gelöscht.
+Notwendig wird dieser Schritt, wenn ein Schüler z.B. ohne Meldung zum Abitur
+nach der Q3 abgeht, aber schon Prüfungsfächer eingetragen wurden, oder wenn
+die belegten Fächer oder Kursarten des Schülers nachträglich geändert wurden.
+Achtung
+Änderungen in der Fächerbelegung in den historischen Leistungsdaten (neues
+Fach einfügen, Fach löschen) führen automatisch zu einer Zurücksetzung des
+Abiturstatus in den Status ZUR MELDUNG BERECHTIGT.
+
+1.5.2
+
+Prüfungsfächer
+
+Abb. 6 Webseite Abitur: Dialogfenster Prüfungsfächer
+
+Das Dialogfenster PRÜFUNGSFÄCHER öffnet sich.
+Bei den Schulformen…
+▪ GYM und BGYM sind die LK-Prüfungsfächer und deren Prüfer vorbelegt.
+▪ AGYM und KO müssen diese aus dem GK-Bereich ausgewählt und als LK deklariert
+werden.
+Die vorgeschlagenen Prüfer können anhand der Auswahlliste geändert werden.
+Die weiteren Prüfungsfächer und Prüfer werden entsprechend des Schülerwunsches auf
+Grundlage der Verordnung ausgewählt. Findet sich der Prüfer nicht im vorgesehenen
+Katalog, muss die Fachgruppenzugehörigkeit der Lehrkraft nachgepflegt werden.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+7
+
+Über die Schaltfläche PRÜFEN wird die Prüfung der Prüfungsfächerwahl angestoßen. Nur
+eine fehlerfreie Prüfungsfachauswahl kann gespeichert werden.
+Nach Schließen der Seite erhält der Schüler den Status PRÜFUNGSFÄCHER ERFASST
+
+1.5.3
+
+.
+
+Kontrolle Abiturmeldung
+
+Abb. 7 Webseite Abitur: Dialogfenster Kontrolle Abiturmeldung
+
+Meldung – Kurswahl
+Zu Beginn des Halbjahres/Semesters Q4 wird die Auswahl der einzubringenden Kurse und
+die Prüfung der Zulassung zum Abitur anhand der vorherigen Kursauswahl durchgeführt.
+Da zu diesem Zeitpunkt noch keine Noten für die Q4 vorliegen, werden die Leistungen der
+Q4 mit 15 Punkten angesetzt (bestmöglicher Verlauf).
+Beim ersten Klick auf das Register KURSWAHL wird automatisch die Kursauswahl optimiert.
+Diese Wahl wird direkt anschließend geprüft. Die Schüler werden als Ergebnis der Prüfung
+zugelassen oder nicht zugelassen.
+Wenn bei der Prüfung Fehler in der Auswahl gefunden werden, weist die Kursauswahl auf
+diese hin. Es wird jedoch nicht geprüft, ob insgesamt die bestmögliche Auswahl getroffen
+wurde.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+8
+
+Hinweis
+Gelb markierte Hinweise zeigen mögliche Fehler. Diese können nach Prüfung
+des Sachverhaltes jedoch übergangen werden.
+
+Durch Entfernen oder Setzen von Häkchen kann im rechten Bereich die automatische
+Kursauswahl geändert und durch die Schaltfläche PRÜFEN auf Regelkonformität geprüft
+werden. Durch Klicken auf die Schaltfläche OPTIMIEREN wird der Ursprungszustand wieder
+hergestellt.
+Bei erneutem Aufrufen der Seite erfolgt keine automatische Optimierung, so dass bereits
+vorgenommene Änderungen nicht überschrieben werden.
+Mit Klick auf die Schaltfläche ALLE ZULASSEN werden für alle ausgewählten Schüler, bei
+denen die entsprechenden Voraussetzungen vorliegen, die Optimierung, die Prüfung und
+die Meldung durchgeführt.
+Durch Klick auf die Schaltfläche SPEICHERN erfolgt bei korrekter Zuordnung die Meldung.
+Das Ergebnis wird auf dem Register ZULASSUNG angezeigt. Der Schüler erhält den Status
+KONTROLLE ABITURMELDUNG
+
+.
+
+Finden die Prüfungen FEHLENDE VORAUSSETZUNGEN (rotmarkierte Warnmeldung),
+▪ erfolgt keine Meldung, sondern eine Nichtzulassung und
+▪ die Gründe für die Nichtzulassung werden auf dem Register KURSAUSWAHL angezeigt.
+Neben rotmarkierten Warnmeldungen gibt es auch gelbmarkierte Hinweismeldungen. Diese
+verhindern die Zulassung nicht, weisen aber ggf. auf Regelverletzungen hin, die sie als
+Anwender prüfen müssen.
+Wurden angezeigte Warnmeldungen nicht behoben, erhält der Schüler bei Klick auf die
+Schaltfläche SPEICHERN den Status KEINE ZULASSUNG ZUM ABITUR . Das
+Nichtzulassungsergebnis wird ebenfalls auf dem Register ZULASSUNG angezeigt.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+9
+
+1.5.4
+
+Zulassung zu den Abiturprüfungen
+
+Abb. 8 Webseite Abitur: Dialogfenster Zulassung zu den Abiturprüfungen
+
+Das Dialogfenster ZULASSUNG ZU DEN ABITURPRÜFUNGEN öffnet sich.
+Diese Zulassungsphase ist erreicht, wenn alle Noten des Semesters Q4 vorliegen.
+Bei Erstaufruf der Seite erfolgt eine neue automatische Optimierung der Kursauswahl
+anhand der nun komplett vorliegenden Noten von Q1-Q4.
+Die Schaltflächen PRÜFEN und OPTIMIEREN stoßen die gleichen Prozesse an wie in Kapitel
+1.5.3
+
+Kontrolle Abiturmeldung beschrieben.
+
+Über die Schaltfläche ALLE ZULASSEN werden alle Schüler der vorher getroffenen Auswahl
+sofort optimiert und geprüft. Nach dem Speichern stehen die Ergebnisse wiederum auf dem
+Register ZULASSUNG. Nach dem Schließen der Seite haben die Schüler den Abiturstatus
+▪ ZUGELASSEN ZU DEN PRÜFUNGEN
+
+oder
+
+▪ bei unzureichenden Leistungen KEINE ZULASSUNG ZU DEN PRÜFUNGEN
+
+.
+
+Schüler, die einen dieser beiden Statuswerte schon haben, werden bei Aufruf der Seite und
+bei Betätigen der Schaltfläche ALLE ZULASSEN nicht neu optimiert.
+Auch hier gilt, dass die Kursauswahl überprüft und ggf. korrigiert werden muss.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+10
+
+1.5.5
+
+Erfassung schriftlicher Ergebnisse
+
+Abb. 9 Webseite Abitur: Dialogfenster Erfassung schriftlicher Ergebnisse
+
+Das Dialogfenster ERFASSUNG SCHRIFTLICHER ERGEBNISSE öffnet sich.
+Die Ergebnisse der schriftlichen Prüfungen werden einzeln oder vollständig für den Schüler
+eingetragen.
+Bei Sport als Leistungsfach wird eine Note eingetragen, die zuvor gemäß Verordnung aus
+den praktischen und theoretischen Anteilen zu berechnen ist.
+Erst nach Eintragung aller Ergebnisse wird bei Speichern der Daten eine Prüfung
+durchgeführt. Das Ergebnis der Prüfung ist ggf. eine Liste von Empfehlungen für die
+mündlichen Prüfungen.
+Nach Schließen der Seite haben die Schüler den Status SCHR. ERGEBNISSE ERFASST
+1.5.6
+
+.
+
+Zusätzliche mündliche Prüfungen
+
+Abb. 10 Webseite Abitur: Dialogfenster zusätzliche mündliche Prüfungen
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+11
+
+Hier können bei Bedarf für jedes der drei schriftlichen Prüfungsfächer zusätzlich angesetzte
+mündliche Prüfungen und für ein mündliches Prüfungsfach mit Prüfungsnote 00 Punkte
+eine Nachprüfung eingetragen werden.
+Nach dem Schließen der Seite erhält der Schüler den Status ZUSATZPRÜFUNG ANGESETZT
+.
+1.5.7
+
+Abiturabschluss
+
+Abb. 11 Webseite Abitur: Dialogfenster Abiturabschluss
+
+Das Dialogfenster ABITURABSCHLUSS öffnet sich. Hier werden die Noten aller mündlicher
+Prüfungen einzeln oder vollständig erfasst.
+Dazu gehören auch die Noten
+▪
+▪
+▪
+▪
+
+der Präsentationsprüfung,
+der Besonderen Lernleistung,
+der zusätzlichen mündlichen Prüfungen sowie
+einer eventuellen Nachprüfung.
+
+Bei Sport als Prüfungsfach wird unter Berücksichtigung der Sperrklausel eine Note
+eingetragen, die zuvor gemäß Verordnung aus den praktischen und theoretischen Anteilen
+zu berechnen ist.
+Nach Schließen der Seite erhält der Schüler den Status
+▪ ABITURABSCHLUSS BESTANDEN
+
+oder
+
+▪ ABITURABSCHLUSS NICHT BESTANDEN
+
+.
+
+Hinweis
+Werden nach dem Abiturabschluss Kursnoten geändert, müssen
+mindestens die Schritte
+1.5.4
+
+Zulassung zu den Abiturprüfungen und
+
+1.5.7
+
+Abiturabschluss
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+12
+
+neu durchlaufen werden, um die Berechnung der Gesamtqualifikation neu
+vorzunehmen.
+
+1.6
+
+Das Abiturzeugnis
+Zur Erstellung des Abiturzeugnisses müssen folgende Arbeitsschritte ausgeführt werden:
+1. Öffnen Sie die Seite UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISFORMULARE.
+2. Legen Sie hier den Zeugniskopf und die Unterschreibenden des Zeugnisses fest.
+
+Abb. 12 Webseite Zeugnisformulare: Konfiguration des Zeugnisformulars
+
+3. Öffnen Sie die Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER.
+4. Tragen Sie hier die individuellen Zeugnisbemerkungen der Schüler ein.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+13
+
+Abb. 13 Webseite Schüler: Individuelle Zeugnisbemerkungen erfassen
+
+Hinweis
+Ordnen Sie die Bemerkungen erst nach dem Ausdruck der Q4-Zeugnisse zu!
+
+5. Öffnen Sie die Seite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+6. Prüfen Sie vor der Zeugnisgenerierung die Stammdaten der Schüler inklusive
+▪ der Konfession bzw.
+▪ der Konfession (Abitur),
+da diese in das Zeugnis aufgenommen werden.
+
+Abb. 14 Webseite Schülerstammdaten: Prüfung der Stammdaten
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+14
+
+7. Öffnen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN, Register
+FREMDSPRACHEN.
+8. Prüfen Sie die Fremdsprachenhistorie der Schüler für
+▪ Pflicht- und AG-Fremdsprachen und
+▪ den Latinumseintrag,
+da beides ins Zeugnis aufgenommen wird.
+
+Abb. 15 Webseite Qualifikationen: Register Fremdsprachen
+
+9. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN, Register
+ZEUGNIS ZUWEISEN.
+10. Weisen Sie den Schülern der Stufe Q4 das Zeugnis Abschluss A3 zu und legen die
+Zeugnisdaten fest.
+
+Abb. 16 Webseite Zeugnis erstellen: Zeugniszuweisung bearbeiten
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+15
+
+Hinweis
+Nur das Datum für die mündliche Prüfung wird im Zeugnis ausgedruckt.
+Haben die Schüler in der LUSD das Abitur erfolgreich durchlaufen, wird ihnen
+der Abschluss mit dem Tagesdatum automatisch zugewiesen und braucht in
+der Zeugniszuweisung nicht mehr zugeordnet zu werden.
+In der ZEUGNISZUWEISUNG wird außerdem auch geregelt, ob im Abiturzeugnis
+die Konfession des Schülers eingedruckt werden soll.
+
+11. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN, Register
+ZEUGNIS GENERIEREN.
+12. Legen Sie die Form der Unterschrift und die Art des Zeugnisdrucks fest und generieren
+Sie die Zeugnisse durch einen Klick auf die Schaltfläche GENERIEREN.
+
+Abb. 17 Webseite Zeugnis erstellen: Register Zeugnis generieren
+
+13. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN, Register
+ZEUGNIS ABRUFEN.
+14. Rufen Sie die generierten Zeugnisse als PDF für den Druck und die Speicherung ab.
+
+Abb. 18 Webseite Zeugnis erstellen: Zeugnis abrufen
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+16
+
+1.7
+
+Abitur und Entlassung der Schüler
+Der Abschluss ABITUR wird automatisch eingetragen.
+Nicht erfolgreiche Abiturienten
+Bei nicht erfolgreichen Abiturienten ist die Vergabe des schulischen Teils der
+Fachhochschulreife zu prüfen.
+Abiturienten, die das Abitur nicht bestanden haben, erhalten ein Abgangszeugnis, ggf.
+mit dem Eintrag des schulischen Teils der Fachhochschulreife.
+Dieses Zeugnis und die zugehörige Bescheinigung können mit der LUSD erstellt werden.
+Freigabedatum
+Für die abgehenden Abiturienten muss auf der Seite
+▪ SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER (individuell) oder
+▪ SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+ein Freigabedatum eingetragen werden. Mit dem Erreichen des Freigabedatums werden
+die Schüler EHEMALIG.
+Das Freigabedatum sollte der Tag nach der Ausgabe der Zeugnisse sein, damit wird der
+Zeugnisausgabetag zum letzten Tag der aktiven Schullaufbahn.
+Es ist zu empfehlen, den Freigabetermin erst nachträglich einzutragen, damit die Schüler
+nicht schon ehemalig sind, wenn noch Zeugniskorrekturen erforderlich werden.
+Der Freigabetermin muss spätestens vor dem Statistik-Datenabzug eingetragen werden.
+Wenn sich die Gelegenheit ergibt, sind Schulen, die die Schüler anschließend aufnehmen
+wollen, darauf hinzuweisen, dass die Aktivschaltung erst nach Beginn des neuen
+Schuljahres erfolgen darf, um die Löschung der Abitur- und Q4-Daten zu verhindern.
+
+1.8
+
+Vollenden der Prüfungen im nachfolgenden Halbjahr
+Sollte ein Schüler den Prüfungsverlauf wegen Krankheit oder Gründen, die er nicht zu
+verantworten hat, unterbrechen und kann die Prüfungen erst im nachfolgenden Halbjahr
+vollenden, muss er mit unverändertem Abiturstatus als aktiver Schüler in das Folgehalbjahr
+übernommen werden.
+Diesen Sachverhalt bilden Sie in der LUSD wie folgt ab:
+Schritte im Folgehalbjahr:
+1. Ordnen Sie auf der Seite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER, die Stufe Q4
+dem ersten Halbjahr zu.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+17
+
+Abb. 19 Webseite Stufen/Semester:Stufe Q4 zuordnen
+
+2. Ändern Sie in der STATUSVERWALTUNG den Status des Schülers auf der Seite SCHÜLER >
+KANDIDATENVERFAHREN > STATUSVERWALTUNG, Register INTERNER
+SCHULFORMÜBERGANG.
+3. Suchen und übernehmen Sie den Namen / Datensatz des Schülers, markieren Sie ihn
+und klicken Sie auf die Schaltfläche BEARBEITEN.
+4. Aktivieren Sie im sich öffnenden Fenster INFORMATIONEN ZUM ÜBERGANG das Kästchen
+AKTUELLES HALBJAHR, so dass als Halbjahr ausgegraut das aktuelle Halbjahr angezeigt
+wird.
+
+Abb. 20 Webseite Statusverwaltung: Informationen zum Übergang
+
+5. Wählen Sie die Wunschschulform (z.B. GYM) sowie die Stufe Q4 aus.
+6. Klicken Sie auf die Schaltfläche ÜBERNEHMEN. Das Fenster schließt sich.
+7. Richten Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG eine Q4Klasse ein.
+8. Ordnen Sie den Schüler dieser Klasse zu.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+18
+
+Abb. 21 Webseite Klassenbildung: Schüler der Klasse Q4 zuordnen
+
+Um die Q4 Leistungen in das aktuelle Halbjahr zu übertragen, erstellen Sie zunächst von
+der Abiturseite des Schülers ein Bildschirmfoto
+1. Öffnen Sie dazu die Webseite UNTERRICHT > ABSCHLÜSSE > ABITUR.
+2. Filtern Sie nach Halbjahr Q4. Klicken Sie auf den Schülernamen und erstellen das
+Bildschirmfoto mit dem Programm Ihrer Wahl.
+3. Weisen Sie dem Schüler auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG Leistungs- und Grundkurse aus der Q3 zu, die seinem Q4-Halbjahr
+entsprachen. (Sollte es einen Leistungskurs in der Q3 nicht geben, ordnen Sie ihm einen
+Grundkurs des Faches zu und ändern Sie die Kurseigenschaften des Schülers auf
+LEISTUNGSKURS und 5-STÜNDIG).
+4. Tragen Sie auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER die Q4Leistungen ein, die Sie auf dem Bildschirmfoto gesichert haben.
+5. Beginnen Sie den Durchgang der Abiturroutine auf der Webseite UNTERRICHT >
+ABSCHLÜSSE > ABITUR. Wählen Sie das Halbjahr Q4 aus. Klicken Sie den Schülernamen
+an. Prüfen Sie unter ERSTANMELDUNG, ob das Kästchen vor dem aktuellen Halbjahr
+aktiviert ist.
+
+Abb. 22 Webseite Abitur: Auswahl der Halbjahre
+
+6. Setzen Sie auf der Seite UNTERRICHT > ABSCHLÜSSE > ABITUR, die üblichen
+Abiturroutinen fort und schließen diese ab.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+19
+
+Hinweis
+Nachdem Sie den Schüler ehemalig gesetzt haben, löschen Sie die zuvor
+angelegte Q4-Klasse. Entfernen Sie unter STUFEN/SEMESTER den Haken Q4, 1.
+HALBJAHR (vgl. Abb. 19)
+
+1.9
+
+Nachträgliche Änderungen
+
+1.9.1 Änderung der Prüfungsleistungen ehemaliger Abiturienten
+Sind Abiturienten bereits ehemalig geworden, ändern Sie Prüfungsleistungen im
+Abiturzeugnis auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > HISTOR.
+LEISTUNGSDATEN (über die Schaltfläche ABSCHLUSS BEARBEITEN).
+Die Schüler sollten hierzu nicht neu aufgenommen werden.
+Generieren Sie das Zeugnis anschließend neu.
+1.9.2 Änderung der Stammdaten eines Ehemaligen
+Wie mit nachträglichen Änderungen auf dem Abiturzeugnis bezüglich Namen oder
+Geschlecht eines Abiturienten zu verfahren ist, ist über folgende Links einsehbar:
+▪ über Schul-ID.
+▪ über Hessennetz.
+
+2
+
+LUSD-Eventplan Gymnasien / gymnasiale Oberstufen, Berufliche
+Gymnasien und Schulen für Erwachsene
+Auf der Webseite der Digitalen Schule Hessen finden Sie die Links zu den LUSDEventplänen des jeweiligen Schuljahres
+unter den Überschriften
+▪ Gymnasien / gymnasiale Oberstufen,
+▪ Berufliche Gymnasien oder
+▪ Schulen für Erwachsene.
+
+HMKB | LUSD | Kurzanleitung Abitur | Version: 3.0 | Letzter Stand: 19.06.2025
+
+20
+
+

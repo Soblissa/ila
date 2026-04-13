@@ -1,0 +1,241 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassen sonderpädagogischer Förderungen –
+Schule für Kranke
+Schüler, die von einer Schule für Kranke gefördert werden
+
+Zu diesem Dokument
+Diese Kurzanleitung beschreibt:
+▪ Die Erfassung einer sonderpädagogischen Förderung durch eine Schule für Kranke an einer
+allgemeinbildenden oder beruflichen Schule (Stammschule).
+▪ Die Erfassung von Schülern an einer Schule für Kranke (SchfKr), die ausnahmsweise als
+Stammschüler der SchfKr geführt werden. Dies können Schüler aus anderen Bundesländern
+sein, die keine Stammschule in Hessen haben oder S Schüler an einer SchfKr, denen es vom
+Schulträger im Rahmen des Schulentwicklungsplanes gestattet ist, Schüler als eigene
+Stammschüler aufzunehmen.
+
+1
+
+Erfassung einer Beschulung durch die Schule für Kranke als sonderpädagogische Förderung an der Stammschule
+
+1.1
+
+Erfassen einer sonderpädagogischen Förderung in den Halbjahres- und
+Semesterdaten
+Ein Schüler wird durch eine SchfKr an Ihrer Schule sonderpädagogisch gefördert oder an
+einer SchfKr beschult.
+1. Prüfen Sie zunächst auf der Webseite SCHULE > SCHULUMFELD > SCHULEN, ob die
+fördernde SchfKr in der Tabelle Ihres Schulumfeldes enthalten ist. Falls dies nicht der
+Fall ist, fügen Sie die benötigte Schule über
+Ihrem Schulumfeld zu. Erst
+danach können Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.DATEN die Schule im Dialogfenster FÖRDERUNG HINZUFÜGEN/BEARBEITEN auswählen.
+2. Rufen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN auf.
+Suchen und übernehmen Sie die entsprechenden Schüler und klicken auf die
+Schaltfläche
+.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+1
+
+Abb. 1 Webseite Halbj./Sem.-Daten: Förderung hinzufügen/bearbeiten
+
+3. Fügen Sie gegebenenfalls das Förderangebot des überregionalen Beratungs- und
+Förderzentrum (üBFZ KRA) der Schule für Kranke als vorbeugende Maßnahme für den
+Schüler hinzu wie in der untenstehenden Tabelle angegeben. Findet nur eine Beratung
+durch das üBFZ KRA statt und wird der individuelle Förderplan nicht mit deren
+Leistungen erweitert, so ist keine Eintragung vorzusehen:
+
+Feld
+
+Eingabe
+
+*Pflichtfeld
+
+Von*
+
+Beginn der Förderung durch die SchfKr
+
+Bis*
+
+Voraussichtliches Ende der Fördermaßnahme durch die SchfKr,
+ggf. zunächst das Enddatum des Schuljahres
+
+Förderungsart*
+
+▪ VM-KRAüBFZ: Unterstützung durch ein überregionales
+Beratungs- und Förderzentrum
+▪ KRA-SchfKr: Beschulung an der Schule für Kranke während des
+Aufenthaltes an einer Klinik
+Welche der beiden Förderungsarten auszuwählen ist, stimmen
+Sie bitte mit der fördernden SchfKr ab!
+
+FöPlan
+Fördernde
+Schule
+
+Schule für Kranke
+
+Schule mit
+SD-R
+
+Ihre Schule (dieses Feld ist nicht bearbeitbar!)
+
+4. Übernehmen und speichern Sie den Eintrag.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+2
+
+Hinweis
+Auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN finden Sie
+in der LUSD-Hilfe im Kapitel HALBJAHRESDATEN UND FÖRDERUNGEN von Schülern
+pflegen detailliertere Hinweise.
+
+Zudem finden Sie hier die Anleitung Erfassen sonderpädagogischer Förderungen
+in der LUSD - (IB/VM).
+
+1.2
+
+Ansicht der Schülerdaten an der Schule für Kranke
+Mit dem Bericht SONDERPÄDAGOGISCHE FÖRDERUNG können sich die SchfKr einen Bericht
+über die an den Stammschulen der Schüler erfassten Daten ausgeben lassen.
+Auf der Seite EXTRAS > BERICHTE > SCHÜLER > ALLG. LISTEN steht der Bericht
+SONDERPÄDAGOGISCHE FÖRDERUNG in der Reportvariante FÖRDERNDE SCHULE zur
+Verfügung.
+Mit ihm lassen sich die an der Stammschule erfassten Schülerdaten anzeigen und als .pdfoder als .csv-Datei ausgeben.
+
+Abb. 2 Webseite Berichte: Bericht Sonderpädagogische Förderung
+
+Der Bericht wird in zwei Reportvarianten angeboten
+▪ Reportvariante Stammschule: In der Version STAMMSCHULE sieht die Stammschule
+zunächst einmal, welche Schüler bei ihr im Rahmen von Vorbeugenden Maßnahmen
+(VM) oder Inklusiver Beschulung (IB) gefördert werden und welche Schule diese
+Schüler fördert. Hier werden auch die Förderungsarten VM-KRAüBFZ und KRA-SchfKr
+angezeigt.
+▪ Reportvariante Fördernde Schule: In der Version FÖRDERNDE SCHULE sieht die
+Förderschule (BFZ bzw. SchfKr) alle Schüler, für die an der jeweiligen Stammschule
+eine sonderpädagogische Förderung mit ihr als fördernde Schule eingetragen wurde.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+3
+
+Eine SchfKr sieht hier die von ihr betreuten Maßnahmen in den Förderungsarten VMKRAüBFZ und KRA-SchfKr.
+Hinweis
+Auf der Webseite EXTRAS > BERICHTE finden Sie in der LUSD-Hilfe im Kapitel
+LUSD-BERICHTE ERSTELLEN UND AUSGEBEN Informationen, wie Sie sich die
+Berichte ausgeben lassen können.
+
+2
+
+Datenerfassung an der Schule für Kranke; ausnahmsweise Aufnahme
+an der SchfKr als Stammschüler
+Grundsätzlich besteht auch für die SchfKr die Möglichkeit, die LUSD als vollwertiges
+Schulverwaltungsprogramm mit einer umfassenden Unterrichtsverteilung zu nutzen.
+Hier werden lediglich die Minimalanforderungen beschrieben. Dieser Abschnitt beschreibt
+die Erfassung von Schülern an einer SchfKr, die als Stammschüler der SchfKr geführt
+werden.
+Dies können Schüler aus anderen Bundesländern sein, die keine Stammschule in Hessen
+haben oder Schüler an einer SchfKr, denen es vom Schulträger im Rahmen des
+Schulentwicklungsplanes gestattet ist, Schüler als eigene Stammschüler aufzunehmen.
+Weitergehende Informationen finden Sie hierzu auch in der Anleitung Landesschulstatistik Datenpflege in der LUSD.
+
+2.1
+
+Förderschwerpunkt kranke Schülerinnen und Schüler
+Kürzel
+
+Schulform/Bildungskombination
+
+Stufen
+
+FS/KRA/-
+
+FS – kranke Schüler
+
+01/1-14/2, E1, E2, Q1-4
+
+FS/KRAV
+
+FS – kranke Schüler Vorklasse
+
+00/1-00/2
+
+§ 7 (6) VOSB1
+Im Förderschwerpunkt kranke Schülerinnen und Schüler (§ 50 Abs. 3 Nr. 6 des Hessischen
+Schulgesetztes, HSchG) werden Schüler mit Zustimmung der behandelnden Ärzte
+gefördert, die in eine Klinik oder eine ähnliche Einrichtung stationär oder teilstationär aufgenommen werden und daher am Besuch ihrer allgemeinen Schule gehindert sind.
+
+1 Verordnung über Unterricht, Erziehung und sonderpädagogische Förderung von Schülerinnen und Schülern mit
+
+Beeinträchtigungen oder Behinderungen (VOSB)
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+4
+
+In der Schulform FS/KRA/--- werden Schüler in der Schülerstufe geführt, die der Stufe des
+jeweiligen Bildungsgangs an ihrer Stammschule entspricht.
+In der Schulform FS/KRA/--- werden die Schüler unabhängig ihres Bildungsgangs in die
+Schülerstufe 01/1 eingetragen. Die Schulform FS/KRA/-- bietet grundsätzlich die
+Möglichkeit, Schüler bis zur Stufe 10/2 zu führen, um ggf. Schulzeitverlängerungen nach §
+59 (3) HSchG abzubilden bzw. bis zur Stufe 14/2 Schüler mit bereits bestehendem
+Anspruch auf sonderpädagogische Förderung nach § 61 (2) HSchG zu erfassen.
+Schüler der gymnasialen Oberstufe in den Stufen E1 bis Q4 werden in der LUSD von der
+Stammschule geführt. Für Schüler, die auf Grund langer Erkrankung den gewünschten
+Abschluss nicht erreichen konnten, besteht die Möglichkeit, die Zulassung zu einer
+externen Prüfung zu einem späteren Zeitpunkt zu beantragen.
+Werden Schüler in die Vorklasse der Schule für Kranke aufgenommen, werden sie der
+Schulform FS/KRA/V zugeordnet.
+Links zu den Rechtsvorschriften:
+Verordnung über Unterricht, Erziehung und sonderpädagogische Förderung von
+Schülerinnen und Schülern mit Beeinträchtigungen oder Behinderungen (VOSB) vom 15.
+Mai 2012 (ABl. S. 230)
+Richtlinien für Unterricht und Erziehung kranker Schülerinnen und Schüler vom 08. Oktober
+2021
+
+2.2
+
+Datenpflege in der LUSD
+
+Hinweis
+Schüler werden an einer Schule für Kranke in die Schulform FS/KRA/-- bzw.
+FS/KRA/V aufgenommen.
+Auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN finden Sie in der
+LUSD-Hilfe im Kapitel SCHULFORMEN DER SCHULE EINRICHTEN Informationen, wie
+die entsprechende Schulform zugeordnet werden kann.
+
+Eine Übersicht aller in der LUSD zu erfassenden Daten können Sie der LUSD-Anleitung
+Landesschulstatistik - Datenpflege in der LUSD entnehmen.
+Für Sie, als SchfKr, sind dabei ins besonders folgende Kapitel zu beachten:
+Schülerdaten pflegen
+▪ Neue Schüler aufnehmen
+▪ Offene Kandidatenverhältnisse beenden
+▪ Kandidaten aktivieren
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+5
+
+▪ Freigabedatum bei Abgängern eintragen
+▪ Stufenwechsel eintragen
+Unterrichtsdaten pflegen
+▪ Schulform- und stufenübergreifende Klassen anlegen. Legen Sie pro Klasse maximal 35
+Schüler an. Bei Bedarf können Sie mehrere Klassen anlegen.
+▪ Schüler einer Klasse zuordnen
+Von Ihrer Schule geförderte oder beschulte Schüler erhalten von ihrer Stammschule ein
+Zeugnis oder einen Abschluss. Stellen Sie bitte durch Ihren Schulbericht sicher, dass die
+Eintragungen entsprechend Ziffer 7 der Richtlinien für Unterricht und Erziehung kranker
+Schüler übernommen werden können. Gilt der Ausnahmefall, dass die Schule für Kranke
+Stammschule ist, so erfasst diese die Leistungen wie in der LUSD-Anleitung Abschlüsse
+und ihre Erfassung beschrieben.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen – Schule für Kranke | Version: 1.2 | 04.04.2025
+
+6
+
+
