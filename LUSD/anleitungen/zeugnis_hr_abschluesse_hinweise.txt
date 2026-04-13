@@ -1,0 +1,844 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Hinweise zur Erfassung der H/RAbschlüsse
+
+Version: 3.3
+Letzter Stand: 18.09.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Allgemeine Informationen zu Haupt- und Realschulabschlüssen
+1
+
+2
+
+6
+
+Hauptschulabschluss HA und HQ in der LUSD erfassen ...................................................... 6
+1.1
+
+Voraussichtlichen Abschluss in der LUSD eintragen .................................................... 6
+
+1.2
+
+Prüfungsfächer und Projektprüfung erfassen ............................................................... 8
+
+1.3
+
+Leistungen der Zentralen Abschlussarbeiten (ZAA) erfassen....................................... 9
+
+1.4
+
+Schülern einen Abschluss zuweisen .......................................................................... 12
+
+1.5
+
+Abschlusszeugnisse erstellen und drucken................................................................ 12
+
+Mittleren Abschluss MA und MAQ in der LUSD erfassen .................................................... 13
+2.1
+
+Voraussichtlichen Abschluss in der LUSD eintragen .................................................. 13
+
+2.2
+
+Prüfungsfächer und Prüfungsart erfassen .................................................................. 14
+
+2.3
+
+Leistungen der Zentralen Abschlussarbeiten (ZAA) erfassen..................................... 17
+
+2.4
+
+Abschluss prüfen und Gesamtleistung berechnen ..................................................... 17
+
+2.5
+
+Schülern einen Abschluss zuweisen .......................................................................... 20
+
+2.6
+
+Abschlusszeugnisse erstellen und drucken................................................................ 20
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Qualifikationen: Eignung und voraussichtlichen Abschluss bearbeiten
+
+8
+
+Abb. 2 Dialogfenster Abschluss Hauptschule - Beispieleintrag
+
+9
+
+Abb. 3 Webseite Hauptschule: Beispiel Kennzeichnung mit farbigen Symbolen
+
+11
+
+Abb. 4 Webseite Qualifikationen: Reiter Eignung / Abschlüsse / Berufe
+
+14
+
+Abb. 5 Dialogfenster Abschluss Realschule: Beispiel
+
+16
+
+Abb. 6 Webseite Realschule: Beispiel
+
+19
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument
+▪ gibt ergänzende Hinweise dazu, wie Abschlüsse für Haupt- und Realschülerinnen und
+-schüler in der LUSD abgebildet werden.
+▪ beschreibt dazu auch vorbereitende Schritte, die für die Abbildung von HA und HQ sowie MA
+und MAQ notwendig sind.
+▪ erklärt auch, wie Abschlusszeugnisse erstellt und gedrückt werden können.
+▪ Bitte beachten Sie für das Abbilden von Abschlüssen in der LUSD auch die im Kapitel
+Vorausgesetzte Kenntnisse genannten Anleitungen.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an alle Anwenderinnen und Anwender, die Abschlüsse in der LUSD
+abbilden.
+Um die hier beschriebenen Inhalte zu verstehen, sind einige Kenntnisse im Umgang mit der LUSD
+notwendige. Im Folgenden finden Sie eine Übersicht über diese Kenntnisse sowie die
+dazugehörigen Anleitungen und Schulungen.
+Kenntnisse
+
+Anleitung
+
+Schulungen
+
+Basiswissen LUSD
+
+Grundlagen
+
+LUSD – Lernen Sie die LUSD
+kennen (Basisschulungen)
+
+Erfassen von
+Abschlüssen in der
+LUSD
+
+Haupt- und Realschule - Abschlüsse Leistungserfassung vorbereiten
+Von der Leistungserfassung bis zum Leistungserfassung mit dem ENC
+Zeugnis
+vorbereiten und organisieren
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+4
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+5
+
+Allgemeine Informationen zu Haupt- und Realschulabschlüssen
+Gemäß Absatz 4 des § 41 VOBGM können an schulformbezogenen (kooperativen)
+Gesamtschulen Schülerinnen und Schüler, die den Bildungsgang der Realschule oder den
+gymnasialen Bildungsgang besuchen, am Ende der Jahrgangsstufe 9 an der
+Hauptschulabschlussprüfung teilnehmen. Darüber hinaus können Schülerinnen und Schüler, die
+den 6-jährig organisierten Gymnasialzweig besuchen, am Ende der Jahrgangsstufe 10 an der
+Realschulabschlussprüfung teilnehmen.
+Gemäß Absatz 5 des § 41 VOBGM können an verbundenen Haupt- und Realschulen und an
+Mittelstufenschulen die Realschüler am Ende der Jahrgangsstufe 9 an der
+Hauptschulabschlussprüfung teilnehmen.
+In der LUSD werden diese Abschlüsse verordnungskonform abgebildet.
+Eignung und voraussichtlicher Abschluss können auch auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > QUALIFIKATIONEN > Register EIGNUNG/ABSCHLÜSSE/BERUFE bearbeitet
+werden.
+
+1
+
+Hauptschulabschluss HA und HQ in der LUSD erfassen
+
+Nach § 48 (1) VOBGM nehmen alle Schüler für den qualifizierenden Hauptschulabschluss auch
+an den schriftlichen Prüfungen in Englisch teil. Erst anhand der Prüfungsergebnisse wird
+berechnet, ob die Englisch-Prüfungsnote im Gesamtergebnis mitberechnet wird. Beachten Sie
+bitte die folgenden Hinweise zur Erfassung des HA und HQ.
+
+1.1
+
+Voraussichtlichen Abschluss in der LUSD eintragen
+Der voraussichtliche Abschluss muss zugeordnet sein, damit die Webseite UNTERRICHT >
+ABSCHLÜSSE > HAUPTSCHULABSCHLUSS bearbeitbar ist und die Schüler auf Webseite
+erscheinen.
+Er wird vom System für die jeweiligen Schulformen folgendermaßen vorbelegt:
+Bildungsgang / Schulform
+
+Voraussichtlicher Abschluss
+
+Hauptschule Stufe 9 / Schulform H
+
+HQ (qualifizierender Hauptschulabschluss)
+
+Hauptschule Stufe H1/H2/Abendhauptschule HQ-AH.
+Hauptschule / Schulform IGS und
+Förderschulen
+
+Keine Vorbelegung
+
+MSPB Stufe 9 / Schulform Mittelstufenschule HQ
+Hauptschüler in PUSA
+
+HQ
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+6
+
+1. Tragen Sie auf der Webseite LEISTUNGSERFASSUNG > SCHÜLER oder über den ENC für
+die gewünschten Schüler den voraussichtlichen Abschluss ein, wenn dieser fehlt oder
+geändert werden soll.
+Bildungsgang / Schulform
+
+Voraussichtlicher Abschluss
+
+Hauptschule Stufe 9 / Schulform H und
+IGS mit abschlussbezogenen Klassen
+(keine Kursdifferenzierung), ggf. auch FS
+
+HQ (qualifizierender Hauptschulabschluss)
+
+Hauptschule / Schulform IGS ohne
+abschlussbezogene Klassen (mit
+Kursdifferenzierung).
+
+HQ-IGS.
+
+Hauptschüler, die nicht an der ZAAPrüfung in Englisch teilnehmen
+
+HA (damit gibt es in der LUSD trotz der
+fehlenden Englisch-Prüfungsnote keine
+Fehlermeldung) bzw. HA-IGS (IGS mit
+Kursdifferenzierung)
+
+Mittelstufenschule / MSPB
+
+HQ
+
+Für Schüler der H 10 wird seit 2011 für den Übergang in die Stufe 10 der HQ
+bereits vorausgesetzt, deshalb kann für diese Schüler nur der voraussichtliche
+Abschluss MA-H10 ausgewählt werden.
+
+▪ Haben Sie im ersten Halbjahr Werte für den voraussichtlichen Abschluss
+eingetragen, werden diese Werte automatisch ins zweite Halbjahr übernommen.
+▪ Für Schüler in Gymnasialzweigen oder mit voraussichtlichem Übergang aus der IGS
+in die Oberstufe, die nicht an den Abschlussprüfungen teilnehmen, weisen Sie bitte in
+Klasse 9 keinen voraussichtlichen Abschluss (-) oder V-E1 zu.
+▪ Nur in IGS und Förderschulen steht die Abschlussseite Hauptschule außer in Stufe 9
+auch in Stufe 10 zur Verfügung.
+▪ Es ist möglich, Schülerinnen und Schülern, die den Gymnasialzweig besuchen, die
+voraussichtlichen Abschlüsse HA, HQ und MA zuzuweisen (VOBGM § 41 Absatz 4).
+Ebenso ist es möglich, Schülerinnen und Schülern, die den Realschulzweig besuchen,
+die voraussichtlichen Abschlüsse HA und HQ zuzuweisen (VOBGM § 41 Absatz 5).
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+7
+
+Abb. 1 Webseite Qualifikationen: Eignung und voraussichtlichen Abschluss bearbeiten
+
+1.2
+
+Prüfungsfächer und Projektprüfung erfassen
+Sobald Sie die voraussichtlichen Abschlüsse erfasst haben, stehen die Schüler auf der
+Seite UNTERRICHT > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS zur weiteren Bearbeitung zur
+Verfügung.
+1. Setzen auf der Webseite ABSCHLÜSSE > HAUPTSCHULABSCHLUSS einen Haken in das
+Kontrollkästchen vor den Schüler, den Sie bearbeiten wollen.
+2. Klicken Sie auf die Schaltfläche ABSCHLUSS & PRÜFUNGEN.
+3. Es öffnet sich das Dialogfenster ABSCHLUSS HAUPTSCHULE. Dort werden folgende Dinge
+angezeigt:
+▪ der voraussichtliche Abschluss
+▪ die vorbelegten Prüfungsfächer Deutsch, Mathematik und 1. Fremdsprache angezeigt.
+Letztere nur für HQ, HQ-IGS und HQ-AH, nicht für den HA, HA-IGS oder HA-AH.
+▪ Die Prüfungsfächer können beim Hauptschulabschluss nicht ausgewählt werden.
+▪ Die Fremdsprache. Es wird als Fremdsprache diejenige Fremdsprache angezeigt, die
+beim Schüler auf der Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN auf dem
+Reiter „FREMDSPRACHEN in der oberen Tabelle mit dem Rang 1 eingetragen und aktuell
+in der Kursart P (Pflichtfach) belegt ist.
+▪ Wird die falsche Fremdsprache oder gar keine auf der Abschlussseite angezeigt,
+überprüfen Sie bitte die Daten auf der Seite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN und ggf. auch die Kursbelegung des Schülers.
+Bitte beachten Sie
+▪ Die Prüfungsnoten für die Prüfungsfächer mit zentralen Abschlussarbeiten (ZAA)
+können nur in einem Zeitfenster zwischen 20. April und Schuljahresende erfasst
+werden.
+▪ Für die Abendhauptschule werden die Prüfungsnoten ohne Punktetabellen in den ZAA
+erfasst, diese Noten können jederzeit eingegeben werden. Eine Erfassung über den
+ENC ist für die Abendhauptschule nicht möglich.
+▪ Das Thema der Projektprüfung und die Note der Projektprüfung können zeitunabhängig
+im ersten und zweiten Halbjahr erfasst werden.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+8
+
+Abb. 2 Dialogfenster Abschluss Hauptschule - Beispieleintrag
+
+1.3
+
+Leistungen der Zentralen Abschlussarbeiten (ZAA) erfassen
+Haben Sie die voraussichtlichen Abschlüsse eingetragen, steht im zweiten Halbjahr ab 20.
+April Folgendes zur Verfügung:
+▪ die Schüler stehen zur Erfassung der zentralen Abschlussarbeiten ZAA auf den
+Seiten ABSCHLÜSSE > HAUPTSCHULE und Unterricht > Prüfungen > ZAA
+Hauptschulabschluss in der LUSD oder zum ENC-Export und der Erfassung im ENC zur
+Verfügung.
+▪ In der LUSD und im ENC stehen für alle Schüler die Erfassungsmasken für die drei
+Fächer Deutsch, 1. Fremdsprache und Mathematik zur Verfügung, wenn Sie die
+voraussichtlichen Abschlüsse, HQ, HQ-SchuB oder HQ-IGS eingetragen haben
+▪ Für Schüler mit voraussichtlichem Abschluss HA, HA-SchuB, HA-IGS und HA-AH
+werden dagegen keine Noten für die erste Fremdsprache in der LUSD bzw. im ENC
+erfasst.
+Hinweis
+Für Schüler mit LRS-Notenschutz für die ZAA in Deutsch gilt im ENC und in
+der LUSD eine andere Prüflogik.
+Hierbei wird nur noch eine bestimmte maximale Punktzahl in der
+Sprachrichtigkeit zugelassen. Dies soll verhindern, dass trotz hoher
+Punktzahl bei Sprachrichtigkeit ein LRS-Notenschutz eingerechnet wird.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+9
+
+Hinweis
+In der Abendhauptschule können die zentralen Abschlussarbeiten nicht
+über den ENC erfasst werden, da hierfür derzeit keine Punktetabellen
+hinterlegt sind. Die Noten müssen in der LUSD erfasst werden ohne
+Punktwerte, es werden nur die erreichten Noten eingegeben.
+
+Hinweis
+Nach der Eingabe von Prüfungsdaten dürfen keine Schüler-KursZuordnungen mehr geändert werden. Eine Änderung kann Datenverluste
+zur Folge haben.
+1.3.1 Abschluss prüfen und Gesamtleistung berechnen
+Sobald Sie alle Zeugnisnoten (auch die des 2. Halbjahres) sowie die ZAA-Leistungen und
+das Ergebnis der Projektprüfung eingetragen haben, können Sie in der LUSD auf der Seite
+ABSCHLÜSSE > HAUPTSCHULE die Abschlüsse prüfen und die Gesamtleistungen
+berechnen.
+▪ Ist der voraussichtliche Abschluss HQ eingetragen, wird geprüft, ob der Schüler den HQ
+erreicht hat. Dabei wird die Englisch-Prüfungsnote mit herangezogen. Erreicht der
+Schüler erfolgreich den HQ, wird dies durch ein blaues Symbol vor dem Schüler
+gekennzeichnet: .
+▪ Reicht das Gesamtergebnis für den HQ nicht aus und hat der Schüler laut Berechnung
+den einfachen HA erreicht, wird die Englischnote der ZAA automatisch aus der
+Berechnung der Gesamtleistung herausgenommen und es wird nur die EnglischZeugnisnote in der Gesamtleistung mitgerechnet. Der Schüler erhält ein grünes Symbol:
+.
+▪ Für Schüler mit voraussichtlichem Abschluss HA wird keine Englisch-Prüfungsnote
+erfasst. Es wird nicht auf die Erlangung des HQ geprüft, sondern nur das Bestehen des
+HA.
+▪ Besteht der Schüler die Prüfung nicht, erhält er ein rotes Symbol:
+
+.
+
+Hinweis
+Soll bei Schülern mit berechnetem Abschluss HA das Ergebnis der ZAA in
+Englisch – nach VOBGM § 54 (3) – im Zeugnis trotzdem ausgewiesen
+werden, muss dies über einen individuellen Bemerkungseintrag erfolgen.
+
+Hinweis
+Wollen Sie für ehemalige Lernhilfe-Schüler die Englischnote in der
+Gesamtleistung nicht mit berücksichtigen [möglich nach VOBGM § 56 (4)],
+müssen Sie das Fach Englisch für solche Schüler der Kursart F zuordnen.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+10
+
+Abb. 3 Webseite Hauptschule: Beispiel Kennzeichnung mit farbigen Symbolen
+
+1.3.2 Tabelle mit den Kursnoten und berechneten Noten auf der Abschlussseite
+▪ In der Tabelle mit den Kursnoten und berechneten Noten auf der Abschlussseite wird
+jetzt vor dem Fach nach der Kursart KA auch die Kursoption KO angezeigt.
+▪ Die Spalte ENDNOTE zeigt die berechnete Endnote jedes Faches an, wie sie in die
+Gesamtleistung eingeht, ganzzahlig gerundet. Diese Note wird nicht im Zeugnis
+ausgegeben. (Ab 2016 wird die Endnote ganzzahlig dargestellt.).
+▪ Für Nicht-Prüfungsfächer ist dies die letzte Halbjahresnote. In IGS mit
+Kursdifferenzierung wird die Kursnote in differenzierten Fächern je nach Kursniveau an
+das Prüfungsniveau Hauptschule angepasst.
+▪ Für Prüfungsfächer wird die Kursnote mit der Prüfungsnote verrechnet. In IGS mit
+Kursdifferenzierung wird die Kursnote in differenzierten Fächern je nach Kursniveau
+vorher an das Prüfungsniveau Hauptschule angepasst.
+▪ Die Spalte Zeugnisnote zeigt die Note an, die im Zeugnis als Note des Faches
+ausgegeben wird. Für Nicht-Prüfungsfächer ist dies die letzte Halbjahresnote. In IGS
+mit Kursdifferenzierung wird die Kursnote in differenzierten Fächern auf dem Kursniveau
+angegeben.
+▪ Für Prüfungsfächer wird die Kursnote mit der Prüfungsnote verrechnet. In IGS mit
+Kursdifferenzierung wird die Prüfungsnote in differenzierten Fächern je nach Kursniveau
+vorher an das Kursniveau angepasst. Die Zeugnisnote wird auf eine ganze Zahl
+gerundet.
+▪ Für die Prüfung der Ausgleichsregelungen werden die auf ganze Zahlen gerundeten
+Endnoten herangezogen.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+11
+
+1.3.3 Berücksichtigung der Wahlpflicht-Kurse in der Gesamtleistung
+Das HMKB vertritt folgende Rechtsauffassung zu WP-Kursen (Kursart W) und deren
+Einbringung in die Gesamtleistung:
+WP-Kurse sind laut VO Stundentafel § 2 (4) für Fremdsprachen, Hinführung zur
+Arbeitswelt, Informatik und Pflichtfächer zulässig. Beliebige freie Angebote sind nur als
+Wahlangebote (Kursart A) zulässig.
+Schulform
+
+WP-Kurse
+
+H
+
+Ein Schüler in der H darf im Schuljahr nur einen WP-Kurs haben.
+Eine Aufsplittung in mehrere WP-Leisten mit entsprechend geringerer
+Stundenzahl und mehreren WP-Noten ist nicht zulässig.
+Es darf nur ein WP-Kurs aus der Klasse 9 in die Berechnung der
+Gesamtleistung eingehen.
+
+IGS
+
+Laut Stundentafel sind ab Stufe 9 zwei WP-Kurse vorgesehen.
+Beide können, laut HMKB, auch dem gleichen Fach zugeordnet sein.
+Zur Unterscheidung der Kurse werden die Kursoptionen WP1 und
+WP2 zur Verfügung gestellt.
+Beide Kurse gehen in die Berechnung der Gesamtleistung ein
+
+Die LUSD enthält derzeit keine Prüfung auf die Zahl der WP-Kurse oder deren
+Fach-zuordnung.
+Bei zwei WP-Kursen im gleichen Fach verwenden Sie die Kursoptionen WP1 und
+WP2 zur Unterscheidung.
+
+1.4
+
+Schülern einen Abschluss zuweisen
+Die LUSD-Berechnung des Abschlusses führt zu einer automatischen Zuweisung des
+berechneten Abschlusses in den Schüler-Qualifikationen, der Zeugniszuweisung und im
+Abschlusszeugnis.
+
+1.5
+
+Abschlusszeugnisse erstellen und drucken
+Im Abschlusszeugnis wird der dem Schüler zugewiesene Abschluss ausgedruckt!
+▪ Kontrollieren Sie, dass den Schülern der HA bzw. der HQ auf der Seite ZEUGNISSE >
+ZEUGNISZUWEISUNG zugewiesen wurde.
+▪ Das Ergebnis der ZAA-Note in der 1. Fremdsprache wird nur eingedruckt, wenn der HQ
+zugewiesen ist.
+▪ Weisen Sie bei erfolgreichem Abschluss das Zeugnis Abschluss A3 zu.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+12
+
+2
+
+Mittleren Abschluss MA und MAQ in der LUSD erfassen
+Der nach § 26 und § 38 VOBGM neue mittlere Abschluss qualifizierender
+Realschulabschlusses MAQ steht seit 2012 im Katalog für die Schulformen R, IGS,
+FS/*/R, AR und für die H10 als Abschluss zur Verfügung. Er kann aber nicht als
+voraussichtlicher Abschluss ausgewählt werden. Die Erlangung des MA oder MAQ wird in
+der LUSD automatisch berechnet.
+
+2.1
+
+Voraussichtlichen Abschluss in der LUSD eintragen
+Der voraussichtliche Abschluss muss zugeordnet sein, damit die LUSD-Webseite
+UNTERRICHT > ABSCHLÜSSE > MITTLERER ABSCHLUSS bearbeitbar ist und die Schüler auf der
+Seite erscheinen.
+Er wird vom System für die jeweiligen Schulformen folgendermaßen vorbelegt:
+Bildungsgang / Schulform
+
+Voraussichtlicher
+Abschluss
+
+Realschule Stufe 10 / Schulform R
+
+MA
+
+Hauptschule Stufe 10 / Schulform H
+
+MA-H10
+
+Realschule Stufe R3/R4 / Abendrealschule
+
+MA-AR
+
+Realschule Stufe 10 / Förderschulen mit Realschulzweig
+FS/*/R
+
+MA
+
+Realschule / Schulform IGS und sonstige Förderschulen
+
+Keine Vorbelegung
+
+Mittelstufenschule / Schulform MSMB
+
+MA
+
+Tragen Sie auf der Webseite LEISTUNGSERFASSUNG > SCHÜLER oder über den ENC für die
+gewünschten Schüler den voraussichtlichen Abschluss ein, wenn dieser fehlt oder geändert
+werden soll.
+Bildungsgang / Schulform
+
+Voraussichtlicher
+Abschluss
+
+Realschule / Schulformen R, IGS mit abschlussbezogenen
+Klassen (keine Kursdifferenzierung), FS/*/R
+
+MA
+
+Realschule / Schulform IGS ohne abschlussbezogene Klassen MA-IGS
+(mit Kursdifferenzierung)
+Realschule / Abendrealschule
+
+MA-AR
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+13
+
+Bildungsgang / Schulform
+
+Voraussichtlicher
+Abschluss
+
+Mittelstufenschule / MSMB
+
+MA
+
+Haben Sie im ersten Halbjahr Werte für den voraussichtlichen Abschluss eingetragen,
+werden diese Werte automatisch ins zweite Halbjahr übernommen.
+Für Schüler in Gymnasialzweigen mit voraussichtlichem Übergang in die Oberstufe, die
+nicht an den Abschlussprüfungen teilnehmen, weisen Sie bitte keinen voraussichtlichen
+Abschluss (-) oder V-E1 zu.
+Für Schüler mit voraussichtlichem Übergang aus der IGS in die Oberstufe, die nicht an den
+Abschlussprüfungen teilnehmen, weisen Sie bitte V-E1 zu.
+Diesen Schülern weisen Sie auch auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER oder im ENC die Eignung GO/BGYM zu. In der IGS kann zusätzlich der
+Abschlusswunsch der Eltern „V-E1“ eingetragen werden.
+Eignung, voraussichtlicher Abschluss und ein eventueller Beratungstermin der Eltern sowie
+in der IGS auch der Abschlusswunsch der Eltern können auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > QUALIFIKATIONEN > REITER EIGNUNG/ABSCHLÜSSE/BERUFE
+eingesehen und zugewiesen werden. Außerdem wird hier eine historische Übersicht über
+die Halbjahresdaten der voraussichtlichen Abschlüsse angezeigt.
+
+Abb. 4 Webseite Qualifikationen: Reiter Eignung / Abschlüsse / Berufe
+
+2.2
+
+Prüfungsfächer und Prüfungsart erfassen
+Sobald Sie die voraussichtlichen Abschlüsse erfasst haben, stehen die Schüler auf der
+Seite UNTERRICHT > ABSCHLÜSSE > MITTLERER ABSCHLUSS zur weiteren Bearbeitung zur
+Verfügung.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+14
+
+1. Setzen Sie auf der Webseite UNTERRICHT > ABSCHLÜSSE > MITTLERER ABSCHLUSS einen
+Haken in das Kontrollkästchen vor den Schüler, den Sie bearbeiten wollen.
+2. Klicken Sie auf
+
+.
+
+3. Es öffnet sich ein Dialogfenster, in dem folgende Dinge angezeigt werden (Abb. 5
+Dialogfenster Abschluss Realschule: Beispiel):
+▪ der gewählte voraussichtliche Abschluss
+▪ die vorbelegten drei Prüfungsfächer Deutsch, Mathematik und 1. Fremdsprache.
+▪ Die Fremdsprache. Es wird als Fremdsprache diejenige Fremdsprache angezeigt, die
+beim Schüler auf der Seite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN auf
+dem Reiter „Fremdsprachen“ in der oberen Tabelle mit dem Rang 1 eingetragen und
+aktuell in der Kursart P (Pflichtfach) belegt ist.
+▪ Wird die falsche Fremdsprache oder gar keine auf der Abschlussseite angezeigt,
+überprüfen Sie bitte die Daten auf der Seite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN, ggf. prüfen Sie auch die Kursbelegung des Schülers.
+Bitte beachten Sie:
+▪ Die Prüfungsnoten für die Prüfungsfächer mit zentralen Abschlussarbeiten (ZAA)
+können nur in einem Zeitfenster zwischen 20. April und Schuljahresende erfasst
+werden.
+▪ Für die Abendrealschule werden die Prüfungsnoten ohne Punktetabellen in den ZAA
+erfasst, diese Noten können jederzeit in der LUSD eingegeben werden, eine Erfassung
+im ENC ist für Abendrealschulen nicht möglich.
+▪ Das 4. Prüfungsfach, dessen Prüfungsart (nur für Abendrealschule) und seine Note
+können zeitunabhängig im ersten und zweiten Halbjahr erfasst werden.
+▪ Abendrealschulen können zwischen mündlicher Prüfung und Hausarbeit mit
+Präsentation wählen, für alle anderen Schulformen ist die Prüfungsart Hausarbeit mit
+Präsentation vorgeschrieben.
+▪ Als 4. Prüfungsfach können Fächer der Kursarten P und W gewählt werden. Zusätzlich
+werden die Kursoptionen WP1, WP2 und X (befreit vom Sport) vor dem Fach zur
+Unterscheidung von Kursen angezeigt. Das 4. Prüfungsfach muss ein reguläres Fach
+sein und darf nicht identisch mit einem der Prüfungsfächer 1-3 sein.
+▪ Wurde das 4. Prüfungsfach nur in Stufe 9 belegt, aber nicht in der Abschlussstufe 10,
+erscheint es im Zeugnis unter der eigenen Überschrift: Im Vorjahr abgeschlossenes
+Fach, das bei der Gesamtleistung berücksichtig wird.
+Anmerkungen zum Fach Sport und zur Kursoption X (Befreiung vom
+Sportunterricht):
+Fallbeispiele:
+▪ Ein Schüler kann das Fach Sport nur als 4. Prüfungsfach wählen, wenn mindestens eine
+Halbjahresnote aus den Halbjahren 09/1 bis 10/2 vorliegt.
+▪ Ein Schüler hat das Fach Sport als 4. Prüfungsfach gewählt, ist in 10/1 und/oder 10/2
+vom Sport befreit, eine Note aus Jahrgang 09 liegt vor: In diesem Fall kann die
+Kursoption X (befreit vom Sport) auf der Seite UNTERRICHT > UV-BEARBEITUNG > HIST.
+LEISTUNGSDATEN für das Halbjahr 10/1 und/oder auf der Seite UNTERRICHT > UVHMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+15
+
+BEARBEITUNG > SCHÜLER-KURSZUORDNUNG für das Halbjahr 10/2 eingetragen werden.
+Die zuletzt vergebene Halbjahresnote wird zur Berechnung der End- und Zeugnisnote
+herangezogen, das Fach Sport wird bei der Berechnung der Gesamtleistung
+berücksichtigt.
+▪ Ein Schüler hat das Fach Sport nicht als 4. Prüfungsfach gewählt, ist in 10/2 z. B.
+wegen einer Verletzung vom Sportunterricht befreit, eine Note für 10/1 liegt vor: Da
+das Zeugnis am Ende eines Schuljahres den Leistungsstand ausweist, der während des
+Schuljahres erreicht wurde (HSchG, §74 (2)), kann die Sportlehrkraft für das 2. Halbjahr
+eine Sportnote erteilen. In diesem Fall ist die Kursoption X (befreit vom Sport) auf der
+Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG nicht einzutragen,
+das Fach Sport wird bei der Berechnung der Gesamtleistung berücksichtigt.
+
+▪ Ein Schüler hat das Fach Sport nicht als 4. Prüfungsfach gewählt, ist in 10/1 und 10/2
+jeweils vom Sport befreit: In diesem Fall ist die Kursoption X (befreit vom Sport) auf
+den Seiten UNTERRICHT > UV-BEARBEITUNG > HIST. LEISTUNGSDATEN und UNTERRICHT >
+UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG für jedes Halbjahr einzutragen. Im
+Abschlusszeugnis lautet dann der Eintrag für Sport ‚bf‘, das Fach Sport wird bei der
+Berechnung der Gesamtleistung nicht berücksichtigt.
+
+Abb. 5 Dialogfenster Abschluss Realschule: Beispiel
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+16
+
+2.3
+
+Leistungen der Zentralen Abschlussarbeiten (ZAA) erfassen
+Wenn Sie den voraussichtlichen Abschluss MA, MA-IGS oder MA-H10 eingetragen haben,
+stehen die Schüler im zweiten Halbjahr ab 20. April zur Erfassung der zentralen
+Abschlussarbeiten ZAA auf den Seite ABSCHLÜSSE > REALSCHULE UND Unterricht >
+Prüfungen > ZAA Hauptschulabschluss in der LUSD bzw. zum ENC-Export und der
+Erfassung im ENC zur Verfügung.
+Hinweis
+Für Schüler mit LRS-Notenschutz für die ZAA in Deutsch gilt im ENC und in
+der LUSD eine andere Prüflogik.
+Hierbei wird nur noch eine bestimmte maximale Punktzahl in der
+Sprachrichtigkeit zugelassen. Dies soll verhindern, dass trotz hoher
+Punktzahl bei Sprachrichtigkeit ein LRS-Notenschutz eingerechnet wird.
+
+Hinweis
+In der Abendrealschule können die zentralen Abschlussarbeiten nicht über
+den ENC erfasst werden, da hierfür derzeit keine Punktetabellen hinterlegt
+sind. Die Noten müssen in der LUSD erfasst werden ohne Punktwerte, es
+werden nur die erreichten Noten eingegeben.
+
+Hinweis
+Nach der Eingabe von Prüfungsdaten dürfen keine Schüler-KursZuordnungen mehr geändert werden. Eine Änderung kann Datenverluste zur
+Folge haben.
+
+2.4
+
+Abschluss prüfen und Gesamtleistung berechnen
+Sobald Sie alle Zeugnisnoten (auch die des 2. Halbjahres) sowie die ZAA-Leistungen und
+das Ergebnis des 4. Prüfungsfaches eingetragen haben, können Sie in der LUSD auf der
+Seite ABSCHLÜSSE > REALSCHULE die Abschlüsse prüfen und die Gesamtleistungen
+berechnen.
+▪ Es wird automatisch geprüft, ob der Schüler den MAQ erreicht hat. Dazu werden die
+zwei Durchschnitte Hauptfächer und Durchschnitt der Restfächer ermittelt, die beide
+mindestens 3,0 sein müssen. Erreicht der Schüler erfolgreich den MAQ, wird dies durch
+ein blaues Symbol vor dem Schüler gekennzeichnet:
+
+.
+
+▪ Reicht das Gesamtergebnis für den MAQ nicht aus und hat der Schüler laut
+Berechnung den einfachen MA erreicht, erhält er ein grünes Symbol:
+▪ Besteht der Schüler die Prüfung nicht, erhält er ein rotes Symbol:
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+.
+
+.
+
+17
+
+2.4.1 Tabelle mit den Kursnoten und berechneten Noten auf der Abschlussseite
+▪ In der Tabelle mit den Kursnoten und berechneten Noten auf der Abschlussseite wird
+jetzt vor dem Fach nach der Kursart KA auch die Kursoption KO angezeigt.
+▪ Die Spalte Endnote zeigt die berechnete Endnote jedes Faches an, wie sie in die
+Gesamtleistung eingeht, ganzzahlig gerundet. Diese Note wird nicht im Zeugnis
+ausgegeben. (Ab 2016 wird die Endnote ganzzahlig dargestellt.)
+▪ Für Nicht-Prüfungsfächer ist dies die letzte Halbjahresnote. In IGS mit
+Kursdifferenzierung wird die Kursnote in differenzierten Fächern je nach Kursniveau an
+das Prüfungsniveau Realschule angepasst.
+▪ Für Prüfungsfächer wird die Kursnote mit der Prüfungsnote verrechnet. In IGS mit
+Kursdifferenzierung wird die Kursnote in differenzierten Fächern je nach Kursniveau
+vorher an das Prüfungsniveau Realschule angepasst.
+▪ Die Spalte Zeugnisnote zeigt die Note an, die im Zeugnis als Note des Faches
+ausgegeben wird.
+Für Nicht-Prüfungsfächer ist dies die letzte Halbjahresnote. In IGS mit
+Kursdifferenzierung wird die Kursnote in differenzierten Fächern auf dem Kursniveau
+angegeben.
+▪ Für Prüfungsfächer wird die Kursnote mit der Prüfungsnote verrechnet. In IGS mit
+Kursdifferenzierung wird die Prüfungsnote in differenzierten Fächern je nach Kursniveau
+vorher an das Kursniveau angepasst. Die Zeugnisnote wird auf eine ganze Zahl
+gerundet.
+▪ Für die Prüfung der Ausgleichsregelungen werden die auf ganze Zahlen gerundeten
+Endnoten herangezogen.
+2.4.2 Berücksichtigung der Wahlpflicht-Kurse in der Gesamtleistung
+Das HMKB vertritt folgende Rechtsauffassung zu WP-Kursen (Kursart W) und deren
+Einbringung in die Gesamtleistung:
+WP-Kurse sind laut VO Stundentafel § 2 (4) für Fremdsprachen, Hinführung zur
+Arbeitswelt, Informatik und Pflichtfächer zulässig. Beliebige freie Angebote sind nur als
+Wahlangebote (Kursart A) zulässig.
+
+Schulform
+
+WP-Kurse
+
+R
+
+Ein Schüler in der R darf im Schuljahr nur einen WP-Kurs haben.
+Eine Aufsplittung in mehrere WP-Leisten mit entsprechend geringerer
+Stundenzahl und mehreren WP-Noten ist nicht zulässig.
+Es darf nur ein WP-Kurs aus der Klasse 10 in die Berechnung der
+Gesamtleistung eingehen.
+
+IGS
+
+Laut Stundentafel sind ab Stufe 9 zwei WP-Kurse vorgesehen.
+Beide können, laut HMKB, dem gleichen Fach zugeordnet sein.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+18
+
+Schulform
+
+WP-Kurse
+
+Zur Unterscheidung der Kurse werden die Kursoptionen WP1 und
+WP2 zur Verfügung gestellt.
+Beide Kurse gehen in die Berechnung der Gesamtleistung ein.
+
+Hinweis
+Die LUSD enthält derzeit keine Prüfung auf die Zahl der WP-Kurse oder
+deren Fachzuordnung.
+Bei zwei WP-Kursen im gleichen Fach verwenden Sie die Kursoptionen WP1
+und WP2 zur Unterscheidung. (Ab 2016 wird die Endnote ganzzahlig
+dargestellt.)
+
+Abb. 6 Webseite Realschule: Beispiel
+
+2.4.3 „Konferenzbeschluss MA“ – MA statt MAQ
+Da der MAQ laut VOBGM § 59 (4) bei der Zuerkennung auch an sogenannte „weiche“
+Faktoren wie „Lernentwicklung, Leistungsstand und Arbeitshaltung“ gebunden ist, kann der
+laut Notenberechnung erteilte MAQ aufgrund des Konferenzbeschlusses auch entzogen
+und nur der MA erteilt werden. Klicken Sie in einem solchen Fall auf die Schaltfläche
+, das Symbol wird grün
+
+und der Schüler erhält nur den MA.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+19
+
+2.5
+
+Schülern einen Abschluss zuweisen
+Die LUSD-Berechnung des Abschlusses führt zu einer automatischen Zuweisung des
+berechneten Abschlusses in den Schüler-Qualifikationen, der Zeugniszuweisung und im
+Abschlusszeugnis.
+
+2.6
+
+Abschlusszeugnisse erstellen und drucken
+Im Abschlusszeugnis wird der dem Schüler zugewiesene Abschluss ausgedruckt!
+▪ Kontrollieren Sie, dass den Schülern in der Zeugniszuweisung der MA bzw. der MAQ
+zugewiesen wird.
+▪ Bei erfolgreichem Abschluss weisen Sie den Schülern auf der Seite ZEUGNISSE >
+ZEUGNISZUWEISUNG das Zeugnis Abschluss A3 zu.
+▪ Im Zeugnis werden getrennt aufgeführt:
+▪ Vorjahresnoten abgegebener Fächer, die nicht in die Gesamtwertung eingehen.
+▪ ggf. die Endnote in einem nicht in der Klasse 10 belegten Fach, das als 4.
+Prüfungsfach gewählt wurde und das deshalb in die Gesamtwertung eingeht.
+
+HMKB | LUSD | Hinweise zur Erfassung der H/R-Abschlüsse | Version: 3.3 | Letzter Stand: 18.09.2025
+
+20
+
+

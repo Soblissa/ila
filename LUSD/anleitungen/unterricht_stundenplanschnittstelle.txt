@@ -1,0 +1,882 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Information zur
+Stundenplanschnittstelle 2.0 (NEU)
+Funktionsbeschreibung Import-/Export
+
+Version: 2.0
+Letzter Stand: 19.03.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+3
+
+Inhalt dieses Dokuments ................................................................................................................3
+Zielgruppe und vorausgesetzte Kenntnisse ....................................................................................3
+LUSD-Anwenderunterstützung .......................................................................................................3
+
+Informationen zur Beta-Version der Stundenplanschnittstelle
+
+5
+
+1
+
+Vorbereitung der Export-Daten in der LUSD..........................................................................5
+
+2
+
+Verwendung der Export-Schnittstelle ....................................................................................5
+
+3
+
+4
+
+2.1
+
+Export aus aktiver UV...................................................................................................5
+
+2.2
+
+Export aus UV-Planungsassistenten ............................................................................7
+
+Verwendung der Import-Schnittstelle .....................................................................................9
+3.1
+
+Import in aktive UV .......................................................................................................9
+
+3.2
+
+Import in UV-Planungsassistenten .............................................................................17
+
+Anhang................................................................................................................................18
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Die Stundenplanschnittstelle 2.0 ermöglicht den Datentransfer zwischen der LUSD Hessen und
+zertifizierten Datenaustauschpartnern. Dazu zählen gegenwärtig (Stand 02/2026):
+ UNTIS (ab dem Versionszeitraum 2022)
+ Kurswahl-Online
+Die Datenaustauschpartner müssen in der LUSD zunächst auf der Webseite
+DATENAUSTAUSCH>DATENAUSTAUSCHVERWALTUNG aktiviert werden. Entsprechende
+Rollenberechtigungen müssen vorliegen, um diese Einstellungen setzen zu können.
+Über die Stundenplanschnittstelle 2.0 können Informationen für die Unterrichtsplanung innerhalb
+eines genau festgelegten Datenbereichs ausgetauscht werden. Dieser Datenbereich ist in
+Stammdaten und Prozessdaten unterteilt. Eine genaue Auflistung entnehmen Sie bitte der Tabelle
+im Anhang.
+Die Stundenplanschnittstelle 2.0 kann sowohl für die aktuelle Unterrichtsverteilung (UV) als auch
+für die kommende UV-Planung (PV) verwendet werden. Die Kompatibilität des Datenaustauschs
+ist jedoch nur innerhalb des jeweiligen Anwendungsfalls gewährleistet (UV–UV bzw. PV–PV).
+Hinweis
+Die LUSD ist das führende System für alle Stammdaten. Änderungen an Stammdaten, die
+bei Datenaustauschpartnern getätigt werden, werden vom System LUSD beim Reimport
+ignoriert. Dauerhafte Änderungen an Stammdaten können ausschließlich in der LUSD
+vorgenommen und anschließend an den Datenaustauschpartner übermittelt werden. Ein
+Reimport in die LUSD ist nur für Prozessdaten möglich.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Die Anleitung richtet sich an Personen, die die Stundenplandaten zwischen der LUSD und
+Stundenplanprogrammen austauschen möchten.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+3
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+4
+
+Informationen zur Beta-Version der Stundenplanschnittstelle
+1
+
+Vorbereitung der Export-Daten in der LUSD
+Für eine vollständige Übermittlung aller Stammdaten zum Datenaustauschpartner müssen
+folgende Punkte berücksichtigt werden:
+ Alle Lehrkräfte sind in der LUSD vorhanden.
+ Alle Schüler sind in der LUSD vorhanden.
+
+
+
+
+
+
+Alle Schulformen sind in der LUSD vorhanden.
+Alle zu berücksichtigenden Fächer sind in der LUSD aktiviert.
+Alle Räume sind in der LUSD vorhanden.
+Alle Klassen sind der LUSD vorhanden.
+Jeder Schüler ist genau einer Klasse zugeordnet.
+
+Für die Funktionalität der Schnittstelle wird zusätzlich empfohlen (Möglichkeit des
+Reimports von Daten vom Datenaustauschpartner zurück in die LUSD):
+ Die Stundentafel pro Schulform, Stufe und Halbjahr ist in der LUSD auf dem aktuellen
+Stand.
+ Für jede Klasse sind alle Kurse gemäß Stundentafel eingerichtet.
+ Für klassenübergreifende Kurse ist eine Zuordnung von Schülern erfolgt.
+Die letzten beiden Punkte können initial auch beim Datenaustauschpartner angelegt und in
+die LUSD importiert werden.
+Hinweis
+Für die Nutzung dieses Vorgehens sind gegebenenfalls besondere
+Implementierungsregeln des Datenaustauschpartners zu berücksichtigen. Es
+wird empfohlen, sich vorab mit den entsprechenden Anleitungen der
+Datenaustauschpartner vertraut zu machen.
+Darüber hinaus sind ergänzende Hinweise zu häufig auftretenden
+Fragestellungen in separaten FAQ-Dokumenten auf der LUSD-Website zu
+einem späteren Zeitpunkt geplant.
+
+2
+
+Verwendung der Export-Schnittstelle
+
+2.1
+
+Export aus aktiver UV
+1. Öffnen Sie die Webseite DATENAUSTAUSCH > EXPORT/IMPORT > STUNDENPLAN 2.0
+EXPORT.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+5
+
+Abb. 1 Webseite Export/Import: Navigation
+
+2. Wählen Sie über die Auswahlliste im Feld PROGRAMMWAHL den gewünschten
+Datenaustauschpartner aus.
+
+Abb. 2 Webseite Stundenplan 2.0 Export: Programmauswahl
+
+3. Klicken Sie auf die Schaltfläche OPTIONEN. Es öffnet sich das Dialogfenster EXPORTOPTIONEN.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+6
+
+Abb. 3 Webseite Stundenplan 2.0 Export: Export-Optionen
+
+Hinweis
+Wählen Sie beim ersten Export stets alle Optionen aus. Damit stellen Sie
+sicher, dass bei einem späteren Reimport von einem Datenaustauschpartner
+in die LUSD alle Daten valide der korrekten UV-ID zugeordnet werden
+können.
+Unter SCHÜLER werden aktive und externe Schüler sowie Kandidaten im
+aktuellem Zielhalbjahr exportiert.
+
+4. Wählen Sie die gewünschten Optionen für den Export aus und klicken Sie anschließend
+auf die Schaltfläche ÜBERNEHMEN. Sie befinden sich wieder auf der Webseite
+STUNDENPLAN 2.0 EXPORT.
+5. Klicken Sie auf die Schaltfläche EXPORT STARTEN. Die erzeugte Exportdatei wird
+heruntergeladen. Prüfen Sie ggf. Ihre Browsereinstellungen, um sicherzustellen, dass
+Pop-ups zugelassen sind. Diese Datei können Sie nun in die Softwareanwendung des
+Austauschpartners importieren.
+
+2.2
+
+Export aus UV-Planungsassistenten
+Stellen Sie sicher, dass alle für die Planung relevanten Daten korrekt eingerichtet sind.
+Nutzen Sie ggf. die Anleitung zum Thema UV-Planung in der LUSD.
+1. Öffnen Sie die Website des UV-Planungsassistenten über SCHULE > ASSISTENTEN > UVPLANUNG und wählen Sie eine Planungsvariante aus.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+7
+
+Abb. 4 Website Assistenten (UV-Planung)
+
+2. Klicken Sie innerhalb Ihrer Planungsvariante solange auf WEITER, bis die Schaltfläche
+EXPORT 2.0 erscheint.
+
+Abb. 5 Webseite UV-Planung: Export-/Importfunktion
+
+3. Verfahren Sie ab hier weiter wie in Kapitel 3.1.b beschrieben.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+8
+
+3
+
+Verwendung der Import-Schnittstelle
+Hinweis
+Beim Import in die LUSD wird die Unterrichtsverteilung durch die Importdaten
+überschrieben (z. B. Schüler-Kurs-Zuordnungen, Lehrer-Kurs-Zuordnungen,
+Kurseigenschaften).
+Sobald die Erfassung von Leistungsdaten in der LUSD (SEK I) beginnt,
+sollten im aktuellen Halbjahr keine Importe mehr durchgeführt werden.
+Ein Importassistent unterstützt die Anwender der LUSD, die Änderungsvorhaben
+schrittweise nachzuvollziehen und bei Bedarf gezielt zu übernehmen.
+Sie können im Verlauf des Assistenten jederzeit vor- und zurückspringen. Bedenken Sie,
+dass sich vorherige Aktivierungen/Deaktivierungen auf die Auswahl der folgenden Fenster
+auswirken.
+Erst zum Ende des Assistenten werden die Änderungsvorhaben nach einem manuellen
+Importbefehl des Users in die LUSD überschrieben.
+Bedenken Sie, dass Importe in die aktuelle Unterrichtsverteilung (UV) oder geplante
+Unterrichtsverteilung (PV) über verschiedene Webseiten der LUSD angesteuert werden.
+
+3.1
+
+Import in aktive UV
+
+3.1.1 Import-Assistent Seite 1: Dateiauswahl
+1. Öffnen Sie die Webseite DATENAUSTAUSCH > EXPORT/IMPORT/STUNDENPLAN 2.0 IMPORT.
+Es erscheint die erste Seite des Import-Assistenten.
+
+Abb. 6 Webseite Stundenplan 2.0 Import: Import
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+9
+
+2. Klicken Sie auf die Schaltfläche DURCHSUCHEN und wählen Sie die Importdatei aus.
+Klicken Sie anschließend auf die Schaltfläche WEITER. Der Import-Assistent leitet Sie
+nun durch die weiteren Schritte.
+Hinweis
+Falls die Fehlermeldung „Die XML-Datei konnte nicht verarbeitet werden.“
+erscheint, beachten Sie bitte:
+Es können nur gültige Exportdateien der Datenaustauschpartner importiert
+werden. Prüfen Sie für eine erfolgreiche Validierung:
+ Bevor die Importroutine in die LUSD erstmals verwendet werden kann,
+muss ein Vollexport aus der LUSD und anschließend ein Import in das
+Datenaustauschprogramm erfolgt sein (notwendig pro Halbjahr bzw. neue
+UV)
+ Die Kompatibilität des jeweiligen Anwendungsfalls ist gewährleistet (UV–
+UV bzw. PV–PV).
+3.1.2 Import-Assistent Seite 2: Ebenen- und Optionsauswahl
+Sie gelangen zur Seite der Ebenen- und Optionsauswahl mit folgendem Seitenaufbau:
+
+Abb. 7 Webseite Stundenplan 2.0 Import: Ebenen- und Optionsauswahl
+
+Im linken Bereich werden Ihnen verschiedene auswählbare Ebenen angezeigt.
+1. Klicken Sie auf das Plus-Symbol, um die Stufen der entsprechenden Schulform
+auszuklappen. Nehmen Sie anschließend eine Einzelauswahl vor.
+Mit Klick auf „Alle Auswählen“ werden alle Ebenen der Importdatei berücksichtigt. Die in
+Klammern rechts neben der Schulform abgebildete Zahl gibt die Summe der Kurse und
+Betreuungsangebote an.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+10
+
+2. Wählen Sie im rechten Bereich unter OPTIONEN die entsprechenden Optionen aus, die
+Sie importieren möchten. Bei der Auswahl LEHRER-KURSZUORDNUNG und SCHÜLERKURSZUORDNUNG wird automatisch auch die Option KURSE ausgewählt.
+3. Klicken Sie auf die Schaltfläche WEITER, um auf die nächste Seite des ImportAssistenten zu gelangen.
+
+3.1.3 Import-Assistent Seite 3: Kurse
+Sie gelangen zur nächsten Seite, auf der die zum Import bereitstehenden Änderungen an
+Kursdaten aufgeführt sind.
+
+Abb. 8 Webseite Stundenplan 2.0 Import: Änderung der Kursdaten
+
+1. Überprüfen Sie die Anzeige.
+2. Setzen Sie in den Kontrollkästchen der ersten Spalte entsprechende Häkchen bei den
+Kursen, für die Sie Änderungen hervorrufen möchten. Beachten Sie, dass eine Abwahl
+entsprechend Auswirkungen auf die Anzeige im weiteren Verlauf des Import-Assistenten
+hat.
+Die Tabelle gibt Ihnen folgende Informationen aus:
+Aktion: Gibt die Art der vom Import-Assistenten auszuführenden Aktion an (z. B. ob der
+Kurs aus der LUSD gelöscht werden soll). Beim Import von Kursen können folgende
+Aktionen auftreten:
+ KURS NEU ANLEGEN: In der Import-Datei befindet sich ein Kurs, der in der LUSD nicht
+vorhanden ist. Der Kurs kann in die LUSD importiert werden.
+ KURS LÖSCHEN: In der Import-Datei wurde ein Kurs gelöscht, der in der LUSD
+vorhanden ist. Der Kurs kann in der LUSD gelöscht werden.
+ IMPORT KURSATTRIBUTE: Mindestens ein Attribut des Kurses wurde in der ImportDatei geändert. Die Kursänderungen können in die LUSD übernommen werden.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+11
+
+ IMPORT NICHT MÖGLICH: Bitte beachten Sie die Hinweismeldung in der Spalte
+Meldung für Informationen weshalb der Import dieses Kurses nicht möglich ist.
+SF/BK: Die dem Kurs zugeordnete Schulform/Bildungskombination.
+St./Sem: Die dem Kurs zugeordnete Stufe/Semester.
+Kurs: Bezeichnung des Kurses.
+Meldung: Ergänzende Hinweismeldungen und Informationen zur Importaktion (z.B.
+warum ein Import nicht möglich ist).
+Info: Der Info-Button liefert für ausgewählte Attribute eine Gegenüberstellung der LUSDDaten sowie des Datenaustauschpartners und gibt damit eine Übersicht, welche
+Kursdaten importiert werden.
+3. Klicken Sie anschließend auf die Schaltfläche WEITER, um auf die nächste Seite des
+Import-Assistenten zu gelangen.
+
+3.1.4 Import-Assistent Seite 4: Lehrer-Kurszuordnungen
+Sie gelangen zur nächsten Seite, auf der die zum Import bereitstehenden LehrerKurszuordnungen aufgeführt werden.
+
+Abb. 9 Webseite Stundenplan 2.0 Import: Lehrer-Kurszuordnungen
+
+1. Überprüfen Sie die Anzeige.
+2. Setzen Sie in den Kontrollkästchen der ersten Spalte entsprechende Häkchen bei den
+Kursen, für die Sie Änderungen hervorrufen möchten. Beachten Sie, dass eine Abwahl
+entsprechend Auswirkungen auf die Anzeige im weiteren Verlauf des Import -Assistenten
+hat. Beim Import von Lehrer-Kurszuordnungen können folgende Aktionen auftreten:
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+12
+
+ LEHRER-KURSZUORDNUNG NEU ANLEGEN: In der Import-Datei befindet sich eine LKZ,
+die in der LUSD nicht vorhanden ist. Die LKZ kann für den entsprechenden Kurs in
+die LUSD importiert werden.
+ LEHRER-KURSZUORDNUNG LÖSCHEN: In der Import-Datei wurde eine LKZ gelöscht, die
+in der LUSD vorhanden ist. Die LKZ kann für den entsprechenden Kurs in der LUSD
+gelöscht werden.
+ IMPORT NICHT MÖGLICH: Bitte beachten Sie die Hinweismeldung in der Spalte
+MELDUNG für Informationen weshalb der Import der Lehrer-Kurszuordnung nicht
+möglich ist.
+3. Klicken Sie auf die Schaltfläche WEITER, um auf die nächste Seite des ImportAssistenten zu gelangen.
+
+3.1.5 Import-Assistent Seite 5: Schüler-Kurszuordnungen
+Sie gelangen zur nächsten Seite, auf der die zum Import bereitstehenden SchülerKurszuordnungen aufgeführt sind.
+
+Abb. 10 Webseite Stundenplan 2.0 Import: Schüler-Kurszuordnungen
+
+1. Überprüfen Sie die Anzeige.
+2. Setzen Sie in den Kontrollkästchen der ersten Spalte entsprechende Häkchen bei den
+Kursen, für die Sie Änderungen hervorrufen möchten. Beachten Sie, dass eine Abwahl
+entsprechend Auswirkungen auf die Anzeige im weiteren Verlauf des Import Assistenten hat.
+Beim Import von Schüler-Kurszuordnungen können folgende Aktionen auftreten:
+ SCHÜLER-KURSZUORDNUNG NEU ANLEGEN: In der Import-Datei befindet sich eine SKZ,
+die in der LUSD nicht vorhanden ist. Die SKZ kann für den entsprechenden Kurs in
+die LUSD importiert werden.
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+13
+
+ SCHÜLER-KURSZUORDNUNG LÖSCHEN: In der Import-Datei wurde eine SKZ gelöscht,
+die in der LUSD vorhanden ist. Die SKZ kann für den entsprechenden Kurs in der
+LUSD gelöscht werden.
+ IMPORT NICHT MÖGLICH: Bitte beachten Sie die Hinweismeldung in der Spalte
+MELDUNG für Informationen weshalb der Import der Schüler-Kurszuordnung nicht
+möglich ist.
+3. Klicken Sie auf die Schaltfläche WEITER, um auf die nächste Seite des ImportAssistenten zu gelangen.
+
+3.1.6 Import-Assistent Seite 6: Betreuungsangebote
+Sie gelangen zur nächsten Seite, auf der zum Import bereitstehenden Betreuungsangebote
+aufgeführt sind.
+
+Abb. 11 Webseite Stundenplan 2.0 Import: Betreuungsangebote
+
+1. Überprüfen Sie die Anzeige.
+2. Setzen Sie in den Kontrollkästchen der ersten Spalte entsprechende Häkchen bei den
+Betreuungsangeboten, für die Sie Änderungen hervorrufen möchten. Beachten Sie,
+dass eine Abwahl entsprechend Auswirkungen auf die Anzeige im weiteren Verlauf des
+Import -Assistenten hat.
+Beim Import der Betreuungsangebote können folgende Aktionen auftreten:
+ IMPORT BETREUUNGSANGEBOT: In der Import-Datei befindet sich ein
+Betreuungsangebot mit veränderten Attributen. Das geänderte Betreuungsangebot
+kann in die LUSD importiert werden.
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+14
+
+ BETREUUNGSANGEBOT ANLEGEN: In der Import-Datei befindet sich ein
+Betreuungsangebot, das in der LUSD nicht vorhanden ist. Das Betreuungsangebot
+wird in die LUSD importiert.
+ IMPORT NICHT MÖGLICH: Bitte beachten Sie die Hinweismeldung in der Spalte MELDUNG
+für Informationen weshalb der Import des Betreuungsangebots nicht möglich ist.
+3. Klicken Sie auf die Schaltfläche WEITER, um auf die nächste Seite des Import-Assistenten
+zu gelangen.
+3.1.7 Import-Assistent Seite 7: Stundenplan
+Sie gelangen zur nächsten Seite, auf der die zum Import bereitstehenden Stundenpläne
+aufgeführt sind.
+
+Abb. 12 Webseite Stundenplan 2.0 Import: Stundenplan
+
+1. Beim Import der Stundenpläne können folgende Aktionen auftreten:
+ STUNDENPLAN NEU ANLEGEN: In der Import-Datei befindet sich ein Stundenplan, der in
+die LUSD importiert werden kann.
+ IMPORT NICHT MÖGLICH: Bitte beachten Sie die Hinweismeldung in der Spalte
+MELDUNG für Informationen weshalb der Import des Stundenplans nicht möglich ist.
+Hinweis
+Stundenpläne können über den Import nicht verändert werden. Der Import von
+Stundenplänen in LUSD überschreibt immer Ihren bisherigen Stundenplan.
+Stundenpläne können über den UV-Planungsassistenten in zukünftige
+Halbjahre/Schuljahre übernommen werden.
+2. Klicken Sie auf die Schaltfläche WEITER, um auf die nächste Seite des ImportAssistenten zu gelangen.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+15
+
+3.1.8 Import-Assistent Seite 8: Zusammenfassung
+Sie gelangen zur nächsten Seite auf der alle zu importierenden Änderungen
+zusammengefasst aufgeführt sind.
+
+Abb. 13 Webseite Stundenplan 2.0 Import – Zusammenfassung
+
+1. Klicken Sie auf die Schaltfläche IMPORTIEREN, um die Daten in die LUSD zu importieren.
+Hinweis
+Wenn Sie auf Importieren klicken, werden alle gesetzten Änderungen importiert
+und die UV/PV entsprechend aktualisiert.
+3.1.9 Import-Assistent Seite 9: Importbericht
+Sie gelangen zur nächsten Seite auf der alle importierten Änderungen aufgeführt sind.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+16
+
+Abb. 14 Webseite Stundenplan 2.0 Import: Importbericht
+
+Dieser Importbericht lässt sich durch Klicken auf das entsprechende Symbol im oberen
+rechten Bildbereich als PDF-Datei oder Excel-Datei exportieren.
+2. Klicken Sie auf die Schaltfläche SCHLIEßEN, um auf die Startseite der LUSD zurück zu
+gelangen.
+
+3.2
+
+Import in UV-Planungsassistenten
+1. Stellen Sie zunächst sicher, dass alle für die Planung relevanten Daten korrekt
+eingerichtet sind. Nutzen Sie ggf. die Anleitung zum Thema LUSD UV-Planung.
+2. Öffnen Sie die Website des UV-Planungsassistenten (SCHULE > ASSISTENTEN > UVPLANUNG) und wählen Sie eine Planungsvariante aus.
+3. Klicken Sie innerhalb Ihrer Planungsvariante solange auf WEITER, bis die Schaltfläche
+IMPORT 2.0 erscheint.
+4. Verfahren Sie ab hier weiter wie im Kapitel 3.1.1 beschrieben.
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+17
+
+4
+
+Anhang
+Datenkranz Stundenplanschnittstelle 2.0 LUSD Hessen
+
+Option
+
+Entität
+
+Sichtbares
+Oberflächenelement auf der
+LUSD Webseite
+
+Raum
+Stammdaten
+(Datenpflege erfolgt exklusiv in LUSD;
+
+Klasse
+
+Änderungen in externen Programmen
+können nicht zur LUSD importiert
+werden)
+
+Lehrer
+
+Schüler
+
+Attribute
+
+Muss in Exportdatei enthalten
+sein, falls die Entität enthalten
+ist
+
+Kürzel
+
+Kuerzel
+
+ja
+
+Bemerkung
+Plätze
+
+Bezeichnung
+Plaetze
+
+nein
+nein
+
+--Bezeichnung
+---
+
+KlassenUID
+KlassenName
+KlassenZusatz
+
+ja
+ja
+nein
+
+Klassenlehrer
+--SF/BK
+
+HauptlehrerID
+StufeSemesterBezeichnung
+UsfBkName
+
+ja
+ja
+ja
+
+Vertreter
+Raum
+
+NebenlehrerID
+RaumKuerzel
+
+nein
+nein
+
+---
+
+LehrerUID
+
+ja
+
+Schulinternes Kürzel
+Name
+
+LehrerKuerzel
+Nachname
+
+ja
+ja
+
+Vorname
+Geschlecht
+E-Mail
+
+Vorname
+GeschlechtKuerzel
+EmailAdresse
+
+ja
+ja
+nein
+
+Pflichtstunden
+Anrechnungen
+Abordnungen
+
+Sollstunden
+SummeAnrechnungen
+SummeAbordnungen
+
+ja
+ja
+ja
+
+--Nachname
+Vorname
+
+SchuelerUID
+Nachname
+Vorname
+
+ja
+ja
+ja
+
+Geboren am
+---
+
+Geburtsdatum
+KlassenUID
+
+ja
+nein
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+18
+
+Datenkranz Stundenplanschnittstelle 2.0 LUSD Hessen
+Option
+
+Entität
+
+Sichtbares
+Oberflächenelement auf der
+LUSD Webseite
+
+Attribute
+
+Muss in Exportdatei enthalten
+sein, falls die Entität enthalten
+ist
+
+---
+
+StufeSemesterBezeichnung
+
+ja
+
+--Geschlecht
+E-mail
+
+UsfBkName
+GeschlechtKuerzel
+EmailAdresseAnsprechpartner
+
+ja
+ja
+nein
+
+Fachkürzel
+Off. Kürzel
+
+FachKuerzel
+OffFachKuerzel
+
+ja
+ja
+
+Off. Bezeichnung
+
+OffFachbezeichnung
+
+ja
+
+Prozessdaten
+
+--Bezeichnung
+
+KursUID
+KursBezeichnung
+
+ja
+ja
+
+(Datenpflege erfolgt bidirektional bei
+
+Stundenanzahl
+Raum
+
+Stunden
+RaumKuerzel
+
+ja
+nein
+
+LUSD und Datenaustauschpartner;
+Änderungen in externen Programmen
+können zur LUSD importiert werden)
+
+Kursart
+Differenzierung
+Kursoption
+
+KursArtKuerzel
+KursDifferenzierungKuerzel
+KursOptionKuerzel
+
+ja
+nein
+nein
+
+--Kurs für
+Stufe
+
+OffFachKuerzel
+KlassenUID
+StufeSemesterBezeichnung
+
+ja
+ja
+ja
+
+Schulform
+???
+Modus
+
+UsfBkName
+KursKopplung
+FrequenzKuerzel
+
+ja
+nein
+nein
+
+--Thema
+---
+
+ThemaKuerzel
+ThemaBezeichnung
+AnzeigeThemaImZeugnis
+
+nein
+nein
+nein
+
+Epochal
+Sprache (nur bei BU)
+Extern
+
+IstEpochalerKurs
+FremdspracheBilingualFachKuerzel
+IstExternerKurs (ja/nein)
+
+nein
+nein
+nein
+
+---
+
+ExterneUID (optional nutzbar)
+
+nein
+
+(via Lehrerauswahl)
+
+LehrerUID
+
+ja
+
+Fach
+
+Kurs
+
+LehrerKursZuordnung
+
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+19
+
+Datenkranz Stundenplanschnittstelle 2.0 LUSD Hessen
+Option
+
+Entität
+
+Sichtbares
+Oberflächenelement auf der
+LUSD Webseite
+
+SchuelerKursZuordnung
+
+Betreuungsangebot
+
+KursPlan
+
+Attribute
+
+Muss in Exportdatei enthalten
+sein, falls die Entität enthalten
+ist
+
+(via Kursauswahl)
+
+KursUID
+
+ja
+
+--HL
+
+KursWochenStunden,
+IstHauptlehrer
+
+ja
+ja
+
+(via Schülerauswahl)
+(via Kursauswahl)
+Kursart
+
+SchuelerUID
+KursUID
+KursArtKuerzel
+
+ja
+ja
+nein
+
+Kursoption
+Kursdifferenzierung
+Kursstunden Schüler
+
+KursoptionKuerzel
+KursDifferenzierungKuerzel
+KursWochenStunden
+
+nein
+nein
+nein
+
+--Thema
+
+BetreuungsangebotUID
+ThemaKuerzel
+
+ja
+ja
+
+Lehrer
+Anz.Sch.
+Std/Wo
+
+LehrerUID
+SchuelerAnzahl
+Stunden
+
+nein
+ja
+ja
+
+Std/Lehrer
+Betreuungsart
+SF/BK
+
+LehrerStunden
+BetreuungsArtKuerzel
+UsfBkName
+
+nein
+ja
+ja
+
+St/Sem
+Anmerkung
+
+StufeSemesterBezeichnung
+Anmerkung
+
+ja
+nein
+
+---
+
+KursUID
+
+ja
+
+-------
+
+WochentagKuerzel
+Stunde
+FrequenzKuerzel
+
+ja
+ja
+ja
+
+---
+
+RaumKuerzel
+
+ja
+
+In der Spalte SICHTBARE OBERFLÄCHENELEMENTE finden sich die Bezeichnungen, die auf der jeweiligen Website für den Anwender sichtbar sind. „---“
+bedeutet dabei, dass das Attribut nicht sichtbar ist. Die Werte für diese Attribute werden von der LUSD automatisch ermittelt, entweder durch
+Berechnungen oder sie ergeben sich aus Katalogwerten.
+HMKB | LUSD | Information zur Stundenplanschnittstelle 2.0 (NEU) | Version: 2.0 | Letzter Stand: 19.03.2026
+
+20
+
+

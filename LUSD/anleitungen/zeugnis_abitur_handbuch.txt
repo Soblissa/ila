@@ -1,0 +1,1738 @@
+Hessisches Kultusministerium
+Referat IV.2
+E-Government-Verfahren und Geschäftsprozessanalyse
+
+LUSD-Handbuch für das Abitur
+
+Version: 2.0 – Stand: 14.06.2022
+
+Für die Schulformen AGYM, BGYM, GYM und KO
+
+© Copyright Hessisches Kultusministerium
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+7
+
+1
+
+Ergänzende Informationen .....................................................................................................................7
+
+2
+
+Beratung der Schüler ..............................................................................................................................7
+
+Voraussetzungen für die Anmeldung zum Abitur
+
+8
+
+3
+
+Halbjahre und Schulform ........................................................................................................................8
+
+4
+
+GO-Eintrittsdatum ...................................................................................................................................8
+
+5
+
+Fremdsprachen .......................................................................................................................................9
+
+6
+
+Nachträgliche Notenänderungen............................................................................................................9
+
+7
+
+Nachträgliche Abiturprüfungen / Korrektur von Abiturdaten ................................................................9
+
+8
+
+Terminübersicht Abitur .........................................................................................................................11
+
+9
+
+Häufige Anwenderfehler .......................................................................................................................11
+
+10
+
+Was Sie unbedingt in der LUSD pflegen müssen ..................................................................................11
+
+11
+
+Programmänderungen ..........................................................................................................................11
+
+Webseiten Abitur
+12
+
+12
+
+Einstiegsseite (Abschlüsse - Abitur) ......................................................................................................12
+12.1 Statussymbole Abitur..................................................................................................................13
+12.2 Schülerauswahl und Kursübersicht.............................................................................................13
+12.3 Schaltsymbole .............................................................................................................................14
+
+13
+
+Schritt 1: Auswahl der Halbjahre ..........................................................................................................15
+13.1 Abiturverordnung .......................................................................................................................15
+13.2 Abitur wird wiederholt ...............................................................................................................15
+13.3 Halbjahresauswahl ......................................................................................................................15
+13.4 Wiederholer ................................................................................................................................15
+13.5 Zurücksetzen des Abiturstatus auf gemeldet .............................................................................16
+
+14
+
+Schritt 2: Erfassung der Prüfungsfächer................................................................................................17
+14.1 LK-Prüfungsfächer 1 und 2 ..........................................................................................................17
+14.2 GK-Prüfungsfächer 3 - 5 ..............................................................................................................18
+14.3 Wahl der Prüfungsart und des Faches für das 5. Prüfungsfach ..................................................18
+14.4 Prüfung der Auswahl der Prüfungsfächer...................................................................................19
+14.5 Mögliche Probleme bei der Auswahl der Prüfungsfächer ..........................................................20
+14.5.1 Zurücksetzen des Abiturstatus .......................................................................................21
+14.5.2 Hinweise zur Prüfungsfachauswahl ................................................................................21
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+2 von 56
+
+14.6 Änderung des Abiturstatus .........................................................................................................22
+14.7 Berichte zu den Prüfungsfächern ...............................................................................................22
+14.8 Information über die definierten Prüfregeln ..............................................................................23
+15
+
+Schritt 3: Kontrolle Abiturmeldung - Kurswahl .....................................................................................23
+15.1 Kurswahl .....................................................................................................................................23
+15.2 Register Kurswahl .......................................................................................................................24
+15.2.1 Sportkurse mit Kursoption T ...........................................................................................24
+15.2.2 Änderung der Kurswahl ..................................................................................................25
+15.2.3 Besonderheit in AGYM....................................................................................................25
+15.2.4 Fehlermeldungen ............................................................................................................25
+15.3 Register Zulassung ......................................................................................................................26
+15.3.1 Nichtzulassung ................................................................................................................27
+15.3.2 Alle zulassen....................................................................................................................28
+15.3.3 Nachträgliche Notenänderungen ...................................................................................28
+15.3.4 Speichern der Zulassung und Statusänderung ...............................................................29
+
+16
+
+Schritt 4: Zulassung zu den Abiturprüfungen .......................................................................................30
+16.1 Register Kurswahl .......................................................................................................................30
+16.1.1 Hinweise zu den Optimierungs- und Prüfregeln.............................................................30
+16.1.2 Optimierungsregeln für die automatische Kursauswahl ................................................30
+16.1.3 Prüfregeln für die Auswahl einzubringender Kurse........................................................31
+16.2 Die automatische Kurswahl-Optimierung ..................................................................................32
+16.3 Register Zulassung ......................................................................................................................32
+16.3.1 Zulassung und Nichtzulassung ........................................................................................33
+16.3.2 Nachträgliche Änderungen .............................................................................................33
+
+17
+
+Schritt 5: Erfassung schriftlicher Ergebnisse .........................................................................................34
+17.1 Fachpraktische Prüfungsnoten in Sport......................................................................................35
+17.2 Prüfung der schriftlichen Ergebnisse ..........................................................................................35
+
+18
+
+Schritt 6: Zusätzliche mündliche Prüfungen .........................................................................................35
+18.1 Zusätzliche mündliche Prüfungen...............................................................................................36
+18.2 Nachprüfung ...............................................................................................................................36
+
+19
+
+Schritt 7: Abiturabschluss .....................................................................................................................37
+19.1 Fachpraktische Prüfungen ..........................................................................................................38
+19.2 Zusatzprüfungen und Nachprüfung ............................................................................................38
+19.3 Prüfung des Abiturabschlusses mit Hinweismeldungen.............................................................38
+19.4 Nachträgliche Änderungen .........................................................................................................40
+19.5 Zeugnis- und Abschlusszuweisung ..............................................................................................42
+
+20
+
+Vollenden der Prüfungen im nachfolgenden Halbjahr .........................................................................43
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+3 von 56
+
+21
+
+Zugeordnete Berichte / Abiturkontrollbögen .......................................................................................44
+21.1 Abiturienten ................................................................................................................................46
+21.2 Prüfer X. PF .................................................................................................................................46
+21.3 Kontrollbogen 1 (Erstmeldung)...................................................................................................47
+21.4 Prüfungsfächer............................................................................................................................48
+21.5 5. Prüfungsfach nicht mündlich ..................................................................................................48
+21.6 Zusätzliche mündliche Prüfungen...............................................................................................48
+21.7 Kontrollbogen 2 (Zulassung) .......................................................................................................49
+21.8 Kontrollbogen 3 (Schriftliche Ergebnisse) ...................................................................................50
+21.9 Abitur Zusatzinformationen........................................................................................................51
+21.10 Kontrollbogen 4 (Zeugnis)...........................................................................................................52
+21.11 Durchschnittsnoten ....................................................................................................................53
+21.12 Abiturnoten kursweise................................................................................................................54
+
+22
+
+Besonderheiten .....................................................................................................................................54
+22.1 Allgemein ....................................................................................................................................54
+22.2 BGYM ..........................................................................................................................................55
+22.3 AGYM / KO ..................................................................................................................................55
+22.4 Sport / Darstellendes Spiel .........................................................................................................55
+
+23
+
+Verantwortlichkeit für Korrektheit der Kursauswahl............................................................................55
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+4 von 56
+
+Abbildungsverzeichnis
+Abb. 1 Schüler - Qualifikationen - Fremdsprachen
+Abb. 2 Schule - Schulbasisdaten - Stufen/Semester
+Abb. 3 Übersichtsseite Abitur - Schüleranzeige mit Abiturstatuswerten
+Abb. 4 Statussymbole Abitur
+Abb. 5 Übersichtsseite Abitur mit Schüleranzeige
+Abb. 6 Übersichtsseite Abitur mit Kursanzeige eines markierten Schülers
+Abb. 7 Dialogfenster: Erstanmeldung
+Abb. 8 Dialogfenster: Erstanmeldung (Wiederholer)
+Abb. 9 Hinweismeldung: Fehler bei der Halbjahresauswahl
+Abb. 10 Übersichtsseite nach erfolgter Erstanmeldung
+Abb. 11 Dialogfenster: Prüfungsfächer
+Abb. 12 Hinweismeldung: Prüfungsfächer - Hinweis auf Fehler
+Abb. 13 Dialogfenster: Prüfungsfächer - Fehlerhinweis Prüfungsfachauswahl (Fehler)
+Abb. 14 Dialogfenster: Prüfungsfächer - Fehlerhinweis Prüfungsfachauswahl (Warnung)
+Abb. 15 Unterdialog: Prüfungsfächer - Zurücksetzen des Abiturstatus
+Abb. 16 Übersichtsseite nach Auswahl der Prüfungsfächer
+Abb. 17 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl
+Abb. 18 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl Kursoption T
+Abb. 19 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl: Fehlerhinweise
+Abb. 20 Dialogfenster: Kontrolle Abiturmeldung - nach erfolgter Zulassung
+Abb. 21 Dialogfenster: Kontrolle Abiturmeldung - Register Zulassung
+Abb. 22 Unterdialog: Kontrolle Abiturmeldung - Nichtzulassung
+Abb. 23 Dialogfenster: Kontrolle Abiturmeldung - Zulassung: Nichtzulassung
+Abb. 24 Unterdialog: Kontrolle Abiturmeldung - Kurswahl: Alle Zulassen
+Abb. 25 Übersichtsseite nach erfolgter Zulassung
+Abb. 26 Übersichtsseite nach erfolgter Nicht-Zulassung
+Abb. 27 Dialogfenster: Zulassung zu den Abiturprüfungen - Register Kurswahl mit Hinweismeldungen
+Abb. 28 Dialogfenster: Zulassung zu den Abiturprüfungen - Register Zulassung
+Abb. 29 Unterdialog: Zulassung zu den Abiturprüfungen - Nichtzulassung
+Abb. 30 Unterdialog: Zulassung zu den Abiturprüfungen - Hinweis auf Datenänderung
+Abb. 31 Dialogfenster Erfassung schriftlicher Ergebnisse - Hinweis auf unvollständige Noteneingabe
+Abb. 32 Dialogfenster: Erfassung schriftlicher Ergebnisse - Hinweismeldungen
+Abb. 33 Dialogfenster: Zusätzliche mündliche Prüfungen
+Abb. 34 Unterdialog: Zusätzliche mündliche Prüfungen / Nachprüfung: Hinweismeldung
+Abb. 35 Übersichtsseite nach Eintragung zusätzlicher mündlicher Prüfungen
+Abb. 36 Dialogfenster - Abiturabschluss
+Abb. 37 Dialogfenster: Abiturabschluss - mündliche Noten
+Abb. 38 Dialogfenster: Abiturabschluss - Hinweismeldung
+Abb. 39 Dialogfenster: Abiturabschluss - Hinweismeldung
+Abb. 40 Übersichtsseite nach bestandenem Abitur
+Abb. 41 Übersichtsseite nach nicht bestandenem Abitur
+Abb. 42 Hinweismeldung für geänderte Leistungsdaten
+Abb. 43 Zurücksetzung des Abiturstatus
+Abb. 44 Hinweismeldung für geänderte historische Leistungsdaten
+Abb. 45 Seite Qualifikationen mit Abschluss Abitur
+Abb. 46 Hinweismeldung auf vorhandenen Abschluss Abitur
+Abb. 46 Stufe Q4 dem 1. Halbjahr zuordnen
+Abb. 46 Zielstufe Q4 zuordnen
+Abb. 46 Schüler der Klasse Q4 zuordnen
+Abb. 47 Extras - Berichtsverwaltung: Abiturberichte
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+8
+10
+12
+13
+13
+14
+15
+16
+16
+17
+18
+19
+20
+20
+21
+22
+24
+25
+26
+26
+27
+27
+28
+28
+29
+30
+32
+33
+33
+34
+34
+35
+36
+37
+37
+38
+38
+39
+39
+40
+40
+41
+41
+42
+42
+43
+43
+44
+44
+45
+
+5 von 56
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten sind anonymisiert. Sollten sich dennoch
+Übereinstimmungen ergeben, sind diese zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und können in Inhalt und Schulform von den tatsächlich bei den Benutzern der LUSD verwendeten Daten
+abweichen.
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten gleichwohl für beide Geschlechter.
+Tipps & Tricks … z.B. Schülernavigation usw. (wg. Mehrfachnennung andererseits ist der Tipp wichtig)
+
+Symbole
+Besondere Information zur Programmbedienung
+Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Hinweis auf Einträge in der Aufgabenliste
+Tipp, wie die Arbeit erleichtert werden kann
+Hinweis auf die Online-Hilfe
+
+Typografische Konventionen
+Fettschrift
+
+Bezeichnung für Schaltflächen, Dialogfenster etc.
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+KAPITÄLCHEN
+
+Menü bzw. Menüpunkt und Pfadangabe
+
+Blau unterstrichen
+
+Link
+
+Blau hervorgehoben
+
+Bezeichnung von Bereichen und Tabellen
+
+Rot hervorgehoben
+
+Bezeichnung von Registern
+
+Grün hervorgehoben
+
+Kennzeichnung von Hinweisen
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+6 von 56
+
+Zu diesem Dokument
+1
+
+Ergänzende Informationen
+Direkte Informationen in der LUSD!
+
+Zu jeder Webseite und jedem Register in der LUSD gibt es die passende Hilfe.
+Klicken Sie hierzu auf die Schaltfläche
+
+2
+
+.
+
+Beratung der Schüler
+Wenn auch die LUSD Sie in der Abiturroutine unterstützt, ist es unumgänglich, die Abiturienten in
+jeder Phase umfassend und kontinuierlich zu beraten.
+Es müssen beispielsweise folgende Punkte im Blick behalten werden:
+
+
+
+
+
+Wechsel von künstlerischen Fächern  keine Prüfung möglich
+Abwahl von Kursen nach Q2  Einschränkung der Prüfungsfachauswahl
+Sport-GK ist Prüfungsfach  Fach muss dreistündig unterrichtet werden
+….
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+7 von 56
+
+Voraussetzungen für die Anmeldung zum Abitur
+3
+
+Halbjahre und Schulform
+Der Schüler ist aktuell in Q3 oder Q4 und es müssen die Daten für mindestens drei Halbjahre von
+Q1 - Q3 in der LUSD vorliegen. Das Halbjahr Q4 muss zur Auswahl das aktuelle Halbjahr sein. Es
+kann nicht auf ein vergangenes Q4-Halbjahr zugegriffen werden.
+ Bei einem Schulformwechsel innerhalb der Qualifikationsphase wird in einem nächtlichen Prüflauf dem Schüler die zutreffende Abitur-Verordnung für die Schulform zugewiesen, erst danach
+kann die Erstmeldung des Schülers zum Abitur vorgenommen werden.
+ Tritt ein Schüler erst in der Q3 oder Q4 als Neuaufnahme in die Schule bzw. in die LUSD ein, so
+sind die Abiturseiten nicht sofort bearbeitbar, es muss erst ein nächtlicher Prüflauf abgewartet
+werden, der dem Schüler anhand der Schulform die Abitur-Verordnung zuweist. Falls ein Schüler
+aus einem anderen Bundesland / Ausland kommt, müssen die Leistungen ab Q1 eingepflegt
+werden.
+
+4
+
+GO-Eintrittsdatum
+Das Datum „Eintritt in die GO“ auf der Webseite SCHÜLER>SCHULLAUFBAHN muss eingetragen sein.
+ Das Datum wird automatisch eingetragen, wenn ein Schüler in die E1 kommt. Bei Schülern, die
+erst in der Q-Phase in eine hessische Schule eintreten, muss es von Hand eingetragen werden.
+
+Abb. 1 Schüler - Qualifikationen - Fremdsprachen
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+8 von 56
+
+5
+
+Fremdsprachen
+Die Fremdspracheneinträge des Schülers müssen auf der Webseite SCHÜLER>QUALIFIKATIONEN korrekt
+eingetragen sein.
+ Insbesondere bei Schülern, die ein Halbjahr oder länger im Ausland waren und denen in dieser
+Zeit keine Kurse zugeteilt waren, muss hier nachgearbeitet werden, da für das Auslandsjahr keine Einträge fortgeführt werden und nach der Unterbrechung Neueinträge für die Fremdsprachen entstehen.
+ Beginn und Ende der Fremdsprachen sind für die korrekte Anwendung des Regelwerks sowie die
+korrekte Berechnung des GeR-Niveaus (Gemeinsamer europäischer Referenzrahmen) wichtig.
+ Es muss mindestens eine Fremdsprache mit Beginn ab 09/1 oder früher vorhanden sein.
+ In allen Schulformen muss in der Oberstufe der Haken bei „Nachweis der 2. Fremdsprache“ gesetzt werden, sobald eine 2. Fremdsprache bis zum Ende der Sek I durch Unterricht bereits abgedeckt ist. Das geschieht automatisch aufgrund einer Prüfung bei der Aktivierung von Kandidaten, die in die E1 kommen, muss ggf. aber überprüft werden. Ohne diesen Nachweis muss eine
+2. Fremdsprache von E1 bis Q4 4-stündig belegt und hier eingetragen sein.
+ Für AGYM/KO muss der Haken bei „Nachweis der 2. Fremdsprache“ gesetzt sein.
+ Abschlusszeugnisse weisen die Kompetenzstufen des Gemeinsamen europäischen Referenzrahmens (GeR) für Sprachen aus. Auf die lückenlose Eintragung ist gemäß Erlass des HKM vom
+21. Juli 2016 in der jeweils gültigen Fassung zu achten.
+
+TIPP:
+Einen Überblick berechneter GeR-Niveaus des aktuellen Halbjahres erhält man bei der kursweisen
+Leistungserfassung der modernen Fremdsprachen. Dort können bei Bedarf GeR-Niveaus korrigiert
+werden.
+
+6
+
+Nachträgliche Notenänderungen
+Bitte beachten Sie, dass Änderungen der Noten, Kursoptionen usw. nach der Durchführung von
+Abiturzulassungsschritten auf der Webseite richtig angezeigt werden, aber eine neue Zulassung zu
+den Abiturprüfungen nötig ist, um die Berechnungen der Punktsummen anzupassen. Dies gilt auch,
+falls testweise Noten eingetragen wurden.
+
+7
+
+Nachträgliche Abiturprüfungen / Korrektur von Abiturdaten
+Stellt sich während der Prüfungsphase heraus, dass ein Schüler erst im folgenden Halbjahr (nach
+dem 1.8.) seine Prüfungen absolvieren kann, sind folgende Schritte noch während der Q4, jedoch
+nach Abzug der Statistikdaten Anfang Juli, vorzunehmen:
+ Sämtliche Eintragungen für das Abitur vornehmen (angenommene Noten eintragen / Schüler
+bestehen lassen / Zeugniszuweisung).
+ Wenn die Ergebnisse der Nachprüfungen bekannt sind, kann auf der Webseite
+UNTERRICHT>LEISTUNGSERFASSUNG>HISTOR. LEISTUNGSDATEN der Abschluss bearbeitet und angepasst
+werden. (siehe hierzu das LUSD-Handbuch für die Oberstufe).
+ Nur die Prüfungsleistungen sind nachträglich änderbar, nicht die Prüfungsfächer, die Prüfungsart
+und die Kursauswahl der eingebrachten Kurse.
+ Diese Änderung der vorher eingetragenen Abiturdaten ist nachträglich sowohl für aktive wie für
+Schüler im Status ehemalig möglich, ehemalige Schüler werden dafür nicht neu aufgenommen
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+9 von 56
+
+und aktiviert. Reaktivieren Sie keine Schüler, bei denen nur die Abitur-Prüfungsnoten geändert werden
+müssen!
+
+Wurden gar keine Abiturdaten eingetragen und es muss im nachfolgenden 1. Halbjahr das Abitur
+durchgeführt werden, ist folgendermaßen zu verfahren:
+ Auf der Seite SCHULE>SCHULBASISDATEN>STUFEN/SEMESTER ist bei der Stufe Q4 auch das 1. Halbjahr
+anzuhaken.
+
+Abb. 2 Schule - Schulbasisdaten - Stufen/Semester
+
+ Für den betreffenden aktiven Schüler ist ein Stufenwechsel von der aktuellen Stufe in die Q4
+durchzuführen (UNTERRICHT>UV-BEARBEITUNG>STUFENWECHSEL).
+ Es muss eine Klasse für die Stufe Q4 eingerichtet und der Schüler dieser Klasse zugeordnet werden (UNTERRICHT>UV-BEARBEITUNG>KLASSENBILDUNG).
+ Es sind dem Schüler die Kurse zuzuordnen, die er für das Abitur in der Q4 benötigt. Dies können
+Kurse aus der Stufe Q3 sein, es müssen nicht eigene Kurse für die Q4 gebildet werden.
+ Es sind die Noten für die Q4-Kurse einzutragen (UNTERRICHT>LEISTUNGSERFASSUNG>SCHÜLER).
+ Jetzt kann der Schüler auf der Abiturseite in Stufe Q4 im ersten Halbjahr komplett durch das Abitur geführt und das Abiturzeugnis kann im 1. Halbjahr erstellt werden.
+Zur Änderung von Stammdaten von Ehemaligen (z.B. bei einer Namensänderung) für das Abiturzeugnis
+siehe das LUSD-Handbuch für die Oberstufe.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+10 von 56
+
+8
+
+Terminübersicht Abitur
+Entnehmen Sie die wichtigen Informationen zum Abitur dem Eventplan im Forum unter:
+https://www.lusd.hessen.de/forum/lusdanwenderunterstuetzung/schulformspezifisch/Lists/Schuleventplan%20Gesamtbersicht/AllItems.aspx
+
+9
+
+Häufige Anwenderfehler
+ Nach Notenänderung in Q4 keine erneute Zulassungsprüfung durchgeführt, deshalb falsche Berechnungen und falscher Zeugnisausdruck.
+ Fehler in den Fremdsprachenqualifikationen / GeR-Niveaus (doppelte Einträge, fehlender Haken
+Nachweis 2. Fremdsprache).
+ Keine Abitur-Prüferzuweisung möglich (Prüfer nicht der Fachgruppe zugeordnet).
+ Kurse werden in der UV-Planung nicht übernommen (fehlende Stundentafeleinträge).
+ Kurse sind in das neue Halbjahr nicht übernommen worden (Kursübernahme für die Stufe in der
+UV-Planung nicht angehakt).
+
+10
+
+Was Sie unbedingt in der LUSD pflegen müssen
+
+
+
+
+
+11
+
+Die Stundentafel für beide Halbjahre für alle Stufen inklusive der Themen in der Oberstufe
+Die Datenübernahme in der UV-Planung vor Beginn des neuen Halbjahres
+Die Stammdaten und Fremdspracheneinträge der Schüler vor dem Abitur
+Zeugniszuweisung und ggf. Abschlusszuweisung für Abgänger sowie deren Abgangsdaten.
+
+Programmänderungen
+Informationen über aktuelle Programmänderungen werden jeweils zu einem neuen LUSD-Release
+veröffentlicht, dies ist in der Regel im November/Dezember und in den Osterferien der Fall.
+Die aktuellen Änderungen finden sich im LUSD-Forum unter dem Register „Neuerungen“:
+https://moss-schule.intern.hessen.de/forum/lusdanwenderunterstuetzung/neuerungen/default.aspx
+Viel Erfolg beim Abitur mit der LUSD!
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+11 von 56
+
+Webseiten Abitur
+12
+
+Einstiegsseite (Abschlüsse - Abitur)
+Hier werden alle notwendigen Schritte für die Schulformen GYM, BGYM, AGYM und KO für das Abitur durchgeführt.
+Nach Betätigen des Schaltfläche
+unter „Alle Tutoren“ werden entsprechend der Auswahl
+des Status, der Jahrgangsstufe und des Tutors die zugehörigen Schülernamen angezeigt. Unter der
+Tabelle wird nach Auswahl der Schüler die Anzahl der ausgewählten Namen angezeigt.
+Mit dem ersten Klick auf das große S (Status) im Spaltenkopf wird aufsteigend nach Statuswerten
+sortiert. Dabei bleiben die Namen der Schüler pro Status alphabetisch sortiert.
+Wird das S (Status) ein weiteres Mal angeklickt, wird entsprechend der Statuswerte absteigend sortiert.
+Über die sieben Abitur-Schaltsymbole
+sind die Arbeitsschritte bis hin zum Abiturabschluss durchzuführen. Die Schaltsymbole sind erst aktiv, wenn ein Schülername angeklickt (blau
+hinterlegt) wurde. Weitere Schüler können durch Anhaken in die Auswahl übernommen werden.
+Im Schülerbereich können die Schüler der Stufen Q1 - Q4 angezeigt werden. Aber erst ab der Stufe
+Q3 ist die Erstanmeldung zum Abitur und die Auswahl der Prüfungsfächer für Schüler möglich. Vorher kann die Seite lediglich zur Leistungsübersicht für die Schüler genutzt werden.
+
+Abb. 3 Übersichtsseite Abitur - Schüleranzeige mit Abiturstatuswerten
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+12 von 56
+
+12.1
+
+Statussymbole Abitur
+Die Schüler sind mit einem Statussymbol gekennzeichnet, das ihren Status hinsichtlich des Abiturs
+darstellt. Folgend finden Sie die Tabelle mit den Statuswerten.
+
+Abb. 4 Statussymbole Abitur
+
+Abb. 5 Übersichtsseite Abitur mit Schüleranzeige
+
+12.2
+
+Schülerauswahl und Kursübersicht
+Durch Klick auf einen Schülernamen wird die Kursübersicht dieses Schülers angezeigt. Weitere
+Schüler können durch Anhaken ausgewählt werden.
+
+-
+
+Es werden die Kurse der Stufen E1-Q4 angezeigt.
+
+-
+
+Kursoptionen werden in der Kurs-Übersicht in Klammern hinter dem Fach angezeigt.
+
+-
+
+Geht man mit dem Mauszeiger auf eine Note, werden als Kurzinfo Kursinformationen (Kursbezeichnung, Lehrer, Kursstunden) angezeigt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+13 von 56
+
+-
+
+Arbeitsgemeinschaften und Wahlpflichtkurse werden nicht angezeigt, ebenso nicht Kurse des Faches TUT (Tutorenstunden).
+
+-
+
+Die vorgenommene Schüler-Auswahl wird in die Dialogfenster der Abiturroutine übernommen. Die
+Reihenfolge der Schüler erfolgt alphabetisch. Die Anzahl der Schüler hängt von ihrem Status und
+davon, welche Abiturschaltfläche angeklickt wurde, ab.
+
+Abb. 6 Übersichtsseite Abitur mit Kursanzeige eines markierten Schülers
+
+12.3
+
+Schaltsymbole
+Über die sieben Abitur-Schaltsymbole über der Kursanzeige gelangt man auf die Webseiten (Dialogfenster) für das Abitur:
+-
+
+Erstanmeldung
+
+-
+
+Prüfungsfächer
+
+-
+
+Kontrolle Abiturmeldung
+
+-
+
+Zulassung zu den Abiturprüfungen
+
+-
+
+Erfassung schriftlicher Ergebnisse
+
+-
+
+Zusätzliche mündliche Prüfungen
+
+-
+
+Abiturabschluss.
+
+Auswahl der Schaltsymbole für die Dialogfenster:
+Je nach Abiturstatus des Schülers, dessen Daten zu bearbeiten sind, stehen die weiteren Schaltsymbole zur Verfügung (aktiv) oder sind ausgegraut (inaktiv). Ab der 3. Schaltfläche (Kontrolle Abiturmeldung) steht die Funktionalität der Schaltsymbole erst in der Stufe Q4 zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+14 von 56
+
+13
+
+Schritt 1: Auswahl der Halbjahre
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+auf
+
+Innerhalb des Dialogfensters Erstanmeldung hat der Benutzer die Möglichkeit, die Erstanmeldung
+zum Abitur für einen Schüler mit Auswahl der Halbjahre vorzunehmen.
+Bedingung zur Anzeige des Dialogfensters ist mindestens der Besuch der Stufe Q3.
+
+Sofern die Schüler dem Status „Nicht gemeldet“ (rotes Symbol ) zugeordnet sind, wird der Status
+Erstanmeldung entweder durch den Anwender selbst über das 1. Schaltsymbol (frühestens in der
+Stufe Q3) oder - zu einem Zeitpunkt im Dezember - automatisch durch das Programm auf „Gemeldet“ gesetzt (gelbes Symbol ).
+
+Abb. 7 Dialogfenster: Erstanmeldung
+
+13.1
+
+Abiturverordnung
+Für den Schüler werden automatisch die VO für seine Schulform angezeigt und die entsprechenden
+Abiturregeln auf Basis der OAVO hinterlegt.
+Nach einem Schulformwechsel in der Oberstufe steht die zutreffende Abiturverordnung erst am
+nachfolgenden Tag zur Verfügung.
+In Beruflichen Gymnasien werden die Fachrichtungen mit jeweils eigenen Verordnungen unterschieden (BEIN, ERNÄ, GESO, WIRT, etc.).
+
+13.2
+
+Abitur wird wiederholt
+Der Haken im Kontrollkästchen „Abitur wird wiederholt“ dient lediglich der Information.
+
+13.3
+
+Halbjahresauswahl
+Bei der Halbjahresauswahl sind stets vier Halbjahre der Stufen Q1 - Q4 ausgewählt. Befindet sich
+der Schüler noch in der Q3, ist das Q4-Halbjahr bereits angehakt.
+
+13.4
+
+Wiederholer
+Bei einer Wiederholung wählt das System jeweils den 2. Durchgang der jeweiligen Stufen aus.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+15 von 56
+
+Abb. 8 Dialogfenster: Erstanmeldung (Wiederholer)
+
+Die von der LUSD vorgenommene Halbjahresauswahl kann durch den Anwender - unter Beachtung
+der Vorschriften - geändert werden, falls mehr als vier Halbjahre für die Stufen Q1 bis Q4 vorliegen.
+Es können bis zu acht Halbjahre angezeigt werden. Von Q4 kann aber nur der letzte Durchgang ausgewählt werden, sonst erscheint eine Fehlermeldung.
+
+Abb. 9 Hinweismeldung: Fehler bei der Halbjahresauswahl
+
+13.5
+
+Zurücksetzen des Abiturstatus auf gemeldet
+Ein Zurücksetzen in den Status „nicht gemeldet“ (rotes Symbol
+
+) ist nicht möglich.
+
+Jeder Status eines Schülers kann auf gemeldet zurückgesetzt werden, indem einer der Halbjahresauswahlhaken entfernt und wieder gesetzt wird.
+Bereits eingetragene Prüfungsfächer und ggf. vorhandenen Prüfungsleitungen werden durch das
+Zurücksetzen des Abiturstatus gelöscht.
+Dies ist nötig und wichtig für die Statistik, wenn ein Schüler z.B. ohne Meldung zum Abitur nach der
+Q3 abgeht oder nicht in die Q4, sondern in die Q2 wechselt, aber schon Prüfungsfächer eingetragen
+wurden.
+Änderungen in der Fächerbelegung der aktuellen UV und in den historischen Leistungsdaten (neues
+Fach einfügen, Fach löschen) führen automatisch zu einer Zurücksetzung des Abiturstatus in den
+Status „gemeldet“.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+16 von 56
+
+Abb. 10 Übersichtsseite nach erfolgter Erstanmeldung
+
+14
+
+Schritt 2: Erfassung der Prüfungsfächer
+Position der Schaltsymbole:
+
+14.1
+
+Statuswechsel: von
+
+auf
+
+LK-Prüfungsfächer 1 und 2
+Beim ersten Aufruf des Dialogfensters über das 2. Schaltsymbol werden in GYM und BGYM anhand
+der Leistungskurse des Schülers automatisch die ersten beiden LK-Prüfungsfächer sowie deren Prüfer (die Kurslehrer der Q3) vorbelegt. Liegen mehr als zwei Leistungskursfächer vor, sind hier die
+zwei auszuwählen, die für das Abitur als LK gewertet werden sollen.Dies erfolgt nicht bei Abendgymnasien (AGYM) und Kollegs (KO), da in diesen keine Leistungskurse existieren. Hier werden
+stattdessen Grundkurse mit mindestens vier Wochenstunden und einer Belegung von Q1 - Q4 als
+mögliche Prüfungsfächer 1 und 2 in der Auswahl angeboten. Diese können dann als LK ausgewählt
+werden.
+Die Reihenfolge von erstem und zweitem Prüfungsfach in der Anzeige ergibt sich für die Schulform
+GYM aus der GO-Fächersortierfolge für Q3, die in SCHULE > SCHULBASISDATEN > FÄCHERSORTIERFOLGE
+eingetragen ist. Die Zuordnung als 1. oder 2. LK ist für GYM aber beliebig und kann vom Benutzer
+geändert werden. Für das Berufliche Gymnasium (BGYM) wird die Reihenfolge anhand intern hinterlegter Regeln auf andere Art ermittelt: Der fachrichtungsspezifische LK ist hier immer das 2. Prüfungsfach. Für AGYM und KO ist die Reihenfolge vom Anwender festzulegen.
+Die automatisch ermittelten Prüfer sind die Kurslehrer der Q3. Sie können entsprechend der OAVO
+die Kurslehrer aber über die Auswahllisten ändern. Der Prüfer kann nicht ausgewählt werden, wenn
+er nicht in der entsprechenden Fachgruppe eingetragen ist. (Webseite:
+PERSONAL>PERSONALVERWALTUNG>FACHGRUPPEN)
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+17 von 56
+
+14.2
+
+GK-Prüfungsfächer 3 - 5
+
+Abb. 11 Dialogfenster: Prüfungsfächer
+
+Weitere Prüfungsfächer kann der Benutzer über die Auswahllisten auswählen.
+Ein Fach, das 3. LK ist, aber nicht als LK eingebracht wird, kann als Prüfungsfach im Grundkursbereich ausgewählt werden, die Kursart des Faches wird dafür nicht geändert. Kurse anderer Kursarten als G oder L (P, W, F, A) sind nicht als Prüfungsfächer wählbar.
+Als Prüfungsfächer werden nur solche Fächer in der Auswahlliste angeboten, die der Schüler von
+Q1 - Q4 belegt hat und in denen jeweils mehr als 00 Punkte erreicht wurden. Die Fächer TUT und DL (Deutsch-Literatur für BGYM) werden nicht als Prüfungsfach angeboten.
+Ein Prüfungsfach ist nur wählbar, wenn das Fach von Q1 - Q4 durchgehend in der gleichen Kursart
+(G oder L) belegt wurde.
+Ein Fach mit unterschiedlichen Kursoptionen in den Kurshalbjahren (z.B. bilingual und nicht bilingual) wird in der Notentabelle der Übersichtsseite in zwei Zeilen dargestellt, kann aber trotzdem als
+Prüfungsfach gewählt werden.
+Die GK-Prüfer können wie die LK-Prüfer ausgewählt werden. Prüfer externer Kurse an anderen hessischen Schulen werden hier ebenfalls angezeigt und können ausgewählt werden.
+
+14.3
+
+Wahl der Prüfungsart und des Faches für das 5. Prüfungsfach
+Abhängig von der jeweiligen Schulform bestehen unterschiedliche Möglichkeiten für die Wahl des
+5. Prüfungsfaches:
+AGYM/KO
+Hier ist das 5. Prüfungsfach immer eine Präsentation. Der Benutzer muss ein Fach auswählen und
+einen Prüfer bestimmen. Das 5. Prüfungsfach kann mit einem der Prüfungsfächer 1-3 identisch sein.
+Sport kann nicht 5. Prüfungsfach sein.
+GYM/BGYM
+Hier stehen die Prüfungsarten Besondere Lernleistung, Präsentation und mündl. Prüfung zur Verfügung. Die Vorbelegung ist mündliche Prüfung. Wird die Prüfungsart auf Präsentation oder mündl.
+Prüfung geändert, muss das Prüfungsfach neu ausgewählt werden.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+18 von 56
+
+Wird als Prüfungsart eine besondere Lernleistung ausgewählt, muss ein Aufgabenfeld und ein Prüfer entsprechend der OAVO festgelegt werden. Das Thema kann als freier Text, unabhängig vom aktuellen Abiturstatus, eingegeben und nachträglich verändert werden (maximale Textlänge z.Z.
+100 Zeichen).
+
+14.4
+
+Prüfung der Auswahl der Prüfungsfächer
+Hat der Anwender alle Eingaben getätigt, kann er über die Schaltfläche
+eine Prüfung der Prüfungsfächerwahl anstoßen. Nur wenn diese Prüfung erfolgreich verläuft, kann die Auswahl gespeichert werden. Danach kann man zur Kontrolle Abiturmeldung ( ) wechseln. Treten Fehler bei der
+Prüfung auf, werden diese über eine Hinweismeldung angezeigt und müssen vom Anwender behoben werden. Mit Klick auf die Schaltfläche
+wird die Auswahl geprüft und gespeichert.
+Dabei gibt es verschiedene Arten von Fehlern und Meldungen:
+1. Eingabefehler
+Hierzu zählen Fehler wie die mehrfache Auswahl eines Faches als Prüfungsfach, fehlende Auswahl
+oder fehlender Eintrag eines Themas für eine BLL. Auf solche Fehler wird in einem zusätzlichen
+Hinweisfenster hingewiesen. In AGYM und KO darf allerdings das 5. Prüfungsfach mit einem anderen identisch sein.
+
+Abb. 12 Hinweismeldung: Prüfungsfächer - Hinweis auf Fehler
+
+2. Regelfehler (rote Markierung)
+Hierzu zählen Fehler wie eine nicht zulässige Kombination von Prüfungsfächern.
+Die Meldungen, die sich aus der Überprüfung der Prüfungsfächerauswahl ergeben, werden im unteren Teil des Dialogfensters angezeigt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+19 von 56
+
+Abb. 13 Dialogfenster: Prüfungsfächer - Fehlerhinweis Prüfungsfachauswahl (Fehler)
+
+3. Warnungen (gelbe Markierung)
+Hierzu zählt z.B. eine fehlende Kursbelegung des Prüfungsfaches in E1/E2. Auf solche Unstimmigkeiten wird im unteren Bereich des Dialogfensters hingewiesen, sie verhindern aber nicht die Speicherung der Auswahl. Bei Warnungen hat der Benutzer selbst zu prüfen, ob die Prüfungsfachauswahl trotz der Warnung korrekt ist oder nicht.
+Die Prüfungsfachauswahl ist korrekt, wenn der Schüler E1/E2 im Ausland verbracht hat und die Kurse somit nicht belegen konnte.
+Es ist aber z.B. ein Fehler, wenn ein Fachwechsel nach der E1/E2 von Religion zu Ethik oder umgekehrt stattfand. Dann darf das Fach nicht als Prüfungsfach gewählt werden.
+
+Abb. 14 Dialogfenster: Prüfungsfächer - Fehlerhinweis Prüfungsfachauswahl (Warnung)
+
+Ist Sport 4. oder 5. Prüfungsfach, wird geprüft, ob es durchgängig von Q1-Q4 mit jeweils 3 Wochenstunden unterrichtet wurde, außer bei Sport als Besondere Lernleistung (BLL).
+
+14.5
+
+Mögliche Probleme bei der Auswahl der Prüfungsfächer
+Werden gar keine Prüfungsfächer zur Auswahl angeboten, liegen in der Regel Fehler in den Fremdsprachen-Qualifikationen des Schülers vor, z.B. doppelt belegte Fremdsprachen, keine fortgeführten Fremdsprachen aus der SEK I usw.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+20 von 56
+
+Wenn ein Prüfer geändert werden muss und kein weiterer Prüfer angeboten wird, liegt es an der
+fehlenden Zuordnung der Lehrer zu den jeweiligen Fachgruppen.
+
+14.5.1 Zurücksetzen des Abiturstatus
+
+Abb. 15 Unterdialog: Prüfungsfächer - Zurücksetzen des Abiturstatus
+
+Wird eine bereits gespeicherte Prüfungsfächerauswahl geändert, erhält der Anwender eine Hinweismeldung, ob die geänderte Prüfungsfächerauswahl übernommen werden soll oder nicht. Änderungen setzen den Status des Schülers auf zurück. Wenn der Anwender diese Nachfrage positiv mit
+bestätigt, so wird der Status nicht zurückgesetzt. Die geänderte Prüfungsfachauswahl
+wird nicht gespeichert.
+Wird eine bereits gespeicherte korrekte Prüfungsfachauswahl so verändert, dass sie fehlerhaft
+wird, kann sie nicht gespeichert werden und der ursprüngliche Abiturstatus bleibt erhalten.
+
+14.5.2 Hinweise zur Prüfungsfachauswahl
+Da die Auswahl der Prüfungsfächer schon in Q3 möglich ist und zu diesem Zeitpunkt noch keine aktive UV mit der Kursbelegung in Q4 existiert, erfolgt die Prüfung der Korrektheit der Prüfungsfächerauswahl in Q3 unter der Annahme, dass alle in Q3 belegten Fächer auch in Q4 belegt werden.
+Wird ein Kurs eines Prüfungsfaches nachträglich gelöscht, wird der Abiturstatus auf
+setzt.
+
+zurückge-
+
+Es können nur Prüfungsfächer aus den Kursarten G und L gewählt werden, die von Q1-Q3 (bei Auswahl in Q3) bzw. von Q1-Q4 (bei Auswahl in Q4) belegt worden sind. Kein Kurs darf mit 00 Punkten
+bewertet und keine Bemerkungsnoten vergeben worden sein. Erfolgt die Prüfungsfachauswahl in
+Q3, müssen noch keine Noten für Q3 vorliegen. Erfolgt die Auswahl in Q4, müssen für die Q3-Kurse
+Noten sowie aus Q4 die Kurse der Schüler vorliegen.
+Die Prüfungsfächerkombination wird nicht daraufhin überprüft, ob damit die Regeln für die Auswahl der 24 Grundkurse erfüllt werden können.
+Bei bestimmten PF-Kombinationen, vor allem im BGYM, kann auftreten, dass mehr als 24 GK eingebracht werden müssten. Dies tritt in der Regel dann im BGYM auf, wenn eine zweite Pflichtfremdsprache eingebracht werden muss und ein nicht einbringungspflichtiges Fach wie Religion als Prüfungsfach gewählt wird. Auf derartige Fehler wird erst bei der nachfolgenden Prüfung der Kursauswahl und der Festlegung der 24 Grundkurse hingewiesen. Die Prüfungsfachauswahl muss dann
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+21 von 56
+
+nachträglich geändert werden. Deshalb sollte die Prüfung der einzubringenden Kurse über das 3.
+Schaltsymbol unbedingt gleich zu Beginn der Q4 durchgeführt werden.
+Die Möglichkeit nach OAVO § 16 (1), bei Religion als Prüfungsfach Kurse einer anderen Konfession
+einzubringen, kann in der LUSD nicht abgebildet werden. Die 4 Kurse müssen von einem Fach sein,
+behelfsweise muss in solchen Fällen deshalb das Fach geändert werden.
+
+14.6
+
+Änderung des Abiturstatus
+Abiturstatus-Symbol:
+Die Statusanzeige beim Schüler (ein blauer Balken)
+fächer erfasst sind.
+
+zeigt an, dass die Prüfungs-
+
+Nach erfolgreicher Erfassung der Prüfungsfächer werden diese in der Kurs-Übersicht angezeigt.
+In der Seitennavigation ist ab der Stufe Q4 das 3. Schaltsymbol
+
+auswählbar.
+
+Mit der Auswahl der Prüfungsfächer gelten die Schüler in der Gesamtauswertung als zum Abitur
+angemeldet. Deshalb ist dieser Schritt für zurücktretende oder nach der Q3 abgehende Schüler
+rückgängig zu machen. Dies geschieht durch Zurücksetzen des Status „Erstanmeldung“ (siehe
+Schritt 1: Auswahl der Halbjahre).
+
+Abb. 16 Übersichtsseite nach Auswahl der Prüfungsfächer
+
+14.7
+
+Berichte zu den Prüfungsfächern
+Nach Festlegung der Prüfungsfächer stehen folgende Abitur-Berichte zur Verfügung:
+ Abiturienten (Namensliste mit den Prüfungsfächern, im Laufe der weiteren Bearbeitung wird
+dieser Bericht mit den Abiturleistungen gefüllt)
+ Prüfer X. PF
+ Abiturnoten kursweise (dieser Bericht kann leer ohne Noten auch gut zur Information der
+Prüfer über die Prüflinge genutzt werden)
+ Prüfungsfächer (steht erst in Q4 zur Verfügung)
+Der Bericht „Kontrollbogen 1 (Erstmeldung)“ steht noch nicht zur Verfügung, da er die Auswahl der
+24 Grundkurse voraussetzt, was erst ab Q4 möglich ist und mit dem 3. Schaltsymbol erfolgt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+22 von 56
+
+14.8
+
+Information über die definierten Prüfregeln
+Beim Verstoß gegen die Regeln tritt F = auf, ein Speichern ist nicht möglich, oder W =
+rechtliche Seite muss vor dem Speichern geprüft werden.
+
+, die
+
+Die Prüfung der Prüfungsfachauswahl beinhaltet folgende Prüfungen:
+- Entsprechen die PF 1 und 2 (LK) den vorgeschriebenen Fächergruppen? F
+- Decken die ersten 3 PF zwei Aufgabenfelder ab? F
+- Decken die 5 PF alle 3 Aufgabenfelder ab? F
+- Sind die vorgeschriebenen Prüfungsfächer (z.B. Deutsch) vorhanden? F
+- Wurde Sport als PF 4 oder PF 5 dreistündig belegt? F
+- Wurde das 3. PF in AGYM/KO dreistündig belegt? F
+- Waren die Prüfungsfächer in E1/E2 belegt? W
+- Wurde eine Fremdsprache als PF mindestens ab 09/1 belegt oder ab E1 mit 24 Wochenstunden belegt? (Nicht für AGYM/KO) F
+- Wurde ein Fach doppelt als PF ausgewählt? (Bei AGYM/KO zulässig) F
+- Ist in AGYM/KO der Haken „Nachweis der 2. Fremdsprache“ gesetzt? F
+- Wurde ein bilinguales Prüfungsfach seit der E1 durchgehend bilingual unterrichtet? W
+
+15
+
+Schritt 3: Kontrolle Abiturmeldung - Kurswahl
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+auf
+
+/
+
+Im Dialogfenster Kontrolle Abiturmeldung wird die Auswahl der einzubringenden Kurse im Abitur zu
+Beginn des Halbjahres Q4 vorgenommen und es wird die Prüfung der Zulassung zum Abitur anhand
+der vorherigen Kursauswahl durchgeführt.
+
+15.1
+
+Kurswahl
+Das erste Register Kurswahl ist in Prüfungsfächer (linke Seite) und sonstige Grundkurse (rechte Seite) aufgeteilt.
+Bei Erstaufruf eines Schülers sind alle Kurse optimiert. Ein erneutes
+Es empfiehlt sich,
+Schüler in den Status
+
+ist nicht nötig.
+
+zu verwenden. Dabei werden alle in der Schülerauswahl befindlichen
+oder gebracht.
+
+Für einzelne Schüler können in der rechten Tabelle Kurse ausgetauscht, die Änderungen über
+geprüft und anschließend über
+gespeichert werden.
+Nach dem Speichern wird das Register Zulassung angeboten, das das Ergebnis der Zulassungsprüfung und die Punktzahlen der Kurse Q1 - Q3 ausgibt.
+Bei der Prüfung auf Fehler (z.B. fehlende Kursverpflichtungen, Unterschreitungen der Punkteanzahl
+oder eine falsche Kursauswahl) werden die Verstöße im unteren Bereich angezeigt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+23 von 56
+
+15.2
+
+Register Kurswahl
+
+Abb. 17 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl
+
+In der Kurswahl-Übersicht werden alle Kurse der gewählten Halbjahre Q1 - Q4 aus den Kursarten G
+und L angezeigt, auch 00-Punkte-Kurse. Andere Kursarten (z.B. P- und TUT-Kurse) werden nicht angezeigt, weil sie nicht eingebracht werden können.
+Kurse der Q4 werden auf dieser Seite grundsätzlich mit 15 Punkten (rote Schrift) angezeigt, da mit
+der Kontrolle Abiturmeldung noch keine Q4-Noten vorliegen und das System die Zulassung unter
+den bestmöglichen Voraussetzungen prüft.
+Die für die Einbringung gewählten Kurse sind mit einem Haken in der Auswahl in Spalte R (Relevanz) gekennzeichnet. Außerdem werden die Leistungskurse mit
+(nicht bei AGYM/KO), die einzubringenden Kurse des 3. bis 5. Prüfungsfaches mit
+und die sonstigen ausgewählten Grundkurse mit gekennzeichnet.
+Im linken Bereich befinden sich die 20 Kurse der 5 Prüfungsfächer aus Q1 - Q4 (
+
+und
+
+).
+
+Beim Einbringen einer BLL in GYM/BGYM werden keine Kurse für das 5. Fach eingebracht.
+In allen Schulformen werden aus allen Prüfungsfächern je 4 Kurse eingebracht.
+Die Haken der Prüfungsfachkurse können vom Anwender nicht entfernt werden.
+Im rechten Bereich werden alle sonstigen Grundkurse aufgeführt. Die von der Optimierung ausgewählten Kurse (12 in GYM, BGYM und KO, 16 bei einer BLL, 8 in AGYM) sind mit gekennzeichnet,
+sonstige übrige Kurse, die nicht eingebracht werden, mit .
+
+15.2.1 Sportkurse mit Kursoption T
+Kurse mit Kursoption T = Sporttheorie dürfen gemäß OAVO nicht in die Abiturwertung eingebracht
+werden. Sie befinden sich im rechten oberen Bereich und sind nicht auswählbar.
+Das Fach Sport kann nicht als Prüfungsfach gewählt werden, wenn mindestens eines der Kurshalbjahre ein Sporttheoriekurs ist.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+24 von 56
+
+Abb. 18 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl Kursoption T
+
+15.2.2 Änderung der Kurswahl
+Der Anwender kann nun durch An- und Abhaken von Kursen in der Spalte R im rechten Bereich die
+vom System getroffene Auswahl verändern. Die Kennzeichnung der Kurse z.B. als bleibt dabei bis
+zur Speicherung erhalten, um die Abweichung von der optimierten Variante deutlich zu machen.
+Über
+
+wird nach vorgenommenen Änderungen die initiale Kurswahl wiederhergestellt.
+
+Über die Schaltfläche
+kann man eine selbst vorgenommene Änderung der Kursauswahl oder
+die automatisch vorgenommene Kursoptimierung überprüfen lassen. Beim
+wird die korrekte
+Kurswahl übernommen.
+15.2.3 Besonderheit in AGYM
+Im Abendgymnasium werden auf der linken Fensterseite die Kurse des 4. und des 5. Prüfungsfaches
+angezeigt. Abhängig von der besten Punktsumme der Kurse Q1 - Q4 werden laut OAVO die Kurse
+eines der beiden Fächer doppelt gerechnet. Die Auswahl kann vom Anwender nicht geändert werden.
+
+15.2.4 Fehlermeldungen
+Nach der Prüfung werden im unteren Fensterbereich Fehlermeldungen angezeigt, wenn die Kursauswahl nicht korrekt ist.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+25 von 56
+
+Abb. 19 Dialogfenster: Kontrolle Abiturmeldung - Kurswahl: Fehlerhinweise
+
+Rot markierte Fehler führen beim Speichern der Kurswahl zur Nichtzulassung. Gelb markierte Hinweise sind vom Anwender zu prüfen, verhindern aber nicht die Zulassung.
+Fehler können auch sofort nach der automatischen Optimierung auftreten, da bei der Prüfung der
+Kursauswahl auch Prüfregeln angewendet werden, die bei der vorherigen Optimierung nicht berücksichtigt werden können.
+Nur nach Behebung der Fehler bei der Kurswahl kann der Schüler wieder erfolgreich zugelassen
+werden.
+
+15.3
+
+Register Zulassung
+Bei erfolgreicher Meldung erscheint das Register mit den Ergebnissen.
+
+Abb. 20 Dialogfenster: Kontrolle Abiturmeldung - nach erfolgter Zulassung
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+26 von 56
+
+Abb. 21 Dialogfenster: Kontrolle Abiturmeldung - Register Zulassung
+
+Der Schüler erhält nach erfolgreicher Meldung auf der Übersichtsseite den Status „Kontrolle Abiturmeldung“ (2 blaue Balken ).
+15.3.1 Nichtzulassung
+Erfüllt der Schüler die Zulassungskriterien nicht, erscheint nach dem Speichern eine Hinweismeldung. Der Schüler erhält den Status „keine Zulassung zum Abitur“ (2 rote Balken ).
+
+Abb. 22 Unterdialog: Kontrolle Abiturmeldung - Nichtzulassung
+
+Auf dem Register Zulassung wird nun die Nichtzulassung des Schülers vermerkt.
+Die Nichtzulassung wird auf dem Kontrollbogen zum Abitur ausgedruckt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+27 von 56
+
+Abb. 23 Dialogfenster: Kontrolle Abiturmeldung - Zulassung: Nichtzulassung
+
+15.3.2 Alle zulassen
+Die Prüfung auf Zulassung zum Abitur ist sowohl für einen Einzelschüler als auch für mehrere Schüler gleichzeitig möglich. Über
+werden alle gewählten Schüler mit dem Abiturstatus zunächst optimiert, geprüft und dann gespeichert.
+Durch
+werden Schüler mit dem Status
+Status unverändert.
+
+oder
+
+nicht bearbeitet und bleiben in ihrem
+
+Abb. 24 Unterdialog: Kontrolle Abiturmeldung - Kurswahl: Alle Zulassen
+
+15.3.3 Nachträgliche Notenänderungen
+Werden in der historischen Leistungsbearbeitung oder im aktuellen Halbjahr nachträglich Noten
+oder Kursart oder Kursoption geändert oder Kurse neu eingefügt, muss die Kursauswahl neu aufgerufen und die Optimierung und Prüfung neu durchgeführt werden, um eine evtl. notwendige neue
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+28 von 56
+
+Kursauswahl vorzunehmen und um die Punktsummen neu zu berechnen. Eine Hinweismeldung erscheint aber im Falle einer Notenänderung auf den Seiten Unterricht > Leistungserfassung > Schüler, Unterricht > Leistungserfassung > Kurse und Unterricht > Leistungserfassung > Hist. Leistungsdaten, der auf diesen Umstand hinweist.
+Die vorgenommenen Notenänderungen werden automatisch in die Dialogfenster, in die Kontrollbögen und ins Zeugnis übernommen. Im Dialogfenster Kontrolle Abiturmeldung muss eine erneute
+Optimierung durchgeführt werden, um die Änderungen zu übernehmen. Fehler in den Kontrollbögen gehen in den allermeisten Fällen auf geänderte Noten ohne Neuberechnung zurück.
+15.3.4 Speichern der Zulassung und Statusänderung
+Bei der Einzelbearbeitung einer vorher getroffenen Schülerauswahl ist es erforderlich, bei jedem
+Schüler zu speichern, um dann über die Datensatznavigation
+zum nächsten Schüler
+zu wechseln, diesen zu speichern usw.
+Über die Schaltfläche
+werden alle getätigten Eingaben zuerst geprüft und dann gespeichert.
+Der Status wird auf „Kontrolle Abiturmeldung“ oder auf „keine Zulassung zum Abitur“ gesetzt.
+
+Abb. 25 Übersichtsseite nach erfolgter Zulassung
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+29 von 56
+
+Abb. 26 Übersichtsseite nach erfolgter Nicht-Zulassung
+
+Der Abiturstatus Kontrolle Abiturmeldung (zwei blaue Balken ) zeigt an, dass der Status aufgrund
+der Noten Q1 - Q3 und der Kursauswahl der Prüfungsfächer sowie der 24 Grundkurse erfolgt ist.
+Im unteren Teil der Kursansicht erhält der Anwender jetzt eine Anzeige des Punktestandes aller
+bisher erreichten Punkte (LK/GK) sowie die Gesamtpunktzahl.
+Der Abiturstatus keine Zulassung zum Abitur (zwei rote Balken ) zeigt an, dass selbst bei optimalem weiteren Verlauf das Abitur nicht mehr erreicht werden kann.
+Bei den Schaltsymbolen ist nun das 4. Symbol, Zulassung zu den Abiturprüfungen, auswählbar.
+
+Folgende Berichte stehen jetzt zur Verfügung:
+ „Kontrollbogen 1 (Meldung)“ mit der Kurs- und Leistungsübersicht Q1 - Q4 und dem Zulassungsvermerk für die Schüler,
+ „Prüfungsfächer“ mit einer zahlenmäßigen Übersicht der gewählten Prüfungsfächer,
+ „Prüfer X. PF“ mit einer Zusammenstellung der Prüflinge für einen Prüfer.
+
+16
+
+Schritt 4: Zulassung zu den Abiturprüfungen
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+auf
+
+/
+
+Wenn alle Noten des Halbjahres Q4 eingetragen wurden, kann im Dialogfenster Zulassung zu den
+Abiturprüfungen die endgültige Wahl der einzubringenden Grundkurse vorgenommen und die Zulassung zu den Abiturprüfungen geprüft werden.
+
+16.1
+
+Register Kurswahl
+
+16.1.1 Hinweise zu den Optimierungs- und Prüfregeln
+Beim Erstaufruf der Webseite wird vom System die weitgehend bestmögliche Grundkurs-Wahl getroffen und kann für den Schüler gespeichert werden. Bei der Option
+werden optimierte
+Einstellungen des Schülers nicht überschrieben.
+Grundsätzlich kann die Optimierung nicht in jedem Fall die beste Auswahl der Kurse finden, deshalb
+bleibt eine Kontrolle der Kursauswahl, auch durch die Abiturienten, unerlässlich.
+Ergänzende Hinweise siehe Kapitel 22 - Besonderheiten.
+16.1.2 Optimierungsregeln für die automatische Kursauswahl
+Folgende Regeln werden im Hintergrund angewendet und können nicht beeinflusst werden:
+- Einbringung der Kurse Q1 - Q4 der fünf Prüfungsfächer (GYM, BGYM).
+- Einbringung der Kurse Q1 - Q4 der fünf Prüfungsfächer, keine Kurse aus PF 5, wenn PF 5 identisch mit einem der PF 1 - 3 (AGYM, KO).
+- 4 Kurse der besten Fremdsprache, die mindestens in 09/1 begonnen wurde (GYM, BGYM).
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+30 von 56
+
+- 2 Kurse einer Fremdsprache ab E1 aus Q3 und Q4, wenn der Haken „Nachweis der 2. Fremdsprache“ nicht gesetzt ist (GYM, BGYM).
+- Einbringung von 2 - 4 Kursen aus Q1 - Q4 aus vorgeschriebenen Fächern. Für BGYM werden
+hier auch Ku, Mu, DSP, D-L oder definierte Ersatzfächer, wenn vorhanden, eingebracht.
+- Einbringung von 2 Kursen aus Q3 - Q4 (Geschichte für GYM, BGYM).
+- 2 Kurse einer 2. NaWi, 2. FS oder Informatik oder eines bilingualen Sachfaches (GYM).
+- Auffüllen mit den besten noch vorhandenen Kursen auf 24 Kurse (16 im AGYM).
+- Alle nicht angehakten Kurse werden zu Klammerkursen.
+
+16.1.3 Prüfregeln für die Auswahl einzubringender Kurse
+Nach der schülerspezifischen Wahl einzubringender Kurse wird mit folgenden Regeln geprüft:
+- Korrekte Anzahl der Grundkurse: 24 (16 im AGYM)
+- Insgesamt höchstens 6 Kurse mit Minderleistungen und davon maximal 2 LK (GYM, BGYM,
+KO)
+- Insgesamt höchstens 5 Kurse mit Minderleistungen und davon maximal 2 LK (AGYM)
+- Je 4 Kurse des 1. - 5. Prüfungsfaches (GYM, BGYM, KO), außer bei BLL
+- Maximal 3 Sportkurse, wenn Sport kein PF ist
+- Maximal 4 Kurse pro Fach (außer BGYM-spezifisches LK-Fach: maximal 1 Kurs)
+- Wird eine neu begonnene FS ab E1 eingebracht und der Haken „Nachweis der 2. FS“ ist nicht
+gesetzt, müssen die Kurse aus Q3 und Q4 eingebracht werden (GYM, BGYM).
+- Wird eine neu begonnene FS ab E1 eingebracht und der Haken „Nachweis der 2. FS“ ist gesetzt, muss ein Kurs aus Q3 oder Q4 eingebracht werden (GYM, BGYM).
+- Einbringung von 2 Kursen aus Q3 - Q4 (Geschichte für GYM, BGYM)
+- Keine belegverpflichtenden und einzubringenden Kurse mit 00 Punkten
+- Vorgeschriebene Anzahl von Kursen bestimmter Pflichtfächer / Fächergruppen / Aufgabenfelder
+- 4 Kurse einer aus der Mittelstufe fortgeführten FS (mindestens ab 09/1) (GYM, BGYM)
+- 2 Zusatzkurse einer 2. NaWi, 2. FS, Informatik oder eines bilingualen Faches (GYM, dabei darf
+die Sprache des bilingualen Kurses nicht identisch mit der einzigen fortgeführten FS sein)
+- Punktsummen im LK-Bereich (mindestens 80) und GK-Bereich (mindestens 120)
+- 2 Kurse Ku / Mu / DSP / D-L oder Ersatzfach (BGYM)
+- Kursbelegung nicht einbringungspflichtiger Kurse erfüllt in Q1 - Q4 (GYM: G, Rel/Eth, Spo;
+BGYM: G, Rel/Eth, PoWi/WiWi, Spo, fachrichtungsbezogene Grundkurse; AGYM/KO: G)
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+31 von 56
+
+16.2
+
+Die automatische Kurswahl-Optimierung
+Beim erstmaligen Aufruf der Seite werden die Kurse automatisch so ausgewählt, dass die bestmögliche Punktzahl der Grundkurse erreicht wird. Der Anwender hat aber die Möglichkeit, diese Auswahl händisch anzupassen.
+Die Optimierung kann jederzeit nochmals durch Betätigen der Schaltfläche
+werden und der Ausgangszustand wird wieder hergestellt.
+
+angestoßen
+
+Mit der Schaltfläche
+kann der Anwender die evtl. von ihm selbst vorgenommenen Änderungen in der Kursauswahl überprüfen lassen. Verläuft die Prüfung fehlerfrei, gilt der Schüler nach dem
+Speichern als zugelassen zu den Prüfungen.
+Ergeben sich bei der Prüfung Fehler in der Kursauswahl, werden diese unterhalb des Registers
+Kurswahl sowie eine unzureichende Punktzahl im Leistungs- oder Grundkursbereich angezeigt.
+
+Abb. 27 Dialogfenster: Zulassung zu den Abiturprüfungen - Register Kurswahl mit Hinweismeldungen
+
+Über die Schaltfläche
+werden alle Schüler, deren Namen zuvor angehakt wurden, optimiert und geprüft. Nach dem Speichern und Schließen des Dialogfensters erhalten sie den Abiturstatus „Zugelassen zu den Prüfungen“ (3 blaue Balken ) oder bei unzureichenden Leistungen
+„keine Zulassung zu den Prüfungen“ (3 rote Balken ). Bei Schülern, die einen dieser beiden Statuswerte schon besitzen, werden die Kurse bei Betätigen von
+nicht neu optimiert, um vorgenommene Änderungen nicht zu überschreiben.
+Wenn ein Schüler zwei Naturwissenschaften und / oder zwei Fremdsprachen bis Q4 belegt, muss
+die automatische Optimierung der LUSD überprüft werden. Zusätzlich sollen die Schüler darauf hingewiesen werden, den Kontrollbogen auf die optimal eingebrachten Kurse zu prüfen.
+
+16.3
+
+Register Zulassung
+Nach dem Speichern steht das zweite Register Zulassung mit einer Anzeige der erreichten Punktzahlen zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+32 von 56
+
+Abb. 28 Dialogfenster: Zulassung zu den Abiturprüfungen - Register Zulassung
+
+Abb. 29 Unterdialog: Zulassung zu den Abiturprüfungen - Nichtzulassung
+
+16.3.1 Zulassung und Nichtzulassung
+Bei erfolgreicher Zulassung erhält der Schüler den Abiturstatus „Zugelassen zu den Abiturprüfungen“ (3 blaue Balken ).
+Wird die Auswahl mit Fehlern gespeichert, erscheint bei Nichtzulassung eine Hinweismeldung. Auf
+dem Register Zulassung ist die Nichtzulassung vermerkt. Nach dem Schließen des Dialogfensters erhält der Schüler den Status „Keine Zulassung zu den Abiturprüfungen“ (3 rote Balken ).
+16.3.2 Nachträgliche Änderungen
+Vergleiche für nachträgliche Notenänderungen Abschnitt 15.3.3.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+33 von 56
+
+Die Schaltfläche
+wird bei bereits vorhandenem Abiturstatus „Zugelassen zu den Prüfungen“ erst wieder aktiv, wenn in der Kursauswahl eine Änderung (z.B. Entfernen und erneutes Setzen eines Auswahlhakens) vorgenommen oder wenn die Schaltfläche
+betätigt wurde.
+
+Abb. 30 Unterdialog: Zulassung zu den Abiturprüfungen - Hinweis auf Datenänderung
+
+17
+
+Schritt 5: Erfassung schriftlicher Ergebnisse
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+auf
+
+Im Dialogfenster Erfassung schriftlicher Ergebnisse ( ) werden die Ergebnisse der schriftlichen
+Abiturprüfungen eingetragen. Hier werden die vorher gewählten Prüfungsfächer des Schülers angezeigt.
+Auch bei unvollständiger Eintragung können die Ergebnisse gespeichert werden. Es erfolgt eine
+Hinweismeldung „ Schriftliche Prüfungsnoten noch nicht vollständig erfasst.“
+
+Abb. 31 Dialogfenster Erfassung schriftlicher Ergebnisse - Hinweis auf unvollständige Noteneingabe
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+34 von 56
+
+17.1
+
+Fachpraktische Prüfungsnoten in Sport
+Bei Sport als Leistungskurs muss die Note gemäß OAVO vom Nutzer berechnet und in die LUSD
+eingepflegt werden. Die Sportnote des Leistungskurses setzt sich zusammen aus der fachpraktischen Sportprüfung und der Note der schriftlichen Abiturprüfung.
+
+17.2
+
+Prüfung der schriftlichen Ergebnisse
+Über die Schaltfläche
+
+werden die Eingaben geprüft und gespeichert.
+
+Erst wenn alle Ergebnisse der schriftlichen Abiturprüfungen eingetragen sind, werden Hinweise für
+mögliche zusätzliche Prüfungen und fehlende Punkte ausgegeben.
+Vom System aus werden zusätzliche mündliche Prüfungen nicht automatisch eingetragen.
+
+Abb. 32 Dialogfenster: Erfassung schriftlicher Ergebnisse - Hinweismeldungen
+
+Mögliche Hinweismeldungen:
+Alle Hinweise gehen von mindestens 20 Punkten pro Prüfungsfach in vierfacher Wertung aus.
+- Wurde eine schriftliche Prüfung mit 00 Punkten bewertet, wird darauf hingewiesen, dass in
+diesem Fach eine mündliche Prüfung erforderlich ist.
+- Wurde die Bewertung eines LK und/oder GK mit weniger als 05 Punkten eingetragen, wird
+auf die Zahl der noch notwendigen Prüfungen mit mindestens 20 Punkten hingewiesen.
+- Liegt die bisher erreichte Gesamtpunktzahl im Abiturbereich unter 100 Punkten, wird auf die
+noch fehlenden Punkte hingewiesen.
+- Wurden in beiden schriftlichen LK-Prüfungen weniger als 05 Punkte eingetragen, wird jeweils
+auf die Notwendigkeit einer zusätzlichen mündlichen Prüfung hingewiesen. Weiterhin erfolgt
+ein Hinweis, wie viele Punkte in der Nachprüfung nötig sind, um 20 Punkte in vierfacher Wertung zu erreichen.
+
+18
+
+Schritt 6: Zusätzliche mündliche Prüfungen
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+auf
+
+Dieses Dialogfenster braucht nur für Schüler bearbeitet zu werden, für die eine mündliche Zusatzoder Nachprüfung angesetzt werden soll oder denen der Prüfungsausschuss Prüfungen vorschreibt
+oder anrät.
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+35 von 56
+
+Im Dialogfenster Zusätzliche mündliche Prüfungen können für die drei schriftlichen Prüfungsfächer
+mündliche Zusatzprüfungen angesetzt und Hinweise zu möglichen Prüfungen gegeben werden.
+Nach den mündlichen Prüfungen kann in diesem Dialogfenster auch für eine mündliche Prüfung eine Nachprüfung ausgewählt werden.
+
+18.1
+
+Zusätzliche mündliche Prüfungen
+Im Meldungsbereich des Dialogfensters werden die zuvor ausgegebenen Hinweise zu mündlichen
+Zusatzprüfungen angezeigt.
+Es ist für jede der drei schriftlichen Prüfungsfächer eine zusätzliche mündliche Prüfung aktivierbar.
+Die Aktivierung erfolgt durch Anhaken der Kontrollkästchen vor dem Prüfungsfach.
+Wenn das Eingabefeld Hinweise des Prüfungsausschusses gefüllt ist, werden diese Inhalte auf dem
+Kontrollbogen 3 ausgegeben.
+Wenn eine zusätzliche mündliche Prüfung angesetzt wurde und kein schulinternes Dokument für
+die Information der Prüflinge verwendet wird, muss diese im Eingabefeld Hinweise des Prüfungsausschusses aufgeführt werden.
+
+Abb. 33 Dialogfenster: Zusätzliche mündliche Prüfungen
+
+18.2
+
+Nachprüfung
+Auch die gemäß OAVO mögliche Nachprüfung, die bei 00 Punkten in einem der mündlichen Prüfungsfächer angesetzt werden kann, wird auf dieser Seite eingetragen.
+Es kann lediglich für ein mündliches Prüfungsfach eine Nachprüfung angesetzt werden.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+36 von 56
+
+Abb. 34 Unterdialog: Zusätzliche mündliche Prüfungen / Nachprüfung: Hinweismeldung
+
+Abb. 35 Übersichtsseite nach Eintragung zusätzlicher mündlicher Prüfungen
+
+Folgende Berichte stehen jetzt zusätzlich zur Verfügung:
+ „Kontrollbogen 3 (Schriftliche Ergebnisse)“ mit den zusätzlichen Prüfungen
+ „Zusätzliche mündliche Prüfungen“
+
+19
+
+Schritt 7: Abiturabschluss
+Position der Schaltsymbole:
+
+Statuswechsel: von
+
+/
+
+auf
+
+/
+
+Im Dialogfenster Abiturabschluss werden die Noten der mündlichen Prüfungen eingetragen. Dazu
+gehören die Noten der Präsentationsprüfung, der Besonderen Lernleistung, der zusätzlichen mündlichen Prüfungen sowie ggf. einer Nachprüfung.
+Die Ergebnisse der schriftlichen Prüfungen werden angezeigt, sind hier aber nicht änderbar.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+37 von 56
+
+Abb. 36 Dialogfenster - Abiturabschluss
+
+19.1
+
+Fachpraktische Prüfungen
+Ist Sport oder Darstellendes Spiel mündliches Prüfungsfach (4./5. PF), so wird hier nur eine vom
+Anwender zu berechnende Gesamtnote aus praktischer und mündlicher Prüfung unter Berücksichtigung der Sperrklauseln eingegeben.
+
+19.2
+
+Zusatzprüfungen und Nachprüfung
+Für mündliche Zusatzprüfungen erscheinen zusätzliche Eingabefelder hinter den Noten der schriftlichen Prüfungen. Die Berechnung des Prüfungsfach-Gesamtergebnisses erfolgt automatisch.
+Im Zeugnis werden bei einer Nachprüfung beide Noten im Bereich mündliche Ergebnisse ausgegeben.
+
+Abb. 37 Dialogfenster: Abiturabschluss - mündliche Noten
+
+19.3
+
+Prüfung des Abiturabschlusses mit Hinweismeldungen
+Sind nicht alle mündlichen Noten eingegeben, wird nach Klick auf
+ausgegeben.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+eine Hinweismeldung
+
+38 von 56
+
+Abb. 38 Dialogfenster: Abiturabschluss - Hinweismeldung
+
+Erst bei vollständig eingetragenen Noten werden beim Speichern die PrüfungsfachGesamtergebnisse und die Punkte im Abiturbereich berechnet. Wird das Abitur nicht bestanden,
+wird eine Hinweismeldung ausgegeben.
+
+Abb. 39 Dialogfenster: Abiturabschluss - Hinweismeldung
+
+Die Statusanzeige beim Schüler (vier grüne Balken
+Noten das Abitur erfolgreich bestanden ist.
+
+) zeigt an, dass nach Eingabe aller mündlichen
+
+Unterhalb der Kursnoten werden für einen markierten Schüler mit dem Status die erreichten
+Punkte (LK/GK/Abitur), die Gesamtpunktzahl und die Durchschnittsnote angezeigt.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+39 von 56
+
+Abb. 40 Übersichtsseite nach bestandenem Abitur
+
+Hat der Schüler das Abitur nicht bestanden, erhält er vier rote Balken
+die Durchschnittsnote nicht angegeben.
+
+. Bei Nichtbestehen wird
+
+Abb. 41 Übersichtsseite nach nicht bestandenem Abitur
+
+19.4
+
+Nachträgliche Änderungen
+Werden nachträglich Noten für Q1 - Q4 geändert, muss die Abiturzulassung ab Schritt Zulassung zu
+den Abiturprüfungen bis Abiturabschluss erneut durchgeführt werden. Werden nachträglich
+schriftliche Abiturnoten geändert, muss der Abiturabschluss erneut durchgeführt werden.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+40 von 56
+
+Abb. 42 Hinweismeldung für geänderte Leistungsdaten
+
+Abb. 43 Zurücksetzung des Abiturstatus
+
+Wird nach bestandenem Abitur in der historischen Leistungserfassung eine Kursnote vollständig
+entfernt, also der Kurs für den Schüler gelöscht, wird der Schüler automatisch auf den Abiturstatus
+„Halbjahre ausgewählt“ (gelbes Quadrat ) zurückgesetzt und alle eingetragenen Abiturergebnisse
+werden automatisch gelöscht.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+41 von 56
+
+Abb. 44 Hinweismeldung für geänderte historische Leistungsdaten
+
+Wenn nach dem Halbjahreswechsel oder für ehemalige Abiturienten Prüfungsergebnisse geändert
+werden müssen, wird der Schüler dafür nicht neu aktiviert, sondern diese Änderungen können in
+den historischen Leistungsdaten über die Schaltfläche
+erfolgen. Eine Aktivierung des Schülers im Halbjahr des Abschlusses in einer anderen Stufe löscht dagegen vorhandene Abiturergebnisse.
+
+19.5
+
+Zeugnis- und Abschlusszuweisung
+Das Bestehen des Abiturs führt automatisch zu einer Abschlusszuweisung für die Abiturienten, aber
+nicht zu einer Zeugniszuweisung.
+
+Abb. 45 Seite Qualifikationen mit Abschluss Abitur
+
+Da man das Abitur nicht zweimal ablegen darf, wird beim Bestehen des Abiturs jetzt auch geprüft,
+ob der Abschluss „Abitur“ beim Schüler bereits vorliegt. Ist dies der Fall, erfolgt eine Hinweismeldung, ob der vorhandene Abschluss überschrieben werden soll. Wird dies verneint, so wird der StaLUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+42 von 56
+
+tus des Schülers auch nicht auf „bestanden“ gesetzt. Anderenfalls wird ein ggf. bereits eingetragener Abschluss Abitur mit den neuen Daten überschrieben.
+
+Abb. 46 Hinweismeldung auf vorhandenen Abschluss Abitur
+
+Ein ggf. im gleichen Halbjahr an der gleichen Schule eingetragener anderer Abschluss wird ohne
+Meldung überschrieben, da nur ein Abschluss an einer Schule pro Halbjahr möglich ist.
+
+20
+
+Vollenden der Prüfungen im nachfolgenden Halbjahr
+Sollte ein Schüler den Prüfungsverlauf wegen Krankheit oder Gründen, die er nicht zu verantworten
+hat, unterbrechen und kann die Prüfungen erst im nachfolgenden Halbjahr vollenden, ist er mit unverändertem Abiturstatus als aktiver Schüler in das Folgehalbjahr zu übernehmen.
+Auf der Seite Schule > Schulbasisdaten > Stufen/Semester die Stufe Q4 dem ersten Halbjahr zuordnen.
+
+Abb. 47 Stufe Q4 dem 1. Halbjahr zuordnen
+
+Auf der Seite Unterricht > UV-Bearbeitung > Stufenwechsel dem Schüler, der beim Halbjahreswechsel seine Stufenzugehörigkeit verloren hat die Zielstufe Q4 zuordnen.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+43 von 56
+
+Abb. 48 Zielstufe Q4 zuordnen
+
+Auf der Seite Unterricht > UV-Bearbeitung > Klassenbildung 1. mit Klick auf die Schaltfläche Hinzufügen eine Q4-Klasse einrichten und 2. den Schüler, der beim Halbjahreswechsel seine Klassenzugehörigkeit verloren hat, der Klasse zuordnen.
+
+2.
+
+1.
+
+Abb. 49 Schüler der Klasse Q4 zuordnen
+
+Unter Unterricht > Abschlüsse > Abitur die üblichen Abiturroutinen fortsetzen und abschließen.
+
+21
+
+Zugeordnete Berichte / Abiturkontrollbögen
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+44 von 56
+
+Abb. 50 Extras - Berichtsverwaltung: Abiturberichte
+
+Unter Extras - Berichte - Unterricht - Abitur oder von den Abiturseiten aus über den Link rechts
+oben auf der Seite finden Sie folgende Berichte / Kontrollbögen (chronologische Reihenfolge des
+Abiturdurchlaufes):
+ Kontrollbogen 1 (Meldung) - Kontrollbogen zur Meldung mit Kursauswahl und ggf. Nichtzulassungsvermerk (schülerindividuell, erst in Q4 möglich)
+ Abiturienten - Schüler alphabethisch mit PF und - wenn vorhanden - Prüfungsleistungen
+ Prüfungsfächer (1./2.; 3.; 4.; 5.; 4./5.) - Kurse mit Anzahl der Prüflinge
+ Prüfer X. PF (1./2.; 3.; 4.; 5.; 4./5.) - Lehrer mit Anzahl und Namen der Prüflinge, lehrerweise auf
+Seiten aufgeteilt
+ 5. Prüfungsfach nicht mündlich - alphabetische Schülerliste der betreffenden Schüler
+ Kontrollbogen 2 (Zulassung) mit Kursauswahl und Zulassungsvermerk (schülerindividuell)
+ Zusätzliche mündliche Prüfungen - alphabetische Schülerliste der betreffenden Schüler
+ Kontrollbogen 3 (Schriftliche Ergebnisse) - Kontrollbogen mit den Ergebnissen der schriftlichen
+Prüfungen und optional den Hinweisen des Prüfungsausschusses für zusätzliche mündliche Prüfungen (schülerindividuell)
+ Kontrollbogen 4 (Zeugnis) - Kontrollbogen mit allen tagesaktuellen Ergebnissen (schülerindividuell)
+ Zusatzinformationen - alle Schüler alphabethisch mit Religionsbekenntnissen und Bemerkungen
+ Durchschnittsnoten - Berechnung der Ergebnisse und des Durchschnitts und der Durchschnittsnoten der letzten vier Jahre im Vergleich zum Landesdurchschnitt
+ Abiturnoten kursweise mit den schriftlichen und mündlichen Prüfungsnoten in kursweiser Ausgabe
+Die Berichte stehen in der Berichtsverwaltung zur Verfügung und sind auch von den AbiturWebseiten aus aufrufbar. Sie enthalten die jeweils zuletzt gespeicherten Eingaben.
+Werden die Berichte von den Abiturseiten aus aufgerufen, werden die dort ausgewählten Schüler
+nicht in die Berichtsauswahl übernommen.
+Die Berichte werden als PDF (ggf. im CSV-Format) angeboten.
+Achtung: Nach nachträglichen Änderungen sollten Sie ggf. die Berichte neu ausgeben.
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+45 von 56
+
+21.1
+
+Abiturienten
+Steht ab Q3 nach Auswahl der Prüfungsfächer zur Verfügung.
+
+21.2
+
+Prüfer X. PF
+Steht ab Q3 nach Auswahl der Prüfungsfächer zur Verfügung.
+
+Prüfer X. PF im CSV-Format
+Steht ab Q3 nach Auswahl der Prüfungsfächer zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+46 von 56
+
+21.3
+
+Kontrollbogen 1 (Erstmeldung)
+Steht in Q4 nach Auswahl der einzubringenden Kurse und der Meldung zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+47 von 56
+
+21.4
+
+Prüfungsfächer
+Steht in Q4 nach Auswahl der Prüfungsfächer zur Verfügung.
+
+21.5
+
+5. Prüfungsfach nicht mündlich
+Steht ab Q3 nach Auswahl der Prüfungsfächer zur Verfügung.
+
+21.6
+
+Zusätzliche mündliche Prüfungen
+Steht in Q4 nach Eintragung zusätzlicher mündlicher Prüfungen zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+48 von 56
+
+21.7
+
+Kontrollbogen 2 (Zulassung)
+Steht in Q4 nach Eingabe der Q4-Noten und der Zulassung zu den Abiturprüfungen zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+49 von 56
+
+21.8
+
+Kontrollbogen 3 (Schriftliche Ergebnisse)
+Steht in Q4 nach der Zulassung zu den Abiturprüfungen und der Eingabe der schriftlichen Ergebnisse zur Verfügung. Optional können Sie Hinweise des Prüfungsausschusses zu möglichen Zusatzprüfungen dem Prüfling mitteilen.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+50 von 56
+
+21.9
+
+Abitur Zusatzinformationen
+Steht in allen Halbjahren zur Verfügung.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+51 von 56
+
+21.10 Kontrollbogen 4 (Zeugnis)
+Steht in Q4 nach Eintragung sämtlicher mündlichen Noten und Berechnung der Gesamtqualifikation
+zur Verfügung, ist ohne mündliche Noten schon nach der Zulassung zu den Abiturprüfungen zur
+manuellen Berechnung nach Teilprüfungen ausdruckbar.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+52 von 56
+
+21.11 Durchschnittsnoten
+Steht in Q4 nach der Zulassung zu den Abiturprüfungen zur Verfügung, sollte aber sinnvoller Weise
+erst nach Beendigung des Abiturs abgerufen werden.
+Zusätzlich werden die Durchschnittsnoten der letzten vier Abiturjahrgänge im Vergleich zum Landesdurchschnitt ausgegeben.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+53 von 56
+
+21.12 Abiturnoten kursweise
+Steht in Q4 nach Eintragung der schriftlichen bzw. der mündlichen Noten zur Verfügung, kann auch
+leer ohne Noten zur Information der Prüfer über die Prüflinge genutzt werden.
+
+22
+
+Besonderheiten
+
+22.1
+
+Allgemein
+Es sollte regelmäßig zu Beginn jeden Halbjahres für die Jahrgänge der Oberstufe eine Belegungsprüfung durchgeführt werden. Die Zulassungsprüfung enthält zwar auch eine Belegungsprüfung für
+die belegpflichtigen, aber nicht einbringungspflichtigen Fächer, eine fehlende Belegung kann in der
+Q4 aber kaum noch korrigiert werden. Weiterhin können Fremdsprachenauffälligkeiten angepasst
+werden.
+In der Zulassungsprüfung wird nicht mehr darauf hingewiesen, ob die Prüfungsfächer in E1/E2
+nicht belegt waren, dies wird nur bei der Prüfung der Prüfungsfächer (2. Schaltsymbol ) angezeigt
+und muss vom Anwender beachtet werden (siehe hierzu die Hinweise zu Abschnitt 14.4).
+Von einem Fach, das pro Halbjahr doppelt belegt wurde, kann nur ein Kurs eingebracht werden.
+(Grundsätzlich maximal 4 Kurse pro Fach in GYM, AGYM und KO, nur im BGYM kann vom fachrich-
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+54 von 56
+
+tungsbezogenen LK auch ein GK eingebracht werden). Falls es sich bei diesem Fach um ein Prüfungsfach handelt, muss bei dem nicht einzubringenden Kurs die Kursart geändert werden.
+Tutorenkurse mit Fach TUT werden bei der Kursauswahl nicht angezeigt.
+Kurse mit Bemerkungsnoten (nicht numerischen Noten) werden in der Kursauswahl nicht angeboten.
+Die Eintragungen der Fremdsprachen auf der Seite Schüler>Schülerbasisdaten>Qualifikationen, Register Fremdsprachen müssen gepflegt sein (siehe Kapitel 5), ebenso ggf. der Haken für den Nachweis der 2. Fremdsprache in der Sek I. Sind hier Lücken in den Eintragungen und Doppeleinträge
+von Fremdsprachen vorhanden, z.B. wegen Auslandsaufenthalten, dann funktionieren die Regeln
+nicht korrekt. (Hinweise zu GeR vgl. Kapitel 5)
+
+22.2
+
+BGYM
+Im BGYM kann man zwei Kurse Deutsch-Literatur Kunst, Musik oder Darstellendes Spiel eingebringen.
+Kurse mit 00 Punkten werden bei der Kursoptimierung nicht herangezogen, aber angezeigt. Die
+Prüfung prüft dann, ob Kurse mit 00 Punkten vorhanden sind. Ist dies der Fall, wird der Schüler
+grundsätzlich nicht zum Abitur zugelassen. Dabei kann das System im BGYM derzeit nicht zwischen
+Pflichtkursen und zusätzlichen Kursen unterscheiden. Handelt es sich um einen zusätzlichen Kurs,
+bei dem die 00 Punkte die Zulassung zum Abitur nicht verhindern dürfen, ist folgende Vorgehensweise zu empfehlen: Die Note des Kurses wird in der historischen Leistungserfassung bzw. im aktuellen Halbjahr von 00 Punkten auf eine Bemerkungsnote, z.B. „T“ geändert. Diese Noten verhindern
+bei nicht einbringungspflichtigen Kursen nicht die Zulassung. Nach Bestehen des Abiturs wird vor
+dem Zeugnisdruck die Note zurück auf 00 Punkte geändert, dann erfolgt der Ausdruck korrekt.
+Im BGYM kann vom fachrichtungsbezogenen Leistungsfach auch ein ergänzender Grundkurs eingebracht werden. Die Einbringung von 5 Kursen dieses Faches ist möglich (4 LK, 1 GK). Es wird kein eigenes Fach für den Grundkurs angelegt und auch keine andere Kursoption zugeordnet.
+Im BGYM wird beim Fehlen von 2 Kursen im fachrichtungsspezifischen Grundkursfach nur ein
+Warnhinweis erzeugt. Damit wird der Regelung Rechnung getragen, dass Schüler mit beruflicher
+Vorerfahrung von der Einbringung dieser Kurse befreit werden können. Die Schulen müssen dann
+aber beachten, dass bei anderen Schülern ohne berufliche Vorerfahrung das Fehlen der Kurse zulassungsrelevant bleibt und der Hinweis nicht übergangen werden darf.
+
+22.3
+
+AGYM / KO
+Nach der Q2 muss der Schüler festlegen, welche Kurse er als LK-Kurse wählen möchte. Diese können dann in Schritt 2: Erfassung der Prüfungsfächer zugewiesen werden.
+
+22.4
+
+Sport / Darstellendes Spiel
+Die Prüfungsnote setzt sich aus der zuvor errechneten Gesamtnote (Theorie- und Praxisteil) zusammen.
+
+23
+
+Verantwortlichkeit für Korrektheit der Kursauswahl
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+55 von 56
+
+Es gilt generell, dass die Kursauswahl zu überprüfen und ggf. zu korrigieren ist.
+Das Programm deckt mit den hinterlegten Regeln den allergrößten Teil der möglichen Fälle korrekt
+ab. Die endgültige Verantwortung für die Korrektheit der Abiturzulassung liegt nach eingehender
+Beratung durch die Schule beim Schüler.
+
+LUSD-Handbuch Abitur
+Version 2.0 - Stand: 14.06.2022
+
+56 von 56
+
+

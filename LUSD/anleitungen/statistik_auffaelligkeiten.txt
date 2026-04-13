@@ -1,0 +1,1206 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Kann- und Muss-Auffälligkeiten
+Eine Auswahl wichtiger Aufgabenlisteneinträge
+
+Version: 1.0
+Letzter Stand: 20.11.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse ........................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+
+Kann und Muss-Auffälligkeiten in der LUSD
+
+6
+
+1
+
+Datenprüfung in der LUSD .................................................................................................... 6
+
+2
+
+LUSD-Berichte zu Kann- und Muss-Auffälligkeiten ............................................................... 6
+
+3
+
+LUSD - Kann- und Muss-Auffälligkeiten in der Aufgabenliste ................................................ 9
+
+4
+
+Die Muss-Auffälligkeiten ....................................................................................................... 9
+
+5
+
+4.1
+
+Eintrittsdatum nicht gefüllt (M)...................................................................................... 9
+
+4.2
+
+Offene Kandidatenverhältnisse (M) ............................................................................ 10
+
+4.3
+
+Schüler mit unwahrscheinlicher Stundenzahl (M)....................................................... 10
+
+4.4
+
+Schüler ohne Beruf (M) .............................................................................................. 11
+
+4.5
+
+Schüler ohne Betrieb (M) ........................................................................................... 11
+
+4.6
+
+Schüler ohne erste Staatsangehörigkeit (M) .............................................................. 11
+
+4.7
+
+Schüler ohne Familiensprache/Geburtsland (M) ........................................................ 11
+
+Die Kann-Auffälligkeiten ...................................................................................................... 12
+5.1
+
+Abweichung zwischen Stufe und Schulbesuchsjahr unplausibel (K) .......................... 12
+
+5.2
+
+Anzahl Schulbesuchsbefreiungen (K) ........................................................................ 12
+
+5.3
+
+Anzahl Wiederholer unplausibel (K) ........................................................................... 13
+
+5.4
+
+Berufsfeld des Berufes in Verbindung mit dem Berufsfeld
+der Schulform unplausibel (K) .................................................................................... 13
+
+5.5
+
+Fach des bilingualen Unterrichtes darf keine Sprache sein (K) .................................. 13
+
+5.6
+
+Geburtsdatum in Verbindung mit Stufe unplausibel (K) .............................................. 14
+
+5.7
+
+Keine genehmigte bilinguale Sprache (K) .................................................................. 14
+
+5.8
+
+Keine Schüler haben eine 3. Fremdsprache (K)......................................................... 14
+
+5.9
+
+Klassen mit Schülern aus mehreren Schulformen/Stufen (K) ..................................... 15
+
+5.10 Klasse ohne Schüler (K) ............................................................................................ 15
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+2
+
+5.11 Kurse mit NN-Lehrkräften (K)..................................................................................... 15
+5.12 Pflichtunterrichte in einem Fach unplausibel (K) ........................................................ 16
+5.13 Schüler hat Religionsunterricht trotz Abmeldung (K) .................................................. 16
+5.14 Schüler ohne Abmeldung und ohne Religionsunterricht (K) ....................................... 16
+5.15 Schüler ohne Teilnahme am Ethikunterricht oder Religionsunterricht (K) ................... 17
+5.16 Schüler ohne 1. Fremdsprache (K) ............................................................................ 17
+5.17 Schüler ohne 2. Fremdsprache (K) ............................................................................ 18
+5.18 Schulform/Stufeneinträge sind nicht plausibel in Verbindung mit der
+vorherigen Schule (K) ................................................................................................ 20
+5.19 Schulform/Stufe in der vorherigen Schule fehlt (K) ..................................................... 20
+5.20 Stufensprung größer als 1 (K) .................................................................................... 21
+5.21 Beruf-St/Sem-Kombination unplausibel (K) ................................................................ 21
+5.22 Überschreitung Unterrichtsstunden Lehrer (K) ........................................................... 22
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument zeigt Ihnen
+▪ wie Sie die Berichte und Aufgabenlisten-Einträge nutzen können,
+▪ was die Kann- und Muss-Meldungen bedeuten,
+▪ was Sie tun müssen, um die gefundenen Auffälligkeiten zu beheben.
+Es richtet sich an LUSD-Anwender, die die Qualität Ihrer LUSD-Daten überprüfen und bearbeiten
+möchten. Grundlegende Kenntnisse der LUSD werden vorausgesetzt und sind daher nicht weiter
+beschrieben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+5
+
+Kann und Muss-Auffälligkeiten in der LUSD
+1
+
+Datenprüfung in der LUSD
+In der LUSD sind ganzjährig – bis auf den Monat August – sogenannte Prüfroutinen
+aktiviert. Die bei diesen Prüfroutinen festgestellten Auffälligkeiten erscheinen als Kannund Muss-Auffälligkeiten in
+▪ den Berichten zur Statistik
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE – Statistik (siehe Kapitel 2)
+▪ der Aufgabenliste
+Webseite EXTRAS > AUFGABENLISTE (siehe Kapitel 3)
+Muss-Auffälligkeit
+Kann-Auffälligkeit
+
+Zeigt einen Fehler an, der bereinigt werden muss.
+▪ Kann auf einen Fehler hinweisen. Handelt es sich um einen
+Fehler, muss dieser behoben werden.
+▪ Kann eine Unklarheit oder schulspezifische Besonderheit sein, die
+begründet sein kann.
+▪ Ist häufig ein Hinweis auf unplausible Daten, die überprüft werden
+sollten.
+
+Hinweis
+Die Prüfungsroutinen werden täglich angestoßen und über Nacht ausgeführt.
+Datenänderungen in der LUSD wirken sich daher oft erst am nächsten Tag
+auf die Einträge in den Berichten und der Aufgabenliste aus.
+
+2
+
+LUSD-Berichte zu Kann- und Muss-Auffälligkeiten
+Auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE – Statistik – Aufgabenliste
+Auffälligkeiten können Sie sich die Auffälligkeiten in Form von Berichten im Excel- oder pdfFormat erstellen.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+6
+
+Abb. 1 Webseite Standartberichte: Aufgabenliste Auffälligkeiten
+
+Die Berichte …
+▪
+▪
+▪
+▪
+
+KLASSENBEZOGENE AUFFÄLLIGKEITEN
+KURSBEZOGENE AUFFÄLLIGKEITEN
+LEHRERBEZOGENE AUFFÄLLIGKEITEN
+SCHÜLERBEZOGENE AUFFÄLLIGKEITEN
+
+enthalten die jeweiligen, durch die nächtliche Prüfroutine gefundenen, Kann- und MussAuffälligkeiten.
+
+Abb. 2 Beispiel-Bericht im pdf-Format: Lehrerbezogene Auffälligkeiten
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+7
+
+Abb. 3 Beispiel-Bericht im pdf-Format: Schülerbezogene Auffälligkeiten (Auszug)
+
+Tipp
+Bericht im CSV (Excel)-Format :
+Wenn Sie z.B. den Bericht SCHÜLERBEZOGENE AUFFÄLLIGKEITEN als ExcelDatei ausgeben, können Sie die Liste beispielsweise nach Schüler sortieren,
+um festzustellen, welche Meldungen zu einem Schüler vorliegen.
+
+Abb. 4 Beispiel-Bericht im CSV-Format: Schülerbezogene Auffälligkeiten (Auszug)
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+8
+
+3
+
+LUSD - Kann- und Muss-Auffälligkeiten in der Aufgabenliste
+Kann- und Muss-Auffälligkeiten in der Aufgabenliste finden Sie auf der Webseite EXTRAS >
+AUFGABENLISTE in der jeweils betroffenen Regelgruppe.
+
+Abb. 5 Webseite Aufgabenliste
+
+Tipp
+Die Handhabung der Aufgabenliste beschreibt die Online-Hilfe. Klicken Sie
+hierfür in der Webseite AUFGABENLISTE auf die Schaltfläche
+
+4
+
+.
+
+Die Muss-Auffälligkeiten
+Eine Muss-Auffälligkeit zeigt einen Fehler an, der bereinigt werden muss.
+
+4.1
+
+Eintrittsdatum nicht gefüllt (M)
+
+Die Prüfung
+erfolgt:
+Erläuterung:
+
+für die Schulformen: E, FS und G
+▪ Schüler in der Schulform E benötigen ein Eintrittsdatum. Es entspricht
+dem Eintritt in die Eingangsstufe 00.
+▪ Schüler in der Schulform FS und G benötigen ein Eintrittsdatum, wenn
+sie im Vorjahr keine Schule oder eine Vorklasse besucht haben. Das
+Eintrittsdatum entspricht dem Eintritt in die Stufe 01.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+9
+
+▪ Für alle Schüler der Schulformen E, FS und G, bei denen als
+Schulform/Stufe des letzten Halbjahrs Nichts oder VG Stufe 00 oder
+FS/*/V Stufe 00 eingetragen ist, muss das Eintrittsdatum gesetzt
+werden.
+Lösung:
+
+4.2
+
+Tragen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULLAUFBAHN das korrekte Eintrittsdatum ein.
+
+Offene Kandidatenverhältnisse (M)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+"Offene" Kandidatenverhältnisse müssen bereinigt werden.
+Es werden alle Kandidaten mit dem Status ist Kandidat, angenommen
+oder auf Warteliste ausgegeben. Die Kandidatenstatus abgelehnt und
+desinteressiert werden nicht berücksichtigt.
+
+Lösung:
+
+Ändern Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN den Eintrag im Feld SCHÜLERSTATUS auf aktiv (ggf.
+vorher KANDIDATENVERHÄLTNIS auf angenommen setzen)
+oder
+setzen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN den Eintrag im Feld KANDIDATENVERHÄLTNIS auf abgelehnt
+oder desinteressiert.
+
+4.3
+
+Schüler mit unwahrscheinlicher Stundenzahl (M)
+
+Die Prüfung
+erfolgt:
+
+für die Allgemeinbildenden Schulformen ohne die Förderschulen.
+
+Erläuterung:
+
+Die Meldung erscheint für aktive Schüler, bei denen die Summe der
+Unterrichtsstunden größer als 45 ist oder die Summe der
+Unterrichtsstunden < 75 % der Gesamtstundenzahl eines Schülers aus der
+offiziellen Stundentafel ist.
+Die Prüfung berücksichtigt NICHT: Bildungs- und Betreuungsangebote
+sowie beurlaubte Schüler
+
+Lösung:
+
+Prüfen und korrigieren Sie bei Bedarf auf der Seite UNTERRICHT > UVBEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Stundenzahl.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+10
+
+4.4
+
+Schüler ohne Beruf (M)
+
+Die Prüfung
+erfolgt:
+
+für die Schulformen BST, BGJK, BFSB.
+
+Erläuterung:
+
+Ein aktiver Schüler dieser Schulformen muss einen Eintrag für den Beruf
+haben.
+
+Lösung:
+
+Pflegen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN den Beruf ein.
+
+4.5
+
+Schüler ohne Betrieb (M)
+
+Die Prüfung
+
+für die Schulformen BST, BGJK, BFSB.
+
+erfolgt:
+Erläuterung:
+
+Ein aktiver Schüler dieser Schulformen muss eine Zuordnung zu einem
+Betrieb haben.
+
+Lösung:
+
+Pflegen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+BETRIEBE/PRAKTIKA den Betrieb ein. Bei der Schulform BFSB ist die
+Schule selber der Ausbildungsbetrieb.
+
+4.6
+
+Schüler ohne erste Staatsangehörigkeit (M)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Jeder Schüler muss eine 1. Staatsangehörigkeit haben.
+
+Lösung:
+
+Tragen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN die Staatsangehörigkeit 1 ein. Für Staatenlose gibt
+es in der Auswahlliste den Wert staatenlos.
+
+4.7
+
+Schüler ohne Familiensprache/Geburtsland (M)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Ein aktiver Schüler der genannten Schulformen muss in den Feldern
+FAMILIENSPRACHE und GEBURTSLAND einen Eintrag haben.
+
+Lösung:
+
+Klicken Sie mit der Maus direkt auf die Meldung. Es öffnet sich die
+Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+11
+
+Tragen Sie die Daten für Familiensprache und/oder Geburtsland ein.
+
+5
+
+Die Kann-Auffälligkeiten
+Eine Kann-Auffälligkeit…
+▪ kann auf einen Fehler hinweisen. Ist es ein Fehler, muss dieser behoben werden.
+▪ kann eine Unklarheit oder schulspezifische Besonderheit sein, die begründet sein kann.
+▪ ist häufig ein Hinweis auf unplausible Daten, die überprüft werden sollten
+
+5.1
+
+Abweichung zwischen Stufe und Schulbesuchsjahr unplausibel (K)
+
+Die Prüfung
+erfolgt:
+
+für die Schulform FS unter Ausschluss von FS/KRA/*
+
+Erläuterung:
+
+Es wird geprüft, ob es eine Abweichung von mehr als drei Jahren
+zwischen der Anzahl Jahre, die der Schüler an einer Schule verbracht
+hat, und der Stufe des Schülers gibt (Alter des Schülers minus
+Schulbesuchsjahr ist > 7 oder < 4).
+Beurlaubungen werden nicht berücksichtigt.
+
+Lösung:
+
+5.2
+
+Bei tatsächlichen Fehlern bearbeiten Sie den Schüler auf der Webseite
+SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN oder UNTERRICHT >
+UV-BEARBEITUNG > STUFENWECHSEL.
+
+Anzahl Schulbesuchsbefreiungen (K)
+
+Die Prüfung
+erfolgt:
+
+für die Schulformen E und G.
+
+Erläuterung:
+
+Auf der Webseite SCHÜLER >SCHÜLERBASISDATEN > SCHULPFLICHT wird
+geprüft, ob und bei wie vielen Schülern im Bereich RUHEN DER
+SCHULPFLICHT ein Häkchen im Feld DAUERHAFT gesetzt ist.
+
+Lösung:
+
+Überprüfen Sie auf der Webseite SCHÜLER >SCHÜLERBASISDATEN >
+SCHULPFLICHT ob bei den genannten Schülern im Bereich RUHEN DER
+SCHULPFLICHT das Häkchen im Feld DAUERHAFT zu Recht gesetzt ist.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+12
+
+5.3
+
+Anzahl Wiederholer unplausibel (K)
+
+Die Prüfung
+erfolgt:
+
+auf Stufenebene für alle Schulformen außer den Beruflichen Schulen,
+Förderschulen und den Schulen für Erwachsene.
+
+Erläuterung:
+
+Die Prüfung berücksichtigt auch freiwillige Wiederholer.
+Ein Schüler ist ein Wiederholer,
+▪ wenn er in allgemeinbildenden Schulformen die gleiche Stufe besucht
+wie im Vorjahr.
+▪ wenn er die gleiche Stufe wie im Vorjahr, aber in einer anderen
+Schulform besucht.
+Hinweis
+Die Meldung erfolgt ab vier Wiederholern der Klasse.
+
+Lösung:
+
+Überprüfen Sie auf den Webseiten SCHÜLER > SCHULBASISDATEN >
+SCHULLAUFBAHN bzw. UNTERRICHT > LEISTUNGSERFASSUNG > HIST.
+LEISTUNGSDATEN, ob die Wiederholungen korrekt erfasst wurden.
+
+5.4 Berufsfeld des Berufes in Verbind. mit dem Berufsfeld der Schulform unplausibel (K)
+Die Prüfung
+erfolgt:
+
+für alle Beruflichen Schulformen.
+
+Erläuterung:
+
+Das Berufsfeld des Berufes muss zum Berufsfeld der Schulform des
+Schülers passen.
+
+Lösung:
+
+Überprüfen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN im Bereich BERUFE die aktuelle Berufszuordnung.
+
+5.5
+
+Fach des bilingualen Unterrichtes darf keine Sprache sein (K)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen außer für Berufliche Schulen und Förderschulen.
+
+Erläuterung:
+
+Das Fach des bilingualen Unterrichtes darf keine Sprache sein. Hierunter
+fällt auch Deutsch.
+
+Lösung:
+
+Wählen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG über die Kurssuche alle Kurse mit der Kursoption G
+(Gen. Bilingualer Unterricht) aus.
+Berichtigen Sie bei Bedarf das Fach der betroffenen Kurse.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+13
+
+5.6
+
+Geburtsdatum in Verbindung mit Stufe unplausibel (K)
+
+Die Prüfung
+erfolgt:
+
+für die Schulformen E, F, G, GYM, GYM8, H, IGS, MSS, MSPB, MSMB,
+PUSA, R und VG
+
+Erläuterung:
+
+Der Aufgabenlisteneintrag erscheint, wenn das Alter des Schülers minus
+Stufe < 3 oder > 8 ist
+
+Lösung:
+
+Bei tatsächlichem Fehler über die Webseite UNTERRICHT > UVBEARBEITUNG > STUFENWECHSEL die richtige Stufe des Schülers
+einstellen bzw. über die Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN das Geburtsdatum überprüfen.
+
+5.7
+
+Keine genehmigte bilinguale Sprache (K)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen außer den Beruflichen Schulen und den
+Förderschulen.
+
+Erläuterung:
+
+Als bilinguale Sprache dürfen in einem Kurs nur die Fächer Englisch,
+Italienisch oder Französisch eingetragen sein.
+
+Lösung:
+
+Wählen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG über die Kurssuche alle Kurse mit der Kursoption G
+(Gen. Bilingualer Unterricht) aus.
+Berichtigen Sie bei Bedarf das Fach der betroffenen Kurse.
+
+5.8
+
+Keine Schüler haben eine 3. Fremdsprache (K)
+
+Die Prüfung
+erfolgt:
+
+alle Schulformen außer den Grundschulen, Förderschulen und den
+Schulen für Erwachsene.
+
+Erläuterung:
+
+Ab Stufe 9 (GYM8 ab Stufe 8) kann in allen Allgemeinbildenden
+Schulformen - außer Förderschulen - eine 3. Fremdsprache gewählt
+werden.
+
+Lösung:
+
+Haben an Ihrer Schule Schüler eine 3. Fremdsprache belegt, ordnen Sie
+diese Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+SCHÜLER-KURSZUORDNUNG dem/den Fremdsprachenkurs/en zu.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+14
+
+5.9
+
+Klassen mit Schülern aus mehreren Schulformen/Stufen (K)
+
+Die Prüfung
+erfolgt:
+
+für alle Schulformen außer den Beruflichen Schulformen und den
+Förderschulformen.
+
+Erläuterung:
+
+Die aktiven Schüler in einer Klasse sollten aus nicht mehr als zwei
+verschiedenen Schulformen oder Stufen/Semestern stammen.
+
+Lösung:
+
+Bearbeiten Sie
+▪ die Klassen auf den Webseiten UNTERRICHT - UV-BEARBEITUNG >
+KLASSENBILDUNG oder KLASSENWECHSEL,
+▪ die Schüler auf den Webseiten SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG Reiter INTERNER SCHULFORMÜBERGANG oder
+Unterricht > UV-Bearbeitung > Stufenwechsel.
+
+5.10 Klasse ohne Schüler (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Eine Klasse sollte immer Schüler enthalten oder gelöscht werden.
+
+Lösung:
+
+Bearbeiten Sie die Klassen auf den Webseiten UNTERRICHT - UVBEARBEITUNG > KLASSENBILDUNG oder KLASSENWECHSEL.
+
+5.11 Kurse mit NN-Lehrkräften (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+NN-Lehrkräfte sind so genannte „Dummy“-Lehrkräfte, die von den
+Schulen im Rahmen der UV-Planung als Platzhalter verwendet werden
+können.
+Es sollte im aktuellen Halbjahr keinem Kurs eine NN-Lehrkraft
+zugeordnet sein. Die NN-Lehrkräfte müssen durch eine LUSD-Lehrkraft
+ersetzt werden.
+
+Lösung:
+
+Ordnen Sie auf der Webseite PERSONAL > PERSONALVERWALTUNG >
+PERSONALZUORDNUNG – Register NN-LEHRKRÄFTE die vorhandenen NNLehrkräfte einer Person aus dem Personalstamm zu.
+NN-Einträge in der aktuellen UV werden dann automatisch ersetzt.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+15
+
+Sollte die tatsächliche Lehrkraft noch nicht in der LUSD erfasst sein,
+muss diese zunächst über die Seite PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGEN erfasst werden.
+
+5.12 Pflichtunterrichte in einem Fach unplausibel (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen, außer den beruflichen Schulformen.
+
+Erläuterung:
+
+Es wird geprüft, ob aktive Schüler in einem Fach im aktuellen Schuljahr
+mehrere Kurse haben.
+
+Lösung:
+
+Es muss auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG geprüft werden, ob die Fach- und Kursart-Zuordnungen
+der Schüler den Verordnungen entsprechen und ob die Doppelbelegung
+eines Faches durch Schüler korrekt ist
+
+5.13 Schüler hat Religionsunterricht trotz Abmeldung (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen, außer den Schulformen G, E, VG, VLK und SFE
+(AH, AR, AGYM, KO) der beruflichen Schulformen.
+
+Erläuterung:
+
+Ein aktiver katholischer oder evangelischer Schüler, der vom
+Religionsunterricht abgemeldet ist, darf nicht am Unterricht zur eigenen
+Konfession teilnehmen
+
+Lösung:
+
+▪ Ist die Abmeldung falsch:
+Entfernen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+HALBJAHR/SEMESTERDATEN das Häkchen bei ABMELDUNG VOM
+RELIGIONSUNTERRICHT:
+▪ Ist der Schüler im falschen Kurs:
+Entfernen Sie den Schüler auf der Seite UNTERRICHT > UVBEARBEITUNG > SCHÜLER-KURSZUORDNUNG aus dem Religionskurs.
+
+5.14 Schüler ohne Abmeldung und ohne Religionsunterricht (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen, außer den Schulformen G, E, VG, VLK und SFE
+(AH, AR, AGYM, KO).
+
+Erläuterung:
+
+Schüler mit katholischer und evangelischer Religionszugehörigkeit, die
+nicht vom Religionsunterricht abgemeldet sind, müssen entweder am
+katholischen oder am evangelischen Religionsunterricht teilnehmen.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+16
+
+Lösung:
+
+▪ Ist die Abmeldung falsch:
+Setzen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+HALBJAHR/SEMESTERDATEN das Häkchen bei "Abmeldung vom
+Religionsunterricht".
+▪ Ist der Schüler in keinem Kurs bzw. im falschen Kurs:
+Entfernen Sie den Schüler auf der Seite UNTERRICHT > UVBEARBEITUNG > SCHÜLER-KURSZUORDNUNG ggf. aus dem falschen
+Religionskurs und setzen Sie ihn in den richtigen Religionskurs.
+
+5.15 Schüler ohne Teilnahme am Ethikunterricht oder Religionsunterricht (K)
+Die Prüfung
+erfolgt:
+
+Nur für folgende Schulformen: BGYM, F, GYM, H, IGS, R, FOSA, FOBV,
+FOBT, GYM8, FS, MSS, MSPB, MSMB, PUSA.
+
+Erläuterung:
+
+Der Schüler muss am Ethik- oder Religionsunterricht teilnehmen.
+
+Lösung:
+
+Ordnen Sie den Schüler auf der Seite UNTERRICHT > UV-BEARBEITUNG SCHÜLER-KURSZUORDNUNG einem Ethikkurs oder Religionskurs zu.
+
+5.16 Schüler ohne 1. Fremdsprache (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Bezogen auf die jeweilige Schulform wird die Fremdsprachenbelegung
+geprüft.
+
+Lösung:
+
+Schulform / Stufe
+
+Fremdsprachenpflicht
+
+Für die Stufen 3 bis 4
+
+eine Fremdsprache
+
+Für die Stufen 5 bis Q4
+
+eine Fremdsprache
+
+Für die Stufen 7 bis E2 in der Schulform
+GYM
+
+2 Fremdsprachen.
+
+Für die Stufen 7 bis 9 in GYM8
+
+2 Fremdsprachen
+
+Für die Förderschulformen FS/LER und
+FS/PRA
+
+Fremdsprache kein Muss.
+
+1. Prüfen Sie die Qualifikation des Schülers auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > QUALIFIKATIONEN.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+17
+
+2. Ordnen Sie den Schülern auf der Webseite UNTERRICHT - UVBEARBEITUNG - SCHÜLER-KURSZUORDNUNG den benötigten
+Fremdsprachenkurs zu.
+Der Fremdsprachen-Eintrag auf der Webseite QUALIFIKATIONEN erfolgt
+automatisch. Sie finden die gewünschten Schüler über die
+Expertensuche.
+
+5.17 Schüler ohne 2. Fremdsprache (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Bezogen auf die jeweilige Schulform wird die Fremdsprachenbelegung
+geprüft.
+
+Lösung:
+
+Schulform / Stufe
+
+Fremdsprachenpflicht
+
+Für die Stufen 3 bis 4
+
+eine Fremdsprache
+
+Für die Stufen 5 bis Q4
+
+eine Fremdsprache
+
+Für die Stufen 7 bis E2 in der Schulform
+GYM
+
+2 Fremdsprachen.
+
+Für die Stufen 7 bis 9 in GYM8
+
+2 Fremdsprachen
+
+Für die Förderschulformen FS/LER und
+FS/PRA
+
+Fremdsprache kein Muss.
+
+1. Prüfen Sie die Qualifikation des Schülers auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > QUALIFIKATIONEN.
+2. Ordnen Sie den Schülern auf der Webseite UNTERRICHT - UVBEARBEITUNG - SCHÜLER-KURSZUORDNUNG den benötigten
+Fremdsprachenkurs zu.
+Der Fremdsprachen-Eintrag auf der Webseite QUALIFIKATIONEN erfolgt
+automatisch.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+18
+
+Übersicht 1. + 2. Fremdsprache je Schulform
+Schulform
+FremdsprachenAllgemeinbildende Folge
+Schulen
+
+Grundschule
+
+1. Fremdsprache
+
+Förderstufe
+
+1. Fremdsprache
+
+Jahrgangsstufe
+3
+
+X
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 E1/E2 Q1/Q2 Q3/Q4
+
+X
+X X
+
+2. Fremdsprache
+Hauptschule
+
+1. Fremdsprache
+
+X X X X X X
+
+2. Fremdsprache
+Realschule
+
+1. Fremdsprache
+
+X X X X X X
+
+2. Fremdsprache
+Integrierte
+Gesamtschule
+
+1. Fremdsprache
+
+Gymnasium
+
+1. Fremdsprache
+
+X X X X X X
+
+X
+
+2. Fremdsprache
+
+X X X X
+
+X
+
+8-jähriges
+Gymnasium
+
+Förderschulen mit
+
+X X X X X X
+
+2. Fremdsprache
+
+1. Fremdsprache
+
+X X X X X
+
+X
+
+2. Fremdsprache
+
+X X X
+
+X
+
+1. Fremdsprache
+
+X
+
+X
+
+X
+
+X
+
+X X X X X X
+
+Realschulziel
+
+Schulform
+FremdsprachenBerufliche Schulen Folge
+
+Fremdsprache
+
+BGJK
+
+1. Fremdsprache
+
+Englisch
+
+BGJS
+
+1. Fremdsprache
+
+Englisch
+
+BFS1
+
+1. Fremdsprache
+
+Englisch
+
+BFS2
+
+1. Fremdsprache
+
+Englisch
+
+BFSM
+
+1. Fremdsprache
+
+Englisch
+
+2. Fremdsprache
+
+Französisch/Spanisch
+(nur bei Fachrichtung Fremdsprachensekretariat)
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+19
+
+BGAS
+
+1. Fremdsprache
+
+Englisch
+
+FS1T/FS1V
+
+1. Fremdsprache
+
+Englisch
+
+FS2T/FS2V
+
+1. Fremdsprache
+
+Englisch
+
+FOBT/FOBV/FOSA 1. Fremdsprache
+
+Englisch
+
+BGYM/BGSL
+
+Englisch
+
+1. Fremdsprache
+
+5.18 Schulform/Stufeneinträge sind nicht plausibel in Verbindung
+mit der vorherigen Schule (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen, außer für NDHS, G, E, VG und SfE, bei den
+Schülern, die im vorherigen Halbjahr nicht an ihrer aktuellen Schule aktiv
+waren.
+
+Erläuterung:
+
+Jeder aktive Schüler muss in der vorherigen Schule einer Schulform und
+Stufe/Semester zugeordnet gewesen sein.
+▪ Es wird geprüft, ob ein Stufensprung von mehr als einer Stufe erfolgt
+ist.
+▪ Innerhalb von Allgemeinbildenden und Beruflichen Schulen ist ein
+Stufensprung nur in die gleiche Stufe oder in die nächst höhere bzw.
+nächst niedrigere Stufe möglich.
+Die Reihenfolge der Stufen ist schulformübergreifend zu betrachten.
+Sobald ein Wechsel von einer Allgemeinbildenden an eine Berufliche
+Schule oder in anderer Richtung erfolgt, setzt die Regel aus.
+
+Lösung:
+
+▪ Ist die Schulform/Stufe falsch:
+Korrigieren Sie die Schulform/Stufe des Schülers.
+▪ Ist der Stufenwechsel > 1 korrekt:
+Sie können die Meldung ignorieren.
+
+5.19 Schulform/Stufe in der vorherigen Schule fehlt (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen, außer für NDHS, G, E, VG und SfE, bei den
+Schülern, die im vorherigen Halbjahr nicht an ihrer aktuellen Schule
+aktiv waren.
+
+Erläuterung:
+
+Jeder aktive Schüler muss in der vorherigen Schule einer Schulform und
+Stufe/Semester zugeordnet gewesen sein.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+20
+
+Lösung:
+
+Wenn es sich tatsächlich um einen Fehler handelt, bearbeiten Sie die
+Daten des Schülers auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULLAUFBAHN.
+
+5.20 Stufensprung größer als 1 (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen außer NDHS, VG, E, Förderschulen, G < Stufe 2 und
+SfE, bei den Schülern, die im vorherigen Halbjahr an ihrer aktuellen
+Schule aktiv waren.
+
+Erläuterung:
+
+Es wird geprüft, ob ein Stufensprung von mehr als einer Stufe erfolgt ist.
+▪ Innerhalb von Allgemeinbildenden und Beruflichen Schulen ist ein
+Stufensprung nur in die gleiche Stufe oder eins höher möglich.
+▪ Die Reihenfolge der Stufen ist schulformübergreifend zu betrachten.
+Sobald ein Wechsel von einer Allgemeinbildenden an eine Berufliche
+Schule oder in anderer Richtung erfolgt, setzt die Regel aus.
+▪ Der Stufensprung ist z.B. korrekt, wenn der Schüler ein Jahr
+überspringt.
+
+Lösungen:
+
+▪ Ist die Stufe falsch:
+Führen Sie auf der Webseite UNTERRICHT - UV-BEARBEITUNG >
+STUFENWECHSEL einen Stufenwechsel durch.
+▪ Ist der Stufenwechsel > 1 korrekt:
+Sie können die Meldung ignorieren.
+
+5.21 Beruf-St/Sem-Kombination unplausibel (K)
+Die Prüfung
+erfolgt:
+
+für die Schulformen BST – Berufsschule Teilzeit
+
+Erläuterung:
+
+Schüler mit einer nur dreijährigen Ausbildungsdauer sollten sich nicht in
+den Stufen 13/1 oder 13/2 befinden.
+
+Lösung:
+
+▪ Passen sie den Ausbildungs-Beruf des Schülers auf der Seite
+SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN an. Oder
+▪ Passen Sie die Stufe des Schülers an. Führen Sie GGf. einen
+Stufenwechsel auf der Seite UNTERRICHT > UV_PLANUNG >
+STUFENWECHSEL durch. Oder
+▪ Setzen Sie den Schüler auf ehemalig.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+21
+
+5.22 Überschreitung Unterrichtsstunden Lehrer (K)
+Die Prüfung
+erfolgt:
+
+für alle Schulformen.
+
+Erläuterung:
+
+Lehrer sollten nicht mehr als 40 Unterrichtsstunden unterrichten.
+
+Lösung:
+
+▪ Ermitteln Sie die betroffenen Lehrer z. B. auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > LEHRER-KURSZUORDNUNG.
+▪ Ändern Sie die Daten z. B. auf der Webseite UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG oder auf der Webseite UNTERRICHT
+> UV-BEARBEITUNG > LEHRER-KURSZUORDNUNG.
+
+HMKB | LUSD | Kann- und Muss-Auffälligkeiten | Version: 1.0 | Letzter Stand: 20.11.2025
+
+22
+
+

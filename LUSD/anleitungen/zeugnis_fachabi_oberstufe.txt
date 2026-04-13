@@ -1,0 +1,473 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Fachhochschulreife – Oberstufe
+Erstellen und bearbeiten von Varianten zum FHR-Abschluss in der LUSD
+
+Version: 2.0
+Letzter Stand: 15.10.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Fachhochschulreife-Oberstufe
+
+7
+
+1
+
+Navigation zur Webseite FHR-Oberstufe............................................................................... 7
+
+2
+
+Durchschnittsnote für den FHR-Abschluss berechnen .......................................................... 7
+2.1
+
+3
+
+4
+
+Kursarten und Leistungsdaten für Schüler auswählen und prüfen ................................ 7
+
+Mit Varianten zu FHR-Abschlüssen arbeiten ....................................................................... 11
+3.1
+
+Variante anlegen ........................................................................................................ 11
+
+3.2
+
+Variante kopieren ....................................................................................................... 11
+
+3.3
+
+Variante als Basis für FHR festlegen .......................................................................... 11
+
+3.4
+
+Variante löschen ........................................................................................................ 12
+
+3.5
+
+Auswirkung auf gespeicherte Varianten bei Änderung von Leistungsdaten ................ 12
+
+Besonderheiten ................................................................................................................... 13
+4.1
+
+FHR-Berechnung für ehemalige Schüler .................................................................... 13
+
+4.2
+
+Mehrere Halbjahre gleicher Stufe/Wiederholer ........................................................... 13
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Navigation: Leistungen > Abschlüsse > FHR-Oberstufe
+
+7
+
+Abb. 2 Webseite FHR-Oberstufe: Ausgewählte Schüler
+
+8
+
+Abb. 3 Webseite FHR-Oberstufe: Bearbeitbare Tabelle eines ausgewählten Schülers
+
+8
+
+Abb. 4 Webseite FHR-Oberstufe: Bearbeitete Tabelle eines ausgewählten Schülers
+
+9
+
+Abb. 5 Webseite FHR-Oberstufe: Ergebniss Prüfdurchlauf bei korrekter Auswahl
+
+10
+
+Abb. 6 Beispiel: Durchschnittsnote ohne einen Wert
+
+10
+
+Abb. 7 Beispiel: Ergebnis des Prüfdurchlaufs mit Korrekturhinweisen
+
+11
+
+Abb. 8 Webseite FHR-Oberstufe: Anzeige Variantenauswahl
+
+11
+
+Abb. 9 Hinweismeldung: Löschen der Variante
+
+12
+
+Abb. 10 Hinweismeldung: Ändern von Leistungsdaten
+
+12
+
+Abb. 11 Beispiel Q1: Mehrere Halbjahre gleicher Stufe/Wiederholer
+
+13
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Die Webseite UNTERRICHT > ABSCHLÜSSE > FHR-OBERSTUFE unterstützt Sie bei der
+Schullaufbahnberatung von Schülern in der gymnasialen Oberstufe.
+Das vorliegende Dokument beschreibt,
+▪ wie Sie für Schüler in der Qualifikationsphase auf Grundlage ihrer Leistungsdaten die
+Durchschnittsnote des schulischen Teils der Fachhochschulreife berechnen lassen und
+▪ wie Sie für Schüler Varianten für die Fächerbelegung anlegen und damit erkennen, welche
+Fächerkombination zum bestmöglichen Ergebnis führt.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die Schullaufbahnberatungen in der gymnasialen
+Oberstufe durchführen sowie an diejenigen, die FHR-Zeugnisse erstellen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+▪ Basiswissen zur LUSD
+▪ Wissen zur Bearbeitung von Schülerdaten in der LUSD
+▪ Wissen zur Bearbeitung von Schul- und Unterrichtsdaten in der LUSD
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+5
+
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+6
+
+Fachhochschulreife-Oberstufe
+1
+
+Navigation zur Webseite FHR-Oberstufe
+Die Webseite FHR-OBERSTUFE erreichen Sie über das Menü LEISTUNGEN > ABSCHLÜSSE
+(Abb. 1).
+
+Abb. 1 Webseite Navigation: Leistungen > Abschlüsse > FHR-Oberstufe
+
+2
+
+Durchschnittsnote für den FHR-Abschluss berechnen
+
+2.1
+
+Kursarten und Leistungsdaten für Schüler auswählen und prüfen
+1. Wählen Sie auf der Webseite FHR-Oberstufe die gewünschten Schüler aus (Abb. 2).
+Sie sehen die Leistungsdaten des ersten ausgewählten Schülers. Die Tabelle können
+Sie an dieser Stelle noch nicht bearbeiten.
+Tipp
+Haben Sie mehrere Schüler übernommen, können Sie zwischen den
+Schülern blättern oder einen Schüler gezielt auswählen.
+
+Hinweis
+Um die Ergebnisse für den Abschluss FHR-Oberstufe in der LUSD berechnen
+zu können, muss der Schüler mindestens zwei Halbjahre in der
+Qualifikationsphase verbracht haben und die Leistungsdaten müssen in der
+LUSD eingegeben sein.
+Soll am Ende der Q2 der Abschluss erteilt werden, müssen alle Leistungsdaten
+aus Q1 und Q2 in die LUSD eingegeben sein.
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+7
+
+Abb. 2 Webseite FHR-Oberstufe: Ausgewählte Schüler
+
+2. Klicken Sie auf die Schaltfläche
+des FHR-Abschlusses vorzubereiten.
+
+, um die Daten des Schülers zur Berechnung
+
+Das Aussehen der Tabelle verändert sich und sie ist nun bearbeitbar (Abb. 3).
+
+Abb. 3 Webseite FHR-Oberstufe: Bearbeitbare Tabelle eines ausgewählten Schülers
+
+3. Ändern Sie bei Bedarf die Einträge im Feld Kursart auf den gewünschten Wert LK oder
+GK.
+4. Klicken Sie auf die gewünschten Kursergebnisse, um die Leistungsdaten zur
+Berechnung des FHR-Abschlusses auszuwählen.
+Diese werden blau hervorgehoben (Abb. 4).
+5. Klicken Sie erneut auf ein Kursergebnis, um die blaue Hinterlegung wieder aufzuheben.
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+8
+
+Hinweis
+Verordnungskonform sind die 4 LKs und die 11 GKs auszuwählen.
+6. Klicken Sie auf die Schaltfläche
+rückgängig zu machen.
+
+, um alle vorgenommenen Änderungen
+
+Abb. 4 Webseite FHR-Oberstufe: Bearbeitete Tabelle eines ausgewählten Schülers
+
+7. Klicken Sie auf die Schaltfläche
+
+, um Ihre Auswahl zu prüfen.
+
+Im Kapitel 2.1.1 und Fehler! Verweisquelle konnte nicht gefunden werden. sind die
+möglichen Ergebnisse des Prüfdurchlaufs aufgeführt.
+8. Klicken Sie auf die Schaltfläche
+abzuspeichern.
+
+, um das Prüfergebnis als Variante
+
+Die gespeicherte Variante kann nicht mehr bearbeitet werden.
+2.1.1 Ergebnisse eines Prüfdurchlaufs bei korrekter Auswahl
+Wurden die Kurse gemäß der Verordnung korrekt ausgewählt,
+▪ erscheinen die berechneten Punkte und die Durchschnittsnote,
+▪ erscheint im Bereich Ergebnisse des Prüfdurchlaufs die Meldung: Keine Einträge zur
+Anzeige vorhanden,
+▪ ist die Schaltfläche
+
+aktiv und Sie können das Prüfergebnis als Variante
+
+abspeichern. Die gespeicherte Variante kann nicht mehr bearbeitet werden.
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+9
+
+Abb. 5 Webseite FHR-Oberstufe: Ergebniss Prüfdurchlauf bei korrekter Auswahl
+
+Hinweis
+Die Schaltfläche
+wird auch dann aktiv, wenn die Summe der Punkte
+in einem der Bereiche nicht ausreicht.
+Das Feld DURCHSCHNITTSNOTE enthält dann keinen Wert, da der Abschluss
+FHR-Oberstufe nicht erreicht wurde und daher kein Zeugnis ausgestellt
+werden kann.
+
+Abb. 6 Beispiel: Durchschnittsnote ohne einen Wert
+
+Diese Variante kann dennoch gespeichert und beispielsweise im nächsten
+Halbjahr zur Information genutzt werden.
+Weitere Informationen zur Arbeit mit Varianten finden Sie in Kapitel 3.
+2.1.2 Ergebnisse eines Prüfdurchlaufs mit Korrekturhinweisen
+Wurden bei der Prüfung Abweichungen von der Verordnung festgestellt,
+▪ erscheinen keine berechneten Punkte und keine Durchschnittsnote,
+▪ erscheinen im Bereich Ergebnisse des Prüfdurchlaufs Hinweise zur Korrektur der
+Kursauswahl (Fehler! Verweisquelle konnte nicht gefunden werden.),
+▪ ist die Schaltfläche
+
+inaktiv.
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+10
+
+Abb. 7 Beispiel: Ergebnis des Prüfdurchlaufs mit Korrekturhinweisen
+
+3
+
+Mit Varianten zu FHR-Abschlüssen arbeiten
+
+3.1
+
+Variante anlegen
+Möchten Sie für einen Schüler eine weitere Variante zum FHR-Abschluss anlegen,
+wiederholen Sie für diesen Schüler die Schritte in Kapitel 2.1.
+Unterhalb der Tabelle sehen Sie, wie viele Varianten Sie für diesen Schüler gespeichert
+haben und in welcher Variante Sie sich gerade befinden.
+
+Abb. 8 Webseite FHR-Oberstufe: Anzeige Variantenauswahl
+
+3.2
+
+Variante kopieren
+Möchten Sie eine bereits bestehende Variante als Ausgangspunkt für eine neue Variante
+nutzen, können Sie Varianten kopieren.
+1. Wählen Sie über die Pfeile
+2. Klicken Sie auf die Schaltfläche
+
+die gewünschte Variante für die Kopie aus.
+.
+
+Eine neue Variante wird nun aus der bereits bestehenden Variante generiert.
+Sie können diese Variante nun bearbeiten und speichern (siehe Kapitel 2.1).
+
+3.3
+
+Variante als Basis für FHR festlegen
+1. Wählen Sie mit den Pfeilen
+Variante festlegen wollen.
+
+die gewünschte Variante aus, die Sie zur FHR-
+
+Hinweis
+Es kann nur eine Variante für einen Schüler als die „Für FHR ausgewählte
+Variante“ festgelegt werden.
+2. Klicken Sie auf
+, um die Variante mit dem Hinweis „Für FHR ausgewählte
+Variante“ zu kennzeichnen.
+Die Schaltfläche
+Schaltfläche
+
+wird inaktiv. Bei mehreren Varianten erkennen Sie an der
+/
+
+, welche Variante Sie für den Zeugnisdruck ausgewählt haben.
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+11
+
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Danach wird die Schaltfläche
+
+aktiv.
+
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Dialogfenster ABGANGSZEUGNISOPTIONEN können Sie die Daten für den Besuch der
+Einführungs- und Qualifikationsphase des Schülers einsehen und ggf. ändern. Für das
+Abgangszeugnis können Sie sich Stufen/Semester anzeigen lassen und ggf. ändern.
+5. Klicken Sie auf die Schaltfläche
+
+, um Änderungen zu speichern.
+
+6. Wiederholen Sie die Schritte 1 bis 3, um eine andere Variante als festgelegte FHRVariante zu wählen.
+
+3.4
+
+Variante löschen
+1. Wählen Sie mit den Pfeilen
+wollen.
+
+die gewünschte Variante aus, die Sie löschen
+
+2. Klicken Sie auf die Schaltfläche
+
+.
+
+3. Klicken Sie in der Meldung auf die Schaltfläche
+
+.
+
+Die Variante wird endgültig gelöscht.
+
+Abb. 9 Hinweismeldung: Löschen der Variante
+
+3.5
+
+Auswirkung auf gespeicherte Varianten bei Änderung von Leistungsdaten
+Achtung
+Eine berechnete und gespeicherte Variante zum FHR-Abschluss basiert auf
+einer Auswahl von bestimmten Leistungsdaten.
+Nachträgliche Änderungen an diesen Leistungsdaten führen dazu, dass diese
+Variante/Varianten mit dem Hinweis automatisch gelöscht wird/werden.
+
+Abb. 10 Hinweismeldung: Ändern von Leistungsdaten
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+12
+
+4
+
+Besonderheiten
+
+4.1
+
+FHR-Berechnung für ehemalige Schüler
+Gehen Sie auf die Webseite SCHÜLER > SCHÜLERSTAMMDATEN und suchen den
+ehemaligen Schüler.
+Wechseln Sie zur Webseite UNTERRICHT > ABSCHLÜSSE > FHR-OBERSTUFE.
+Führen Sie die FHR-Berechnung gemäß der Schritte in Kapitel 2.1 durch.
+
+4.2
+
+Mehrere Halbjahre gleicher Stufe/Wiederholer
+Wird ein Halbjahr, z. B. Q1, wiederholt und krankheitsbedingt können in der wiederholten
+Q1 keine Noten vergeben werden, müssen diese Noten gelöscht werden (-). Jetzt kann das
+1. Halbjahr Q1 für die Berechnung der FHR herangezogen werden und die wiederholte Q1
+wird nicht berücksichtigt.
+
+Abb. 11 Beispiel Q1: Mehrere Halbjahre gleicher Stufe/Wiederholer
+
+HMKB | LUSD | Fachhochschulreife – Oberstufe | Version: 2.0 | Letzter Stand: 15.10.2025
+
+13
+
+

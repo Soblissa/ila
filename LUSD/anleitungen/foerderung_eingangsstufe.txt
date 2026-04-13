@@ -1,0 +1,536 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Eingangsstufe pflegen
+Abbilden der Eingangsstufe (E) in der LUSD
+
+Version: 1.0
+Letzter Stand: 02.06.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ........................................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 5
+
+Die Eingangsstufe in der LUSD abbilden
+
+7
+
+1
+
+Schulbasisdaten vorbereiten ................................................................................................. 7
+
+2
+
+Zieldaten für die Kinder der Eingangsstufe eintragen ............................................................ 8
+
+3
+
+Klassen und Kurse für die Eingangsstufe einrichten ............................................................. 8
+
+4
+
+3.1
+
+Klassen für die Schulform E einrichten und die Kinder der Klasse zuweisen ............... 9
+
+3.2
+
+Kurse für die Schulform E einrichten ............................................................................ 9
+
+3.3
+
+Kinder den Kursen der Schulform E zuordnen ........................................................... 10
+
+Sprachförderung von fünfjährigen Schülern mit geringen oder keinen Deutschkenntnissen
+(insb. Seiteneinsteiger) ....................................................................................................... 11
+4.1
+
+Vorgehen beim regulären Besuch des Vorlaufkurses ................................................ 11
+
+4.2
+
+Vorgehen bei Einschulung in die Eingangsstufe ........................................................ 11
+
+5
+
+Schülerdaten zum Ende der Eingangsstufe pflegen ............................................................ 13
+
+6
+
+Übersicht – Kandidatenverhältnis und Schülerstatus eines Schülers .................................. 14
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulformen: Eingangsstufe (E) als schulbezogene Schulform hinzufügen ......... 7
+Abb. 2 Webseite Stufen/Semester: Eingangsstufe (E) mit Stufen/Semestern und Halbjahren
+anlegen ............................................................................................................................... 7
+Abb. 3 Webseite Stundentafel: Stundentafel für die Schulform Eingangsstufe anlegen .................. 8
+Abb. 4 Webseite Kandidaten bearbeiten: Bearbeiten der Zieldaten ................................................ 8
+Abb. 5 Webseite Klassenbildung: Klasse/n für die Eingangsstufe (E) hinzufügen ........................... 9
+Abb. 6 Webseite Klassenbildung: Kinder der oder den Klasse/n hinzufügen ................................... 9
+Abb. 7 Webseite Kursbearbeitung: Automatisch generierte Klassenkurse ...................................... 9
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+2
+
+Abb. 8 Webseite Kursbearbeitung: Beispiel - Deutschkurs für die Schulform E anlegen ............... 10
+Abb. 9 Webseite Schüler-Kurszuordnung ..................................................................................... 10
+Abb. 10 Webseite Schüler-Kurs-Zuordnung: Zuordnung der Schüler mit SF E zum Kurs der SF
+VLK ..................................................................................................................................11
+Abb. 11 Webseite Schüler-Kurs-Zuordnung: Änderung der schülerindividuellen Kurseigenschaften
+(Kursstunden) ...................................................................................................................12
+Abb. 12 Webseite Schüler-Kurs-Zuordnung: Geänderte Std. im Kurs bei Schülern der Schulform E
+........................................................................................................................................ 12
+Abb. 13 Webseite Schüler-Kurs-Zuordnung: Neue Gesamtstunden der Schüler der SF E ............ 12
+Abb. 14 Webseite Überweisung: Überweisung an eine externe Schule (Externer Unterricht) ....... 12
+Abb. 15 Webseite Statusverwaltung: Interner Schulformübergang ................................................ 13
+Abb. 16 Webseite Statusverwaltung: Informationen zum internen Schulformübergang ................. 13
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+▪ Rund 50 Grundschulen in Hessen haben eine Eingangsstufe. In die Eingangsstufe werden
+fünfjährige Kinder aufgenommen.
+▪ Die beiden Jahre in der Eingangsstufe ersetzen das erste Schuljahr.
+▪ Ein Team aus Lehrern sowie Sozialpädagogen betreut die Kinder während dieser Zeit und führt
+sie an das Lernen und Arbeiten im Unterricht der Grundschule heran.
+▪ An den zweijährigen Besuch der Eingangsstufe schließen sich die Klassen 2 bis 4 an, so dass
+die Grundschulzeit insgesamt fünf Jahre beträgt.
+Das vorliegende Dokument beschreibt, welche Daten von Ihnen im Rahmen des Unterrichtes der
+Eingangsstufe in der LUSD gepflegt werden müssen.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die in der LUSD Schüler in die Eingangsstufe
+aufnehmen und bearbeiten möchten.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben: Der Umgang mit
+▪
+▪
+▪
+▪
+▪
+
+der Schüleraufnahme,
+der Kursbearbeitung,
+der Schüler-, Kurs- und Klassensuche,
+dem internen Schulformwechsel der Statusverwaltung,
+der Erstellung von Berichten (z.B. Kurslisten).
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+5
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+6
+
+Die Eingangsstufe in der LUSD abbilden
+1
+
+Schulbasisdaten vorbereiten
+Um in der LUSD die Eingangsstufe abbilden zu können, sind zunächst die nachfolgend
+beschriebenen Voraussetzungen zu erfüllen.
+Hinweis
+Aus technischen Gründen wird die Eingangsstufe (E) in der LUSD als
+Schulform abgebildet
+1. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im
+Bereich SCHULBEZOGENEN SCHULFORMEN ob die Schulform Eingangsstufe (E)
+vorhanden ist. Ist dies nicht der Fall, fügen Sie diese hinzu.
+
+Abb. 1 Webseite Schulformen: Eingangsstufe (E) als schulbezogene Schulform hinzufügen
+
+2. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER
+bei der Schulform Eingangsstufe für die Stufen und Halbjahre die entsprechenden
+Häkchen gesetzt sind. Wenn nicht, fügen Sie diese hinzu.
+
+Abb. 2 Webseite Stufen/Semester: Eingangsstufe (E) mit Stufen/Semestern und Halbjahren anlegen
+
+3. Überprüfen Sie, ob auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL für
+die Schulform Eingangsstufe eine Stundentafel für alle Halbjahre vorhanden ist. Die
+Stundentafel wird auf Basis des Pflichtunterrichts der Eingangsstufe automatisch
+vorgegeben und kann je nach Bedarf entsprechend des curricularen Konzepts
+angepasst werden.
+Ein Hinzufügen, Bearbeiten und Löschen der Stundentafel ist wahlweise möglich.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+7
+
+Abb. 3 Webseite Stundentafel: Stundentafel für die Schulform Eingangsstufe anlegen
+
+2
+
+Zieldaten für die Kinder der Eingangsstufe eintragen
+1. Zum Einpflegen der Schüler in die Eingangsstufe wählen Sie auf der Webseite SCHÜLER
+> KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN die gewünschten Kandidaten über
+die Schaltfläche SUCHE aus.
+2. Klicken Sie auf ÜBERNEHMEN.
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf BEARBEITEN.
+6. Tragen Sie im Dialogfenster ZIELDATEN BEARBEITEN das Zielhalbjahr, die Zielschulform
+E -Eingangsstufe und die Zielstufe 00/1 ein.
+
+Abb. 4 Webseite Kandidaten bearbeiten: Bearbeiten der Zieldaten
+
+3
+
+Klassen und Kurse für die Eingangsstufe einrichten
+Hinweis
+Die nachfolgenden Schritte beziehen sich auf das aktuelle Halbjahr.
+Wenn Sie Klassen und Kurse für das kommende Halbjahr einrichten
+möchten, gehen Sie zunächst auf die Webseite SCHULE >ASSISTENTEN > UVPLANUNG und dort auf die beschriebenen Seiten.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+8
+
+3.1
+
+Klassen für die Schulform E einrichten und die Kinder der Klasse zuweisen
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+benötigte Anzahl Klassen für die Schulform Eingangsstufe (E) an.
+
+Abb. 5 Webseite Klassenbildung: Klasse/n für die Eingangsstufe (E) hinzufügen
+
+2. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+Schüler der gewünschten Klasse zu.
+
+Abb. 6 Webseite Klassenbildung: Kinder der oder den Klasse/n hinzufügen
+
+3.2
+
+Kurse für die Schulform E einrichten
+Hinweis
+Wenn Sie in der Stundentafel der Schulform E bei einem Fach das Häkchen
+bei KLASSENKURS gesetzt haben, wird bei Anlage einer Klasse mit der
+Schulform E automatisch der zum Fach gehörende Kurs gemäß der
+Stundentafel generiert!
+
+Abb. 7 Webseite Kursbearbeitung: Automatisch generierte Klassenkurse
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+9
+
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die
+benötigten Kurse entsprechend der Stundentafel für die Eingangsstufe an.
+
+Abb. 8 Webseite Kursbearbeitung: Beispiel - Deutschkurs für die Schulform E anlegen
+
+2. Fahren Sie in gleicher Weise mit den anderen Kursen der Stundentafel (z.B. M, SU,
+SPO usw.) fort.
+
+3.3
+
+Kinder den Kursen der Schulform E zuordnen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform E bei einem Fach das Häkchen
+bei KLASSENKURS gesetzt haben, werden alle Kinder der Klasse automatisch
+dem dazugehörigen Kurs zugeordnet!
+
+1. Weisen Sie auf die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG die Schüler den gewünschten Kursen zu.
+
+Abb. 9 Webseite Schüler-Kurszuordnung
+
+Hinweis
+Sobald die Kinder am Unterricht der Eingangsstufe teilnehmen, aktivieren
+Sie die Schüler auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+10
+
+4
+
+Sprachförderung von fünfjährigen Schülern mit geringen oder keinen
+Deutschkenntnissen (insb. Seiteneinsteiger)
+Schulen mit Eingangsstufe können entscheiden, ob sie neben der Schulform
+Eingangsstufe (E) auch die Schulform Vorlaufkurs (VLK) einrichten.
+In diesem Fall können fünfjährige Schüler mit geringen oder keinen Deutschkenntnissen
+(insb. Seiteneinsteiger) entweder
+▪ einen Vorlaufkurs (Schulform VLK) besuchen (und ansonsten im Kindergarten
+verbleiben) oder
+▪ in die Eingangsstufe (Schulform E) eingeschult werden.
+
+4.1
+
+Vorgehen beim regulären Besuch des Vorlaufkurses
+Wenn fünfjährige Schüler mit geringen oder keinen Deutschkenntnissen (insb.
+Seiteneinsteiger) regulär den Vorlaufkurs besuchen und ansonsten im Kindergarten
+verbleiben, pflegen Sie diese bitte in der LUSD gemäß der Anleitung
+Deutschfördermaßnahme Vorlaufkurs.
+
+4.2
+
+Vorgehen bei Einschulung in die Eingangsstufe
+Werden fünfjährige Schüler mit geringen oder keinen Deutschkenntnissen (insb.
+Seiteneinsteiger) in die Schulform E eingeschult, werden diese in der LUSD in der
+Schulform E (nicht VLK) geführt.
+Die zusätzliche Sprachförderung findet in der Schulform E statt
+1. Richten Sie in diesem Fall zusätzliche Deutsch-Förderkurse mit dem Fach DAZ gemäß
+der Anleitung Sprachförderangebot Deutsch Förderkurse an.
+Die zusätzliche Sprachförderung findet im Rahmen des Unterrichtes eines
+Vorlaufkurses statt
+Falls Ihre Schule zusätzlich zur SF E einen Vorlaufkurs (VLK) eingerichtet hat, kann die
+zusätzliche Sprachförderung der oben genannten Schüler auch im Rahmen des
+Unterrichtes eines Vorlaufkurses stattfinden.
+1. Ordnen Sie in diesem Fall die oben genannten Schüler zusätzlich zu ihrem sonstigen
+Unterricht dem Unterricht des Vorlaufkurses zu, ohne deren Schulform (E) zu ändern!
+
+Abb. 10 Webseite Schüler-Kurs-Zuordnung: Zuordnung der Schüler mit SF E zum Kurs der SF VLK
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+11
+
+2. Falls die Schüler nicht an allen Stunden des Vorlaufkurses teilnehmen, können Sie
+deren Stundenzahl im Kurs auch individuell anpassen.
+
+Abb. 11 Webseite Schüler-Kurs-Zuordnung: Änderung der schülerindividuellen Kurseigenschaften
+(Kursstunden)
+
+Abb. 12 Webseite Schüler-Kurs-Zuordnung: Geänderte Std. im Kurs bei Schülern der Schulform E
+
+Abb. 13 Webseite Schüler-Kurs-Zuordnung: Neue Gesamtstunden der Schüler der SF E
+
+Hinweis
+Sollte die zusätzliche Sprachförderung der Schüler im Rahmen eines
+Vorlaufkurses einer Nachbarschule stattfinden,
+1. legen Sie für diese Schüler auf der Seite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG eine Überweisung an die Nachbarschule an.
+
+Abb. 14 Webseite Überweisung: Überweisung an eine externe Schule (Externer
+Unterricht)
+
+2. bitten Sie die Nachbarschule, die Schüler dem Unterricht ihres
+Vorlaufkurses zuzuordnen (siehe Schritte 1. und 2. ).
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+12
+
+5
+
+Schülerdaten zum Ende der Eingangsstufe pflegen
+Nach Beendigung der Eingangsstufe müssen die Schüler in die Schulform Grundschule
+(G) in Stufe 2 wechseln.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+die gewünschten Schüler über die Schaltfläche SUCHE aus.
+2. Klicken Sie auf das Register INTERNER SCHULFORMÜBERGANG.
+3. Markieren Sie die Schüler und tragen über die Schaltfläche BEARBEITEN das
+entsprechende Halbjahr, die Wunschschulform G und die Wunschstufe 02/1 ein.
+
+Abb. 15 Webseite Statusverwaltung: Interner Schulformübergang
+
+Abb. 16 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+13
+
+Übersicht – Kandidatenverhältnis und Schülerstatus eines Schülers
+
+6
+
+Ein Schüler kann unterschiedliche Beziehungen zu einer oder mehreren Schulen haben. Die nachfolgende Übersicht beschreibt die möglichen Schülerstatus
+eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+▪ Ein Schüler hat an Ihrer Schule einen Schülerstatus → die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN.
+▪ Ein Schüler hat zu Ihrer Schule ein Kandidatenverhältnis → die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN.
+Schülerstatus
+Kandidatenverhältnis
+auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN
+
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+Kandidat mit SD-R
+
+Kandidat ohne SD-R
+
+Aktiv
+
+Ehemalig
+
+Extern
+
+SD-R = Stammdatenrecht (= Recht die Stammdaten eines Schülers zu bearbeiten)
+
+Der Schüler möchte an
+Ihre Schule wechseln.
+Sie können das Kandidatenverhältnis auf einen der folgenden Einträge setzen:
+▪
+▪
+▪
+▪
+▪
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Der Schüler hat an Ihrer
+Schule das Kan-
+
+Der Schüler hat zu Ihrer Schule
+ein Kandidatenverhältnis:
+
+Der Schüler nimmt an
+Ihrer Schule am
+
+Der Schüler hat Ihre
+Schule verlassen,
+
+Der Schüler ist an
+einer anderen hes-
+
+didatenverhältnis:
+
+▪
+▪
+▪
+▪
+▪
+
+Unterricht teil.
+
+weil
+
+sischen Schule aktiv
+
+und
+
+▪ er an einer
+anderen
+hessischen
+Schule aktiv ist
+▪ er an einer nichthessischen
+Schule
+unterrichtet wird
+▪ er die Schullaufbahn beendet hat
+
+und
+
+angenommen
+und ist an keiner
+anderen hessischen
+Schule: aktiv
+oder
+Der Schüler hat einen
+Eintrag zum internen
+Schulformübergang an
+Ihrer Schule (nur in UVPlanungsvariante).
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Das Stammdatenrecht liegt bei
+der Schule, an der der Schüler
+aktiv ist
+und
+Der Schüler nimmt noch nicht am
+Unterricht Ihrer Schule teil.
+
+HMKB | LUSD | Eingangsstufe pflegen | Version: 1.0 | Letzter Stand: 02.06.2025
+
+Ihre Schule ist
+verantwortlich für die
+Erstellung und
+Ausgabe von
+Zeugnissen (entfällt in
+der SF VG, da hier
+nach § 10 (2) VOBGM
+keine Zeugnisse
+erteilt werden).
+
+14
+
+er besucht (zeitlich
+begrenzt) Kurs/e an
+Ihrer Schule.
+
+

@@ -1,0 +1,1003 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Religionsunterrichte in der LUSD
+abbilden
+
+Version: 3.5
+Letzter Stand: 17.06.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Hintergrund und Zweck .................................................................................................................. 5
+Zielgruppe ...................................................................................................................................... 6
+Vorausgesetzte Kenntnisse ............................................................................................................ 6
+LUSD-Anwenderunterstützung ....................................................................................................... 6
+
+Religionsunterrichte in der LUSD abbilden
+1
+
+2
+
+3
+
+4
+
+5
+
+8
+
+Religionsdaten der Schüler pflegen ....................................................................................... 8
+1.1
+
+Konfession eines Schülers für den Religionsunterricht erfassen .................................. 8
+
+1.2
+
+Abmeldung vom Religionsunterricht eintragen ............................................................. 9
+
+1.3
+
+Erneute Anmeldung zum Religionsunterricht eintragen .............................................. 10
+
+Religionsangebot der Schule pflegen .................................................................................. 10
+2.1
+
+Schulbezogene Fächer für Religionsunterricht pflegen............................................... 11
+
+2.2
+
+Fächer für Religionsunterricht in Stundentafeln pflegen ............................................. 11
+
+Religionsunterricht pflegen .................................................................................................. 12
+3.1
+
+Der Religionsunterricht findet an Ihrer Schule statt ..................................................... 12
+
+3.2
+
+Ihre Schüler besuchen Religionsunterricht an einer anderen Schule .......................... 15
+
+3.3
+
+Ihre Schüler besuchen Religionsunterricht in einer nicht-schulischen Institution......... 16
+
+Zuordnung der Schüler zum Religionsunterricht prüfen ....................................................... 19
+4.1
+
+Belegungsprüfung durchführen .................................................................................. 19
+
+4.2
+
+Berichte nutzen .......................................................................................................... 21
+
+4.3
+
+Aufgabenlisteneinträge zur Landesschulstatistik ........................................................ 23
+
+4.4
+
+Meldungen zum Religionsunterricht bearbeiten .......................................................... 24
+
+Vermeidung typischer Fehler bei der Anlage der Religionsunterrichte ................................. 26
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schülerstammdaten: Erfassen der Konfession .....................................................8
+Abb. 3 Webseite Halbj./Sem.-Daten: Abmeldung vom Religionsunterricht durchführen ...................9
+Abb. 4 Webseite Fächer: Offizielle und schulbezogen Fächer für den Religionsunterricht .............11
+Abb. 5 Webseite: Stundentafel – Überprüfung der richtigen Kursart der Religionsfächer...............12
+Abb. 6 Dialogfester Kurssuche: Übersicht aller Religionskurse der Schule ....................................12
+Abb. 7 Dialogfenster Überweisung: Überweisung hinzufügen........................................................16
+Abb. 8 Dialogfenster Schule Ausland hinzufügen/bearbeiten: Anbieter von Religionsunterricht
+anlegen .........................................................................................................................................17
+Abb. 9 Dialogfenster Kurs anlegen: Externe Religionskurse anlegen ............................................18
+Abb. 10 Webseite Belegungsprüfung: Überprüfung der Kursbelegung durchführen ......................20
+Abb. 11 Webseite Belegungsprüfung: Prüfergebnis für einen Schüler ...........................................21
+Abb. 12 Bericht Religionsdaten: Beispiel Bericht ...........................................................................22
+Abb. 13 Bericht Meldungsübersicht: Bespiel gefilterter Bericht ......................................................22
+Abb. 14 Bericht Kursstärke: Beispiel Bericht..................................................................................23
+Abb. 15 Bericht Schülerbezogene Auffälligkeiten: Beispiel gefilterter Bericht ................................24
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Der Religionsunterricht an den öffentlichen Schulen in Hessen ist ordentliches Lehrfach.
+Obwohl das Fach im Schulgesetz und den entsprechenden Vorschriften nur als "Religion" bezeichnet wird, muss der Religionsunterricht immer einer bestimmten Konfession zugeordnet sein.
+Derzeit gibt es das Fach Religion in Hessen in folgenden 13 konfessionellen Ausprägungen:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+adventistisch
+Ahmadiyya Muslim Jamaat,
+alevitisch,
+alt-katholisch,
+DİTİB Hessen (sunnitisch),
+Humanistische Gemeinschaft Hessen (freireligiös),
+evangelisch,
+jüdisch,
+(römisch)-katholisch,
+mennonitisch,
+orthodox (Orthodoxe Bischofskonferenz in Deutschland),
+syrisch-orthodox,
+unitarisch (Unitarische Freie Religionsgemeinde Frankfurt am Main).
+
+Rechtsgrundlagen sind Art. 7 Abs. 3 des Grundgesetzes, Art. 57 Abs. 1 und Art. 58 der Verfassung
+des Landes Hessen, § 8 des Hessischen Schulgesetzes sowie der Erlass Religionsunterricht vom
+3. September 2014 (ABl. S. 685).
+Das vorliegende Dokument beschreibt, wie die Religionsdaten korrekt und rechtskonform in der
+LUSD gepflegt werden.
+
+Hintergrund und Zweck
+Warum ist es wichtig, dass die Religionsunterrichte in der LUSD korrekt erfasst werden?
+Religion ist nach Artikel 7 Absatz 3 Grundgesetz und Artikel 57 Absatz 1 Verfassung des Landes
+Hessen ordentliches Lehrfach (siehe auch § 8 Abs. 1 bis 3 Hessisches Schulgesetz).
+Damit dies nach außen deutlich wird und eine sachgerechte Steuerung nach innen möglich ist,
+braucht es – wie bei allen Fächern – verlässliche statistische Daten über die Konfessionszugehörigkeit und über die gebildeten Lerngruppen.
+Dabei sind die Vorgaben des Datenschutzrechts zu beachten, insbesondere der Verordnung (EU)
+Nr. 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. EU Nr. 119 S. 1, Nr. L
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+5
+
+314 S. 72) und des Hessischen Datenschutz- und Informationsfreiheitsgesetzes vom 3. Mai 2018
+(GVBl. S. 82), in der jeweils geltenden Fassung.
+
+Welchen Zweck erfüllt diese Anleitung?
+Die Pflege der Daten zu Religionsunterrichten ist anspruchsvoll. Aufgrund der schulorganisatorischen und verfassungsrechtlichen Vorgaben lässt sich dies jedoch nicht vermeiden.
+Auch wenn die Mitwirkung von Kirchen und Religionsgemeinschaften aus verfassungsrechtlichen
+Gründen unverzichtbar ist, ist der Religionsunterricht im Kern eine staatliche Veranstaltung.
+Dies gilt auch dann, wenn der Religionsunterricht ausnahmsweise außerhalb der Schulen (z. B.
+jüdischer Religionsunterricht) sowie – beim Unterschreiten der Mindestgruppengröße – in Eigenregie der Religionsgemeinschaften gehalten wird.
+Mitunter lässt sich die Mindestgruppengröße auch erreichen, wenn jahrgangs- oder schulübergreifende Lerngruppen gebildet werden. Die Einzelheiten hierzu sind im Erlass Religionsunterricht geregelt.
+Aktuell spiegelt sich das vielfältige Angebot der hessischen Schulen im Fach Religion zwar in der
+LUSD wieder. Die LUSD-Daten sind aber noch nicht zu 100 % belastbar. Damit Ressourcen trotzdem richtig zugewiesen werden und die politischen Entscheidungen auf einer soliden Datenbasis
+stehen, erfolgen teilweise Sondererhebungen über die Schulträger oder die Schulämter, was für
+alle – Schulen, Schulämter und das HKM – mit Mehrarbeit verbunden ist.
+Zur korrekten Datenpflege der LUSD-Daten geben wir Ihnen diese Anleitung an die Hand. Wir hoffen, dass mit Ihrer Unterstützung eine Arbeitsentlastung für alle Beteiligten möglich wird und sich
+die Datenqualität im Bereich der Religionsunterrichte verbessert.
+
+Zielgruppe
+Diese Anleitung richtet sich an LUSD-Benutzer, die die Religionsdaten für Schüler in der LUSD
+pflegen.
+
+Vorausgesetzte Kenntnisse
+Basiskenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser Anleitung
+nicht näher beschrieben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+6
+
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+7
+
+Religionsunterrichte in der LUSD abbilden
+Grundsätzlich sind die Religionsdaten Ihrer Schule in der LUSD auf drei Ebenen zu pflegen:
+▪ Religionsdaten der Schüler pflegen (siehe Kapitel 1)
+▪ Religionsangebot Ihrer Schule pflegen (siehe Kapitel 2)
+▪ Religionsunterricht pflegen (siehe Kapitel 3)
+
+1
+
+Religionsdaten der Schüler pflegen
+
+1.1
+
+Konfession eines Schülers für den Religionsunterricht erfassen
+Die Konfession der Schüler erfassen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN
+> SCHÜLERSTAMMDATEN.
+
+Abb. 1 Webseite Schülerstammdaten: Erfassen der Konfession
+
+Das Auswahlfeld KONFESSION* ist initial leer. Für jeden Schüler ist ein Eintrag auszuwählen:
+▪ entweder eine der 13 möglichen Konfessionen, für die es in Hessen offiziellen konfessionellen Religionsunterricht gibt. Andere Konfessionen dürfen bei Schülern in Hessen
+nicht erfasst werden.
+▪ oder der Eintrag: Sonstige / Keine falls der Schüler keiner der auswählbaren Konfessionen oder Glaubensrichtungen angehört oder konfessionslos ist.
+Mögliche Auswahl im Feld KONFESSIONEN:
+▪ adventistisch
+▪ Ahmadiyya Muslim Jamaat
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+8
+
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+alevitisch
+alt-katholisch
+DİTİB Hessen (sunnitisch)
+evangelisch
+Humanistische Gemeinschaft Hessen (freireligiös)
+jüdisch
+mennonitisch
+orthodox
+römisch-katholisch
+syrisch-orthodox
+unitarisch
+Sonstige/Keine
+Hinweis
+Schüler mit relevanter Konfessionszugehörigkeit sind verpflichtet, am Religionsunterricht ihrer Konfession teilzunehmen, sofern dieser angeboten wird,
+es sei denn, sie sind vom Religionsunterricht abgemeldet. In diesem Fall besuchen sie den Ethikunterricht (siehe auch Kapitel 1.2).
+
+1.2
+
+Abmeldung vom Religionsunterricht eintragen
+Nach dem Erlass Religionsunterricht vom 3. September 2014 (ABl. S. 685) nehmen Schüler an dem Religionsunterricht der Konfession teil, der sie angehören, sofern dieser Religionsunterricht an der Schule angeboten wird.
+Damit ein Schüler vom Religionsunterricht befreit werden kann, wird für die Abmeldung die
+Unterschrift der Eltern benötigt. Religionsmündige Schüler können die Unterschrift selbst
+leisten. Sobald diese schriftliche Abmeldung vorliegt, können Sie diese in der LUSD eintragen.
+1. Setzen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN ein
+Häkchen im Feld ABMELDUNG VOM RELIGIONSUNTERRICHT.
+
+Abb. 2 Webseite Halbj./Sem.-Daten: Abmeldung vom Religionsunterricht durchführen
+
+2. Ist der Schüler bereits einem Religionskurs zugeordnet, heben Sie diese Zuordnung auf
+der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG auf und ordnen Sie den Schüler dem entsprechenden Religionsersatzkurs (Ethik, Islamunterricht)
+zu.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+9
+
+1.3
+
+Erneute Anmeldung zum Religionsunterricht eintragen
+Wenn ein vom Religionsunterricht abgemeldeter Schüler wieder am Unterricht seiner oder
+ausnahmsweise einer anderen Konfession teilnehmen möchte, muss die Abmeldung rückgängig gemacht werden.
+1. Entfernen Sie hierzu auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.DATEN im Feld ABMELDUNG VOM RELIGIONSUNTERRICHT das Häkchen.
+2. Heben Sie die Zuordnung des Schülers zum Religionsersatzkurs (Ethik, Islamunterricht)
+auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG auf und
+ordnen Sie den Schüler dem gewünschten Religionskurs zu.
+3. Tragen Sie die Konfession des Schülers auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN ein, sofern dies noch nicht erfolgt ist.
+Tipp
+Nutzen Sie zur Übersicht den Bericht Religionsdaten (Kapitel 4.2.1).
+
+2
+
+Religionsangebot der Schule pflegen
+Hinweis
+Nach dem Erlass Religionsunterricht vom 3. September 2014 (ABl. S. 685)
+muss Religionsunterricht eines Bekenntnisses eingerichtet werden, wenn
+mindestens acht Schüler des entsprechenden Bekenntnisses teilnehmen
+und zu einer pädagogisch und schulorganisatorisch vertretbaren Lerngruppe
+zusammengefasst werden können.
+Andere Schüler können freiwillig an einem solchen Religionsunterricht teilnehmen, wenn dies schulorganisatorisch möglich ist und die jeweils kooperierende Religionsgemeinschaft der Teilnahme im Einzelfall zustimmt.
+Für die Bildung gemischt-konfessioneller Lerngruppen, die aus evangelischen
+und katholischen Schülern bestehen, gelten die besonderen Bestimmungen
+nach Abschnitt VII des Erlasses Religionsunterricht.
+Ungeachtet der konfessionell heterogenen Zusammensetzung dieser Lerngruppen ist auch dieser Unterricht seinem Wesen nach konfessioneller Religionsunterricht.
+Wenn Sie einen Religionsunterricht neu anbieten, gehen Sie wie folgt vor:
+1. Legen Sie das benötigte Fach für den Religionsunterricht als schulbezogenes Fach
+an (siehe Kapitel 2.1).
+2. Pflegen Sie das Fach für den Religionsunterricht in den Stundentafeln
+(siehe Kapitel 2.2).
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+10
+
+2.1
+
+Schulbezogene Fächer für Religionsunterricht pflegen
+1. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > FÄCHER, ob in der Tabelle
+SCHULBEZOGENE FÄCHER das Fach enthalten ist, für das Sie Religionsunterrichte an Ihrer Schule anbieten wollen (Abb. 3).
+2. Fügen Sie bei Bedarf das fehlende Fach in der Tabelle SCHULBEZOGENE FÄCHER hinzu.
+
+Abb. 3 Webseite Fächer: Offizielle und schulbezogen Fächer für den Religionsunterricht
+
+2.2
+
+Fächer für Religionsunterricht in Stundentafeln pflegen
+1. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL für jede
+Schulform und Stufe, ob die Religionsfächer, die an Ihrer Schule unterrichtet werden sollen, als Stundentafeleinträge mit der richtigen Kursart vorhanden sind.
+Hinweis
+Religionsunterrichte sind immer Pflichtunterrichte.
+Tragen Sie immer die Kursart P (Pflichtunterricht) bzw. im Kurssystem der
+Sekundarstufe II G (Grundkurs) oder L (Leistungskurs) ein.
+
+Tipp
+Setzen Sie im Feld KLASSENKURS keinen Häkchen.
+Wenn Sie einen Religionsunterricht als Klassenkurs unterrichten wollen, können Sie dies bei der Anlage der Religionskurse festlegen (siehe Kapitel 3).
+2. Fügen Sie bei Bedarf die fehlenden Fächer auf der Webseite FÄCHER von den OFFIZIELLEN FÄCHERN zu den SCHULBEZOGENEN FÄCHERN hinzu (siehe Kapitel 2.1).
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+11
+
+Abb. 4 Webseite: Stundentafel – Überprüfung der richtigen Kursart der Religionsfächer
+
+3
+
+Religionsunterricht pflegen
+
+3.1
+
+Der Religionsunterricht findet an Ihrer Schule statt
+
+3.1.1 Religionskurse pflegen
+Überprüfen, korrigieren und ergänzen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die Religionskurse Ihrer Schule.
+
+Abb. 5 Dialogfester Kurssuche: Übersicht aller Religionskurse der Schule
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+12
+
+Bitte beachten Sie folgende Hinweise:
+Fach*
+Sie können für einen Religionskurs nur die Fächer nutzen,
+die Sie auf der Webseite
+SCHULE > SCHULBASISDATEN >
+FÄCHER in den Bereich SCHULBEZOGENE FÄCHER übernommen haben (siehe Kapitel 2.1).
+
+Mögliche Fächer für konfessionellen Religionsunterricht
+sind:
+Fach
+
+Konfession
+
+RADV
+
+adventistisch
+
+RAKA
+
+alt-katholisch
+
+RALE
+
+alevitisch
+
+RAMJ
+
+Ahmadiyya Muslim Jamaat
+
+RDHS
+
+DITIB Hessen (sunnitisch)
+
+REV
+
+evangelisch
+
+RHGF
+
+Humanistische Gemeinschaft Hessen (freireligiös)
+
+RRO
+
+orthodox
+
+RJÜD
+
+jüdisch
+
+RKA
+
+römisch-katholisch
+
+RMEN
+
+mennonitisch
+
+RSYO
+
+syrisch-orthodox
+
+RUNI
+
+unitarisch
+
+Hinweis
+Sie möchten einen Religionsunterricht in konfessionell gemischten Lerngruppen nach Abschnitt VII des Erlasses Religionsunterricht anlegen?
+Auch der Religionsunterricht in konfessionell gemischten Lerngruppen
+nach Abschnitt VII des Erlasses Religionsunterricht ist konfessioneller, d. H.
+Entweder evangelischer oder katholischer Religionsunterricht!
+Um welche konfessionelle Ausprägung - evangelisch oder katholisch - es sich
+handelt, hängt von der Konfession der unterrichtenden Lehrkraft ab.
+1. Tragen Sie also die konfessionelle Ausprägung des Kurses bei einer konfessionell gemischten Lerngruppe entsprechend der Konfession der
+Lehrkraft ein (Fächer in der LUSD: REV oder RKA) (siehe auch Kapitel
+0).
+
+Kursart*
+
+Religionsunterrichte sind immer Pflichtunterrichte.
+Tragen Sie immer die Kursart P (Pflichtunterricht) bzw. im Kurssystem der Sekundarstufe II G
+(Grundkurs) oder L (Leistungskurs) ein.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+13
+
+Religionskurs als Klassenkurs
+
+Legen Sie einen Religionskurs als Klassenkurs nur
+dann an, wenn sichergestellt ist, dass alle Schüler der
+Klasse der entsprechenden Konfession angehören oder
+erklärt haben, freiwillig an dem betreffenden Religionsunterricht teilnehmen zu wollen.
+Ist dies nicht der Fall, kann der konfessionsgebundene Religionsunterricht nur klassen- oder stufenübergreifend unterrichtet werden (wählen Sie in den Feldern STUFE und
+KURS für den Eintrag übergreifend).
+
+Lehrer
+Ordnen Sie einem Religionskurs nur solche Lehrkräfte
+zu, die einem der nebenstehenden Kriterien entsprechen.
+
+▪ Lehrerinnen und Lehrer,
+▪ die durch die Ablegung einer staatlichen Prüfung die Befähigung zum Unterricht in diesem
+Fach nachgewiesen haben.
+▪ und die eine Bevollmächtigung der Kirche oder
+Religionsgemeinschaft besitzen (z.B. kann eine
+katholische Lehrkraft nur katholischen Religionsunterricht erteilen).
+▪ Geistliche und diesen entsprechende Amtsträgerinnen und Amtsträger von Kirchen und Religionsgemeinschaften
+
+▪ Personen,
+▪ denen die jeweilige Kirche oder Religionsgemeinschaft die Befähigung zur Erteilung von
+Religionsunterricht zuerkannt hat.
+▪ und denen eine Unterrichtserlaubnis in den
+Schulstufen und -formen erteilt wurde, auf die
+sich die kirchliche Zuerkennung und die Unterrichtserlaubnis erstreckt.
+
+3.1.2 Eigene Schüler und Schüler anderer Schulen den Religionskursen zuordnen
+Wenn ein Religionskurs schulform-, stufen- oder klassenübergreifend stattfindet, müssen
+die Schüler dem jeweiligen Kurs zugeordnet werden.
+Diese Zuordnung nehmen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG vor.
+Externe Schüler, d.h. Schüler anderer Schulen, die an dem Religionsunterricht Ihrer Schule
+teilnehmen, finden Sie unter dem Register EXTERNE.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+14
+
+Achtung
+Darauf müssen Sie bei der Schüler-Kurszuordnung achten:
+▪ Ein Schüler, der nicht vom Religionsunterricht abgemeldet ist,
+▪ muss am Religionsunterricht der eigenen Konfession teilnehmen.
+▪ kann nicht stattdessen einen Ethikkurs besuchen.
+▪ Ein Schüler, der vom Religionsunterricht abgemeldet ist
+▪ darf nicht am Unterricht der eigenen Konfession teilnehmen.
+▪ muss am Ethikunterricht teilnehmen (sofern dieser angeboten
+wird).
+Auf die besonderen Bestimmungen über die – ausnahmsweise erleichterte –
+Bildung konfessionell gemischter Lerngruppen im evangelischen und katholischen Religionsunterricht (vgl. Erlass Religionsunterricht, Abschnitt VII) wird
+hingewiesen.
+
+Tipp
+Fehlerhafte Zuordnungen führen zu Einträgen in der Aufgabenliste.
+Wie Sie fehlerhafte Zuordnungen feststellen und beheben können, erfahren
+Sie hier: Kapitel 4.
+
+3.2
+
+Ihre Schüler besuchen Religionsunterricht an einer anderen Schule
+
+3.2.1 Datenpflege an Ihrer Schule
+Wenn Schüler Ihrer Schule Religionsunterricht an anderen Schulen besuchen, sind von
+Ihnen in der LUSD folgenden Arbeiten durchzuführen:
+1. Fehlende Schulen auf der Webseite SCHULUMFELD hinzufügen. Prüfen Sie auf der Webseite SCHULE > SCHULUMFELD > SCHULEN – im Register HESSEN, ob die Schulen, an die
+Sie Ihre Schüler überweisen möchten, in der Tabelle vorhanden sind.
+Fehlt eine Schule, fügen Sie diese hinzu.
+2. Schüler an andere Schule überweisen. Fügen Sie für Ihre Schüler, die den Religionsunterricht an einer anderen hessischen Schule besuchen, auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > ÜBERWEISUNG die entsprechende Überweisung hinzu.
+3. Wählen Sie die gewünschten Schüler über die Schülersuche aus.
+4. Klicken Sie auf die Schaltfläche HINZUFÜGEN.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+15
+
+Abb. 6 Dialogfenster Überweisung: Überweisung hinzufügen
+
+5. Geben Sie im Dialogfenster ÜBERWEISUNG HINZUFÜGEN folgende Daten ein:
+▪ ART DER ÜBERWEISUNG: Externer Unterricht
+▪ VON: / BIS: Beginn / Ende des Religionsunterrichts
+▪ ZIELSCHULE: Schule, die den Religionsunterricht für den betroffenen Schüler anbietet.
+Hier stehen die Schulen zur Verfügung, die auf der Webseite SCHULE > SCHULUMFELD > SCHULEN im Register HESSEN vorhanden sind.
+6. Klicken Sie auf die Schaltfläche
+
+und dann auf
+
+.
+
+3.2.2 Datenpflege an der aufnehmenden Schule
+Die aufnehmende Schule geht wie in Kapitel 3.2.1 beschrieben vor.
+Hinweis
+Die Noten für den Religionsunterricht Ihrer Schüler werden von der Schule erfasst, an der der Religionsunterricht stattfindet.
+
+3.3
+
+Ihre Schüler besuchen Religionsunterricht in einer nicht-schulischen Institution
+Wenn Sie in Kooperation mit einer externen Institution (z. B. einer Kirchengemeinde) zusammenarbeiten und Schüler Ihrer Schule auf der Grundlage des Erlasses Religionsunterricht, Abschnitt V Nr. 2, Religionsunterricht in dieser Institution besuchen, sind in der LUSD
+folgende Arbeiten durchzuführen:
+▪ Anbieter des Religionsunterrichts anlegen (3.1.1)
+▪ Externe Kurse anlegen (3.1.2)
+▪ Schüler den Kursen zuordnen (3.3.3)
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+16
+
+3.3.1 Anbieter des Religionsunterrichts anlegen
+1. Legen Sie auf der Webseite SCHULE > SCHULUMFELD > SCHULEN – Register AUSLAND einen Eintrag für die Anbieter des Religionsunterrichts an. Diese können Sie dann beim
+Anlegen der externen Kurse nutzen (3.3.2).
+2. Klicken Sie auf die Schaltfläche
+AUSLAND HINZUFÜGEN/BEARBEITEN.
+
+. Es erscheint das Dialogfenster SCHULE
+
+Abb. 7 Dialogfenster Schule Ausland hinzufügen/bearbeiten: Anbieter von Religionsunterricht
+anlegen
+
+3. Geben Sie mindestens folgende Daten ein:
+▪
+▪
+▪
+▪
+▪
+
+SCHULTYP*: Religionsunterricht
+SCHULNAME*: Anbieter des Religionsunterrichts / Kooperationspartner
+LAND*: kein Land (ungeklärt) oder jedes beliebige Land
+ADRESSE*: Postanschrift des Anbieters / Kooperationspartners
+TELEFON*:
+
+4. Klicken Sie auf die Schaltflächen
+
+und
+
+.
+
+3.3.2 Externe Religionskurse anlegen
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG für jeden benötigten externen Religionsunterricht die nötigen externen Kurse an. Beachten
+Sie dabei untenstehende Angaben zu den einzelnen Feldern.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+17
+
+Abb. 8 Dialogfenster Kurs anlegen: Externe Religionskurse anlegen
+
+Feld
+
+Eingabe
+
+Extern
+
+Kontrollkästchen anhaken und im Auswahlfeld den Kooperationspartner auswählen.
+
+Schulform
+
+Übergreifend
+
+Stufe
+
+Übergreifend
+
+Fach
+
+Das Religionsfach, das extern unterrichtet wird.
+In dem Auswahlfeld werden alle hessischen Fächer angeboten.
+
+Stundenzahl
+
+Anzahl Wochenstunden des Kurses
+
+Lehrer
+
+Name der unterrichtenden Person
+
+Kursart
+
+Religionsunterrichte sind immer Pflichtunterrichte.
+Tragen Sie immer die Kursart P (Pflichtunterricht) bzw.
+im Kurssystem der Sekundarstufe II G (Grundkurs) oder
+L (Leistungskurs) ein.
+
+Kursoption
+
+Kann leer bleiben
+
+3.3.3 Schüler den Religionskursen zuordnen
+Ordnen Sie alle Schüler, die am Religionsunterricht in Eigenregie eines Kooperationspartners teilnehmen, auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG den entsprechenden externen Religionskursen zu.
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+18
+
+4
+
+Zuordnung der Schüler zum Religionsunterricht prüfen
+Um zu prüfen, ob die Zuordnung der Schüler zum Religionsunterricht vollständig und richtig
+ist, haben Sie folgende Möglichkeiten:
+▪ Belegungsprüfung durchführen (4.1)
+▪ Berichte nutzen (4.2)
+▪ Aufgabenlisteneinträge nutzen (4.3)
+
+4.1
+
+Belegungsprüfung durchführen
+Um zu prüfen, ob allen Schülern der benötigte Unterricht zugeordnet ist, können Sie für alle
+Schüler einer Klasse oder einer Stufe eine Überprüfung der Kursbelegung durchführen.
+Hinweis
+Folgende Daten werden für die ausgewählten Schüler überprüft:
+▪ Sind alle Belegverpflichtungen erfüllt?
+▪ Gibt es zeitliche Überschneidungen bei Kursen? (Diese Prüfung erfolgt
+nur, sofern über die Stundenplanschnittstelle die Zeiten der Kurse importiert wurden).
+▪ Entsprechen die Kursstunden den Vorgaben der Stundentafel?.
+So prüfen Sie die Belegung des Religionsunterrichts:
+1. Wählen Sie auf der Webseite UNTERRICHT > DATENPRÜFUNGEN > BELEGUNGSPRÜFUNG
+die gewünschte/n Klasse/n aus.
+Achtung
+Halten Sie dabei folgende Reihenfolge der Arbeitsschritte ein!
+1. Wählen Sie in der Auswahlliste SF/BK die gewünschte Option aus.
+2. Wählen Sie in der Auswahlliste St/Sem die gewünschte Option aus.
+3. Wählen Sie in der Auswahlliste Klasse die gewünschte Option aus.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+19
+
+Abb. 9 Webseite Belegungsprüfung: Überprüfung der Kursbelegung durchführen
+
+2. Klicken Sie auf
+.
+Die Symbole vor den Schülernamen zeigen den Prüfstatus an.
+Symbol
+
+Bedeutung
+ungeprüft
+Prüfung ok, kein Fehler
+Prüfung nicht ok, Warnung
+Prüfung nicht ok, Fehler
+
+3. Klicken Sie auf
+.
+Das Symbol vor den Schülernamen ändert sich entsprechend dem Prüfergebnis.
+4. Klicken Sie auf einen Schülernamen. Die Meldungen zum Prüfergebnis erscheinen in
+der rechten Tabelle.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+20
+
+Abb. 10 Webseite Belegungsprüfung: Prüfergebnis für einen Schüler
+
+Hinweis
+Das einmal erzeugte Prüfergebnis bleibt in dem Halbjahr erhalten und kann
+bei erneutem Aufruf angesehen und bei erneuter Prüfung aktualisiert werden
+
+Tipp
+Zur Belegungsprüfung steht Ihnen der Bericht MELDUNGSÜBERSICHT zur Verfügung (Kapitel 4.2.2).
+5. Klicken Sie auf einen weiteren Schüler und wiederholen Schritt 3 oder klicken Sie auf die
+Schaltfläche
+.
+
+4.2
+
+Berichte nutzen
+Mit Hilfe verschiedener Berichte können Sie sich über die fehlerhaften Zuordnungen von
+ausgewählten Schülern informieren.
+
+4.2.1 Bericht: Religionsdaten
+So rufen Sie den Bericht RELIGIONSDATEN auf:
+▪ direkt über die Seite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+▪ oder über die Webseite EXTRAS > BERICHTSVERWALTUNG > SCHÜLER > ALLG. LISTEN
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+21
+
+Abb. 11 Bericht Religionsdaten: Beispiel Bericht
+
+4.2.2 Bericht: Meldungsübersicht
+So rufen Sie den Bericht MELDUNGSÜBERSICHT mit einer Auflistung der Fehler in der Belegungsprüfung auf:
+▪ direkt über die Seite UNTERRICHT > DATENPRÜFUNGEN > BELEGUNGSPRÜFUNG
+▪ oder über die Webseite EXTRAS > BERICHTSVERWALTUNG > UNTERRICHT > DATENPRÜFUNG
+
+Abb. 12 Bericht Meldungsübersicht: Bespiel gefilterter Bericht
+
+Tipp
+Wählen Sie alle Schüler Ihrer Schule aus und geben den Bericht MELDUNGSÜBERSICHT als Exceldatei aus. Filtern Sie die Liste dann nach der Meldung:
+Ein Fach der Gruppe Religion ist nicht belegt.
+
+4.2.3 Bericht: Kursstärken
+So rufen Sie den Bericht KURSSTÄRKEN auf:
+▪ direkt über die Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+▪ oder über die Webseite EXTRAS > BERICHTSVERWALTUNG > UNTERRICHT > KURSE
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+22
+
+Abb. 13 Bericht Kursstärke: Beispiel Bericht
+
+4.3
+
+Aufgabenlisteneinträge zur Landesschulstatistik
+Zur Vorbereitung auf die Landesschulstatistik sind in der LUSD sogenannte Prüfregeln aktiviert. Auffälligkeiten bei Ihren Daten werden als Meldungen auf der Webseite EXTRAS >
+AUFGABENLISTE anzeigt.
+Hinweis
+Für folgende Schulformen erfolgt keine Prüfung:
+E, G, VG, VLK sowie SFE (AH, AR, AGYM, KO)
+Die Meldungen zum Religionsunterricht sind Kann-Auffälligkeiten, die auf Fehler, Unklarheiten oder schulspezifische Besonderheiten hinweisen. Handelt es sich um Fehler, müssen diese behoben werden.
+
+4.3.1 Gesamtübersicht aller Statistik-Meldungen zum Religionsunterricht erstellen
+1. Gehen Sie zur Webseite EXTRAS > AUFGABENLISTE und gehen Sie von dort aus zum Bericht: SCHÜLERBEZOGENE AUFFÄLLIGKEITEN.
+2. Erstellen Sie den Bericht im Ausgabeformat: CSV und dem Parameter: Alle.
+3. Filtern Sie die Liste dann nach den Meldungen zum Religionsunterricht.
+4. Blenden Sie nicht benötigte Spalten aus.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+23
+
+Abb. 14 Bericht Schülerbezogene Auffälligkeiten: Beispiel gefilterter Bericht
+
+4.4
+
+Meldungen zum Religionsunterricht bearbeiten
+
+4.4.1 Meldung: Anmeldung zum Religionsunterricht von Schüler xy erfolgt: Bitte Kurszuordnung prüfen
+
+Grund der Meldung
+
+Ein aktiver Schüler, der wieder zum Religionsunterricht angemeldet
+ist, nimmt noch nicht wieder am Religionsunterricht teil, obwohl auf
+der Webseite SCHÜLER > SCHÜLERBASISDATEN> HALBJ./SEM.- DATEN das Häkchen im Kontrollkästchen vor Abmeldung vom Religionsunterricht entfernt ist.
+Dies ist nicht zulässig und muss behoben werden.
+
+Fehlerbehebung
+
+1. Fügen Sie den Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG einem Religionskurs
+zu.
+2. Tragen Sie den KONFESSIONSEINTRAG des Schülers auf der
+Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN ein.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+24
+
+4.4.2 Meldung: Abmeldung vom Religionsunterricht von Schüler xy erfolgt: Bitte Kurszuordnung prüfen
+
+Grund der Meldung
+
+Ein aktiver Schüler, der vom Religionsunterricht abgemeldet ist,
+nimmt am Religionsunterricht teil, obwohl auf der Webseite SCHÜLER > SCHÜLERBASISDATEN> HALBJ./SEM.- DATEN ein Häkchen im
+Kontrollkästchen vor Abmeldung vom Religionsunterricht gesetzt
+ist.
+Dies ist nicht zulässig und muss behoben werden.
+
+Fehlerbehebung
+
+1. Fügen Sie den Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG einem Ethikkurs zu.
+2. Entfernen Sie den KONFESSIONSEINTRAG des Schülers auf der
+Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN. Wählen Sie in diesem Fall den Eintrag Sonstige/Keine in
+der Auswahlliste aus.
+
+4.4.3 Meldung: Schüler ohne Ethikunterricht oder Religionsunterricht
+
+Grund der Meldung
+
+Der Schüler nimmt weder am Religionsunterricht noch am Ethikunterricht teil.
+Dies ist nicht zulässig und muss behoben werden, es sei
+denn, Ethikunterricht wird nicht angeboten.
+
+Fehlerbehebung
+
+1. Fügen Sie den Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG einem Ethik- oder Religionskurs hinzu.
+
+4.4.4 Meldung: Schüler mit Leereintrag im Feld Konfession
+Grund der Meldung
+
+Der Schüler hat auf der Webseite SCHÜLER > SCHÜLERSTAMMDATEN
+keinen Eintrag in der Auswahlliste KONFESSION.
+Dies ist nicht zulässig und muss behoben werden.
+
+Fehlerbehebung
+
+1. Ordnen Sie dem Schüler auf der Webseite SCHÜLER > SCHÜLERSTAMMDATEN seine Konfession zu. Bei Konfessionslosigkeit
+wählen Sie den Eintrag Sonstige/Keine in der Auswahlliste aus.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+25
+
+5
+
+Vermeidung typischer Fehler bei der Anlage der Religionsunterrichte
+
+Falsch 
+
+Richtig ☺
+
+Externer Religionsunterricht an
+nicht-schulischer Institution
+
+Wenn Sie den Religionskurs bei sich anlegen,
+setzen Sie Häkchen vor dem Kontrollkästchen
+extern. Wählen Sie die Institution aus, die den
+Kurs anbietet (Kapitel 0).
+
+Sie tragen einen Kurs als internen Kurs ein,
+der jedoch an einer nicht-schulischen Institution (z. B. in einer Religionsschule oder Kirche) stattfindet.
+Externer Religionsunterricht an anderer
+Schule
+Ihre Schüler werden an einer anderen Schule
+in Religion unterrichtet. Sie legen einen Kurs
+an Ihrer Schule an.
+
+Gastschüler an Ihrer Schule
+Sie unterrichten im Religionsunterricht Ihrer
+Schule auch Gastschüler des Nebenstandortes oder einer Nachbarschule. Dem Religionskurs ordnen Sie nur Ihre Schüler zu.
+
+Nicht stattfindende Kurse
+Sie legen einen Kurs in der LUSD an, obwohl
+das SSA Ihnen noch keine Lehrkraft zugewiesen hat oder Sie noch nicht wissen, ob
+sich eine ausreichende Anzahl an Schülern
+anmelden wird.
+Ökumenischer Religionsunterricht?
+Sie möchten einen Religionsunterricht in konfessionell gemischten Lerngruppen nach Abschnitt VII des Erlasses Religionsunterricht
+anlegen und diesen korrekt eintragen.
+Die LUSD bietet kein Bekenntnis ökumenisch
+an.
+Sie fragen sich, ob Sie sich notgedrungen für
+freireligiös oder unitarisch entscheiden sollen.
+
+Legen Sie keinen Kurs an!
+Überweisen Sie Ihre Schüler/innen für den Religionsunterricht an die andere Schule. Sonst
+kann Ihre Kooperationsschule diese Schüler
+nicht dem Religionskurs zuordnen. Dies kann
+sich auf die Lehrerzuweisung auswirken (Kapitel
+0).
+Ordnen Sie dem Religionskurs auch die Gastschüler zu. Dies könnte sich auf die Lehrerzuweisung auswirken. Sollten die Schüler der Kooperationsschule/ des Nebenstandortes nicht an
+Ihre Schule überwiesen sein, sprechen Sie bitte
+die betreffende Schule an (Kapitel 3.2.1).
+Sie können den Kurs in der LUSD anlegen,
+müssen ihn aber auf 0 Stunden setzen, sollte
+der Unterricht bis zum 1. November nicht stattfinden.
+
+Es gibt keinen ökumenischen Religionsunterricht.
+Auch der Religionsunterricht in konfessionell gemischten Lerngruppen nach Abschnitt VII des
+Erlasses Religionsunterricht ist – auch wenn
+dies landläufig mitunter so (miss)verstanden
+wird – kein ökumenischer Religionsunterricht,
+sondern konfessioneller Religionsunterricht.
+Um welche konfessionelle Ausprägung es sich
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+26
+
+Falsch 
+
+Richtig ☺
+
+handelt, hängt allein von der Konfession der unterrichtenden Lehrkraft ab.
+Tragen Sie also den Kurs entsprechend der
+Konfession der Lehrkraft ein.
+Ordnen Sie einen Kurs im Sinne des Abschnitts
+VII des Erlasses Religionsunterricht nie einer
+Konfession zu, die damit nichts zu tun hat.
+„Freireligiös“ und „unitarisch“ sind keine Kollektivbezeichnungen für einen Religionsunterricht
+in konfessionell gemischten Lerngruppen oder
+einen (vermeintlich) konfessionsübergreifenden
+Religionsunterricht, den es aber von Verfassungswegen nicht geben kann und darf, sondern jeweils eigenständige Bekenntnisse. Bitte
+beachten Sie die Regeln zur Einrichtung einer konfessionell gemischten Lerngruppe.
+Schülerzahl/ Schülerzuordnung
+Sie ordnen zu Beginn des Schuljahres den
+Kursen noch keine Schüler zu.
+
+Achten Sie darauf, dass Sie vor dem Statistikstichtag (1.11.) die Schüler den richtigen Religionskursen zugeordnet haben.
+Die Erfassung aller Schüler in den Religionsunterrichten ist für die statistische Auswertung besonders wichtig.
+Ethik in Grundschulen
+Für die Zuweisung zusätzlicher Stunden für Ethik in der Grundschule müssen alle Eintragungen (teilnehmende
+Schüler und Lehrkraft) bereits vor dem
+endgültigen Zuweisungstermin erledigt
+werden, d.h. am Ende der 3. Schulwoche.
+
+Kursart Z / F
+Sie tragen als Kursart Z oder F ein.
+
+Religionskurse müssen die Kursart P und in
+der Sekundarstufe II die Kursart G oder L haben, da es sich auch bei Religionsunterrichten,
+die Bekenntnissen zahlenmäßig kleineren Religions-gemeinschaften folgen, immer um Pflichtunterrichte handelt, die dem evangelischen oder katholischen Religionsunterricht gleichgestellt sind.
+
+HMKB | LUSD | Religionsunterrichte in der LUSD abbilden | Version: 3.5 | Letzter Stand: 17.06.2025
+
+27
+
+

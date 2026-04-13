@@ -1,0 +1,141 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Beispiel zur Klassensuche
+1
+
+Zusammenfassung
+In der LUSD können Sie in der Klassensuche nach verschiedenen Klassen filtern. Sie
+erreichen die Klassensuche über die Webseite UNTERRICHT > LEISTUNGSERFASSUNG >
+KLASSEN oder die Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG.
+Folgende Beispiele werden im Dokument dargestellt:
+▪ Alle Klassen der Schulform G (siehe Kapitel 2)
+▪ Alle Klassen in der Schulform G und Stufe 01/2 (siehe Kapitel 3)
+▪ Alle Klassen von der Lehrerin Birgit Bücker (siehe Kapitel 4)
+▪ Alle Klassen mit der Bezeichnung 02 (siehe Kapitel 5)
+▪ Alle Klassen mit der Raumzuteilung R11 (siehe Kapitel 6)
+Tipp
+Verwenden Sie das Sternchen * bei der Suche als Platzhalter, um nach allen
+möglichen Auswahlmöglichkeiten zu suchen.
+Nutzen Sie den Suchoperator * für die unterschiedlichen Suchkriterien.
+Im Feld BEZEICHNUNG kann das Sternchen jeweils bei der Eingabe am
+Anfang, am Ende oder in Kombination als Platzhalter angegeben werden.
+
+2
+
+Alle Klassen der Schulform G
+Sie suchen nach allen Klassen der Schulform G.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Setzen Sie einen Haken in der Ebenenauswahl, um eine Schulform auszuwählen.
+Im Beispiel ist die Schulform G ausgewählt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Klassen angezeigt.
+
+HMKB | LUSD | Beispiel zur Klassensuche | Version: 2.0 | 08.04.2025
+
+1
+
+Abb. 1 Klassensuche: Beispiel Suche Schulform
+
+3
+
+Alle Klassen in der Schulform G und Stufe 01/2
+Sie suchen nach allen Klassen der Schulform G und die in die Stufe 01/2 gehören.
+1. Wählen Sie den Reiter SUCHE aus.
+1. Öffnen Sie die Ebenenauswahl unter einer Schulform.
+2. Setzen Sie einen Haken neben einer Stufe. Im Beispiel ist die Stufe 01/2 unter der
+Schulform G ausgewählt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Klassen angezeigt.
+
+Abb. 2 Klassensuche: Beispiel Suche Schulform und Stufe
+
+4
+
+Alle Klassen von der Lehrerin Birgit Bücker
+Sie suchen nach allen Klassen der Lehrerin Birgit Bücker.
+1. Wählen Sie den Reiter SUCHE aus.
+4. Setzen Sie einen Haken in der Ebenenauswahl, um eine oder mehr Schulformen
+auszuwählen. Im Beispiel sind die Schulformen G und VLK ausgewählt.
+5. Wählen Sie bei den WEITEREN FILTERN einen KLASSENLEHRER aus. Im Beispiel ist die
+Lehrerin Birgit Bücker ausgewählt.
+6. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter Ergebnis werden die gefilterten Klassen angezeigt.
+
+HMKB | LUSD | Beispiel zur Klassensuche | Version: 2.0 | 08.04.2025
+
+2
+
+Abb. 3 Klassensuche: Beispiel Suche Klassenlehrer
+
+5
+
+Alle Klassen mit der Bezeichnung 02
+Sie suchen nach allen Klassen, die mit der Bezeichnung 02 beginnen
+1. Wählen Sie den Reiter SUCHE aus.
+7. Setzen Sie einen Haken in der Ebenenauswahl, um eine oder mehr Schulformen
+auszuwählen. Im Beispiel sind die Schulformen G und VLK ausgewählt.
+8. Wählen Sie bei den WEITEREN FILTERN eine BEZEICHNUNG aus. Im Beispiel ist die
+Bezeichnung 02 ausgewählt.
+9. Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Klassen angezeigt.
+
+Abb. 4 Klassensuche: Beispiel Suche Bezeichnung
+
+6
+
+Alle Klassen mit der Raumzuteilung R11
+Sie suchen nach allen Klassen, denen der Raum R11 zugeteilt wurde.
+1. Wählen Sie den Reiter SUCHE aus.
+10.
+Setzen Sie einen Haken in der Ebenenauswahl, um eine oder mehr Schulformen
+auszuwählen. Im Beispiel sind die Schulformen G und VLK ausgewählt.
+11.
+Wählen Sie bei den WEITEREN FILTERN einen RAUM aus. Im Beispiel ist der Raum
+R11 ausgewählt.
+12.
+
+Klicken Sie auf die Schaltfläche
+
+.
+
+Im Reiter ERGEBNIS werden die gefilterten Klassen angezeigt.
+
+HMKB | LUSD | Beispiel zur Klassensuche | Version: 2.0 | 08.04.2025
+
+3
+
+Abb. 5 Klassensuche: Beispiel Suche Raum
+
+HMKB | LUSD | Beispiel zur Klassensuche | Version: 2.0 | 08.04.2025
+
+4
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Beispiel zur Klassensuche | Version: 2.0 | 08.04.2025
+
+5
+
+

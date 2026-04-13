@@ -1,0 +1,173 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Beispiel zur Personalsuche
+1
+
+Zusammenfassung
+In der LUSD können Sie in der Personalsuche nach Personal filtern. Sie erreichen die
+Personalsuche zum Beispiel über die Webseiten PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGEN. Im Fenster gibt es zwei Register, die für die Suche verwendet werden
+kann.
+Folgende Beispiele werden im Dokument dargestellt:
+▪ Gesamte Personal der Schule (siehe Kapitel 2)
+▪ Alle Personen vom Personaltyp Lehrer (siehe Kapitel 3)
+▪ Alle Personen vom Personaltyp Lehrer mit dem Kürzel S0 (siehe Kapitel 4)
+▪ Alle Personen mit dem Personaltyp Lehrer und dem Nachnamen M (siehe Kapitel 5)
+▪ Gesamtes inaktives Personal (siehe Kapitel 6)
+▪ Alle Personen, die nicht UV-relevant sind (siehe Kapitel 7)
+▪ Alle Personen, deren Wohnort mit B beginnt (siehe Kapitel 8)
+Tipp
+Verwenden Sie das Sternchen * bei der Suche als Platzhalter, um nach allen
+möglichen Auswahlmöglichkeiten zu suchen.
+Nutzen Sie den Suchoperator * für die unterschiedlichen Suchkriterien.
+In den Feldern NACHNAME und KÜRZEL kann das Sternchen jeweils bei der
+Eingabe am Anfang, am Ende oder in Kombination als Platzhalter angegeben
+werden.
+
+2
+
+Gesamte Personal der Schule
+Sie suchen nach dem gesamten Personal der Schule.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+HMKB | LUSD | Beispiel zur Personalsuche | Version: 2.0 | 08.04.2025
+
+1
+
+Abb. 1 Personalsuche: Beispiel Suche – gesamtes Personal
+
+3
+
+Alle Personen vom Personaltyp Lehrer
+Sie suchen nach allen Personen mit dem Personaltyp Lehrer.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Wählen Sie im Feld PERSONALTYP die Auswahl Lehrer aus.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 2 Personalsuche: Beispiel Suche Personaltyp
+
+4
+
+Alle Personen vom Personaltyp Lehrer mit dem Kürzel S0
+Sie suchen nach allen Personen mit dem Personaltyp Lehrer und dem Kürzel S0.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Wählen Sie im Feld PERSONALTYP die Auswahl Lehrer aus.
+3. Geben Sie im Feld KÜRZEL S0* ein, um nach allen Kürzeln, die mit S0 beginnen zu
+suchen. Der Suchoperator * dient als Platzhalter in der Suche.
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 3 Personalsuche: Beispiel Suche Personaltyp und Kürzel
+
+HMKB | LUSD | Beispiel zur Personalsuche | Version: 2.0 | 08.04.2025
+
+2
+
+5
+
+Alle Personen mit dem Personaltyp Lehrer und dem Nachnamen M
+Sie suchen nach allen Personen mit dem Personaltyp Lehrer und dessen Nachname mit M
+beginnt.
+1. Wählen Sie den Reiter SUCHE aus.
+5. Wählen Sie im Feld PERSONALTYP die Auswahl Lehrer aus.
+6. Geben Sie im Feld NACHNAME M* ein, um nach allen Namen zu suchen, die mit einem M
+beginnen. Der Suchoperator * dient als Platzhalter in der Suche.
+7. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 4 Personalsuche: Beispiel Suche Personaltyp und Nachname
+
+6
+
+Gesamtes inaktives Personal
+Sie suchen nach dem gesamten inaktiven Personal.
+1. Wählen Sie den Reiter SUCHE aus.
+2. Setzen Sie einen Haken bei der Auswahl INAKTIVES PERSONAL.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 5 Kurssuche: Beispiel Suche nach inaktives Personal
+
+7
+
+Alle Personen, die nicht UV-relevant sind
+Sie suchen nach allen Personen, die nicht UV-relevant sind.
+1. Wählen Sie den Reiter ERWEITERTE SUCHE aus.
+2. Wählen Sie in der Auswahl den Eintrag NACHNAME aus.
+3. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen.
+4. Geben Sie im Freitextfeld zz ein, damit alle Namen durchsucht werden.
+5. Wählen Sie in der Auswahl den Eintrag UV-RELEVANT (JA/NEIN) aus.
+6. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+
+HMKB | LUSD | Beispiel zur Personalsuche | Version: 2.0 | 08.04.2025
+
+3
+
+7. Geben Sie im Freitextfeld nein ein.
+8. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 6 Personalsuche: Beispiel Erweiterte Suche Nachname und UV-relevant
+
+8
+
+Alle Personen, deren Wohnort mit B beginnt
+Sie suchen nach allen Personen, deren Wohnort mit B beginnt.
+1. Wählen Sie den Reiter ERWEITERTE SUCHE aus.
+2. Wählen Sie in der Auswahl den Eintrag NACHNAME aus.
+3. Setzen Sie ein <= (in Worten: Kleiner-Gleich-Zeichen) Zeichen.
+4. Geben Sie im Freitextfeld zz ein, damit alle Namen durchsucht werden.
+5. Wählen Sie in der Auswahl den Eintrag WOHNORT aus.
+6. Setzen Sie ein = (in Worten: Gleichheitszeichen) Zeichen.
+7. Geben Sie im Freitextfeld B* ein.
+Der Suchoperator * dient als Platzhalter in der Suche.
+8. Klicken Sie auf die Schaltfläche
+
+.
+
+Die Ergebnisse werden in der Liste PERSONAL DER SCHULE angezeigt.
+
+Abb. 7 Personalsuche: Beispiel Erweiterte Wohnort
+
+HMKB | LUSD | Beispiel zur Personalsuche | Version: 2.0 | 08.04.2025
+
+4
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Beispiel zur Personalsuche | Version: 2.0 | 08.04.2025
+
+5
+
+

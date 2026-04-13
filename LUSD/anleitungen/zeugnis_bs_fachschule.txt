@@ -1,0 +1,331 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zweijährige Fachschule
+Übersicht und Zeugnisse
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Zeugnis des ersten Ausbildungsabschnittes
+
+VO Anlage 8
+
+A4
+
+Zeugnis über den ersten
+Ausbildungsabschnitt
+Zweijährige Fachschule
+
+Abgangszeugnis ohne Abschluss-PrüfungsDatum
+
+VO Anlage 10a A4
+
+Abgangszeugnis
+Zweijährige Fachschule
+(ohne
+Abschlussprüfungsdatum)
+
+Abgangszeugnis mit Abschluss-Prüfungs-Datum VO Anlage 10b A4
+
+Abgangszeugnis
+Zweijährige Fachschule
+(mit
+Abschlussprüfungsdatum)
+
+Zusatzzeugnis Berufs- und Arbeitspädagogik
+
+VO Anlage 12 A4
+
+Zusatzzeugnis 1
+(Nachweis der beruf- und
+arbeitspädagogischen
+Eignung)
+
+Abschlusszeugnis A3
+
+VO Anlage 9 A3
+
+Abschlusszeugnis
+Zweijährige Fachschule
+
+Ergänzungszeugnis A3
+
+VO Anlage 11 A3
+
+Zeugnis über die
+Ergänzungsprüfung
+Zweijährige Fachschule
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+Beispielzeugnis
+
+1
+
+2
+
+Kursmerkmale
+
+Kurse
+
+Kursart
+
+Kursdifferenzierung
+
+Allgemeiner Lernbereich
+
+P
+
+-
+
+Beruflicher Lernbereich
+
+P
+
+-
+
+Fächer Wahlpflichtbereich
+
+W
+
+-
+
+Zusatzunterricht zur Fachhochschulreife; gegebenenfalls
+Themen anlegen. (z.B.: Mathematik zur Fachhochschulreife)
+
+W
+
+ZUF
+
+Fächer Wahlbereich
+
+F
+
+3
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum Zeugniszuweisung
+
+Beginn Schulbesuch
+
+automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum
+
+Ende Schulbesuch Abschlusszeugnis A3
+
+Abschluss-Prüfungsdatum
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Register Projektprüfung:
+Thema und Note Prüfungsarbeit I (ganze Note)
+
+LUSD und ENC: Thema und Note
+Prüfungsarbeit I
+
+Thema und Note Prüfungsarbeit II (ganze Note)
+
+LUSD und ENC: Thema und Note
+Prüfungsarbeit II
+
+Thema und Note Projektarbeit (ganze Note)
+
+LUSD und ENC: Thema und Note
+Projektarbeit
+
+Note Praktische Prüfung (ganze Note)
+
+LUSD und ENC: Note Praktische Prüfung
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+2
+
+Note
+
+Eingabe
+
+Register Gesamtnoten:
+▪ LUSD oder ENC
+▪ Gesamtnote beruflicher Bereich,
+▪ Gesamtnote beruflicher Bereich
+
+schriftliche Prüfung (BAP) und praktische
+
+▪ Schriftliche Note (BAP)
+
+Prüfung (BAP):
+
+▪ Endnote/Prüfungsnote
+
+▪ Eingabe ganzer Schulnoten: „1-6“
+
+▪ Durchschnittsnote Fachhochschulreife
+
+▪ Endnote / Prüfungsnote und
+
+▪ Praktische Prüfung (BAP)
+
+Durchschnittsnote
+▪ Fachhochschulreife: Eingabe der Noten
+als Dezimalzahl: „2,4“
+
+Abb. 1 Beispiel für das Register Gesamtnoten in der LUSD. Schulform FS2T/BEWL/CTRL
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+3
+
+Abb. 2 Beispiel für das Register Projektprüfung in der LUSD. Schulform FS2T/BEWL/CTRL
+
+5
+
+Hinweise
+
+▪ Die Fächer der verschiedenen Lernbereiche, des Wahlpflichtbereichs sowie des Wahlbereichs
+werden in den Zeugnissen nur angezeigt, wenn entsprechende Kurse belegt wurden.
+▪ Bei Fachrichtungen mit Lernfeldern werden alle Lernfelder des beruflichen Lernbereichs angezeigt.
+Zur Noteneingabe ist die Belegung entsprechender Kurse erforderlich.
+Bei Jahreszeugnissen FS2V Stufe 01/2 * erscheint automatisch der Satz: „Er/Sie wird zum zweiten
+Ausbildungsabschnitt zugelassen“. Durch den Eintrag Versetzung NEIN im Register
+VERSETZUNG/EIGNUNG erscheint folgender Satz: „Er/Sie wird zum zweiten Ausbildungsabschnitt
+nicht zugelassen.“
+*Ausnahme: Bei der Fachschule in Teilzeit 01/2 wird dieser Satz nicht ausgewiesen, da ab 02/1
+noch zweiter Ausbildungsabschnitt beginnt.
+▪
+
+Zur Bestätigung der Fachhochschulreife muss bei der Zeugniszuweisung neben dem Abschluss
+auch die Fachhochschulreife als zweiter Abschluss ausgewählt werden.
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+4
+
+6
+
+Beispielzeugnisse
+
+6.1
+
+Zeugnis über den ersten Ausbildungsabschnitt Zweijährige Fachschule
+
+Abb. 3 Beispiel Jahreszeugnis Fachschule (01/2) in Teilzeit (Vorderseite).
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+5
+
+Abb. 4 Beispiel Jahreszeugnis Fachschule in Teilzeit (Rückseite).
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+6
+
+6.2
+
+Abgangszeugnis Zweijährige Fachschule (ohne Abschlussprüfungsdatum)
+
+Abb. 5 Abgangszeugnis (vorzeitig) ohne Abschluss-Prüfungs-Datum (Vorderseite).
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+7
+
+Abb. 6 Abgangszeugnis (vorzeitig) ohne Abschluss-Prüfungs-Datum (Rückseite)
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+8
+
+6.3
+
+Abgangszeugnis Zweijährige Fachschule (mit Abschlussprüfungsdatum)
+
+Abb. 7 Abgangszeugnis mit Abschluss-Prüfungs-Datum. (Vorderseite).
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+9
+
+Abb. 8 Abgangszeugnis mit Abschluss-Prüfungs-Datum. (Rückseite).
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+10
+
+6.4
+
+Zusatzzeugnis 1 (Nachweis der beruf- und arbeitspädagogischen Eignung)
+
+Eintragungen unter
+Unterricht>Leistungserfassung>Schüler
+Register Gesamtnoten
+
+Abb. 9 Zusatzzeugnis 1 Nachweis der beruf- und arbeitspädagogischen Eignung
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+11
+
+6.6
+
+Abschlusszeugnis Zweijährige Fachschule
+
+Abb. 10 Abschlusszeugnis Zweijährige Fachschule (außen, Vorder- und Rückseite)
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+12
+
+Dieser Absatz zur Fachhochschulreife
+erscheint nur, wenn bei der
+Zeugniszuweisung als zweiter Abschluss
+FHR zugewiesen wird.
+
+Abb. 11 Abschlusszeugnis Zweijährige Fachschule (innen)
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+13
+
+6.7
+
+Zeugnis über die Ergänzungsprüfung Zweijährige Fachschule
+
+Abb. 12 Ergänzungszeugnis Zweijährige Fachschule (außen, Vorder- und Rückseite)
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+14
+
+Abb. 13 Ergänzungszeugnis Zweijährige Fachschule (innen)
+
+LUSD | Zweijährige Fachschule | Version: 2.0 | 13.10.2025
+
+15
+
+

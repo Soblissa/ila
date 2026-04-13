@@ -1,0 +1,269 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassen sonderpädagogischer Förderungen
+Vorbeugende Maßnahmen (VM) – Inklusive Beschulung (IB)
+
+Zu diesem Dokument
+Diese Anleitung beschreibt, wie Sie vorbeugende Maßnahmen (VM) und Inklusive Beschulung (IB)
+in der LUSD erfassen.
+Seit dem 01.08.2012 werden in der LUSD die Vorgaben des Hessischen Schulgesetzes in der
+Fassung vom 30. Juni 2017 (GVBl. S. 150), geändert durch Gesetz vom 3. Mai 2018 (GVBl. S. 82)
+im Bereich Sonderpädagogische Förderungen umgesetzt.
+Unterschieden wird zwischen…
+▪ Vorbeugender Maßnahme (VM) und
+▪ Inklusiver Beschulung (IB).
+Um welche Maßnahme es sich im konkreten Fall handelt, ist auf der Grundlage der Rechtsvorschriften (Schulgesetz und Verordnung VOSB) zu entscheiden und zwischen allgemeiner und fördernder Schule abzustimmen.
+Hinweis
+Mit Inkrafttreten des Erlasses Feste Zuweisung von Förderschullehrkräften für den Inklusiven Unterricht an Grundschulen - Einführung einer sonderpädagogischen Grundzuweisung vom 13.02.2020 besteht ab dem Schuljahr 2020/21 die Möglichkeit, dass Förderschullehrkräfte zum Personalstamm der allgemeinen Schule gehören.
+Schüler, die innerhalb der sonderpädagogischen Grundzuweisung gefördert werden, sind
+in der LUSD einzutragen. Die fördernde Einrichtung ist in diesem Fall die eigene Schule.
+Ist ein Beratungs- und Förderzentrum ergänzend an der allgemeinen Schule tätig, ist
+diese Förderung mit dem BFZ als fördernder Schule zu erfassen.
+
+1
+
+Berichte zu Sonderpädagogische Förderungen
+Die Berichte SONDERPÄDAGOGISCHE FÖRDERUNGEN (mit oder ohne Ansprechpartner) rufen
+Sie in der LUSD auf der Webseite EXTRAS > BERICHTSVERWALTUNG > SCHÜLER > ALLG. LISTEN auf (Abb. 1).
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+1
+
+Sie geben Ihnen eine Übersicht über die eingetragenen sonderpädagogischen Förderungen.
+Es gibt sie in zwei Versionen:
+▪ In der Version Stammschule sieht die Stammschule, welche Schüler bei ihr im Rahmen
+von Vorbeugenden Maßnahmen (VM) oder Inklusiver Beschulung (IB) gefördert werden
+und welche Förderschule (BFZ) sie fördert.
+▪ In der Version Fördernde Schule sieht die Förderschule (BFZ) alle Schüler, für die an
+der jeweiligen Stammschule eine sonderpädagogische Förderung mit ihr als fördernde
+Schule eingetragen wurde.
+
+Abb. 1 Webseite Berichtsverwaltung: Aufruf der Berichte Sonderpädagogische Förderung
+
+Abb. 2 Beispielbericht Sonderpädagogische Förderung (ohne Ansprechpartner) – Stammschule
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+2
+
+2
+
+Vorbeugende Maßnahme (VM) für Schüler erfassen
+Sonderpädagogische Förderungen im Rahmen einer Vorbeugenden Maßnahme (VM) werden an der Stammschule der geförderten Schüler erfasst. Die Stammschule legt dazu in
+der LUSD eine Förderung für die jeweiligen Schüler an (siehe Kapitel 3).
+Hinweis
+Seit Einführung der SAP-LUSD-Schnittstelle und den Berichten SONDERPÄDAGOGISCHE FÖRDERUNG gilt Folgendes:
+▪ Keine Überweisung der Schüler im Rahmen des Kandidatenverfahrens ÜBERWEISUNG SONDERPÄDAGOGISCHE FÖRDERUNG mehr.
+
+▪ Keine damit verbundene Verplanung der Unterrichtsstunden im Rahmen von
+STFÖ-Kursen mehr.
+1. Prüfen Sie zunächst auf der Webseite SCHULE > SCHULUMFELD > SCHULEN, ob die fördernde Schule in der Tabelle Ihres Schulumfeldes enthalten ist.
+2. Falls dies nicht der Fall ist, fügen Sie die benötigte Schule ihrem Schulumfeld zu. Erst
+danach können Sie die Schule im Dialogfenster FÖRDERUNG HINZUFÜGEN/BEARBEITEN
+auswählen.
+3. Rufen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN auf.
+
+Abb. 3 Webseite Halbj./Sem-.-Daten
+
+4. Wählen Sie die gewünschten Schüler über die Schülersuche aus.
+5. Klicken Sie unter dem Bereich FÖRDERUNGEN - SONDERPÄDAGOGISCHE FÖRDERUNGEN
+auf das Symbol
+.
+6. Geben Sie im Dialogfenster FÖRDERUNG HINZUFÜGEN/BEARBEITEN die Förderung für den
+ersten Schüler wie folgt ein (siehe Tabelle):
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+3
+
+Abb. 4 Dialogfenster Förderung hinzufügen/bearbeiten
+
+Feld
+
+Eingabe
+
+Bemerkung
+
+Datum des Förderbeginns
+
+Geben Sie das Datum ein oder klicken
+
+*Pflichtfeld
+
+Von*
+
+auf das Kalender Symbol
+
+Bis*
+
+.
+
+Sobald der Förderbeginn eingetragen
+
+Die Förderungsdauer ist mit dem Da-
+
+ist, erscheint automatisch das Datum
+des Schuljahresendes.
+
+tum des Schuljahresendes vorbelegt,
+kann aber beliebig angepasst werden.
+
+Sie können das Datum bearbeiten.
+
+Es empfiehlt sich, für VM eine Dauer
+von maximal einem Schuljahr zu wählen.
+Wird ein Schüler an seiner Stammschule ehemalig, wird die Förderung
+automatisch beendet.
+
+Förderungs- Wählen Sie eine Option mit VM-xx
+art*
+Fördernde
+Schule*
+
+▪ Gehört die fördernde BFZ-Lehr-
+
+Beispiel: VM-HÖR
+
+Hier können Sie die Schulen auswäh-
+
+kraft zum Stammpersonal des
+
+len, die auf der Webseite SCHULE >
+
+BFZ, wählen Sie Ihr zuständiges
+
+SCHULUMFELD > SCHULEN in einer
+Tabelle Ihres Schulumfeldes enthalten sind.
+
+BFZ aus.
+▪ Gehört die Förderschullehrkraft
+zum Stammpersonal Ihrer Schule,
+wählen Sie hier Ihre eigene Schule
+aus.
+
+7. Klicken Sie auf
+
+und dann auf
+
+.
+
+8. Wiederholen Sie die Schritte 3 bis 6 für alle ausgewählten Schüler.
+9. Sobald Sie für alle ausgewählten Schüler die Förderungen erfasst haben, klicken Sie auf
+.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+4
+
+3
+
+Inklusive Beschulung (IB) für Schüler erfassen
+Hinweis
+Bei inklusiver Beschulung …
+▪ werden Kinder und Jugendliche mit und ohne Anspruch auf sonderpädagogische Förderung gemeinsam an einer allgemeinbildenden Schule unterrichtet.
+▪ unterstützt – abhängig vom Förderschwerpunkt und der Zahl der Schüler mit
+Anspruch auf sonderpädagogische Förderung – eine zusätzliche Förderschullehrkraft die betroffenen Schüler im Unterricht.
+▪ wird die Förderschullehrkraft entweder von der fördernden Schule an die allgemeinbildende Schule abgeordnet oder gehört zum Personalstamm der allgemeinbildenden Schule.
+▪ werden Schülerinnen und Schüler in der Schülerstufe geführt, die ihrem Schulbesuchsjahr entspricht.
+
+1. Rufen Sie die Webseite SCHÜLER > SCHÜLERBASISDATEN > HALBJ./SEM.-DATEN auf (Abb.
+3)
+2. Wählen Sie die gewünschten Schüler über die Schülersuche aus.
+3. Klicken Sie unter dem Bereich FÖRDERUNGEN - SONDERPÄDAGOGISCHE FÖRDERUNGEN
+auf das Symbol
+.
+4. Geben Sie im Dialogfenster FÖRDERUNG HINZUFÜGEN/BEARBEITEN (Abb. 4) die Förderung
+für den ersten Schüler wie folgt ein:
+Feld
+
+Eingabe
+
+Bemerkung
+
+Datum des Beginns der inklusiven
+Beschulung.
+
+Geben Sie das Datum ein oder klicken
+
+Sobald das Datum des IB-Beginns
+
+Die Förderungsdauer ist mit dem Da-
+
+eingetragen ist, erscheint automa-
+
+tum des Schuljahresendes vorbelegt,
+
+tisch das Datum des Schuljahresendes.
+
+kann aber angepasst werden.
+
+Sie können das Datum bearbeiten.
+
+über die Dauer von zwei Schuljahren
+
+*Pflichtfeld
+
+Von*
+
+Bis*
+
+auf das Kalender Symbol
+
+.
+
+Eine IB-Förderung wird in der Regel
+angelegt (vgl. § 11 (1) VOSB)
+Wird ein Schüler an seiner Stammschule ehemalig, wird die Förderung
+automatisch beendet.
+
+Förderungsart*
+
+Wählen Sie eine Option mit IB-xx.
+
+Beispiel: IB-LER
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+5
+
+Fördernde
+Schule*
+
+▪ Gehört die fördernde BFZ-Lehr-
+
+Hier können Sie die Schulen auswäh-
+
+kraft zum Stammpersonal des
+
+len, die auf der Webseite SCHULE >
+
+BFZ, wählen Sie Ihr zuständi-
+
+SCHULUMFELD > SCHULEN in einer
+
+ges BFZ aus.
+
+Tabelle Ihres Schulumfeldes enthalten
+
+▪ Gehört die Förderschullehrkraft
+
+sind.
+
+zum Stammpersonal Ihrer
+Schule, wählen Sie hier Ihre eigene Schule aus.
+
+Förderschullehrkraft einem Kurs zuordnen
+Gehört die Förderschullehrkraft zum LUSD Personalstamm Ihrer Schule, müssen Sie deren
+Unterricht in der Unterrichtsverteilung (UV) abbilden.
+Ordnen Sie die Förderschullehrkraft auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+LEHRER-KURSZUORDNUNG dem gewünschten Kurs zu.
+
+HMKB | LUSD | Erfassen sonderpädagogischer Förderungen | Version:.4.2 | 02.04.2025
+
+6
+
+

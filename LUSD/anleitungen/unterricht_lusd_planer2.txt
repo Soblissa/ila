@@ -1,0 +1,1323 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+LUSD-Planer 2.0
+Stundenplanung in der LUSD vornehmen
+
+Version: 3.0
+Letzter Stand: 03.11.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+2
+
+Inhalt dieses Dokuments .......................................................................................................................... 2
+Zielgruppe und vorausgesetzte Kenntnisse .............................................................................................. 2
+LUSD-Anwenderunterstützung ................................................................................................................. 2
+
+LUSD-Planer 2.0
+
+3
+
+1
+
+Tastaturbedienung - Registerwechsel - Tabellen ............................................................................. 3
+
+2
+
+Vorgehensweise bei der Stundenplanung ....................................................................................... 3
+2.1
+
+Einzelne Schritte bei der Stundenplanung .............................................................................. 3
+
+2.2
+
+Kopplungen anlegen .............................................................................................................. 4
+
+3
+
+Starten des LUSD-Planers 2.0 ........................................................................................................ 7
+
+4
+
+Register Stundenplanung ................................................................................................................ 8
+
+5
+
+6
+
+4.1
+
+Sperrungen ............................................................................................................................ 9
+
+4.2
+
+Stundenplan stecken ............................................................................................................ 12
+
+4.3
+
+Unterrichtsfrequenzen .......................................................................................................... 16
+
+4.4
+
+Stundenplan berechnen ....................................................................................................... 17
+
+4.5
+
+Planungselemente im Hauptplan .......................................................................................... 20
+
+4.6
+
+Kollisionen ............................................................................................................................ 21
+
+4.7
+
+PDF des aktuellen Plans ...................................................................................................... 22
+
+4.8
+
+Größenanpassungen/Maximierung/Minimierung .................................................................. 23
+
+Register UV-Abgleich .................................................................................................................... 24
+5.1
+
+„Synchronisation“/Abgleich mit UV ....................................................................................... 24
+
+5.2
+
+UV-Abgleich bei Änderung in der Lehrer-Kurs-Zuordnung.................................................... 24
+
+5.3
+
+UV-Abgleich nach Inaktivieren einer Lehrkraft oder Abhaken der UV-Relevanz ................... 25
+
+5.4
+
+UV-Abgleich bei Schülern..................................................................................................... 26
+
+5.5
+
+UV-Abgleich der Kurskopplungen......................................................................................... 27
+
+Register Stundenplanauswahl ....................................................................................................... 29
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+2
+
+7
+
+8
+
+6.1
+
+Stundenplan anlegen ........................................................................................................... 30
+
+6.2
+
+Stundenplan öffnen .............................................................................................................. 30
+
+6.3
+
+Stundenplan umbenennen ................................................................................................... 30
+
+6.4
+
+Stundenplan löschen ............................................................................................................ 31
+
+6.5
+
+Stundenplan aktivieren ......................................................................................................... 31
+
+6.6
+
+Stundenplan kopieren .......................................................................................................... 32
+
+Register Berichte ........................................................................................................................... 32
+7.1
+
+Stundenpläne für Klassen, Lehrkräfte, Räume und Schüler ................................................. 33
+
+7.2
+
+Direktoratspläne – Übersichtspläne für Schulleitung und Verwaltung ................................... 33
+
+7.3
+
+Kurskopplungen in Stundenplänen ....................................................................................... 33
+
+Register Konfiguration ................................................................................................................... 34
+8.1
+
+Globale Sperrung erstellen ................................................................................................... 35
+
+8.2
+
+Globale Sperrung löschen .................................................................................................... 35
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt die in der LUSD notwendigen Arbeitsschritte für die
+Stundenplanung in der LUSD.
+Im Gegensatz zur Funktion Stundenplanschnittstelle 2.0 bietet der LUSD-Planer 2.0 die
+Möglichkeit, Stundenpläne direkt in der LUSD zu erstellen, ohne dafür Daten von externen
+Programmen importieren zu müssen. Die Daten, die Sie innerhalb der LUSD in Ihre UV eintragen,
+können direkt in den LUSD-Planer 2.0 übernommen werden. Auch ist es möglich, eine
+Stundenplanung auf der Grundlage einer selbst oder automatisch erstellten Planungsvariante
+durchzuführen.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an LUSD-Benutzer, die Stundenplanung in der LUSD durchführen
+möchten. Basiskenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser
+Anleitung nicht näher beschrieben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+2
+
+LUSD-Planer 2.0
+1
+
+Tastaturbedienung - Registerwechsel - Tabellen
+▪ Die Steuerelemente eines Registers sowie die „Splitter“, die Stundenpläne trennen, sind
+mit der Tab-Taste oder der Tastenkombination Shift+Tab erreichbar.
+▪ Ein Registerwechsel ist nur möglich, wenn die Schaltfläche SPEICHERN inaktiv ist.
+▪ Die Sortierung von Datensätzen innerhalb einer Tabelle ist in ausgewählten Tabellen
+(z.B. im Register STUNDENPLANUNG in der Tabelle KURSE) durch Klicken in den
+Spaltenkopf möglich.
+
+2
+
+Vorgehensweise bei der Stundenplanung
+
+2.1
+
+Einzelne Schritte bei der Stundenplanung
+1. Pflegen Sie die Räume ihrer Schule und einen Raum mit dem Kürzel NN ein. (Webseite
+RAUMBESTAND)
+2. Pflegen Sie Ihre UV vor Beginn der Stundenplanung vollständig. Stellen Sie sicher,
+dass
+▪ alle Klassen vorhanden sind (Webseite KLASSENBILDUNG)
+▪ alle Schüler einer Klasse zugeordnet sind (Webseite KLASSENBILDUNG)
+▪ das Merkmal Klassenkurs korrekt gepflegt ist. Klassenkurse sind nur Kurse, denen
+alle Schüler der Klasse zugeordnet sind. (Webseite KURSBEARBEITUNG FELD KURS
+FÜR)
+▪ das Merkmal Klassenkurs übergreifender Kurs korrekt gepflegt ist. (Webseite
+KURSBEARBEITUNG FELD KURS FÜR)
+▪ den Kursen Lehrkräfte zugeordnet sind (Webseiten KURSBEARBEITUNG und
+LEHRKRÄFTE-KURS-ZUORDNUNG)
+▪ den Kursen Räume zugeordnet sind (Webseite KURSBEARBEITUNG)
+▪ die Schüler den Kursen korrekt zugeordnet sind (Webseite SCHÜLER-KURSZUORDNUNG)
+3. Legen Sie Kurskopplungen an (Kap. 2.2), wenn an Ihrer Schule Unterricht „auf
+Band/Bank/Leisten“ stattfindet. Dies ist der Fall, wenn z.B. Ethik- und Religionskurse
+einer Jahrgangsstufe zeitgleich unterrichtet werden.
+4. Starten Sie den LUSD-Planer 2.0 (Kap. 2.2). Pflegen Sie dort zunächst im Register
+KONFIGURATION (Kap. 8) das Stundenplanraster ihrer Schule ein. Hier sperren Sie
+Stunden, die global für den Unterricht nicht zur Verfügung stehen sollen. Das
+voreingestellte Stundenplanraster ermöglicht Planungen von Montag bis Freitag in den
+Stunden 1 bis 12.
+5. Legen Sie im Register STUNDENPLANAUSWAHL Ihren ersten Stundenplan an und öffnen
+Sie diesen (Kap. 6.1).
+Im Register STUNDENPLANUNG können Sie in Ihrem geöffneten Stundenplan nun
+▪ Sperrungen (Kap. 4.1) anlegen,
+▪ Stunden stecken und bearbeiten (Kap. 4.2),
+▪ oder ein Stundenplan berechnen lassen (Kap. 4.4)
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+3
+
+▪ Unterrichtsdaten holen/prüfen (Kap. 0),
+▪ ggf. eine PDF der erstellten Stundenpläne generieren (Kap. 0).
+Im Register STUNDENPLANAUSWAHL können Sie die angelegten und bearbeiteten
+Stundenpläne anschließend umbenennen, löschen, aktivieren, kopieren oder erneut
+öffnen (Kap. 6).
+
+Hinweis für Anwender/innen, die bisher den externen LUSD-Planer benutzt
+haben
+Im Gegensatz zum externen LUSD-Planer können Sie beim LUSD-Planer 2.0
+▪ keine Kurse,
+▪ keine Lehrkräfte-Kurszuordnung und
+▪ keine Schüler-Kurszuordnung
+anlegen, bearbeiten oder löschen!
+
+2.2
+
+Kopplungen anlegen
+1. Legen Sie Kopplungen auf der Webseite UNTERRICHT > STUNDENPLAN >
+KURSKOPPLUNGEN an, bevor Sie Stunden im Stundenplan stecken.
+
+Hinweise
+Ein Kurs kann nur einer Kopplung zugeordnet werden. Bereits gekoppelte Kurse
+werden in der Tabelle KURSE DER SCHULE ausgegraut dargestellt.
+Kurskopplungen werden nur erfolgreich abgespeichert, wenn die Kurse der
+Kopplung verschiedene Lehrkräfte haben, in verschiedenen Räumen stattfinden
+und deren Stundenzahlen übereinstimmen.
+Legen Sie nach Möglichkeit Kurskopplungen vor der Erstellung des Stundenplans
+an. Aktualisieren Sie den Stundenplan bei einer Anlage der Kurskopplungen nach
+seiner Erstellung (siehe Kapitel 5.5)
+Beispiel
+Folgende Kurse wurden auf der Seite UNTERRICHT > STUNDENPLAN > KURSKOPPLUNGEN in
+einer Kopplung zusammengefasst:
+
+Abb. 1 Webseite Kurskopplungen: Kopplungen
+
+1. Klicken Sie auf die Schaltfläche DATEN HOLEN / PRÜFEN und danach auf SCHLIEßEN.
+Öffnen Sie die Seite erneut. Im Arbeitsbereich des Stundenplans werden die Kurse
+folgendermaßen angezeigt:
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+4
+
+Abb. 2 Detailansicht: Gekoppelte Kurse (ein- und ausgeklappt)
+
+2. Schieben Sie die Kopplung auf ein Stundenfeld (Abb. 3). Sichern Sie Ihre Änderungen
+durch Klick auf die Schaltfläche SPEICHERN.
+
+Abb. 3 Detailansicht: Zuordnung einer Kopplung zu einer Stunde im Stundenplan
+
+Die Stunde wird sowohl im Plan von Lehrer V040 (Abb. 4) als auch im Plan von Lehrer
+U046 angezeigt (Abb. 5)
+
+Abb. 4 Detailansicht: Anzeige der zugeordneten Kopplung im Lehrer-Stundenplan (Beispiel I)
+
+Abb. 5 Detailansicht: Anzeige der zugeordneten Kopplung im Lehrer-Stundenplan (Beispiel II)
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+5
+
+2.2.1
+
+Details zur Unterrichtsstunde eines gekoppelten Kurses
+
+Folgende Details werden für die Unterrichtsstunde eines gekoppelten Kurses angezeigt.
+
+Abb. 6 Webseite LUSD-Planer 2.0: Details zur Kurskopplung
+
+2.2.2
+
+Anzeige einer Kopplung mit hinzugefügter Klasse im Klassenplan
+
+1. Fügen Sie auf der Seite KURSKOPPLUNGEN im Register KLASSE eine Klasse zu einer
+Kopplung hinzu im Sinne von „von der Kopplung betroffene Klasse“.
+
+Abb. 7 Detailansicht: Anlage einer Kurskopplung auf der Seite Kurskopplung
+
+Eine so gepflegte Kopplung erscheint im Klassenplan der jeweiligen Klassen.
+2. Öffnen Sie die Seite LUSD-PLANER 2.0.
+3. Klicken Sie die Schaltfläche DATEN HOLEN / PRÜFEN.
+Sie erhalten ggf. eine Meldung im Register UV-ABGLEICH. Die Kopplung wird beim
+Planungselement KLASSE angezeigt und kann dort verplant werden.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+6
+
+Abb. 8 Detailansicht: Kurskopplung auf der Seite LUSD-Planer 2.0 (Beta)
+
+2.2.3
+
+Kurskopplungen in der UV-Planung
+
+Bei der Erstellung einer Planungsvariante auf der Webseite SCHULE > ASSISTENTEN> UVPLANUNG werden die in der aktiven UV vorhandenen Kurskopplungen mitgenommen
+inklusive der einer Kurskopplung zugeordneten Klassen.
+Dies gilt entsprechend auch bei der Erstellungsvariante NEUANLAGE DURCH KOPIEREN EINER
+VORHANDENEN PLANUNG.
+
+3
+
+Starten des LUSD-Planers 2.0
+Wenn Sie bisher noch keinen Stundenplan angelegt haben, starten Sie den LUSD-Planer
+auf folgende Weise:
+1. Stellen Sie sicher, dass an ihrer Schule ein Raum mit dem Kürzel NN vorhanden ist.
+2. Stellen Sie sicher, dass Sie die Seite UNTERRICHTSRHYTHMUS einmal geöffnet haben.
+Dies ist für laufende Hintergrundprozesse nötig.
+3. Öffnen Sie die Seite UNTERRICHT > STUNDENPLAN > LUSD-PLANER 2.0. Wählen Sie das
+Register KONFIGURATION.
+4. Ziehen Sie mit gedrückter Maustaste eine
+aus der rechten Tabelle in
+eine Stunde des Stundenplanrasters, in der nie Unterricht stattfinden soll.
+5. Wiederholen Sie diesen Vorgang für alle Stunden, in denen nie Unterricht stattfinden
+soll.
+6. Klicken Sie auf die Schaltfläche SPEICHERN.
+7. Wählen Sie das Register STUNDENPLANAUSWAHL.
+8. Klicken Sie auf die Schaltfläche DATEN HOLEN/PRÜFEN. Warten Sie bis alle Schaltflächen
+wieder aktiv werden und der Text Stundenplan unverändert gültig erscheint.
+9. Klicken Sie auf die Schaltfläche SCHLIEßEN und öffnen Sie die Seite erneut.
+10. Klicken Sie im Register STUNDENPLANAUSWAHL auf die Schaltfläche NEUEN STUNDENPLAN
+ANLEGEN.
+11. Füllern Sie im Arbeitsbereich NEUEN STUNDENPLAN ANLEGEN die Felder
+▪ BEZEICHNUNG DES STUNDENPLANS
+▪ GEPLANT FÜR HALBJAHR
+▪ BASIERT AUF UV-PLANUNGSVARIANTE
+12. Klicken Sie auf ÜBERNEHMEN und anschließend auf SPEICHERN.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+7
+
+Abb. 9 Webseite LUSD-Planer 2.0 - Detailansicht: Arbeitsbereich Neuen Stundenplan anlegen
+
+Hinweis
+Es ist möglich, mehrere Stundenpläne zu einem Halbjahr zu speichern, die auf
+unterschiedlichen UV-Planungsvarianten des Halbjahres basieren.
+Wenn Sie einen Stundenplan für das aktuelle Halbjahr anlegen, bei dem die
+UV-Planungsvariante schon aktiviert worden ist, wird Ihnen auch nur noch
+diese in der Auswahlliste angeboten!
+Ein neu angelegter Stundenplan wird als Kachel beim zugehörigen Halbjahr im
+Register STUNDENPLANAUSWAHL angezeigt.
+13. Klicken Sie auf die Schaltfläche SCHLIEßEN und öffnen Sie die Seite erneut. Anschließend
+können Sie mit der Stundenplanung beginnen.
+14. Falls Sie einen anderen als den gerade angelegten Stundenplan bearbeiten möchten,
+öffnen Sie hierzu das Register STUNDENPLANAUSWAHL, klicken Sie mit der rechten
+Maustaste auf den neuen Stundenplan und wählen Sie
+
+aus.
+
+Hinweis
+Für ein problemloses Speichern von Stundenplänen ist aus technischen
+Gründen das Vorhandensein eines NN-Raums Voraussetzung (Webseite
+RAUMPLANUNG).
+
+4
+
+Register Stundenplanung
+Nach Klick auf den Menüpunkt UNTERRICHT > STUNDENPLAN > LUSD-PLANER 2.0 gelangen
+Sie initial auf das Register STUNDENPLANUNG. Hier ist der aktuell gültige Stundenplan
+ausgewählt.
+Im Register STUNDENPLANUNG können Sie:
+▪
+▪
+▪
+▪
+▪
+
+den geöffneten STUNDENPLAN einsehen,
+Unterrichtsstunden setzen, bearbeiten und entfernen (siehe Kap. 4.2),
+Sperrungen anlegen (siehe Kap. 4.1),
+Daten holen/prüfen (siehe Kap. 0),
+Stundenpläne im PDF-Format generieren (siehe Kap. 0).
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+8
+
+4.1
+
+Sperrungen
+Legen Sie Sperrungen an und setzen diese, bevor Sie Stunden in den Stundenplan setzen.
+Sperrungen sind erforderlich, wenn Lehrer, Klassen oder Räume zu einem bestimmten
+Zeitpunkt nicht verfügbar sind und deshalb nicht verplant werden können.
+Eine Sperrung wird häufig für folgende Situationen erstellt:
+▪ Ein Lehrer ist in bestimmten Zeiten abgeordnet.
+▪ Klassen dürfen nur in einem bestimmten Zeitfenster in der Schule unterrichtet werden,
+z.B., weil sie an bestimmten Tagen nachmittags an einem außerschulischen Ort sein
+müssen.
+▪ Eine gemeinsam mit anderen Schulen genutzte Sportstätte steht zu bestimmten Zeiten
+nicht zur Verfügung.
+▪ Sitzungen des Personalrats oder des Schulleitungsteams finden regelmäßig zu
+bestimmten Zeiten in bestimmten Räumen statt.
+
+4.1.1
+
+Eine Sperrung hinzufügen
+
+1. Klicken Sie im Register STUNDENPLANAUSWAHL mit einem Rechtsklick auf die
+Stundenplankachel, für die Sie eine oder mehrere Sperrungen hinzufügen möchten.
+2. Wählen Sie aus dem Arbeitsmenü den Eintrag STUNDENPLAN ÖFFNEN.
+3. Sie befinden sich jetzt im Register STUNDENPLAN.
+Der von ihnen zu bearbeitende Stundenplan ist geöffnet.
+4. Wählen Sie im Arbeitsbereich OPTIONEN im Feld PLANUNGSELEMENT zunächst einen der
+folgenden Einträge:
+▪
+▪
+▪
+▪
+▪
+
+Klasse
+Lehrer
+Raum
+Kurs
+Schüler.
+
+Abb. 10 Register Stundenplanung: Ausgewähltes Planungselement Klasse
+
+In Abhängigkeit vom ausgewählten Planungselement verändert sich die
+Feldbezeichnung des nächsten Feldes.
+5. Wählen Sie in den Feldern KLASSENBEZEICHNUNG, LEHRERNAME – KÜRZEL,
+RAUMBEZEICHNUNG, KURSBEZEICHNUNG, SCHÜLERNAMEN die gewünschten Einträge.
+In Abhängigkeit vom gewählten Eintrag werden
+▪ im Bereich KURSE passende Kurse und
+▪ im Bereich SPERRUNGEN ggf. bereits angelegte Sperrungen und
+▪ im STUNDENPLAN bereits angelegte Kurse
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+9
+
+mit den entsprechenden Angaben angezeigt.
+
+Abb. 11 LUSD-Planer 2.0: Auswahl der Klasse, Anzeige der Kurse und ggf. Sperrungen
+
+6. Klicken Sie auf das Schaltsymbol SPERRUNG HINZUFÜGEN
+
+im Bereich SPERRUNGEN.
+
+Es wird automatisch ein (neuer) Eintrag in der Spalte Sperrungen erzeugt.
+
+Abb. 12 Detailansicht: Schaltsymbol Sperrung hinzufügen und Bereich Sperrungen
+
+7. Klicken Sie auf den (neuen) Eintrag und ziehen Sie ihn mit gedrückter Maustaste auf die
+gewünschte Stunde des Plans.
+
+Abb. 13 Detailansicht: Gesetzte Sperrung
+
+8. Sichern Sie Ihre Änderungen durch Klick auf die Schaltfläche SPEICHERN.
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+10
+
+Hinweis
+Ein Sperrungselement kann nicht auf eine bereits belegte Stunde gesteckt
+werden! Legen Sie alle Sperrungen an, von denen Sie Kenntnis haben.
+
+4.1.2
+
+Bearbeiten einer Sperrung
+
+1. Klicken Sie mit der rechten Maustaste auf die Sperrung, die Sie bearbeiten möchten.
+Dies ist sowohl im Bereich SPERRUNGEN als auch im Stundenplan selbst möglich.
+2. Es öffnet sich ein Bearbeitungsmenü.
+
+Abb. 14 Detailansicht: Bearbeitungsmenü Sperrungen bearbeiten
+
+3. Nach Klick auf BEARBEITEN öffnet sich je nach Kontext ein Bearbeitungsbereich
+LEHRERSPERRUNG/SCHÜLERSPERRUNG/RAUMSPERRUNG/KLASSENSPERRUNG > BEARBEITEN.
+
+Abb. 15 Detailansicht: Bearbeitungsbereich XXX > bearbeiten
+
+Im Feld SPERRUNG* wird der automatisch vergebene Name der Sperrung angezeigt.
+Diesen können Sie frei verändern.
+Unter dem Freitext wird in blau angezeigt, wie oft die Sperrung bisher verwendet wird.
+4. Setzen Sie Haken in die entsprechenden Kontrollkästchen, um die Sperrung auch auf
+andere Klassen- / Lehrer- / Raum-Stundenpläne übertragen, wenn gewünscht.
+5. Wenn Sie alle gewünschten Änderungen vorgenommen haben, klicken Sie auf die
+Schaltfläche ÜBERNEHMEN. Der Bearbeitungsbereich schließt sich.
+6. Sichern Sie Ihre Änderungen durch Klick auf die Schaltfläche SPEICHERN.
+4.1.3
+
+Löschen einer Sperrung
+
+1. Klicken Sie mit einem Rechtsklick auf die Sperrung, die Sie löschen möchten. Dies ist
+sowohl im Bereich SPERRUNGEN wie auch im Stundenplan selbst möglich.
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+11
+
+2. Es öffnet sich ein Bearbeitungsmenü.
+
+Abb. 16 Detailansicht: Bearbeitungsmenü Sperrungen löschen
+
+3. Nach Klick auf LÖSCHEN öffnet sich je nach Kontext ein Bearbeitungsbereich
+LEHRERSPERRUNG/SCHÜLERSPERRUNG/RAUMSPERRUNG/KLASSENSPERRUNG > LÖSCHEN.
+
+Abb. 17 Detailansicht: Sperrung löschen
+
+4. Bestätigen Sie die Löschung durch einen Klick in das Kontrollkästchen.
+5. Klicken Sie auf die Schaltfläche ÜBERNEHMEN. Der Bearbeitungsbereich schließt sich.
+6. Sichern Sie Ihre Änderungen durch Klick auf die Schaltfläche SCHLIEßEN.
+
+4.2
+
+Stundenplan stecken
+1. Klicken Sie im Register STUNDENPLANAUSWAHL mit einem Rechtsklick auf die
+Stundenplankachel, die Sie bearbeiten möchten.
+2. Wählen Sie aus dem Arbeitsmenü den Eintrag STUNDENPLAN ÖFFNEN. Sie befinden sich
+jetzt im Register STUNDENPLANUNG. Der von ihnen zu bearbeitende Stundenplan ist
+geöffnet.
+3. Wählen Sie im Feld PLANUNGSELEMENT zunächst einen der folgenden Einträge:
+▪
+▪
+▪
+▪
+▪
+
+Klasse
+Lehrer
+Raum
+Kurs
+Schüler.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+12
+
+Abb. 18 Detailansicht: Ausgewähltes Planungselement Klasse
+
+Im Abhängigkeit vom ausgewählten Planungselement verändert sich die
+Feldbezeichnung des nächsten Feldes.
+Hinweis
+Wenn Sie das Planungselement SCHÜLER auswählen, so werden
+▪
+▪
+▪
+▪
+
+aktive Schüler mit dem Kürzel a
+externe Schüler mit dem Kürzel x
+angenommene Kandidaten mit dem Kürzel K
+Kandidaten mit Warteliste mit dem Kürzel K
+
+angezeigt.
+
+Abb. 19 Detailansicht: Anzeige des Schüler-Status
+
+4. Wählen Sie im Feld KLASSENBEZEICHNUNG / LEHRERNAME – KÜRZEL / RAUMBEZEICHNUNG
+/ KURSBEZEICHNUNG / SCHÜLERNAMEN den gewünschten Eintrag.
+In Abhängigkeit vom gewählten Eintrag werden
+▪ im Bereich KURSE passende Kurse und
+▪ im Bereich SPERRUNGEN ggf. angelegte Sperrungen und
+▪ im STUNDENPLAN bereits angelegte Kurse
+mit den entsprechenden Angaben angezeigt.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+13
+
+Abb. 20 Webseite LUSD-Planer 2.0: Auswahl der Klasse, Anzeige der Kurse und ggf. Sperrungen
+
+5. Klicken Sie auf den Kurs im Bereich KURSE, den Sie verplanen möchten, und ziehen Sie
+diesen mit gedrückter Maustaste an die gewünschte Stelle im Plan. Hierbei werden
+Ihnen ggf. vorhandene Sperrungen angezeigt. Diese Felder sind nicht belegbar (siehe
+auch Kap. 4.1).
+
+Abb. 21 Detailansicht: Setzen eines Planungselementes mit gedrückter Maustaste
+
+Nach jedem Setzvorgang werden die Stundenzahlen des gesetzten Kurses im Bereich
+KURSE in der Spalte STD. VERPL./GES. (STUNDEN PLAN / UV, VERPLANEN) aktualisiert.
+
+Abb. 22 Detailansicht: Spalte Stunden Plan/UV, verplanen
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+14
+
+Die gesetzten Stunden werden ebenfalls im Miniaturplan des betroffenen Lehrers /
+Raums angezeigt.
+
+Hinweis
+Wenn Sie einen Kurs mit mehreren Lehrkräften stecken, öffnet sich danach ein
+Kontextmenü. Dort sehen Sie alle Lehrkräfte des Kurses, ihre maximale
+Stundenzahl, die bereits verplanten Stunden für diesen Kurs sowie die Verplanung,
+die durch das Stecken entsteht.
+Bei ausgegrauten Datensätzen kann eine Kollision mit einem anderen Unterricht
+bestehen oder die max. Stundenanzahl ist bereits erreicht.
+Verfügbare Lehrkräfte sind automatisch angehakt.
+1. Entfernen Sie den Haken im Kontrollkästchen bei Lehrkräften, die für den
+Unterricht nicht eingeplant werden sollen.
+2. Klicken Sie auf die Schaltfläche ÜBERNEHMEN.
+
+Abb. 23 Detailansicht: Kontextmenü beim Stecken eines Kurses mit mehreren Lehrkräften
+
+6. Wiederholen Sie den letzten Schritt, bis Sie alle zum Planungselement passenden Kurse
+verplant haben.
+7. Klicken Sie auf die Schaltfläche SPEICHERN.
+8. Über die Schaltfläche PDF GENERIEREN können Sie eine PDF des Plans erstellen.
+9. Wiederholen Sie den gesamten Vorgang ggf. mit anderen Planungselementen.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+15
+
+4.3
+
+Unterrichtsfrequenzen
+
+Abb. 24 Webseite LUSD-Planer 2.0: Festlegen der Unterrichtsfrequenz
+
+1. Übernehmen Sie einen beliebigen Plan (hier Klasse G1)
+2. Übernehmen Sie eine Unterrichtsfrequenz in das gleichnamige Feld (hier 2A – 14-tägig
+A)
+3. Stecken Sie Stunden. Diese Stunden werden nur für die auf der Seite
+UNTERRICHTSRHYTHMUS definierten 2A-Wochen verplant. Zusätzlich werden sie nur „zur
+Hälfte“ bilanziert (eine 14-tägig verplante Stunde entspricht 0,5 verplanten Stunden).
+4. Stellen Sie die Unterrichtsfrequenz um auf 2B. Hier sind die unter 2A verplanten
+Unterrichtsstunden wieder frei und können verplant werden:
+Beispiel
+In diesem Beispiel findet Mittwoch und Donnerstag jeweils in der ersten Stunde 14-tägig
+abwechselnd Religionsunterricht und Gesamtunterricht statt.
+
+Abb. 25 Beispiel einer abwechselnden Belegung der ersten Stunde am Mittwoch bzw. Donnerstag
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+16
+
+Hinweis
+Ein Sperrungselement kann nicht auf eine bereits belegte Stunde gesteckt
+werden! Legen Sie alle Sperrungen an, von denen Sie Kenntnis haben.
+
+4.4
+
+Stundenplan berechnen
+Sie können Stundenpläne berechnen lassen. Die Berechnungszeit ist fest eingestellt (ca.
+60 Minuten). Diese Zeit kann durch Schulen derzeit nicht verändert werden. Die
+Berechnung kann auch nicht unterbrochen werden.
+4.4.1
+
+Stundenplanberechnung – zwei Vorgehensweisen
+
+Die Berechnung des Stundenplans wird durch Klick auf eine der Schaltflächen PLAN
+BERECHNEN oder VERVOLLSTÄNDIGEN gestartet:
+▪ Bei Klick auf PLAN BERECHNEN geht das im Hintergrund laufende Programm davon aus,
+dass ein leerer Plan vorliegt. Sperrungen jeglicher Art werden bei der Berechnung
+berücksichtigt.
+▪ Bei Klick auf VERVOLLSTÄNDIGEN werden darüber hinaus bereits gesteckte Stunden
+berücksichtigt. Diese Methode bietet sich an, wenn Ihre Schule bestimmte Konzepte für
+die Stundenplangestaltung hat, wie z.B. Klassenlehrkräfteunterricht in den ersten beiden
+Stunden oder Hausaufgabenbetreuung in der 6. Stunde. Als Vorarbeit müssen Sie die
+entsprechenden Kurse per Hand stecken (Siehe Kapitel 4.2). Die händisch gesteckten
+Stunden bleiben bei dieser Methode erhalten.
+1. Ist die Stundenplanberechnung abgeschlossen, klicken Sie auf die Schaltfläche
+SPEICHERN.
+
+Abb. 26 Beispiel einer Stundenplanberechnung mit der Methode Vervollständigen: Sperrungen für
+die Klasse sowie die Kopplung mit dem Ethik- und Religionsunterricht wurden zuvor gesteckt.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+17
+
+Hinweis
+Sobald die Stundenplanberechnung im Register STUNDENPLANUNG angestoßen
+wird, erscheint am unteren rechten Bildschirmrand der Hinweis: Stundenplan wird
+berechnet ....
+Dieser Hinweis bleibt auch bei zwischenzeitlichen Wechseln in andere Register
+oder bei zwischenzeitlicher Übernahme eines anderen Planungselements
+dauerhaft bestehen – solange bis die Stundenplanberechnung abgeschlossen ist.
+Nach Abschluss der Berechnung wird automatisch wieder ins Register
+STUNDENPLNAUNG navigiert, unabhängig davon, in welchem Register Sie sich
+während der Dauer der Berechnung befanden. Es erscheint die Meldung
+Stundenplanberechnung abgeschlossen.
+Hinweis
+Die Methode VERVOLLSTÄNDIGEN funktioniert noch nicht zuverlässig und muss in
+einem späteren Release überarbeitet werden.
+
+4.4.2
+
+Planungsregeln
+
+Um eine optimale und eindeutige Stundenverteilung im Stundenplan zu erreichen, sind
+harte (obligatorische) und weiche (optionale) Planungsregeln für die Planberechnung mit
+je unterschiedlicher Gewichtung im Symstem implementiert. Diese Regeln können derzeit
+nicht von den Schulen beeinflusst werden.
+Aufgrund der Planungsregeln und der begrenzten Berechnungszeit kann es dazu kommen,
+dass nicht alle Kursstunden ohne Kollisionen verplant werden können. Sollte das Ergebnis
+der automatischen Erstellung solche Kollisionen aufweisen, werden die entsprechenden
+Kursstunden nach Beendigung der Berechnung automatisch ausgeplant.
+Die Anzahl der unverplanten Stunden wird für die betroffenen Kurse im Planungsbereich
+angezeigt. Sie können diesen jedoch speichern und an ihm (als Grundlage) weiterarbeiten.
+
+Abb. 27 Webseite LUSD-Planer 2.0: Berechnung der im Stundenplan / UV ge- und verplanten Stunden
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+18
+
+Tipp
+
+Wenn Ihr berechneter Plan Kopplungen enthält, deren Lage Ihnen nicht gefällt,
+können Sie die Stunden der betroffenen Klassen zunächst einmal „nach unten“ in
+Richtung der 12. Stunde. Planen Sie ggf. übergreifende Kurse aus. Dadurch
+entsteht im Vormittag wieder ein Freiraum: Sie können nun die Kopplungen wieder
+ohne Kollisionen setzen. Anschließend können Sie die „nach unten gesetzten“
+Kurse wieder in den Vormittag stecken.
+
+4.4.3
+
+Kurse mit mehreren Lehrkräften werden verplant
+
+Die auf der Seite LEHRKRÄFTE-KURS-ZUORDNUNG gepflegte Anzahl von Stunden ist
+maßgeblich für die Einplanung der jeweiligen Lehrkräfte, nicht die Stunden des Kurses.
+Die Zuordnung erfolgt nach einem festen Algorithmus – Sie als Anwender haben zunächst
+keinen Einfluss darauf.
+In der folgenden Abbildung sehen Sie ein Beispiel, in dem die sechs Deutsch-Stunden der
+Klasse 1a viermal doppelt und zweimal einfach mit der Hauptlehrerin besetzt sind.
+
+Abb. 28 Webseite LUSD-Planer 2.0: Beispiel Planung
+
+4.4.4
+
+Nichtganzzahlige Stunden werden automatisch eingeplant
+
+Nichtganzzahlige Stunden werden automatisch korrekt eingeplant.
+Beispiele:
+▪ Sollen zum Beispiel zwei Kurse A und B mit jeweils 1,5 Stunden/Woche stattfinden, so
+werden die Stunden aufgeteilt: Kurs A hat in der ersten Woche eine Stunde während
+Kurs B in der ersten Woche zwei Stunden Unterricht hat. In der zweiten Woche hat Kurs
+A dann zwei Stunden und Kurs B eine Stunde Unterricht usw. (alternierend).
+▪ Sollen zum Beispiel zwei Kurse A und B mit jeweils 0,5 Stunden/Woche stattfinden, so
+werden die Stunden aufgeteilt: Kurs A hat in der ersten Woche eine Stunde
+Kursunterricht, während Kurs B in der ersten Woche keinen Kursunterricht hat. In der
+zweiten Woche hat Kurs A keinen Kursunterricht und Kurs B hat eine Stunde
+Kursunterricht usw. (alternierend).
+
+4.4.5
+
+Anzeige im Bereich der Kurse
+
+Der Planungsstand eines Kurses (VERPLANT, NOCH NICHT KOMPLETT VERPLANT, ÜBERPLANT)
+wird nun durch eine Symbolik angezeigt:
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+19
+
+Symbolik
+
+Bedeutung
+
+Es wurden null von vier Kursstunden verplant.
+Vier Kursstunden wurden noch nicht verplant.
+Es wurde eine von vier Kursstunden verplant.
+Drei Kursstunden wurden noch nicht verplant.
+Es wurden vier von vier Kursstunden verplant.
+Es wurden fünf von vier Kursstunden verplant.
+Eine Kursstunde muss entfernt werden (überplant).
+
+4.5
+
+Planungselemente im Hauptplan
+In allen Plänen erscheinen folgende Informationen in mit Unterricht belegten Zeitslots:
+▪ 1. Zeile: Lehrerkürzel (auch mehrere durch Komma abgetrennt, der Hauptlehrer ist mit
+einem Stern * gekennzeichnet).
+▪ 2. Zeile: Fachkürzel, Klassenbezeichnung1.
+▪ 3. Zeile Raumbezeichnung2, Unterrichtsfrequenz3.
+Aus Platzgründen kann es zu Zeilenumbrüchen kommen.
+
+Abb. 29 Webseite LUSD-Planer 2.0: Informationen der Planungselemente / Bearbeitungsmenü
+
+1. Um die Details einer Unterrichtsstunde einzusehen, klicken Sie mit der rechten
+Maustaste auf ein Planungselement.
+2. Wählen Sie aus dem Kontextmenü den Eintrag DETAILS. Es öffnet sich rechts der
+Bearbeitungsbereich DETAILS ZUR UNTERRICHTSSTUNDE.
+
+1 „k.A.“ bei übergreifenden Kursen
+2 „k.A.“, wenn dem Kurs auf der Seite Kursbearbeitung kein Raum zugewiesen wurde
+3 „-“, wenn der Kurs wöchentlich erteilt wird
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+20
+
+Abb. 30 Webseite LUSD-Planer 2.0: Arbeitsbereich Details zur Unterrichtsstunde
+
+4.6
+
+Kollisionen
+Beim Stecken des Stundenplans erfolgt eine Programmunterstützung dahingehend, dass
+Kollisionen angezeigt werden. Eine Verplanung einer bereits belegten Stunde ist nicht
+möglich.
+
+Abb. 31 Webseite LUSD-Planer: Anzeige von Kollisionen
+
+4.6.1
+
+Kollisionen auf Schülerebene
+
+Es wird auch auf Kollisionen auf Schülerebene geprüft.
+Hinweis
+Die Prüfung auf Kollisionen auf Schülerebene spielt eine Rolle, wenn Sie
+klassenübergreifende Kurse verplanen, die im Planungselement Klasse nicht
+sicht- und planbar sind und die Sie daher über eins der anderen
+Planungselemente verplanen müssen.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+21
+
+4.7
+
+PDF des aktuellen Plans
+Es ist möglich, ein PDF des aktuell angezeigten Plans als Bericht zu erstellen.
+
+Abb. 32 Bericht: Beispiel-PDF eines lehrerbezogenen Stundenplans
+
+4.7.1
+
+Im PDF des Stundenplans werden nicht belegte Randstunden ausgeblendet
+
+Bei der Erzeugung eines PDF-Berichtes im LUSD-Planer werden nur die Randstunden im
+PDF berücksichtigt und dargestellt, die im Stundenplan auch belegt sind. Sollten
+beispielsweise ab der 12. Stunde für die gesamte Woche kein Unterricht vorgesehen sein,
+so werden die Stunden ab der 11. Stunde bei der Generierung des PDF-Berichtes nicht mit
+ausgegeben.
+
+Abb. 33 Webseite LUSD-Planer 2.0: Stundenplan (letzte belegte Stunde: 7. Stunde)
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+22
+
+Abb. 34 Webseite LUSD-Planer 2.0: PDF des Stundenplans (nur die ersten sieben Stunden werden
+dargestellt)
+
+4.8
+
+Größenanpassungen/Maximierung/Minimierung
+Mit den im folgenden Bild rot markierten Schaltsymbolen können die Bereiche angepasst
+/maximiert/minimiert/ausgeblendet werden.
+
+Abb. 35 Webseite LUSD-Planer 2.0: Schaltsymbole zur Größenanpassung/Maximierung/Minimierung
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+23
+
+5
+
+Register UV-Abgleich
+
+5.1
+
+„Synchronisation“/Abgleich mit UV
+Führend in der Datenhaltung ist die UV der LUSD.
+Von der Webseite LUSD-PLANER 2.0 aus können keine UV-Daten verändert werden, wie
+das in externen Stundenplanprogrammen möglich ist. Von daher ist die „Synchronisation“
+nur in eine Richtung als Abgleich möglich.
+Dementsprechend sollte die UV vor der Stundenplanerstellung abschließend gepflegt
+sein.
+Wenn doch nach der Stundenplanerstellung Änderungen in der UV vorgenommen werden,
+gibt es die Möglichkeit eines Abgleichs des Stundenplans mit den geänderten UV-Daten.
+1. Um den Abgleich anzustoßen, klicken Sie im Register STUNDENPLANUNG auf die
+Schaltfläche DATEN HOLEN / PRÜFEN.
+2. Es erscheint entweder die Meldung Stundenplan unverändert gültig oder es öffnet sich
+das Register UV-ABGLEICH, in dem entsprechende Meldungen erscheinen.
+
+5.2
+
+UV-Abgleich bei Änderung in der Lehrer-Kurs-Zuordnung
+Beispiel Zusätzlicher Lehrer im Kurs
+Wenn in der UV ein zusätzlicher Lehrer einem Kurs zugeordnet wird, erscheint (nach
+Anklicken der Schaltfläche DATEN HOLEN / PRÜFEN) folgende Meldung im Register UVABGLEICH (Abb. 36):
+
+Abb. 36 Detailansicht Konflikt/Meldung: Zuordnung geändert/angelegt (Bereich ausgeklappt)
+
+Der zusätzliche Lehrer (A002) wird im Stundenplan des zugehörigen Kunst-Kurses noch
+nicht aufgeführt (Abb. 37):
+
+Abb. 37 Detailansicht Änderungen an der UV wurden noch nicht übernommen
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+24
+
+Erst, wenn das Kontrollkästchen angehakt und die Schaltfläche SPEICHERN angeklickt wird
+(Abb. 38) verschwindet die Meldung aus der Ansicht im Register UV-ABGLEICH und die
+Änderung der UV wird in den Stundenplan übernommen (Abb. 39).
+
+Abb. 38 Webseite LUSD-Planer 2.0: Änderungen an UV für Stundenpläne übernehmen
+
+Abb. 39 Detailansicht: In den Stundenplan übernommene Änderung der UV
+
+1. Sichern Sie Ihre Änderungen durch Klick auf SPEICHERN.
+
+5.3
+
+UV-Abgleich nach Inaktivieren einer Lehrkraft oder Abhaken der UV-Relevanz
+1. Sollten Sie bereits einen Stundenplan erstellt, geplant und nachträglich eine Lehrkraft
+inaktiviert4 oder als nicht UV-relevant5 markiert haben, klicken Sie auf die Schaltfläche
+DATEN HOLEN / PRÜFEN. Sie erhalten im Register UV-ABGLEICH eine entsprechende
+Meldung.
+
+4 Eine Lehrkraft kann auf der Webseite Personal > Personalbasisdaten > Personenbezogen inaktiviert/aktiviert werden.
+5 Eine Lehrkraft kann auf der Webseite Personal > Personalbasisdaten > Schulbezogen als UV-RELEVANT ab-/angehakt
+
+werden.
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+25
+
+Abb. 40 Webseite LUSD-Planer 2.0: Meldung für inaktivierte Lehrkraft im Register UV-Abgleich
+übernehmen
+
+2. Wenn Sie die Meldung anklicken und speichern, wird diese Änderung in den
+Stundenplan übernommen und die Lehrkraft wird ausgeplant.
+
+5.4
+
+UV-Abgleich bei Schülern
+1. Sollten Sie einen Stundenplan erstellt, geplant und nachträglich
+▪ einen Schüler aus einer Klasse entfernt oder einer Klasse neu zugeordnet haben
+oder
+▪ einen Schüler ehemalig gesetzt oder gelöscht haben oder
+▪ einen bereits angenommenen Kandidaten auf desinteressiert oder auf Warteliste
+oder abgelehnt haben,
+betätigen Sie die Schaltfläche DATEN HOLEN / PRÜFEN. Sie erhalten im Register UVABGLEICH eine entsprechende Meldung.
+2. Wenn Sie die Meldung - wie in den folgenden Beispielen dargestellt - anklicken und
+speichern, wird diese Änderung in den Stundenplan übernommen.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+26
+
+Abb. 41 Webseite LUSD-Planer 2.0: Meldung für einen aus einer Klasse entfernten Schüler im
+Register UV-Abgleich übernehmen
+
+Abb. 42 Webseite LUSD-Planer 2.0: Meldung für einen ehemalig gesetzten Schüler im Register UVAbgleich übernehmen
+
+5.5
+
+UV-Abgleich der Kurskopplungen
+1. Wenn Sie (entgegen der Empfehlung) nach Erstellung eines Stundenplans
+▪ neue Kopplungen angelegt oder
+▪ zu einer bestehenden Kopplung weitere Klassen hinzugefügt oder
+▪ von einer bestehen Kopplung Klassen entfernt haben,
+klicken Sie auf die Schaltfläche DATEN HOLEN / PRÜFEN. Hierdurch werden die
+vorgenommenen Änderungen im Register UV-ABGLEICH angezeigt.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+27
+
+Abb. 43 Detailansicht: Meldung für eine neue Kurskopplung mit zwei bisher nicht eingeplanten
+Religionskursen im Register UV-Abgleich übernehmen
+
+Abb. 44 Detailansicht: Meldung für eine neue Kurskopplung mit zwei bisher eingeplanten
+Sportkursen im Register UV-Abgleich übernehmen
+
+2. Wenn Sie einen Haken in das Kästchen vor MELDUNG/KONFLIKT setzen und speichern,
+wird diese Änderung in den Stundenplan übernommen.
+Nach dem Speichern von MELDUNG/KONFLIKT gibt es folgende Szenarien:
+▪ Bereits verplante Kurse einer neuen Kopplung werden wieder ausgeplant.
+▪ Wenn durch das Hinzufügen einer Klasse zu einer Kopplung eine Kollision oder
+Kollisionen entstehen, dann werden die Stunden der Klasse, die mit dieser Kopplung
+kollidieren, ausgeplant.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+28
+
+6
+
+Register Stundenplanauswahl
+
+Abb. 45 Webseite LUSD-Planer 2.0: Register Stundenplanauswahl
+
+Das Register STUNDENPLANAUSWAHL beinhaltet folgende auf- und einklappbare Bereiche:
+▪ ZULETZT GEÖFFNETE STUNDENPLÄNE
+▪ AKTUELLES HALBJAHR (z. B. 2025/1)
+▪ NÄCHSTES HALBJAHR (z.B. 2025/2)
+Der aktuell gültige (aktivierte) Stundenplan ist rot umrahmt und durch ein grünes HäkchenSymbol gekennzeichnet.
+Alle Stundenplankacheln enthalten folgende Informationen:
+▪ Bezeichnung des Stundenplans.
+▪ Angaben zu
+▪ Halbjahr,
+▪ Basierender UV-Planungsvariante,
+▪ Erstellt am und
+▪ Zuletzt bearbeitet am.
+1. Klicken Sie mit der rechten Maustaste auf eine Stundenplankachel. Es öffnet sich ein
+Bearbeitungsmenü, mit dem der ausgewählte Stundenplan weiterbearbeitet werden
+kann.
+
+Abb. 46 Detailansicht: Bearbeitungsmenü des ausgewählten Stundenplans
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+29
+
+6.1
+
+Stundenplan anlegen
+1. Wenn Sie einen Stundenplan anlegen möchten, klicken Sie auf die Schaltfläche DATEN
+HOLEN / PRÜFEN. Warten Sie bis alle Schaltflächen wieder aktiv werden.
+2. Wenn Sie automatisch zum Register (siehe Kapitel 5) navigiert werden, dann prüfen Sie
+die aufgeführten Konflikte/Meldungen, klicken Sie die zu übernehmenden
+Konflikte/Meldungen an und klicken Sie auf SPEICHERN. Wechseln Sie in das Register
+STUNDENPLANAUSWAHL an.
+3. Klicken Sie auf NEUEN STUNDENPLAN ANLEGEN. Der Bearbeitungsbereich NEUEN
+STUNDENPLAN ANLEGEN erscheint.
+4. Füllern Sie die Felder
+▪ BEZEICHNUNG DES STUNDENPLANS
+▪ GEPLANT FÜR HALBJAHR
+▪ BASIERT AUF UV-PLANUNGSVARIANTE
+5. Klicken Sie auf ÜBERNEHMEN und auf SPEICHERN. Im Bereich der Stundenpläne erscheint
+eine neue Stundenplankachel.
+
+6.2
+
+Stundenplan öffnen
+1. Wenn Sie einen Stundenplan öffnen möchten, klicken Sie mit der rechten Maustaste auf
+die entsprechende Stundenplankachel.
+2. Wählen Sie den Eintrag Stundenplan öffnen.
+3. Das Register STUNDENPLANAUSWAHL öffnet sich. Nehmen Sie Ihre gewünschten
+Bearbeitungen vor (siehe Kap. 4).
+
+6.3
+
+Stundenplan umbenennen
+1. Wenn Sie einen Stundenplan umbenennen möchten, klicken Sie im Register
+STUNDENPLANAUSWAHL mit der rechten Maustaste auf die entsprechende
+Stundenplankachel.
+2. Wählen Sie den Eintrag Stundenplan umbenennen.
+3. Der Arbeitsbereich STUNDENPLAN UMBENENNEN öffnet sich.
+4. Geben Sie im Feld BEZEICHNUNG DES STUNDENPLANS neu die neue Bezeichnung ein.
+5. Klicken Sie auf die Schaltfläche ÜBERNEHMEN und anschließend auf SPEICHERN.
+
+Abb. 47 Detailansicht: Arbeitsbereich Stundenplan umbenennen
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+30
+
+6.4
+
+Stundenplan löschen
+1. Wenn Sie einen Stundenplan löschen möchten, klicken Sie im Register
+STUNDENPLANAUSWAHL mit einem Rechtsklick auf die entsprechende Stundenplankachel
+und wählen den Eintrag Stundenplan löschen aus.
+2. In den Feldern BEZEICHNUNG DES STUNDENPLANS, GEPLANT FÜR HALBJAHR und BASIERT
+AUF UV-PLANUNGSVARIANTE werden die Daten des zu löschenden Stundenplans
+angezeigt. Sie können nicht geändert werden.
+3. Bestätigen Sie die Löschung durch Klick in das Kontrollkästen und klicken Sie auf
+ÜBERNEHMEN.
+Der Arbeitsbereich schließt sich. Der Stundenplan wird nicht mehr im Register
+STUNDENPLANAUSWAHL angezeigt.
+4. Klicken Sie auf SPEICHERN um Ihre Änderungen zu übernehmen.
+Hinweis
+Im Kontextmenü des aktuell gültigen Stundenplans erscheint der Eintrag
+Stundenplan löschen nur ausgegraut und kann nicht ausgewählt werden.
+Wenn Sie im Register STUNDENPLANAUSWAHL alle Stundenpläne löschen und
+die Löschung speichern, ist nur das Register STUNDENPLANAUSWAHL aktiv.
+Die anderen Register sind nicht ansteuerbar.
+Wenn ein Stundenplan aktiviert wurde, ist eine vollständige Löschung aller
+Stundenpläne nicht möglich.
+
+Abb. 48 Detailansicht: Arbeitsbereich Stundenplan löschen
+
+6.5
+
+Stundenplan aktivieren
+1. Wenn Sie einen Stundenplan aktivieren, also als aktuell gültigen Stundenplan festlegen
+möchten, klicken Sie im Register STUNDENPLANAUSWAHL mit einem Rechtsklick auf die
+entsprechende Stundenplankachel und wählen den Eintrag STUNDENPLAN AKTIVIEREN
+aus.
+Es öffnet sich der Arbeitsbereich STUNDENPLAN AKTIVIEREN. Die Inhalte der Felder
+BEZEICHNUNG DES STUNDENPLANS / GEPLANT FÜR HALBJAHR / BASIERT AUF UVPLANUNGSVARIANTEN werden automatisiert angezeigt und können nicht verändert
+werden.
+Bestätigen Sie die Aktivierung durch Klick in das Kontrollkästen und klicken Sie auf
+ÜBERNEHMEN. Der Arbeitsbereich schließt sich. Der aktivierte Stundenplan ist rot
+umrandet und mit einem gründen Haken angehakt.
+2. Klicken Sie auf SPEICHERN.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+31
+
+Hinweis
+Im Kontextmenü des aktuell gültigen Stundenplans erscheint der Eintrag
+STUNDENPLAN AKTIVIEREN nur ausgegraut und kann nicht ausgewählt werden.
+
+6.6
+
+Stundenplan kopieren
+1. Wenn Sie einen Stundenplan kopieren möchten, klicken Sie im Register
+STUNDENPLANAUSWAHL mit einem Rechtsklick auf die entsprechende Stundenplankachel
+und wählen den Eintrag STUNDENPLAN KOPIEREN aus.
+Es öffnet sich der Arbeitsbereich STUNDENPLAN KOPIEREN.
+2. Geben Sie im Feld BEZEICHNUNG DES STUNDENPLANS die Bezeichnung für die Kopie des
+Stundenplans ein. Die Felder GEPLANT FÜR HALBJAHR / BASIERT AUF UVPLANUNGSVARIANTE sind mit den Daten des Ursprungsstundenplans vorbelegt und
+können nicht geändert werden.
+3. Klicken Sie auf ÜBERNEHMEN. Der Arbeitsbereich schließt sich. Der kopierte Stundenplan
+wird im Register STUNDENPLANAUSWAHL angezeigt.
+4. Klicken Sie auf SPEICHERN.
+
+Abb. 49 Detailansicht: Arbeitsbereich Stundenplan kopieren
+
+7
+
+Register Berichte
+Im Register BERICHTE gibt es verschiedene Schaltflächen zum Erzeugen von
+Stundenplänen oder Direktoratsplänen im pdf-Format des geöffneten Stundenplans.
+1. Klicken Sie die Schaltfläche des gewünschten Plans an, so wird im Downloadbereich
+eine zip-Datei zum Öffnen angeboten.
+
+Abb. 50 Detailansicht: Register Berichte
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+32
+
+Abb. 51 Downloads der Klassen-, Lehrer- und Schülerpläne
+
+7.1
+
+Stundenpläne für Klassen, Lehrkräfte, Räume und Schüler
+Im Bereich STUNDENPLÄNE FÜR … ERSTELLEN ist es möglich, alle vorhandenen
+Schülerpläne, Lehrerpläne, Klassenpläne oder Raumpläne des geöffneten
+Stundenplans als PDF zu erzeugen, um diese nach Bedarf im weiteren Verlauf
+auszudrucken.
+
+7.2
+
+Direktoratspläne – Übersichtspläne für Schulleitung und Verwaltung
+Im Bereich DIREKTORATSPLÄNE werden Übersichtspläne der Klassen und Lehrkräfte des
+geöffneten Stundenplans zum Generieren angeboten. Diese sind jeweils nach
+Wochentagen gruppiert.
+
+7.3
+
+Kurskopplungen in Stundenplänen
+Sind Kurse Teil einer KURSKOPPLUNG, so erscheint in den Plänen die jeweilige
+Bezeichnung der Kurskopplung mit einem hochgestellten *.
+
+Abb. 52 Direktoratsplan KLASSENPLAN mit Kurskopplung
+
+In den Erläuterungen am Ende des Plans wird der Eintrag näher beschrieben, jeder Kurs
+der Kopplung mit Angabe der Klasse (wenn Klassenkurs, ansonsten „-„), des Faches, des
+Raumes, der Hauptlehrkraft und weiterer Lehrkräfte wird aufgeführt:
+▪ Wochentag
+▪ x. Stunde
+▪ <Name der Kopplung>; <Klassen der Kopplung>:
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+33
+
+▪
+▪
+▪
+
+<Kursbezeichnung>;<Kurs für>; <Fachkürzel>;<Raum>;<Hauptlehrer*>; <Lehrer>
+<Kursbezeichnung>;<Kurs für>; <Fachkürzel>;<Raum>;<Hauptlehrer*>; <Lehrer>
+…
+
+Abb. 53 Erläuterungen zu Kopplungen in Direktoratsplänen
+
+8
+
+Register Konfiguration
+Mit dem Register KONFIGURATION ist die Grundlage gegeben, ein Stundenplanraster
+innerhalb der jeweils vorgegebenen 12 Stunden an den Wochentagen Montag bis Freitag
+für die eigene Schule zu erstellen. Dies ist vor allem dann wichtig, wenn ein
+Stundenplan berechnet werden soll.
+
+Abb. 54 Register Konfiguration: Beispiel eines Stundenrasters mit globalen Sperrungen
+
+Hinweis
+Die globalen Sperrungen im Register KONFIGURATION sollten vor dem Anlegen
+des ersten Stundenplans gesetzt werden, damit das Stundenplanraster auch im
+Register STUNDENPLANUNG wirksam wird.
+Die Änderung des Stundenplanrasters wirkt sich nicht auf bereits angelegte
+Stundenpläne aus, sondern nur auf zukünftig zu erstellende Pläne.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+34
+
+8.1
+
+Globale Sperrung erstellen
+1. Wenn Sie eine Stunde global sperren möchten, klicken Sie im Register KONFIGURATION
+im Bereich OPTIONEN in der Tabelle SPERRUNGEN auf
+
+.
+
+2. Ziehen Sie die globale Sperrung mit gedrückter Maustaste in die zu sperrende Stunde
+im Stundenplanraster (auch Zeitslot genannt). Der Zeitslot erscheint nun grau hinterlegt
+mit einem Sperrsymbol
+
+.
+
+3. Wiederholen Sie Schritte 1 und 2 für alle Stunden, die global zu sperren sind.
+4. Klicken Sie auf SPEICHERN.
+5. Wenn Sie jetzt einen neuen Stundenplan im Register STUNDENPLANAUSWAHL anlegen
+(Kap. 6), dann sind die globalen Sperrungen in den Stundenplanrastern im Register
+STUNDENPLANUNG sichtbar und werden bei der STUNDENPLANBERECHNUNG
+berücksichtigt.
+
+Abb. 55 Register Stundenplanung: Stundenraster nach Neuanlage eines Stundenplans
+
+8.2
+
+Globale Sperrung löschen
+1. Wenn Sie eine globale Sperrung löschen möchten, klicken Sie im Register
+KONFIGURATION im Stundenplanraster mit Rechtsklick auf einen gesperrten Zeitslot
+. Ein Kontextmenü erscheint.
+2. Klicken Sie auf LÖSCHEN. Der Zeitslot ist nun weiß hinterlegt und hat kein Sperrsymbol.
+3. Klicken Sie auf SPEICHERN.
+4. Wenn Sie jetzt einen neuen Stundenplan im Register STUNDENPLANAUSWAHL anlegen
+(Kap.6.1), dann sind die globalen Sperrungen in den Stundenplanrastern im Register
+STUNDENPLANUNG sichtbar und werden bei der STUNDENPLANBERECHNUNG
+berücksichtigt. Alternativ können Sie Stunden mit gedrückter Maustaste auch wieder aus
+dem Plan herausziehen und speichern dann.
+
+Hessisches Kultusministerium | LUSD | LUSD-Planer 2.0 | Version: 3.0 | 03.11.2025
+
+35
+
+

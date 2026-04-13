@@ -1,0 +1,560 @@
+Hessisches Ministerium
+Für Kultus, Bildung und Chancen
+
+LUSD
+
+IGS – Hinweise zu Zeugnissen im
+Prüfungshalbjahr
+Auswirkungen der Fachleistungs- und Kursdifferenzierung auf die Abschlussund Halbjahreszeugnisse an integrierten Gesamtschulen im Prüfungshalbjahr
+
+Version: 2.0
+Letzter Stand: 18.01.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments .......................................................................................................................... 4
+Zielgruppe ................................................................................................................................................ 4
+Vorausgesetzte Kenntnisse ...................................................................................................................... 4
+LUSD-Anwenderunterstützung ................................................................................................................. 4
+1
+
+2
+
+Begrifflichkeiten ............................................................................................................................... 6
+1.1
+
+Fachleistungsdifferenzierung .................................................................................................. 6
+
+1.2
+
+Kernunterricht......................................................................................................................... 6
+
+1.3
+
+Binnendifferenzierung ............................................................................................................ 6
+
+1.4
+
+Kursdifferenzierung ................................................................................................................ 7
+
+Abschluss- und Halbjahreszeugnisse bei unterschiedlichen Abschlussprognosen .......................... 8
+2.1
+
+Hauptschulabschlusszeugnis bei Abschlussprognose Hauptschulabschluss (Vorr. Abschluss
+HA-IGS / HQ-IGS) .................................................................................................................. 8
+
+2.2
+
+Hauptschulabschluss- und Halbjahreszeugnis bei Abschlussprognose Mittlerer Abschluss
+(Vorr. Abschluss MA-IGS) .................................................................................................... 11
+
+2.3
+
+Hauptschulabschluss- und Halbjahreszeugnis bei Einführungsphasenprognose .................. 14
+
+2.4
+
+Realschulabschlusszeugnis bei Realschulprognose............................................................. 16
+
+2.5
+
+Realschulabschluss- und Halbjahreszeugnis bei Einführungsphasenprognose .................... 18
+
+Abbildungsverzeichnis
+Abb. 1 Dialogfenster Kurse des Schülers: Kurse eines Schülerin mit Hauptschulprognose ....................9
+Abb. 2 Webseite Qualifikationen: Eignung/Abschlüsse/Berufe ...............................................................9
+Abb. 3 Webseite Hauptschulabschluss: Ergebnis Hauptschulabschluss zuerkannt ..............................10
+Abb. 4 Zeugnis: Beispielzeugnis des Hauptschulabschlusses ..............................................................10
+Abb. 5 Dialogfenster: Kurse des Schülers Beispiel ...............................................................................11
+Abb. 6 Webseite Qualifikationen: Voraussichtlicher Abschluss HQ-IGS ...............................................11
+Abb. 7 Webseite Hauptschulabschluss: Ergebnis - Qualifizierender Hauptschulabschluss zuerkannt ..12
+Abb. 8 Dialogfenster Zuweisung bearbeiten .........................................................................................12
+
+Abb. 9 Halbjahreszeugnis: Noten für Kernunterricht und für Kurse mit Fachleistungsdifferenzierung
+Beispiel .....................................................................................................................................13
+Abb. 10 Zeugnis des qualifizierenden Hauptschulabschlusses Beispiel................................................13
+Abb. 11 Dialogfenster Kurse des Schülers: Kurse einer Schülerin mit Einführungsphasenprognose ....14
+Abb. 12 Webseite Hauptschulabschluss: qualifizierender Hauptschulabschluss zuerkannt ..................15
+Abb. 13 Halbjahreszeugnis Beispiel .....................................................................................................15
+Abb. 14 Zeugnis des qualifizierenden Hauptschulabschlusses Beispiel................................................16
+Abb. 15 Webseite Mittlerer Abschluss: Ergebnis Qualifizierender Realschulabschluss zuerkannt ........17
+Abb. 16 Zeugnis des mittleren Abschlusses Beispiel ............................................................................17
+Abb. 17 Dialogfenster Kurse des Schülers ...........................................................................................18
+Abb. 18 Webseite Qualifikationen: voraussichtlicher Abschluss MA-IGS ..............................................19
+Abb. 19 Webseite Mittlerer Abschluss: Ergebnis Qualifizierender Realschulabschluss zuerkannt ........19
+Abb. 20 Halbjahreszeugnis Beispiel .....................................................................................................20
+Abb. 21 Zeugnis des mittleren Abschlusses: Qualifizierender Realschulabschlusses ...........................20
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert. Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und können in
+Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Folgende Inhalte lernen Sie nachfolgend kennen:
+▪ Definition der Begrifflichkeiten (→ ab Seite 6)
+▪ Auswirkung von Fachleistungs- und Kursdifferenzierungen auf die Halbjahres- und Abschlusszeugnisse bei unterschiedlichen Abschlussprognosen (→ ab Seite 8)
+
+Zielgruppe
+Diese Anleitung richtet sich an LUSD-Benutzer, die an integrierten Gesamtschulen Halbjahres- und Abschlusszeugnisse im Prüfungshalbjahr erstellen.
+Basiskenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser Anleitung nicht
+näher beschrieben.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben:
+Pflege der
+▪
+▪
+▪
+▪
+▪
+
+Schüler-Kurszuordnung
+Kursdifferenzierung
+Noten
+Abschlüsse
+Erstellen von Zeugnissen
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSD-Hilfe
+durch einen Klick auf
+
+.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+4
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot
+rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+5
+
+IGS – Erstellung von Zeugnissen
+1
+
+Begrifflichkeiten
+
+1.1
+
+Fachleistungsdifferenzierung
+Die gesetzliche Grundlage für diesen Begriff liegt im § 27 des Hessischen Schulgesetzes:
+(2) Die Fachleistungsdifferenzierung erfolgt auf zwei oder auf drei Anspruchsebenen. Sie beginnt
+in den Fächern Deutsch und Mathematik, sowie in der ersten Fremdsprache in der Jahrgangsstufe 7, in den Fächern Physik und Chemie in der Jahrgangsstufe 9.
+Die Gesamtkonferenz entscheidet darüber, auf welchen Anspruchsebenen die Fachleistungsdifferenzierung erfolgt. Sie kann beschließen,
+▪ den Beginn der Fachleistungsdifferenzierung in dem Fach Mathematik und in der ersten
+Fremdsprache frühestens auf das zweite Halbjahr der Jahrgangsstufe 5 vorzuverlegen,
+▪ die Fachleistungsdifferenzierung im Fach Mathematik mit der Jahrgangsstufe 8 und im Fach
+Deutsch spätestens mit der Jahrgangsstufe 9 zu beginnen,
+▪ das Fach Biologie ab der Jahrgangsstufe 9 in die Fachleistungsdifferenzierung einzubeziehen
+oder
+▪ von der Fachleistungsdifferenzierung in einem der Fächer Physik und Chemie abzusehen.
+(3) Zur Umsetzung eines besonderen pädagogischen Konzepts kann mit Zustimmung der Schulaufsichtsbehörde von einer Kursdifferenzierung nach Abs. 2 ganz oder in einzelnen Fächern und
+Jahrgangsstufen abgesehen werden und die Fachleistungsdifferenzierung ausschließlich binnendifferenziert erfolgen.
+
+1.2
+
+Kernunterricht
+Dem Unterricht in differenzierten Kursen steht nach § 12 Absatz 3 des Hessischen Schulgesetzes und § 34 Absatz 2 der VOBGM der gemeinsame Kernunterricht mit einer „inneren“ Differenzierung gegenüber. Für diesen Kernunterricht wird, wenn keine explizite Pflege Kursdifferenzierung vorgenommen worden ist, in der LUSD von einem mittleren Niveau der „inneren“ Differenzierung ausgegangen.
+
+1.3
+
+Binnendifferenzierung
+Nach § 27 des Hessischen Schulgesetzes kann die Fachleistungsdifferenzierung auch binnendifferenziert – also innerhalb ein- und desselben Kurses – erfolgen. Dies ist in der LUSD durch die
+Pflege einer schülerindividuellen Kursdifferenzierung abbildbar. Umgangssprachlich wird die
+innere Differenzierung im Kernunterricht auch als Binnendifferenzierung bezeichnet.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+6
+
+1.4
+
+Kursdifferenzierung
+In der LUSD gibt es
+▪ Kursdifferenzierungen in den Großbuchstaben A, B, C, G und E für Fachleistungsdifferenzierungen.
+▪ A, B und C werden für die dreistufige Fachleistungsdifferenzierung verwendet.
+Kürzel
+
+Differenzierung
+
+A
+
+A-Differenzierung
+
+B
+
+B-Differenzierung
+
+C
+
+C-Differenzierung
+
+▪ G (Grundkurs) und E (Erweiterungskurs) werden für die zweistufige Fachleistungsdifferenzierung verwendet.
+Kürzel
+
+Differenzierung
+
+E
+
+E-Differenzierung
+
+G
+
+G-Differenzierung
+
+▪ Kursdifferenzierungen in den Kleinbuchstaben v, r, h, m, p für eine Pflege der inneren Differenzierung im Kernunterricht – im Langtext als Binnendifferenzierung bezeichnet.
+▪ v, r und h bieten die Möglichkeit im Kernunterricht, eine dreistufige innere Differenzierung zu
+pflegen.
+Kürzel
+
+Differenzierung
+
+v
+
+a-Binnendifferenzierung
+
+r
+
+b-Binnendifferenzierung
+
+h
+
+c-Binnendifferenzierung
+
+▪ Analog kann m und p für die zweistufige innere Differenzierung verwendet werden.
+Kürzel
+
+Differenzierung
+
+m
+
+e-Binnendifferenzierung
+
+p
+
+g-Binnendifferenzierung
+
+Durch diese Pflege der inneren Differenzierung ist es möglich, Halbjahres- und Abschlusszeugnisse gleichzeitig auszustellen, wie im Folgenden ausgeführt wird.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+7
+
+Kursdifferenzierungen für Fachleistungsdifferenzierungen
+▪ Die Kurse mit Differenzierungen in Großbuchstaben werden auf den Zeugnissen mit diesen
+Differenzierungsmerkmalen ausgewiesen.
+▪ Die gegebenen Noten werden unverändert ausgegeben.
+Kursdifferenzierungen für die Pflege der inneren Differenzierung im Kernunterricht
+▪ Die Kurse mit den Kursdifferenzierungen in Kleinbuchstaben werden im Zeugnis ohne diese
+Differenzierungsmerkmale ausgegeben.
+▪ In Halbjahreszeugnissen werden die Noten unverändert ausgegeben.
+▪ In Abschlusszeugnissen werden die Noten gegebenenfalls auf das jeweilige Abschluss-Niveau umgerechnet (siehe Beispiele in Kapitel 2.2, 2.3 und 2.5).
+▪ Diese umgerechneten Noten werden auch auf den Abschluss-Seiten für die Berechnung der
+Gesamtleistung herangezogen.
+
+2
+
+Abschluss- und Halbjahreszeugnisse bei unterschiedlichen Abschlussprognosen
+
+2.1
+
+Hauptschulabschlusszeugnis bei Abschlussprognose Hauptschulabschluss (Vorr. Abschluss HA-IGS / HQ-IGS)
+Sie möchten an einer IGS für eine Schülerin aus der Jahrgangsstufe 9 mit Hauptschulprognose
+ein Hauptschulabschlusszeugnis erstellen.
+Gehen Sie folgendermaßen vor:
+1. Kontrollieren oder legen Sie
+▪ die Schüler-Kurs-Zuordnungen und
+▪ die zugehörigen Kurs-Differenzierungen für die Schülerin fest.
+Die Schülerin hat Kurse mit Fachleistungsdifferenzierung und Kernunterricht.
+▪ Für die Kurse mit Fachleistungsdifferenzierung werden die Kursdifferenzierungen in Großbuchstaben gepflegt.
+▪ Für den Kernunterricht sollten bei vorliegender Hauptschulprognose weitestgehend die Kursdifferenzierungen h oder p gepflegt sein.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+8
+
+Abb. 1 Dialogfenster Kurse des Schülers: Kurse eines Schülerin mit Hauptschulprognose
+
+2. Vergeben Sie Noten – auch Prüfungsnoten.
+3. Pflegen Sie den voraussichtlichen Abschluss.
+
+Abb. 2 Webseite Qualifikationen: Eignung/Abschlüsse/Berufe
+
+4. Prüfen Sie die Schülerin auf der Abschluss-Seite.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+9
+
+Abb. 3 Webseite Hauptschulabschluss: Ergebnis Hauptschulabschluss zuerkannt
+
+Hinweis
+Wenn als innere Differenzierung das h-Niveau gepflegt ist, so wird die Note
+unverändert als End- und Zeugnisnote übernommen.
+5. Erstellen Sie das Abschlusszeugnis.
+
+Abb. 4 Zeugnis: Beispielzeugnis des Hauptschulabschlusses
+
+Hinweis
+Die erteilten Noten des Kernunterrichts werden unverändert in das Abschlusszeugnis übernommen.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+10
+
+2.2
+
+Hauptschulabschluss- und Halbjahreszeugnis bei Abschlussprognose Mittlerer Abschluss
+(Vorr. Abschluss MA-IGS)
+Sie möchten an einer IGS für eine Schülerin aus der Jahrgangsstufe 9 mit Realschulprognose ein
+Halbjahreszeugnis und ein Hauptschulabschlusszeugnis erstellen.
+Gehen Sie folgendermaßen vor:
+1. Kontrollieren oder legen Sie
+▪ die Schüler-Kurs-Zuordnungen und
+▪ die zugehörigen Kurs-Differenzierungen für die Schülerin fest.
+Die Schülerin hat Kurse mit Fachleistungsdifferenzierung und Kernunterricht.
+▪ Für die Kurse mit Fachleistungsdifferenzierung werden die Kursdifferenzierungen in Großbuchstaben gepflegt.
+▪ Für den Kernunterricht sollte bei vorliegender Realschulprognose weitestgehend die Kursdifferenzierung -, r oder m gepflegt sein.
+
+Abb. 5 Dialogfenster: Kurse des Schülers Beispiel
+
+2. Vergeben Sie Noten – auch Prüfungsnoten.
+3. Pflegen Sie den voraussichtlichen Abschluss.
+
+Abb. 6 Webseite Qualifikationen: Voraussichtlicher Abschluss HQ-IGS
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+11
+
+4. Prüfen Sie die Schülerin auf der Abschluss-Seite.
+
+Abb. 7 Webseite Hauptschulabschluss: Ergebnis - Qualifizierender Hauptschulabschluss zuerkannt
+
+Hinweis
+Die auf mittlerem Niveau im Kernunterricht erzielten Noten werden für die
+Berechnung des Abschlusses (Endnote) und für die Ausweisung im Abschlusszeugnis (Zeugnisnote) um eine Notenstufe verbessert, z.B. die Drei
+in Arbeitslehre wird zur End- und Zeugnisnote Zwei (s.o.).
+5. Erstellen Sie das Halbjahreszeugnis und das Abschlusszeugnis.
+
+Abb. 8 Dialogfenster Zuweisung bearbeiten
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+12
+
+Abb. 9 Halbjahreszeugnis: Noten für Kernunterricht und für Kurse mit Fachleistungsdifferenzierung Beispiel
+
+Hinweis
+Die auf mittlerem Niveau im Kernunterricht erzielten Noten werden für die
+Berechnung des Abschlusses (Endnote) und für die Ausweisung im Abschlusszeugnis (Zeugnisnote) um eine Notenstufe verbessert, z.B. die Drei in Arbeitslehre wird zur End- und Zeugnisnote Zwei (s.o.).
+
+Abb. 10 Zeugnis des qualifizierenden Hauptschulabschlusses Beispiel
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+13
+
+Hinweis
+Die im Kernunterricht erzielten Noten auf mittleren Niveau werden im Abschlusszeugnis auf das Abschluss-Niveau umgerechnet und gehen auch
+entsprechend in die Berechnung des Durchschnitts mit ein.
+
+2.3
+
+Hauptschulabschluss- und Halbjahreszeugnis bei Einführungsphasenprognose
+Sie möchten an einer IGS für eine Schülerin aus der Jahrgangsstufe 9, die voraussichtlich in die
+Einführungsphase der gymnasialen Oberstufe versetzt werden kann, ein Hauptschulabschlusszeugnis und ein Halbjahreszeugnis erstellen.
+Gehen Sie folgendermaßen vor:
+1. Kontrollieren oder legen Sie
+▪ die Schüler-Kurs-Zuordnungen und
+▪ die zugehörigen Kurs-Differenzierungen für die Schülerin fest.
+Die Schülerin hat Kurse mit Fachleistungsdifferenzierung und Kernunterricht.
+▪ Für die Kurse mit Fachleistungsdifferenzierung werden die Kursdifferenzierungen in Großbuchstaben gepflegt.
+▪ Für den Kernunterricht sollte bei vorliegender Gymnasialprognose weitestgehend die Kursdifferenzierung v gepflegt sein.
+
+Abb. 11 Dialogfenster Kurse des Schülers: Kurse einer Schülerin mit Einführungsphasenprognose
+
+2. Vergeben Sie Noten – auch Prüfungsnoten.
+3. Pflegen Sie den voraussichtlichen Abschluss.
+4. Prüfen Sie die Schülerin auf der Abschluss-Seite.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+14
+
+Abb. 12 Webseite Hauptschulabschluss: qualifizierender Hauptschulabschluss zuerkannt
+
+Hinweis
+Die Berechnung verläuft ähnlich wie in Kapitel 2.2. Die Noten des Kernunterrichts, die auf „Gymnasialniveau“ gegeben wurden, werden als End- und Zeugnisnote um zwei Notenstufen angehoben.
+5. Erstellen Sie das Halbjahreszeugnis und das Abschlusszeugnis.
+
+Abb. 13 Halbjahreszeugnis Beispiel
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+15
+
+Hinweis
+Die im Kernunterricht erzielten Noten werden im Halbjahreszeugnis („Versetzungszeugnis“) unverändert ausgegeben.
+
+Abb. 14 Zeugnis des qualifizierenden Hauptschulabschlusses Beispiel
+
+Hinweis
+Im Abschlusszeugnis werden die Noten des Kernunterrichtes auf das Abschluss-Niveau umgerechnet und gehen auch entsprechend in die Berechnung des Durchschnitts mit ein.
+
+2.4
+
+Realschulabschlusszeugnis bei Realschulprognose
+Sie möchten an einer IGS für eine Schülerin aus der Jahrgangsstufe 10 mit Realschulprognose
+ein Halbjahreszeugnis und ein Realschulabschlusszeugnis erstellen.
+Gehen Sie folgendermaßen vor:
+1. Kontrollieren oder legen Sie
+▪ die Schüler-Kurs-Zuordnungen und
+▪ die zugehörigen Kurs-Differenzierungen für die Schülerin fest.
+Die Schülerin hat Kurse mit Fachleistungsdifferenzierung und Kernunterricht.
+▪ Für die Kurse mit Fachleistungsdifferenzierung werden die Kursdifferenzierungen in Großbuchstaben gepflegt.
+▪ Für den Kernunterricht sollte bei vorliegender Realschulprognose weitestgehend die Kursdifferenzierung -, m oder r gepflegt sein.
+2. Vergeben Sie Noten – auch Prüfungsnoten.
+3. Pflegen Sie den voraussichtlichen Abschluss.
+4. Prüfen Sie die Schülerin auf der Abschluss-Seite.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+16
+
+Abb. 15 Webseite Mittlerer Abschluss: Ergebnis Qualifizierender Realschulabschluss zuerkannt
+
+Hinweis
+Die Noten des Kernunterrichts werden unverändert als End- und Zeugnisnoten übernommen, wenn die oben erwähnten Kursdifferenzierungen gepflegt
+sind.
+5. Erstellen Sie das Abschlusszeugnis.
+
+Abb. 16 Zeugnis des mittleren Abschlusses Beispiel
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+17
+
+Hinweis
+Auch hier werden die Noten des Kernunterrichts unverändert ausgegeben, ,
+wenn die oben erwähnten Kursdifferenzierungen gepflegt sind.
+
+2.5
+
+Realschulabschluss- und Halbjahreszeugnis bei Einführungsphasenprognose
+Sie möchten an einer IGS für einen Schüler aus der Jahrgangsstufe 10, der voraussichtlich in die
+Einführungsphase der gymnasialen Oberstufe versetzt werden kann, ein Realschulabschlusszeugnis und ein Halbjahreszeugnis erstellen.
+Gehen Sie folgendermaßen vor:
+1. Kontrollieren oder legen Sie
+▪ die Schüler-Kurs-Zuordnungen und
+▪ die zugehörigen Kurs-Differenzierungen für den Schüler fest.
+Der Schüler hat Kurse mit Fachleistungsdifferenzierung und Kernunterricht.
+▪ Für die Kurse mit Fachleistungsdifferenzierung werden die Kursdifferenzierungen in Großbuchstaben gepflegt.
+▪ Für den Kernunterricht sollte bei vorliegender Oberstufenprognose weitestgehend die Kursdifferenzierung v gepflegt sein.
+
+Abb. 17 Dialogfenster Kurse des Schülers
+
+2. Vergeben Sie Noten – auch Prüfungsnoten.
+3. Pflegen Sie den voraussichtlichen Abschluss
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+18
+
+Abb. 18 Webseite Qualifikationen: voraussichtlicher Abschluss MA-IGS
+
+4. Prüfen Sie den Schüler auf der Abschluss-Seite.
+
+Abb. 19 Webseite Mittlerer Abschluss: Ergebnis Qualifizierender Realschulabschluss zuerkannt
+
+Hinweis
+Für die auf Gymnasialniveau benoteten Fächer des Kernunterrichts wird die
+End- und Zeugnisnote um eine Notenstufe verbessert.
+5. Erstellen Sie das Halbjahreszeugnis und das Abschlusszeugnis.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+19
+
+Abb. 20 Halbjahreszeugnis Beispiel
+
+Hinweis
+Die im Kernunterricht auf Gymnasialniveau erzielten Noten werden im Halbjahreszeugnis („Versetzungszeugnis“) unverändert ausgegeben.
+
+Abb. 21 Zeugnis des mittleren Abschlusses: Qualifizierender Realschulabschlusses
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+20
+
+Hinweis
+Im Abschlusszeugnis werden die auf Gymnasialniveau (Kursdifferenzierung v)
+erzielten Noten auf das Abschluss-Niveau umgerechnet und gehen auch
+entsprechend in die Berechnung des Durchschnitts mit ein.
+
+HMKB | LUSD | IGS – Hinweise zu Zeugnissen im Prüfungshalbjahr | Version: 2.0 | Letzter Stand: 18.01.2024
+
+21
+
+

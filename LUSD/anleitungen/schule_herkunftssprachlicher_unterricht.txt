@@ -1,0 +1,1041 @@
+Hessisches Kultusministerium
+Referat IV.2
+E-Government-Verfahren und Geschäftsprozessanalyse
+
+Herkunftssprachlicher Unterricht
+
+Version: 3.0– Stand: 15.08.2022
+
+Abbildung in der LUSD
+
+© Copyright Hessisches Kultusministerium
+
+Inhaltsverzeichnis
+Zu dieser Anleitung
+
+4
+
+Allgemeines zum herkunftssprachlichen Unterricht (HSU)
+
+5
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+
+6
+
+1
+
+An Ihrer Schule findet herkunftssprachlicher Unterricht statt..................................................6
+1.1
+
+1.2
+
+1.3
+
+2
+
+3
+
+4
+
+HSU vorbereiten............................................................................................................................6
+1.1.1
+
+Fächer für den HSU zuordnen .........................................................................................7
+
+1.1.2
+
+Lehrer / Personal in Personalstamm aufnehmen ............................................................8
+
+HSU an Ihrer Schule - in Verantwortung des Landes Hessen pflegen.........................................9
+1.2.1
+
+HSU-Kurse anlegen .........................................................................................................9
+
+1.2.2
+
+Ihre und externe Schüler den HSU-Kursen zuordnen ...................................................10
+
+1.2.3
+
+Zeugnisvermerke für Ihre und externe Schüler erfassen ...............................................12
+
+HSU an Ihrer Schule - in Verantwortung eines Herkunftslandes pflegen ...................................13
+1.3.1
+
+HSU-Kurse anlegen .......................................................................................................13
+
+1.3.2
+
+Ihre und externe Schüler den HSU-Kursen zuordnen ...................................................14
+
+1.3.3
+
+Zeugnisvermerke für Ihre und externe Schüler erfassen ...............................................15
+
+Ihre Schüler besuchen HSU an einer anderen Schule .........................................................16
+2.1
+
+Fehlende Schulen auf der Webseite > Schulumfeld > Schulen hinzufügen ...............................16
+
+2.2
+
+Ihre Schüler an andere Schule überweisen ................................................................................16
+
+2.3
+
+Zeugnisvermerke bei HSU in Verantwortung des Landes Hessen ............................................17
+
+2.4
+
+Bemerkungen im Zeugnis bei HSU in Verantwortung eines Herkunftslandes ...........................17
+
+Berichte zum HSU ...............................................................................................................18
+3.1
+
+Bericht HSU-Koordinationsstellen...............................................................................................18
+
+3.2
+
+Bericht Schüler-Noten: Nutzen für Schulen, die keine Zeugnisse mit der LUSD erstellen ........19
+3.2.1
+
+So nutzen Sie den Bericht bei HSU in Verantwortung des Landes Hessens ................19
+
+3.2.2
+
+So nutzen den Bericht bei HSU in Verantwortung des Herkunftslandes .......................19
+
+Unterstützung bei Problemen ..............................................................................................20
+4.1
+
+Fragen zum HSU ........................................................................................................................20
+
+4.2
+
+Fragen zur Umsetzung des HSU in der LUSD ...........................................................................20
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+2 von 20
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirmfotos dienen lediglich der allgemeinen Darstellung des Sachverhalts und können in
+Inhalt und Schulform von den tatsächlich bei den Benutzern der LUSD verwendeten Daten
+abweichen.
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung mehrerer
+geschlechtsbezogener Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten
+gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Hinweis auf Einträge in der Aufgabenliste
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Hinweis auf die Online-Hilfe
+
+Typografische Konventionen
+Fettschrift
+
+Bezeichnungen für Schaltflächen, Dialogfenster etc.
+
+Kursivschrift
+
+Vom Anwender eingegebene / gewählte Werte
+
+KAPITÄLCHEN
+
+Menüs bzw. Menüpunkte und Pfadangaben
+
+Blau unterstrichen
+
+Link
+
+Blau hervorgehoben
+
+Bezeichnung von Bereichen und Tabellen
+
+Rot hervorgehoben
+
+Bezeichnung von Registern
+
+Grün hervorgehoben
+
+Kennzeichnung von Hinweisen
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+3 von 20
+
+Zu dieser Anleitung
+Die in dieser Anleitung beschriebenen Regeln …
+
+ sollen für einen geregelten Ablauf bei der Erfassung des herkunftssprachlichen Unterrichts in der
+LUSD sorgen.
+
+ bilden die gültige Gesetzes- und Verordnungslage ab.
+ gelten seit dem Schuljahr 2016/2017.
+
+Herkunftssprache als Fremdsprache
+Schüler, die erst ab Jahrgangsstufe 8 in das Bundesgebiet zuziehen (Seiteneinsteiger)
+und die über unzureichende Kenntnisse in der deutschen Sprache und in denjenigen
+Fremdsprachen verfügen, die zum schulischen Regelangebot gehören, können beim
+zuständigen Staatlichen Schulamt beantragen, dass sie als erste oder zweite
+Fremdsprache die Sprache des Herkunftslandes oder Russisch als Pflichtfach wählen
+können.
+Wird dem Antrag auf „Wechsel der Sprachenfolge“ entsprochen, gelten für die jeweilige
+Herkunftssprache bzw. Russisch dieselben Bestimmungen wie für die Fremdsprache, an
+deren Stelle sie tritt.
+Nähere Informationen finden Sie im LUSD-Forum in der Anleitung Fremdsprachen in
+der LUSD (Anleitungen > Schülermanagement).
+Informationen zu den Funktionen der jeweiligen Webseite
+finden Sie in der LUSD-Hilfe. Klicken Sie hierzu auf
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+4 von 20
+
+Allgemeines zum herkunftssprachlichen Unterricht (HSU)
+Wer kann am HSU teilnehmen?
+Schüler der Jahrgangsstufen 1 bis 10, die aufgrund ihrer Herkunft Vorkenntnisse in einer der im
+Kapitel 1.1.1 genannten Sprachen mitbringen, haben die Möglichkeit, am herkunftssprachlichen
+Unterricht teilzunehmen. Dieser wird schulstufen- bzw. schulformübergreifend an zentralen
+Standorten als Wahlunterricht erteilt.
+Der Unterricht wird teilweise in Verantwortung des Landes Hessen, teilweise in Verantwortung der
+Herkunftsländer erteilt. Das Angebot ist je nach Sprache und Region sehr unterschiedlich
+ausgeprägt.
+
+Lernmittelzuweisung für HSU
+Seit dem Schuljahr 2016/2017 werden die Datenauswertungen aus der LUSD (zum Stichtag 01.02.
+und 01.11. eines Jahres) für die Lernmittelzuweisung für herkunftssprachlichen Unterricht
+verwendet.
+Ob es für herkunftssprachlichen Unterricht eine Lernmittelzuweisung gibt, hängt davon ab, in
+wessen Verantwortung der herkunftssprachliche Unterricht durchgeführt wird.
+
+HSU-Kurse in Verantwortung …
+
+Lernmittelzuweisung
+
+des Landes Hessen
+
+Es erfolgt eine schülerbezogene Lernmittelzuweisung.
+D. h. bei der Zuweisung werden seit dem Schuljahr 2016/2017
+nur die Schüler berücksichtigt, die in der LUSD den jeweiligen
+HSU-Lerngruppen zugeordnet sind.
+Die Zuweisung erhalten die Schulen, an denen der
+schulübergreifend organisierte HSU-Unterricht tatsächlich
+stattfindet, sowohl für die eigenen als auch für die externen
+Schüler.
+
+eines Herkunftslandes
+
+Es erfolgt keine Zuweisung durch das HKM.
+
+Fachberaterzentrum für Herkunftssprachen, Mehrsprachigkeit und
+schulische Integration
+Das Fachberaterzentrum für Herkunftssprachen, Mehrsprachigkeit und schulische
+Integration (FBZ) am Staatlichen Schulamt Frankfurt pflegt zentral die Informationen,
+
+ an welchen Unterrichtsstandorten
+ durch welche Lehrkräfte
+ in wessen Verantwortung herkunftssprachlicher Unterricht erteilt wird.
+Das FBZ übermittelt diese Information an die für die Herkunftssprachen zuständigen Dezernenten
+an den Staatlichen Schulämtern, die ihrerseits die Schulen informieren.
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+5 von 20
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Je nachdem, wo und in wessen Verantwortung der herkunftssprachliche Unterricht von Schülern
+Ihrer Schule stattfindet, sind von Ihnen in der LUSD unterschiedliche Eingaben nötig.
+Die jeweiligen Informationen finden Sie in folgenden Kapiteln:
+
+ Der HSU findet an Ihrer Schule statt
+-
+
+in Verantwortung des Landes Hessen
+
+-
+
+in Verantwortung eines Herkunftslandes
+
+ Ihre Schüler besuchen HSU an einer anderen Schule
+-
+
+in Verantwortung des Landes Hessen
+
+-
+
+in Verantwortung eines Herkunftslandes
+
+ Kapitel 1 – ab Seite 6
+
+ Kapitel 2 – ab Seite 16
+
+Wichtiger Hinweis zur Pflege der Familiensprache
+Die Pflege der Familiensprache auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN muss in jedem Fall erfolgen, unabhängig davon, ob ein Schüler
+an herkunftssprachlichem Unterricht teilnimmt oder nicht.
+
+1
+
+An Ihrer Schule findet herkunftssprachlicher Unterricht statt
+
+1.1
+
+HSU vorbereiten
+An einer Schule kann herkunftssprachlicher Unterricht sowohl in Verantwortung des Landes Hessen
+als auch in Verantwortung eines Herkunftslandes stattfinden.
+In beiden Fällen müssen Sie in der LUSD zunächst folgende Arbeiten durchführen:
+
+ Fächer für den HSU zuordnen
+
+ Kapitel 1.1.1 – Seite 7
+
+ Lehrer / Personal in Ihren Personalstamm aufnehmen
+
+ Kapitel 1.1.2 – Seite 8
+
+Je nachdem, in wessen Verantwortung der HSU stattfindet, sind anschließend in der LUSD,
+unterschiedliche Arbeiten notwendig:
+
+ HSU in Verantwortung des Landes Hessen
+
+ Kapitel 1.2 – ab Seite 9
+
+ HSU in Verantwortung eines Herkunftslandes
+
+ Kapitel 1.3 – ab Seite 13
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+6 von 20
+
+1.1.1 Fächer für den HSU zuordnen
+ Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > FÄCHER, ob sich im rechten Bereich
+Schulbezogene Fächer alle für Ihren HSU benötigen Fächer befinden. Dabei spielt es keine
+Rolle, in wessen Verantwortung der HSU stattfindet.
+
+ Verschieben Sie fehlende Fächer aus der Tabelle Offizielle Fächer in die Tabelle
+Schulbezogene Fächer.
+
+In folgenden Sprachen kann aktuell herkunftssprachlicher Unterricht erteilt werden:
+Sprache
+
+Kürzel
+
+Albanisch
+
+ALB
+
+Arabisch
+
+ARAB
+
+Bosnisch
+
+BOSN
+
+Griechisch
+
+GR
+
+Italienisch
+
+ITA
+
+Kroatisch
+
+KROA
+
+Mazedonisch
+
+MAK
+
+Montenegrinisch
+
+MON
+
+Polnisch
+
+PO
+
+Portugiesisch
+
+PORT
+
+Serbisch
+
+SERB
+
+Slowenisch
+
+SLO
+
+Spanisch
+
+SPA
+
+Türkisch
+
+TÜRK
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+7 von 20
+
+1.1.2 Lehrer / Personal in Personalstamm aufnehmen
+Herkunftssprachlicher Unterricht in Verantwortung des Landes Hessen wird von Lehrkräften
+erteilt, die ein Lehramtsstudium nach dem Schulrecht ihres Herkunftslandes oder ein
+Lehramtsstudium in Deutschland absolviert haben und die Angestellte oder Beamte des Landes
+Hessen sind.
+Einige Herkunftsländer (z. B. Bosnien-Herzegowina, Griechenland, Italien, Kroatien, Türkei) bieten
+herkunftssprachlichen Unterricht in Verantwortung des Herkunftslandes mit eigenem
+Lehrpersonal an.
+Prüfen Sie auf der Webseite PERSONAL > PERSONALBASISDATEN > PERSONALÜBERSICHT, ob die
+Lehrkräfte, die den HSU an Ihrer Schule erteilen, in der Tabelle Erfasstes Personal vorhanden
+und als unterrichtsversorgungsrelevant (UV-relevant) gekennzeichnet sind.
+
+Abb. 1
+
+Übersicht Erfasstes Personal
+
+Nehmen Sie fehlende HSU-Lehrkräfte neu in die LUSD auf.
+Bevor Sie eine Lehrkraft neu in die LUSD aufnehmen,
+müssen Sie auf der Webseite PERSONAL > PERSONALVERWALTUNG > LEHRERZUORDNUNG Register SAP-Lehrer prüfen, ob diese Lehrkraft im linken Bereich Zuzuordnende Einträge
+erscheint.
+Je nach Prüfergebnis gehen Sie wie folgt vor.
+Die Lehrkraft ist im Bereich Zuzuordnende Einträge …
+
+… vorhanden
+ Klicken Sie im Bereich Zuzuordnende Einträge in das Kontrollkästchen vor dem SAPLehrer, den Sie neu in die LUSD aufnehmen möchten.
+
+ Klicken Sie auf
+
+.
+Es erscheint die Webseite PERSONAL > PERSONALBASISDATEN > PERSONENBEZOGEN mit den
+aus SAP übernommenen Daten.
+
+ Geben Sie im Feld Schulinternes Kürzel ein Kürzel ein.
+ Klicken Sie auf
+
+.
+Die Lehrkraft wurde aus SAP in die LUSD übernommen. Sie erkennen dies an der SAPPersonalnummer.
+
+ Klicken Sie auf
+
+.
+
+… nicht vorhanden
+
+ Nehmen Sie die unterrichtende Person auf der Webseite PERSONAL > PERSONALBASISDATEN >
+PERSONENBEZOGEN über
+
+auf.
+
+ Füllen Sie alle Pflichtfelder.
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+8 von 20
+
+ Wählen Sie im Feld Dienstbezeichnung den Eintrag
+-
+
+Lehrer mit Lehrbefähigung nach dem Recht des Herkunftslandes oder
+
+-
+
+Lehrerin mit Lehrbefähigung nach dem Recht des Herkunftslandes.
+
+Abb. 2 Auswahl der Dienstbezeichnung
+
+ Klicken Sie auf
+
+.
+
+ Klicken Sie auf
+
+.
+
+Je nachdem, in wessen Verantwortung der HSU stattfindet, sind anschließend in der LUSD,
+unterschiedliche Arbeiten notwendig.
+
+- HSU in Verantwortung des Landes
+
+ Kapitel 1.2 – ab Seite 9
+
+Hessen
+-
+
+1.2
+
+HSU in Verantwortung eines
+Herkunftslandes
+
+ Kapitel 1.3 – ab Seite 13
+
+HSU an Ihrer Schule - in Verantwortung des Landes Hessen pflegen
+Wenn Ihre Schule herkunftssprachlichen Unterricht in Verantwortung des Landes Hessen
+anbietet, sind von Ihnen in der LUSD folgende Arbeiten durchzuführen:
+
+ HSU-Kurse anlegen
+
+ Kapitel 1.2.1 - Seite 9
+
+ Ihre und externe Schüler den HSU-Kursen zuordnen
+
+ Kapitel 1.2.2 - Seite 10
+
+ Zeugnisvermerke für Ihre und externe Schüler erfassen
+
+ Kapitel 1.2.3 - Seite 12
+
+1.2.1 HSU-Kurse anlegen
+Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG für jede Sprache
+Ihres herkunftssprachlichen Unterrichts in Verantwortung des Landes Hessen die benötigten
+Kurse an.
+Klicken Sie auf
+
+.
+
+Geben Sie im Dialogfenster Kurs anlegen die gewünschten Daten ein. Beachten Sie dabei
+untenstehende Angaben zu den einzelnen Feldern.
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+9 von 20
+
+Feld
+
+Eingabe
+
+Schulform
+
+Beliebig (Bitte Schulform auswählen, z. B. G – Grundschule.)
+Diese Eingabe dient dazu, dass die Fremdsprache dieses Kurses auf der
+Webseite SCHÜLERBASISDATEN > QUALIFIKATIONEN – Register
+Fremdsprachen im unteren Bereich erscheint. Mit dem Eintrag:
+Übergreifend funktioniert dies nicht.
+
+Stufe
+
+Übergreifend
+
+Kurs für
+
+Übergreifend
+
+Fach
+
+eine für HSU vorgesehene Sprache (vgl. Tabelle auf Seite 6)
+
+Stundenzahl
+
+Anzahl Wochenstunden des Kurses
+
+Lehrer
+
+unterrichtende Lehrkraft
+Zur Auswahl stehen alle Lehrer, die auf der Webseite PERSONAL >
+PERSONALBASISDATEN > PERSONALÜBERSICHT als UV-relevant
+gekennzeichnet sind (vgl. Kapitel 1.1.2 – Seite 7).
+
+Kursart
+
+F (Freiwilliger Kurs)
+
+Kursoption
+
+HHES
+
+Klicken Sie auf
+Klicken Sie auf
+
+.
+.
+
+1.2.2 Ihre und externe Schüler den HSU-Kursen zuordnen
+Ordnen Sie alle Schüler, die am herkunftssprachlichen Unterricht in Verantwortung des Landes
+Hessen an Ihrer Schule teilnehmen, auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG den entsprechenden HSU-Kursen mit der Kursart „F“ und der Kursoption „HHES“
+zu.
+Externe Schüler Ihrer Schule werden automatisch auf dem Register Externe angezeigt. Sie müssen
+vorher von der „Stammschule“ für den HSU an Ihre Schule überwiesen worden sein (vgl. Kap. 2).
+
+Abb. 3
+
+Schüler-Kurszuordnung, Register Externe
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+10 von 20
+
+Sobald ein Schüler einem HSU-Kurs zugeordnet ist, erzeugt das System am darauffolgenden
+Wochenende automatisch einen Eintrag auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN – Register Fremdsprachen im unteren Bereich Einführung in
+Fremdsprachen, Arbeitsgemeinschaften und herkunftssprachlicher Unterricht (vgl. Abb. 4).
+
+Abb. 4 Abbildung des HSU beim Schüler
+
+Hinweis
+Der herkunftssprachliche Unterricht zählt rechtlich nicht als Fremdsprache des Schülers!
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+11 von 20
+
+1.2.3 Zeugnisvermerke für Ihre und externe Schüler erfassen
+Grundsätze der Zeugniserteilung für den herkunftssprachlichen Unterricht in
+Verantwortung Hessens:
+Gemäß § 60 Abs. 7 der Verordnung zur Gestaltung des Schulverhältnisses (VOGSV)
+vom 19. August 2011 (ABl. 2011 S. 546), zuletzt geändert durch Verordnung vom 1.
+Dezember 2017 (ABl. 2018 S. 2), gilt:
+„Hat eine Schülerin oder ein Schüler an freiwilligen Unterrichtsveranstaltungen oder am
+Wahlunterricht teilgenommen, sind anstelle von Noten die Vermerke „teilgenommen“,
+„mit Erfolg teilgenommen“ und „mit gutem Erfolg teilgenommen“ einzusetzen.“
+
+Erfassen Sie für die HSU-Kurse in Verantwortung des Landes Hessen die Leistungen der Schüler
+in Form von folgenden Zeugnisvermerken
+-
+
+Teilgenommen
+
+-
+
+mit Erfolg teilgenommen
+
+-
+
+mit gutem Erfolg teilgenommen
+
+Die Zeugnisvermerke für den herkunftssprachlichen Unterricht in Verantwortung des Landes
+Hessen erscheinen im Zeugnis unter der Überschrift Freiwillige Unterrichtsveranstaltungen.
+-
+
+ Zeugnisvermerke kursweise erfassen
+
+UNTERRICHT > LEISTUNGSERFASSUNG >
+KURSE
+
+ Zeugnisvermerke für einzelne Schüler erfassen
+
+UNTERRICHT > LEISTUNGSERFASSUNG >
+SCHÜLER
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+12 von 20
+
+1.3
+
+HSU an Ihrer Schule - in Verantwortung eines Herkunftslandes pflegen
+Wenn Ihre Schule herkunftssprachlichen Unterricht in Verantwortung eines Herkunftslandes
+anbietet, sind von Ihnen in der LUSD folgende Arbeiten durchzuführen:
+
+ HSU-Kurse anlegen
+
+ Kapitel 1.3.1 - Seite 13
+
+ Ihre und externe Schüler den HSU-Kursen zuordnen
+
+ Kapitel 3 - Seite 14
+
+ Zeugnisvermerke für Ihre und externe Schüler erfassen
+
+ Kapitel 1.3.3 – Seite 14
+
+1.3.1 HSU-Kurse anlegen
+Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG für jede Sprache
+Ihres herkunftssprachlichen Unterrichts in Verantwortung eines Herkunftslandes die benötigten
+Kurse an.
+Klicken Sie auf
+
+.
+
+Geben Sie im Dialogfenster Kurs anlegen die gewünschten Daten ein. Beachten Sie dabei
+untenstehende Angaben zu den einzelnen Feldern.
+Feld
+
+Eingabe
+
+Schulform
+
+Beliebig (Bitte Schulform auswählen, z. B. G – Grundschule)
+Diese Eingabe dient dazu, dass die Fremdsprache dieses Kurses auf der
+Webseite SCHÜLERBASISDATEN > QUALIFIKATIONEN – Register
+Fremdsprachen im unteren Bereich erscheint.
+Mit dem Eintrag: Übergreifend funktioniert dies nicht.
+
+Stufe
+
+Übergreifend
+
+Kurs für
+
+Übergreifend
+
+Fach
+
+eine für HSU vorgesehene Sprache (vgl. Auflistung Seite 6)
+
+Stundenzahl
+
+Anzahl Wochenstunden des Kurses
+
+Lehrer
+
+Unterrichtende Lehrkraft
+Zur Auswahl stehen alle Lehrer, die auf der Webseite PERSONAL >
+PERSONALBASISDATEN > PERSONALÜBERSICHT als unterrichtsversorgungsrelevant (UV-relevant) gekennzeichnet sind (vgl. Kapitel 1.1.2 – Seite 8).
+
+Kursart
+
+Z (Zusatzunterricht)
+
+Hinweis:
+Seit Oktober 2020 ist es möglich für diese HSU-Kurse (KA: Z, KO: HHKL)
+Notenvermerke (T, E, G) zu erfassen. Dies erfolgt auf der Webseite
+UNTERRICHT > LEISTUNGSERFASSUNG > KURSE sowohl für eigene als auch
+für externe Schüler.
+Für die Schüler mit eingetragenem Notenvermerk wird daraufhin eine
+automatisierte Bemerkung im Zeugnis generiert.
+Kursoption
+
+HHKL
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+13 von 20
+
+Sobald Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+
+ als Fach eine Sprache wählen, in der herkunftssprachlicher Unterricht in
+Verantwortung des Herkunftslandes erteilt wird und
+
+ die Kursoption HHKL wählen,
+-
+
+wird unter dem Feld Kursoption die entsprechende HSU-Koordinationsstelle
+ausgegraut angezeigt. Dieser Eintrag kann nicht verändert werden.
+
+Abb. 5 Einen Kurs mit einem HSU-Fach und der Kursoption HHKL anlegen
+
+-
+
+erscheint im Dialogfenster Kurs anlegen / bearbeiten unten ein Hinweis auf
+das Fachberaterzentrum für Herkunftssprachen, Mehrsprachigkeit und
+schulische Integration (FBZ).
+
+Abb. 6 Hinweis auf das Fachberaterzentrum
+
+Der Bericht HSU-Koordinationsstellen (siehe Kapitel 3.1) führt alle HSUKoordinationsstellen in Hessen auf. Sie können den Bericht auf der Seite UNTERRICHT
+> UV-BEARBEITUNG > KURSBEARBEITUNG über die Auswahlliste im Feld Bericht
+aufrufen oder unter EXTRAS > BERICHTE > SCHULE > BASIS.
+Klicken Sie auf
+Klicken Sie auf
+
+.
+.
+
+1.3.2 Ihre und externe Schüler den HSU-Kursen zuordnen
+Ordnen Sie alle Schüler, die am herkunftssprachlichen Unterricht in Verantwortung eines
+Herkunftslandes teilnehmen, auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG den entsprechenden HSU-Kursen (mit der Kursart: Z und der Kursoption: HHKL)
+zu.
+Externe Schüler Ihrer Schule werden automatisch auf dem Register Externe angezeigt, sofern sie
+vorher für den HSU von der Stammschule „überwiesen“ wurden (vgl. Kap. 2.2).
+
+Abb. 7
+
+Schüler-Kurszuordnung, Register Externe
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+14 von 20
+
+Sobald ein Schüler einem HSU-Kurs zugeordnet ist, erzeugt das System am
+darauffolgenden Wochenende automatisch einen Eintrag auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > QUALIFIKATIONEN – Register Fremdsprachen im unteren Bereich
+Einführung in Fremdsprachen, Arbeitsgemeinschaften und herkunftssprachlicher
+Unterricht
+
+Abb. 8 Abbildung des HSU beim Schüler
+
+Hinweis
+Der herkunftssprachliche Unterricht zählt rechtlich nicht als Fremdsprache des Schülers!
+
+1.3.3 Zeugnisvermerke für Ihre und externe Schüler erfassen
+Grundsätze der Zeugniserteilung für den herkunftssprachlichen Unterricht in
+Verantwortung eines Herkunftslandes:
+Gemäß § 60 Abs. 10 der Verordnung zur Gestaltung des Schulverhältnisses (VOGSV)
+vom 19. August 2011 (ABl. 2011 S. 546), zuletzt geändert durch Verordnung vom 1.
+Dezember 2017 (ABl. 2018 S. 2) gilt:
+„Hat eine Schülerin oder ein Schüler nichtdeutscher Herkunftssprache am
+herkunftssprachlichen Unterricht in Verantwortung des Herkunftslandes teilgenommen,
+erfolgt auf Antrag der Eltern im Abschnitt „Bemerkungen“ die Aufnahme unter Angabe
+des Herkunftslandes, der Wochenstundenzahl und der Bewertung. Dabei ist darauf
+hinzuweisen, dass der Unterricht in der Verantwortung des Herkunftslandes erfolgt.“
+Beispiel: Die Schülerin Musterkind hat mit Erfolg am herkunftssprachlichen Unterricht für
+Türkisch im Umfang von zwei Wochenstunden teilgenommen. Dieser wurde in
+Verantwortung der Republik Türkei erteilt.
+
+Hinweis:
+Seit Oktober 2020 können Sie für Schüler, die an Ihrer Schule einen HSU-Kurs i. V. d.
+Herkunftslandes besuchen (Kursart: Z und Kursoption: HHKL) und die Ihre Teilnahme im
+Zeugnis bestätigt haben möchten, die Notenvermerke (T, E, G) erfassen.
+Dies erfolgt auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > KURSE sowohl für
+eigene als auch für externe Schüler.
+
+ Für die Schüler mit eingetragenem Notenvermerk wird eine automatisierte Bemerkung
+im Zeugnis generiert (Abb. 10).
+
+ Bei Schülern, für die kein Zeugnisvermerk (T, E, G) erfasst ist, wird keine Bemerkung
+erzeugt.
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+15 von 20
+
+Abb. 9 Erfassen der Notenvermerke (T, E, G) für den HSU i. V. des Herkunftslandes
+
+Abb. 10
+
+2
+
+Automatisch erzeugte Zeugnisbemerkung zum HSU i. V. des Herkunftslandes
+
+Ihre Schüler besuchen HSU an einer anderen Schule
+Wenn Schüler Ihrer Schule herkunftssprachlichen Unterricht an einer anderen Schule besuchen,
+sind von Ihnen in der LUSD die nachfolgenden Arbeiten durchzuführen:
+
+Notwendige Datenpflege
+ Fehlende Schulen auf der Webseite
+
+HHES
+
+HHKL
+
+ Kapitel 2.1 - Seite 16
+
+X
+
+X
+
+ Kapitel 2.2 - Seite 16
+
+X
+
+X
+
+SCHULUMFELD hinzufügen
+
+ Schüler an andere Schule überweisen
+
+2.1
+
+Fehlende Schulen auf der Webseite > Schulumfeld > Schulen hinzufügen
+Prüfen Sie auf der Webseite SCHULE > SCHULUMFELD > SCHULEN – im Register Hessen, ob die
+Schulen, an die Sie Ihre HSU-Schüler überweisen möchten, in der Tabelle vorhanden sind. Fehlt
+eine Schule, fügen Sie diese hinzu.
+
+2.2
+
+Ihre Schüler an andere Schule überweisen
+Fügen Sie für Ihre Schüler, die herkunftssprachlichen Unterricht an einer anderen Schule besuchen,
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG die entsprechende
+Überweisung hinzu.
+Wählen Sie die gewünschten Schüler über die Schülersuche aus.
+Klicken Sie auf
+
+. Es erscheint das Dialogfenster Überweisung hinzufügen.
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+16 von 20
+
+Abb. 11 Überweisung für HSU an anderer Schule hinzufügen
+
+Geben Sie folgende Daten ein:
+
+ Art der Überweisung*: Externer Unterricht
+ Von*: Beginn des HSU (frühestens nächster Tag)
+ Bis*: Ende des HSU (i. d. R. Ende des Schuljahres)
+ Externe Schule*: Schule, an der der HSU für den betroffenen Schüler stattfindet.
+Hier stehen die Schulen zur Verfügung, die auf der Webseite SCHULE > SCHULUMFELD >
+SCHULEN – im Register Hessen vorhanden sind.
+Klicken Sie auf
+Klicken Sie auf
+
+2.3
+
+.
+.
+
+Zeugnisvermerke bei HSU in Verantwortung des Landes Hessen
+Wenn Schüler Ihrer Schule an einer anderen Schule herkunftssprachlichen Unterricht in
+Verantwortung des Landes Hessen besuchen, sind von Ihnen in der LUSD keine weiteren
+Arbeiten durchzuführen.
+Die Zeugnisvermerke für den herkunftssprachlichen Unterricht in Verantwortung des Landes
+Hessen werden an der anderen Schule erfasst und erscheinen im Zeugnis unter der Überschrift
+Freiwillige Unterrichtsveranstaltungen.
+
+2.4
+
+Bemerkungen im Zeugnis bei HSU in Verantwortung eines Herkunftslandes
+Hinweis:
+Die Zeugnisvermerke (T, E, G) für HSU in Verantwortung des Herkunftslandes werden
+von der Schule erfasst, an der der HSU stattfindet ( siehe Kapitel 1.2.3 – Seite 12).
+Wenn Schüler Ihrer Schule an einer anderen Schule herkunftssprachlichen Unterricht in
+Verantwortung des Herkunftslandes besuchen, sind von Ihnen in der LUSD keine
+weiteren Arbeiten durchzuführen.
+
+ Bei Schülern, für die Zeugnisvermerke für den HSU Kurs erfasst sind, wird eine automatisierte
+Bemerkung in ihrem Zeugnis generiert.
+
+ Bei Schülern, für die kein Zeugnisvermerk für den HSU erfasst wurde, wird keine Bemerkung
+generiert.
+
+Abb. 12
+
+Beispiel Zeugnisbemerkung HSU
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+17 von 20
+
+3
+
+Berichte zum HSU
+
+3.1
+
+Bericht HSU-Koordinationsstellen
+Unter EXTRAS > BERICHTE > SCHULE > BASIS finden Sie den Bericht HSU-Koordinationsstellen.
+Sie können den Bericht HSU-Koordinationsstellen auch auf der Seite UNTERRICHT >
+UV-BEARBEITUNG > KURSBEARBEITUNG über die Auswahlliste im Feld Bericht aufrufen.
+
+Abb. 13 Auswahlliste im Feld Bericht
+
+ Der Bericht steht Ihnen im CSV- und PDF-Format zur Verfügung.
+ Hier finden Sie alle HSU-Koordinationsstellen mitsamt Anschrift.
+
+Abb. 14 Bericht HSU- Koordinationsstellen im PDF-Format
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+18 von 20
+
+ Im PDF-Format findet sich am Ende des Berichtes zudem ein Hinweis auf das
+Fachberaterzentrum für Herkunftssprachen, Mehrsprachigkeit und schulische Integration
+(FBZ).
+
+Abb. 15 Hinweis auf das Fachberaterzentrum
+
+3.2
+
+Bericht Schüler-Noten: Nutzen für Schulen, die keine Zeugnisse mit der LUSD
+erstellen
+
+3.2.1 So nutzen Sie den Bericht bei HSU in Verantwortung des Landes Hessens
+Wenn Sie die Zeugnisse nicht mit der LUSD erstellen, können Sie sich mit Hilfe des Berichts
+Schüler-Noten eine Übersicht erstellen, aus der Sie sehen können,
+-
+
+welche Schüler am HSU i. V. des Landes Hessen teilgenommen haben
+
+-
+
+welche Zeugnisvermerke Sie unter der Überschrift Freiwillige Unterrichtsveranstaltungen
+im Zeugnis eintragen müssen.
+
+ Erstellen Sie auf der Webseite EXTRAS > BERICHTE > UNTERRICHT > LEISTUNGEN den Bericht
+Schüler-Noten im CSV-Format.
+
+ Blenden Sie nicht benötigte Spalten aus.
+ Filtern Sie in der Spalte KO (Kursoption) die Schüler heraus, die den Eintrag HHES aufweisen.
+
+Abb. 16 Bericht Schüler-Noten KO HHES
+
+3.2.2 So nutzen den Bericht bei HSU in Verantwortung des Herkunftslandes
+Wenn Sie die Zeugnisse nicht mit der LUSD erstellen, können Sie sich mit Hilfe des Berichts
+Schüler-Noten eine Übersicht erstellen, aus der Sie sehen können,
+-
+
+welche Schüler am HSU i. V. des Herkunftslandes teilgenommen haben
+
+-
+
+wie der Zeugnisvermerk (Spalte: Note) lautet
+
+-
+
+mit wie viel Stunden der Kurs angeboten wurde
+
+-
+
+in wessen Verantwortung der Kurs erteilt wurde. Anhand der Kursbezeichnung können Sie
+auf das Land schließen.
+
+Aus diesen Angaben können Sie die erforderliche Bemerkung erstellen.
+
+Abb. 17 Zeugnisbemerkung HSU i. V. des Herkunftslandes
+
+ Erstellen Sie auf der Webseite EXTRAS > BERICHTE > UNTERRICHT > LEISTUNGEN den Bericht
+Schüler-Noten im CSV-Format.
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+19 von 20
+
+ Blenden Sie nicht benötigte Spalten aus.
+ Filtern Sie in der Spalte KO (Kursoption) die Schüler heraus, die den Eintrag HHKL aufweisen.
+
+Abb. 18 Bericht Schüler-Noten KO HHKL
+
+4
+
+Unterstützung bei Problemen
+
+4.1
+
+Fragen zum HSU
+Bei Fragen zum herkunftssprachlichen Unterricht wenden Sie sich bitte an das
+Fachberaterzentrum für Herkunftssprachen, Mehrsprachigkeit und schulische Integration
+(FBZ) am Staatlichen Schulamt für die Stadt Frankfurt am Main:
+Telefon: 069 – 389 892 - 28
+
+4.2
+
+Fragen zur Umsetzung des HSU in der LUSD
+Für Fragen zur Umsetzung des herkunftssprachlichen Unterrichts in der LUSD, wenden Sie sich
+bItte an den LUSD-Support:
+Tel.: 0611 – 340 1570 (Mo - Do von 8:00 bis 16:00, Fr von 8:00 bis 14:30)
+E-Mail: IT-Service-Desk@hzd.hessen.de
+
+Abbildung des herkunftssprachlichen Unterrichts in der LUSD
+Version 3.0 – Stand: 15.08.2022
+
+20 von 20
+
+

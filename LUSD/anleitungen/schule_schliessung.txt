@@ -1,0 +1,261 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Schließung einer Schule
+Datenpflege in der LUSD bei Schließung einer Schule
+
+1
+
+Vorwort
+Das vorliegende Dokument beschreibt die Tätigkeiten, die im Rahmen der endgültigen
+Schließung einer Schule in der LUSD durchzuführen sind. Zusammenlegungen von Schulstandorten zu einer Verbundschule sind von den Maßnahmen dieser Anleitung nicht betroffen.
+Es werden dabei zwei Szenarien unterschieden:
+▪ Die Schulschließung ist bereits erfolgt.
+▪ Die Schulschließung steht noch bevor.
+
+2
+
+Die Schulschließung ist bereits erfolgt
+Die Schließung Ihrer Schule ist bereits erfolgt. Nun sind die Schüler- und Benutzerdaten in
+der LUSD von Ihnen abschließend zu pflegen.
+Hinweis
+
+Voraussetzung, um die Schüler bearbeiten zu können, ist ein noch bestehender
+Zugang der bereits geschlossenen Schule zur LUSD.
+Selbst wenn die Schule datenbankseitig bereits ungültig gesetzt ist, ist aktuell
+ein Zugriff noch möglich.
+Wurde die Schule bereits geschlossen, sind folgende Tätigkeiten durchzuführen:
+▪ Alle Schüler ehemalig setzen (siehe Kapitel 2.1)
+▪ Alle Kandidaten mit Stammdatenrechten freigeben (siehe Kapitel 3.2)
+▪ Alle Benutzer bearbeiten (siehe Kapitel 3.3)
+
+2.1
+
+Alle Schüler ehemalig setzen
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG.
+2. Klicken Sie im Register SCHÜLER die Optionsschaltfläche FREIGEBEN an.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+0
+
+3. Wählen Sie die Schüler einer SCHULFORM (SF/BK) über die Selektion aus. Wählen Sie
+im Feld STUFE (St/Sem) eine Stufe aus und lassen im Feld KLASSE (*) stehen.
+4. Klicken Sie auf das Schaltsymbol
+
+.
+
+5. Klicken Sie in das Kontrollkästchen NACHNAME in der Tabellenüberschrift. Alle Zeilen
+sind blau hinterlegt.
+6. Geben Sie im Feld FREIGABEDATUM ein Datum zu Beginn des aktuellen Halbjahres ein.
+Hinweis
+
+Liegt das Schließungsdatum Ihrer Schule in der Vergangenheit, müssen alle
+Schüler in der LUSD auf den Status ehemalig gesetzt werden. Das geht nur,
+wenn die Schüler ein rückwirkendes Freigabedatum bekommen.
+Aus technischen Gründen müssen Sie als Freigabedatum ein zurückliegendes Datum zu Beginn des aktuellen Halbjahres eintragen.
+7. Klicken Sie auf ÜBERNEHMEN. Die Schüler werden mit
+scheint eine Hinweismeldung.
+
+gekennzeichnet und es er-
+
+Abb. 1 Webseite Statusverwaltung: Hinweismeldung
+
+8. Klicken Sie in der Hinweismeldung auf
+▪ FORTFAHREN, um die Schüler ehemalig zu setzen.
+▪ ABBRECHEN, um ihre Auswahl zu überprüfen oder zu ändern
+9. Klicken Sie auf SPEICHERN.
+10. Wiederholen Sie die Schritte 3 bis 9 für alle Schüler ihrer Schule je Schulform und Stufe.
+11. Klicken Sie auf SCHLIEßEN.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+2
+
+2.2
+
+Alle Kandidaten mit Stammdatenrechten freigeben
+Siehe Kapitel 3.2.
+
+2.3
+
+Alle Benutzer bearbeiten
+Siehe Kapitel 3.3.
+
+3
+
+Die Schulschließung steht noch bevor
+Sobald Sie wissen, dass Ihre Schule in der Zukunft (mit bekanntem Datum) geschlossen
+wird, sind von Ihnen spätestens bis zum Ende des Schuljahres folgende Tätigkeiten durchzuführen:
+▪ Variante 1 - Schüler freigeben und Wunschschule hinzufügen (siehe Kapitel 3.1.1)
+▪ Variante 2 - Schüler freigeben ohne Wunschschule einzutragen (siehe Kapitel 3.1.2)
+▪ Alle Kandidaten mit Stammdatenrechten freigeben (siehe Kapitel 3.2 )
+▪ Alle Benutzer bearbeiten (siehe Kapitel 3.3 )
+Wichtige Hinweise zu Zeugnissen und Abschlüssen
+
+Bevor Sie einen Schüler, bei Schulschließung zum Schuljahresende, ehemalig
+setzen, weisen Sie ihm vor Ablauf des Schuljahres
+▪ im Fall, dass er Schüler in einer Abschlussklasse ist und die Prüfungen besteht, auf der Webseite UNTERRICHT > ABSCHLÜSSE die an Ihrer Schule vergebenen Abschlüsse zu.
+▪ auf der Webseite UNTERRICHT > ZEUGNISSE > ZEUGNISZUWEISUNG ein Zeugnis
+zu: z. B. ein Schulwechsel- oder Abgangszeugnis oder ein Abgangszeugnis mit
+Abschluss.
+
+3.1
+
+Alle Schüler freigeben
+
+3.1.1 Variante 1 – Mehrere Schüler freigeben und Wunschschule hinzufügen
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER. Die Optionsschaltfläche MEHRFACHAUSWAHL ist ausgewählt.
+2. Wählen Sie die Schüler einer SCHULFORM (SF/BK*) und STUFE (St/Sem*) mit dem STATUS* aktiv über die Selektion aus.
+3. Klicken Sie auf das Schaltsymbol
+
+.
+
+4. Um alle Schüler auszuwählen, klicken Sie in der Kopfzeile der Tabelle in das Kontrollkästchen. Um einzelne Schüler auszuwählen, klicken Sie in das Kontrollkästchen vor
+den Schülernamen.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+3
+
+Abb. 2 Webseite Abgänger
+
+5. Geben Sie im Feld FREIGABE ZUM das Datum der Schulschließung ein.
+Hinweis
+
+Der Tag vor dem Freigabedatum ist der letzte aktive Tag der Schüler.
+▪ Schüler mit Kandidatenverhältnis können ab dem Freigabedatum von der
+aufnehmenden Schule aktiv gesetzt werden.
+▪ Schüler ohne Kandidatenverhältnis werden mit dem Erreichen des Frei-
+
+gabedatums ehemalig.
+Kontrollieren Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN, ob die Schüler freigegeben wurden.
+6. Klicken Sie auf SPEICHERN. Das gewählte Freigabedatum (= Schließungsdatum) wurde
+in die Tabellenspalte FREIGABE übernommen. Den Schülern wurde noch keine Wunschschule zugeordnet.
+7. Wählen Sie die gewünschten Schüler aus und klicken Sie unter W-Schule auf HINZUFÜGEN.
+8. Geben Sie im Dialogfenster WUNSCH-SCHULE HINZUFÜGEN die Wunsch-Schule, die
+Wunsch-Schulform (W-SF), die Wunsch-Stufe (W-St/Sem), die Priorität und ggf. die
+Wunsch-Sprache (W-Sprache) an.
+9. Klicken Sie auf ÜBERNEHMEN und dann auf SPEICHERN.
+10. Wiederholen Sie die vorgenannten Schritte für alle Schüler ihrer Schule je Schulform
+und Stufe.
+11. Klicken Sie auf SCHLIEßEN.
+3.1.2 Variante 2 – Mehrere Schüler gleichzeitig freigeben ohne Wunschschule
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+4
+
+Abb. 3 Webseite Statusverwaltung
+
+2. Klicken Sie im Register SCHÜLER die Optionsschaltfläche FREIGEBEN an.
+3. Wählen Sie die Schüler einer SCHULFORM (SF/BK) und STUFE (St/Sem) über die Selektion aus. Lassen Sie im Feld KLASSE das (*) stehen.
+4. Klicken Sie auf das Schaltsymbol
+
+.
+
+5. Klicken Sie nacheinander auf die erscheinenden Schaltsymbole
+Klasse die Schülerdatensätze sichtbar werden.
+
+, bis in der Ebene der
+
+6. Klicken Sie in das Kontrollkästchen NACHNAME in der Tabellenüberschrift. Alle Zeilen
+sind blau hinterlegt.
+7. Geben Sie im Feld FREIGABEDATUM das Datum der Schulschließung ein.
+8. Klicken Sie auf ÜBERNEHMEN und dann auf SPEICHERN .
+9. Wiederholen Sie die Schritte 3 bis 8 für alle Schüler ihrer Schule je Schulform und Stufe.
+10.
+
+Klicken Sie auf SCHLIEßEN.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+5
+
+3.2
+
+Kandidaten mit SD-R freigeben und Wunschschule zuordnen
+Hinweis
+
+Bevor Sie mit der Bearbeitung beginnen, erstellen Sie sich den Bericht SCHÜLERLISTE mit Ihren Kandidaten mit SD-R.
+
+Abb. 4 Schülersuche
+
+Abb. 5 Bericht Schülerliste
+
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER.
+2. Klicken Sie das Register K. M. SD-R an.
+Alle Kandidaten mit Stammdatenrechten werden angezeigt.
+3. Klicken Sie einen Nachnamen von der erstellten Kandidaten-/Schülerliste an (Abb. 4).
+4. Geben Sie im Feld FREIGABE ZUM das Datum der Schulschließung ein (Abb. 6). Das Datum darf nicht in einem vergangenen Halbjahr liegen.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+6
+
+Abb. 6 Webseite Abgänger
+
+5. Klicken Sie unter W-Schule auf HINZUFÜGEN.
+6. Geben Sie im Dialogfenster WUNSCH-SCHULE HINZUFÜGEN die Wunsch-Schule, -Schulform (W-SF), die -Stufe (W-St/Sem), die Priorität und ggf. die Wunsch-Sprache (W-Sprache) an.
+7. Klicken Sie auf ÜBERNEHMEN (Abb. 7).
+
+Abb. 7 Webseite Abgänger: Detailansicht Abgänger nach Übernahme der Wunschschule
+
+8. Klicken Sie auf SPEICHERN.
+
+Abb. 8 Webseite Abgänger: Detailansicht Abgänger nach dem Speichervorgang
+
+9. Wiederholen Sie die beschriebenen Schritte für alle Kandidaten mit SD-R ihrer Schule.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+7
+
+Hinweis
+
+Sie können die Freigabe auch in der Mehrfachbearbeitung für Schüler mit der
+gleichen Wunschschule durchführen. Klicken Sie dazu die entsprechenden
+Datensätze an und pflegen Sie wie beschrieben das Freigabedatum und die
+Wunschschule.
+
+3.3
+
+LUSD-Benutzer bearbeiten
+Bevor ein Schulstandort bzw. eine Dienststelle geschlossen wird, sollten Sie alle LUSD-Benutzer …
+▪ entweder deaktivieren. Diese Benutzer können sich, solange sie deaktiviert sind, nicht
+mehr in der LUSD anmelden.
+▪ oder deren Gültigkeitsdatum mit dem Datum der Schulschließung gleichsetzen.
+Diese Benutzer können sich bis zum Erreichen dieses Gültigkeitsdatums in der LUSD
+anmelden.
+1. Gehen Sie auf die Webseite SCHULE > ADMINISTRATION > BENUTZER und klicken in der
+Tabelle BENUTZER in das Kontrollkästchen vor dem gewünschten Benutzer.
+2. Klicken Sie auf BEARBEITEN.
+3. Geben Sie im Dialogfenster BENUTZER BEARBEITEN im Feld GÜLTIG BIS das Datum der
+Schulschließung ein und klicken Sie auf ÜBERNEHMEN.
+
+Abb. 9 Webseite Benutzer: Dialogfenster Benutzer hinzufügen/bearbeiten
+
+4. Klicken Sie auf SPEICHERN.
+5. Erfassen Sie im Dialogfenster AUTORISIERUNG die Autorisierungsdaten und klicken auf
+ÜBERNEHMEN.
+6. Klicken Sie auf SPEICHERN.
+Hinweis
+
+Sollten Sie nach dem Datum der Deaktivierung nochmal auf Daten, z.B. von
+ehemaligen Schülern, zugreifen müssen, so steht Ihnen der Helpdesk zur
+Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Schließung einer Schule | Version: 2.0 | 24.10.2025
+
+8
+
+

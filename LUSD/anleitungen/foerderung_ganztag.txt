@@ -1,0 +1,1156 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Ganztagsangebote und ihre
+Erfassung
+
+Version: 3.1
+Letzter Stand: 28.11.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt und Zweck dieses Dokuments .............................................................................................. 5
+Lagebeschreibung ......................................................................................................................... 5
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 6
+
+Erfassung des Ganztagsangebots in der LUSD vorbereiten
+
+8
+
+1
+
+Das Ganztagsprofil der Schule eintragen .............................................................................. 8
+
+2
+
+Schulbezogene Fächer prüfen .............................................................................................. 9
+
+3
+
+Themenliste der Schule prüfen ............................................................................................. 9
+
+4
+
+Personalgruppe im Ganztag bei LUSD-Personal pflegen .................................................... 10
+
+Erfassen und Pflegen von Ganztagsangeboten in der LUSD
+
+11
+
+5
+
+Der Unterschied zwischen Bildungsangebot und Betreuungsangebot ................................ 11
+
+6
+
+Bildungsangebote in der LUSD abbilden............................................................................. 13
+
+7
+
+6.1
+
+Bildungsangebot erfassen ......................................................................................... 13
+
+6.2
+
+Kurse zu Bildungsangeboten erstellen ....................................................................... 14
+
+Betreuungsangebote in der LUSD abbilden ........................................................................ 16
+7.1
+
+Betreuungsangebot erfassen ..................................................................................... 16
+
+7.2
+
+Einen Kurs für alle Betreuungsangebote erstellen ..................................................... 19
+
+8
+
+Typische Fehler bei der Eingabe der Ganztagsangebote .................................................... 21
+
+9
+
+Bericht zur Ganztagsbetreuung / zum Rechtsanspruch ...................................................... 22
+
+10
+
+Übersicht der GTAB-Kategorien und GTAB-Gruppen ......................................................... 23
+
+11
+
+Übersicht der Betreuungsarten zum Ganztagsangebot ....................................................... 24
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+2
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulstammdaten: Felder zur Pflege des Ganztagsprofils .................................. 8
+Abb. 2 Webseite Themen: Themenliste der Schule ...................................................................... 10
+Abb. 3 Webseite Schulbezogen: Umändern des Personaltyps ..................................................... 10
+Abb. 4 Webseite Bildungsangebote: Übersicht der Bildungsangebote ......................................... 13
+Abb. 5 Webseite Bildungsangebote: Bildungsangebot hinzufügen ............................................... 14
+Abb. 6 Webseite Kursbearbeitung: Kurs für das Bildungsangebot anlegen .................................. 15
+Abb. 7 Webseite Schüler-Kurszuordnung: Register Aktive ........................................................... 16
+Abb. 8 Webseite Betreuungsangebote im Ganztag: Übersicht der Betreuungsangebote ............. 16
+Abb. 9 Webseite Betreuungsangebote im Ganztag: Betreuungsangebot hinzufügen ................... 16
+Abb. 10 Webseite Betreuungsangebote im Ganztag: Dialogfenster Betreuungsangebote im
+Ganztag hinzufügen ....................................................................................................... 18
+Abb. 11 Webseite Kursbearbeitung: Kurs für alle Schüler in Betreuungsangeboten..................... 20
+Abb. 12 Webseite Schüler-Kurszuordnung: Register Aktive ......................................................... 20
+Abb. 13 Bericht Ganztagsbetreuung: Beispiel .............................................................................. 23
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+4
+
+Zu diesem Dokument
+Inhalt und Zweck dieses Dokuments
+Das Fachreferat, das Statistikreferat, das Referat E-Government-Verfahren des Hessischen
+Ministeriums für Kultus, Bildung und Chancen (HMKB) sowie das Hessische Statistische
+Landesamt haben sich auf Regeln für die Darstellung von Ganztagsangeboten (= Bildungs- und
+Betreuungsangebote im Rahmen des Ganztages) in der LUSD und deren Auswertung verständigt.
+Die hier beschriebenen Regeln zur Erfassung des Ganztagsangebots (GTAB) …
+▪ sollen nach Absprache mit der Rechtsabteilung des HMKB für einen geregelten Ablauf bei der
+Erfassung der Ganztagsangebote in der LUSD und für korrekte statistische Auswertungen
+sorgen.
+▪ bilden die gültige Gesetzeslage ab und gelten seit dem Schuljahr 2014/15.
+Warum ist die korrekte Erfassung der Ganztagsangebote wichtig?
+Ein Instrument zur Verwirklichung von Chancen- und Bildungsgerechtigkeit ist der Ausbau der
+Ganztagsangebote. Mit Hilfe der LUSD erfassen Schulen, wie viele Schülerinnen und Schüler die
+Angebote im Ganztag nutzen.
+Die in der LUSD erfassten Daten zum Ganztagsangebot …
+▪ dienen der Zuweisung und Kontrolle der für die Ganztagsbetreuung verwendeten hessischen
+Haushaltsmittel an die Schulen.
+▪ bilden die Grundlage für verlässliche Daten, die im Rahmen von KMK-Vereinbarungen zum
+bundesweiten Vergleich der Ganztagsangebote zur Verfügung gestellt werden.
+▪ können nur dann ausgewertet werden, wenn alle nötigen Felder richtig ausgefüllt sind.
+
+Lagebeschreibung
+Obwohl die meisten Schulen mit großer Sorgfalt die LUSD-Daten pflegen, ist die Datenqualität
+bezüglich der Ganztagsangebote unzureichend. Bei der Analyse der Daten zeigen sich vier
+typische Fehlerquellen. Ziel dieser Anleitung ist es daher, dass die Schulen in allen
+Ganztagsprogrammen besser mit der Eingabe in die LUSD zurechtkommen.
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument richtet sich an LUSD-Benutzer, die das Ganztagsangebot an ihrer
+Schule in der LUSD pflegen.
+Einige Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben. In der untenstehenden Tabelle finden Sie die vorausgesetzten Themen, wo sie dazu
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+5
+
+passende Anleitungen finden und in welchen LUSD-Fortbildungen Sie die Kenntnisse erwerben
+können.
+Kenntnisse
+
+Fundstelle für passende
+Anleitungen auf
+schulehessen.de/lusdanleitungen
+
+Passende Fortbildung
+
+LUSD Basiswissen
+
+ANLEITUNGEN > GRUNDLAGEN
+
+LUSD-Basisschulung
+(Lernen Sie die LUSD
+kennen)
+
+Bearbeitung von Schülerdaten ANLEITUNGEN > SCHÜLER
+in der LUSD
+
+LUSD-Schülermanagement
+
+Bearbeitung von Schul- und
+Unterrichtsdaten in der LUSD
+
+LUSD – Schul- und
+Unterrichtsmanagement
+
+ANLEITUNGEN > SCHÜLER
+ANLEITUNGEN > FÖRDERUNGEN
+
+Hinweis
+Beispiele zur Schülersuche finden Sie zudem in der LUSD-Onlinehilfe. Klicken Sie
+hierfür in einer beliebigen Hilfeseite auf SUCHEN IN DER LUSD und dann auf BEISPIELE
+ZUR SCHÜLERSUCHE.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+6
+
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+7
+
+Erfassung des Ganztagsangebots in der LUSD vorbereiten
+Die in den Kapiteln 1 bis 3 beschriebenen Arbeiten zur Datenpflege sind in der Regel nur einmal
+durchzuführen und sind Grundlage für die Erfassung und Pflege der Ganztagsangebote in der
+LUSD.
+
+1
+
+Das Ganztagsprofil der Schule eintragen
+Die Daten zum Ganztagsprofil erfassen Sie auf der Webseite SCHULE > SCHULBASISDATEN
+> SCHULSTAMMDATEN im Bereich SCHULE (Abb. 1).
+
+Abb. 1 Webseite Schulstammdaten: Felder zur Pflege des Ganztagsprofils
+
+1. Tragen Sie als Schule mit genehmigtem Ganztagsprofil folgende Daten ein:
+
+Feld
+
+Inhalt
+
+Aufnahme in das
+Ganztagsprogram
+m
+
+Datum der Aufnahme in das
+Ganztagsprogramm
+
+Profilwechsel
+
+Datum eines genehmigten
+Profilwechsels
+
+Genehmigte Form
+Ganztagsangebot
+
+Mögliche Profile sind:
+▪ - KEIN EINTRAG ▪ PAKT FÜR DEN GANZTAG
+▪ SCHULE MIT GANZTAGSANGEBOTEN
+PROFIL 1
+▪ SCHULE MIT GANZTAGSANGEBOTEN
+PROFIL 2
+▪ GANZTAGSSCHULE PROFIL 3
+
+Bemerkung
+
+Ist der vorliegende Eintrag
+falsch, ist er von Ihnen an
+dieser Stelle zu ändern.
+Ändert sich die
+genehmigte Form des
+Ganztagsangebotes Ihrer
+Schule, ist der korrekte
+Eintrag von Ihnen
+auszuwählen.
+
+Hinweis
+Eine Definition der einzelnen Profile finden Sie unter folgendem Link:
+Profil 1, 2 und 3 | kultus.hessen.de
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+8
+
+Hinweis
+Um die tatsächliche Schülerzahl an den Betreuungsangeboten statistisch
+erfassen zu können, ist von allen Schulen mit genehmigtem Ganztagsprofil
+EIN spezieller Kurs zu erstellen dem jährlich - jeweils bis zum
+Statistikstichtag - die betroffenen Schüler zugeordnet werden müssen.
+Siehe Kapitel 7.2
+
+2
+
+Schulbezogene Fächer prüfen
+1. Überprüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > FÄCHER, ob das Fach
+GTAB (Ganztagsangebot) aktiviert ist.
+Hinweis
+Ist dies nicht der Fall, aktivieren Sie das Fach durch Klick auf die Schaltfläche
+INAKTIV/AKTIV in der Spalte STATUS.
+
+2. Klicken Sie auf die Schaltfläche SPEICHERN.
+
+3
+
+Themenliste der Schule prüfen
+1. Prüfen Sie auf der Webseite SCHULE > SCHLÜSSEL > THEMEN die THEMENLISTE DER
+SCHULE.
+Hinweis
+GT-Themen
+▪ Von Ihnen können die offiziell vorgegebenen Ganztags-Themen – zu
+erkennen am Kürzel GT – verwendet werden.
+▪ Die GT-Kürzel und die dazugehörigen Themen dürfen ab dem Schuljahr
+2021/22 aber auch verändert oder um eigene Themen (mit oder ohne GTKürzel) ergänzt werden.
+Zur Kennzeichnung von Ganztagsangeboten
+Die von Ihnen benötigten Themen zum Ganztagsangebot, müssen wie folgt
+gekennzeichnet sein
+▪ im Feld ZUSATZANGEBOT ist ein Häkchen gesetzt
+▪ im Feld INAKTIV darf kein Häkchen gesetzt sein.
+Nur diese Themen können Sie später für die Zuordnung in Bildungsangeboten verwenden
+(Abb. 2).
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+9
+
+Abb. 2 Webseite Themen: Themenliste der Schule
+
+Tipp
+Einen schnellen Überblick über die Themen Ihrer Schule bietet der Bericht
+THEMEN DER SCHULE auf der Webseite EXTRAS > BERICHTE >
+STANDARDBERICHTE.
+
+4
+
+Personalgruppe im Ganztag bei LUSD-Personal pflegen
+1. Fügen Sie auf der Webseite PERSONAL > PERSONENBEZOGEN neues Personal hinzu
+indem Sie auf das Schaltsymbol NEU klicken.
+2. Öffnen Sie anschließend die Webseite PERSONAL > PERSONENBEZOGEN >
+SCHULBEZOGEN.
+3. Ändern Sie den Personaltyp auf PERSONAL um.
+
+Abb. 3 Webseite Schulbezogen: Umändern des Personaltyps
+
+4. Wählen Sie aus den folgenden vorgegebenen Personalgruppen im Ganztag aus:
+▪
+▪
+▪
+▪
+▪
+
+Päd. Fachkraft nach HKJGB (Hessisches Kinder- und Jugendhilfegesetzbuch)
+Weiteres pädagogisch tätiges Personal
+Mitarbeiter aus Freiwilligendienst
+Ehrenamtlich tätige Kraft
+Sonstige Qualifikationen
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+10
+
+Erfassen und Pflegen von Ganztagsangeboten in der LUSD
+5
+
+Der Unterschied zwischen Bildungsangebot und Betreuungsangebot
+Bei Ganztagsangeboten wird unterschieden zwischen Bildungsangebot und
+Betreuungsangebot.
+Worin liegen die Unterschiede?
+Ganztagsangebot
+
+Definition
+
+Bildungsangebot
+
+Fester Kurs mit Schülerzuordnung
+
+Siehe Kapitel 6
+
+Beispiel: AG Schülerzeitung
+Jede Woche treffen sich dieselben Schülerinnen und Schüler mit
+ihrem Lehrer für zwei Stunden, um an der Schülerzeitung zu
+arbeiten.
+
+Betreuungsangeb
+ot
+Siehe Kapitel 7
+
+Kein fester Kurs (= freies Angebot)
+Beispiel: „Betreuung während des Mittagessens,
+„Hausaufgabenbetreuung“ oder „Spiele in der Turnhalle“.
+Jeder Schüler kann teilnehmen, wenn er an einem Tag tatsächlich
+Schwierigkeiten hat, seine Hausaufgaben zu erledigen.
+Zur Verdeutlichung der Unterschiede, beachten Sie bitte die
+Übersicht auf der folgenden Seite.
+
+Hinweis
+Um die tatsächliche Schülerzahl an den Betreuungsangeboten statistisch
+erfassen zu können, ist von allen Schulen mit genehmigtem Ganztagsprofil
+EIN spezieller Kurs zu erstellen dem jährlich - jeweils bis zum
+Statistikstichtag - die betroffenen Schüler zugeordnet werden müssen.
+Siehe Kapitel 7.2
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+11
+
+Kurs muss erstellt
+werden, sobald ein
+Ganztagsprofil
+zugewiesen wurde!
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+12
+
+6
+
+Bildungsangebote in der LUSD abbilden
+
+6.1
+
+Bildungsangebot erfassen
+Bildungsangebote im Rahmen des Ganztagsprofils der Schule erfassen Sie auf der
+Webseite SCHULE > SCHULBASISDATEN > BILDUNGSANGEBOTE.
+
+Abb. 4 Webseite Bildungsangebote: Übersicht der Bildungsangebote
+
+Achtung
+Um Schwierigkeiten beim Zeugnisdruck zu vermeiden, berücksichtigen Sie beim
+Anlegen des Bildungsangebots bitte nachfolgende Informationen.
+
+Bildungsangebot
+
+Bildungsangebot
+
+ohne Ausdruck im Zeugnis
+
+mit Ausdruck im Zeugnis
+
+Beispiel
+
+Der Förderkurs LESE- UND
+RECHTSCHREIBSCHWIERIGKEITEN soll
+nicht benotet werden und nicht im
+Zeugnis erscheinen.
+
+Der Kurs JUGEND FORSCHT, soll
+benotet werden und im Zeugnis
+erscheinen.
+
+Kursart
+
+Z (Zusatzunterricht)
+
+F (Freiwilliger Unterricht) oder
+A (Arbeitsgemeinschaft) oder
+B (Wahlunterricht am Gymnasium)
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+13
+
+Fach
+
+GTAB oder Fach (hier: z.B. Deutsch)
+
+ein Fach
+oder SOWA (Sonstiger
+Wahlunterricht, SOWA wird bei
+Grundschulen nicht verwendet),
+SOUN (Sonstiger Unterricht)
+
+Thema
+
+frei wählbar
+
+frei wählbar, in der Regel ein
+fachliches Thema
+
+Abb. 5 Webseite Bildungsangebote: Bildungsangebot hinzufügen
+
+Hinweis
+Das Erfassen eines Bildungsangebots auf der Webseite BILDUNGSANGEBOTE
+erzeugt noch keine Kurse!
+Diese müssen Sie anschließend auf der Webseite UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG erstellen (siehe Kapitel 6.2).
+Tipp
+Sobald Sie auf der Webseite SCHULE > SCHULBASISDATEN > BILDUNGSANGEBOTE
+Änderungen bei den Bildungsangeboten vornehmen, erscheint in der
+Aufgabenliste (Regelgruppe: SCHULBASISDATEN – Kategorie: INFORMATION) die
+Meldung:
+„Die Bildungsangebote wurden verändert. Bitte überprüfen Sie die hierzu
+angelegten Kurse.“
+
+6.2
+
+Kurse zu Bildungsangeboten erstellen
+Erstellen Sie zu jedem Bildungsangebot mindestens einen Kurs.
+1. Erstellen Sie die Kurse auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG.
+Je nachdem, ob ein Kurs auf dem Zeugnis erscheinen soll oder nicht, sind bei der
+Erfassung der Kursdaten folgende Punkte zu beachten:
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+14
+
+Kursart
+
+Kurs zu Bildungsangebot
+
+Kurs zu Bildungsangebot
+
+ohne Ausdruck im Zeugnis
+
+mit Ausdruck im Zeugnis
+
+Z (Zusatzunterricht)
+
+F (Freiwilliger Unterricht) oder
+
+Achtung:
+
+A (Arbeitsgemeinschaft) oder
+
+Das ist einer der häufigsten
+Fehler! Hier muss immer „Z“
+stehen!
+
+B (Wahlunterricht am Gymnasium)
+
+Die Kursart Z verhindert in
+allgemein-bildenden Schulen
+automatisch die Notenerfassung
+für diesen Kurs und den Ausdruck
+des Kurses im Zeugnis.
+Fach
+
+Fach (wenn möglich) oder GTAB
+
+Kursoption GTAB Ganztagsangebot
+
+Fach (wenn möglich) oder GTAB
+GTAB Ganztagsangebot oder
+TFSP Talentförderung Sport
+
+GTABKategorie
+
+Aus der Auswahlliste
+
+Aus der Auswahlliste
+
+GTABGruppe
+
+Diese Anzeige dient nur zu Ihrer
+Information und kann nicht
+bearbeitet werden.
+
+Diese Anzeige dient nur zu Ihrer
+Information und kann nicht
+bearbeitet werden.
+
+Thema
+
+Frei wählbar
+
+Frei wählbar
+
+Lehrer
+
+In der Auswahlliste stehen nur die Lehrkräfte zur Verfügung, bei denen
+auf der Webseite PERSONAL > PERSONALBASISDATEN>SCHULBEZOGEN
+ein Häkchen bei UV-relevant gesetzt ist.
+
+Abb. 6 Webseite Kursbearbeitung: Kurs für das Bildungsangebot anlegen
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+15
+
+2. Ordnen Sie dem Kurs die gewünschten Schüler auf der Webseite UNTERRICHT > UVBEARBEITUNG > SCHÜLER-KURSZUORDNUNG zu.
+
+Abb. 7 Webseite Schüler-Kurszuordnung: Register Aktive
+
+7
+
+Betreuungsangebote in der LUSD abbilden
+
+7.1
+
+Betreuungsangebot erfassen
+Betreuungsangebote (= freie Angebote ohne feste Schülerzuordnung) erfassen Sie auf der
+Webseite UNTERRICHT > UV-BEARBEITUNG > BETREUUNGSANGEBOTE IM GANZTAG.
+
+Abb. 8 Webseite Betreuungsangebote im Ganztag: Übersicht der Betreuungsangebote
+
+Abb. 9 Webseite Betreuungsangebote im Ganztag: Betreuungsangebot hinzufügen
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+16
+
+Bitte beachten Sie folgende Hinweise zur Dateneingabe:
+Feld
+
+Eingabe
+
+Bemerkung
+
+*= Pflichtfeld
+
+SF/BK*
+
+Wählen Sie einen Eintrag
+aus.
+
+Betreuungs- Wählen Sie einen Eintrag
+art*
+aus.
+
+Es sind vier Betreuungsarten auswählbar:
+▪
+▪
+▪
+▪
+
+Ferienkurs (siehe Kapitel 7.1.2).
+Offene Freizeitangebote
+Hausaufgabenbetreuung und
+Betreuung während des Mittagessens
+
+Der Leereintrag kann ausgewählt, aber
+nicht abgespeichert werden.
+Thema*
+
+Nur bei Betreuungsart
+Offene Freizeitangebote
+ist ein Thema notwendig
+und auszuwählen.
+
+Bei den Betreuungsarten
+▪ Hausaufgabenbetreuung und
+▪ Betreuung während des Mittagessens
+ist das Feld Thema* nicht bearbeitbar.
+
+Lehrer
+
+Person, die das Angebot
+betreut
+
+Std/Lehrer
+
+Anzahl der Lehrerstunden
+pro Woche.
+Zahlen zwischen 0 und 99
+mit zwei
+Nachkommastellen
+möglich
+
+St/Sem*
+
+Wählen Sie einen Eintrag
+aus
+
+AnzSch*
+
+Durchschnittliche Anzahl
+der regelmäßigen
+Teilnehmer des
+Betreuungsangebots
+
+Std/Wo*
+
+Zahl der Stunden pro
+Woche
+
+In der Auswahlliste steht das gesamte
+Personal der Schule zur Verfügung.
+Bei einer Person vom Personaltyp
+Lehrer mit Haken bei UVRelevant, sind die eingetragenen
+Stunden in der Summe der UVStunden mitgerechnet
+Der zugeordnete Lehrer inkl.
+Stundenzahl wird NICHT in eine
+UV-Planungsvariante
+übernommen.
+
+Stundenumfang, mit dem das Angebot
+Schülern zur Verfügung steht.
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+17
+
+7.1.1 Mehrere Personen bieten ein Betreuungsangebot gemeinsam an – was ist zu tun?
+Beispiel:
+10 Stunden Hausaufgabenbetreuung teilen sich Person A (6 Stunden) und Person B (4
+Stunden).
+1. Legen Sie zweimal das gleiche Betreuungsangebot an (WEBSEITE UNTERRICHT>UVBEARBEITUNG>BETREUUNGSANGEBOTE IM GANZTAG).
+2. Weisen Sie einem Betreuungsangebot die Person A mit 6 Stunden und dem zweiten
+Betreuungsangebot die Person B mit 4 Stunden zu.
+
+7.1.2 Anlegen eines Ferienkurses
+Werden ein oder mehrere Ferienkurse angeboten, legen Sie diese über die Auswahl des
+entsprechenden Eintrages im Auswahlmenü BETREUUNGSART* an.
+1. Übernehmen Sie den Eintrag Ferienkurs im Auswahlmenü BETREUUNGSART*.
+2. Übernehmen Sie einen beliebigen, passenden Eintrag aus dem Auswahlmenü THEMA*.
+3. Pflegen Sie im Feld STD./WO.* die Gesamtstundenanzahl des angebotenen
+Ferienkurses.
+4. Pflegen Sie die anderen Felder mit beliebigen, passenden Einträgen.
+
+Abb. 10 Webseite Betreuungsangebote im Ganztag: Dialogfenster Betreuungsangebote im Ganztag
+hinzufügen
+
+Achtung
+Die Betreuungsart Ferienkurs stellt eine Ausnahme dar.
+Anders als bei Betreuungsangeboten, die das gesamte Schulhalbjahr angeboten
+werden, muss für den Ferienkurs die Gesamtstundenzahl des Ferienangebotes
+eingetragen werden.
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+18
+
+7.2
+
+Einen Kurs für alle Betreuungsangebote erstellen
+Im Prinzip gibt es zu Betreuungsangeboten keine Kurse. Zudem erscheinen
+Betreuungsangebote nicht im Zeugnis.
+Dennoch ist es für die Schule ebenso wie für das Hessische Ministerium für Kultus, Bildung
+und Chancen wichtig zu erfahren, wie stark die Betreuungsangebote nachgefragt werden.
+Hinweis
+Um die tatsächliche Schülerzahl an den Betreuungsangeboten (= freie GTABAngebote) statistisch erfassen zu können, ist von allen Schulen mit
+genehmigtem Ganztagsprofil EIN spezieller Kurs zu erstellen dem jährlich jeweils bis zum Statistikstichtag - die betroffenen Schüler zugeordnet
+werden müssen.
+
+Gehen Sie folgendermaßen vor:
+1. Richten Sie als Schule mit genehmigtem Ganztagsangebot auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG einen schulformübergreifenden
+Kurs (der alle Betreuungsangebote zusammenfasst) mit folgenden Kurseigenschaften
+ein (Abb. 11).
+
+Feld
+
+Eingabe
+
+Anmerkungen
+
+*= Pflichtfeld
+
+Schulform
+
+Übergreifend
+
+Stufe
+
+Übergreifend
+
+Kurs für
+
+Übergreifend
+
+Fach
+
+GTAB
+
+Dies ist eine der häufigsten Fehlerquellen!
+Hier dürfen Sie kein anderes Fach als
+GTAB eintragen.
+
+Bezeichnung
+
+ÜGGTAB 01
+
+Diese Bezeichnung
+▪ wird automatisch vergeben
+▪ und darf nicht geändert werden!
+
+Stundenzahl*
+
+0
+
+Hier muss der Wert 0 stehenbleiben
+
+Lehrer
+
+Beliebig
+
+Wählen Sie eine beliebige Person aus.
+
+Kursart*
+
+Z
+
+Differenzierun
+g
+
+- Kein Eintrag -
+
+Auch wenn der Kurs an Ihrer Schule für alle
+Kinder verpflichtend ist, statistisch gesehen
+handelt es sich um ein zusätzliches
+Angebot. Tragen Sie immer Z ein!
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+19
+
+Kursoption
+
+GTFA
+
+Thema
+
+Kann leer
+bleiben
+
+Es darf an einer Schule nur für einen
+einzigen Kurs die Kursoption „GTFA1“
+geben, sonst sind die statistischen
+Auswertungen fehlerhaft!
+
+Abb. 11 Webseite Kursbearbeitung: Kurs für alle Schüler in Betreuungsangeboten
+
+2. Ordnen Sie diesem Kurs unter UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG alle Schüler der Schule zu, die ein Ganztagsbetreuungsangebot
+wahrnehmen.
+
+Abb. 12 Webseite Schüler-Kurszuordnung: Register Aktive
+
+1 GTFA: Ganztagsbetreuung – freie Angebote
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+20
+
+Hinweis
+Es geht um die Gesamtzahl der Schüler, die an Ihrer Schule an einem
+beliebigen Betreuungsangebot teilnehmen.
+Schüler, die an mehreren Betreuungsangeboten teilnehmen, dürfen
+trotzdem nur einmal gezählt werden.
+Als Schüler eines Betreuungsangebots ist zu zählen, wer
+▪ mindestens ein Betreuungsangebot im Rahmen des Ganztages
+▪ mindestens einmal in der Woche
+▪ mit mindestens zwei Unterrichtsstunden
+wahrnimmt.
+Hinweis
+Geben Sie rechtzeitig Klassenlisten heraus. Auf diesen können die
+Klassenlehrkräfte die Schüler kennzeichnen, die ein Betreuungsangebot Ihrer
+Schule besuchen.
+Bitte achten Sie auf einen ausreichenden Zeitpuffer für den Rücklauf.
+Spätestens zum Statistik-Stichtag müssen die Daten eingegeben sein
+
+8
+
+Typische Fehler bei der Eingabe der Ganztagsangebote
+Folgende Fehler bei der Datenpflege erklären bereits die Mehrzahl aller
+Falscheintragungen zum Ganztagsangebot.
+FALSCH 
+
+RICHTIG ☺
+
+Bei der Eingabe der Kurse wird ein
+Feld übersprungen oder nicht
+ausgefüllt.
+
+Füllen Sie alle Felder aus.
+
+Für einen zum Bildungsangebot
+gehörigen Kurs wird als Kursart P
+(Pflichtunterricht) oder W
+(Wahlpflichtunterricht) eingetragen.
+
+Soll der Kurs eines Bildungsangebots…
+▪ nicht im Zeugnis erscheinen, tragen Sie
+beim Kurs die Kursart Z ein.
+▪ im Zeugnis erscheinen, tragen Sie beim
+Kurs die Kursart F, A oder B ein.
+
+Dem EINEN Kurs für die
+Betreuungsangebote …
+▪ wird im Feld KURSART nicht Z
+zugeordnet.
+
+Tragen Sie als Kursart Z ein.
+
+▪ wird nicht das Fach GTAB
+zugeordnet.
+
+Tragen Sie als Fach immer GTAB ein.
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+21
+
+▪ wird nicht die Kursoption GTFA
+zugeordnet.
+Es werden mehrere Kurse mit der
+Kursoption GTFA angelegt.
+
+9
+
+Tragen Sie als Kursoption immer GTFA ein
+(siehe Kapitel 7.2).
+Richten Sie nur einen einzigen Kurs mit der
+Kursoption GTFA ein, dem Sie alle Schüler
+Ihrer Schule zuordnen, die an mindestens
+einem Betreuungsangebot im Rahmen des
+Ganztagsangebotes teilnehmen (siehe Kapitel
+7.2)
+
+Bericht zur Ganztagsbetreuung / zum Rechtsanspruch
+Mit dem Schuljahr 2026/27 wird der Rechtsanspruch auf Ganztagsbetreuung in der
+Grundschule in Hessen schrittweise eingeführt.
+Ab August 2026 sollen zunächst alle Kinder der ersten Klassenstufe einen Anspruch darauf
+haben, ganztägig gefördert zu werden. Der Anspruch soll in den Folgejahren um je eine
+Klassenstufe ausgeweitet werden, damit ab August 2029 jedes Grundschulkind der
+Klassenstufen 1 bis 4 einen Anspruch auf ganztägige Betreuung hat.
+Der Rechtsanspruch sieht einen Betreuungsumfang von acht Zeitstunden an allen fünf
+Werktagen vor. Die Unterrichtszeit wird angerechnet. Der Rechtsanspruch soll - bis auf
+maximal vier Wochen - auch in den Ferien gelten. Weitere Informationen finden Sie auf der
+Webseite des HMKB Ganztagsprogramm des Landes Hessen | kultus.hessen.de und der
+Webseite der Serviceagentur Ganztag Hessen Ganztägig Lernen – Hessen | Ganztägig
+lernen in Hessen.
+Um eine Übersicht darüber zu erhalten, für welche Schülerinnen und Schüler Ihrer Schule
+der Rechtsanspruch erfüllt ist, wurde der Bericht GANZTAGSBETREUUNG in der LUSD
+implementiert.
+Sie finden den Bericht unter EXTRAS > BERICHTE > STANDARDBERICHTE > SCHÜLER > ALLG.
+LISTEN.
+In diesem Bericht werden Schüler folgender Schulformen berücksichtigt: G, VG, E, GFLX,
+NDHS/PS, SSK und FS (letztere nur in den Stufen 01/1 bis 04/2).
+Der Bericht gibt für jeden Schüler der oben genannten Schulformen folgende Daten aus:
+▪
+▪
+▪
+▪
+
+Name, Vorname.
+Schulform/Bildungskombination.
+Klasse.
+Pflichtwochenstunden.
+
+▪ Stunden, die der Schüler in gebundenen oder nicht gebundenen Ganztagsangeboten
+verbringt/verbringen könnte.
+▪ Erfüllung des Rechtsanspruchs auf Ganztagsbetreuung (40 Std/Woche, gültig ab 2026).
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+22
+
+Hinweis
+Die Anzahl der Stunden der gebundenen oder nicht gebundenen
+Ganztagsangeboten ist abhängig von…
+▪ der Erfassung des Schülers im Kurs mit folgenden Merkmalen: Fach: GTAB,
+KA: Z, KO: GTFA (SF/BK: ÜG, St./Sem.: ÜG, Kurs für: ÜG).
+▪ der genehmigten Form des Ganztagesangebotes der Schule (SCHULE >
+SCHULBASISDATEN > SCHULSTAMMDATEN).
+
+Abb. 13 Bericht Ganztagsbetreuung: Beispiel
+
+Hinweis
+Voraussetzungen für den Bericht GANZTAGSBETREUUNG sind:
+▪ Ein Eintrag auf der Seite SCHULE > SCHULBASISDATEN > SCHULSTAMMDATEN im
+Feld GENEHMIGTE FORM GANZTAGSANGEBOT.
+▪ Die Anlage eines Kurses mit Fach GTAB, KA Z und KO GTFA (SF: ÜG, Stufe:
+ÜG, Kurs für: ÜG) auf der Seite UV-BEARBEITUNG > KURSBEARBEITUNG.
+Ohne diese Voraussetzungen wird der Bericht leer ausgegeben.
+
+10
+
+Übersicht der GTAB-Kategorien und GTAB-Gruppen
+GTAB-Kategorie
+
+GTAB-Gruppe
+
+Kürzel
+
+Bezeichnung
+
+DL
+
+Deutsch / Literatur
+
+Fachbezogene Lernangebote
+
+DPR
+
+Dauerprojekte
+
+Überfachliche Lernangebote
+
+FIL
+
+Formen interkulturellen Lernens
+
+Überfachliche Lernangebote
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+23
+
+11
+
+GTAB-Kategorie
+
+GTAB-Gruppe
+
+FNDH
+
+Fördermaßnahmen für SuS nichtdeutscher
+Muttersprache / Herkunft
+
+Förderangebote
+
+FSA
+
+Fremdsprachenangebote
+
+Fachbezogene Lernangebote
+
+FSL
+
+Formen sozialen Lernens
+
+Überfachliche Lernangebote
+
+GFA
+
+Gebundene Freizeitangebote
+
+Freizeitangebote
+
+GSD
+
+Gemeinschaftsaufgaben /
+Schülermitbestimmung /
+Demokratieerziehung
+
+Überfachliche Lernangebote
+
+HH
+
+Hausaufgabenhilfe
+
+Hausaufgabenhilfe
+
+HHEG
+
+Handwerkliche / hauswirtschaftliche
+Angebote / Ernährungsbildung / Gesundheit
+
+Überfachliche Lernangebote
+
+KBTK
+
+Kulturelle Bildung (Theater / Tanz /
+Kreativer Umgang mit Literatur Musik /
+Kunst)
+
+Fachbezogene Lernangebote
+
+MA
+
+Mathematische Angebote
+
+Fachbezogene Lernangebote
+
+NA
+
+Naturwissenschaftliche Angebote / MINT /
+Ökologische Bildung
+
+Fachbezogene Lernangebote
+
+SFF
+
+Spezielle Förder- und Forderangebote
+
+Förderangebote
+
+STB
+
+Sportliche Angebote / Tanz mit sportlichem
+Schwerpunkt / Bewegung
+
+Fachbezogene Lernangebote
+
+TADR
+
+Technische Angebote / Digitales-IT /
+Robotik
+
+Überfachliche Lernangebote
+
+Übersicht der Betreuungsarten zum Ganztagsangebot
+
+Liste der Betreuungsarten
+BM
+
+Betreuung während des Mittagessens
+
+FK
+
+Ferienkurs
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+24
+
+HA
+
+Hausaufgabenbetreuung
+
+OA
+
+Offene Freizeitangebote
+
+HMKB | LUSD | Ganztagsangebote und ihre Erfassung | Version: 3.1 | Letzter Stand: 28.11.2025
+
+25
+
+

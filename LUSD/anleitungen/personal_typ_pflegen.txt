@@ -1,0 +1,171 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Personaltyp in der LUSD pflegen
+Lehrer oder Personal richtig in der LUSD anlegen und pflegen
+
+1
+
+Pflege des Personaltyps Personal oder Lehrer
+Der Personaltyp für das in Schule eingesetzte Personal ist entsprechend ihrer Funktion auf
+der Webseite PERSONAL > PERSONALBASISDATEN > SCHULBEZOGEN korrekt zu pflegen.
+Dabei wird zwischen dem Personaltyp Personal und dem Personaltyp Lehrer in der LUSD
+unterschieden.
+Hinweis
+Damit die gültigen Unterrichte der Lehrkräfte korrekt weiterverarbeitet und
+ausgewertet werden können, muss der Personaltyp Lehrer auf der Webseite
+PERSONAL > PERSONALBASISDATEN > SCHULBEZOGEN gepflegt sein!
+
+Es sind drei Fälle zu unterscheiden.
+Fall
+
+1
+
+2
+3
+
+1.1
+
+Titel
+
+Kapitel
+
+Neuanlage einer Person auf der Seite PERSONAL > PERSONALBASISDATEN > PERSONENBEZOGEN
+
+Kapitel 1.1
+
+Matchen einer Person mit dem SAP-Datensatz, die bisher
+nicht im Personalstamm enthalten ist
+
+Kapitel 1.2
+
+Matchen einer Person mit dem SAP-Datensatz, die bereits
+im Personalstamm der Schule enthalten ist
+
+Kapitel 1.3
+
+Fall 1: Neuanlage einer Person auf der Seite Personal > Personalbasisdaten >
+Personenbezogen
+1. Klicken Sie zur Neuanlage auf das Schaltsymbol PERSONAL HINZUFÜGEN
+
+.
+
+2. Befüllen Sie die Pflichtfelder* der persönlichen Daten der Lehrkraft oder des schulischen
+Personals.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+HMKB | LUSD | Personaltyp in der LUSD pflegen | Version: 2.0 | 19.04.2024
+
+1
+
+1.2
+
+Fall 2: Matchen einer Person mit dem SAP-Datensatz, die bisher nicht im
+Personalstamm enthalten ist
+1. Gehen Sie zur Seite PERSONAL > PERSONALVERWALTUNG > PERSONALZUORDNUNG.
+2. Wählen Sie die betreffende Person aus dem Bereich ZUZUORDNENDES SAP-PERSONAL
+durch Anhaken aus.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+4. Tragen Sie im Pflichtfeld* SCHULINTERNES KÜRZEL ein bis zu vierstelliges Kürzel, das an
+Ihrer Schule noch nicht verwendet wird.
+5. Klicken Sie auf die Schaltfläche
+
+1.3
+
+.
+
+Fall 3: Matchen einer Person mit dem SAP-Datensatz, die bereits im
+Personalstamm der Schule enthalten ist
+1. Gehen Sie zur Seite PERSONAL > PERSONALVERWALTUNG > PERSONALZUORDNUNG.
+2. Wählen Sie die betreffende Person aus dem Bereich ZUZUORDNENDES SAP-PERSONAL
+durch Anhaken aus.
+3. Klicken Sie zwischen den Bereichen auf das Schaltsymbol SAP-PERSONAL ZUORDNEN
+4. Klicken Sie auf die Schaltfläche
+
+Fall
+
+.
+
+.
+
+Auswirkungen
+
+Standardmäßig sind folgende Werte gesetzt:
+Fall 1 (Neuanlage von
+Personal)
+Fall 2 (Hinzufügen durch
+Matchen)
+
+Fall 3 (Matchen)
+
+ Personaltyp Lehrer
+ UV-relevant ist angehakt
+Die Werte müssen stets auf der Seite PERSONAL >
+PERSONALBASISDATEN > SCHULBEZOGEN überprüft und
+ggfls. angepasst werden.
+Die zuvor gepflegten Werte sind unverändert.
+
+Hinweis
+Nur Personen mit dem Personaltyp Lehrer und dem Haken bei UV-relevant
+sind in der Auswahlliste der Lehrkräfte vorhanden!
+
+2
+
+Zuordnungen von Personengruppen
+Nachfolgend sind einige Beispiele von Personengruppen und deren Zuordnung zum
+Personaltyp in der LUSD aufgeführt.
+
+HMKB | LUSD | Personaltyp in der LUSD pflegen | Version: 2.0 | 19.04.2024
+
+2
+
+Personengruppen
+
+Eintragungen in der LUSD
+
+ Kirchlich Bedienstete mit Gestellungsverträgen
+
+ Personaltyp Lehrer
+
+ Lehrkräfte des Programms Löwenstark
+
+ UV-relevant ist angehakt
+
+ Schulgesundheitsfachkraft
+ sozialpädagogische Mitarbeiter/-innen für
+unterrichtsunterstützende sozialpädagogische
+Förderung (USF)
+ nicht unterrichtende sozialpädagogische
+Mitarbeiter/-innen für unterrichtsbegleitende
+Unterstützung (UBUS)
+
+ Personaltyp Personal
+ UV-relevant ist nicht
+angehakt
+
+ sozialpädagogische Mitarbeiter/-innen an einer
+Berufsfachschule zur Unterstützung beim
+Übergang in Ausbildung (SOZBÜA)
+ nicht unterrichtende Erzieher
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Personaltyp in der LUSD pflegen | Version: 2.0 | 19.04.2024
+
+3
+
+

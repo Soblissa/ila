@@ -1,0 +1,1873 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Landesschulstatistik – Datenpflege in der LUSD
+
+Version: 4.1
+Letzter Stand: 23.05.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+5
+
+Inhalt dieses Dokuments ................................................................................................................ 5
+Zielgruppe und Vorausgesetzte Kenntnisse ................................................................................... 5
+LUSD-Anwenderunterstützung....................................................................................................... 6
+
+Die Landesschulstatistik an hessischen Schulen
+
+7
+
+Zweck der Erhebung ...................................................................................................................... 7
+Rechtsgrundlage ............................................................................................................................ 7
+Ablauf der Erhebung ...................................................................................................................... 8
+Welche Daten werden erhoben? .................................................................................................... 8
+Welche Schüler werden berücksichtigt?......................................................................................... 9
+
+LUSD-Daten zur Landesschulstatistik pflegen
+1
+
+10
+
+Wichtige Hinweise zur Datenpflege vorab ........................................................................... 10
+1.1
+
+Vorlaufkurskinder ....................................................................................................... 10
+
+1.2
+
+Seiteneinsteiger ......................................................................................................... 11
+
+1.3
+
+Sprachförderung ........................................................................................................ 11
+
+1.4
+
+Schulform- und / oder stufenübergreifende Klassen .................................................. 11
+
+1.5
+
+Klassengrößen .......................................................................................................... 11
+
+1.6
+
+Kranke Schüler .......................................................................................................... 12
+
+2
+
+Checkliste für die Datenpflege ............................................................................................ 12
+
+3
+
+Schülerdaten pflegen .......................................................................................................... 13
+3.1
+
+Freigabedatum bei Abgängern eintragen ................................................................... 14
+
+3.2
+
+Offene Kandidatenverhältnisse beenden ................................................................... 15
+
+3.3
+
+Zurückstellungen erfassen ......................................................................................... 16
+
+3.4
+
+Neue Schüler aufnehmen .......................................................................................... 16
+
+3.5
+
+Kandidaten aktivieren ................................................................................................ 17
+
+3.6
+
+Beurlaubungen erfassen ............................................................................................ 18
+
+3.7
+
+Schulform pflegen ...................................................................................................... 19
+
+3.8
+
+Stufe pflegen ............................................................................................................. 20
+
+3.9
+
+Berufe aktiver Schüler der Schulform BST, BSBT, BFSB bzw. BGJK pflegen ........... 21
+
+3.10 Betriebe pflegen......................................................................................................... 22
+3.11 Förderarten pflegen ................................................................................................... 23
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+2
+
+3.12 Externe Schüler pflegen............................................................................................. 24
+3.13 Fremdsprachen pflegen ............................................................................................. 25
+4
+
+5
+
+Lehrkräfte- und Personaldaten pflegen ............................................................................... 25
+4.1
+
+Lehrkräfte und Personal erfassen .............................................................................. 25
+
+4.2
+
+Lehrkräfte und Personal matchen .............................................................................. 25
+
+Unterrichtsdaten pflegen ..................................................................................................... 26
+5.1
+
+Fehlende Klassen anlegen ........................................................................................ 26
+
+5.2
+
+Schulform- und stufenübergreifende Klassen anlegen ............................................... 27
+
+5.3
+
+Schüler einer Klasse zuordnen .................................................................................. 28
+
+5.4
+
+Fehlende Kurse einrichten ......................................................................................... 29
+
+5.5
+
+Schüler ihren Kursen zuordnen.................................................................................. 30
+
+5.6
+
+Schülerindividuelle Kurseigenschaften festlegen ....................................................... 30
+
+5.7
+
+Lehrer zu Kursen zuordnen ....................................................................................... 32
+
+Übernommene Daten überprüfen und ggf. korrigieren
+
+34
+
+6
+
+Datenprüfung ...................................................................................................................... 34
+
+7
+
+Datenkorrektur .................................................................................................................... 34
+
+8
+
+7.1
+
+Schulform und Stufe fehlen ........................................................................................ 34
+
+7.2
+
+Klasseneintrag fehlt ................................................................................................... 35
+
+7.3
+
+Beruf fehlt .................................................................................................................. 36
+
+7.4
+
+Förderungen fehlen ................................................................................................... 36
+
+7.5
+
+Schulform und/oder Stufe korrigieren......................................................................... 36
+
+7.6
+
+Klassenzuordnung korrigieren ................................................................................... 36
+
+7.7
+
+Berufseintrag korrigieren............................................................................................ 37
+
+7.8
+
+Klassen zusammenführen ......................................................................................... 38
+
+7.9
+
+Ganztagsangebote korrigieren ................................................................................... 39
+
+Nützliche Anleitungen ......................................................................................................... 39
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+4
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt alle wichtigen Komponenten der Landesschulstatistik. Dazu
+gehören:
+▪
+▪
+▪
+▪
+
+Hintergründe zur Erhebung
+Datenpflege in der LUSD
+Prüfung der übernommenen Daten
+Datenkorrektur in der LUSD
+
+Zielgruppe und Vorausgesetzte Kenntnisse
+Die vorliegende Anleitung richtet sich an LUSD-Benutzer, die Schüler- und Unterrichtsdaten in der
+LUSD pflegen.
+Einige Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher beschrieben. In der untenstehenden Tabelle finden Sie die vorausgesetzten Themen, wo sie dazu passende Anleitungen finden und in welchen LUSD-Fortbildungen Sie die Kenntnisse erwerben können.
+Kenntnisse
+
+Fundstelle für passende Anleitungen
+
+Passende Fortbildung
+
+auf schulehessen.de/lusdanleitungen
+
+LUSD Basiswissen
+
+ANLEITUNGEN > GRUNDLAGEN
+
+LUSD-Basisschulung (Lernen Sie die LUSD kennen)
+
+Bearbeitung von Schülerdaten in der LUSD
+
+ANLEITUNGEN > SCHÜLER
+
+LUSD-Schülermanagement
+
+Bearbeitung von Schul- und
+Unterrichtsdaten in der
+LUSD
+
+ANLEITUNGEN > SCHÜLER
+
+LUSD – Schul- und Unterrichtsmanagement
+
+ANLEITUNGEN > FÖRDERUNGEN
+
+Hinweis
+Beispiele zur Schülersuche finden Sie zudem in der LUSD-Onlinehilfe. Klicken Sie hierfür in einer beliebigen Hilfeseite auf SUCHEN IN DER LUSD und dann auf BEISPIELE ZUR
+SCHÜLERSUCHE.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+5
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter:
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+6
+
+Die Landesschulstatistik an hessischen Schulen
+Zweck der Erhebung
+Die Daten dienen als Informationsbasis für:
+▪ die verbindliche Grundlage der Nachsteuerung im Rahmen des zentralen Lehrerstellenzuweisungsverfahrens bei den öffentlichen Schulen für das Schuljahr,
+▪ die verbindliche Zuweisung im Rahmen des zentralen Lehrerstellenzuweisungsverfahrens bei
+den öffentlichen beruflichen Schulen für das Kalenderjahr,
+▪ die Lehrerstellenbedarfsberechnung des folgenden Schuljahres,
+▪ die Ersatzschulfinanzierung,
+▪ den Nachweis über die Verwendung von Haushaltsmitteln gegenüber dem Landtag und dem
+Hessischen Finanzministerium,
+▪ das Haushalts- und Rechnungswesen des Schulbereiches, den kommunalen Finanzausgleich
+und Schulbaupauschalen und Fachentscheidungen im Kultusressort,
+▪ die Erfüllung der statistischen Berichtspflichten des Hessisches Ministerium für Kultus, Bildung
+und Chancen und des Hessischen Statistischen Landesamtes,
+▪ das Hessische Schulinformationssystem (HESIS).
+Zum Zweck der Nachsteuerung der Lehrerstellenzuweisung werden bereits am Ende der dritten
+Schulwoche die Daten der öffentlichen allgemeinbildenden Schulen an das zuständige Fachreferat weitergeleitet. Die Weiterleitung der Daten der restlichen Schulen erfolgt zum Stichtag der Erhebung. Einzelheiten hierzu werden vor Erhebungsbeginn per Anschreiben (E-Mail) an die Staatlichen Schulämter bekannt gegeben. Die Staatlichen Schulämter werden das Schreiben an alle
+Schulen weiterleiten. Bitte behalten Sie in diesem Zusammenhang Ihr Landespostfach gerade vor
+Beginn der Erhebung im Auge.
+Hinweis
+Korrekturen in der LUSD nach Stichtag können nicht vom Hessischen Ministerium für
+Kutlus, Bildung und Chancen (HMKB) im Nachgang berücksichtigt werden.
+
+Rechtsgrundlage
+Rechtsgrundlage für die Erhebung ist § 85 Hessisches Schulgesetz in der Fassung der Bekanntmachung vom 31. März 2023 (GVBl. S. 234), zuletzt geändert durch Gesetz vom 3. März 2025
+(GVBl. 2025 Nr. 16), i.V.m. §§ 33 ff. der Verordnung über die Verarbeitung personenbezogener
+Daten durch Schulen und Schulaufsichtsbehörden (Schul-Datenschutzverordnung) vom 1. Dezember 2023 (ABl. S. 763) in der jeweils geltenden Fassung.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+7
+
+Ablauf der Erhebung
+Der genaue Zeitrahmen der Erhebung wird jährlich vor Erhebungsbeginn per Anschreiben (EMail) an die Staatlichen Schulämter bekannt gegeben. Die Staatlichen Schulämter leiten das Anschreiben im Anschluss an alle Schulen weiter. Bitte behalten Sie in diesem Zusammenhang Ihr
+Landespostfach gerade vor Beginn der Erhebung im Blick. Ab dem im Anschreiben genannten
+Zeitpunkt werden für die Datenprüfung vonseiten der Schulen nächtlich die in der LUSD erfassten Daten in das Kultusdatawarehouse (KDW) übernommen und Übersichten der Daten, inklusive
+Auffälligkeiten, am nächsten Morgen über einen LUSD-Bericht (siehe Kapitel 6) an Sie zurückgespiegelt. Sie können den Bericht täglich abrufen, um zu prüfen, ob Ihre Änderungen in der LUSD
+vom Vortag erfolgreich waren.
+Ziel ist es, dass alle Daten zum Stichtag vollständig und korrekt vorliegen. Um dies zu gewährleisten, sind Sie dazu aufgerufen Ihre Daten bis zu den im Anschreiben genannten Terminen zu
+erfassen und zu prüfen. Nur so haben Sie ausreichend Zeit, eventuelle Datenfehler noch vor
+Stichtag in der LUSD zu korrigieren. Stichtag der Erhebung ist der 1. November.
+Bereits vor dem Stichtag werden zu den im Anschreiben genannten Terminen Daten der öffentlichen Schulen an die Lehrerstellenzuweisung übermittelt. Stellen Sie daher sicher, dass Ihnen
+die Termine im Rahmen der Nachsteuerung der Lehrerstellenzuweisung bekannt sind.
+Öffentliche Schulen sollen zudem prüfen, dass spätestens bis zum 1. November alle Lehrkräfte
+und das weitere pädagogische Personal vollständig und korrekt in der LUSD erfasst sind
+und soweit wie möglich mit den SAP-Daten verknüpft wurden.
+Während der Erhebung werden die aus der LUSD übernommenen Daten ebenfalls von den Staatlichen Schulämtern und dem Hessischen Statistischen Landesamt geprüft. Zudem werden Ihnen
+Hinweise zur laufenden Erhebung von den Schulämtern an Ihr Landespostfach weitergeleitet.
+Als weitere Hilfestellung dient Ihnen der LUSD-Schuleventplan.
+
+Welche Daten werden erhoben?
+Im Rahmen der Erhebung werden zu Beginn des Schuljahres für alle öffentlichen Schulen und Ersatzschulen folgende Daten aus der LUSD erhoben:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+Schülerstammdaten (inkl. Vorlaufkurskinder),
+Schulform und Stufe (inkl. Vorlaufkurskinder),
+Klassenzuordnung (inkl. Vorlaufkurskinder),
+zum Stichtag gültiger Beruf,
+im Schuljahr gültige Förderungen (inkl. Daten der fördernden Schule),
+im Schuljahr gültige Beurlaubungen,
+für das Schuljahr erfasste Betriebe (Betriebsort),
+für das Schuljahr gültige Zurückstellungen,
+externe Schulverhältnisse,
+Eintrittsdatum,
+Daten zur Religion,
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+8
+
+▪ Laufbahnempfehlung (nur bei öffentlichen Schulen),
+▪ Fremdsprachen,
+▪ Unterrichtsdaten (nur bei öffentlichen Schulen).
+Zudem werden die in der LUSD erfassten Lehrkräfte, das weitere pädagogische Personal und
+deren Unterrichtseinsatzdaten erhoben (beides nur bei öffentlichen Schulen). Zudem werden
+die von den Staatlichen Schulämtern erfassten SAP-Daten der Lehrkräfte und das weitere pädagogische Personal an öffentlichen Schulen übernommen.
+Hinweis
+Damit die Lehrkräftedaten und die Daten des weiteren pädagogischen Personals dem
+Hessischen Ministerium für Kultus, Bildung und Chancen für die unter Kapitel ZWECK
+DER ERHEBUNG genannten Zwecke zum Stichtag vollständig vorliegen, muss bis dahin
+das Matchen der LUSD- und SAP-Daten soweit wie möglich abgeschlossen sein.
+
+Welche Schüler werden berücksichtigt?
+Im Rahmen der Landesschulstatistik werden ausschließlich Schüler erhoben, die folgende Kriterien erfüllen:
+▪ der Schülerstatus ist aktiv (Kap. 3.5) oder die Schüler wurden als zurückgestellt erfasst (Kap.
+3.3),
+▪ die Schulform (Kap. 3.7) und Stufe (Kap.3.8) ist erfasst,
+▪ die Schüler wurden einer Klasse zugeordnet (inkl. Vorlaufkurskinder) (Kap. 5.3),
+▪ es wurde ein Beruf erfasst (nur bei den Schulformen BST, BSBT, BGJK und BFSB – Kap. 3.9).
+Hinweis
+Schüler, deren Daten die o.g. Kriterien nicht erfüllen, werden nicht in das Kultusdatawarehouse übernommen und können somit auch nicht für die unter Zweck der Erhebung genannten Zwecke berücksichtigt werden.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+9
+
+LUSD-Daten zur Landesschulstatistik pflegen
+1
+
+Wichtige Hinweise zur Datenpflege vorab
+Wenn Sie zu Beginn des Schuljahres …
+▪ eine eigene Planungsvariante aktiviert haben, sollten viele der in dieser Anleitung beschriebenen Arbeiten bereits erledigt sein und lediglich einer Kontrolle unterzogen werden. Achten Sie besonders auf…
+▪ Schüler, die Sie neu in die LUSD aufgenommen haben und die in der Planungsvariante noch nicht berücksichtigt wurden.
+▪ Kandidaten, die erst nach Abschluss der UV-Planung sichtbar waren.
+▪ Schüler, die innerhalb Ihrer Schule kurzfristig die Schulform wechseln.
+▪ Schüler, deren Versetzung erst durch Nachprüfungen oder Konferenzbeschluss später festgesetzt wurde.
+▪ eine automatisch erstellte Planungsvariante aktiviert haben, fehlen wahrscheinlich
+einige Änderungen, denn die automatisch erstellte Planungsvariante beruht auf den Einträgen zur Unterrichtsverteilung, der Stundentafeln und der Zusatzangebote des vergangenen Halbjahres.
+Hinweis
+Das Erstellungsdatum der automatisch erstellten Planungsvariante ist aus dem Namen ersichtlich.
+Änderungen, die nach diesem Erstellungsdatum an der Unterrichtsverteilung des aktuellen Halbjahres vorgenommen wurden, bleiben unberücksichtigt.
+Legen Sie daher grundsätzlich mindestens eine eigene Planungsvariante an.
+
+1.1
+
+Vorlaufkurskinder
+Alle Vorlaufkurskinder sind in der LUSD gemäß der Anleitung Deutschfördermaßnahme
+Vorlaufkurs mit einer Klassenzuordnung zu erfassen. Hierfür können eine oder mehrere
+„künstliche“ Klasse(n) in der LUSD erstellt werden, in der die Vorlaufkurskinder geführt werden. Wichtig ist außerdem die Einrichtung (Schule oder Kindergarten) des Vorlaufkurses für
+das Kind auf der LUSD-Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT zu erfassen.
+Für die Abbildung der schulpflichtigen, aus rein sprachlichen Gründen zurückgestellten Kinder, die in einem Vorlaufkurs gefördert werden, ist die Zurückstellung unter SCHÜLER >
+SCHÜLERBASISDATEN > SCHULFÄHIGKEIT zu erfassen (siehe auch LUSD-Anleitung Zurückstellungen aus sprachlichen Gründen).
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+10
+
+1.2
+
+Seiteneinsteiger
+Alle Seiteneinsteiger in Intensivklassen und Intensivkursen sind einzupflegen, wie in der
+LUSD-Anleitung Erfassen von Seiteneinsteigern (NDHS) beschrieben. Eine Alphabetisierung von Seiteneinsteigern ist mittels der Förderarten als schülerindividuelles Merkmal zu
+erfassen.
+
+1.3
+
+Sprachförderung
+Um eine gezielte Sprachförderung anbieten zu können, ist es wichtig zu wissen, welche
+Schüler von einer solchen profitieren könnten. Für diesen Zweck sollen die Datenfelder im
+Bereich Nationalität bei neu in der LUSD erfassten Schülern gepflegt sein (SCHÜLER >
+SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN).
+Zur Unterstützung steht den Schulen der Erhebungsbogen Sprachförderung zur Verfügung.
+Dieser kann vor der Ausgabe von der Schule oben links mit dem Schulstempel versehen
+werden. Nach der Datenerfassung sind die Erhebungsbögen von den Schulen zu vernichten.
+Die Sprachförderangebote Deutsch-Förderkurse und Deutsch & PC sind entsprechend
+den LUSD-Anleitungen Sprachförderangebot Deutsch und PC und Sprachförderangebot
+Deutsch-Förderkurse in der LUSD zu erfassen.
+Die Deutsch-Förderkurse für ehemalige Seiteneinsteiger in der dualen Berufsausbildung im
+Rahmen des zweiten Berufsschultages sind entsprechend der LUSD-Anleitung Erfassung
+der Deutschförderung am zweiten Berufsschultag zu pflegen.
+
+1.4
+
+Schulform- und / oder stufenübergreifende Klassen
+Klassen, in denen Schüler unterschiedlicher Schulformen und/oder Stufen unterrichtet werden, müssen als solche in der LUSD abgebildet werden. D.h. für die betroffene Klasse
+sollte eine Klasse in der LUSD angelegt werden, der die Schüler der unterschiedlichen
+Schulformen und/oder Stufen zugeordnet werden. Sie können diese Klassen mit Hilfe des
+Kapitels 5.2 anlegen.
+
+1.5
+
+Klassengrößen
+Es ist wichtig, dass die in der LUSD erfassten Klassengrößen den Klassenverbänden an
+Ihrer Schule entsprechen, da diese bei fachlichen Entscheidungen (z. Bsp. die Berechnung
+von durchschnittlichen Klassengrößen) berücksichtigt werden. Werden Schüler einer
+Klasse z. T. getrennt unterrichtet, kann dies in der LUSD abgebildet werden. Für weitere
+Informationen und Hilfestellung hierzu wenden Sie sich bitte an den Helpdesk.
+Gibt es an Ihrer Schule keine Klassenverbände legen Sie einfach „künstliche“ Klassen in
+der LUSD an und weisen diesen, beispielsweise anhand der Klassenstufen, zwischen 10
+und maximal 35 Schüler zu.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+11
+
+1.6
+
+Kranke Schüler
+Ab dem Schuljahr 2023/2024 müssen alle Stammschulen den Schülern, die über einen
+Zeitraum von mehr als sechs Wochen an einer Schule für Kranke bzw. durch eine Schule
+für Kranke sonderpädagogisch gefördert werden, die Förderungsart KRA-SchfKr zuweisen. Weitere Informationen können Sie der LUSD-Anleitung Erfassen sonderpädagogischer
+Förderungen – Schule für Kranke entnehmen.
+Die Anleitung beschreibt zudem, wie die Schule für Kranke die Einträge der von
+ihnen betreuten Schüler prüfen kann bzw. wie sie ihre eigenen Stammschüler in der
+LUSD pflegen muss.
+
+2
+
+Checkliste für die Datenpflege
+Die nachfolgende Checkliste enthält eine Übersicht zur vorbereitenden Datenpflege in der
+LUSD für die Landesschulstatistik und Verknüpfungen zu den jeweiligen Unterkapiteln mit
+Informationen zu den einzelnen Themen.
+Checkliste zur vorbereitenden Pflege der LUSD-Daten zur Landesschulstatistik
+Schülerdaten
+
+1
+
+Freigabedatum bei Abgängern eintragen
+
+3.1
+
+2
+
+Offene Kandidatenverhältnisse beenden
+
+3.2
+
+3
+
+Zurückstellungen erfassen
+
+3.3
+
+4
+
+Neue Schüler aufnehmen
+
+3.4
+
+5
+
+Kandidaten aktivieren
+
+3.5
+
+6
+
+Beurlaubungen erfassen
+
+3.6
+
+7
+
+Schulform pflegen
+
+3.7
+
+8
+
+Stufe pflegen
+
+3.8
+
+9
+
+Berufe aktiver Schüler der Schulform BST, BSBT, BFSB bzw. BGJK pflegen
+
+3.9
+
+10 Betriebe pflegen
+
+3.10
+
+11 Förderarten pflegen
+
+3.11
+
+12 Externe Schüler pflegen
+
+3.12
+
+13 Fremdsprachen pflegen
+
+3.13
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+12
+
+Checkliste zur vorbereitenden Pflege der LUSD-Daten zur Landesschulstatistik
+Lehrkräfte
+
+14 Lehrkräfte und Personal erfassen
+
+4.1
+
+15 Lehrkräfte und Personal matchen
+
+4.2
+
+Checkliste zur vorbereitenden Pflege der LUSD-Daten zur Landesschulstatistik
+Unterrichtsdaten
+
+3
+
+16 Fehlende Klassen anlegen
+
+5.1
+
+17 Schulform- und stufenübergreifende Klassen anlegen
+
+5.2
+
+18 Schüler einer Klasse zuordnen
+
+5.3
+
+19 Fehlende Kurse einrichten
+
+5.4
+
+20 Schüler ihren Kursen zuordnen
+
+5.5
+
+21 Schülerindividuelle Kurseigenschaften festlegen
+
+5.6
+
+22 Lehrer zu Kursen zuordnen
+
+5.7
+
+Schülerdaten pflegen
+Im Rahmen der Landesschulstatistik werden ausschließlich Schüler erhoben, die folgende
+Kriterien erfüllen:
+▪ der Schülerstatus ist aktiv (Kap. 3.5) oder die Schüler wurden als zurückgestellt erfasst (Kap. 3.3).
+▪ die Schulform (Kap. 3.7) und Stufe (Kap.3.8) ist erfasst.
+▪ die Schüler wurden einer Klasse zugeordnet (inkl. Vorlaufkurskinder) (Kap. 5.3).
+▪ es wurde ein Beruf erfasst (nur bei den Schulformen BST, BSBT, BGJK und BFSB –
+Kap. 3.9).
+
+Hinweis
+Schüler, deren Daten die o.g. Kriterien nicht erfüllen, werden nicht in das Kultusdatawarehouse übernommen und können somit auch nicht für die unter Zweck der Erhebung genannten Zwecke berücksichtigt werden.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+13
+
+3.1
+
+Freigabedatum bei Abgängern eintragen
+Ziel:
+
+Bei Schülern, die vor dem Stichtag 01.11. die Schule verlassen,
+▪ ist ein Kandidatenverhältnis zur aufnehmenden Schule eingerichtet
+▪ oder der Schülerstatus ist auf ehemalig gesetzt.
+
+Vorgehen:
+
+Wechselt der Schüler zu einer anderen Hessischen Schule, richten Sie
+auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER ein
+Kandidatenverfahren zu der aufnehmenden Schule ein und wählen Sie
+SOFORTFREIGABE oder tragen ein zeitnahes Freigabedatum ein.
+Bei Schülern, die den Schulbesuch beenden, wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER im Feld FREIGABE
+ZUM das Datum des Abschlusses bzw. der Abmeldung.
+
+Besondere
+Hinweise
+
+Wird bei einem Schüler, der den Schulbesuch beendet, ein Freigabedatum gewählt, das in der Vergangenheit liegt, erfolgt die Änderung des
+Schülerstatus zu ehemalig sofort.
+Liegt das Freigabedatum in der Zukunft, wird der Schüler erst bei Erreichen des Datums ehemalig.
+Achtung
+Aufnehmende Schulen können Kandidaten erst aktiv setzen,
+wenn ein Freigabedatum von der abgebenden Schule angelegt wurde und das Datum erreicht ist.
+Eine rechtzeitige Aktivierung der aufgenommenen Kandidaten ist für die angemessene Lehrerzuweisung der aufnehmenden Schule unerlässlich!
+Bitte Sie geben Sie Schüler, die Ihre Schule verlassen, daher immer umgehend frei!
+Schüler dürfen nicht über das Datum des Verlassens hinaus
+als aktive Stammschüler geführt werden, um z. B. als Erinnerungsstütze für offene Rechnungen oder nicht zurückgegebene Bücher zu dienen!
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite ABGÄNGER
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+14
+
+3.2
+
+Offene Kandidatenverhältnisse beenden
+Ziel:
+
+Im aktuellen 1. Schulhalbjahr gibt es zum Stichtag 01.11. keine Schüler mit dem Kandidatenstatus angenommen, ist Kandidat oder auf Warteliste.
+
+Vorgehen:
+
+So finden Sie alle Schüler, die im aktuellen 1. Schulhalbjahr ein offenes Kandidatenverhältnis haben.
+Bericht
+
+EXTRAS > BERICHTE >STANDARDBERICHTE> STATISTIK – AUFGABENLISTE AUFFÄLLIGKEITEN – SCHÜLERBEZOGENE AUFFÄLLIGKEITEN, Meldung: (K) OFFENE
+
+KANDIDATENVERHÄLTNISSE
+Schülersuche
+
+Suchen Sie alle Kandidaten mit dem Status: angenommen, ist Kandidat oder auf Warteliste.
+
+Webseite
+
+Suchen und übernehmen Sie auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN Schüler mit folgenden Suchoptionen:
+▪ Kandidatenstatus: angenommen, ist Kandidat
+und auf Warteliste.
+▪ Ziel-Halbjahr: das aktuelle 1. Schulhalbjahr
+
+So beenden Sie ein offenes Kandidatenverhältnis:
+1. Aktivieren Sie die betroffenen Kandidaten (siehe Kapitel 3.5).
+2. Oder setzen Sie für einzelne oder mehrere Kandidaten auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN den Eintrag im Feld KANDIDATENVERHÄLTNIS auf abgelehnt oder
+desinteressiert.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+15
+
+Weitere Informationen:
+
+3.3
+
+LUSD Online-Hilfe zur Webseite KANDIDATEN BEARBEITEN.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Zurückstellungen erfassen
+Ziel:
+
+Schüler, die zum neuen Schuljahr zurückgestellt sind, sind in der
+LUSD erfasst.
+
+Vorgehen:
+
+Befolgen Sie die Anweisungen der Anleitungen:
+▪
+▪
+▪
+▪
+
+3.4
+
+Aufnahme in die Vorklasse
+Zurückstellungen aus sprachlichen Gründen
+Zurückstellung aus entwicklungsbedingten Gründen
+Aufgenommene Schüler, die doch nicht die Schule besuchen werden
+
+Neue Schüler aufnehmen
+Ziel:
+
+Schüler, die zum neuen Schuljahr Ihre Schule besuchen (z.B. Schüler
+aus anderen Bundesländern), sind in der LUSD erfasst.
+
+Vorgehen:
+
+Nehmen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+AUFNEHMEN / EINSCHULEN alle noch nicht im System erfassten Schüler
+auf.
+
+Besondere
+Hinweise
+
+Um die doppelte Erfassung von Schülern zu vermeiden,
+▪ achten Sie bei der Schülersuche auf die genaue Eingabe der Daten
+▪ verwenden Sie z. B. bei Unsicherheiten bezüglich der Namensschreibung in geeigneter Weise den Platzhalter *.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite SCHULPFLICHT.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Anleitung: Schüler in die LUSD aufnehmen
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+16
+
+3.5
+
+Kandidaten aktivieren
+Ziel:
+
+Alle zum Zeitpunkt des Datenabzugs tatsächlich unterrichteten Schüler
+haben den Schülerstatus aktiv.
+
+Vorgehen:
+
+Aktivieren Sie alle Kandidaten mit dem Kandidatenstatus angenommen,
+die zum Stichtag aktive Schüler Ihrer Schule sind.
+So finden Sie alle Schüler, die im aktuellen 1. Schulhalbjahr den Kandidatenstatus angenommen haben.
+Bericht
+
+EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK
+> AUFGABENLISTE AUFFÄLLIGKEITEN > SCHÜLERBEZOGENE AUFÄLLIGKEITEN – Weitere Parameter: OFFENE
+KANDIDATENVERHÄLTNISSE
+
+Schülersuche
+
+Suchen Sie alle Kandidaten mit dem Status angenommen.
+
+Webseite
+
+Öffnen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG das Register
+SCHÜLER
+
+So setzen Sie den Schülerstatus auf aktiv:
+
+Besondere
+Hinweise
+
+Einzelne Schüler aktivieren
+
+Setzen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN nacheinander für jeden ausgewählten Schüler den Eintrag im Feld SCHÜLERSTATUS auf aktiv.
+
+Mehrere Schüler gleichzeitig
+aktivieren
+
+Setzen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register
+SCHÜLER die gewünschten Schüler auf den Status aktiv.
+
+Prüfen Sie bei allen Schülern, die Sie von anderen Schulen aufgenommen haben, dass auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN alle Felder im Bereich NATIONALITÄT vollständig gepflegt sind.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+17
+
+Das Feld ZUZUG NACH DEUTSCHLAND muss dabei nur bei Schülern
+der Schulformen NDHS und VLK gepflegt sein, die nicht in
+Deutschland geboren sind.
+Die Felder STAATSANGEHÖRIGKEIT 2 und die FAMILIENSPRACHE 2 müssen nur gepflegt werden, wenn diese Merkmale auf den Schüler
+zutreffen.
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten SCHÜLERSTAMMDATEN und STATUSVERWALTUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+3.6
+
+Beurlaubungen erfassen
+Ziel:
+
+Alle beurlaubten Schüler haben zum Zeitpunkt des Datenabzugs einen
+entsprechenden Eintrag auf der Seite SCHÜLER > SCHULBASISDATEN >
+SCHULLAUFBAHN.
+
+Vorgehen:
+
+Auf der Seite SCHÜLER > SCHULBASISDATEN > SCHULLAUFBAHN können
+Sie im Bereich BEURLAUBUNG.
+Beurlaubungen von Schülern mit den Merkmalen
+Von*, Bis*, Typ* und Bemerkung
+hinzufügen, bearbeiten und löschen.
+Der Zeitraum und Typ der Beurlaubung muss bei allen betroffenen
+Schülern erfasst sein!
+
+Besondere
+Hinweise
+
+Beurlaubungszeiträume dürfen sich nicht überschneiden.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+18
+
+Die Beurlaubung endet nach dem eingestellten Datum.
+Beurlaubte Schüler bleiben Stammschüler der Schule und verbleiben in
+ihren Kursen.
+Für die Zeit der Beurlaubung erscheint in Klassen- und Kurslisten hinter
+den Namen das Kürzel (b).
+Beurlaubungen sind nur an der Schule sichtbar, welche die Einträge
+pflegt.
+Weitere Informationen:
+
+3.7
+
+LUSD Online-Hilfe zur Webseite SCHULLAUFBAHN.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Schulform pflegen
+Ziel:
+
+Alle Schüler, die zum neuen Schulhalbjahr die Schulform gewechselt
+haben, sind der neuen Schulform zugeordnet.
+
+Vorgehen:
+
+Um eine Übersicht über alle Schüler mit ihren Schulformen zu erhalten,
+können Sie
+▪ im Dialog SCHÜLERSUCHE alle oder ausgewählte Schüler suchen und
+sich anzeigen lassen (z. B. auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN). Tipp: Durch Klick auf die Spaltenbezeichnung können Sie nach Kursmerkmalen sortieren.
+▪ auf der Seite EXTRAS > BERICHTE > STANDARDBERICHTE>SCHÜLER >
+ALLG. LISTEN den Bericht SCHÜLERGESAMTLISTE (CSV) mit unterschiedlichen Parameter generieren.
+Prüfen Sie die Schulformen der Schüler und führen Sie ggf. auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG –
+Register INTERNER SCHULFORMÜBERGANG für alle Schüler, die zum
+neuen Schulhalbjahr die Schulform gewechselt haben, den Schulformwechsel für das aktuelle Schulhalbjahr durch (siehe Kap. 7.5).
+
+Besondere
+Hinweise
+
+Durch den Schulformwechsel verlieren die Schüler ihre Klassenzugehörigkeit und ihre Kurse.
+1. Ordnen Sie die Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG ihren neuen Klassen zu.
+2. Prüfen Sie auf der Seite UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Zuordnung der Schüler zu ihren Kursen.
+Zur Erfassung der Schüler mit festgestelltem Anspruch auf sonderpädagogische Förderung:
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+19
+
+1. Wählen Sie die primäre Förderung als Schulform und beachten
+
+Sie die Anleitung Erfassen sonderpädagogischer Förderungen in
+der LUSD.
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten STATUSVERWALTUNG, KLASSENBILDUNG und SCHÜLERKURSZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+3.8
+
+Stufe pflegen
+Ziel:
+
+Alle Schüler, die zum neuen Schulhalbjahr in ihrer bisherigen Schulform
+die Stufe gewechselt haben – z. B. Schüler die nachträglich versetzt
+wurden – sind der richtigen Stufe zugeordnet.
+
+Vorgehen:
+
+Um eine Übersicht über alle Schüler mit ihren Stufen zu erhalten, können Sie
+▪ im Dialogfenster SCHÜLERSUCHE alle oder ausgewählte Schüler suchen und sich anzeigen lassen (z. B. auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN). Tipp: Durch Klick auf
+die Spaltenbezeichnung können Sie nach Kursmerkmalen sortieren.
+▪ auf der Seite EXTRAS > BERICHTE > STANDARDBERICHTE>SCHÜLER >
+ALLG. LISTEN den Bericht SCHÜLERGESAMTLISTE (CSV) mit unterschiedlichen Parameter generieren.
+Prüfen Sie die Stufen der Schüler und tragen Sie ggf. auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL für die betroffenen
+Schüler einen Stufenwechsel für das aktuelle Schulhalbjahr ein (siehe
+Kap. 7.5).
+Bei Förderschülern beachten Sie bitte die Stufenvorgaben des Fachreferats, die in der LUSD-Anleitung Erfassen von sonderpädagogischen
+Förderungen in der LUSD – Förderschulen beschrieben sind.
+
+Besondere
+Hinweise
+
+Durch den Stufenwechsel verlieren die Schüler ihre Klassenzugehörigkeit und ihre Kurse.
+1. Ordnen Sie die Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG ihren neuen Klassen zu.
+2. Prüfen Sie auf der Seite UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Zuordnung der Schüler zu ihren Kursen.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten STUFENWECHSEL, KLASSENBILDUNG und SCHÜLERKURSZUORDNUNG.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+20
+
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+3.9
+
+Berufe aktiver Schüler der Schulform BST, BSBT, BFSB bzw. BGJK pflegen
+Ziel:
+
+Allen aktiven Schülern der Schulform BST, BSBT, BFSB bzw. BGJK ist
+ein gültiger Beruf zugeordnet.
+
+Vorgehen:
+
+So finden Sie Schüler ohne Beruf
+Bericht
+
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK >
+PRÜFBERICHT LANDESSCHULSTATISTIK – PRÜFUNG: NICHT ÜBERNOMMENE SCHÜLER
+
+Schülersuche 1. Suchen Sie alle aktiven Schüler ihrer Schule
+mit der Schulform BST, BSBT, BFSB bzw.
+BGJK.
+
+2. Klicken Sie in der Ergebnisliste auf die
+Spaltenüberschrift BERUF. Die Schüler ohne
+Beruf stehen am Anfang der Ergebnisliste.
+
+3. Ordnen Sie den Schülern auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN einen gültigen Beruf zu. Der Eintrag --Kein Beruf !!! – ist ein gültiger Beruf.
+Besondere
+Hinweise
+
+Es empfiehlt sich, an beruflichen Schulen, auch allen Schülern der Vollzeitschulformen einen Beruf, in der Regel --- Kein Beruf !!! –, zuzuordnen.
+Damit werden Probleme bei der Anzeige von Lernfeldern beim Zeugnisdruck vermieden.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+21
+
+Weitere Informationen:
+
+3.10
+
+LUSD Online-Hilfe zur Webseite QUALIFIKATIONEN.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Betriebe pflegen
+Ziel:
+
+Zum Datum des Datenabzuges sind alle den Schülern zugeordneten
+Betriebe und Praktikastellen auf der Seite SCHÜLER > SCHÜLERBASISDATEN > BETRIEBE/PRAKTIKA korrekt erfasst.
+
+Vorgehen:
+
+Auf der Seite SCHÜLER > SCHÜLERBASISDATEN > BETRIEBE/PRAKTIKA können Sie
+▪ die Zuordnung eines Betriebes hinzufügen, bearbeiten, als aktuell
+kennzeichnen und löschen.
+▪ den Hauptansprechpartner eines Schülers ansehen und ändern.
+▪ die Ansprechpartner eines Betriebes hinzufügen, bearbeiten und löschen.
+Ausführlichere Informationen zum Vorgehen finden Sie in der Anleitung
+Datenpflege zur Erhebung der Gastschulbeiträge.
+
+Besondere
+Hinweise
+
+Es darf nur zu einem Betrieb eine Standardbeziehung geben.
+Falls einem Schüler mehrere Ausbildungsbetriebe zugewiesen sind, markieren Sie den Ausbildungsbetrieb, an dem der
+Schüler den überwiegenden Teil der Ausbildung durchlaufen
+hat, mit einem Haken im Feld STANDARDBEZIEHUNGEN. Nur
+der angehakte Betrieb wird für die Gastschulstatistik herangezogen.
+Der aktuelle Betrieb wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN im Abschnitt KOMMUNIKATION angezeigt.
+Achten Sie auf Grund der Berechnung der Gastschulbeiträge
+unbedingt auf eine korrekte Datenpflege.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+22
+
+Weitere Informationen:
+
+3.11
+
+LUSD Online-Hilfe zur Webseite BETRIEBE/PRAKTIKA
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Förderarten pflegen
+Ziel:
+Bericht:
+
+Alle im Schuljahr gültigen Förderarten sind erfasst.
+▪ … der übernommenen Daten:
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK > PRÜFBERICHT LANDESSCHULSTATISTIK – Berichtsabschnitt: ÜBERSICHT FÖRDERARTEN.
+Sollten in der Übersicht der Förderarten Einträge fehlen, überprüfen Sie, dass bei allen Förderschülern die Förderung erfasst
+ist und dass der Gültigkeitszeitraum (Beginn-/Ende-Datum) der
+Förderung in das aktuelle Schuljahr fällt.
+▪ … der aktuellen LUSD-Daten:
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > SCHÜLER
+> ALLG. LISTEN > SONDERPÄDAGOGISCHE FÖRDERUNGEN
+
+Vorgehen:
+
+Pflegen Sie mit Hilfe der LUSD-Anleitungen
+▪ Erfassen sonderpädagogischer Förderungen in der LUSD - (IB/VM)
+▪ Erfassen sonderpädagogischer Förderungen – Schule für Kranke
+alle fehlenden Förderarten ein.
+
+Besondere
+Hinweise
+
+Denken Sie daran, auch die bereits in den vergangen Schuljahren erfassten Förderarten zu prüfen, wenn diese im aktuellen Schuljahr noch
+gültig sind. Hier kann es sein, dass der Gültigkeitszeitraum auf das
+neue Schuljahr erweitert werden muss.
+Nur wenn der Gültigkeitszeitraum in das aktuelle Schuljahr fällt, wird
+die Förderart im Rahmen der Erhebung übernommen.
+Alle Stammschüler, die über einen Zeitraum von mehr als sechs Wochen an einer Schule für Kranke bzw. durch eine Schule für Kranke
+sonderpädagogisch gefördert werden, müssen von Ihnen ab dem
+Schuljahr 2023/2024 mit der Förderung KRA-SchfKr erfasst werden.
+Schule für Kranke können die von den Stammschulen erfassten Förderungen über den LUSD-Bericht SONDERPÄDAGOGISCHE FÖRDERUNG
+(Reportvariante: Fördernde Schule) auf der Seite EXTRAS > BERICHTE
+> STANDARDBERICHTE > SCHÜLER > ALLG. LISTEN einsehen.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+23
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite HALBJ./SEM.-DATEN
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+Anleitungen:
+▪ Erfassen sonderpädagogischer Förderungen in der LUSD - (IB/VM)
+▪ Erfassen sonderpädagogischer Förderungen – Schule für Kranke.
+
+3.12 Externe Schüler pflegen
+Ziel:
+
+Für alle Schüler der eigenen Schule, die zeitlich begrenzt am Unterricht einer anderen Schule teilnehmen, wurde auf der Seite
+SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG eine Überweisung angelegt.
+Alle Schüler anderer Schulen, die zeitlich begrenzt am Unterricht
+Ihrer Schule teilnehmen und für die eine Überweisung an Ihre
+Schule angelegt ist, wurden auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG entsprechenden Kursen zugeordnet.
+
+Bericht:
+
+Vorgehen:
+
+▪ Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > SCHÜLER >
+ALLG. LISTEN – ÜBERWEISUNGSVERHÄLTNISSE.
+▪ Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > UNTERRICHT
+> KURSE – KURSLISTEN (Kursliste mit schülerindividuellen Kurseigenschaften).
+1. Legen Sie auf der Seite SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG für Schüler Ihrer Schule, die zeitlich begrenzt am Unterricht einer anderen Schule teilnehmen, eine Überweisung an.
+2. Ordnen Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die Schüler, die zeitlich begrenzt am Unterricht Ihrer Schule teilnehmen und für die eine Überweisung
+an Ihre Schule angelegt wurde, den entsprechenden Kursen zu
+(Register EXTERNE).
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten
+▪ SCHÜLER > KANDIDATENVERFAHREN > ÜBERWEISUNG
+▪ UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+24
+
+3.13 Fremdsprachen pflegen
+Ziel:
+
+Allen Schülern, die im aktuellen Schuljahr einen Fremdsprachenunterricht besuchen, sind die belegten Fremdsprachen zugeordnet.
+
+Vorgehen:
+
+Befolgen Sie die Anweisungen der Anleitung Fremdsprachen in der
+LUSD.
+Bitte beachten Sie zudem die Hinweise der Anleitung Wechsel der
+Sprachenfolge und seine Erfassung in der LUSD.
+
+4
+
+Lehrkräfte- und Personaldaten pflegen
+
+4.1
+
+Lehrkräfte und Personal erfassen
+
+Ziel:
+
+Lehrkräfte und Personal des aktuellen Halbjahres sind vollständig erfasst.
+
+Vorgehen:
+
+1. Prüfen Sie auf der Seite PERSONAL > PERSONALBASISDATEN > PERSONALÜBERSICHT, ob alle Lehrkräfte und das gesamte Personal erfasst
+sind. Überprüfen Sie dabei auch, ob der Personaltyp ggfls. geändert
+werden muss. Alle Lehrkräfte sollten mit dem Personaltyp Lehrer erfasst sein.
+2. Pflegen Sie fehlende Personen ein, in dem Sie zunächst auf der
+Seite PERSONAL > PERSONALVERWALTUNG > PERSONALZUORDNUNG
+prüfen, ob ein SAP-Datensatz für die betreffende Person vorliegt! In
+diesem Fall matchen Sie die Person (siehe Kapitel 4.2). Hierdurch ist
+ihr Datensatz automatisch in der LUSD erfasst.
+3. Liegt kein SAP-Datensatz vor, befolgen Sie die Anweisungen der
+Anleitung Personaltyp in der LUSD pflegen – Kurzanleitung.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten
+▪ PERSONAL > PERSONALBASISDATEN > PERSONENBEZOGEN und
+▪ PERSONAL > PERSONALVERWALTUNG > PERSONALZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+4.2
+
+Lehrkräfte und Personal matchen
+
+Ziel:
+
+Lehrkräfte und Personal des aktuellen Halbjahres sind vollständig mit
+ihren SAP-Datensätzen gematcht.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+25
+
+Vorgehen:
+
+Gibt es an Ihrer Schule Lehrkräfte oder Personal, das noch gematcht
+werden muss, werden Ihnen diese Personen auf der Webseite EXTRAS
+> AUFGABENLISTE in der Regelgruppe PERSONAL angezeigt.
+In diesem Fall beachten Sie die Anweisungen der Anleitung Matchen
+von Personal.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite PERSONAL > PERSONALVERWALTUNG >
+PERSONALZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+5
+
+Unterrichtsdaten pflegen
+
+5.1
+
+Fehlende Klassen anlegen
+Ziel:
+
+Alle im aktuellen Halbjahr benötigten Klassen sind angelegt.
+
+Bericht:
+
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK > PRÜFBERICHT LANDESSCHULSTATISTIK – Berichtsabschnitt: SCHÜLER NACH KLASSE, SCHULFORM UND STUFE.
+Sollten in der Übersicht Ihrer übernommenen Daten Klassen fehlen,
+prüfen Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG, ob der Klasse Schüler zugeordnet sind.
+Sollte dies nicht der Fall sein, beschreibt das Kapitel 5.3, wie Sie der
+Klasse Schüler zuordnen können. Fehlt die Klasse, legen Sie diese wie
+unten beschrieben an und weisen ihr Schüler zu.
+
+Vorgehen:
+
+Bei der Übernahme der Unterrichtsverteilung im Rahmen einer UV-Planungsvariante werden für die Eingangsstufen keine neuen Klassen erzeugt. Dies betrifft z. B.
+▪ in Grundschulen die Stufe 01/1 oder auch 00/1
+▪ in weiterführenden Schulen die Stufe 05/1 oder 07/1 oder evtl. E1
+1. Legen Sie - sofern noch nicht im Rahmen der UV-Planung erledigt auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG
+
+▪ die neuen Klassen der Eingangsbereiche an
+▪ Ihre sonstigen neu benötigten Klassen an
+2. Prüfen Sie im Anschluss, dass allen Schülern eine Klasse zugeordnet ist. Das Kapitel 5.3 beschreibt wie Sie hier vorgehen können.
+3. Mit Hilfe des Berichts KLASSENLISTE auf der Seite EXTRAS > BERICHTE > STANDARDBERICHTE > SCHULE > KLASSEN können Sie über-
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+26
+
+prüfen, ob allen Klassen die richtigen Schüler zugeordnet sind. Müssen Sie eine Klassenzuordnung korrigieren folgen Sie der im Kapitel
+7.6 beschriebenen Vorgehensweise.
+TIPP
+
+Da Sie sich bereits auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KLASSENBILDUNG befinden, können Sie einer neuen Klasse gleich die
+Schüler zuordnen.
+
+Besondere
+Hinweise
+
+Hinweis für Privat-/Ersatzschulen:
+Zur Anlage einer Klasse benötigen Sie einen Klassenlehrer.
+Hierfür ist es notwendig, zumindest einen Lehrer zu erfassen (siehe Kapitel 4). Dieser Lehrer kann im Anschluss ggf. allen angelegten Klassen
+zugeordnet werden.
+
+Weitere Informationen:
+
+5.2
+
+LUSD Online-Hilfe zur Webseite KLASSENBILDUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Schulform- und stufenübergreifende Klassen anlegen
+Ziel:
+
+Alle im aktuellen Halbjahr benötigten schulform- und stufenübergreifenden Klassen sind angelegt.
+
+Vorgehen:
+
+Den Begriff „schulformübergreifende“ oder „stufenübergreifende“ Klassen gibt es in der LUSD nicht.
+Sie können einer Klasse jedoch Schüler unterschiedlicher Schulformen und Stufen zuordnen und dadurch eine sogenannte „schulformund/oder stufenübergreifende Klasse“ bilden.
+Befolgen Sie die Anweisungen der Anleitung Schulform- und stufenübergreifende Klassen in der LUSD.
+
+Besondere
+Hinweise:
+
+Werden Ihnen in Ihrem Bericht der übernommenen Daten (Webseite
+EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK > PRÜFBERICHT LANDESSCHULSTATISTIK ) Fehlermeldungen im
+Abschnitt UNPLAUSIBLE SCHULFORM ODER STUFE angezeigt, die damit
+begründet werden können, dass es sich um eine schulform- und/oder
+stufenübergreifende Klasse handelt, schicken Sie eine kurze Bestätigung an das Postfach Landesschulstatistik@kultus.hessen.de. Die Meldungen werden danach vom HMKB überprüft und nach Rücksprache
+mit Ihnen ausgeblendet.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+27
+
+Weitere Informationen:
+
+5.3
+
+LUSD Online-Hilfe zur Webseite KLASSENBILDUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Schüler einer Klasse zuordnen
+Ziel:
+
+Alle aktiven Schüler sind einer Klasse/Tutorengruppe zugeordnet.
+
+Bericht
+
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK > PRÜFBERICHT LANDESSCHULSTATISTIK – Prüfung:
+Nicht übernommene Schüler
+
+Vorgehen:
+
+So finden Sie alle Schüler ohne Klasse:
+Schülersuche
+1. Suchen Sie alle aktiven Schüler Ihrer Schule.
+
+2. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift KLASSE.
+Die Schüler ohne Klasseneintrag stehen am Anfang der Ergebnisliste.
+3. Ordnen Sie die betroffenen Schüler auf der Webseite UNTERRICHT >
+UV-BEARBEITUNG > KLASSENBILDUNG ihrer Klasse zu.
+Besondere
+Hinweise
+
+Sie können auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG auch nach Kandidaten mit dem Kandidatenstatus ist Kandidat bzw. angenommen filtern.
+Enthält die Ergebnisliste noch Einträge und besuchen die aufgeführten
+Schüler tatsächlich Ihre Schule, sollten Sie diese Kandidaten dringend
+aktivieren (siehe Kapitel 3.5).
+Wurde die fehlende Klasse noch nicht angelegt hilft Ihnen das Kapitel
+5.1 dies nachzuholen.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite KLASSENBILDUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+28
+
+5.4
+
+Fehlende Kurse einrichten
+Ziel:
+
+Alle Kurse sind eingerichtet.
+
+Vorgehen:
+
+Um eine Übersicht über vorhandene Kurse zu erhalten, können Sie
+▪ auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG alle / ausgewählte Kurse suchen und übernehmen. Tipp:
+Durch Klick auf die Spaltenbezeichnung können Sie nach Kursmerkmalen sortieren.
+▪ auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE> UNTERRICHT – KURSE den Bericht KURSE MIT THEMEN generieren (CSV).
+Überprüfen Sie die Kursübersicht auf fehlende Kurse hin und fügen Sie
+auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+die fehlenden Kurse hinzu.
+
+Besondere
+Hinweise
+
+Es ist nicht möglich, einen Kurs fächerübergreifend anzulegen!
+Schüler, die in unterschiedlichen Fächern unterrichtet werden sollen, müssen in unterschiedliche Kurse aufgeteilt werden.
+Im Fall von Religionsunterricht in konfessionell gemischten Lerngruppen richtet sich das Fach des Kurses nach der
+Konfession des unterrichtenden Lehrers (Erlass des Hessischen Kultusministeriums über den Religionsunterricht an
+öffentlichen Schulen vom 03. September 2014, Abschnitt VII,
+ABl. HKM 2014 S. 685).
+Beachten Sie die Anleitung Religionsunterrichte in der LUSD
+abbilden.
+Es ist möglich,
+▪
+▪
+▪
+▪
+
+Kursart (KA)
+Kursoption (KO)
+Kursdifferenzierung (KD) – nur bei passender Schulform
+Kursstunden
+
+schülerindividuell innerhalb eines Kurses festzulegen
+(siehe Kapitel 5.6).
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite KURSBEARBEITUNG.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+29
+
+5.5
+
+Schüler ihren Kursen zuordnen
+Ziel:
+
+Alle Schüler sind ihren Kursen zugeordnet.
+
+Vorgehen:
+
+So finden Sie Schüler ohne Kurse:
+1. Suchen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+SCHÜLER-KURSZUORDNUNG im Register AKTIVE im Bereich SCHÜLERAUSWAHL alle Schüler Ihrer Schule.
+2. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift STD. Die
+Schüler mit 0 Stunden stehen am Anfang der Ergebnisliste.
+
+3. Weisen Sie die Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG den gewünschten Kursen zu.
+Besondere
+Hinweise
+
+Weitere Informationen:
+
+5.6
+
+▪ Ordnen Sie auch die Externen Schüler ihren Kursen zu.
+▪ Gehen Sie hierzu auf der Webseite SCHÜLER-KURSZUORDNUNG auf
+das Register EXTERNE.
+▪ Prüfen Sie auf der Webseite auch, ob aktive Schüler mit auffallend
+niedrigen bzw. hohen Stundenzahlen in der Ergebnisliste enthalten
+sind, und korrigieren Sie diese ggf.
+LUSD Online-Hilfe zur Webseite SCHÜLER-KURSZUORDNUNG
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Schülerindividuelle Kurseigenschaften festlegen
+Beispiel:
+Wegen geringer Teilnehmerzahlen soll ein Kurs im Fach Musik
+▪ für einige Schüler als Leistungskurs mit 5 Stunden und
+▪ für andere als Grundkurs mit 3 Stunden angeboten werden.
+Lösung:
+Sie legen einen Kurs im Fach Musik mit 5 Stunden als Leistungskurs an und ändern die
+schülerindividuellen Kurseigenschaften für die Schüler ab, die den Kurs als Grundkurs
+mit 3 Stunden besuchen.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+30
+
+Das Vorgehen entnehmen Sie bitte der untenstehenden Tabelle.
+Ziel:
+
+Die schülerindividuellen Kurseigenschaften sind für alle Schüler festgelegt.
+Schülerindividuelle Kurseigenschaften sind
+▪
+▪
+▪
+▪
+
+Vorgehen:
+
+Kursart (KA)
+Kursoption (KO)
+Kursdifferenzierung (KD) – nur bei passender Schulform –
+Kursstunden
+
+1. Suchen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG den Kurs, für den Sie schülerindividuelle Kurseigenschaften festlegen möchten.
+2. Klicken Sie bei dem gewünschten Kurs in der Spalte ANZ. SCH. auf
+die Schüleranzahl. Es erscheint das Dialogfenster SCHÜLER IM KURS.
+
+3. Markieren Sie in der Tabelle SCHÜLERDETAILS den oder die Schüler,
+die Sie bearbeiten möchten.
+4. Klicken Sie auf
+. Rechts erscheint das Dialogfenster
+KURSEIGENSCHAFTEN SCHÜLER.
+
+5. Geben Sie die gewünschten Daten ein.
+6. Klicken Sie auf
+alisiert.
+
+. Die Tabelle SCHÜLERDETAILS wird aktu-
+
+7. Klicken Sie auf
+. Die Häkchen bei den ausgewählten
+Schülern und Kursen verschwinden automatisch.
+8. Klicken Sie auf
+
+.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+31
+
+Besondere
+Hinweise
+
+Sie können die schülerindividuellen Kurseigenschaften für einen
+oder mehrere Schüler eines Kurses auch auf folgenden Webseiten bearbeiten:
+▪ UNTERRICHT > UV-BEARBEITUNG > KURSWECHSEL – Bereich KURSAUSWAHL
+
+▪ UNTERRICHT > UV-BEARBEITUNG > SCHÜLER - KURSZUORDNUNG – Bereich KURSAUSWAHL
+Sie können die schulindividuellen Kurseigenschaften für mehrere
+Kurse eines Schülers auf folgender Webseite bearbeiten:
+▪ UNTERRICHT > UV-BEARBEITUNG > SCHÜLER - KURSZUORDNUNG – Bereich SCHÜLERAUSWAHL.
+Weitere Informationen:
+
+LUSD Online-Hilfe zur Webseite KURSBEARBEITUNG und SCHÜLERKURSZUORDNUNG
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+5.7
+
+Lehrer zu Kursen zuordnen
+Ziel:
+
+Alle Kurse haben mindestens einen Lehrer.
+
+Vorgehen:
+
+Prüfen Sie, ob es Kurse ohne Lehrer gibt:
+1. Suchen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG alle Kurse ihrer Schule.
+2. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift LEHRER.
+Die Kurse ohne Lehrer stehen am Anfang der Ergebnisliste.
+
+3. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG den Kursen jeweils mindestens einen Lehrer zu.
+4. Prüfen Sie zudem mit Hilfe des Berichts LEHRER OHNE KURSE auf der
+Seite EXTRAS > BERICHTE > STANDARDBERICHTE > PERSONAL > PERSONALBASISDATEN, ob die in dem Bericht aufgeführten Lehrkräfte
+bzw. das aufgeführte pädagogische Personal tatsächlich keinem
+Kurs zugeordnet werden müssen. Ansonsten pflegen Sie die fehlende Kurszuordnung wie oben beschrieben ein.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+32
+
+Besondere
+Hinweise
+
+Werden Kurse von weiteren Lehrern unterrichtet, können Sie diese auf
+der Webseite UNTERRICHT > UV-BEARBEITUNG > LEHRER-KURSZUORDNUNG ergänzen und ggf. die Stundenanteile anpassen.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe zu den Webseiten KURSBEARBEITUNG und LEHRERKURSZUORDNUNG. Zum Aufruf der Online-Hilfe klicken Sie jeweils rechts
+oben auf die Schaltfläche
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+33
+
+Übernommene Daten überprüfen und ggf. korrigieren
+6
+
+Datenprüfung
+Während des Erhebungszeitraums werden Ihnen die übernommenen Daten Ihrer Schule
+täglich in dem LUSD-Bericht PRÜFBERICHT LANDESSCHULSTATISTIK zurückgespiegelt. Dies
+stellt sicher, dass die Daten nicht nur von Ihnen korrekt in der LUSD erfasst, sondern auch
+vollständig in das Kultusdatawarehouse übernommen wurden.
+Wurden Auffälligkeiten in den Daten gefunden, werden diese ebenfalls in dem o.g. Bericht
+aufgeführt. Der Bericht kann auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE>
+STATISTIK > LANDESSCHULSTATISTIK aufgerufen werden.
+Bitte lesen Sie sich die Erläuterung der jeweiligen Übersicht bzw. Prüfung sorgfältig durch.
+Darin wird genau beschrieben, was dargestellt ist und was geprüft werden soll. Wurden
+keine Auffälligkeiten in den Daten gefunden, werden lediglich die Übersichten der übernommenen Schüler und deren Förderarten angezeigt.
+Zudem kann es vorkommen, dass Sie von Ihrem zuständigen Staatlichen Schulamt weitere
+Hinweise zu Unstimmigkeiten in den Daten erhalten. In der Regel werden diese Hinweise
+an Ihr Landespostfach verschickt.
+Hinweis
+Die in dem LUSD-Bericht PRÜFBERICHT LANDESSCHULSTATISTIK aufgeführten
+Daten stellen immer die aus der LUSD übernommen Daten vom Vortag
+dar. Wenn Sie Korrekturen in der LUSD durchgeführt haben, werden diese
+somit erst am folgenden Tag im Bericht sichtbar sein.
+
+7
+
+Datenkorrektur
+Die unten aufgeführten Unterkapitel beschreiben eine Reihe von Datenfehlern und geben
+Hinweise, wie diese korrigiert werden können.
+Sollte Ihr Problem hier nicht beschrieben sein, wenden Sie sich bitte an den Helpdesk über
+die Seite kontakt-helpdesk.hessen.de oder telefonisch unter +49 611 340 1570.
+
+7.1
+
+Schulform und Stufe fehlen
+Ziel:
+
+Alle aktiven Schüler sind im aktuellen Schulhalbjahr einer Schulform
+und Stufe zugeordnet.
+
+Vorgehen:
+
+So finden Sie Schüler ohne Schulform und Stufe:
+Bericht
+
+Webseite EXTRAS > BERICHTE > STANDARDBERICHTE > STATISTIK > LANDESSCHULSTATISTIK >
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+34
+
+PRÜFBERICHT LANDESSCHULSTATISTIK – PRÜFUNG:
+NICHT ÜBERNOMMENE SCHÜLER
+Schülersuche 1. Suchen Sie über die SCHÜLERSUCHE IM REGISTER SUCHE alle aktiven Schüler Ihrer Schule.
+
+2. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift SF/BK. Die Schüler ohne Schulform
+stehen am Anfang der Ergebnisliste.
+3. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift ST./SEM. Die Schüler ohne Stufe stehen am Anfang der Ergebnisliste.
+
+So bearbeiten Sie die Schüler ohne Schulform und/oder Stufe:
+Sind die Schüler aktiv an Ihrer Schule,
+▪ ordnen Sie diese auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register INTERNER SCHULFORMÜBERGANG einer Schulform zu.
+▪ bzw. ordnen Sie diese auf der Webseite UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL der richtigen Stufe zu.
+Nicht mehr aktive Schüler setzen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER auf ehemalig.
+Besondere
+Hinweise
+
+Ordnen Sie den aktiven Schülern
+
+Weitere Informationen:
+
+LUSD Online-Hilfe
+
+▪ auf den Webseiten UV-BEARBEITUNG > KLASSENBILDUNG die Klasse
+▪ auf der Webseite UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+Kurse zu.
+
+Zu den Webseiten STATUSVERWALTUNG, STUFENWECHSEL, KLASSENBILDUNG und SCHÜLER-KURSZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie jeweils rechts oben auf die
+Schaltfläche
+
+7.2
+
+Klasseneintrag fehlt
+Im Kapitel 5.3 wird beschrieben, wie Sie Schüler ohne Klassenzuordnung in der LUSD finden und ihnen eine Klasse zuordnen können.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+35
+
+7.3
+
+Beruf fehlt
+Das Kapitel 3.9 erläutert, wie Sie Schüler ohne Berufseintrag in der LUSD finden und korrigieren können.
+
+7.4
+
+Förderungen fehlen
+Mit Hilfe des Kapitels 3.11 können Sie die fehlenden Förderungen korrigieren.
+
+7.5
+
+Schulform und/oder Stufe korrigieren
+Ziel:
+
+Alle aktiven Schüler sind im aktuellen Schulhalbjahr der richtigen Schulform und Stufe zugeordnet.
+
+Vorgehen:
+
+Sollten Schüler in einer falschen Schulform oder Stufe erfasst sein,
+▪ können Sie diese auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - REGISTER INTERNER SCHULFORMÜBERGANG der richtigen Schulform
+▪ bzw. auf der Webseite UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL der richtigen Stufe zuordnen.
+Im Falle eines Schulform- oder Stufenwechsels, ordnen Sie den aktiven
+Schülern
+▪ auf den Webseiten UV-BEARBEITUNG – KLASSENBILDUNG die Klasse
+▪ auf der Webseite UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+Kurse zu.
+Bei Förderschülern beachten Sie bitte die Stufenvorgaben des Fachreferats, die in der LUSD-Anleitung Erfassen von sonderpädagogischen
+Förderungen in der LUSD – Förderschulen beschrieben sind.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe
+Zu den Webseiten STATUSVERWALTUNG, KLASSENBILDUNG UND SCHÜLER-KURSZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie jeweils rechts oben auf die
+Schaltfläche
+
+7.6
+
+Klassenzuordnung korrigieren
+Ziel:
+
+Alle aktiven Schüler sind im aktuellen Schulhalbjahr der richtigen
+Klasse zugeordnet.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+36
+
+Vorgehen:
+
+Sollten Schüler in einer falschen Klasse erfasst sein, können Sie sie auf
+der Seite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG der richtigen Klasse zuordnen.
+
+Besondere
+Hinweise
+
+Durch die Zuordnung eines Schülers zur richtigen Klasse wird die Zuordnung zur falschen Klasse automatisch gelöscht.
+Durch die Zuordnung zu einer Klasse wird der Schüler automatisch allen Klassenkursen zugeordnet.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe
+Zu den Webseiten STATUSVERWALTUNG, KLASSENBILDUNG UND SCHÜLER-KURSZUORDNUNG
+Zum Aufruf der Online-Hilfe klicken Sie jeweils rechts oben auf die
+Schaltfläche
+
+7.7
+
+Berufseintrag korrigieren
+Ziel:
+
+Allen aktiven Schülern der Schulform BST, BSBT, BFSB bzw. BGJK ist
+der richtige und gültige Beruf zugeordnet.
+
+Vorgehen:
+
+Eine Übersicht über die gültigen Berufe sowie die Schulformen und
+Stufen, in denen die Berufe zur Verfügung stehen, finden Sie in der
+Übersicht Berufe und Lernfelder im Tabellenblatt GÜLTIGE BERUFESCHULFORM-STUFE.
+1. Prüfen Sie auf dieser Basis, ob die Berufe, die Sie den Schülern der
+Schulformen BST, BSBT, BFSB bzw. BGJK zugeordnet haben, aktuell sind. Suchen Sie dazu alle aktiven Schüler ihrer Schule mit der
+Schulform BST, BSBT, BFSB bzw. BGJK
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+37
+
+2. Klicken Sie in der Ergebnisliste auf die Spaltenüberschrift BERUF. Die
+Schüler werden nach Berufen sortiert angezeigt.
+
+3. Sollten Schüler ungültige Berufe haben, weisen Sie ihnen auf der
+Webseite SCHÜLER > SCHÜLERBASISDATEN > QUALIFIKATIONEN einen
+gültigen Beruf zu. Ggf. ist es dazu erforderlich, dass Sie sich zunächst auf der Webseite SCHULE > SCHULUMFELD > BERUFE den benötigten Beruf zuordnen.
+Besondere
+Hinweise
+
+Die letzte Aktualisierung der Berufe vor dem Statistiktermin wird in der
+Regel Mitte Oktober in der LUSD produktiv gesetzt.
+Prüfen Sie daher bis zum 01.11., ob die Änderungen Ihre Schule betreffen.
+
+Weitere Informationen:
+
+7.8
+
+LUSD Online-Hilfe zu der Webseite QUALIFIKATIONEN.
+Zum Aufruf der Online-Hilfe klicken Sie rechts oben auf die Schaltfläche
+
+Klassen zusammenführen
+Sollten Sie aus Versehen Schüler, die eigentlich in einer Klasse unterrichtet werden, mehreren Klassen zugeordnet haben, so können Sie die Schüler wieder zusammenführen.
+Ziel:
+
+Alle Schüler, die in einer Klasse gemeinsam unterrichtet werden sollen,
+sind im aktuellen Schulhalbjahr der gleichen Klasse zugeordnet.
+
+Vorgehen:
+
+Schüler, die aus Versehen in zwei oder mehr Klassen erfasst wurden
+(statt - wie geplant - in einer), können Sie auf der Seite UNTERRICHT >
+UV-BEARBEITUNG > KLASSENBILDUNG alle einer der Klassen zuordnen.
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+38
+
+Löschen Sie anschließend die Klasse/n, die nicht mehr benötigt
+wird/werden (außer es befinden sich noch weitere Schüler in dieser/diesen Klasse/n, die weiterhin hier unterrichtet werden sollen).
+Besondere
+Hinweise
+
+Durch die Zuordnung eines Schülers zu einer Klasse wird seine Zuordnung zur bisherigen Klasse automatisch gelöscht.
+Durch die Zuordnung zu einer Klasse wird der Schüler automatisch allen Klassenkursen zugeordnet.
+
+Weitere Informationen:
+
+LUSD Online-Hilfe
+Zu den Webseiten STATUSVERWALTUNG, KLASSENBILDUNG UND SCHÜLER-KURSZUORDNUNG.
+Zum Aufruf der Online-Hilfe klicken Sie jeweils rechts oben auf die
+Schaltfläche
+
+7.9
+
+Ganztagsangebote korrigieren
+Gab es in Ihrem LUSD-Bericht PRÜFBERICHT LANDESSCHULSTATISTIK Auffälligkeiten bei den
+Ganztagsangeboten, können Sie die Anleitung Erfassen von Ganztagsangeboten in der
+LUSD zu Rate ziehen. Die Anleitung beschreibt wie Ihre Ganztagsangebote in der LUSD zu
+erfassen sind.
+
+8
+
+Nützliche Anleitungen
+Die nachfolgenden LUSD-Anleitungen und Übersichten unterstützen Sie bei der Pflege der
+Schüler-, Unterrichts- und Lehrkräftedaten.
+Schulehessen.de/lusdanleitungen
+
+Nützliche Anleitungen
+
+Schülermanagement
+
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+Schüler in die LUSD aufnehmen
+Religionsunterrichte in der LUSD abbilden
+Erfassen von Seiteneinsteigern (NDHS) in der LUSD
+Erfassen von Ganztagsangeboten in der LUSD
+Datenpflege zur Erhebung der Gastschulbeiträge
+Fremdsprachen in der LUSD
+Wechsel der Sprachenfolge und seine Erfassung in der LUSD
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+39
+
+▪ Berufe und Lernfelder (Register GÜLTIGE BERUFE SCHULFORM
+STUFE)
+Förderungen
+
+▪ Erfassen von sonderpädagogischen Förderungen in der LUSD –
+(IB/VM)
+▪ Erfassen von sonderpädagogischen Förderungen in der LUSD –
+Förderschulen
+▪ Erfassen sonderpädagogischer Förderungen – Schule für
+Kranke
+▪ Sprachförderangebot Deutsch-Förderkurse in der LUSD abbilden
+▪ Sprachförderangebot Deutsch und PC in der LUSD abbilden
+▪ Erfassen der Deutschförderung am zweiten Berufsschultag
+▪ Abbildung der Förderung Praxis und Schule (PuSch) in der
+LUSD
+
+UV-Planung
+
+▪ UV-Planung in der LUSD
+▪ Schulform- und stufenübergreifende Klassen in der LUSD
+
+Einschulung
+
+▪
+▪
+▪
+▪
+▪
+▪
+
+Deutschfördermaßnahme Vorlaufkurs
+Aufnahme in die Vorklasse
+Flexibler Schulanfang
+Zurückstellung aus sprachlichen Gründen
+Zurückstellung aus entwicklungsbedingten Gründen
+Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden
+
+SAP-HCM LUSDSchnittstelle
+
+▪
+▪
+▪
+▪
+
+Das Matchen von Personal
+Personaltyp in der LUSD pflegen
+Personaldaten gematchter Personen bearbeiten
+Hinweise zum Umgang mit der Webseite Stundenbilanz
+
+HMKB | LUSD | Landesschulstatistik – Datenpflege in der LUSD | Version: 4.1 | Letzter Stand: 23.05.2025
+
+40
+
+

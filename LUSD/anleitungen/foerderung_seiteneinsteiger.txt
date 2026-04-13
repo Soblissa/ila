@@ -1,0 +1,1180 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Erfassen von Seiteneinsteigern
+(NDHS)
+
+Version: 5.3
+Letzter Stand: 06.01.2025
+
+Inhaltsverzeichnis
+1
+
+Allgemeine Informationen ......................................................................................................8
+
+2
+
+Seiteneinsteiger.....................................................................................................................9
+2.1
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Kriterien Seiteneinsteiger .............................................................................................9
+
+Intensivsprachfördermaßnahmen für Seiteneinsteiger .........................................................10
+3.1
+
+Intensivklassen und Intensivkurse ..............................................................................10
+
+3.2
+
+Übersicht über die Eintragung von Seiteneinsteigern in der LUSD .............................11
+
+Erfassen der Intensivsprachfördermaßnahmen für Seiteneinsteiger vorbereiten .................12
+4.1
+
+NDHS-Schulformen zu Schulbezogenen Schulformen hinzufügen .............................12
+
+4.2
+
+Stufen/Semester der NDHS-Schulformen hinzufügen ................................................12
+
+4.3
+
+Stundentafel der NDHS-Schulformen anpassen.........................................................13
+
+4.4
+
+Intensivklasse für Seiteneinsteiger anlegen ................................................................15
+
+4.5
+
+Intensivkurs für Seiteneinsteiger anlegen ...................................................................15
+
+Intensivsprachfördermaßnahmen für Seiteneinsteiger in der LUSD erfassen ......................16
+5.1
+
+Vorbereitende Eintragungen auf der Seite Schülerstammdaten .................................16
+
+5.2
+
+Seiteneinsteiger einer Schulform zuweisen ................................................................17
+
+5.3
+
+Seiteneinsteiger einer Klasse und einer Intensivsprachfördermaßnahme zuweisen ...18
+
+Alphabetisierung..................................................................................................................20
+6.1
+
+Alphabetisierungskurse und Alphabetisierungsklassen ..............................................20
+
+6.2
+
+Schülerindividuelles Merkmal „Alphabetisierung“ .......................................................20
+
+Zeugnisse für Schüler der Schulform NDHS ........................................................................21
+7.1
+
+Allgemeinbildende Schulen - Halbjahreszeugnis für die Schulformen NDHS/PS und
+NDHS/S1 ...................................................................................................................21
+
+7.2
+
+Berufliche Schulen .....................................................................................................27
+
+Übergang aus der Intensivmaßnahme ins Regelsystem ......................................................30
+8.1
+
+Wechsel aus der Intensivklasse in den Regelunterricht ..............................................30
+
+8.2
+
+Wechsel aus dem Intensivkurs in den Regelunterricht ...............................................31
+
+8.3
+
+Wechsel aus der Intensivklasse in einen Intensivkurs / in eine Klasse mit
+Regelschulform ..........................................................................................................32
+
+8.4
+
+Wechsel aus einem Intensivkurs in eine Intensivklasse ..............................................32
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+3
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulformen: Liste Schulbezogene Schulformen
+
+12
+
+Abb. 2 Webseite Stufen/Semester: Detailansicht Zuweisung der benötigten Stufen
+
+13
+
+Abb. 3 Webseite Stundentafel: Automatische Anzeige der Einträge für das Fach DAZ
+
+13
+
+Abb. 4 Webseite Stundentafel: Fächer der Schulform NDHS/PS (Beispiel)
+
+14
+
+Abb. 5 Dialogfenster Allgemeines Fach der Stundentafel bearbeiten
+
+14
+
+Abb. 6 Dialogfenster Klasse hinzufügen: Beispiel für eine Intensivklasse
+
+15
+
+Abb. 7 Dialogfenster Kurs anlegen: Beispiel für einen Intensivkurs
+
+16
+
+Abb. 8 Webseite Schülerstammdaten: Beispiel Eintragungen Nationalität
+
+17
+
+Abb. 9 Dialogfenster Zieldaten hinzufügen: Beispieleinträge
+
+17
+
+Abb. 10 Dialogfenster Interner Schulformübergang: Beispieleinträge
+
+18
+
+Abb. 11 Webseite Klassenbildung
+
+18
+
+Abb. 12 Webseite Klassenbildung: Schüler mit SF NDHS einer Klasse mit Regelschulform zuordnen
+
+19
+
+Abb. 13 Webseite Schüler-Kurszuordnung: Schüler mit SF NDHS einem Intensivkurs zuordnen
+
+19
+
+Abb. 14 Webseite Schüler-Kurszuordnung: Schüler im Kurs bearbeiten
+
+20
+
+Abb. 15 Webseite Halbj./ Sem.-Daten: Neue Förderungsarten zur Alphabetisierung
+
+21
+
+Abb. 16 Webseite Schüler: Erfassung der Kursnoten
+
+22
+
+Abb. 17 Webseite Schüler: Verbalbeurteilung
+
+22
+
+Abb. 18 Webseite Schüler: Beurteilung des Arbeits- und Sozialverhaltens
+
+22
+
+Abb. 19 Webseite Schüler: Eintrag im Feld Versetzung
+
+23
+
+Abb. 20 Webseite Schüler: Deutsch GeR-Niveaus
+
+23
+
+Abb. 21 Webseite Zeugnis erstellen: Zuweisung der Zeugnisse
+
+25
+
+Abb. 22 Webseite Zeugnis erstellen: Generierung der Zeugnisse für eine Klasse
+
+26
+
+Abb. 23 Beispiel: Halbjahreszeugnis (allgemeinbildende Schule) SF NDHS, Seite 1
+
+26
+
+Abb. 24 Bespiel: Halbjahreszeugnis (allgemeinbildende Schule) SF NDHS, Seite 2
+
+27
+
+Abb. 25 Webseite Schüler: Deutsch GeR-Niveaus
+
+28
+
+Abb. 26 Webseite Schüler: Eintrag einer Verbalbeurteilung
+
+28
+
+Abb. 27 Beispiel: Halbjahreszeugnis (berufliche Schule) SF NDHS/S2, Seite 1
+
+29
+
+Abb. 28 Beispiel: Halbjahreszeugnis (berufliche Schule) SF NDHS, Seite 2
+
+30
+
+Abb. 29 Dialogfenster Informationen zum Übergang: Eintrag des Wechsels
+
+31
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+4
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+5
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Das vorliegende Dokument beschreibt, welche Daten von Ihnen im Rahmen der Erfassung von
+Seiteneinsteigern in der LUSD zu pflegen sind.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle LUSD-Benutzer, die Seiteneinsteiger und ihre Unterrichte in der
+LUSD erfassen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+▪
+▪
+▪
+▪
+
+der Kursbearbeitung,
+der Schüler-, Kurs- und Klassensuche,
+der Schüler-Kurszuordnung,
+der Erstellung von Berichten (z.B. Kurslisten).
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+6
+
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über das Kontaktformular
+▪ oder telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+7
+
+Erfassen von Seiteneinsteigern in der LUSD (NDHS)
+1
+
+Allgemeine Informationen
+Die Abteilung III des Hessischen Ministeriums für Kultus, Bildung und Chancen, das
+Lehrerstellenzuweisungsreferat, das Statistikreferat und das HMKB Referat IV.2 (LUSD)
+haben sich auf Regeln für die Darstellung von Seiteneinsteigern (siehe Kap. 2.1 Kriterien
+Seiteneinsteiger) in der LUSD verständigt.
+Die in dieser Anleitung beschriebenen Regeln bilden die gültige Gesetzeslage (§§ 47,
+48, 50, 51, 57 und 58, Siebter Teil Schülerinnen und Schüler nichtdeutscher
+Herkunftssprache, VOGSV) ab und sollen sowohl der Erfassung der Seiteneinsteiger in der
+LUSD als auch deren korrekter statistischer Auswertung dienen.
+Die Datenauswertungen aus der LUSD werden für die gesonderte
+Lehrerstellenzuweisung für Seiteneinsteiger verwendet.
+▪ Für Intensivklassen erfolgt eine klassenbezogene Zusatzzuweisung durch das HMKB.
+▪ Für Intensivkurse erfolgt eine kursbezogene Zusatzzuweisung durch die Staatlichen
+Schulämter (SSÄ).
+
+▪ Die Schulform NDHS (Nicht deutsche Herkunftssprache) teilt sich auf in
+▪ NDHS/PS (Primarstufe)
+▪ NDHS/S1 (Sekundarstufe 1)
+▪ NDHS/S2 (Sekundarstufe 2 / Berufsschule)
+Hinweis
+Spätestens bis Ende der 3. Schulwoche bzw. bis zu allen weiteren
+Nachsteuerungsterminen der Lehrerstellenzuweisung muss die korrekte
+Zuordnung von Seiteneinsteigern zu den Schulformen NDHS/PS, NDHS/S1
+und NDHS/S2 erfolgen, da diese Zahlen statistisch ausgewertet und für die
+Lehrerstellenzuweisung verwendet werden.
+
+Damit die Auswertung und die darauf beruhende Zuweisung korrekt sind,
+müssen Sie
+▪ Die Seiteneinsteiger einer der drei NDHS-Schulform zuordnen (siehe
+Kapitel 5.2)
+▪ Für die betreffenden Schüler auf der Webseite SCHÜLERSTAMMDATEN.
+▪ im Feld STAATSANGEHÖRIGKEIT 1* den entsprechenden Eintrag wählen und
+▪ im Feld ZUZUG NACH DEUTSCHLAND das Jahr eingeben, an dem der Schüler
+den ersten Kontakt mit einer deutschen Behörde hatte (Erstkontakt).
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+8
+
+▪ (Wenn in Deutschland geborene Schüler gemäß den Kriterien aus dem
+Hinweis in Kapitel 2.1 in Einzelfällen auch als Seiteneinsteiger gelten, gibt es
+kein Zuzugsdatum. In diesem Sonderfall ist das Feld ZUZUG NACH
+DEUTSCHLAND leer zu lassen (siehe auch Kapitel 5.1).
+▪ Ordnen Sie die Schüler, die lediglich nach § 52 an Deutsch-Förderkursen
+teilnehmen, den passenden Regelschulformen und Regelklassen zu.
+Diese Schüler werden nicht in der Schulform NDHS zugeordnet und gelten
+nicht als Seiteneinsteiger.
+
+2
+
+Seiteneinsteiger
+
+2.1
+
+Kriterien Seiteneinsteiger
+Seiteneinsteiger werden für die Lehrerstellenzuweisung anhand von zwei Kriterien
+bestimmt:
+▪ Seiteneinsteiger sind schulpflichtige oder schulbesuchsberechtigte Kinder und
+Jugendliche mit keinen oder nur geringen Deutschkenntnissen, die innerhalb der
+letzten vier Jahre aus dem Ausland nach Deutschland zugezogen sind und in das
+deutsche Schulsystem integriert werden müssen.
+Damit ergibt sich für das Zuzugsjahr ein jährlicher Definitionswechsel: Im Schuljahr
+2022/2023 wird beispielsweise ein Zuzugsjahr nach 2018 vorausgesetzt, im Schuljahr
+2023/2024 ein Zuzugsjahr nach 2019.
+Hinweis
+Kinder mit einem Alter von 10 Jahren oder jünger, die bereits länger als 4 Jahre
+in Deutschland leben und trotzdem über keine oder nur geringe
+Deutschkenntnisse verfügen, werden auch zur Gruppe der Seiteneinsteiger
+gezählt.
+▪ Seiteneinsteiger besuchen einen Intensivkurs oder eine Intensiv- bzw. InteA (Integration
+durch Anschluss und Abschluss) - Klasse für Schüler nicht deutscher Herkunftssprache.
+Für die statistische Auswertung werden alle Schülerinnen und Schüler in Intensivkursen
+oder Intensiv- bzw. InteA-Klassen unabhängig von ihrem Zuzugsjahr als
+Seiteneinsteiger gezählt.
+Regelungen der Förderhöchstdauer, Zeugniserstellung und Notenerfassung der einzelnen
+Maßnahmen sind der VOGSV (Siebter Teil) zu entnehmen.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+9
+
+3
+
+Intensivsprachfördermaßnahmen für Seiteneinsteiger
+
+3.1
+
+Intensivklassen und Intensivkurse
+Intensivklasse
+Seiteneinsteiger werden vorzugsweise in Intensivklassen (§ 50 (3) VOGSV) beschult. Die
+Mindestschülerzahl ist den jeweils vom HMKB veröffentlichen aktuellen
+Zuweisungsparametern zu entnehmen (siehe auch Kapitel 4.4).
+Intensivkurse
+Ist die Einrichtung von Intensivklassen aufgrund geringerer Seiteneinsteigerzahlen nicht
+möglich, werden Seiteneinsteiger in Intensivkursen (§ 50 (4) VOGSV) gefördert. Hier
+besuchen die Schüler von Anfang an den regulären Unterricht, innerhalb dessen sie eine
+zusätzliche, intensive Deutschförderung in Kursen erhalten (siehe auch Kapitel 4.5).
+Hinweis
+▪ Schüler in Intensivklassen sind einer Klasse mit einer NDHS-Schulform
+zuzuordnen.
+▪ Schüler in Intensivkursen sind einer NDHS-Schulform zuzuordnen und
+müssen gleichzeitig auch einer Klasse einer Regelschulform zugeordnet
+werden.
+
+Achtung (bei Berufsschulen)
+In den Berufsschulen können ausschließlich Intensivklassen (InteA) gebildet
+werden – (VOGSV, Siebter Teil, § 58).
+
+Hinweis
+Seiteneinsteiger in Vorlaufkursen werden in der LUSD mit der Schulform VLK
+abgebildet.
+D. h. sie werden
+▪ der Schulform VLK (nicht der Schulform NDHS/PS!).
+▪ den Klassen und DAZ-Kursen der Schulform VLK
+zugeordnet.
+Bitte beachten Sie hierzu die Anleitung Deutschfördermaßnahme Vorlaufkurs.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+10
+
+3.2
+
+Übersicht über die Eintragung von Seiteneinsteigern in der LUSD
+
+Bezeichnung
+
+Seiteneinsteiger - Intensivklasse
+
+Seiteneinsteiger - Intensivkurs
+
+Schüler
+ist in der
+Schulstufe
+
+Schüler ist
+in einer Klasse
+der Schulform
+
+Kursdetails des Sprach-Förderkurses
+
+NDHS/PS
+NDHS/S1
+
+NDHS/PS
+NDHS/S1
+
+DAZ
+DAZ
+
+P
+P
+
+NDHS/S2
+
+NDHS/S2
+
+DAZ
+
+NDHS/PS
+NDHS/S1
+Intensivkurse sollen
+nach Möglichkeit nur in
+der Primarstufe
+
+Klasse, Schulform DAZ
+und Stufe einer
+DAZ
+Regelschulform,
+z.B. G3, H7;
+vorläufige
+
+gebildet werden.
+
+Einstufung
+
+Fach
+
+Kursart
+
+Kursoption Stunden/
+
+Schulform/
+
+RegelUnterricht
+
+Woche
+
+Stufe
+
+F
+F
+
+Mind. 18
+Mind. 22
+
+NDHS/PS
+NDHS/S1
+
+Eine Teilnahme am
+Unterricht von
+
+P
+
+F
+
+Mind. 28
+
+NDHS/S2
+(als Klassenunterricht)
+
+Regelklassen derselben Schule in
+einzelnen geeigneten Unterrichtsfächern ist
+anzustreben.
+
+P
+P
+
+F
+F
+
+Übergreifend
+(ÜG)
+
+Tabelle 1: Abbildung von Seiteneinsteigern in LUSD gemäß Absprache zwischen HMKB Referat III.4 in Kooperation mit II.3, II.4 und IV.2
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+11
+
+4
+
+Erfassen der Intensivsprachfördermaßnahmen für Seiteneinsteiger
+vorbereiten
+
+4.1
+
+NDHS-Schulformen zu Schulbezogenen Schulformen hinzufügen
+Die Schulform NDHS teilt sich auf in
+▪ NDHS/PS (Primarstufe)
+▪ NDHS/S1 (Sekundarstufe 1)
+▪ NDHS/S2 (Sekundarstufe 2 / Berufliche Schule)
+1. Überprüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN, ob die
+benötigte/n neue/n Schulformen in der Liste Ihrer SCHULBEZOGENEN SCHULFORMEN
+enthalten sind (Vgl. Abb. 1).
+2. Ist dies nicht der Fall, klicken Sie die benötigten Schulformen im linken Bereich
+OFFIZIELLE SCHULFORMEN an und klicken dann auf das Schaltsymbol .
+Die Schulformen werden in den rechten Bereich SCHULBEZOGENE SCHULFORMEN
+verschoben.
+3. Klicken Sie auf
+
+.
+
+4. Weisen Sie den Schulformen die Stufen/Semester zu (siehe 4.2).
+
+Abb. 1 Webseite Schulformen: Liste Schulbezogene Schulformen
+
+4.2
+
+Stufen/Semester der NDHS-Schulformen hinzufügen
+1. Haben Sie eine oder mehrere NDHS-Schulformen neu aufgenommen, weisen Sie jeder
+neuen Schulform auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER die
+benötigten Stufen zu (Vgl. Abb. 2).
+Für die NDHS-Schulformen gibt es nur die Stufen -/1 und -/2.
+2. Ordnen Sie jeder Stufe die gewünschten Halbjahre zu (Stufe -/1 z.B. im 1. Halbjahr) und
+klicken Sie dann auf
+.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+12
+
+Abb. 2 Webseite Stufen/Semester: Detailansicht Zuweisung der benötigten Stufen
+
+Hinweis
+▪ Nach dem Speichern erscheinen auf der Webseite SCHULE >
+
+SCHULBASISDATEN > STUNDENTAFEL für die jeweilige Schulform automatisch
+die Einträge für das Fach DAZ (Deutsch als Zweitsprache) – zu erkennen am
+Symbol
+(Abb. 3).
+▪ Das Fach ist mit der Kursart P, sowie mit 20 Wochenstunden angelegt. Es ist
+nicht als Klassenkurs gekennzeichnet.
+▪ Sie können die Stundentafel anpassen (siehe Kapitel 4.3)
+
+Abb. 3 Webseite Stundentafel: Automatische Anzeige der Einträge für das Fach DAZ
+
+4.3
+
+Stundentafel der NDHS-Schulformen anpassen
+DAZ als Fach der Deutsch-Intensivsprachförderung für Seiteneinsteiger verwenden
+ACHTUNG
+
+Verwenden Sie für alle Deutsch-Intensivsprachfördermaßnahmen für
+Seiteneinsteiger – also sowohl für den Kurs der Intensivklasse als auch für den
+Intensivkurs – das Fach DAZ (Deutsch als Zweitsprache), nicht das Fach
+Deutsch!.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+13
+
+Hinweis
+Sofern noch nicht vorhanden, müssen Sie das Fach DAZ auf der Webseite
+SCHULE > SCHULBASISDATEN > FÄCHER noch den schuleigenen Fächern
+zuordnen.
+
+Option Klassenkurs / Anpassen der Stundenzahlen
+▪ Sie können in der Stundentafel Ihrer NDHS-Schulformen für jede Stufe das Fach DAZ
+mit der Option KLASSENKURS kennzeichnen (vgl. Abb. 4).
+▪ Sobald Sie anschließend für eine dieser Stufen eine Klasse einrichten, wird
+automatisch ein Klassenkurs zu diesem Fach erzeugt und alle Schüler der Klasse
+werden diesem Kurs zugeordnet.
+Hinweis
+Falls Sie das Fach erst nachträglich als Klassenkurs in der Stundentafel
+kennzeichnen, müssen Sie den Klassenkurs auf der WEBSEITE UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG selbst anlegen (siehe Kap. 4.5).
+Beachten Sie dabei die tabellarische Übersicht in Kapitel 3.2.
+
+Abb. 4 Webseite Stundentafel: Fächer der Schulform NDHS/PS (Beispiel)
+
+▪ Sie können die Stundenzahl über das Dialogfenster ALLGEMEINES FACH DER
+STUNDENTAFEL BEARBEITEN im Feld STD/HJ anpassen. Die STD/WO werden für die
+Stundentafel dann automatisch neu berechnet.
+
+Abb. 5 Dialogfenster Allgemeines Fach der Stundentafel bearbeiten
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+14
+
+4.4
+
+Intensivklasse für Seiteneinsteiger anlegen
+1. Möchten Sie Seiteneinsteiger in einer Intensivklasse unterrichten (nach § 50 (3) der
+Verordnung zur Gestaltung des Schulverhältnisses), legen Sie diese Klasse auf der
+Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG in einer der NDHSSchulformen an (Abb. 6).
+
+Abb. 6 Dialogfenster Klasse hinzufügen: Beispiel für eine Intensivklasse
+
+2. Sobald Sie speichern, wird für diese Klasse der Klassenkurs zum Fach DAZ angelegt
+(sofern das Fach in der Stundentafel als Klassenkurs gekennzeichnet ist – Abb. 4).
+Hinweis
+Falls Sie das Fach erst nachträglich als Klassenkurs in der Stundentafel
+kennzeichnen, müssen Sie den Klassenkurs auf der Webseite UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG selbst anlegen (siehe Kap. 4.5).
+Beachten Sie dabei die tabellarische Übersicht in Kapitel 3.2.
+3. Weisen Sie die gewünschten Schüler einer NDHS-Schulform dieser Intensivklasse zu
+(siehe 5.3). Die Schüler erhalten automatisch den Klassenkurs.
+4. Rufen Sie den Kurs auf der Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG
+auf und weisen Sie ihm noch die Kursoption F (Förderunterricht) zu (siehe Abb. 7) .
+
+4.5
+
+Intensivkurs für Seiteneinsteiger anlegen
+1. Möchten Sie Seiteneinsteiger in einem Intensivkurs unterrichten (nach § 50 (4) der
+Verordnung zur Gestaltung des Schulverhältnisses), legen Sie diesen Kurs auf der
+Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG an.
+Hinweis
+Fach*
+
+DAZ
+
+Kursart*
+
+P - Pflichtkurs
+
+Kursoption
+
+F – Förderunterricht
+Bitte hier nicht die Kursoption „I - Intensivkurs“ auswählen!
+
+Bitte beachten Sie auch die Vorgaben der tabellarischen Übersicht in Kap. 3.2!
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+15
+
+Abb. 7 Dialogfenster Kurs anlegen: Beispiel für einen Intensivkurs
+
+2. Weisen Sie diesem Kurs dann die gewünschten Schüler mit einer NDHS-Schulform, die
+aber einer Regelkasse angehören, zu (siehe 5.3.2).
+
+5
+
+Intensivsprachfördermaßnahmen für Seiteneinsteiger in der LUSD erfassen
+
+5.1
+
+Vorbereitende Eintragungen auf der Seite Schülerstammdaten
+Nehmen Sie für die betreffenden Schüler auf der Webseite Schülerstammdaten folgende
+Einträge vor:
+▪ Im Feld STAATSANGEHÖRIGKEIT 1* müssen Sie die für den Schüler entsprechende
+Staatsangehörigkeit auswählen.
+▪ Im Feld ZUZUG NACH DEUTSCHLAND müssen Sie das Jahr eingeben, an dem der Schüler
+den ersten Kontakt mit einer deutschen Behörde hatte (Erstkontakt).
+Hinweis
+Bei in Deutschland geborenen Schülern, die gemäß den Anforderungen im
+Hinweis in Kapitel 2.1 im Einzelfall ausnahmsweise als Seiteneinsteiger erfasst
+werden, müssen Sie das Feld ZUZUG NACH DEUTSCHLAND leer lassen.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+16
+
+Abb. 8 Webseite Schülerstammdaten: Beispiel Eintragungen Nationalität
+
+5.2
+
+Seiteneinsteiger einer Schulform zuweisen
+
+5.2.1 Seiteneinsteiger, die neu aufgenommen werden
+1. Weisen Sie Schülern, die Sie neu als Seiteneinsteiger in Ihre Schule aufnehmen, bei der
+Schüleraufnahme auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > AUFNEHMEN /
+EINSCHULEN - REGISTER ZIELDATEN eine der NDHS-Schulformen zu.
+
+Abb. 9 Dialogfenster Zieldaten hinzufügen: Beispieleinträge
+
+5.2.2 Korrektur der Schulform bereits aufgenommener Schüler
+1. Weisen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+- Register INTERNER SCHULFORMÜBERGANG
+▪ Schülern, die fälschlicherweise nicht der NDHS-Schulform zugeordnet wurden,
+obwohl sie Seiteneinsteiger sind, eine der NDHS-Schulformen zu.
+▪ Schülern, die fälschlicherweise einer NDHS-Schulform zugeordnet sind, obwohl
+sie gar keine Seiteneinsteiger sind, eine Regelschulform zu.
+Hinweis
+Bitte beachten Sie hierzu die Hinweise zu Seiteneinsteigern in Kapitel 3 sowie die
+tabellarische Übersicht in Kapitel 3.2.
+2. Aktivieren Sie im Dialogfenster INFORMATIONEN ZUM ÜBERGANG das Aktuelle Halbjahr.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+17
+
+Abb. 10 Dialogfenster Interner Schulformübergang: Beispieleinträge
+
+3. Wählen Sie im Auswahlfeld WUNSCHSCHULFORM die zutreffende neue Schulform aus.
+ACHTUNG
+
+Folge des Internen Schulformübergangs:
+Eine eventuell bereits erfolgte Klassenzuordnung und die vorhandenen
+Kurse der Schüler gehen verloren. Beides müssen Sie wieder neu zuordnen.
+
+5.3
+
+Seiteneinsteiger einer Klasse und einer Intensivsprachfördermaßnahme zuweisen
+1. Je nachdem, welche Intensivsprachfördermaßnahme ein Seiteneinsteiger bekommt,
+weisen Sie ihm die entsprechende Klasse und den entsprechenden Kurs zu.
+Hinweis
+Bitte beachten Sie hierzu die Hinweise zu Seiteneinsteigern in Kapitel 3 sowie die
+tabellarische Übersicht in Kapitel 3.2.
+
+5.3.1 Seiteneinsteiger in einer Intensivklasse unterrichten
+1. Weisen Sie die gewünschten Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG
+> KLASSENBILDUNG der entsprechenden Intensivklasse zu.
+
+Abb. 11 Webseite Klassenbildung
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+18
+
+Hinweis
+▪ Die Schüler einer Intensivklasse müssen einer NDHS-Schulform zugeordnet
+sein.
+▪ Die Intensivklasse muss ebenfalls einer NDHS-Schulform zugeordnet sein.
+▪ Nach dem Speichern sind die Schüler automatisch dem Klassenkurs im Fach
+DAZ (Deutsch als Zweitsprache) zugeordnet (sofern das Fach in der
+Stundentafel als Klassenkurs gekennzeichnet ist – siehe Kap. 4.3).
+
+5.3.2 Seiteneinsteiger in Intensivkursen unterrichten
+1. Weisen Sie die gewünschten Seiteneinsteiger auf der Webseite UNTERRICHT > UVBEARBEITUNG > KLASSENBILDUNG der entsprechenden Klasse zu. Die Schüler erhalten
+dadurch automatisch die Klassenkurse dieser Klasse. Bei der Schulform der Klasse
+muss es sich um eine Regelschulform handeln.
+
+Abb. 12 Webseite Klassenbildung: Schüler mit SF NDHS einer Klasse mit Regelschulform zuordnen
+
+2. Weisen Sie die gewünschten Schüler auf der Webseite UNTERRICHT > UV-BEARBEITUNG
+> SCHÜLER-KURSZUORDNUNG zusätzlich dem gewünschten Intensivkurs zu.
+
+Abb. 13 Webseite Schüler-Kurszuordnung: Schüler mit SF NDHS einem Intensivkurs zuordnen
+
+3. Löschen Sie die Schüler aus solchen Kursen der Regelklasse, an denen sie nicht
+teilnehmen.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+19
+
+Abb. 14 Webseite Schüler-Kurszuordnung: Schüler im Kurs bearbeiten
+
+6
+
+Alphabetisierung
+
+6.1
+
+Alphabetisierungskurse und Alphabetisierungsklassen
+Gemäß § 51 der Verordnung zur Gestaltung des Schulverhältnisses (VOGS) wenden sich
+Alphabetisierungskurse an Schülerinnen und Schüler, die noch keine Schule besucht
+haben und/oder das lateinische Alphabet als weitere Schrift erlernen müssen. Sie finden im
+Rahmen der Unterrichtszeit in den Intensivklassen oder Intensivkursen statt.
+Auch separate Alphabetisierungsklassen können bei Bedarf gebildet werden.
+
+6.2
+
+Schülerindividuelles Merkmal „Alphabetisierung“
+Für die Erfassung der Alphabetisierung von Seiteneinsteigern wurden zwei neue
+SCHÜLERINDIVIDUELLE MERKMALE/FÖRDERARTEN in die LUSD aufgenommen:
+▪ Alphabetisierung - ohne schulische Vorkenntnisse
+▪ Alphabetisierung - ohne Kenntnisse der lateinischen Schrift
+Diese schülerindividuellen Merkmale sind bei nicht alphabetisierten Seiteneinsteigern auf
+der Seite HALBJ./SEM.-DATEN im Bereich SONSTIGE FÖRDERUNGEN mit dem Zeitraum „Von“
+und „Bis“ hinzuzufügen.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+20
+
+Abb. 15 Webseite Halbj./ Sem.-Daten: Neue Förderungsarten zur Alphabetisierung
+
+7
+
+Zeugnisse für Schüler der Schulform NDHS
+Für Schüler der Schulformen
+▪ NDHS/PS (allgemeinbildende Schulen)
+▪ NDHS/S1 (allgemeinbildende Schulen)
+▪ NDHS/S2 (berufliche Schulen)
+können die Halbjahreszeugnisse (VOGSV Anlage 4 und 6) seit Oktober 2022 mit der
+LUSD erstellt werden.
+Die Übergangszeugnisse für die Schüler der genannten Schulformen (VOGSV Anlage 5
+und 7) können seit August 2024 mit der LUSD erstellt werden.
+
+7.1
+
+Allgemeinbildende Schulen – Halbjahreszeugnis und Übergangszeugnis für die
+Schulformen NDHS/PS und NDHS/S1
+Für Schüler der Schulformen NDHS/PS und NDHS/S1 ist seit Oktober 2022 die Anlage 4
+der VOGSV („Halbjahreszeugnis“) und seit August 2024 die Anlage 5 der VOGSV
+(„Übergangszeugnis“) in der LUSD generierbar.
+
+7.1.1 Voraussetzungen
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER sind die Kursnoten für
+den Schüler erfasst.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+21
+
+Abb. 16 Webseite Schüler: Erfassung der Kursnoten
+
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER – Register
+VERBALBEURTEILUNG oder über den ENC des Klassenlehrers ist eine
+VERBALBEURTEILUNG für den Schüler erfasst.
+
+Abb. 17 Webseite Schüler: Verbalbeurteilung
+
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER – Register ARBEITS- UND
+SOZIALVERHALTEN ist eine Beurteilung des ARBEITS- UND SOZIALVERHALTENS des
+Schülers erfasst.
+
+Abb. 18 Webseite Schüler: Beurteilung des Arbeits- und Sozialverhaltens
+
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER – Register Versetzung /
+EIGNUNG ist im Bereich VERSETZUNG das Feld VERSETZUNG korrekt gepflegt.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+22
+
+Abb. 19 Webseite Schüler: Eintrag im Feld Versetzung
+
+Hinweis
+▪ Bei Versetzung ja erscheint folgende Bemerkung im Zeugnis:
+▪ „Nach Beschluss der Klassenkonferenz vom [Datum der Klassenkonferenz] ist
+die Sprachfördermaßnahme abgeschlossen.“
+▪ Bei Versetzung nein erscheint folgende Bemerkung im Zeugnis:
+▪ „[Name des Schülers] verbleibt nach Beschluss der Klassenkonferenz vom
+[Datum der Klassenkonferenz] für ein weiteres Schulhalbjahr in der
+Maßnahme“
+
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER sind die erreichten
+DEUTSCH GER-NIVEAUS erfasst.
+
+Abb. 20 Webseite Schüler: Deutsch GeR-Niveaus
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+23
+
+Maßnahmen der Pflege des GeR-Niveaus
+Hinsichtlich der Pflege der GeR-Niveaus gibt es vom zuständigen Fachreferat des HMKB
+folgende Maßgaben.
+A1 – elementar
+Sprechen: kann sich mit wenigen Worten verständigen, einfache Fragen stellen und
+beantworten und macht dabei nur wenige Fehler.
+Hören: kann gelernte Wörter und ganz einfache Sätze verstehen, wenn sehr langsam und
+deutlich gesprochen wird.
+Lesen: kann einzelne Wörter und ganz einfache Sätze verstehen, wenn sie mehrmals
+gelesen werden.
+Schreiben: kann kurze, einfache Sätze schreiben, wenn das Muster bekannt ist.
+A2 – elementar
+Sprechen: kann sich mit Hilfe in einfachen und bekannten Situationen des Alltags
+verständigen (z.B. Familie, Einkaufen, Schule).
+Hören: kann das Wichtige in kurzen, klaren und einfachen Mitteilungen und Texten
+verstehen, wenn es wiederholt wird und bekannt ist.
+Lesen: kann kurze, einfache Texte lesen und verstehen, auch wenn nicht alle Wörter
+bekannt sind.
+Schreiben: kann kurze, einfache Notizen, Mitteilungen und persönliche Briefe schreiben
+und benutzt das Wörterbuch dabei.
+B1 – selbstständig
+Sprechen: kann an Gesprächen über Familie, Hobbys, Schule oder aktuelle Ereignisse
+teilnehmen und fließend erzählen.
+Hören: kann ganz gut Gespräche verstehen, wenn es um Arbeit, Schule, Freizeit usw. geht
+und langsam und deutlich gesprochen wird.
+Lesen: kann neue Texte verstehen und Fragen dazu beantworten, wenn der Text einfach
+und das Thema bekannt ist.
+Schreiben: kann einfache Texte über vertraute Themen und Gefühle schreiben, kann
+etwas erklären oder begründen.
+
+Zwischenstufen sind möglich.
+Intensivklassen und INTEA-Maßnahmen haben als Ziel das B1-Niveau, von daher sind
+höhere Niveaus in der Regel nicht zu erwarten bzw. zu vergeben.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+24
+
+Hinweis
+Die Register der Seite LEISTUNGSERFASSUNG > SCHÜLER (außer ggf. Kursnoten)
+können durch die Klassenlehrkräfte auch über den ENC bzw. per Zugriff auf die
+LUSD über die Schul-ID gepflegt werden.
+
+7.1.2 Zeugnis erstellen
+1. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN.
+2. Wählen Sie die Klasse oder einzelne Schüler für die Zuordnung aus.
+3. Klicken Sie auf die Schaltfläche
+, um die Zeugnisse mit der Zeugnisart
+HALBJAHRESZEUGNIS oder SCHULWECHSELZEUGNIS zuzuweisen.
+
+Abb. 21 Webseite Zeugnis erstellen: Zuweisung der Zeugnisse
+
+Hinweis
+Prüfen Sie bei einer globalen Zuordnung von mehreren Schülern, ob für einzelne
+Schüler eine Zuordnung erfolgt ist, die nicht überschrieben werden darf!
+
+4. Wenn Sie im Register ZEUGNIS GENERIEREN eine Klasse auswählen, wird auf Grund der
+unterschiedlichen Schulformen ein gesondertes PDF für die Schüler mit den
+Schulformen NDHS/PS oder NDHS/S1 generiert.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+25
+
+Abb. 22 Webseite Zeugnis erstellen: Generierung der Zeugnisse für eine Klasse
+
+Die getrennte Generierung bzw. der getrennte Druck ist in diesem Kontext sinnvoll, weil
+die Zeugnisse der Schüler der Schulformen NDHS/PS und NDHS/S1 doppelseitig
+angelegt sind.
+Beispiel Zeugnis
+
+Abb. 23 Beispiel: Halbjahreszeugnis (allgemeinbildende Schule) SF NDHS, Seite 1
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+26
+
+Abb. 24 Bespiel: Halbjahreszeugnis (allgemeinbildende Schule) SF NDHS, Seite 2
+
+7.2
+
+Berufliche Schulen
+Für Schüler der Schulform NDHS/S2 ist seit Oktober 2022 die Anlage 6 der VOGSV
+(„Halbjahreszeugnis“) und seit August 2024 die Anlage 7 der VOGSV
+(„Übergangszeugnis“) in der LUSD generierbar.
+Hinweis
+Für dieses Zeugnis ist die Ausgabe von Arbeits- und Sozialverhalten, sowie die
+Teilnahme am Regelunterricht nicht vorgesehen. Freiwillige
+Unterrichtsveranstaltungen etc. können ausgewiesen werden.
+
+7.2.1 Voraussetzungen
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER sind die erreichten
+Deutsch GeR-Niveaus des Schülers erfasst.
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+27
+
+Abb. 25 Webseite Schüler: Deutsch GeR-Niveaus
+
+Hinweis
+Hinsichtlich der GeR-Erfassung beachten Sie bitte auch die Hinweise aus Kapitel
+7.1.1.
+
+▪ Auf der Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER – Register
+VERBALBEURTEILUNG oder über den ENC des Klassenlehrers ist eine
+VERBALBEURTEILUNG für den Schüler erfasst.
+
+Abb. 26 Webseite Schüler: Eintrag einer Verbalbeurteilung
+
+7.2.2 Zeugnis generieren
+1. Öffnen Sie die Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN.
+2. Wählen Sie die Klasse oder einzelne Schüler für die Zuordnung aus.
+3. Klicken Sie auf die Schaltfläche
+, um die Zeugnisse mit der Zeugnisart
+HALBJAHRESZEUGNIS oder SCHULWECHSELZEUGNIS zuzuweisen (siehe auch Kapitel
+7.1.2).
+
+Hinweis
+Prüfen Sie bei einer globalen Zuordnung von mehreren Schülern, ob für einzelne
+Schüler eine Zuordnung erfolgt ist, die nicht überschrieben werden darf!
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+28
+
+Beispiel Zeugnis
+
+Abb. 27 Beispiel: Halbjahreszeugnis (berufliche Schule) SF NDHS/S2, Seite 1
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+29
+
+Abb. 28 Beispiel: Halbjahreszeugnis (berufliche Schule) SF NDHS, Seite 2
+
+8
+
+Übergang aus der Intensivmaßnahme ins Regelsystem
+Mit Beschluss der Klassenkonferenz und der Bestätigung des Schulleiters über eine
+ausreichende Sprachkompetenz für den Besuch des Regelunterrichts kann ein Schüler von
+der Intensivmaßnahme in das Regelsystem vollständig wechseln. Folgende Übergänge aus
+einer Intensivmaßnahme sind grundsätzlich denkbar.
+
+8.1
+
+Wechsel aus der Intensivklasse in den Regelunterricht
+1. Gehen Sie auf die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG –
+Register INTERNER SCHULÜBERGANG.
+2. Suchen Sie sich den oder die Schüler über
+
+.
+
+3. Markieren Sie den oder die Schüler und klicken Sie auf
+
+.
+
+4. Ändern Sie im Dialogfenster INFORMATIONEN ZUM ÜBERGANG die
+Kandidateninformationen entsprechend.
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+30
+
+Abb. 29 Dialogfenster Informationen zum Übergang: Eintrag des Wechsels
+
+5. Klicken Sie auf
+
+und
+
+.
+
+6. Ordnen Sie den oder die Schüler der/den neuen Klasse/n zu (UNTERRICHT > UVBEARBEITUNG > KLASSENBILDUNG).
+7. Kontrollieren Sie die Kurse des Schülers / der Schüler (UNTERRICHT > UV-BEARBEITUNG
+> SCHÜLER > KURSZUORDNUNG).
+Hinweis
+Den Klassenkursen wurde/n der Schüler / die Schüler automatisch hinzugefügt.
+
+8.2
+
+Wechsel aus dem Intensivkurs in den Regelunterricht
+1. Gehen Sie auf die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG –
+Register INTERNER SCHULÜBERGANG.
+2. Suchen Sie sich den oder die Schüler über
+
+.
+
+3. Markieren Sie den oder die Schüler und klicken Sie auf
+
+.
+
+4. Ändern Sie im Dialogfenster INFORMATIONEN ZUM ÜBERGANG die
+Kandidateninformationen entsprechend.
+5. Klicken Sie auf
+
+und
+
+.
+
+Achtung
+Durch den Schulformübergang geht die Klassenzugehörigkeit des / der Schüler/s
+verloren, ebenso die Zugehörigkeit zu seinen / ihren bisherigen Kursen!
+
+6. Ordnen Sie den oder die Schüler der/den Klasse/n neu zu (UNTERRICHT > UVBEARBEITUNG > KLASSENBILDUNG).
+Hinweis
+Den Klassenkursen wird / werden der Schüler / die Schüler hierdurch
+automatisch hinzugefügt.
+
+7. Kontrollieren Sie die Kurse des Schülers / der Schüler (UNTERRICHT > UV-BEARBEITUNG
+> SCHÜLER > KURSZUORDNUNG).
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+31
+
+8.3
+
+Wechsel aus der Intensivklasse in einen Intensivkurs / in eine Klasse mit Regelschulform
+In Ausnahmefällen kann es erforderlich sein, Schüler aus der Intensivklasse in einen
+Intensivkurs und in eine Klasse mit Regelschulform zu überführen.
+Dies ist z. B. der Fall, wenn so viele Schüler aus einer Intensivklasse ins Regelsystem
+wechseln, dass die Mindestschülerzahl für eine Intensivklasse nicht mehr erreicht wird.
+In diesem Fall
+▪ müssen Sie die verbleibenden Schüler, die weiterhin eine Intensivmaßnahme benötigen,
+in einen Intensivkurs überführen.
+▪ müssen Sie diese Schüler einer Klasse mit Regelschulform zuordnen.
+▪ behalten die Schüler solange die Schulform NDHS, bis die Voraussetzungen für einen
+kompletten Wechsel ins Regelsystem erfüllt sind.
+Das Vorgehen für die Zuordnung zu einem Intensivkurs / zu einer Klasse mit
+Regelschulform finden Sie in Kapitel 5.3.2).
+
+8.4
+
+Wechsel aus einem Intensivkurs in eine Intensivklasse
+In Ausnahmefällen kann es erforderlich sein, Schüler aus einem Intensivkurs bzw. aus
+einer Klasse mit Regelschulform in eine Intensivklasse zu überführen.
+Dies ist z. B. der Fall, wenn die Mindestschülerzahl für die Bildung einer Intensivklasse
+durch die Aufnahme weiterer NDHS-Schüler erreicht wird.
+In diesem Fall
+▪ können die bisher in einem Intensivkurs geführten Schüler (ggfs. unter Berücksichtigung
+der vom HMKB veröffentlichten Plausibilisierungskriterien) in eine Intensivklasse
+überführt werden.
+▪ Da die Bildung von Intensivklassen die bevorzugte Intensivmaßnahme darstellt, gelten
+in Einzelfällen Schüler auch dann als plausibel für die Zuweisung der Intensivklasse,
+wenn ihre Daten im Widerspruch zu den veröffentlichten Plausibilisierungskriterien
+stehen. Rückfragen zu Einzelfällen sind mit dem zuständigen Aufnahme- und
+Beratungszentrum zu klären.
+▪ Das Vorgehen für die Zuordnung zu einer Intensivklasse finden Sie in Kapitel 5.3.
+▪ behalten die Schüler in ihren persönlichen Einstellungen die Schulform NDHS.
+
+HMKB | LUSD | Erfassen von Seiteneinsteigern (NDHS) | Version: 5.3 | 06.01.2025
+
+32
+
+

@@ -1,0 +1,1153 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD/ Schul-ID Hessen
+
+Leistungserfassung durchführen
+(Schul-ID Hessen)
+Eine Anleitung für Lehrkräfte, Klassen-, Kursleitungen und Prüfer
+
+Version: 2.3
+Letzter Stand: 16.01.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Voraussetzungen und Zielgruppe ................................................................................................... 4
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Klassenleitung
+1
+
+2
+
+Leistungen einer Klasse erfassen.......................................................................................... 6
+1.1
+
+Leistungserfassung > Klassen ..................................................................................... 6
+
+1.2
+
+Leistungserfassung > Schüler .................................................................................... 13
+
+Prüfungsergebnisse erfassen .............................................................................................. 18
+2.1
+
+3
+
+Prüfungen > FOS schriftlich ....................................................................................... 18
+
+Historische Leistungsdaten einsehen .................................................................................. 21
+
+Kursleitung
+4
+
+26
+
+Leistungen und ggf. Fehlzeiten eines Kurses erfassen ........................................................ 26
+4.1
+
+5
+
+6
+
+Leistungen und ggf. Fehlzeiten eines Kurses erfassen............................................... 26
+
+Prüfungsergebnisse erfassen .............................................................................................. 30
+5.1
+
+Prüfungen > Abitur schriftlich ..................................................................................... 30
+
+5.2
+
+Prüfungen > ZAA Hauptschulabschluss (Zentrale Abschlussarbeiten) und ZAA
+Mittlerer Abschluss (Zentrale Abschlussarbeiten) ....................................................... 32
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z. B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | Version: 2.3 | Letzter Stand: 16.01.2026
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Lehrkräfte können Leistungen ihrer Klassen und Kurse direkt in der LUSD erfassen
+Neu – als Alternative zu bisherigen Verfahren (z. B. ENC)
+Alle hessischen Lehrkräfte, die über ihre Schul-ID Hessen auf die LUSD zugreifen,
+können nun – unter den unten genannten Voraussetzungen –
+▪ Leistungen für die Schüler ihrer Klassen und Kurse erfassen.
+▪ und (als Klassenlehrer) deren Hist. Leistungsdaten einsehen.
+Alle Informationen zur Schul-ID Hessen sowie aktuelle Ankündigungen finden Sie unter
+https://schulid.hessen.de.
+Diese Anleitung informiert LUSD-Nutzer in Bezug auf folgende Themen:
+▪ Klassenleitung: Leistungen und Prüfungsergebnisse erfassen und Hist. Leistungen einsehen.
+▪ Kursleitung: Leistungen, Prüfungsergebnisse und ggf. Fehlzeiten erfassen.
+
+Voraussetzungen und Zielgruppe
+▪ Die Ersteinrichtung Ihrer Schul-ID Hessen ist bereits erfolgreich abgeschlossen.
+Alle Informationen zur Einrichtung der Schul-ID Hessen entnehmen Sie bitte der Anleitung zur
+Einrichtung der Schul-ID Hessen.
+▪ Sie können sich an der Schul-ID Hessen erfolgreich anmelden.
+Alle Informationen zur Anmeldung per Schul-ID Hessen entnehmen Sie bitte der Anleitung
+Schul-ID Hessen Anmeldung.
+▪ Ihr LUSD-Administrator
+▪ hat Sie als LUSD-Nutzer aktiviert.
+▪ hat für die Schulform/Stufe der Schüler Ihrer Klassen bzw. Kurse einen Zeitraum zur
+Leistungserfassung festgelegt.
+▪ Die Leistungserfassung der Schüler Ihrer Klassen bzw. Kurse erfolgt innerhalb des
+festgelegten Zeitraums.
+Diese Anleitung richtet sich an Sie als LUSD-Nutzer, wenn...
+▪ die oben genannten Voraussetzungen auf Sie zutreffen,
+▪ Sie sich über die Schul-ID Hessen in der LUSD angemeldet haben und
+▪ Sie nur über eingeschränkte Berechtigungen in der LUSD verfügen.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+4
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+5
+
+Klassenleitung
+1
+
+Leistungen einer Klasse erfassen
+Tipp
+Wenn Sie für Ihre Klasse(n)
+▪
+▪
+▪
+▪
+
+Noten
+Fehlzeiten
+Arbeits- und Sozialverhalten
+Bemerkungen
+
+erfassen möchten, bietet es sich an, mit der Webseite LEISTUNGSERFASSUNG >
+KLASSEN (Kap. 1.1) zu arbeiten.
+
+Die Erfassung der schülerindividuellen
+▪ Einstufung
+▪ Versetzung/Eignung
+▪ Kompetenzen
+kann (zurzeit noch) nur auf der Webseite LEISTUNGSERFASSUNG > SCHÜLER (Kap.
+1.2) vorgenommen werden. Hier können zudem auch (schülerindividuell) Noten,
+Fehlzeiten, Arbeits- und Sozialverhalten und Bemerkungen erfasst werden.
+
+1.1
+
+Leistungserfassung > Klassen
+Auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN können Sie die Leistungen
+der Schüler Ihrer Klasse/n klassenweise erfassen.
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 1 Startseite: Navigation Leistungen
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+6
+
+2. Klicken Sie auf den Untermenüpunkt LEISTUNGSERFASSUNG.
+
+Abb. 2 Startseite: Navigation Leistungserfassung
+
+3. Klicken Sie auf den Untermenüpunkt KLASSEN.
+
+Abb. 3 Webseite Klassen
+
+▪ Im rechten Bereich KLASSEN werden Ihnen die Schüler Ihrer Klasse/n mit ihren Daten
+und REGISTERN angezeigt. Initial
+▪ ist das Register NOTEN aktiv,
+▪ als Kursart PFLICHTKURS eingestellt
+▪ werden alle Schüler Ihrer (ersten) Klasse aufgeführt.
+
+Abb. 4 Webseite Klassen: Register
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+7
+
+Tipp
+Durch Klick auf den Registernamen können Sie in ein anderes Register wechseln:
+▪
+▪
+▪
+▪
+▪
+
+NOTEN
+FEHLZEITEN
+ARBEITS- UND SOZIALVERHALTEN
+BEMERKUNGEN
+VERSETZUNG/EIGNUNG
+
+Achtung
+Sie können die Fehlzeiten / das Arbeits- und Sozialverhalten / die Bemerkungen /
+die Leistungen für Ihre Klasse/n nur erfassen, wenn
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler ein
+Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER
+entsprechend informiert:
+
+Abb. 5 Webseite Schüler: Hinweise
+
+Ob Fehlzeiten klassen- oder kursweise erfasst werden, wird ebenfalls von Ihrem
+LUSD-Administrator gesteuert. Wenn für die Schulform/Stufe Ihrer Klasse eine
+kursweise Erfassung festgelegt wurde, erscheint im Register FEHLZEITEN folgende
+Hinweismeldung:
+
+Abb. 6 Hinweis: Eingabe in 11/2 nicht möglich
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die die Fehlzeiten / das
+Arbeits- und Sozialverhalten / die Bemerkungen / die Leistungen Ihrer Klasse/n
+nicht bearbeiten können!
+
+Im Folgenden wird die Erfassung der Kursnoten im Register NOTEN erläutert. Umfassende
+Informationen zur Leistungserfassung unter Berücksichtigung aller Register können Sie der
+Anleitung Leistungen in der LUSD erfassen entnehmen.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+8
+
+1.1.1 Notenerfassung
+1. Klicken Sie auf das Register NOTEN.
+2. Wählen Sie im Feld KURSART die gewünschte Kursart aus.
+Es werden bei den Schülern nur Kurse der gewählten Kursart angezeigt!
+
+Abb. 7 Webseite Klassen: Auswahl der Kursart
+
+3. Klicken Sie in der Zeile des betroffenen Schülers in der Spalte des betroffenen Faches
+in das entsprechende Feld und geben die Noten/Punkte über die Tastatur ein oder
+nutzen die Auswahlliste.
+Stellen Sie Punkten unter 10 eine 0 voran (z. B. 08).
+
+Abb. 8 Webseite Klassen: Eingabe der Leistungen im Register Noten
+
+Hinweis
+▪ Sie können nur die Noten eingeben, die in der Auswahlliste vorkommen. Je
+nach Schulform und Stufe des Schülers sehen Sie den im System
+festgelegten Notenbereich.
+▪ Eine Änderung der Noten ist innerhalb eines Halbjahres immer möglich.
+▪ Wenn Sie die Auswahl *) verwenden, müssen Sie dem Schüler eine
+Zeugnisbemerkung zuweisen.
+▪ Die Note eines externen Kurses pflegt die externe Schule und kann von
+Ihnen auf der Seite LEISTUNGSERFASSUNG > KURSE nicht eingesehen,
+erfasst oder geändert werden! Sollte eine Änderung nötig sein, müssen
+Sie Kontakt mit der entsprechenden Schule aufnehmen (siehe
+SCHULNUMMER in der Spalte EXTERNER KURS auf der Seite
+LEISTUNGSERFASSUNG > SCHÜLER)
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+9
+
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+E
+
+Mit Erfolg teilgenommen
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit
+
+4. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Notenfeld.
+5. Wenn Sie alle gewünschten Noten erfasst haben, klicken Sie auf die Schaltfläche
+SPEICHERN.
+1.1.2 Klassensuche
+Die Schüler Ihrer Klasse/n und Ihre Klassen werden Ihnen in alph. Reihenfolge angezeigt.
+Um die Schüler einer Klasse auszuwählen, deren Leistungen Sie erfassen wollen, haben
+Sie folgende Möglichkeiten:
+1. Im oberen Bereich
+Klasse blättern.
+
+können Sie über
+
+zur vorherigen oder nächsten
+
+2. Durch Klick auf das Schaltsymbol
+öffnet sich das Dialogfenster KLASSE UND
+SORTIERUNG AUSWÄHLEN. Hier werden alle Klassen angezeigt, denen Sie als
+Klassenleitung zugewiesen sind.
+
+Abb. 9 Webseite Klassen: Dialogfenster Klasse und Sortierung auswählen
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+10
+
+Sie können nach Spalteneinträgen filtern, nach Klassenbezeichnungen sortieren und
+eine Klasse auswählen, indem Sie auf den entsprechenden Datensatz klicken.
+Durch anschließenden Klick auf die Schaltfläche ANZEIGEN werden die Schüler der
+ausgewählten Klasse auf die Seite LEISTUNGSERFASSUNG > KLASSEN übernommen.
+3. Durch Klick auf
+können Sie im Dialogfenster KLASSENSUCHE gezielt nach einer
+Ihrer Klassen suchen und sie auf die Seite übernehmen.
+
+Abb. 10 Webseite Klassen: Dialogfenster Klassensuche
+
+4. Klicken Sie dazu in der Ebenenauswahl zunächst auf das Erweiterungssymbol
+der zutreffenden Schulform, hierdurch werden Ihnen alle Stufen der Schulform
+angezeigt:
+
+neben
+
+Abb. 11 Webseite Klassen: Dialogfenster Klassensuche, Ebenenauswahl
+
+5. Klicken Sie anschließend in die Kontrollkästchen vor der / den Stufen der Klasse/n, die
+Sie auf die Seite übernehmen möchten.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+11
+
+Abb. 12 Webseite Klassen: Dialogfenster Klassensuche, Auswahl einer Stufe
+
+6. Klicken Sie auf
+Klasse/n angezeigt.
+
+. Im Register ERGEBNIS wird / werden Ihnen die entsprechende/n
+
+Abb. 13 Webseite Klassen: Dialogfenster Klassensuche, Ergebnis der Suche
+
+Durch Klick auf eine Klasse und Klick auf
+(oder direkt
+) wird /
+werden die Klasse/n auf die Seite LEISTUNGSERFASSUNG > KLASSEN übernommen.
+7. Wenn Sie alle gewünschten Noten eingegeben und gespeichert haben und keine
+weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche
+SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+8. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+12
+
+1.2
+
+Leistungserfassung > Schüler
+Auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER können Sie die Leistungen
+der Schüler Ihrer Klasse/n einzeln erfassen
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 14 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt LEISTUNGSERFASSUNG.
+
+Abb. 15 Startseite Navigation Leistungserfassung
+
+3. Klicken Sie auf den Untermenüpunkt SCHÜLER
+
+Abb. 16 Webseite Schüler: Schülerübersicht
+
+Im rechten Bereich SCHÜLER wird Ihnen der erste Schüler Ihrer Klasse/n mit seinen Daten
+und REGISTERN angezeigt.
+
+Abb. 17 Webseite Schüler: Daten und Register des Schülers
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+13
+
+Tipp
+Durch Klick auf den Registernamen können Sie in ein anderes Register wechseln.
+Anzahl und Art der Register sind abhängig vom Schultyp, der Schulform und
+Förderart des Schülers. Im gezeigten Beispiel können Sie folgende Register
+bearbeiten:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+KURSNOTEN
+FEHLZEITEN
+ARBEITS- UND SOZIALVERHALTEN
+BEMERKUNGEN
+EINSTUFUNG
+VERSETZUNG/EIGNUNG
+KOMPETENZEN
+
+Initial ist das Register KURSNOTEN aktiv. In diesem Register werden alle Kurse aufgeführt,
+die der Schüler im aktuellen Halbjahr belegt hat. Sofern bereits Leistungen für diese Kurse
+erfasst wurden, werden sie in der Zeile des entsprechenden Kurses angezeigt.
+Achtung
+Sie können Leistungen für Ihre Klasse/n nur erfassen, wenn
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler ein
+Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER
+entsprechend informiert:
+
+Abb. 18 Webseite Schüler: Hinweise
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die Leistungen eines
+Schülers nicht bearbeiten können!
+
+Im Folgenden wird die Erfassung der Kursnoten im Register KURSNOTEN erläutert.
+Umfassende Informationen zur Leistungserfassung unter Berücksichtigung aller Register
+können Sie der Anleitung Leistungen in der LUSD erfassen entnehmen.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+14
+
+1.2.1 Notenerfassung
+1. Klicken Sie beim ausgewählten Schüler in der Spalte NOTE in das gewünschte Feld und
+geben die Noten/Punkte direkt ein. Stellen Sie Punkten unter 10 eine 0 voran (z. B. 08).
+Alternativ können Sie die Auswahlliste nutzen.
+
+Abb. 19 Webseite Schüler: Eingabe der Leistungen im Register Kursnoten
+
+Hinweis
+▪ Sie können nur die Noten eingeben, die in der Auswahlliste vorkommen. Je
+nach Schulform und Stufe des Schülers sehen Sie den im System
+festgelegten Notenbereich.
+▪ Eine Änderung der Noten ist innerhalb eines Halbjahres immer möglich.
+▪ Wenn Sie die Auswahl *) verwenden, müssen Sie dem Schüler eine
+Zeugnisbemerkung zuweisen.
+▪ Die Note eines externen Kurses pflegt die externe Schule und kann von
+Ihnen nicht geändert werden! Sollte eine Änderung nötig sein, müssen Sie
+Kontakt mit der entsprechenden Schule aufnehmen (siehe SCHULNUMMER in
+der Spalte EXTERNER KURS)
+
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+E
+
+Mit Erfolg teilgenommen
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+15
+
+2. Wenn Sie alle gewünschten Noten des Schülers vergeben haben, klicken Sie auf die
+Schaltfläche SPEICHERN.
+3. Wählen Sie den nächsten Schüler aus und wiederholen die Schritte 1 und 2.
+1.2.2 Schülersuche
+Die Schüler Ihrer Klasse/n werden Ihnen in alphabetischer Reihenfolge angezeigt. Um
+einen Schüler auszuwählen, dessen Leistungen Sie erfassen wollen, haben Sie folgende
+Möglichkeiten:
+1. Im oberen Bereich
+nächsten Schüler blättern.
+
+können Sie über
+
+zum vorherigen oder
+
+2. Durch Klick auf das Schaltsymbol
+öffnet sich das Dialogfenster SCHÜLER UND
+SORTIERUNG AUSWÄHLEN. Hier werden alle Schüler Ihrer Klasse/n angezeigt. Sie können
+einen Schüler auswählen, indem Sie auf seinen Datensatz klicken.
+
+Abb. 20 Webseite Schüler: Dialogfenster Schüler und Sortierung auswählen
+
+Durch anschließenden Klick auf die Schaltfläche ANZEIGEN wird der ausgewählte
+Schüler auf die Seite LEISTUNGSERFASSUNG > SCHÜLER übernommen.
+3. Durch Klick auf
+können Sie im Dialogfenster SCHÜLERSUCHE gezielt nach
+Schüler Ihrer Klassen suchen und sie auf die Seite übernehmen.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+16
+
+Abb. 21 Webseite Schüler: Dialogfenster Schülersuche
+
+4. Wenn Sie alle gewünschten Noten eingegeben und gespeichert haben und keine
+weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche
+SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+5. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+17
+
+2
+
+Prüfungsergebnisse erfassen
+
+2.1
+
+Prüfungen > FOS schriftlich
+Die Seite FOS SCHRIFTLICH ermöglicht Ihnen als Klassenleitung die Eingabe der
+Ergebnisse der schriftlichen Abschlussprüfungen FOS der Schüler Ihrer Abschlussklasse.
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 22 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt PRÜFUNGEN.
+
+Abb. 23 Startseite: Navigation Prüfungen
+
+3. Klicken Sie auf den Untermenüpunkt FOS SCHRIFTLICH.
+
+Abb. 24 Webseite FOS schriftlich: Eingabe der schriftlichen Prüfungsergebnisse der FOS
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+18
+
+Hinweis
+Prüflinge werden auf der Webseite nur angezeigt, wenn sie mindestens den
+Status erfolgreiche Belegungsprüfung (ein blauer Balken) haben.
+Die Ergebnisse der schriftlichen Prüfungsergebnisse können auf der Webseite
+noch eingesehen, aber nicht mehr geändert werden, wenn die Prüflinge in
+einem der folgenden Status sind:
+▪
+▪
+▪
+▪
+▪
+
+Rücktritt von der Prüfung nach §15 (zwei rote Balken)
+Prüfung bestanden, mündliche Prüfung möglich (drei grüne Balken)
+Prüfung nicht bestanden, mündliche Prüfung notwendig (drei gelbe Balken)
+Mündliche Prüfungen sind ausgewählt (drei blaue Balken)
+Mündliche Prüfungen sind erfasst (vier blaue Balken)
+
+▪ FOS Abschluss zuerkannt (vier grüne Balken)
+▪ FOS Prüfung nicht bestanden (vier rote Balken)
+
+Abb. 25 Webseite FOS Schriftlich: Änderung der Ergebnisse nicht mehr möglich
+
+Sollten Änderungen an den Prüfungsnoten dennoch notwendig sein, kann dies
+nur von jemandem mit weitergehenden Berechtigungen durchgeführt werden.
+2.1.1 Erfassung der Prüfungsleistungen
+1. Klicken Sie beim betroffenen Schüler in der Spalte des jeweiligen Prüfungsfaches in das
+Notenfeld und geben die Punkte über die Tastatur ein oder nutzen die Auswahlliste.
+Stellen Sie Punkten unter 10 eine 0 voran (z. B. 08).
+
+Abb. 26 Webseite FOS schriftlich: Eingabe der Prüfungsleistungen
+
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Notenfeld. Mit der Pfeil-nachunten–Taste gelangen Sie zum darunter liegenden Notenfeld.
+3. Wenn Sie alle gewünschten Leistungen erfasst haben, klicken Sie auf die Schaltfläche
+SPEICHERN.
+4. Wenn Sie alle gewünschten Leistungen eingegeben und gespeichert haben und keine
+weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche
+SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+5. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+19
+
+2.1.2 Status der Erfassung
+Der Wert des Status (
+ermittelt.
+
+oder
+
+) wird aus den Eintragungen der Prüfungsergebnisse
+
+▪ Symbol grünes Quadrat mit Haken
+, wenn alle Noten vollständig gespeichert wurden.
+▪ Symbol grauer Strich
+, wenn mindestens eine Note fehlt.
+Achtung
+Sie können die Ergebnisse der Abschlussprüfungen nur erfassen, wenn
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler ein
+Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > PRÜFUNGEN > FOS SCHRIFTLICH
+entsprechend informiert:
+
+Abb. 27 Webseite FOS schriftlich: Hinweise
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die Prüfungsleistungen
+Ihrer Klasse/n nicht bearbeiten können!
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+20
+
+3
+
+Historische Leistungsdaten einsehen
+Auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > HIST. LEISTUNGSDATEN können Sie die
+Leistungen der Schüler Ihrer Klassen einsehen.
+Achtung: Änderungen können vorgenommen, aber nicht gespeichert werden!
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 28 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt LEISTUNGSERFASSUNG.
+
+Abb. 29 Startseite: Navigation Leistungserfassung
+
+3. Klicken Sie auf den Untermenüpunkt HISTORISCHE LEISTUNGSDATEN.
+
+Abb. 30 Webseite Historische Leistungsdaten
+
+4. Klicken Sie auf die Schaltfläche
+SCHÜLERSUCHE.
+
+. Es öffnet sich das Bearbeitungsfenster
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+21
+
+Abb. 31 Bearbeitungsfenster Schülersuche
+
+5. Geben Sie in den Feldern NACHNAME, SCHULFORM, STUFE oder KLASSE gezielt Daten ein
+oder springen Sie direkt zu Schritt 6.
+6. Klicken Sie auf
+Klasse/n angezeigt.
+
+. In der Ergebnistabelle werden die (gesuchten) Schüler Ihrer
+
+7. Wählen Sie einzelne Datensätze durch Klick aus und klicken Sie auf
+wählen Sie direkt
+.
+
+oder
+
+Die (ausgewählten) Datensätze werden auf die Seite HIST. LEISTUNGSDATEN
+übernommen.
+Im rechten Bereich wird der erste ausgewählte Schüler mit seinen Daten und REGISTERN
+angezeigt.
+
+Abb. 32 Webseite Historische Leistungsdaten: Daten und Register eines Schülers
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+22
+
+Tipp
+Durch Klick auf den Registernamen können Sie in ein anderes Register wechseln.
+Anzahl und Art der Register sind abhängig vom Schultyp, der Schulform und
+Förderart des Schülers. Im gezeigten Beispiel können Sie folgende Register
+ansehen:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+KURSNOTEN
+FEHLZEITEN
+ARBEITS- UND SOZIALVERHALTEN
+BEMERKUNGEN
+EINSTUFUNG
+VERSETZUNG/EIGNUNG
+KOMPETENZEN
+
+Initial ist das Register KURSNOTEN aktiv. In diesem Register werden alle Kurse aufgeführt,
+die der Schüler im aktuellen Halbjahr belegt hat. Sofern bereits Leistungen für diese Kurse
+erfasst wurden, werden sie im entsprechenden Halbjahr angezeigt.
+Über den Tooltipp erhalten Sie nähere Informationen zu den belegten Kursen (der Tooltipp
+erscheint, wenn Sie mit der Maus in der Spalte eines Halbjahres langsam über eine
+eingetragene Note fahren).
+
+Abb. 33 Webseite Historische Leistungsdaten: Tooltipp
+
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+E
+
+Mit Erfolg teilgenommen
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+23
+
+Abk.
+
+Bedeutung
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit
+
+Hinweis
+Über die Schaltfläche
+können Sie auswählen, welche
+Halbjahre des Schülers im Register KURSNOTEN angezeigt werden sollen.
+
+Abb. 34 Dialogfenster Semester Anzeige Optionen
+
+3.1.1 Schülersuche
+Die Schüler Ihrer Klasse/n werden Ihnen in alphabetischer Reihenfolge angezeigt. Um
+einen Schüler auszuwählen, dessen Leistungen Sie erfassen wollen, haben Sie folgende
+Möglichkeiten:
+1. Im oberen Bereich
+nächsten Schüler blättern.
+
+können Sie über
+
+zum vorherigen oder
+
+2. Durch Klick auf das Schaltsymbol
+öffnet sich das Dialogfenster SCHÜLER UND
+SORTIERUNG AUSWÄHLEN. Hier werden alle Schüler angezeigt, die Sie zuvor auf die Seite
+übernommen haben. Sie können einen Schüler auswählen, indem Sie auf seinen
+Datensatz klicken.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+24
+
+Abb. 35 Webseite Schüler: Dialogfenster Schüler und Sortierung auswählen
+
+Durch anschließenden Klick auf die Schaltfläche ANZEIGEN wird der ausgewählte
+Schüler auf die Seite LEISTUNGSERFASSUNG > SCHÜLER übernommen.
+3. Durch Klick auf
+können Sie im Dialogfenster Schülersuche gezielt nach
+Schüler Ihrer Klassen suchen und sie auf die Seite übernehmen (siehe Schritt 4. ).
+4. Wenn Sie alle gewünschten Leistungen eingesehen haben und keine weiteren Eingaben
+in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche SCHLIEßEN. Hierdurch
+gelangen Sie wieder auf die LUSD Startseite.
+5. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+
+Hinweis
+Umfassende Informationen zur Leistungserfassung unter Berücksichtigung aller
+Register entnehmen Sie bitte der Anleitung Leistungen in der LUSD erfassen.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+25
+
+Kursleitung
+4
+
+Leistungen und ggf. Fehlzeiten eines Kurses erfassen
+
+4.1
+
+Leistungen und ggf. Fehlzeiten eines Kurses erfassen
+Auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE können Sie die Leistungen und
+gegebenenfalls Fehlzeiten der Schüler Ihrer Kurse erfassen
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 36 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt LEISTUNGSERFASSUNG.
+
+Abb. 37 Startseite: Navigation Leistungserfassung
+
+3. Klicken Sie auf den Untermenüpunkt KURSE.
+
+Abb. 38 Webseite Kurse: geöffnete Webseite
+
+Im rechten oberen Bereich sehen Sie die Felder LEHRKRAFT, SF/BK, KLASSE und KURS.
+Zudem werden die Kursinformationen des Kurses angezeigt, der im Feld KURS
+ausgewählt ist.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+26
+
+Abb. 39 Webseite Kurse: Kursinformationen
+
+4. Klicken Sie in das Feld KURS. Es öffnet sich eine Auswahlliste. Hier finden Sie alle
+Kurse, für die Sie als Kurslehrer eingetragen sind.
+
+Abb. 40 Webseite Kurse: Auswahlliste Kurse
+
+5. Klicken Sie auf den Kurs in der Auswahlliste, für den Sie die Noten erfassen möchten.
+Der ausgewählte Kurs wird in das Feld KURS übernommen.
+6. Klicken Sie auf die Schaltfläche FILTER. In der Ergebnistabelle werden Ihnen alle Schüler
+des ausgewählten Kurses angezeigt.
+
+Abb. 41 Webseite Kurse: Anzeige aller Schüler des ausgewählten Kurses
+
+Wenn die Erfassung der Fehlzeiten kursweise erfolgen soll, sehen Sie zudem die
+Spalten
+▪ GES. FSTD. (gesamte Fehlstunden)
+▪ UNE. FSTD. (unentschuldigte Fehlstunden)
+Die Sichtbarkeit der Spalten wird durch Ihren LUSD-Administrator gesteuert.
+
+Abb. 42 Webseite Kurse: Zusätzliche Spalten
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+27
+
+Hinweis
+Sie können die Leistungen und ggf. die Fehlzeiten der Schüler Ihrer Kurse nur
+erfassen, wenn
+▪ Sie als Hauptlehrkraft (HL) eingetragen wurden. Dies ist auch für mehrere
+Lehrkräfte im gleichen Kurs möglich.
+
+Abb. 43 Kennzeichnung als Hauptlehrer (HL)
+
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler
+ein Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE
+entsprechend informiert:
+
+Abb. 44 Webseite Kurse: Hinweis
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die Leistungen bzw.
+Fehlzeiten eines Schülers nicht bearbeiten können!
+
+4.1.1 Leistungserfassung
+1. Klicken Sie in der Spalte NOTE in das gewünschte Feld und geben die Noten/Punkte
+direkt ein oder nutzen Sie die Auswahlliste. Stellen Sie Punkten unter 10 eine 0 voran
+(z. B. 08).
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+E
+
+Mit Erfolg teilgenommen
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+28
+
+Abk.
+
+Bedeutung
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit
+
+2. Wenn Sie alle gewünschten Noten eines Kurses vergeben haben, klicken Sie auf die
+Schaltfläche SPEICHERN.
+3. Wenn Sie alle gewünschten Noten und ggf. Fehlzeiten eingegeben und gespeichert
+haben und keine weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf
+die Schaltfläche SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+4. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto.
+4.1.2 Erfassen der Fehlzeiten
+1. Um ggf. die Fehlzeiten der Schüler einzugeben, klicken Sie in den Spalten GES. FSTD. /
+UNE. FSTD. in das gewünschte Feld und geben die Fehlstunden über die Tastatur ein.
+2. Wenn Sie alle Fehlzeiten eines Kurses eingegeben haben, klicken Sie auf die
+Schaltfläche SPEICHERN.
+4.1.3 Weitere Note und Fehlzeiten eintragen
+1. Um die Noten bzw. ggf. Fehlzeiten weiterer Kurse einzugeben, klicken Sie erneut in das
+Feld KURS.
+2. Wählen Sie den gewünschten Kurs aus und wiederholen die in diesem Kapitel
+(Leistungen und ggf. Fehlzeiten eines Kurses erfassen) beschriebenen Schritte.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+29
+
+5
+
+Prüfungsergebnisse erfassen
+
+5.1
+
+Prüfungen > Abitur schriftlich
+Die Seite ABITUR SCHRIFTLICH ermöglicht Ihnen die Eingabe der Ergebnisse der
+schriftlichen Abiturprüfungen Ihrer eigenen Prüflinge, sofern Sie auf der Seite LEISTUNGEN >
+ABSCHLÜSSE > ABITUR als Prüfer im schriftlichen Abitur erfasst sind.
+1. Klicken Sie auf den Menüpunkt Leistungen.
+
+Abb. 45 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt PRÜFUNGEN.
+
+Abb. 46 Startseite: Navigation Prüfungen
+
+3. Klicken Sie auf den Untermenüpunkt ABITUR SCHRIFTLICH.
+
+Abb. 47 Webseite Abitur schriftlich
+
+Hinweis
+Die Ergebnisse der schriftlichen Abiturprüfungen können von den Prüfern auf der
+Webseite eingesehen, aber nicht mehr geändert werden, wenn die Prüflinge
+einen der folgenden Status besitzen:
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+30
+
+▪ Zusatzprüfung beantragt (vier gelbe Balken)
+▪ Abiturabschluss nicht bestanden (vier rote Balken)
+▪ Abiturabschluss bestanden (vier grüne Balken)
+
+5.1.1 Erfassen der Abiturprüfungsergebnisse
+1. Klicken Sie beim betroffenen Schüler in der Spalte des jeweiligen Prüfungsfaches in das
+Notenfeld und geben die Punkte über die Tastatur ein oder nutzen die Auswahlliste.
+Stellen Sie Punkten unter 10 eine 0 voran (z. B. 08).
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Notenfeld.
+3. Wenn Sie alle gewünschten Leistungen erfasst haben, klicken Sie auf die Schaltfläche
+SPEICHERN.
+4. Wenn Sie alle gewünschten Leistungen eingegeben und gespeichert haben und keine
+weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche
+SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+5. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+5.1.2 Status der Erfassung
+Der Wert des Status (
+ermittelt.
+
+oder
+
+) wird aus den Eintragungen der Prüfungsergebnisse
+
+▪ Symbol grünes Quadrat mit Haken
+, wenn alle Noten vollständig gespeichert wurden.
+▪ Symbol grauer Strich
+, wenn mindestens eine Note fehlt.
+Hinweis
+Sie können die Ergebnisse der schriftlichen Abiturprüfungen nur erfassen, wenn
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler ein
+Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > PRÜFUNGEN > ABITUR SCHRIFTLICH
+entsprechend informiert:
+
+Abb. 48 Webseite Abitur schriftlich: Hinweise
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die Ergebnisse der
+schriftlichen Abiturprüfungen Ihrer Prüflinge nicht bearbeiten können!
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+31
+
+5.2
+
+Prüfungen > ZAA Hauptschulabschluss (Zentrale Abschlussarbeiten) und ZAA
+Mittlerer Abschluss (Zentrale Abschlussarbeiten)
+Die Seiten
+▪ ZAA HAUPTSCHULABSCHLUSS und
+▪ ZAA MITTLERER ABSCHLUSS
+ermöglichen Ihnen eine Eingabe der Prüfungsergebnisse der zentralen Abschlussarbeiten,
+wenn Sie als Kursleitung einem oder mehreren Abschlusskursen zugeordnet sind.
+1. Klicken Sie auf den Menüpunkt LEISTUNGEN.
+
+Abb. 49 Startseite: Navigation Leistungen
+
+2. Klicken Sie auf den Untermenüpunkt PRÜFUNGEN.
+
+Abb. 50 Startseite: Navigation Prüfungen
+
+▪ Klicken Sie auf den Untermenüpunkt ZAA HAUPTSCHULABSCHLUSS oder ZAA MITTLERER
+ABSCHLUSS.
+
+Abb. 51 Webseite ZAA Mittlerer Abschluss
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+32
+
+5.2.1 Erfassung der Prüfungsleistungen
+1. Klicken Sie in der Zeile des Schülers, dessen Leistung Sie erfassen möchten, auf die
+Schaltfläche
+ABSCHLUSSARBEITEN.
+
+. Es öffnet sich das Bearbeitungsfenster ZENTRALE
+
+Abb. 52 Webseite ZAA Mittlerer Abschluss – Bearbeitungsfenster Zentrale Abschlussarbeiten
+
+2. Bewerten Sie alle notwendigen Teile der Abschlussarbeit.
+3. Klicken Sie auf
+4. Klicken Sie auf
+
+und anschließend auf
+
+.
+
+.
+
+5. Wiederholen Sie die Schritte 1. bis 4. für alle Schüler, deren Leistung Sie erfassen
+möchten.
+6. Wenn Sie alle gewünschten Leistungen eingegeben und gespeichert haben und keine
+weiteren Eingaben in der LUSD vornehmen möchten, klicken Sie auf die Schaltfläche
+SCHLIEßEN. Hierdurch gelangen Sie wieder auf die LUSD Startseite.
+7. Um sich von der LUSD abzumelden, klicken Sie im oberen Bereich der LUSD Startseite
+auf Ihren Namen. Es öffnet sich ein Fenster zu Ihrem Benutzerkonto. Klicken Sie auf
+ABMELDEN.
+5.2.2 Status der Erfassung
+Der Wert des Status (
+ermittelt.
+
+oder
+
+) wird aus den Eintragungen der Prüfungsergebnisse
+
+▪ Symbol grünes Quadrat mit Haken , wenn eine Note für die Abschlussarbeit ermittelt
+wurde.
+▪ Symbol grauer Strich
+, wenn keine Note für die Abschlussarbeit ermittelt wurde.
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+33
+
+Achtung
+Sie können die Prüfungsergebnisse der zentralen Abschlussarbeiten nur erfassen,
+wenn
+▪ von Ihrem LUSD-Administrator für die jeweilige Schulform/Stufe der Schüler ein
+Zeitraum zur Leistungserfassung festgelegt wurde und
+▪ Ihre Noteneingabe innerhalb dieses Zeitraums erfolgt.
+Sie werden auf der Seite LEISTUNGEN > PRÜFUNGEN > ZAA HAUPTSCHULABSCHLUSS
+und ZAA MITTLERER ABSCHLUSS entsprechend informiert:
+
+Abb. 53 Webseite ZAA Hauptschulabschluss / ZAA Mittlerer Abschluss: Hinweise
+
+Wenden Sie sich an Ihren LUSD-Administrator, wenn Sie die die
+Prüfungsleistungen Ihrer Klasse/n nicht bearbeiten können!
+
+HMKB | LUSD/ Schul-ID Hessen | Leistungserfassung durchführen (Schul-ID Hessen) | 2 | Letzter Stand: 16.01.2026
+
+34
+
+

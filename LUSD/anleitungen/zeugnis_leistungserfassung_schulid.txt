@@ -1,0 +1,263 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Leistungserfassung vorbereiten
+(mit Schul-ID Hessen)
+Eine Kurzanleitung für LUSD-Administratoren
+
+1
+
+Vorwort
+Diese Anleitung informiert LUSD-Administratoren in Bezug auf folgende Aufgaben:
+▪ Aktivierung von LUSD-Nutzern,
+▪ die über ihre Schul-ID Hessen auf die LUSD zugreifen wollen,
+▪ die nur über das Benutzerprofil INITIALE LEHRKRAFT verfügen und
+▪ die in der LUSD aktuelle Leistungen (inklusive Prüfungsleistungen) für Schüler
+ihrer Klassen und Kurse erfassen bzw. deren Hist. Leistungen einsehen sollen.
+▪ Festlegung von Zeiträumen für die Leistungserfassung durch diese Nutzer.
+▪ Festlegung, wie die Erfassung der Kopfnoten und Fehlzeiten erfolgen soll.
+
+2
+
+Als Lehrkraft Leistungen direkt in der LUSD erfassen
+Als Alternative zu bisherigen Verfahren (z. B. ENC) können alle hessischen Lehrkräfte, die
+über ihre Schul-ID Hessen auf die LUSD zugreifen, nun – unter den in den Kapiteln 3
+genannten Voraussetzungen – Leistungen für die Schüler ihrer Klassen und Kurse
+erfassen und (als Klassenlehrkraft) deren Hist. Leistungsdaten einsehen.
+Hinweis
+Alle Informationen zur Schul-ID Hessen sowie aktuelle Ankündigungen
+finden Sie unter https://schulid.hessen.de.
+Alle Informationen zur Einrichtung der Schul-ID Hessen entnehmen Sie
+bitte der Anleitung zur Einrichtung der Schul-ID Hessen.
+Alle Informationen zur Anmeldung per Schul-ID entnehmen Sie bitte der
+Anleitung Schul-ID Hessen Anmeldung.
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 2.0 | Letzter Stand 09.04.2024
+
+1
+
+3
+
+Voraussetzungen und Vorgehen
+
+3.1
+
+Aktivierter LUSD-Nutzer
+Leistungen in der LUSD können nur von LUSD-Nutzern erfasst werden, bei denen auf der
+Seite SCHULE > ADMINISTRATION > BENUTZER in der Spalte DEAKTIVIERT KEIN Häkchen
+gesetzt ist.
+
+Abb. 1 Webseite Benutzer: Spalte deaktiviert
+
+1. Um dem gewünschten LUSD-Nutzer die Leistungserfassung in der LUSD zu
+ermöglichen, prüfen Sie bitte dessen Eintrag in der Spalte DEAKTIVIERT.
+2. Entfernen Sie gegebenenfalls das hier gesetzte Häkchen.
+
+3.2
+
+Festlegung Zeitraum zur Leistungserfassung
+LUSD-Nutzer, die nur über das Benutzerprofil INITIALE LEHRKRAFT verfügen, können
+Leistungen für ihre Klassen und Kurse nur erfassen, wenn…
+▪ Sie als Administrator (mit der Elementarrolle BEARBEITER/IN SCHULDATEN) auf der Seite
+LEISTUNGEN > ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG für die
+jeweilige Schulform/Stufe der Schüler Zeiträume zur Leistungserfassung festgelegt
+haben und
+▪ die Noteneingabe innerhalb dieser Zeiträume erfolgt.
+
+3.2.1 Leistungen > Leistungserfassung
+Um die Leistungserfassung für die Lehrkräfte auf den Seiten
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN und
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE
+
+zu ermöglichen, führen Sie bitte folgende Schritte durch:
+1. Öffnen Sie die Webseite LEISTUNGEN > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG, REGISTER LUSD ALLGEMEIN.
+2. Haken Sie die Schulformen/Stufen an, für die Sie die Zeiträume zur
+Leistungserfassung festlegen möchten und klicken auf
+.
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 2.0 | Letzter Stand 09.04.2024
+
+1
+
+Abb. 2 Webseite Konfiguration Leistungserfassung: Schulform- und stufenbezogene Zeiträume der
+Leistungserfassung festlegen
+
+3. Geben Sie im Bereich LUSD FÜR BENUTZERPROFIL INITIALE LEHRKRAFT…
+für Klassenlehrkräfte und Tutoren
+
+für Kurslehrkräfte
+
+im Feld
+
+im Feld
+
+WEBSEITE SCHÜLER – ERFASSUNG AKTIV
+
+WEBSEITE KURSE – ERFASSUNG AKTIV
+
+VON / BIS
+
+VON / BIS
+
+über das Schaltsymbol oder über die
+Tastatur die gewünschten Daten ein.
+
+über das Schaltsymbol oder über die
+Tastatur die gewünschten Daten ein.
+
+4. Klicken Sie auf
+5. Klicken Sie auf
+
+.
+.
+
+Auf den Seiten
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN und
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE
+werden die LUSD-Nutzer entsprechend informiert:
+
+Abb. 3 Webseite Schüler: Hinweis Leistungserfassung
+
+Abb. 4 Webseite Kurse: Hinweis Leistungserfassung
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 3.3 | 20.01.2025
+
+2
+
+3.2.2 Leistungen > Prüfungen
+Hinweis
+Die Sichtbarkeit der im Folgenden aufgezählten Seiten ist von Ihren
+schulbezogenen Schulformen abhängig!
+Um die Leistungserfassung für die Lehrkräfte auf den Seiten
+▪ LEISTUNGEN > PRÜFUNGEN > ABITUR SCHRIFTLICH
+▪ LEISTUNGEN > PRÜFUNGEN > FOS SCHRIFTLICH
+▪ LEISTUNGEN > PRÜFUNGEN > ZAA HAUPTSCHULABSCHLUSS und
+▪ LEISTUNGEN > PRÜFUNGEN > ZAA MITTLERER ABSCHLUSS
+
+zu ermöglichen, führen Sie bitte folgende Schritte durch:
+1. Öffnen Sie die Webseite LEISTUNGEN > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG, REGISTER LUSD ABSCHLÜSSE.
+2. Klicken Sie in der Zeile des jeweiligen Abschlusses auf das Kalendersymbol und wählen
+Sie die gewünschten Daten aus.
+
+Abb. 5 Webseite Konfiguration Leistungserfassung: Abschlussbezogene Zeiträume
+der Leistungserfassung festlegen
+
+3. Klicken Sie auf
+
+.
+
+Auf den Seiten
+▪
+▪
+▪
+▪
+
+LEISTUNGEN > PRÜFUNGEN > ABITUR SCHRIFTLICH
+LEISTUNGEN > PRÜFUNGEN > FOS SCHRIFTLICH
+LEISTUNGEN > PRÜFUNGEN > ZAA HAUPTSCHULABSCHLUSS und
+LEISTUNGEN > PRÜFUNGEN > ZAA MITTLERER ABSCHLUSS
+
+werden die LUSD-Nutzer entsprechend informiert:
+
+Abb. 6 Webseiten Prüfungen: Hinweis Erfassung der Prüfungsergebnisse
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 3.3 | 20.01.2025
+
+3
+
+3.3
+
+Wer hat auf welche Webseiten welchen Zugriff?
+Hinweis
+Die Webseiten
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN und
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > HIST. LEISTUNGSDATEN
+
+können von Klassenleitungen (und ihrer Vertretung) eingesehen bzw.
+bearbeitet werden.
+Die Webseite
+▪ LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE
+
+kann von Kursleitungen eingesehen bzw. bearbeitet werden. Dabei haben
+nur Lehrkräfte Zugriff, die als Hauptlehrer gekennzeichnet wurden. Das ist
+auch für mehrere Lehrkräfte im gleichen Kurs möglich.
+3.3.1 Leistungen > Prüfungen > Abitur schriftlich
+▪ Lehrkräfte mit der Elementarrolle Lehrkraft, die als Prüfer im schriftlichen Abitur auf der
+Seite LEISTUNGEN > ABSCHLÜSSE > ABITUR > PRÜFUNGSFÄCHER erfasst sind, haben
+einen zeitlich abhängigen Zugriff auf die Seite ABITUR SCHRIFTLICH. Die Prüfer können
+dort die Ergebnisse der schriftlichen Abiturprüfungen ihrer eigenen Prüflinge
+tabellarisch erfassen.
+▪ Alle Lehrkräfte mit der zugewiesenen Elementarrolle Prüfungsergebnisse erfassen
+bekommen sämtliche Schüler der schriftlichen Abiturprüfungen angezeigt und
+haben dauerhaft schreibenden Zugriff auf die Seite.
+3.3.2 Leistungen > Prüfungen > FOS schriftlich
+▪ Lehrkräfte mit der Elementarrolle Lehrkraft, die als Klassenleitung der Abschlussklassen der FOS erfasst sind, haben einen zeitlich abhängigen Zugriff auf die Seite FOS
+SCHRIFTLICH. Diese Lehrkräfte können dort die Ergebnisse der schriftlichen
+Abschlussprüfungen ihrer eigenen Klasse tabellarisch erfassen.
+▪ Alle Lehrkräfte mit der zugewiesenen Elementarrolle Prüfungsergebnisse erfassen
+bekommen sämtliche Schüler der Abschlussklassen der FOS angezeigt und haben
+dauerhaft schreibenden Zugriff auf die Seite.
+Hinweis
+Prüflinge werden auf der Webseite FOS SCHRIFTLICH nur angezeigt, wenn sie
+mindestens den Status erfolgreiche Belegungsprüfung (ein blauer Balken)
+haben.
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 3.3 | 20.01.2025
+
+4
+
+3.3.3 ZAA Hauptschulabschluss und ZAA Mittlerer Abschluss
+▪ Lehrkräfte mit der Elementarrolle Lehrkraft, die als Kursleitung der Abschlusskurse
+erfasst sind, haben einen zeitlich abhängigen Zugriff auf die Seiten. Diese Lehrkräfte
+können dort die Ergebnisse der schriftlichen Abschlussprüfungen ihrer eigenen Kurse
+tabellarisch erfassen.
+▪ Benutzer mit der zugewiesenen Elementarrolle Prüfungsergebnisse erfassen haben
+einen dauerhaft schreibenden Zugriff auf die Seite, unabhängig vom eingepflegten
+Zeitraum. Ihnen werden alle Schüler der Abschlusskurse angezeigt (unter den im
+Hinweis genannten Voraussetzungen).
+Hinweis
+Die Seiten werden nur Schulen mit den Schulformen H, IGS, R, FS (KRA,
+HÖR, SEH, BLI, KÖR, SPR, EMS), MSPB und MSMB angezeigt.
+Es werden zudem nur Schüler der Abschlusskurse angezeigt, für die der
+Eintrag HA, HA-IGS, HQ, HQ-H10, HA-SchuB, HQ-SchuB oder HQ IGS im
+Feld VORAUSSICHTLICHER ABSCHLUSS gepflegt wurde (analog zu der
+Seite UNTERRICHT > ABSCHLÜSSE > HAUPTSCHULABSCHLUSS).
+
+3.4
+
+Konfiguration der Kopfnoten und der Fehlzeiten
+Hinweis
+Konfigurationen im Register LUSD ALLGEMEIN, Spalte LUSD UND ENC wirken
+sich auf alle Wege der Leistungserfassung aus:
+▪ Leistungserfassung nach Anmeldung an der LUSD über einen Rechner im
+Schulverwaltungsnetz.
+▪ Leistungserfassung nach Anmeldung an der LUSD über die Schul-ID
+Hessen.
+▪ Leistungserfassung per ENC.
+
+1. Legen Sie auf der Seite LEISTUNGEN > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG im Register LUSD ALLGEMEIN für die jeweils ausgewählte
+Schulform/Stufe über die Schaltfläche
+fest,
+▪ ob und auf welche Weise die Kopfnoten erfasst werden.
+▪ ob die Erfassung der Fehlzeiten kurs- oder klassenweise erfolgen soll.
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 3.3 | 20.01.2025
+
+5
+
+Abb. 7 Webseite Konfiguration Leistungserfassung: Schulform- und Stufenbezogene Konfiguration der
+Kopfnoten und Fehlzeiten
+
+HMKB | LUSD | Leistungserfassung vorbereiten (mit Schul-ID Hessen) | Version: 3.3 | 20.01.2025
+
+6
+
+

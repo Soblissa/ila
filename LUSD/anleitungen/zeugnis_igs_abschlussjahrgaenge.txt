@@ -1,0 +1,222 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS)
+Kurzanleitung
+
+1
+
+Inhalt, Zweck und Zielguppe des Dokuments
+An integrierten Gesamtschulen (IGS) können Schüler
+▪ den Hauptschulabschluss,
+▪ den qualifizierenden Hauptschulabschluss und
+▪ den mittleren Abschluss
+in integrierten Klassen oder in abschlussbezogenen Klassen erreichen.
+Die vorliegende Kurzanleitung beschreibt, wie die Daten in der LUSD eingepflegt werden,
+um diese beiden unterschiedlichen Verfahren korrekt abzubilden und damit die Abschlüsse
+der Schüler richtig zu erfassen. Sie enthält
+▪ Fachliche Hinweise zu den Abschlussklassen in integrierten Gesamtschulen
+▪ Hinweise zur Datenpflege der voraussichtlichen Abschlüsse in der LUSD
+Sie richtet sich an LUSD-Nutzer, die für Abschlussklassen in integrierten Gesamtschulen
+Abschlüsse erfassen. Basiskenntnisse mit der LUSD werden vorausgesetzt.
+
+2
+
+Fachlicher Hintergrund
+In den Stufen 9 und 10 der Integrierten Gesamtschulen können die Schüler entweder
+▪ in integrierten Klassen mit differenzierten Kursen oder
+▪ in abschlussbezogenen Klassen unterrichtet werden.
+In integrierten Klassen gibt es für die Schüler weiterhin differenzierte Kurse für die entsprechenden Fächer. Für diese Schüler errechnet die LUSD die Abschlüsse automatisch auf
+der Basis der differenzierten Kurse. Die Kursdifferenzierung erscheint für diese Schüler
+auch auf dem Zeugnis.
+Die abschlussbezogenen Klassen sind schulformspezifisch, d.h. die Schüler werden in
+Klassen unterrichtet, die ohne Kursdifferenzierung entweder
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+1
+
+▪ zum Hauptschulabschluss (HA) bzw.
+▪ zum qualifizierenden Hauptschulabschluss (HQ) oder
+▪ zum Realschulabschluss (MA) führen.
+Schüler, die das Abitur anstreben, werden in Klassen unterrichtet, die dem gymnasialen Niveau entsprechen.
+Die entsprechenden Daten der Schüler in den Abschlussklassen werden in der LUSD automatisch erlasskonform nach den Regeln für den jeweils angestrebten Abschluss verarbeitet.
+
+3
+
+Hinweise zur Datenpflege in der LUSD
+1. Rufen Sie die Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER auf, um die voraussichtlichen Abschlüsse der Schüler in den Abschlussjahrgängen zu erfassen (Abb. 1).
+2. Wählen Sie über die Schülersuche
+zunächst die jeweiligen Schüler der Abschlussjahr-gänge aus.
+Im Register KURSNOTEN werden alle Kurse des ersten ausgewählten Schülers im Halbjahr angezeigt. In den weiteren Registern können Sie eine Vielzahl von Informationen zu
+Schülerleistungsdaten erfassen. Hierbei handelt es sich in der Regel um ergänzende
+schülerbezogene Leistungsdaten.
+
+Abb. 1 Webseite Schüler: Register Kursnoten
+
+3. Um den voraussichtlichen Abschluss des Schülers auszuwählen, klicken Sie auf das Register VERSETZUNG/EIGNUNG. Hier können Sie im Auswahlfeld VORAUSSICHTLICHER ABSCHLUSS einen der angebotenen Einträge auswählen.
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+1
+
+Abb. 2 Webseite Schüler: Pflege des voraussichtlichen Abschlusses
+
+4. Klicken Sie auf die Schaltfläche SPEICHERN.
+5. Im oberen Bereich der Seite finden Sie die Schülerauswahl
+
+.
+
+Dort können Sie mit den Pfeiltasten
+und
+zum nächsten Schüler wechseln
+und/oder sich über das Schaltsymbol des Ausrufezeichens
+eine Übersichtstabelle aller ausgewählten Schüler anzeigen lassen.
+Hinweis
+Die gültigen voraussichtlichen Abschlüsse für Schüler der Abschlussklassen
+sind
+▪ HA ( = Hauptschulabschluss)
+▪ HQ ( = qualifizierender Hauptschulabschluss)
+▪ MA ( = mittlerer Abschluss)
+Die gültigen voraussichtlichen Abschlüsse für Schüler in integrierten Klassen
+sind
+▪ HA-IGS ( = Hauptschulabschluss)
+▪ HQ-IGS ( = qualifizierender Hauptschulabschluss)
+▪ MA-IGS ( = mittlerer Abschluss)
+Für Schüler, die ohne Teilnahme an den Abschlussprüfungen zum Mittleren
+Abschluss in die Gymnasiale Oberstufe wechseln, wählen Sie im Feld VORAUSSICHTLICHER ABSCHLUSS den Eintrag V-E1 (Versetzung in die Einführungsphase der gymnasialen Oberstufe) aus.
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+2
+
+Achtung
+Integrierte Gesamtschulen, die keine weiteren offiziellen Schulformen haben,
+ordnen auch die Schüler der abschlussbezogenen Klassen ausschließlich
+der Schulform IGS zu.
+Richten Sie auf keinen Fall zusätzlich die Schulformen H und R ein, um die
+abschlussbezogenen Klassen in der LUSD zu verwalten!
+Sollten Sie diese Schulformen bereits irrtümlich eingerichtet haben, korrigieren Sie die entsprechenden Einträge bitte umgehend, um sicherzustellen,
+dass Ihrer Schule alle Schüler/innen korrekt angerechnet werden.
+
+Eine Besonderheit in integrierten Gesamtschulen ist, dass Schülern, bei denen der mittlere
+Bildungsabschluss (MA) gefährdet erscheint, auch in der Jahrgangsstufe 10 an der Abschlussprüfung zum Hauptschulabschluss in Form
+▪ des einfachen (HA) und
+▪ des qualifizierenden Hauptschulabschlusses (HQ) teilnehmen können.
+In diesen Fällen tragen Sie als voraussichtlichen Abschluss entweder HA (bzw. HA-IGS)
+oder HQ (bzw. HQ-IGS) ein.
+Achtung
+Die Schüler müssen immer das gesamte Prüfungsprogramm ablegen. Bereits
+erbrachte Leistungen im Rahmen des Hauptschulabschlusses in der Stufe 9
+können nicht für den qualifizierenden Hauptschulabschluss in Stufe 10 angerechnet werden
+
+Die folgende Tabelle stellt die Unterschiede in den beiden Verfahren gegenüber:
+
+Kursdifferenzierung
+
+IGS mit
+
+IGS mit
+
+integrierten Klassen
+
+abschlussbezogenen Klassen
+
+Ja (einige Fächer)
+
+Die Kursdifferenzierungen KD der
+Kurse müssen mit dem voraussichtlichen Abschluss übereinstimmen:
+▪ HA bzw. HQ: Kurse auf Hauptschulniveau erhalten KD h
+oder p
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+3
+
+IGS mit
+
+IGS mit
+
+integrierten Klassen
+
+abschlussbezogenen Klassen
+
+▪ MA: Kurse auf mittlerem
+Niveau erhalten KD - oder m
+oder r
+▪ V-E1: Kurse auf gymnasialem
+Niveau erhalten KD v
+Voraussichtlicher
+Abschluss
+
+HA-IGS, HQ-IGS, MA-IGS, V-E1
+
+HA, HQ, MA, V-E1
+
+Abschlusszeugnis
+
+Kurse mit äußerer Fachleistungsdifferenzierung werden mit
+Differenzierung angezeigt, bei
+binnendifferenzierten Kursen
+nicht. Bei Prüfungsfächern mit
+Kursdifferenzierung wird die
+Prüfungsnote für die Zeugnisnote des Faches an das Kursniveau angepasst.
+
+Kurse mit äußerer Fachleistungsdifferenzierung werden mit Differenzierung angezeigt, bei binnendifferenzierten Kursen nicht. Bei
+Prüfungsfächern mit Kursdifferenzierung wird die Prüfungsnote für
+die Zeugnisnote des Faches an
+das Kursniveau angepasst.
+
+Abschlussberech-
+
+Die Differenzierung wird bei der
+Berechnung der Gesamtleistung
+je nach Niveau positiv oder negativ in den Endnoten und der
+Gesamtleistung berücksichtigt.
+
+Die erreichten Noten sind durch
+die gepflegten Kursdifferenzierungen auf den Abschluss bezogen,
+brauchen also nicht umgerechnet
+zu werden.
+
+HA, HQ, (HA-G), MA, MAQ,
+(MA-G)
+
+HA, HQ, (HA-G), MA, MAQ, (MAG)
+
+nung
+
+Abschlusszuweisung
+
+Hinweis
+Schüler der Abschlussjahrgänge 9 und 10 können nicht zwischen abschlussbezogenen Klassen und integrierten Klassen wechseln. Die Kurse müssen in den beiden
+aufeinanderfolgenden Abschlussjahrgängen 9 und 10 entweder in integrierten Klassen differenziert und undifferenziert (integriert) oder in abschlussbezogenen Klassen nur undifferenziert, d.h. auf dem Abschlussniveau unterrichtet werden. Dies
+wird im Rahmen der Lehrerstellenzuweisung jeweils für die zwei aufeinanderfolgenden Jahrgänge geprüft.
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+4
+
+Richten Sie auf der Seite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die
+Kurse für die abschlussbezogenen Klassen immer mit Kursdifferenzierung KD
+ein:
+▪ Kurse auf Hauptschulniveau mit „h“ oder „p“
+▪ Kurse auf mittlerem Niveau mit „-“ oder „r“ oder „m“
+▪ Kurse auf gymnasialem Niveau mit „v“
+
+Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, steht Ihnen der Helpdesk zur Verfügung:
+
+▪
+
+über die Seite kontakt-helpdesk.hessen.de oder
+
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Datenpflege in Abschlussjahrgängen an integrierten Gesamtschulen (IGS) | Version: 2.0 | 13.08.2025
+
+5
+
+

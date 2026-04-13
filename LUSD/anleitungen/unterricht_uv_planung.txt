@@ -1,0 +1,2501 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+UV-Planung
+Erstellen, bearbeiten und aktivieren von UV-Planungsvarianten in der LUSD
+
+Version: 2.4
+Letzter Stand: 04.07.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+1
+
+Begriffe und Abkürzungen im Zusammenhang mit Kursen .................................................. 10
+1.1
+
+Begriffe zu Kursen...................................................................................................... 10
+
+1.2
+
+Abkürzungen zu Kursen ............................................................................................. 11
+
+Die UV-Planung vorbereiten
+2
+
+3
+
+7
+
+12
+
+Aktuelle UV prüfen .............................................................................................................. 12
+2.1
+
+Schulbezogene Schulformen inkl. Stufen/Semester prüfen ........................................ 12
+
+2.2
+
+Schulbezogene Fächer prüfen ................................................................................... 13
+
+2.3
+
+Personal prüfen .......................................................................................................... 13
+
+2.4
+
+Stundentafel prüfen .................................................................................................... 14
+
+2.5
+
+Bildungsangebote prüfen ........................................................................................... 15
+
+2.6
+
+Themen prüfen ........................................................................................................... 17
+
+2.7
+
+Klassennamen prüfen ................................................................................................ 17
+
+Daten des aktuellen Halbjahres archivieren ........................................................................ 19
+
+Der Assistent UV-Planung
+
+20
+
+4
+
+Übersicht der Webseiten des Planungsassistenten ............................................................. 20
+
+5
+
+Die Einstiegsseite des Planungsassistenten ....................................................................... 23
+
+6
+
+5.1
+
+Navigationselemente .................................................................................................. 23
+
+5.2
+
+Eine neue Planungsvariante anlegen ......................................................................... 24
+
+5.3
+
+Automatisch erstellte Planungsvariante ...................................................................... 28
+
+5.4
+
+Eine Planungsvariante umbenennen .......................................................................... 29
+
+5.5
+
+Eine Planungsvariante mit Priorität 1 kennzeichnen ................................................... 29
+
+5.6
+
+Kann man eine Planungsvariante löschen?................................................................ 29
+
+Eine Planungsvariante im Planungsassistenten bearbeiten................................................. 30
+6.1
+
+UV-Planung > Stundentafel ........................................................................................ 30
+
+HMKB | LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+2
+
+6.2
+
+UV-Planung > Bildungsangebote ............................................................................... 30
+
+6.3
+
+UV-Planung > UV-Übernahme ................................................................................... 31
+
+6.4
+
+UV-Planung > Klassenbildung .................................................................................... 36
+
+6.5
+
+UV-Planung > Klassenwechsel .................................................................................. 37
+
+6.6
+
+UV-Planung > Fachwahlbearbeitung .......................................................................... 38
+
+6.7
+
+UV-Planung > Lehrerdaten......................................................................................... 41
+
+6.8
+
+UV-Planung > Kursgenerierung.................................................................................. 44
+
+6.9
+
+UV-Planung > Kursbearbeitung .................................................................................. 51
+
+6.10 UV-Planung > Lehrkräfte- Kurs- Zuordnung ............................................................... 51
+6.11 UV-Planung > Schüler-Kurszuordnung....................................................................... 52
+6.12 UV-Planung > Kurswechsel ........................................................................................ 52
+6.13 UV-Planung > Kurskopplung ...................................................................................... 52
+6.14 UV-Planung > Stundenplanpflege .............................................................................. 53
+6.15 UV-Planung > Prüfung Planung ................................................................................. 53
+7
+
+Eine Planungsvariante aktivieren ........................................................................................ 53
+
+Berichte zu Planungsvarianten nutzen
+
+54
+
+8
+
+Bericht: Planung UV-Vergleich ............................................................................................ 54
+
+9
+
+Andere Berichte .................................................................................................................. 54
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+3
+
+Abbildungsverzeichnis
+Abb. 1 Kurs bearbeiten: Beispiel 1
+
+10
+
+Abb. 2 Kurs bearbeiten: Beispiel 2
+
+10
+
+Abb. 3 Kurs bearbeiten: Beispiel 3
+
+10
+
+Abb. 4 Kurs bearbeiten: Beispiel 4
+
+10
+
+Abb. 5 Übersicht Abkürzungen: Abkürzungen für Kursart, -differenzierung und -optionen
+
+11
+
+Abb. 6 Stufengebundener Kurs: Beispiel Kurs bearbeiten
+
+16
+
+Abb. 7 Stufengebundener Kurs: Beispiel Bildungsangebot bearbeiten
+
+16
+
+Abb. 8 Stufen- o. schulformübergreifender Kurs: Beispiel Kurs bearbeiten
+
+17
+
+Abb. 10 Webseite UV-Planung: Übersicht Planungsassistenten
+
+20
+
+Abb. 11 Prozessgrafik: Prozess UV-Planung
+
+20
+
+Abb. 12 Assistent UV-Planung: Navigation über Schaltflächen
+
+23
+
+Abb. 13 Assistent UV-Planung: Navigation Planungs-Webseiten
+
+23
+
+Abb. 14 Assistent UV-Planung: Hinweismeldung
+
+24
+
+Abb. 15 Assistent UV-Planung: Neue Planungsvariante
+
+25
+
+Abb. 16 Assistent UV-Planung: Neue Planungsvariante anlegen – Beispiel 1
+
+25
+
+Abb. 17 UV-Planungsvariante: Neue Planungsvariante durch Übernahme der aktuellen UV
+anlegen
+
+26
+
+Abb. 18 UV-Planungsvariante: Hinweismeldung
+
+27
+
+Abb. 19 UV-Planungsvariante: Neue Planungsvariante anlegen – Beispiel 2
+
+27
+
+Abb. 20 UV-Planungsvariante: Planungsvariante anlegen durch Kopieren
+
+28
+
+Abb. 21 UV-Planungsvariante: Neu angelegte Planungsvariante – Beispiel 3
+
+28
+
+Abb. 22 UV-Übernahme: Kursarten
+
+31
+
+Abb. 23 UV-Übernahme: Auswahl SF/BK
+
+32
+
+Abb. 24 UV-Übernahme: Spalten Übersicht
+
+32
+
+Abb. 25 Kurszuordnung: Beispiel 1
+
+32
+
+Abb. 26 Kurszuordnung: Beispiel 2
+
+32
+
+Abb. 27 UV-Übernahme: Spalten Übersicht
+
+33
+
+Abb. 28 UV-Übernahme: Kurskopplungen
+
+33
+
+Abb. 29 UV-Übernahme: Übernahme erfolgt
+
+34
+
+Abb. 30 UV-Planung: Webseite Klassenbildung
+
+36
+
+Abb. 31 UV-Planung: Webseite Klassenwechsel
+
+37
+
+Abb. 32 UV-Planung: Webseite Fachwahlbearbeitung
+
+38
+
+Abb. 33 Fachwahlbearbeitung: Stundentafel (Pflichtunterricht)
+
+39
+
+Abb. 34 Fachwahlbearbeitung: Register Klassen-ÜG-Kurse
+
+39
+
+Abb. 35 Fachwahlbearbeitung: Stundentafel (Wahlpflichtunterricht)
+
+39
+
+Abb. 36 Fachwahlbearbeitung: Register WPU
+
+39
+
+Abb. 37 Fachwahlbearbeitung: Spalte Bildungsangebot
+
+40
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+4
+
+Abb. 38 Fachwahlbearbeitung: Spalte LK/GK
+
+40
+
+Abb. 39 Webseite UV-Planung: Lehrerdaten
+
+41
+
+Abb. 40 UV-Planung: Stunden einer Lehrkraft bearbeiten
+
+43
+
+Abb. 41 UV-Planung: Webseite Kursgenerierung
+
+44
+
+Abb. 42 Kursgenerierung: Optionsschaltfläche Neugenerierung aller Plankurse
+
+45
+
+Abb. 43 Planungsvariante: Stundentafel inaktive Einträge
+
+46
+
+Abb. 44 Planungsvariante: Bildungsangebote aktive Einträge
+
+46
+
+Abb. 45 Planungsvariante: Stundentafel
+
+46
+
+Abb. 46 Planungsvariante: Neu generierte Kurse für Klassen
+
+46
+
+Abb. 47 Planungsvariante: Kursart P
+
+47
+
+Abb. 48 Planungsvariante: Klassen-ÜG-Kurse
+
+47
+
+Abb. 49 Planungsvariante: Neu generierte Kurse für ÜG-Kurse
+
+47
+
+Abb. 50 Planungsvariante: Kursart W
+
+47
+
+Abb. 51 Planungsvariante: Fachwahlbearbeitung WPU
+
+47
+
+Abb. 52 Planungsvariante: Neu generierter Kurs in der Kursbearbeitung
+
+47
+
+Abb. 53 Planungsvariante: Fach D
+
+48
+
+Abb. 54 Planungsvariante: Fachwahlbearbeitung Plankurse
+
+48
+
+Abb. 55 Planungsvariante: Neu generierte klassenübergreifende Kurse in der Kursbearbeitung 48
+Abb. 56 UV-Planung: Schaltfläche Generierung von fehlenden Plankursen
+
+48
+
+Abb. 57 Generierung Plankurse: Auswahl der Stufe
+
+48
+
+Abb. 58 Fehlende Plankurse: Bereits übernommene Kurse
+
+49
+
+Abb. 59 Generierung von fehlenden Kursen: Fach Physik ist inaktiv
+
+49
+
+Abb. 60 Fach Physik ist inaktiv: keine weiteren Kurse
+
+50
+
+Abb. 61 Generierung von fehlenden Kursen: Fach Physik ist aktiv - Klassenkurs
+
+50
+
+Abb. 62 Fach Physik ist aktiv: Klassenkurs generiert
+
+50
+
+Abb. 63 Generierung von fehlenden Kursen: Fach Physik ist aktiv - Klassenübergreifend
+
+50
+
+Abb. 64 Fach Physik ist aktiv: kein Kurs generiert
+
+51
+
+Abb. 65 UV-Bearbeitung: Webseite Planung aktivieren
+
+53
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+5
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+6
+
+Zu diesem Dokument
+Bedeutung der UV-Planung in der LUSD
+Die UV-Planung bildet die Unterrichtsverteilung (UV) für das kommende Schulhalbjahr ab.
+Sie können in der LUSD mit dem UV-Planungs-Assistenten eine oder mehrere Planungsvarianten
+anlegen, um damit verschiedene Unterrichtsverteilungen auszuprobieren. Der Planungsassistent
+führt Sie dabei Schritt-für-Schritt durch den Planungsprozess.
+Hinweis
+Zu Beginn eines Schulhalbjahres müssen Sie eine der vorhandenen
+Planungsvarianten aktivieren und damit als aktuelle Unterrichtsverteilung
+(UV) für das Schulhalbjahr festlegen (siehe Kapitel 7).
+Dies erfolgt
+▪ für das erste Schulhalbjahr ab dem 01.08.
+▪ für das zweite Schulhalbjahr ab dem 1. Montag im Februar
+Achtung
+Ohne aktivierte UV-Planung können Sie nicht mit der LUSD weiterarbeiten.
+
+Das vorliegende Dokument …
+▪ beschreibt, worauf Sie bei der Anlage und der Bearbeitung von Planungsvarianten achten
+sollten, damit Sie so effektiv wie möglich damit arbeiten können.
+▪ erklärt, wie Sie in der LUSD mit dem UV-Planungs-Assistenten Schritt-für-Schritt eine oder
+mehrere Planungsvarianten erstellen können.
+▪ verdeutlicht, welche Bedeutung die Stundentafel für die UV-Planung hat.
+▪ ersetzt auf keinen Fall den Besuch einer der zu diesem Thema angebotenen Schulung!
+Hinweis
+Besuchen Sie vor der ersten Anlage einer UV-Planung eine entsprechende
+Schulung.
+▪ Gehen Sie hierzu auf die Webseite:
+Fortbildungen zur LUSD | Digitale Schule Hessen und gehen dort auf die
+Übersicht der LUSD Fortbildungen.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+7
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Diese Anleitung richtet sich an alle Anwender, die die UV-Planung ihrer Schule pflegen.
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Thema
+
+Anleitung
+
+Fortbildung
+
+zu finden auf
+
+SchuleHessen - LUSD
+
+https://lusdinfo.hessen.de
+
+Anleitungen
+Basiswissen zur LUSD
+
+ANLEITUNGEN UND TUTORIALS >
+GRUNDLAGEN > BASISWISSEN
+
+LUSD – Basiswissen für alle
+Schulen und Schulformen
+
+Wissen zur Bearbeitung von
+Schülerdaten in der LUSD
+
+ANLEITUNGEN UND TUTORIALS >
+SCHÜLER.
+
+LUSD – Schülermanagement
+
+Wissen zur Bearbeitung von
+Schul- und Unterrichtsdaten
+in der LUSD
+
+ANLEITUNGEN UND TUTORIALS >
+SCHULE und FÖRDERUNGEN
+
+LUSD –
+Unterrichtsmanagement
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+8
+
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+9
+
+1
+
+Begriffe und Abkürzungen im Zusammenhang mit Kursen
+
+1.1
+
+Begriffe zu Kursen
+Folgende Begriffe im Zusammenhang mit Kursen werden in diesem Dokument verwendet:
+Kurs-Begriff
+
+Erklärung
+
+Klassenkurs
+
+Der Kurs ist an EINE
+bestimmte Schulform, Stufe
+und Klasse gebunden.
+
+Eingabe bei der Anlage
+eines Kurses
+
+Abb. 1 Kurs bearbeiten: Beispiel 1
+
+Klassenübergreifender Kurs
+
+Stufen-übergreifender
+Kurs
+
+Der Kurs ist
+▪ an EINE bestimmte
+Schulform und Stufe
+gebunden
+▪ an KEINE Klasse
+gebunden.
+
+Abb. 2 Kurs bearbeiten: Beispiel 2
+
+Der Kurs ist
+▪ an EINE bestimmte
+Schulform gebunden.
+▪ an KEINE Stufe und KEINE
+Klasse gebunden.
+Abb. 3 Kurs bearbeiten: Beispiel 3
+
+Schulformübergreifender Kurs
+
+Der Kurs ist an KEINE
+Schulform, Stufe und Klasse
+gebunden.
+
+Abb. 4 Kurs bearbeiten: Beispiel 4
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+10
+
+1.2
+
+Abkürzungen zu Kursen
+Eine Übersicht der Kürzel für Kursart, Kursdifferenzierung und Kursoptionen finden
+Sie in der LUSD-Hilfe.
+1. Klicken Sie hierfür im Kopfbereich einer beliebigen Webseite auf die
+Schaltfläche
+.
+2. Klicken Sie in der Hilfeseite oben auf ABKÜRZUNGEN und dann auf KURSARTEN.
+
+Abb. 5 Übersicht Abkürzungen: Abkürzungen für Kursart, -differenzierung und -optionen
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+11
+
+Die UV-Planung vorbereiten
+Eine fehlerfreie aktuelle UV ist die beste Grundlage für die Planungsvarianten des kommenden
+Halbjahres.
+Daher ist es sinnvoll, vor dem Anlegen von Planungsvarianten folgende Vorarbeiten zu leisten:
+1. Prüfen Sie ihre aktuelle UV und korrigieren Sie vorhandene Fehler (siehe Kapitel 2).
+2. Archivieren Sie Ihre aktuellen Daten (siehe Kapitel 3).
+3. Tragen Sie im Laufe des aktuellen Schulhalbjahres konsequent alle Änderungen
+der Unterrichtsverteilung (Klassen, Kurse ...) ein (UNTERRICHT > UV-BEARBEITUNG > …).
+
+2
+
+Aktuelle UV prüfen
+In den folgenden Kapiteln erhalten Sie Hinweise, worauf Sie bei der Prüfung Ihrer aktuellen
+UV achten sollten:
+
+2.1
+
+Themen
+
+Kapitel
+
+Schulbezogene Schulformen
+incl. Stufen/Semester
+
+Siehe Kapitel 2.1
+
+Schulbezogene Fächer
+
+Siehe Kapitel 2.2
+
+Personal
+
+Siehe Kapitel 2.3
+
+Stundentafel
+
+Siehe Kapitel 2.4
+
+Bildungsangebote
+
+Siehe Kapitel 2.5
+
+Themen
+
+Siehe Kapitel 2.6
+
+Klassennamen
+
+Siehe Kapitel 2.7
+
+Schulbezogene Schulformen inkl. Stufen/Semester prüfen
+1. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN.
+2. Prüfen Sie im Bereich SCHULBEZOGENE SCHULFORMEN, ob alle Schulformen Ihrer Schule
+vorhanden sind.
+3. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER.
+4. Prüfen Sie für jede Schulform, ob die richtigen Stufen/Semester angehakt sind.
+5. Setzen Sie ggf. fehlende Häkchen.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+12
+
+Hinweis
+Wenn Sie in einer Planungsvariante neue Schulformen benötigen, müssen
+Sie diese vor der Erstellung von Planungsvarianten hinzufügen.
+Fügen Sie im Bereich SCHULBEZOGENE SCHULFORMEN alle fehlenden
+Schulformen hinzu.
+Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER.
+Ordnen Sie den hinzugefügten Schulformen die nötigen Stufen und Semester
+zu.
+Danach muss noch die Stundentafel bearbeitet werden (siehe Kapitel 2.4).
+
+2.2
+
+Schulbezogene Fächer prüfen
+1. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > FÄCHER.
+2. Prüfen Sie, ob im Bereich SCHULBEZOGENE FÄCHER alle benötigten Fächer vorhanden
+sind.
+3. Fügen Sie ggf. fehlende Fächer hinzu.
+
+Hinweis
+Wenn Sie in einer Planungsvariante neue Fächer für die Stundentafel,
+Bildungsangebote oder Kurse benötigen, müssen Sie diese vor der
+Erstellung von Planungsvarianten auf der Webseite SCHULE >
+SCHULBASISDATEN > FÄCHER im Bereich SCHULBEZOGENE FÄCHER
+hinzufügen.
+
+2.3
+
+Personal prüfen
+1. Öffnen Sie die Webseite PERSONAL > PERSONALBASISDATEN > PERSONALÜBERSICHT.
+2. Prüfen Sie auf der Webseite, ob die Liste der UV-relevanten Lehrer aktuell ist.
+
+Tipp
+Setzen Sie die Lehrkräfte auf nicht UV-relevant, die bereits im aktuellen
+Halbjahr nicht mehr unterrichten. So können Sie die Auswahllisten
+übersichtlich halten.
+1. Öffnen Sie die Webseite PERSONAL > PERSONALBASISDATEN >
+SCHULBEZOGEN, um die Angaben zu bearbeiten.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+13
+
+2.4
+
+Stundentafel prüfen
+1. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL.
+2. Prüfen Sie jede Schulform folgende Fälle:
+▪ Sind in der Stundentafel für jede Stufe die nötigen Fächer für das kommende
+Halbjahr enthalten?
+Fügen Sie bei Bedarf noch fehlende Fächer hinzu (siehe Kapitel 2.2).
+▪ Sind in der Stundentafel für jede Stufe die Daten der Fächer richtig gepflegt?
+Korrigieren Sie die Daten bei Bedarf.
+3. Ersetzen Sie evtl. noch vorhandene Platzhalterfächer durch schulbezogene Fächer.
+Platzhalterfächer sind:
+▪
+▪
+▪
+▪
+▪
+
+PHF1 und PHF2 (Platzhalter erste und zweite Fremdsprache)
+PHR (Platzhalter Religion)
+PHWP (Platzhalter Wahlpflichtunterricht)
+PHWF (Platzhalter Fremdsprache Wahlpflichtunterricht)
+PHBU (Platzhalter Berufsbezogener Unterricht).
+
+Sollen Fächer im Klassenverband unterrichtet werden, kennzeichnen Sie diese Fächer mit
+einem Haken in der Spalte KLKU (über Markieren des Datensatzes und Klick auf die
+Schaltfläche
+). Hierdurch wird jeder Schüler, der einer Klasse dieser Stufe und
+Schulform zugeordnet ist, automatisch den Klassenkursen dieser Fächer zugeordnet.
+
+Tipp
+Nutzen Sie zur Prüfung Ihrer Stundentafeln den Bericht STUNDENTAFEL.
+1. Öffnen Sie die Webseite EXTRAS > BERICHTE > SCHULE > BASIS –
+STUNDENTAFEL.
+
+Hinweis zur Stundentafel
+Die Stundentafeln Ihrer aktuellen UV sind Grundlage für die
+Stundentafeln Ihrer UV-Planungsvarianten.
+Erklärung:
+Damit im 3. Schritt des UV-Planungsassistenten – der UV-Übernahme (→
+Kapitel 6.3) – vorhandene stufengebundene Kurse der Kursarten G, L, P
+und W aus dem aktuellen Halbjahr in das nächste Halbjahr übernommen
+werden können, müssen in der Stundentafel der jeweiligen Schulform die
+benötigten Fächer in der Folgestufe vorhanden sein und nicht als inaktiv
+angehakt sein.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+14
+
+2.5
+
+Bildungsangebote prüfen
+Die Webseite BILDUNGSANGEBOTE erfüllt für Kurse mit den Kursarten A, B, F und Z dieselbe
+Funktion wie die Webseite Stundentafel für Kurse mit den Kursarten G, L, P und W.
+1. Öffnen Sie die Webseite SCHULE > SCHULBASISDATEN > BILDUNGSANGEBOTE.
+
+2. Prüfen Sie für folgende Punkte:
+▪ Sind für jede Schulform und deren Stufen die Daten der Bildungsangebote richtig
+gepflegt?
+Korrigieren Sie die Daten bei Bedarf.
+▪ Sind für jede Schulform und deren Stufen die Bildungsangebote für die
+stufengebundenen Kurse der Kursarten A, B, F und Z in der Folgestufe
+eingetragen?
+Hinweis
+Sind keine Kursarten eingetragen, werden diese Kurse in Schritt 3 der UVPlanung (UV-Übernahme) NICHT ins nächste Halbjahr übernommen (siehe
+Kapitel 2.5.1 und 2.5.2).
+3. Fügen Sie bei Bedarf noch fehlende Bildungsangebote hinzu.
+
+Tipp
+Nutzen Sie zur Prüfung den Bericht BILDUNGSANGEBOTE.
+1. Öffnen Sie die Webseite EXTRAS > BERICHTE > STANDARDBERICHTE >
+SCHULE > BASIS - BILDUNGSANGEBOTE.
+
+Hinweis – Bericht Bildungsangebote
+Wenn Sie den Bericht BILDUNGSANGEBOTE mit der Auflistung aller
+Bildungsangebote benötigen, müssen Sie alle Einträge zu Kursen der
+Kursarten A, B, F und Z – auch die stufen- oder schulformübergreifenden
+Einträge – auf der Seite BILDUNGSANGEBOTE pflegen.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+15
+
+2.5.1 Beispiel für einen stufengebundenen Kurs
+Damit ein stufengebundener Kurs (der Kursarten A, B, F oder und Z) aus dem aktuellen
+Halbjahr in das nächste Halbjahr übernommen wird, muss auf der Webseite
+BILDUNGSANGEBOTE ein Eintrag stehen
+▪ mit derselben Schulform,
+▪ mit der Folgestufe,
+▪ mit demselben Fach.
+
+Abb. 6 Stufengebundener Kurs: Beispiel Kurs bearbeiten
+
+Abb. 7 Stufengebundener Kurs: Beispiel Bildungsangebot bearbeiten
+
+2.5.2 Beispiel für einen stufen- o. schulformübergreifender Kurs
+Damit ein stufen- oder schulform-übergreifender Kurs (der Kursarten A, B, F oder und
+Z) aus dem aktuellen Halbjahr in das nächste Halbjahr übernommen wird, ist auf der
+Webseite BILDUNGSANGEBOTE KEIN Eintrag erforderlich.
+Es genügt für die Übernahme, wenn auf der Webseite UV-ÜBERNAHME in der
+entsprechenden Zeile der Haken gesetzt ist.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+16
+
+Abb. 8 Stufen- o. schulformübergreifender Kurs: Beispiel Kurs bearbeiten
+
+2.6
+
+Themen prüfen
+1. Öffnen Sie die Webseite SCHULE > SCHLÜSSEL > THEMEN.
+2. Prüfen Sie die Liste der Themen auf Aktualität.
+Hinweis
+Wenn Sie in einer UV-Planungsvariante neue Themen benötigen, müssen
+Sie diese vor Anlage einer UV-Planungsvariante hinzufügen.
+
+Tipp
+Setzen Sie alle im aktuellen und folgenden Halbjahr nicht mehr benötigen
+Themen auf inaktiv. So halten Sie die Liste der Themen übersichtlich.
+
+Tipp
+Nutzen Sie zur Prüfung den Bericht THEMEN DER SCHULE.
+1. Öffnen Sie die Webseite EXTRAS > BERICHTE > STANDARDBERICHTE >
+SCHULE > BASIS > THEMEN DER SCHULE.
+
+2.7
+
+Klassennamen prüfen
+Es ist sinnvoll, die Klassenbezeichnungen so zu wählen, dass bei der UV-Übernahme
+(siehe Kapitel 6.3) die Klassenbezeichnung angepasst werden kann.
+Hierfür sind folgende Konventionen zu Klassenbezeichnungen einzuhalten:
+▪ Ein Klassenname kann aus maximal 6 Zeichen bestehen.
+▪ Ein Klassenname muss mit der aktuellen Stufe beginnen, wobei Sie bei einstelligen
+Stufen optional eine führende Null verwenden können (z. B. 05A, 7B, 12a, Q1b).
+Klassennamen, die nicht mit einer Stufenbezeichnung beginnen, werden unverändert
+übernommen (z. B. "Amsel").
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+17
+
+Hinweis
+Zum Halbjahreswechsel werden die Klassennamen grundsätzlich nicht
+verändert.
+Ausnahmen:
+Klassennamen mit halbjahresbezogenen Stufen/Semesterbezeichnungen
+werden auch halbjahresweise hochgesetzt (z. B. aus E1 wird E2).
+
+Aktuelles Halbjahr
+Schulform
+
+Neues Halbjahr
+Klassenname
+
+Stufe/Semester
+
+Stufe/Semester
+→
+
+z. B. Vorklasse
+00/1
+(erstes Halbjahr)
+
+01a
+0a
+
+01/1
+(erstes Halbjahr)
+
+01/2
+(zweites Halbjahr)
+
+(erstes Halbjahr)
+
+(zweites Halbjahr)
+
+→
+
+Folgeschuljahres)
+
+→
+12a
+
+12a
+
+(zweites Halbjahr)
+
+Q2a
+
+(zweites Halbjahr)
+→
+
+01a
+1a
+Amsel
+02a
+2a
+Amsel
+
+z. B. GYM
+12/2 bzw. Q2
+
+Q1a
+
+12/2 bzw. Q2
+
+02/1
+(erstes Halbjahr des
+
+Amsel
+
+01a
+0a
+
+z. B. Grundschule
+01/2
+
+Amsel
+
+z. B. GYM
+12/1 bzw. Q1
+
+(zweites Halbjahr)
+
+01a
+1a
+
+01a
+1a
+
+z. B. Vorklasse
+00/2
+
+→
+
+z. B. Grundschule
+
+Klassenna
+me
+
+13/1 bzw. Q3
+(erstes Halbjahr des
+
+12a
+Q2a
+13a
+Q3a
+
+Folgeschuljahres)
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+18
+
+3
+
+Daten des aktuellen Halbjahres archivieren
+Beachten Sie, dass bestimmte Daten nur im aktuellen Halbjahr zur Verfügung stehen.
+Daten, die Sie über das aktuelle Halbjahr hinaus benötigen, sollten Sie archivieren.
+Wir empfehlen Ihnen:
+Archivieren Sie Standardberichte
+1. Navigieren Sie zur Webseite EXTRA > BERICHTE > STANDARDBERICHTE.
+2. Erstellen Sie z. B. folgende Listen:
+▪
+▪
+▪
+▪
+▪
+▪
+
+Klassenliste
+Schülergesamtliste
+Kurse der Lehrer
+Kurse mit Themen
+Kurslisten für übergreifende Kurse
+Kursnotenlisten
+
+3. Speichern Sie diese Dateien an einem geeigneten Ort.
+Archivieren Sie bei Bedarf individuelle Berichte
+1. Navigieren Sie zur Webseite EXTRA > BERICHTE > INDIVIDUELLE BERICHTE.
+2. Erstellen Sie die individuellen Berichte.
+3. Speichern Sie diese Dateien an einem geeigneten Ort.
+Archivieren Sie Zeugnisse
+1. Navigieren Sie zur Webseite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN.
+2. Speichern Sie alle im aktuellen Halbjahr mit der LUSD generierten Zeugnisse als PDF.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+19
+
+Der Assistent UV-Planung
+Den Assistenten zur UV-Planung (Planungsassistenten) erreichen Sie auf der Webseite SCHULE
+> ASSISTENTEN > UV-PLANUNG (siehe Abb. 9).
+Hinweis
+Um Verwechslungen der Webseiten des Assistenten mit der aktiven UV zu
+verhindern sind alle Webseiten des Assistenten mit einem roten Rahmen
+umgeben.
+
+Abb. 9 Webseite UV-Planung: Übersicht Planungsassistenten
+
+4
+
+Übersicht der Webseiten des Planungsassistenten
+Der Assistent zur UV-Planung umfasst die Einstiegsseite und 15 weitere Webseiten.
+
+Einstiegsseite
+Planungsvariante
+anlegen
+
+Datenübernahme
+vorbereiten
+
+Daten
+übernehmen
+
+Daten bearbeiten,
+hinzufügen,
+löschen und prüfen
+
+Abb. 10 Prozessgrafik: Prozess UV-Planung
+
+Hinweis
+Eine Planungsvariante ist nur dann vollständig bearbeitet, wenn alle
+Webseiten des Assistenten durchlaufen wurden. Sie müssen dabei nicht
+zwingend auf jeder Webseite Änderungen vornehmen.
+Änderungen in einer Planungsvariante haben KEINEN Einfluss auf Ihre
+aktuelle UV.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+20
+
+Kapitel
+
+Schule > Assistenten > UV-Planung
+
+→ Kapitel 5 und 5.2
+
+Neue Planungsvarianten anlegen
+
+→ Kapitel 5.4
+
+Planungsvarianten umbenennen
+
+→ Kapitel 5.5
+
+Planungsvariante mit Priorität 1 kennzeichnen
+
+vorbereiten
+
+1. UV-Planung > Stundentafel
+Stundentafel der Planungsvariante bearbeiten.
+
+übernehmen
+
+Datenübernahme Einstiegsseite
+Daten
+
+Webseite
+
+3. UV-Planung > UV-Übernahme
+
+2. UV-Planung > Bildungsangebote
+
+→ Kapitel 6.1
+
+→ Kapitel 6.2
+
+Bildungsangebote der Planungsvariante bearbeiten
+→ Kapitel 6.3
+
+Gezielt Daten für die Planungsvariante in das nächste
+
+Wir empfehlen Ihnen
+
+Halbjahr übernehmen
+
+ausdrücklich, dieses
+Kapitel zu lesen.
+
+4. UV-Planung > Klassenbildung
+
+→ Kapitel 6.4
+
+Klassen bearbeiten
+Neue Klassen anlegen
+5. UV-Planung > Klassenwechsel
+
+→ Kapitel 6.5
+
+Schüler in andere Klassen setzen
+6. UV-Planung > Fachwahlbearbeitung
+
+→ Kapitel 6.6
+
+Festlegen, wieviel neue Kurse auf der Webseite UV-
+
+PLANUNG > KURSGENERIERUNG bei der Option
+Neugenerierung für ein bestimmtes Fach in einer
+Schulform und Stufe automatisch erstellt werden
+sollen.
+7. UV-Planung > Lehrerdaten
+
+→ Kapitel 6.7
+
+NN-Lehrer anlegen
+
+UV-Planung weiter bearbeiten
+
+Lehrerstunden bearbeiten
+8. UV-Planung > Kursgenerierung
+
+→ Kapitel 6.8
+
+Vorhandene Kurse ergänzen
+9. UV-Planung > Kursbearbeitung
+
+→ Kapitel 6.9
+
+Kurse bearbeiten
+10. UV-Planung > Lehrkräfte-Kurs-Zuordnung
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+→ Kapitel 6.10
+
+21
+
+Lehrkräfte Kursen zuordnen
+11. UV-Planung > Schüler-Kurs-Zuordnung
+
+→ Kapitel 6.11
+
+Schüler und Kandidaten Kursen zuordnen
+12. UV-Planung > Kurswechsel
+
+→ Kapitel 6.12
+
+Schüler in andere Kurse setzen
+13. UV-Planung > Kurskopplungen
+
+→ Kapitel 6.13
+
+Kurskopplungen bearbeiten
+14. UV-Planung > Stundenplanpflege
+
+→ Kapitel 6.14
+
+prüfen
+
+15. UV-Planung > Prüfung Planung
+
+→ Kapitel 6.15
+
+Planungsvariante prüfen
+
+16.Unterricht > UV-Planung > Planung aktivieren
+
+aktivieren
+
+UV-Planung UV-Planung
+
+Stundenplandaten bearbeiten
+
+→ Kapitel 7
+
+Eine Planungsvariante aktivieren und damit als
+aktuelle UV festlegen
+
+Tabelle 1 Übersicht aller Webseiten und Funktionen des Assistenten UV-Planung
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+22
+
+5
+
+Die Einstiegsseite des Planungsassistenten
+Auf der Einstiegseite des Planungsassistenten (Abb. 9) können Sie
+▪ neue Planungsvarianten anlegen
+▪ vorhandene Planungsvarianten umbenennen
+▪ einer vorhandene Planungsvariante die Priorität 1 geben
+
+5.1
+
+→ Kapitel 5.2
+→ Kapitel 5.4
+→ Kapitel 5.5
+
+Navigationselemente
+Innerhalb des Planungsassistenten können Sie über die Schaltflächen
+
+und
+
+zwischen den bereits durchlaufenen Planungs-Webseiten blättern.
+
+Abb. 11 Assistent UV-Planung: Navigation über Schaltflächen
+
+Sie können den Assistenten jederzeit über die Schalfläche
+
+.
+
+Beim erneuten Aufruf der Planungsvariante öffnet sich die zuletzt aufgerufene PlanungsWebseite und Sie können die Planung fortsetzen.
+Über die Auswahlliste können Sie gezielt eine der bereits durchlaufenen PlanungsWebseiten aufrufen.
+
+Abb. 12 Assistent UV-Planung: Navigation Planungs-Webseiten
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+23
+
+5.2
+
+Eine neue Planungsvariante anlegen
+Eine neue Planungsvariante können Sie auf drei verschiedene Arten anlegen als:
+▪ Automatisch erstellte Planungsvariante
+(Nur für berufliche Schulen)
+▪ Planungsvariante auf Basis der aktuellen UV
+▪ Planungsvariante als Kopie
+einer vorhandenen Planungsvariante
+
+→ Kapitel 5.2.1
+→ Kapitel 5.2.1
+→ Kapitel 5.2.3
+
+5.2.1 Eine automatisch erstellte Planungsvariante anlegen (nur berufliche Schulen)
+Nur berufliche Schulen können auf diese Art eine Übernahme der aktuellen UV für alle
+Schulformen durchführen.
+Der Optionsschalter wird an allen Schulformen angezeigt, ist aber nur an beruflichen
+Schulen aktiviert.
+Hinweis
+Eine neue – auf Basis der aktuellen UV angelegte – Planungsvariante enthält
+die zum Zeitpunkt der Erstellung aktuellen
+▪ Schulbasisdaten (Fächer, Schulformen, …)
+▪ Schüler-, Lehrer und Unterrichtsdaten
+Welche dieser Daten Sie letztendlich in der Planungsvariante ins nächste
+Halbjahr übernehmen, entscheiden Sie auf der Webseite UV-PLANUNG > UVÜBERNAHME (siehe Kapitel 6.3).
+1. Gehen Sie auf die Webseite SCHULE > ASSISTENTEN > UV-PLANUNG (Abb. 9).
+2. Klicken Sie den Optionsschalter ERSTELLEN EINER AUTOMATISCHEN PLANUNGSVARIANTE
+(WIRD ÜBER NACHT ERSTELLT) an.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Es erscheint folgende Hinweismeldung:
+
+Abb. 13 Assistent UV-Planung: Hinweismeldung
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+24
+
+4. Klicken Sie in der Hinweismeldung auf die Schaltfläche
+5. Klicken Sie auf
+
+.
+
+.
+
+6. Gehen Sie am nächsten Tag auf die Webseite SCHULE > ASSISTENTEN > UV-PLANUNG
+(Abb. 9).
+Die neue Planungsvariante erhält automatisch die Priorität 1.
+
+Die neue Planungsvariante wird im Bereich unter dem Optionsschalter
+▪ NEUANLAGE DURCH KOPIEREN EINER VORHANDENEN PLANUNG und
+▪ EINE VORHANDENE PLANUNGSVARIANTE BEARBEITEN angezeigt.
+
+Abb. 14 Assistent UV-Planung: Neue Planungsvariante
+
+Abb. 15 Assistent UV-Planung: Neue Planungsvariante anlegen – Beispiel 1
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+25
+
+Hinweis
+Sie müssen die neue Planungsvariante noch bearbeiten. Dazu sollten Sie alle
+Schritte des Planungsassistenten durchlaufen. Sie müssen dabei nicht
+zwingend auf jeder Webseite Änderungen vornehmen (siehe Kapitel 6.1 bis
+6.15).
+▪ Sie können die Planungsvariante nun unabhängig von der aktuellen
+UV verändern.
+▪ Nachträgliche Änderungen der aktuellen UV wirken sich auf die
+Planungsvariante NICHT aus.
+
+5.2.2
+
+Eine neue Planungsvariante auf Basis der aktuellen UV anlegen
+Hinweis
+Eine neue – auf Basis der aktuellen UV angelegte – Planungsvariante enthält
+die zum Zeitpunkt der Erstellung aktuellen
+▪ Schulbasisdaten (Fächer, Schulformen, …)
+▪ Schüler-, Lehrkräfte- und Unterrichtsdaten
+Welche dieser Daten Sie letztendlich in der Planungsvariante ins nächste
+Halbjahr übernehmen, entscheiden Sie auf der Webseite UV-PLANUNG > UVÜBERNAHME (siehe Kapitel 6.3)
+1. Gehen Sie auf die Webseite SCHULE > ASSISTENTEN > UV-PLANUNG (Abb. 9).
+2. Klicken Sie den Optionsschalter NEUANLAGE DURCH ÜBERNAHME DER AKTUELLEN UV an.
+3. Geben Sie im Feld BEZEICHNUNG* eine Bezeichnung ein.
+Tipp
+Nehmen Sie den Namen des Erstellers mit auf. So können Sie erkennen, wer
+welche Planungsvariante angelegt oder bearbeitet hat.
+
+Abb. 16 UV-Planungsvariante: Neue Planungsvariante durch Übernahme der aktuellen UV anlegen
+
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+Es erscheint die Hinweismeldung:
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+26
+
+Abb. 17 UV-Planungsvariante: Hinweismeldung
+
+5. Klicken Sie in der Hinweismeldung auf die Schaltfläche
+
+.
+
+6. Klicken Sie auf den Optionsschalter EINE VORHANDENE PLANUNG BEARBEITEN, damit
+Ihnen die neu angelegte UV angezeigt wird.
+
+Abb. 18 UV-Planungsvariante: Neue Planungsvariante anlegen – Beispiel 2
+
+Hinweis
+Nach dem Speichern der neuen Planungsvariante, müssen Sie diese noch
+bearbeiten. Dazu sollten Sie alle Schritte des Planungsassistenten
+durchlaufen. Sie müssen dabei nicht zwingend auf jeder Webseite
+Änderungen vornehmen (siehe Kapitel 6.1 bis 6.15).
+▪ Sie können die Planungsvariante nun unabhängig von der aktuellen
+UV verändern.
+▪ Nachträgliche Änderungen der aktuellen UV wirken sich NICHT auf
+die Planungsvariante aus.
+
+5.2.3 Eine neue Planungsvariante als Kopie einer vorhandenen Planungsvariante anlegen
+Hinweis
+Eine neue – auf Basis einer vorhandenen Planungsvariante– angelegte
+Planungsvariante enthält die zum Zeitpunkt der Erstellung vorhandenen
+Daten der Ausgangs-Planungsvariante.
+1. Gehen Sie auf die Webseite SCHULE > ASSISTENTEN > UV-PLANUNG (Abb. 9).
+2. Klicken Sie auf den Optionsschalter NEUANLAGE DURCH KOPIEREN EINER VORHANDENEN
+PLANUNG.
+3. Klicken Sie in die Zeile der Planung, die Sie kopieren möchten.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+27
+
+Abb. 19 UV-Planungsvariante: Planungsvariante anlegen durch Kopieren
+
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+5. Klicken Sie in der Hinweismeldung auf die Schaltfläche
+
+.
+
+6. Klicken Sie auf den Optionsschalter EINE VORHANDENE PLANUNG BEARBEITEN.
+Die neue UV-Planungsvariante erscheint als Kopie im Bereich EINE VORHANDENE
+PLANUNGSVARIANTE BEARBEITEN (Abb. 20)
+Die zuletzt angelegte PV erhält die Prio 1.
+Sie können die Planungsvariante umbenennen (→ Kapitel 5.4)
+
+Abb. 20 UV-Planungsvariante: Neu angelegte Planungsvariante – Beispiel 3
+
+Hinweis
+Nach dem Speichern der neuen Planungsvariante, müssen Sie diese noch
+bearbeiten. Dazu sollten Sie alle Schritte des Planungsassistenten
+durchlaufen. Sie müssen dabei nicht zwingend auf jeder Webseite
+Änderungen vornehmen (siehe Kapitel 6.1 bis 6.15).
+▪ Sie können die Planungsvariante nun unabhängig von der
+ursprünglichen Planungsvariante verändern.
+▪ Nachträgliche Änderungen der ursprünglichen Planungsvariante
+wirken sich auf die Kopie NICHT aus.
+
+5.3
+
+Automatisch erstellte Planungsvariante
+Die automatisch erstellte Planungsvariante wird etwa 8 Tage vor dem HalbjahresWechsel vom System – auf Basis Ihrer zu diesem Zeitpunkt aktuellen UV – automatisch
+bereitgestellt.
+Tipp
+Erstellen Sie immer eine Kopie der automatisch erstellten Planungsvariante,
+die Sie anschließend wie jede andere Planungsvariante bearbeiten können.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+28
+
+5.4
+
+Eine Planungsvariante umbenennen
+1. Klicken Sie auf den Optionsschalter EINE VORHANDENE PLANUNG BEARBEITEN.
+2. Klicken Sie auf die Schaltfläche
+
+, um die Tabellen zu aktualisieren.
+
+3. Klicken Sie in die Zeile der zu bearbeitenden Planung. Diese wird blau hervorgehoben.
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+5. Ändern Sie in dem Dialogfeld PLANUNG BEARBEITEN die Bezeichnung.
+6. Klicken Sie auf die Schaltfläche
+7. Klicken Sie auf die Schaltfläche
+
+5.5
+
+.
+.
+
+Eine Planungsvariante mit Priorität 1 kennzeichnen
+Damit Ihr Staatliches Schulamt in LUSDIK sieht, welches Ihre verbindliche
+Planungsvariante ist, weisen Sie, nach Fertigstellung Ihrer Planungen, der gewünschten
+Planungsvariante die Priorität 1 zu.
+Hinweis
+Bis zum Wechsel des Halbjahres oder des Schuljahres können Sie die
+Priorität 1 jederzeit einer anderen Planungsvariante zuweisen.
+
+1. Klicken Sie auf den Optionsschalter EINE VORHANDENE PLANUNG BEARBEITEN.
+2. Klicken Sie auf die Schaltfläche
+
+, um die Tabellen zu aktualisieren.
+
+3. Klicken Sie in die Zeile der zu bearbeitenden Planung. Diese wird blau hervorgehoben.
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+5. Setzen Sie im Dialogfeld PLANUNG BEARBEITEN im Feld PV PRIO 1 ein Häkchen.
+6. Klicken Sie auf die Schaltfläche
+7. Klicken Sie auf die Schaltfläche
+
+5.6
+
+.
+.
+
+Kann man eine Planungsvariante löschen?
+Hinweis
+Eine vorhandene UV-Planungsvariante kann nicht gelöscht werden.
+Wird eine Planungsvariante nicht mehr benötigt, sollten Sie die
+Planungsvariante so benennen, dass sie sofort als ungültige
+Planungsvariante erkennbar ist.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+29
+
+6
+
+Eine Planungsvariante im Planungsassistenten bearbeiten
+Tipp
+Änderungen an Ihrer aktuellen UV (Änderungen an Kursen, SchülerKurszuordnungen und Lehrer-Kurszuordnungen), werden nicht in ihre
+vorhandenen Planungsvarianten übernommen.
+Wir empfehlen Ihnen daher:
+▪ Bei kleineren Änderungen in Ihrer aktuellen UV: Pflegen Sie die
+Änderungen bei Bedarf manuell in Ihren Planungsvarianten nach.
+▪ Bei größeren Änderungen in Ihrer aktuellen UV: Die Erstellung einer
+neuen Planungsvariante kann hier sinnvoll sein.
+
+6.1
+
+UV-Planung > Stundentafel
+Für Kurse der Kursarten P, W, L oder G ist die Stundentafel in einer Planungsvariante
+die Grundlage
+▪ für die Übernahme von stufengebundenen Kursen in das nächste Halbjahr (siehe
+Kapitel 6.3).
+▪ für das automatische Hinzufügen von Kursen im nächsten Halbjahr (siehe Kapitel 6.8).
+▪ für das Anpassen der Kursstunden, Kursthemen, Schüler- und Lehrkräftestunden im
+nächsten Halbjahr (siehe Kapitel 6.9).
+Hinweis
+Sie können die Stundentafel jeder Planungsvariante anpassen - unabhängig
+von anderen Planungsvarianten.
+Die Informationen in Kapitel 2.4 zur Pflege der Stundentafel gelten analog
+auch für die Pflege der Stundentafel in Planungsvarianten.
+
+6.2
+
+UV-Planung > Bildungsangebote
+Die Webseite UV-PLANUNG > BILDUNGSANGEBOTE erfüllt für stufengebundene Kurse mit den
+Kursarten A, B, F und Z dieselbe Funktion wie die Webseite UV-PLANUNG > STUNDENTAFEL
+für Kurse mit den Kursarten G, L, P und W.
+Hinweis
+Sie können die Bildungsangebote jeder Planungsvariante anpassen unabhängig von anderen Planungsvarianten.
+Die Informationen in Kapitel 2.5 zur Pflege der Bildungsangebote gelten
+analog für die Pflege der Bildungsangebote in Planungsvarianten.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+30
+
+6.3
+
+UV-Planung > UV-Übernahme
+Auf der Webseite UV-PLANUNG > UV-ÜBERNAHME übernehmen Sie in der jeweiligen
+Planungsvariante gezielt Unterrichtsdaten ins nächste Halbjahr.
+
+6.3.1 Hintergrundinformationen zur UV-Übernahme
+UV-Übernahme für Kurse der Kursarten …
+
+G, L, P und W
+
+Stufengebundene Kurse der Kursarten G, L, P oder W werden nur dann
+in das nächste Halbjahr übernommen, wenn die Fächer der Kurse in
+der Stundentafel der gewählten Schulform für das folgende Halbjahr
+vorhanden und nicht inaktiv sind.
+Stufen- oder schulformübergreifende Kurse der Kursarten G, L, P
+oder W werden ins nächste Halbjahr übernommen, wenn Sie die beiden
+ersten Zeilen der Tabelle anhaken (siehe Kapitel 6.1).
+
+Abb. 21 UV-Übernahme: Kursarten
+
+A, B, F und Z
+
+Stufengebundene Kurse der Kursarten A, B, F oder Z werden nur
+dann in das nächste Halbjahr übernommen, wenn die Fächer der Kurse
+in den Bildungsangeboten der Schulform für das folgende Halbjahr
+vorhanden und nicht inaktiv sind (siehe Kapitel 6.2).
+Stufen- oder schulformübergreifende Kurse der Kursarten A, B, F
+oder Z werden ins nächste Halbjahr übernommen, wenn Sie die beiden
+ersten Zeilen der Tabelle anhaken.
+Für diese Kurse müssen in den Bildungsangeboten KEINE Einträge
+vorhanden sein.
+
+6.3.2 UV-Übernahme durchführen
+1. Wählen Sie auf der Webseite UV-PLANUNG > UV-ÜBERNAHME im Auswahlfeld SF/BK die
+gewünschte Schulform.
+2. Setzen Sie ein Häkchen für alle Daten, die Sie in Ihre Planungsvariante (= ins nächste
+Halbjahr) übernehmen möchten.
+Bitte beachten Sie nachfolgende Tabelle:
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+31
+
+Sie möchten ins
+nächste Halbjahr
+
+So gehen Sie vor
+
+übernehmen …
+
+alle Kurse mit allen
+Daten
+
+Setzen Sie ein Häkchen in der Titelzeile der Tabelle.
+
+Abb. 22 UV-Übernahme: Auswahl SF/BK
+
+alle Schulform- und
+Setzen Sie ein Häkchen neben dem Eintrag ÜG bei SF/BK
+stufenübergreifenden und/oder ST/SEM.
+Kurse – unabhängig
+Dadurch werden automatisch Häkchen in den Spalten KURSE,
+von Kursart und Fach!
+KURSLEHRER, SCHÜLER-KURS und STPL gesetzt.
+
+Abb. 23 UV-Übernahme: Spalten Übersicht
+
+Wenn Sie bestimmte Daten nicht ins nächste Halbjahr
+übernehmen möchten, entfernen Sie die entsprechenden
+Häkchen.
+Beispiele:
+Alle ÜG-Kurse werden übernommen …
+▪ MIT Lehrer-Kurszuordnungen
+Abb. 24 Kurszuordnung: Beispiel 1
+
+▪ OHNE Schüler-Kurszuordnungen
+▪ OHNE Stundenplandaten
+
+Alle ÜG-Kurse werden übernommen …
+▪ OHNE Lehrer-Kurszuordnungen
+▪ OHNE Schüler-Kurszuordnungen
+Abb. 25 Kurszuordnung: Beispiel 2
+
+Stufen- und klassengebundene Kurse
+einer Schulform
+
+▪ OHNE Stundenplandaten
+
+Setzen Sie bei der gewünschten Stufe ein Häkchen in der Spalte
+ÜBERNOMMEN.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+32
+
+Sie möchten ins
+nächste Halbjahr
+
+So gehen Sie vor
+
+übernehmen …
+
+Dadurch werden Häkchen in den Spalten KLASSE,
+KLASSENLEHRER, SCHÜLER-KLASSE, KURSE, ÜG (=
+KLASSENÜBERGREIFENDE KURSE), KURSLEHRER, SCHÜLER-KURS
+und STPL. gesetzt.
+Sie können einzelne Häkchen wieder entfernen, indem Sie in das
+entsprechende Kontrollkästchen klicken. Diese Daten werden
+dann nicht ins nächste Halbjahr übernommen.
+Die Einstellungen gelten für alle Kurse der Stufe.
+
+Abb. 26 UV-Übernahme: Spalten Übersicht
+
+Vorhandene
+Kurskopplungen der
+Schulform
+
+Setzen Sie ein Häkchen im Kontrollkästchen Kurskopplungen.
+
+Abb. 27 UV-Übernahme: Kurskopplungen
+
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Die erfolgreiche Übernahme wird durch ein Häkchen im Kontrollkästchen der Spalte
+ÜBERNOMMEN angezeigt (Abb. 28).
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+33
+
+Abb. 28 UV-Übernahme: Übernahme erfolgt
+
+Die UV-Übernahme muss für jede weitere Schulform einzeln vorgenommen werden.
+4. Wiederholen Sie daher die Schritte 1 bis 3 für alle gewünschten Schulformen in der
+Auswahlliste SF/BK.
+
+6.3.3 Kann man eine UV-Übernahme rückgängig machen?
+Eine UV-Übernahme kann nicht rückgängig gemacht werden.
+Hinweis
+Zu viele Daten übernommen
+Haben Sie mit der UV-Übernahme zu viele Daten übernommen, müssen Sie
+diese auf den folgenden Seiten des Assistenten manuell entfernen.
+Alternativ können Sie eine neue Planung anlegen, was u.U. arbeitssparender
+ist.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+34
+
+6.3.4 Ergebnis der UV-Übernahme
+Nach der UV-Übernahme sind in der Planungsvariante folgende Daten vorhanden, die Sie
+auf den folgenden Webseiten des Assistenten weiter bearbeiten können:
+Spalte1
+
+Spalte2
+
+Klassen
+
+Klassen wurden gemäß Ihrer Auswahl in das nächste Halbjahr
+übernommen.
+Klassen- und Kursbezeichnungen wurden an die neue Stufe / das neue
+Halbjahr angepasst, sofern die Bezeichnung den LUSD-Konventionen
+entspricht (siehe Kapitel 2.7).
+
+Kurse
+
+Themen und Stundenzahlen
+▪ der übernommenen Kurse der Kursarten G, L, P und W wurden an die
+Einträge der Stundentafel Ihrer Planungsvariante angepasst.
+▪ die übernommenen Kurse der Kursarten A, B, F und Z wurden NICHT
+angepasst.
+Schülerindividuelle Kurseigenschaften
+▪ bleiben bei Kursen der Kursarten G, L, P und W erhalten.
+▪ wurden bei den Kursen der Kursarten A, B, F und Z NICHT
+übernommen.
+
+Schüler
+
+Schüler, mit Versetzungsvermerk
+▪ ja, wurden gemäß Ihrer Auswahl in das nächste Halbjahr übernommen.
+▪ nein, oder nein und keine Nachprüfung mehr, haben ihre
+Klassenzugehörigkeit und Kurszuordnungen verloren, jedoch ihre
+Zuordnung zu stufenübergreifenden Kursen behalten.
+▪ nein mit Schulformwechsel haben ihre Schulform-, Stufen- und
+Klassenzugehörigkeit sowie alle Kurszuordnungen verloren.
+Schüler mit internem Schulformübergang
+Schüler, die im aktuellen Halbjahr einen internen Schulformübergang für
+das nächste Halbjahr erhalten haben,
+▪ haben ihre Klassenzugehörigkeit und Kurszuordnungen verloren,
+jedoch ihre Zuordnung zu stufenübergreifenden Kursen behalten.
+Schüler im letzten Halbjahr einer Schulform
+▪ haben ihre Klassenzugehörigkeit und Kurszuordnungen verloren.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+35
+
+6.4
+
+UV-Planung > Klassenbildung
+Auf der Webseite UV-PLANUNG > KLASSENBILDUNG (Abb. 29) legen Sie neue Klassen an,
+die Sie im neuen Halbjahr benötigen. Dies sind in der Regel die Klassen mit der ersten
+Stufe einer Schulform.
+Hinweis
+Bitte beachten Sie die Hinweise zur Benennung von Klassen in Kapitel 2.7.
+
+Weisen Sie Ihren Schülern ohne Klasse (z. B. nicht versetzte Schüler) und Ihren
+Kandidaten eine Klasse zu. Die Schüler und Kandidaten erhalten dadurch automatisch die
+Klassenkurse der entsprechenden Klassen.
+
+Abb. 29 UV-Planung: Webseite Klassenbildung
+
+Online-Hilfe
+Für Informationen zur Klassenbildung, klicken Sie auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG rechts oben im
+Kopfbereich auf die Schaltfläche
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+.
+
+36
+
+6.5
+
+UV-Planung > Klassenwechsel
+Auf der Webseite UV-PLANUNG > KLASSENWECHSEL (Abb. 30) weisen Sie Schüler, die nach
+dem Halbjahreswechsel eine andere Klasse besuchen werden, einer neuen Klasse zu.
+
+Abb. 30 UV-Planung: Webseite Klassenwechsel
+
+Online-Hilfe
+Für Informationen zum Klassenwechsel, klicken Sie auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > KLASSENWECHSEL rechts oben im
+Kopfbereich auf die Schaltfläche
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+.
+
+37
+
+6.6
+
+UV-Planung > Fachwahlbearbeitung
+Auf der Webseite UV-PLANUNG > FACHWAHLBEARBEITUNG (Abb. 31) legen Sie durch die
+Auswahl im Feld SF/BK und ST/SEM fest, wie viele Kurse für die jeweiligen Schulformen
+und Jahrgänge auf der später folgenden Webseite KURSGENERIERUNG erstellt werden
+sollen, wenn Sie dort den Optionsschalter Neugenerierung aller Plankurse anwenden
+(Kapitel 6.8.2).
+
+Abb. 31 UV-Planung: Webseite Fachwahlbearbeitung
+
+1. Wählen Sie das gewünschte Register.
+Hinweis
+Bitte beachten Sie die Informationen zu den einzelnen Registern in der
+nachfolgenden Tabelle.
+2. Wählen Sie in der Auswahlliste SF/BK die gewünschte Schulform.
+3. Wählen Sie in der Auswahlliste ST/SEM den gewünschten Eintrag.
+4. Klicken Sie auf
+
+. Die Ergebnistabelle wird aktualisiert.
+
+5. Geben Sie in der Spalte Plankurse die gewünschte Anzahl zu generierender Kurse ein.
+Diese Angaben sind die Grundlage, um auf der Webseite UV-PLANUNG >
+KURSGENERIERUNG sogenannte Plankurse zu generieren (siehe Kapitel 6.8).
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+38
+
+Stundentafel (Pflichtunterricht)
+
+Fachwahlbearbeitung: Register
+Klassen-ÜG-Kurse
+
+Abb. 33 Fachwahlbearbeitung: Register
+Klassen-ÜG-Kurse
+Abb. 32 Fachwahlbearbeitung: Stundentafel
+(Pflichtunterricht)
+
+In Schulform R Stufe 08/1 werden auf der Webseite Fachwahlbearbeitung nur die beiden
+Fächer REV und RKA angezeigt, da diese als aktiv (kein Häkchen im Kontrollkästchen
+Inaktiv) und klassenübergreifend (kein Häkchen im Kontrollkästchen Kl.Ku
+(Klassenkurs )) gekennzeichnet sind.
+
+Stundentafel (Wahlpflichtunterricht)
+
+Fachwahlbearbeitung: Register WPU
+
+Abb. 35 Fachwahlbearbeitung: Register WPU
+
+Abb. 34 Fachwahlbearbeitung: Stundentafel
+(Wahlpflichtunterricht)
+
+In Schulform R Stufe 08/1 wird auf der Webseite Fachwahlbearbeitung nur das Fach F
+angezeigt, da dieses als aktiv (kein Häkchen im Kontrollkästchen Inaktiv) und
+klassenübergreifend (kein Häkchen im Kontrollkästchen Kl.Ku (Klassenkurs ))
+gekennzeichnet ist.
+
+Register
+
+Eingaben
+
+Klassen-ÜGKurse
+
+In diesem Register finden Sie für die von Ihnen ausgewählte
+Schulform und Stufe die Pflichtfächer, die in der Stundentafel als
+klassenübergreifend (kein Häkchen im Kontrollkästchen
+Klassenkurs) und aktiv (kein Häkchen im Kontrollkäschen Inaktiv)
+markiert sind.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+39
+
+WPU
+
+In diesem Register finden Sie für die von Ihnen ausgewählte
+Schulform und Stufe die Wahlpflichtfächer, die in der Stundentafel
+als klassenübergreifend (kein Häkchen im Kontrollkästchen
+Klassenkurs) und aktiv (kein Häkchen im Kontrollkäschen Inaktiv)
+markiert sind.
+
+Bildungsangebo
+t
+
+In diesem Register finden Sie die Bildungsangebote für
+stufengebundene Kurse der Kursarten A, B, F und Z für die von
+Ihnen ausgewählte Schulform und Stufe.
+Bei der Neugenerierung aller Plankurse auf der Webseite
+Kursgenerierung werden die erzeugten Kurse durch ein BA vor der
+Kursbezeichnung gekennzeichnet. (siehe Kapitel 6.8.2)
+
+Abb. 36 Fachwahlbearbeitung: Spalte Bildungsangebot
+
+LK/GK
+
+Dieses Register erscheint nur bei Schulformen mit Grund- und
+Leistungskursen.
+In diesem Register finden Sie Einträge der Stundentafel mit Themen
+für die von Ihnen ausgewählte Schulform und Stufe.
+Geben Sie in den Spalten Plankurse LK* und Plankurse GK* die
+gewünschte Anzahl zu generierender Kurse ein.
+
+Abb. 37 Fachwahlbearbeitung: Spalte LK/GK
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+40
+
+6.7
+
+UV-Planung > Lehrerdaten
+Auf der Webseite UV-PLANUNG > LEHRERDATEN (Abb. 38) können Sie im Bereich
+STUNDENÜBERSICHT:
+▪
+▪
+▪
+▪
+
+→ Kapitel 6.7.1
+→ Kapitel 6.7.2
+→ Kapitel 6.7.3
+→ Kapitel 6.7.4
+
+NN-Lehrer anlegen
+NN-Lehrer bearbeiten
+NN-Lehrer löschen
+Die Lehrerstunden bearbeiten
+
+Abb. 38 Webseite UV-Planung: Lehrerdaten
+
+6.7.1 NN-Lehrer anlegen
+NN-Lehrer …
+▪ sind Lehrkräfte, deren Namen bei der Planung nicht bekannt sind.
+▪ stehen nach dem Hinzufügen in einer UV-Planung sofort in allen anderen UVPlanungen zur Verfügung.
+▪ können nur in der UV-Planung (Webseite LEHRKRÄFTE-KURSZUORDNUNG) zu Kursen
+zugeordnet werden.
+▪ müssen Sie nach der Aktivierung der UV- Planung einer realen Lehrkraft zuordnen
+(siehe untenstehenden Hinweis).
+1. Klicken Sie auf die Schaltfläche
+
+.
+
+Es erscheint das Dialogfenster LEHRERDATEN HINZUFÜGEN.
+Der Eintrag KÜRZEL ist vorbelegt und nicht änderbar.
+2. Geben Sie, falls bekannt, den Vor- und Nachnamen der zukünftigen Lehrkraft ein.
+3. Klicken Sie auf die Schaltfläche
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+.
+
+41
+
+Der neu angelegte NN-Lehrer wird in der STUNDENÜBERSICHT eingefügt.
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+5. Klicken Sie auf die Schaltfläche
+
+.
+
+Hinweis – Die Zuordnung von NN-Lehrern
+Die Zuordnung von NN-Lehrern zu einer realen Lehrkraft erfolgt im neuen
+Halbjahr auf der Webseite PERSONAL > PERSONALVERWALTUNG im Register
+NN-LEHRKRÄFTE.
+Variante 1:
+NN-Lehrkraft wird durch eine SAP-Lehrkraft ersetzt.
+▪ Ordnen Sie die gewünschte NN-Lehrkraft der gewünschten SAP-Lehrkraft
+zu.
+Variante 2:
+NN-Lehrkraft wird durch eine Lehrkraft ohne SAP-Nummer ersetzt.
+▪ Legen Sie zunächst die Lehrkraft auf der Webseite SCHULE >
+PERSONAL > PERSONAL bearbeiten an.
+▪ Ordnen Sie die NN-Lehrkraft dieser Person zu.
+
+Online-Hilfe
+Für Informationen zu NN-Lehrkräften, klicken Sie auf der Webseite PERSONAL
+> PERSONALVERWALTUNG im Register NN-LEHRKRÄFTE rechts oben im
+Kopfbereich auf die Schaltfläche
+
+.
+
+6.7.2 NN-Lehrkräfte bearbeiten
+1. Klicken in die Zeile der NN-Lehrkraft, deren Daten Sie bearbeiten möchten.
+Sie wird blau markiert.
+2. Klicken Sie auf die Schaltfläche
+
+.
+
+Es erscheint das Dialogfenster LEHRERDATEN BEARBEITEN.
+3. Ändern Sie die gewünschten Daten. Klicken Sie auf die Schaltfläche
+5. Klicken Sie auf die Schaltfläche
+
+.
+
+6. Klicken Sie auf die Schaltfläche
+
+.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+.
+
+42
+
+6.7.3 NN-Lehrer löschen
+Hinweis
+Sie können nur NN-Lehrer löschen!
+NN-Lehrer können in einer UV-Planung gelöscht werden. In allen anderen
+UV-Planungen bleiben sie erhalten.
+
+1. Klicken Sie in die Zeile des NN-Lehrers, den Sie löschen möchten.
+Sie wird blau markiert.
+2. Klicken Sie auf die Schaltfläche
+
+.
+
+Die ausgewählte Zeile wird - OHNE Nachfrage! - entfernt.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+4. Klicken Sie auf die Schaltfläche
+
+.
+
+6.7.4 Stunden vorhandener Lehrkräfte anpassen
+Die Tabelle STUNDENÜBERSICHT (Abb. 39) zeigt die für das nächste Halbjahr gültigen
+Daten.
+Sie können folgende Daten anpassen:
+▪
+▪
+▪
+▪
+▪
+
+Pflichtstunden
+Erhöhungs-/Minderungsstunden
+Anrechnungsstunden
+Abordnungs-/Freistellungsstunden
+Unterrichtswirksame Stunden
+
+Abb. 39 UV-Planung: Stunden einer Lehrkraft bearbeiten
+
+1. Klicken Sie vor der Lehrkraft, deren Stunden Sie bearbeiten möchten, auf
+
+.
+
+▪ Die bearbeitbaren Stundenzahlen werden durch einen Rahmen hervorgehoben.
+▪ In der linken Spalte erscheinen die Schaltsymbole
+und
+.
+▪ Standardmäßig werden die Werte (außer UV-Stunden) aus den Halbjahresdaten der
+Lehrkraft aus der Webseite PERSONAL > PERSONALBASISDATEN > STUNDENBILANZ
+vorbelegt.
+2. Klicken Sie in die gewünschten Felder und ändern jeweils die Stundenzahl.
+3. Um die Änderung zu übernehmen, klicken Sie auf
+
+oder drücken die RETURN-Taste.
+
+▪ Das Feld UV-STUNDEN wird automatisch berechnet.
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+43
+
+▪ Bei der Aktivierung der Planungsvariante werden nur die UV-STUNDEN der
+Planungsvariante in die aktive UV übernommen. Alle anderen Werte werden aus den
+aktuellen Halbjahresdaten der betroffenen Lehrkraft übernommen.
+4. Um die Eingabe abzubrechen, klicken Sie auf
+
+6.8
+
+5. Klicken Sie auf die Schaltfläche
+
+.
+
+6. Klicken Sie auf die Schaltfläche
+
+.
+
+.
+
+UV-Planung > Kursgenerierung
+Auf der Webseite UV-PLANUNG > KURSGENERIERUNG können Sie sogenannte Plankurse
+generieren. Das sind zusätzliche Kurse in der Planungsvariante.
+Hierbei haben Sie folgende Möglichkeiten:
+▪ Keine (erneute) Generierung von Plankursen
+▪ Neugenerierung aller Plankurse
+▪ Generierung fehlender Plankurse
+
+→ Kapitel 6.8.1
+→ Kapitel 6.8.2
+→ Kapitel 6.8.3
+
+Beim Aufruf der Webseite KURSGENERIERUNG (Abb. 40).
+▪ ist der Optionsschalter KEINE (ERNEUTE) GENERIERUNG VON PLANKURSEN aktiviert.
+▪ enthält die Tabelle alle Schulformen Ihrer Schule mit den zur Verfügung stehenden
+Stufen.
+▪ erkennen Sie an den Häkchen in der Spalte GENERIERT, dass für diese Stufe bereits
+eine UV-Übernahme erfolgt ist und bereits Kurse vorhanden sind.
+
+Abb. 40 UV-Planung: Webseite Kursgenerierung
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+44
+
+6.8.1 Keine (erneute) Generierung von Plankursen
+Dies ist die Standardeinstellung beim Aufruf der Webseite.
+Wenn Sie auf die Schaltfläche
+klicken, werden daher weder vorhandene Kurse
+geändert, noch werden Kurse generiert oder gelöscht.
+6.8.2 Neugenerierung aller Plankurse
+In manchen Fällen ersparen Sie sich das manuelle Löschen von übernommenen Kursen
+und Kurszuordnungen sowie das manuelle Erstellen von neuen Kursen, wenn Sie die bei
+der UV-Übernahme übernommenen Kurse neu generieren.
+1. Klicken Sie auf die Optionsschaltfläche NEUGENERIERUNG ALLER PLANKURSE.
+
+Abb. 41 Kursgenerierung: Optionsschaltfläche Neugenerierung aller Plankurse
+
+2. Setzen Sie für die Stufen einer Schulform, deren Kurse neu generiert werden sollen,
+jeweils ein Häkchen.
+Tipp
+Sie können eine Mehrfachauswahl über verschiedene Schulformen
+vornehmen.
+Bitte beachten Sie hierzu die nachstehende Tabelle mit Beispielen.
+3. Klicken Sie auf die Schaltfläche
+
+.
+
+Hinweis
+Beim Speichern werden alle vorhandenen Kurse der ausgewählten
+Schulformen und Stufen einschließlich Lehrkräfte – und
+Schülerkurszuordnungen gelöscht und durch die neu generierten Kurse
+ersetzt. Beachten Sie die folgende Tabelle .
+
+Beispiel Plankurse
+Neugenerierung aller Plankurse beim Wechsel von der Stufe E2 (Klassen mit Pflichtkursen
+und Wahlunterricht) zur Stufe Q1 (neu zusammengesetzte Tutorengruppen mit Grund- und
+Leistungskursen).
+▪ Sie haben in der E2 6 Pflichtkurse Mathematik.
+▪ Sie brauchen in der Q1 4 Grundkurse und 3 Leistungskurse Mathematik.
+1. Legen Sie die Anzahl der zu generierenden Kurse für Mathematik (und andere Fächer)
+der Stufe Q1 auf der Webseite FACHWAHLBEARBEITUNG im Register GK/LK fest.
+Anhand der Stundentafel wird die benötigte Anzahl Kurse - wie auf der Webseite
+FACHWAHLBEARBEITUNG festgelegt - generiert.
+Diesen sind dann noch Lehrkräfte und ggf. Schüler zuzuordnen
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+45
+
+Welche Plankurse werden beim Speichern neu generiert?
+Inaktive Fächer in Stundentafel und Bildungsangebote der Planungsvariante
+
+Stundentafel der Planungsvariante
+
+Zu inaktiven Einträgen der Webseiten
+STUNDENTAFEL und BILDUNGSANGEBOTE
+werden in Ihrer Planungsvariante keine
+Kurse generiert.
+
+Abb. 42 Planungsvariante: Stundentafel inaktive
+Einträge
+
+Bildungsangebote der Planungavariante
+
+Abb. 43 Planungsvariante: Bildungsangebote aktive
+Einträge
+
+Klassenkurse mit Kursarten P, W, G oder L
+
+Neu generierte Kurse für eine Klasse
+Stundentafel der Planungsvariante
+
+Abb. 45 Planungsvariante: Neu generierte
+Kurse für Klassen
+
+Diese Kurse enthalten die Schüler der
+Klasse.
+Abb. 44 Planungsvariante: Stundentafel
+
+Diesen Kursen fehlen die Lehrkräfte!
+Weisen Sie den Kursen Lehrkräfte zu.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+46
+
+Klassenübergreifende Kurse mit Kursarten G, L, P oder W
+Angabe der Anzahl zu erzeugender Kurse auf der Webseite Fachwahlbearbeitung
+
+Stundentafel der Planungsvariante
+
+Neu generierte Kurse
+
+Abb. 48 Planungsvariante: Neu generierte
+Kurse für ÜG-Kurse
+Abb. 46 Planungsvariante: Kursart P
+
+Webseite FACHWAHLBEARBEITUNG
+
+Diese Kurse sind ohne Lehrkräfte und
+ohne Schüler!
+Weisen Sie den Kursen Lehrkräfte und
+Schüler zu!
+Hinweis:
+Kurse der Kursarten L und G werden
+analog behandelt.
+
+Abb. 47 Planungsvariante: Klassen-ÜG-Kurse
+
+Stundentafel der Planungsvariante
+
+Neu generierter Kurs
+
+Abb. 51 Planungsvariante: Neu generierter
+Kurs in der Kursbearbeitung
+Abb. 49 Planungsvariante: Kursart W
+
+Webseite FACHWAHLBEARBEITUNG
+
+Dieser Kurs ist ohne Lehrekräfte und
+Schüler!
+Weisen Sie dem Kurs Lehrer und
+Schüler zu.
+
+Abb. 50 Planungsvariante: Fachwahlbearbeitung
+WPU
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+47
+
+Klassenübergreifende Kurse mit Kursarten A, B, F oder Z
+Angabe der Anzahl zu erzeugender Kurse auf der Webseite FACHWAHLBEARBEITUNG
+
+Bildungsangebote der Planungsvariante
+
+Neu generierte klassenübergreifende
+Kurse
+
+Abb. 54 Planungsvariante: Neu generierte
+klassenübergreifende Kurse in der
+Kursbearbeitung
+
+Abb. 52 Planungsvariante: Fach D
+
+Webseite FACHWAHLBEARBEITUNG
+Alle Kursbezeichnungen beginnen mit
+dem Kürzel BA (Bildungsangebot).
+Diese Kurse sind ohne Lehrkräfte und
+Schüler!
+Weisen Sie den Kursen Lehrkräfte und
+Schüler zu.
+
+Abb. 53 Planungsvariante: Fachwahlbearbeitung
+Plankurse
+
+6.8.3 Generierung von fehlenden Plankursen der Kursarten P, L, W oder G
+1. Klicken Sie auf die Schaltfläche GENERIERUNG VON FEHLENDEN PLANKURSEN.
+
+Abb. 55 UV-Planung: Schaltfläche Generierung von fehlenden Plankursen
+
+2. Wählen Sie in der Tabelle die Stufen/Semester der entsprechenden Schulformen aus.
+Im Beispiel (Abb. 56) werden für die Stufe 06/1 der Schulform F die fehlenden Plankurse
+generiert. Die Kurse der Stufe 05/1 der Schulform F werden nicht beachtet.
+
+Abb. 56 Generierung Plankurse: Auswahl der Stufe
+
+3. Klicken Sie auf die Schaltfläche
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+.
+
+48
+
+Tipp
+In der Stundentafel der Planungsvariante wird in den ausgewählten
+Schulformen und Stufen geprüft:
+▪ Ist ein Fach als inaktiv markiert, werden keine fehlenden Kurse generiert.
+▪ Ist ein Fach als Klassenkurs markiert, werden nur die Klassenkurse
+generiert, die nicht aus dem vorigen Halbjahr übernommen wurden.
+→ Weisen Sie diesen Kursen Lehrkräfte zu.
+▪ Ist ein Eintrag als klassenübergreifend markiert (= kein Häkchen in der
+Spalte Klassenkurs), wird ein klassenübergreifender Kurs generiert, wenn
+noch kein klassenübergreifender Kurs aus dem vorigen Halbjahr
+übernommen wurde.
+→ Weisen Sie diesem Kurs Schüler und Lehrkraft zu.
+Einträge auf der Webseite FACHWAHLBEARBEITUNG (Kapitel 6.6) werden nicht
+berücksichtigt.
+
+Welche fehlenden Plankurse (Kursart P, L, W oder G) werden beim Speichern
+zusätzlich generiert?
+Konstellation (Beispiel)
+Die Stundentafel der Planungsvariante enthält in der Stufe 10/1 das Fach Physik.
+Es gibt 2 Realschulklassen.
+Diese Kurse wurden bereits übernommen:
+
+Abb. 57 Fehlende Plankurse: Bereits übernommene Kurse
+
+Nach Anwendung der Option: Generierung von fehlenden Kursen …
+Variante 1 – Fach Physik: inaktiv
+
+Abb. 58 Generierung von fehlenden Kursen: Fach Physik ist inaktiv
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+49
+
+Es wurden keine weiteren Kurse generiert, da der Stundentafeleintrag für Physik inaktiv
+gesetzt ist.
+
+Abb. 59 Fach Physik ist inaktiv: keine weiteren Kurse
+
+Variante 2 – Fach Physik: aktiv, Klassenkurs
+
+Abb. 60 Generierung von fehlenden Kursen: Fach Physik ist aktiv - Klassenkurs
+
+Es wurde ein zusätzlicher Klassenkurs PHYSIK generiert, da es in Stufe 10/1 zwei Klassen
+gibt und das Fach in der Stundentafel als Klassenkurs gekennzeichnet ist.
+
+Abb. 61 Fach Physik ist aktiv: Klassenkurs generiert
+
+Der Kurs ist ohne Lehrkraft. Weisen Sie dem Kurs eine Lehrkraft zu.
+Variante 3 – Fach Physik: aktiv, Klassenübergreifend
+
+Abb. 62 Generierung von fehlenden Kursen: Fach Physik ist aktiv - Klassenübergreifend
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+50
+
+Es wurde kein neuer Kurs generiert, da bereits ein klassenübergreifender Kurs durch die
+UV-Übernahme vorhanden war.
+
+Abb. 63 Fach Physik ist aktiv: kein Kurs generiert
+
+Wäre noch kein klassenübergreifender Kurs durch die UV-Übernahme da gewesen, wäre
+ein neuer klassenübergreifender Kurs generiert worden.
+
+6.9
+
+UV-Planung > Kursbearbeitung
+Auf dieser Webseite sollten Sie
+▪
+▪
+▪
+▪
+▪
+
+die übernommenen Kurse auf Vollständigkeit überprüfen und bei Bedarf anpassen.
+fehlende Kurse anlegen.
+Kurse löschen, die nicht mehr benötigt werden.
+Schüler aus Kursen entfernen.
+schülerindividuelle Kurseigenschaften bearbeiten.
+Tipp
+Nutzen Sie hierfür die Berichte zu Kursen unter EXTRAS > BERICHTE >
+STANDARDBERICHTE > UNTERRICHT > KURSE.
+
+Online-Hilfe
+Für Informationen zur Kursbearbeitung, klicken Sie auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG rechts oben im
+Kopfbereich auf die Schaltfläche
+
+.
+
+6.10 UV-Planung > Lehrkräfte- Kurs- Zuordnung
+Auf dieser Webseite können Sie Ihre Lehrkräfte Kurs-Zuordnung (Hauptlehrkraft und
+Kompensationslehrkraft) inkl. der Lehrkräftestunden prüfen und bearbeiten.
+Tipp
+Nutzen Sie hierfür die Berichte zu Kursen unter EXTRAS > BERICHTE >
+STANDARDBERICHTE > UNTERRICHT > KURSE.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+51
+
+Online-Hilfe
+Für Informationen zur Lehrkräfte-Kurs-Zuordnung, klicken Sie auf der
+Webseite UNTERRICHT > UV-BEARBEITUNG > LEHRKRÄFTE-KURS-ZUORDNUNG
+rechts oben im Kopfbereich auf die Schaltfläche
+
+.
+
+6.11 UV-Planung > Schüler-Kurszuordnung
+Auf dieser Webseite können Sie die Kurszuordnungen für Ihre aktiven Schüler, Kandidaten
+und externen Schüler prüfen und bearbeiten. Kontrollieren Sie vor allem übergreifende
+Kurse.
+Tipp
+Nutzen Sie hierfür die Schülerbezogene Kurslisten und Schüler-Kurse
+unter EXTRAS > BERICHTE > STANDARDBERICHTE > UNTERRICHT > KURSE.
+
+Online-Hilfe
+Für Informationen zur Schüler-Kurszuordnung, klicken Sie auf der Webseite
+UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURS-ZUORDNUNG rechts oben im
+Kopfbereich auf die Schaltfläche
+
+.
+
+6.12 UV-Planung > Kurswechsel
+Auf dieser Webseite führen Sie die notwendigen Kurswechsel durch.
+Online-Hilfe
+Für Informationen zum Kurswechsel, klicken Sie auf der WEBSEITE
+UNTERRICHT > UV-BEARBEITUNG > KURSWECHSEL rechts oben im Kopfbereich
+auf die Schaltfläche
+
+.
+
+6.13 UV-Planung > Kurskopplung
+Auf dieser Webseite können Sie Kurskopplungen für den Export in ein
+Stundenplanprogramm bearbeiten.
+Online-Hilfe
+Für Informationen zur Kurskopplung, klicken Sie auf der Webseite
+UNTERRICHT > STUNDENPLAN > KURSKOPPLUNG rechts oben im Kopfbereich
+auf die Schaltfläche
+
+.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+52
+
+6.14 UV-Planung > Stundenplanpflege
+Auf dieser Webseite können Sie Stundenplansetzungen für den Export in ein
+Stundenplanprogramm bearbeiten.
+Online-Hilfe
+Für Informationen zur Stundenplanpflege, klicken Sie auf der Webseite
+UNTERRICHT > STUNDENPLAN > STUNDENPLANPFLEGE rechts oben im
+Kopfbereich auf die Schaltfläche
+
+.
+
+6.15 UV-Planung > Prüfung Planung
+Auf dieser Webseite können Sie Ihre Planungsvariante prüfen. Sie entspricht der Webseite
+UNTERRICHT > UV-BEARBEITUNG > PRÜFUNG PLANUNG.
+1. Klicken Sie auf die Schaltfläche
+zu erhalten.
+
+, um Hinweise auf mögliche Auffälligkeiten
+
+2. Ändern Sie unbeabsichtigte Abweichungen.
+3. Führen Sie bei Bedarf eine erneute Prüfung aus.
+Tipp
+Nutzen Sie hierfür die Bericht MELDUNGSÜBERSICHT – VERSION: UV –
+PRÜFUNGSTEST unter EXTRAS > BERICHTE > STANDARDBERICHTE >
+UNTERRICHT > DATENPRÜFUNG - MELDUNGSÜBERSICHT.
+
+7
+
+Eine Planungsvariante aktivieren
+Zu Beginn eines Schulhalbjahres müssen Sie eine der vorhandenen UV-Planungsvarianten
+aktivieren und damit als aktuelle Unterrichtsverteilung (UV) für das Schulhalbjahr festlegen.
+Dies erfolgt
+▪ für das erste Schulhalbjahr ab dem 01. August.
+▪ für das zweite Schulhalbjahr ab dem 1. Montag im Februar.
+Ohne aktivierte UV-Planung können Sie nicht mit der LUSD weiterarbeiten.
+Ihre Planungsvariante aktivieren Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+PLANUNG aktivieren.
+Die Tabelle gibt an, welche Planungsvariante mit Prio 1 ausgewiesen ist.
+
+Abb. 64 UV-Bearbeitung: Webseite Planung aktivieren
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+53
+
+Berichte zu Planungsvarianten nutzen
+8
+
+Bericht: Planung UV-Vergleich
+Mit dem Bericht PLANUNG UV-VERGLEICH können Sie eine Planungsvariante mit der
+vorhandenen UV vergleichen (EXTRAS > BERICHTE > STANDARDBERICHTE > UNTERRICHT >
+KURSE > PLANUNG UV VERGLEICH).
+Sie können diesen Bericht von jeder Webseite des Planungsassistenten aufrufen, mit
+Ausnahme der Seiten BILDUNGSANGEBOTE, UNTERRICHTSRHYTHMUS und
+BETREUUNGSANGEBOTE IM GANZTAG.
+1. Wählen Sie im Bereich BERICHTSPARAMETER die Unterrichtsverteilungsvariante* und die
+aktive UV* aus.
+2. Erstellen Sie danach den Bericht.
+3. Stellen Sie im PDF-Betrachter die Zweiseitenansicht ein, um die aktive UV und die
+Planungsvariante miteinander vergleichen zu können.
+
+9
+
+Andere Berichte
+Sie können auf jeder Webseite des Assistenten im Kopfbereich zur aktuellen Webseite
+passende Berichte auswählen.
+1. Wählen Sie durch Klick auf die Schaltfläche
+
+einen Bericht aus.
+
+2. Der Berichtsaufruf wird in der Berichtsverwaltung angezeigt.
+3. Wählen Sie im Bereich PARAMETER in der Auswahlliste UV* die von Ihnen bearbeitete
+Planungsvariante aus.
+
+LUSD | UV-Planung | Version: 2.4 | Letzter Stand: 04.07.2025
+
+54
+
+

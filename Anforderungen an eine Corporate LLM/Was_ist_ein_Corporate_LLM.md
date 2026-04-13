@@ -32,7 +32,7 @@ Dokumente (PDF, Word, Excel, Markdown) werden in einer **Vektordatenbank** index
 
 ---
 
-## 2. Warum kein Corporate LLM ein Problem ist
+## 2. Warum KEIN Corporate LLM ein Problem ist
 
 ### 2.1 Schatten-KI — der unsichtbare Risikofaktor
 

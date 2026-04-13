@@ -1,0 +1,969 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Benutzerverwaltung in der LUSD
+Basiswissen für LUSD-Administratoren
+
+Version: 3.4
+Letzter Stand: 23.02.2026
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Das Rechte- und Rollenkonzept der LUSD
+1
+
+5
+
+Elemente des Rechte- und Rollenkonzepts .......................................................................... 5
+1.1
+
+Autorisierung von Änderungen..................................................................................... 7
+
+2
+
+Beispiele möglicher Benutzerprofile mit zugeordneten Elementarrollen ................................ 9
+
+3
+
+Rechte und Aufgaben des LUSD-Administrators ................................................................ 10
+
+4
+
+5
+
+6
+
+7
+
+3.1
+
+Rechte des LUSD-Administrators .............................................................................. 10
+
+3.2
+
+Aufgaben des LUSD-Administrators .......................................................................... 10
+
+Benutzerprofile verwalten.................................................................................................... 11
+4.1
+
+Benutzerprofile anlegen ............................................................................................. 11
+
+4.2
+
+Bezeichnung eines Benutzerprofils bearbeiten .......................................................... 12
+
+4.3
+
+Benutzerprofil löschen ............................................................................................... 12
+
+4.4
+
+Offizielle Benutzerprofile ............................................................................................ 13
+
+Benutzer verwalten ............................................................................................................. 13
+5.1
+
+Automatisch angelegte Benutzer ............................................................................... 13
+
+5.2
+
+Neuen Benutzer anlegen ........................................................................................... 13
+
+5.3
+
+Benutzerberechtigungen verwalten ............................................................................ 15
+
+5.4
+
+Benutzer bearbeiten .................................................................................................. 17
+
+5.5
+
+Benutzer löschen ....................................................................................................... 18
+
+Passworte zurücksetzen ..................................................................................................... 18
+6.1
+
+Passwortrücksetzung durch einen LUSD-Administrator ............................................. 19
+
+6.2
+
+Das eigene Passwort ändern ..................................................................................... 19
+
+6.3
+
+Passwortrücksetzung bei Falscheingabe ................................................................... 20
+
+Berichte zur LUSD-Administration....................................................................................... 21
+7.1
+
+Bericht: Benutzer ....................................................................................................... 21
+
+7.2
+
+Bericht: Personal-Benutzerrollen-aktiv ....................................................................... 21
+
+7.3
+
+Bericht: Benutzer und Profile ..................................................................................... 22
+
+7.4
+
+Bericht: Rechtestruktur .............................................................................................. 22
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+3
+
+Zu diesem Dokument
+Das vorliegende Dokument richtet sich an alle LUSD-Administratoren, die in der LUSD Benutzer
+und deren Berechtigungen pflegen. Es enthält das nötige Basiswissen, um Benutzer und deren
+Berechtigungen in der LUSD zu verwalten. Basiskenntnisse der LUSD werden vorausgesetzt und
+sind daher nicht näher beschrieben.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+4
+
+Das Rechte- und Rollenkonzept der LUSD
+1
+
+Elemente des Rechte- und Rollenkonzepts
+Der Zugriff auf die Daten in der LUSD wird über ein mehrstufiges Berechtigungskonzept
+geregelt.
+Das Schaubild zeigt die Elemente des Rechte- und Rollenkonzepts der LUSD und
+verdeutlicht beispielhaft deren Zusammenhang. Die einzelnen Elemente werden in der
+nachfolgenden Tabelle näher beschrieben und erläutert.
+
+Stufe 1
+
+Stufe 2
+
+Stufe 3
+
+Stufe 4
+
+Elementarrollen
+
+Benutzerprofil
+
+Benutzer
+
+BenutzerName
+
+Benutzer-Kennwort
+
+Sekretär/in
+
+Bodo Kern
+
+bkern
+
+Vergeben Sie selbst
+
+Administrator/in
+
+Lisa Martin
+
+lmartin
+
+Vergeben Sie selbst
+
+Achim Grün
+
+agrün
+
+Vergeben Sie selbst
+
+Bearbeiter
+Personaldaten
+Bearbeiter Schuldaten
+
+Bearbeiter Schüler
+Bearbeiter
+Schülerkandidaten
+Forum Nutzer
+
+Leser
+LUSD Administration
+der Schule
+
+Abb. 1 Beispiel für den Zusammenhang der Elemente des Rechte- und Rollenkonzepts der LUSD
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+5
+
+Stufe
+
+Element
+
+1
+
+Elementarrolle
+
+Bedeutung
+▪ Die Elementarrollen sind zentral vorgegeben.
+▪ Für jede Elementarrolle ist festgelegt, auf welche LUSD-Webseiten und
+Berichte sie lesend oder schreibend zuzugreifen darf.
+▪ Eine Übersicht, auf welche LUSD Webseite eine Elementarrolle
+zugreifen darf, finden Sie in dem Dokument Benutzerverwaltung LUSD
+Zuordnung Webseiten zu Elementarrollen.
+▪ Eine Elementarrolle kann mehreren Benutzerprofilen zugewiesen
+werden.
+
+2
+
+Benutzerprofil
+
+▪ Benutzerprofile können schulspezifisch angelegt werden.
+▪ Ein Benutzerprofil kann mehrere Elementarrollen enthalten.
+▪ Es gibt HMKB-Benutzerprofile, die vorgegeben sind und durch die
+Schule nicht bearbeitet werden können.
+▪ Die HMKB-Benutzerprofile können Benutzern zugewiesen werden.
+
+3
+
+Benutzer
+
+▪ Einem Benutzer werden – in Abhängigkeit seiner Aufgaben – die
+benötigten Benutzerprofile zugewiesen.
+▪ Bei Anlage eines Benutzers wird automatisch das Benutzerprofil Initiale
+Lehrkraft zugewiesen
+▪ Personal, mit SAP-Nummer erhalten bei Lieferung über die
+Schnittstelle automatisch einen deaktivierten Benutzer
+
+4
+
+Benutzername
+
+▪ Bei Anmeldung an der LUSD über das Hessische
+Schulverwaltungsnetz (HSVN) wird zur Anmeldung (Authentifizierung)
+der LUSD-Benutzername über das HSVN benötigt und ist zusammen
+mit dem Passwort der „Ausweis“ des Benutzers für den Zugriff auf die
+LUSD.
+▪ Der Benutzername
+▪ wird vom System automatisch erzeugt.
+▪ besteht aus dem Anfangsbuchstaben des Vornamens und des
+Nachnamens.
+▪ hat eine maximale Länge von 8 Zeichen
+▪ Würden bei der Erzeugung des Benutzernamens gleiche
+Daten erzeugt, kürzt das System bei Bedarf die Zeichenfolge
+soweit, dass es fortlaufende Ziffern zur Unterscheidung der
+Benutzer anhängen kann (z. B. aschmid1 und aschmid2).
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+6
+
+Passwort (LUSD)
+
+▪ Das Passwort wird zur Anmeldung (Authentifizierung) benötigt.
+▪ Sobald ein Benutzer angelegt wird, generiert das System automatisch
+ein Initialpasswort.
+▪ Sobald sich der Benutzer mit diesem Initialpasswort in der LUSD
+anmeldet, wird er vom System aufgefordert, das Initialpasswort in sein
+persönliches Passwort zu ändern.
+Das eigene Passwort muss mindestens enthalten:
+▪ 8 Zeichen (je mehr, desto sicherer),
+▪ eine Ziffer (0123456789),
+▪ einen Buchstaben (a-z, A-Z, ä, ö, ü, Ä, Ö, Ü, ß),
+▪ eines der folgenden Satzzeichen:
+Punkt, Komma, Doppelpunkt oder Semikolon
+
+5
+
+Schul-ID Hessen
+
+▪ Bei Anmeldung an der LUSD über die Schul-ID wird von Anwender der
+LUSD-Benutzername nicht benötigt. Die Schul-ID ist mit dem LUSDBenutzernamen verknüpft.
+▪ In der Schul-ID wird die LUSD-Kachel nur angezeigt, wenn der LUSDBenutzer gültig und aktiv ist.
+
+1.1
+
+Autorisierung von Änderungen
+Im Rahmen des BSI-Grundschutz (BSI = Bundesamt für Sicherheit in der
+Informationstechnik) werden alle Änderungen im LUSD-Bereich Administration protokolliert.
+Dies erfolgt beim Speichern über das Dialogfenster AUTORISIERUNG.
+Sobald Sie in der LUSD Änderungen im LUSD-Bereich Administration speichern, erscheint
+das Dialogfenster AUTORISIERUNG.
+
+Abb. 2 Dialogfenster Autorisierung
+
+1. Geben Sie die Autorisierungsdaten ein.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+7
+
+Feld
+mit * = Pflichtfeld
+
+Inhalt
+
+Änderung
+vorgenommen
+durch
+
+Name des angemeldeten Benutzers. Das Feld kann
+nicht bearbeitet werden.
+
+Autorisiert
+durch*
+
+Name der Person, die die Änderung autorisiert hat.
+Vorbelegt mit dem Namen des angemeldeten
+Benutzers.
+Änderung über die Hinterlegungstabelle möglich.
+
+Begründung*
+
+Freitext
+
+2. Klicken Sie auf die Schaltfläche ÜBERNEHMEN.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+8
+
+2
+
+Beispiele möglicher Benutzerprofile mit zugeordneten Elementarrollen
+
+Eine Übersicht, auf welche LUSD Webseite eine Elementarrolle zugreifen darf, finden Sie in dem Dokument Benutzerverwaltung LUSD Zuordnung
+Webseiten zu Elementarrollen. In diesem Dokument finden Sie stets die aktuellen Elementarrollen.
+Die nachfolgende Tabelle enthält nur ein Beispiel wie Elementarrollen zu Benutzerprofilen zugeordnet sein könnten.
+Es werden keine offiziellen Benutzerprofile aufgeführt.
+Elementarrollen
+
+Bearbeiter/i Bearbeiter/i Bearbeiter/i Bearbeiter/i Bearbeiter/in
+
+Bearbeiter/in
+
+n Personal- n
+n Schüler
+daten
+Schuldaten
+(Schule)
+
+Sek2 – Schul- n UVlaufbahnentSchüler
+scheidungen
+
+n Schülerkandidaten
+
+Schullaufbahnentscheidungen
+
+Bearbeiter/i Bearbeiter/i Erfasser/in
+n
+Zeugnisse
+
+Leistungen
+
+Kalender-
+
+Klassenlehrer Leser/in LUSD
+
+verarbeitung
+
+Tutor
+
+BenutzerProfile
+
+Schulleiter/in
+Sekretär/in
+Administrator
+/in
+Abteilungsleiter/in
+Schulzweigleiter/in
+Lehrer/in
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+Prüfer sonder- Prüfer/in Schüler-
+
+Administrator pädagogischer kandidaten
+/in der
+Förderbedarf
+Schule
+
+9
+
+Stunden- UV-
+
+Vertretungs-
+
+planer/in Planer/in
+
+planer/in
+
+3
+
+Rechte und Aufgaben des LUSD-Administrators
+
+3.1
+
+Rechte des LUSD-Administrators
+Nur LUSD-Benutzer, die durch ein Benutzerprofil über die Elementarrolle LUSDADMINISTRATOR/IN DER SCHULE oder ALLE WEBSEITEN BEARBEITEN verfügen, haben das
+Recht, Benutzer anzulegen, zu bearbeiten und zu löschen.
+Daher erscheinen die Menüpunkte BENUTZER, BENUTZERPROFILE und
+BENUTZERBERECHTIGUNGEN nur, wenn Sie diese Berechtigung besitzen. Sie sind in der
+Navigation unter dem Hauptmenüpunkt ADMINISTRATION untergeordnet.
+
+3.2
+
+Aufgaben des LUSD-Administrators
+Der LUSD-Administrator …
+▪ kann das Passwort eines Benutzers zurücksetzen
+(➔ Kapitel 6.1)
+▪ legt neue Benutzerprofile an und bearbeitet vorhandene Benutzerprofile
+(➔ Kapitel 4)
+▪ legt neue LUSD-Benutzer an und kann Sie bearbeiten oder löschen
+(➔ Kapitel 5.2)
+▪ weist LUSD-Benutzern die notwendigen Benutzerprofile zu
+(➔ Kapitel 5.3)
+Hinweis
+Welche Personen in der LUSD welche Berechtigungen erhalten, ist von der
+Schulleitung festzulegen.
+Administratoren haben aus Datenschutzgründen (siehe Amtsblatt 2012-01,
+2009-03) die mit der LUSD verbundenen Aktivitäten / Berechtigungen in
+geeigneter Form festzuhalten.
+Zur Unterstützung steht Ihnen das Vergabekonzept von Rollen und
+Berechtigungen zur Verfügung.
+In der LUSD stehen Berichte mit den benötigten Angaben zur Verfügung.
+(➔ Kapitel 7).
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+10
+
+4
+
+Benutzerprofile verwalten
+Benutzerprofile enthalten eine oder mehrere Elementarrollen. Für jede Elementarrolle ist
+festgelegt, auf welche LUSD-Webseiten und Berichte sie lesend oder schreibend
+zuzugreifen darf.
+Sie können für Ihre Schule bedarfsgerechte, schulspezifische Benutzerprofile anlegen und
+vorhandene Benutzerprofile bearbeiten oder löschen (➔ Beispiele siehe Kapitel 2).
+Hinweis
+Mindestens ein Benutzerprofil muss die Elementarrolle LUSD-Administration
+der Schule enthalten. Dieses Benutzerprofil muss immer vorhanden sein!
+
+4.1
+
+Benutzerprofile anlegen
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZERPROFILE.
+▪ Die linke Tabelle VERFÜGBARE ELEMENTARROLLEN enthält alle Elementarrollen, die
+Sie Benutzerprofilen zuordnen können. Eine Übersicht, auf welche LUSD Webseite
+eine Elementarrolle zugreifen darf, finden Sie in dem Dokument Benutzerverwaltung
+LUSD Zuordnung Webseiten zu Elementarrollen.
+▪ Ausgegraute Elementarrollen können schulspezifischen Benutzerprofilen nicht
+zugewiesen werden. Diese sind in HMKB-Benutzerprofilen enthalten.
+▪ Die rechte Tabelle BENUTZERPROFILE enthält alle bisher angelegten Benutzerprofile
+Ihrer Schule und die offiziellen Benutzerprofile. Um zu sehen, welche Elementarrollen
+einem Benutzerprofil zugeordnet sind, klicken Sie auf die Schaltfläche
+entsprechenden Benutzerprofil.
+
+vor dem
+
+Abb. 3 Webseite Benutzerprofile: Oberfläche
+
+2. Um ein neues Benutzerprofil anzulegen, klicken Sie auf die Schaltfläche HINZUFÜGEN.
+
+Es erscheint das Dialogfenster BENUTZERPROFIL HINZUFÜGEN.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+11
+
+Abb. 4 Webseite Benutzerprofile: Dialogfenster Benutzerprofil hinzufügen
+
+3. Geben Sie die BEZEICHNUNG* des Benutzerprofils ein und klicken Sie auf ÜBERNEHMEN.
+Das neu angelegte Benutzerprofil wird in der Tabelle BENUTZERPROFILE einsortiert.
+Wiederholen Sie bei Bedarf die Schritte 2 und 3 für weitere Benutzerprofile.
+4. Weisen Sie jedem Benutzerprofil die benötigten Elementarrollen zu.
+▪ Markieren Sie in der rechten Tabelle BENUTZERPROFILE die Benutzerprofile, denen
+Sie Elementarrollen zuordnen möchten.
+▪ Markieren Sie in der linken Tabelle VERFÜGBARE ELEMENTARROLLEN die gewünschten
+Elementarrollen.
+5. Klicken Sie auf .
+Allen markierten Benutzerprofilen werden die ausgewählten Elementarrollen zugeordnet.
+6. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+7. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+
+4.2
+
+Bezeichnung eines Benutzerprofils bearbeiten
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZERPROFILE.
+2. Klicken Sie in der rechten Tabelle BENUTZERPROFILE in das Kontrollkästchen vor dem
+gewünschten Benutzerprofil.
+3. Klicken Sie auf BEARBEITEN. Es erscheint das Dialogfenster BENUTZERPROFIL
+BEARBEITEN. Ändern Sie die Bezeichnung des Benutzerprofils und klicken Sie auf
+ÜBERNEHMEN.
+4. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+5. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+
+4.3
+
+Benutzerprofil löschen
+Achtung
+Ein Benutzerprofil kann nur dann gelöscht werden, wenn ihm keine Benutzer
+zugeordnet sind.
+Mindestens ein Benutzerprofil muss die Elementarrolle LUSD-Administrator/in der
+Schule enthalten. Dieses Benutzerprofil muss immer erhalten bleiben!
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZERPROFILE.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+12
+
+2. Klicken Sie in der rechten Tabelle BENUTZERPROFILE in das Kontrollkästchen vor dem
+gewünschten Benutzerprofil.
+3. Klicken Sie auf LÖSCHEN.
+4. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+5. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+
+4.4
+
+Offizielle Benutzerprofile
+Die Benutzerprofile Antragsbearbeitung-SCP, Einwohnermeldedaten, Gesundheitsamt,
+HMKB Schulleiter/in, Individuelle Berichte, Initiale Lehrkraft, Konfiguration
+Leistungserfassung und Standardberichte sind vorgegeben und können nicht gelöscht
+oder geändert werden. Das Benutzerprofil Initiale Lehrkraft ist jedem Benutzer
+automatisch zugewiesen und kann nicht entfernt werden. Welche Elementarrollen das
+jeweilige Benutzerprofil enthält, können Sie in der Übersicht der Elementarrollen
+nachschlagen (siehe Benutzerverwaltung LUSD Zuordnung Webseiten zu Elementarrollen).
+
+5
+
+Benutzer verwalten
+
+5.1
+
+Automatisch angelegte Benutzer
+Bei der Lieferung von Schul- und Verwaltungspersonal über die SAP/LUSD Schnittstelle
+wird automatisch der LUSD-Benutzer angelegt. Dem Benutzer ist automatisch das
+Benutzerprofil Initiale Lehrkraft zugewiesen. Damit das Personal sich mit seinem Benutzer
+anmelden kann, muss dieser aktiviert werden. Siehe hierzu Kapitel 0.
+Der automatisch angelegte Benutzer wird automatisch deaktiviert, wenn er über die
+SAP/LUSD Schnittstelle nicht mehr geliefert wird. Wenn automatisch angelegte Benutzer
+gelöscht werden, können diese wieder neu angelegt werden. Siehe hierzu Kapitel 5.2.
+Hinweis
+Wird neues Personal über die Personalschnittstelle geliefert, wird automatisch ein
+deaktivierter LUSD-Benutzer angelegt.
+Weiterhin können nur LUSD-Administratoren neue LUSD-Benutzer anlegen!
+Als neuen LUSD-Benutzer können Sie nur Personen anlegen, die in die LUSD
+aufgenommen sind. Welche das sind, sehen Sie auf der Webseite SCHULE >
+PERSONAL > PERSONALÜBERSICHT.
+
+5.2
+
+Neuen Benutzer anlegen
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZER. Die Tabelle BENUTZER
+zeigt alle an Ihrer Schule bisher angelegten LUSD-Benutzer.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+13
+
+Abb. 5 Webseite Benutzer: Oberfläche
+
+2. Um einen neuen Benutzer anzulegen, klicken Sie auf HINZUFÜGEN. Es erscheint das
+
+Dialogfenster BENUTZER HINZUFÜGEN.
+3. Klicken Sie auf
+
+. Es erscheint das Dialogfenster LEHRERSUCHE.
+
+4. Suchen Sie die gewünschte Person aus dem Personalstamm und klicken Sie auf
+ÜBERNEHMEN. Die übernommenen Daten der Person werden im Dialogfenster BENUTZER
+HINZUFÜGEN angezeigt.
+
+Abb. 6 Webseite Benutzer: Dialogfenster Benutzer hinzufügen - nach Personalauswahl
+
+5. Geben Sie die weiteren Daten ein.
+Feld
+mit * = Pflichtfeld
+
+Inhalt
+
+Gültig bis*
+
+Bis zum eingegebenen Datum kann sich der Benutzer in der
+LUSD anmelden. Geben Sie ein Datum ein oder klicken Sie
+auf
+
+.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+14
+
+Deaktiviert
+
+Ist dieses Kontrollkästchen angehakt, ist der Benutzer
+deaktiviert und kann sich nicht in der LUSD anmelden.
+Die Deaktivierung können Sie jederzeit wieder aufheben,
+indem Sie in das Kontrollkästchen klicken.
+
+6. Klicken Sie auf ÜBERNEHMEN. Der neue Benutzer wird in der Tabelle BENUTZER
+einsortiert. Wiederholen Sie bei Bedarf die Schritte 2 bis 6 für weitere Personen.
+7. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG.
+8. Geben Sie die Autorisierungsdaten ein und klicken Sie auf ÜBERNEHMEN.
+9. Klicken Sie auf LOGIN / PASSWORT ANZEIGEN.
+10. Um die Datei mit dem Passwort zu öffnen oder zu speichern, klicken Sie im
+Dialogfenster DATEIDOWNLOAD auf die Schaltfläche ÖFFNEN oder SPEICHERN.
+
+Abb. 7 Webseite Benutzer: Dialogfenster Dateidownload
+
+Die Datei enthält den Benutzernamen und das Initialpasswort des neu angelegten
+Benutzers. Enthält der Nachname des Benutzers Sonderzeichen, werden diese im
+Benutzernamen durch ein "x" ersetzt.
+11. Klicken Sie auf SCHLIEßEN.
+12. Informieren Sie den neuen Benutzer über seinen Benutzernamen (Login) und sein
+Initialpasswort.
+Hinweis
+Meldet sich der neue Benutzer über das HSVN in der LUSD mit dem
+Initialpasswort an, wird dieser aufgefordert ein neues Passwort zu vergeben
+(siehe Kapitel 6.2).
+Über Anmeldung an der LUSD über die Schul-ID Hessen ist das LUSD-Passwort
+nicht notwendig.
+13. Weisen Sie dem neuen Benutzer auf der Webseite SCHULE > ADMINISTRATION >
+BENUTZERBERECHTIGUNGEN die benötigten Berechtigungen zu (➔ Kapitel 5.3.1).
+
+5.3
+
+Benutzerberechtigungen verwalten
+Damit ein Benutzer in der LUSD Daten ansehen und/oder bearbeiten kann, müssen Sie
+ihm – je nach Aufgabe – die nötigen Berechtigungen in Form von Benutzerprofilen
+zuweisen.
+
+5.3.1 Benutzern Benutzerprofile zuweisen
+1. Gehen Sie auf die Webseite SCHULE > ADMINISTRATION > BENUTZERBERECHTIGUNGEN.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+15
+
+▪ Die linke Tabelle VERFÜGBARE BENUTZERPROFILE enthält alle Benutzerprofile Ihrer
+Schule. Um zu sehen, welche Elementarrollen einem Benutzerprofil zugeordnet sind,
+klicken Sie auf die Schaltfläche
+vor dem entsprechenden Benutzerprofil.
+▪ Die rechte Tabelle BENUTZER enthält alle Benutzer Ihrer Schule. Um zu sehen,
+welche Benutzerprofile einem Benutzer zugeordnet sind, klicken Sie auf die
+Schaltfläche
+
+vor dem entsprechenden Benutzer.
+
+Abb. 8 Webseite Benutzerberechtigungen: Oberfläche
+
+2. Um Benutzern ein oder mehrere (weitere) Benutzerprofile zuzuordnen, klicken Sie in der
+rechten Tabelle BENUTZER in das Kontrollkästchen vor den gewünschten Benutzern.
+3. Klicken Sie in der linken Tabelle VERFÜGBARE BENUTZERPROFILE in das Kontrollkästchen
+vor dem Benutzerprofil, das Sie zuweisen möchten.
+4. Klicken Sie auf . Alle markierten Benutzer erhalten das/die ausgewählte/n
+Benutzerprofil/e.
+5. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+6. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+Hinweis
+Neue Berechtigungen werden erst 10 Minuten nach dem Speichern aktiv.
+Die Ansicht der Profile wird erst nach einer Neuanmeldung aktualisiert.
+5.3.2 Benutzern Benutzerprofile entziehen
+1. Gehen Sie auf die Webseite SCHULE > ADMINISTRATION > BENUTZERBERECHTIGUNGEN.
+2. Klicken Sie in der rechten Tabelle BENUTZER vor dem gewünschten Benutzer auf
+Sie sehen die dem Benutzer zugeordneten Benutzerprofile.
+
+.
+
+3. Klicken Sie in die Kontrollkästchen vor den zu entfernenden Profilen.
+4. Klicken Sie auf
+
+. Die ausgewählten Profile werden entfernt.
+
+5. Wiederholen Sie bei Bedarf die Schritte 2 bis 4 für weitere Benutzer.
+6. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG.
+7. Geben Sie die Autorisierungsdaten ein.
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+16
+
+8. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+Hinweis
+Neue Berechtigungen werden erst 10 Minuten nach dem Speichern aktiv.
+Die Ansicht der Profile wird erst nach einer Neuanmeldung aktualisiert.
+
+Sobald das System einen Benutzer ohne Berechtigungen findet erscheint in der
+Aufgabenliste (Regelgruppe: ADMINISTRATION – Kategorie: WARNUNG) die
+Meldung: Für den Benutzer xxx wurden keine Berechtigungen vergeben.
+
+5.4
+
+Benutzer bearbeiten
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZER.
+2. Klicken Sie in der Tabelle BENUTZER in das Kontrollkästchen vor dem gewünschten
+Benutzer.
+3. Klicken Sie auf BEARBEITEN.
+Es erscheint das Dialogfenster BENUTZER BEARBEITEN.
+
+Abb. 9 Webseite Benutzer: Dialogfenster Benutzer bearbeiten
+
+4. Ändern Sie die gewünschten Daten.
+Feld
+mit * = Pflichtfeld
+
+Inhalt
+
+Gültig bis*
+
+Bis zum eingegebenen Datum kann sich der Benutzer in der
+LUSD anmelden. Geben Sie ein Datum ein oder klicken Sie
+auf
+
+Deaktiviert
+
+.
+
+Ist dieses Kontrollkästchen angehakt, ist der Benutzer
+deaktiviert und kann sich nicht in der LUSD anmelden. In der
+Schul-ID Hessen wird die LUSD-Kachel nicht angezeigt.
+Die Deaktivierung können Sie jederzeit wieder aufheben,
+indem Sie in das Kontrollkästchen klicken.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+17
+
+5. Klicken Sie auf ÜBERNEHMEN.
+6. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+7. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+
+5.5
+
+Benutzer löschen
+Hinweis
+Ein Benutzer, der angemeldet ist, kann nicht gelöscht werden.
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZER.
+2. Klicken Sie in der Tabelle BENUTZER in das Kontrollkästchen vor dem gewünschten
+Benutzer.
+3. Klicken Sie auf LÖSCHEN.
+4. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+5. Klicken Sie auf ÜBERNEHMEN und anschließend auf SCHLIEßEN.
+
+6
+
+Passworte zurücksetzen
+Hat ein Anwender sein Passwort vergessen, kann sein Passwort wieder zurückgesetzt
+werden.
+Hinweis
+LUSD-Administratoren haben das Recht, Passwörter von Anwendern (auch von
+anderen LUSD-Administratoren) zurückzusetzen.
+Jede Schule sollte daher mindestens zwei LUSD-Benutzer mit der
+Elementarrolle LUSD Administration der Schule ausstatten, um jederzeit die
+Arbeitsfähigkeit der LUSD-Administration sicherzustellen
+Der LUSD-Support kann das Passwort nur für Benutzer mit der Elementarrolle
+LUSD Administration zurücksetzen!
+Jedes Passwort ist 30 Tage gültig. Danach werden Sie bei der Anmeldung
+darauf hingewiesen, dass Sie Ihr Passwort ändern müssen.
+Ein einmal vergebenes Passwort kann erst wieder genutzt werden, wenn
+dazwischen zwölf andere Passwörter verwendet wurden. Andernfalls wird der
+Benutzer zur erneuten Eingabe eines anderen Passwortes aufgefordert.
+Achtung
+Bei Zugriff auf die LUSD über die Schul-ID Hessen (Lehrer-ID) sind keine
+separaten Zugangsdaten für die LUSD erforderlich.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+18
+
+6.1
+
+Passwortrücksetzung durch einen LUSD-Administrator
+1. Öffnen Sie die Webseite SCHULE > ADMINISTRATION > BENUTZER.
+2. Klicken Sie in das Kontrollkästchen vor dem Benutzer, dessen Passwort Sie
+zurücksetzen möchten.
+3. Klicken Sie auf ZURÜCKSETZEN.
+4. Klicken Sie auf SPEICHERN. Es erscheint das Dialogfenster AUTORISIERUNG. Geben Sie
+die Autorisierungsdaten ein.
+10. Klicken Sie auf ÜBERNEHMEN.
+11. Klicken Sie auf LOGIN / PASSWORT ANZEIGEN.
+12. Um die Passwortdatei zu öffnen oder zu speichern, klicken Sie im Dialogfenster
+DATEIDOWNLOAD auf die Schaltfläche ÖFFNEN oder SPEICHERN. Die Datei enthält
+Benutzername und Initialpasswort des Benutzers.
+
+Abb. 10 Webseite Benutzer: Dialogfenster Dateidownload
+
+Hinweis
+Informieren Sie den Benutzer über sein neues Initialpasswort. Der Benutzer
+meldet sich dann in der LUSD mit diesem Initialpasswort an und muss sich
+anschließend ein neues Passwort vergeben.
+Dies ist nur für Zugang über das HSVN relevant. Benutzer können beim Schul-ID
+Hessen Zugang über den Selfservice Ihr Passwort selbst zurücksetzten.
+13. Klicken Sie auf SCHLIEßEN.
+
+6.2
+
+Das eigene Passwort ändern
+1. Öffnen Sie die Webseite PERSONAL > BENUTZERKONTO > PASSWORTÄNDERUNG.
+oder
+Öffnen Sie das BENUTZERMENÜ durch Klick auf den eigenen Namen in der oberen
+Leiste.
+2. Wählen Sie den Eintrag PASSWORTÄNDERUNG aus.
+
+Abb. 11 Webseite Passwortänderung
+
+Das Passwort muss mindestens enthalten:
+▪ 8 Zeichen (je mehr, desto sicherer),
+▪ eine Ziffer (0123456789),
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+19
+
+▪ einen Buchstaben (a-z, A-Z, ä, ö, ü, Ä, Ö, Ü, ß),
+▪ eines der folgenden Satzzeichen: Punkt, Komma, Doppelpunkt oder Semikolon
+3. Geben Sie die entsprechenden Daten in allen drei Feldern ein.
+4. Klicken Sie auf SCHLIEßEN.
+
+6.3
+
+Passwortrücksetzung bei Falscheingabe
+
+6.3.1 Dienstliche E-Mail-Adresse ist hinterlegt
+Nach 3 Fehlversuchen wird automatisch ein temporäres Passwort generiert. Eine
+Anmeldung mit dem alten Passwort ist nicht mehr möglich.
+In der LUSD erhalten Sie erhalten einen Hinweis, dass Ihnen an die in der LUSD
+hinterlegten dienstlichen E-Mail-Adresse (@schule.hessen.de) eine Mail mit dem Betreff
+„LUSD-Benutzerkonto – temporäres Passwort“ versendet wurde.
+1. Melden Sie sich in der LUSD mit dem temporären Passwort an.
+2. Vergeben Sie sich ein neues Passwort.
+Hinweis
+Das temporäre Passwort ist 30 Minuten gültig. Sind dieses abgelaufen ist, wird
+mit einem erneuten Anmeldeversuche eine weitere Mail mit einem neuen
+temporären Passwort versendet.
+6.3.2 Dienstliche E-Mail-Adresse ist nicht hinterlegt
+Nach 3 Fehlversuchen ist Anmeldung mit dem alten Passwort ist nicht mehr möglich.
+Ist keine dienstliche E-Mail-Adresse hinterlegt, kann das Passwort nur über einen LUSDAdministrator (siehe Kapitel 6.1) durchgeführt werden.
+In der LUSD erhalten Sie einen Hinweis, dass Sie sich an Ihren Administrator wenden
+müssen.
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+20
+
+7
+
+Berichte zur LUSD-Administration
+Die Berichte zur LUSD-Administration finden Sie auf der Webseite EXTRAS > BERICHTE >
+STANDARDBERICHTE > SCHULDATEN > ADMINISTRATION.
+
+7.1
+
+Bericht: Benutzer
+
+Abb. 12 Beispielbericht: LUSD-Benutzer
+
+7.2
+
+Bericht: Personal-Benutzerrollen-aktiv
+
+Abb. 13 Beispielbericht: Personal-Benutzerrollen-aktiv
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+21
+
+7.3
+
+Bericht: Benutzer und Profile
+
+Abb. 14 Beispielbericht: Benutzer und Profile
+
+7.4
+
+Bericht: Rechtestruktur
+
+Abb. 15 Beispielbericht: Rechtestruktur – Version Administration
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+22
+
+Abb. 16 Beispielbericht: Rechtestruktur – Version Rolle
+
+HMKB | LUSD | Benutzerverwaltung in der LUSD | Version: 3.4 | Letzter Stand: 23.02.2026
+
+23
+
+

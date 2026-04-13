@@ -1,0 +1,963 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Leistungen in der LUSD erfassen
+Von der Leistungserfassung zum Zeugnis – Teil II
+Leistungen für Schüler, Kurse und Klassen in der LUSD erfassen
+
+Version: 2.1
+Letzter Stand: 19.11.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+2
+
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse ........................................... 2
+LUSD-Anwenderunterstützung....................................................................................................... 2
+
+Leistungserfassung in der LUSD
+1
+
+2
+
+3
+
+Leistungen einzelner Schüler in der LUSD erfassen ............................................................. 3
+1.1
+
+Kursnoten erfassen...................................................................................................... 3
+
+1.2
+
+Fehlzeiten erfassen ..................................................................................................... 5
+
+1.3
+
+Arbeits- und Sozialverhalten erfassen.......................................................................... 5
+
+1.4
+
+Projektprüfung erfassen (nur berufliche Schulen) ........................................................ 6
+
+1.5
+
+Berufliche Gesamtnoten erfassen (nur berufliche Schulen) ......................................... 7
+
+1.6
+
+Bemerkungen zuweisen und bearbeiten ...................................................................... 7
+
+1.7
+
+Einstufungen bearbeiten (nur IGS)............................................................................... 9
+
+1.8
+
+Versetzung und Eignung bearbeiten .......................................................................... 10
+
+Leistungen aller Schüler einer Klasse erfassen................................................................... 12
+2.1
+
+Noten erfassen .......................................................................................................... 12
+
+2.2
+
+Fehlzeiten erfassen ................................................................................................... 13
+
+2.3
+
+Arbeits- und Sozialverhalten erfassen........................................................................ 14
+
+2.4
+
+Bemerkungen zuweisen und bearbeiten .................................................................... 15
+
+3
+
+Leistungen aller Schüler eines Kurses erfassen.................................................................. 17
+
+4
+
+Übersicht H+R Abschlüsse nach Schulformen .................................................................... 19
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schüler: Register Kursnoten
+
+3
+
+Abb. 2 Webseite Schüler: Register Fehlzeiten
+
+5
+
+Abb. 3 Webseite Schüler: Register Arbeits- und Sozialverhalten
+
+6
+
+Abb. 4 Webseite Schüler: Register Projektprüfung
+
+6
+
+Abb. 5 Webseite Schüler: Register Gesamtnoten
+
+7
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+2
+
+Abb. 6 Webseite Schüler: Register Bemerkungen
+
+8
+
+Abb. 7 Webseite Schüler: Register Einstufung
+
+9
+
+Abb. 8 Webseite Schüler: Register Versetzung/Eignung
+
+10
+
+Abb. 9 Webseite Schüler: Register Versetzung/Eignung
+
+12
+
+Abb. 10 Webseite Klassen: Register Fehlzeiten
+
+13
+
+Abb. 11 Webseite Klassen: Register Arbeits- und Sozialverhalten
+
+14
+
+Abb. 12 Webseite Klassen: Register Bemerkungen
+
+15
+
+Abb. 13 Webseite Klassen: Register Bemerkungen, Bereich Schüler
+
+16
+
+Abb. 13 Webseite Klassen: Register Bemerkungen, Bereich Schüler
+
+16
+
+Abb. 14 Webseite Kurse initial
+
+17
+
+Abb. 15 Webseite Kurse
+
+18
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+1
+
+Zu diesem Dokument
+Inhalt dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt alle notwendigen Arbeiten zur Erfassung von Leistungen in
+der LUSD.
+Diese Anleitung richtet sich an erfahrene LUSD-Nutzer, die Leistungen von Schülern innerhalb der
+LUSD erfassen möchten. Folgende Kenntnisse im Umgang mit der LUSD werden vorausgesetzt
+und daher in dieser Anleitung nicht näher beschrieben:
+▪ Der Umgang mit der Schüler-, Kurs- und Klassensuche sowie der Selektion.
+▪ Der Umgang mit der Erstellung von Berichten.
+▪ Vorbereitung der Leistungserfassung.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+2
+
+Leistungserfassung in der LUSD
+Hinweis
+Sie können neben der direkten Eingabe der Leistungen in die LUSD auch
+▪ den Zugriff per Anmeldung an der Schul-ID Hessen nutzen. Wie Sie dabei
+vorgehen, erläutert Ihnen die Anleitung Leistungserfassung durchführen (Schul-ID
+Hessen).
+▪ den externen Notenclient ENC nutzen. Wie Sie dabei vorgehen, erläutert Ihnen die
+Anleitung Leistungen mit dem ENC erfassen. Bitte beachten Sie, dass die
+Unterstützung des ENC voraussichtlich Ende 2026 ausläuft!
+
+1
+
+Leistungen einzelner Schüler in der LUSD erfassen
+1. Öffnen Sie die Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER - Register
+KURSNOTEN.
+Je nach Schulform stehen Ihnen unterschiedliche Register für die einzelnen
+Leistungstypen zur Verfügung.
+2. Wählen Sie die gewünschten Schüler über die Schaltfläche
+aus. Sie sehen die
+Eingabemaske KURSNOTEN mit den Daten des ersten Schülers (Abb. 1).
+Sie können nun in den einzelnen Registern die Leistungen des Schülers für das aktuelle
+Halbjahr erfassen. Nachfolgend werden die Eingaben in den einzelnen Registern
+beschrieben.
+
+1.1
+
+Kursnoten erfassen
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register KURSNOTEN und haben die gewünschten Schüler ausgewählt (Abb. 1).
+
+Abb. 1 Webseite Schüler: Register Kursnoten
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+3
+
+1. Klicken Sie beim ausgewählten Schüler in der Spalte NOTE in das gewünschte Feld und
+geben die Noten/Punkte direkt ein. Stellen Sie Punkten unter 10 eine 0 voran (z.B. 08).
+Alternativ können Sie die Auswahlliste nutzen.
+Hinweis
+▪ Sie können nur die Noten eingeben, die in der Auswahlliste vorkommen Je
+nach Schulform und Stufe des Schülers sehen Sie den im System
+festgelegten Notenbereich.
+▪ Eine Änderung der Noten ist innerhalb eines Halbjahres immer möglich.
+Wenn Sie die Auswahl *) verwenden, müssen Sie dem Schüler eine
+Zeugnisbemerkung zuweisen (siehe Kapitel 1.6.1).
+▪ Die Note eines externen Kurses pflegt die externe Schule und kann von
+Ihnen nicht geändert werden! Sollte eine Änderung nötig sein, müssen Sie
+Kontakt mit der entsprechenden Schule aufnehmen (siehe SCHULNUMMER
+in der Spalte EXTERNER KURS auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER).
+
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+Eg
+
+Mit Erfolg teilgenommen
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit.
+Die Sportbefreiung wird auf der Seite UNTERRICHT > UV-BEARBEITUNG >
+SCHÜLER-KURS-ZUORDNUNG gepflegt. Suchen Sie nach dem Schüler im Bereich
+SCHÜLERAUSWAHL, klicken Sie den Schülernamen an, klicken Sie den Sportkurs
+an, klicken Sie BEARBEITEN an, wählen Sie im Feld KURSOPTION das Kürzel X,
+übernehmen und speichern Sie.
+
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Notenfeld.
+3. Wenn Sie alle gewünschten Noten des Schülers vergeben haben, klicken Sie auf die
+Schaltfläche SPEICHERN.
+4. Wählen Sie den nächsten Schüler aus und wiederholen die Schritte 1 und 2.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+4
+
+1.2
+
+Fehlzeiten erfassen
+Hinweis
+Um Fehlzeiten eingeben zu können, müssen Sie auf der Webseite LEISTUNGEN >
+ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG die Erfassung
+der Fehlzeiten (Option klassen- oder kursweise) eingestellt haben.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register FEHLZEITEN und haben die gewünschten Schüler ausgewählt.
+
+Abb. 2 Webseite Schüler: Register Fehlzeiten
+
+1. Geben Sie die Fehlzeiten ein.
+2. Klicken Sie auf SPEICHERN.
+
+1.3
+
+Arbeits- und Sozialverhalten erfassen
+Hinweis
+Um hier Eingaben machen zu können, müssen Sie auf der Webseite LEISTUNGEN
+> ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG die Erfassung
+der Kopfnoten eingestellt haben.
+Haben Sie die Option Schriftliche Ergänzungen ausgewählt, werden die erfassten
+Bemerkungen beim Zeugnisdruck auf einem Beiblatt ausgegeben
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register ARBEITS- UND SOZIALVERHALTEN und haben die gewünschten Schüler ausgewählt.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+5
+
+Abb. 3 Webseite Schüler: Register Arbeits- und Sozialverhalten
+
+1. Geben Sie die Kopfnoten und schriftlichen Ergänzungen ein.
+2. Klicken Sie auf SPEICHERN.
+
+1.4
+
+Projektprüfung erfassen (nur berufliche Schulen)
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register PROJEKTPRÜFUNG und haben den gewünschten Schüler ausgewählt.
+
+Abb. 4 Webseite Schüler: Register Projektprüfung
+
+1. Geben Sie die Themen und Noten ein.
+2. Klicken Sie auf SPEICHERN.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+6
+
+1.5
+
+Berufliche Gesamtnoten erfassen (nur berufliche Schulen)
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register GESAMTNOTEN und haben die gewünschten Schüler ausgewählt.
+
+Abb. 5 Webseite Schüler: Register Gesamtnoten
+
+1. Geben Sie die beruflichen Gesamtnoten ein.
+2. Klicken Sie auf SPEICHERN.
+
+1.6
+
+Bemerkungen zuweisen und bearbeiten
+Hinweis
+Die hier erscheinenden Zeugnisbemerkungen pflegen Sie – für jede Schulform!
+– auf der Webseite LEISTUNGEN > ZEUGNISKONFIGURATION >
+ZEUGNISBEMERKUNGEN.
+▪ Für Bemerkungen stehen auf dem Zeugnis maximal fünf Zeilen zur Verfügung.
+▪ Jede Bemerkung beginnt in einer neuen Zeile, d.h. es sind maximal fünf
+Bemerkungen möglich. Benötigt eine Bemerkung zwei Zeilen, reduziert sich
+die Anzahl der möglichen Bemerkungen.
+▪ Im Zeugnis werden zuerst offizielle, dann schuleigene Bemerkungen
+aufgeführt.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register BEMERKUNGEN und haben die gewünschten Schüler ausgewählt.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+7
+
+1.6.1 Bemerkung zuweisen
+
+Abb. 6 Webseite Schüler: Register Bemerkungen
+
+1. Navigieren Sie in der linken Liste der Bemerkungen zur Schulform der ausgewählten
+Schüler.
+Achtung
+Die Schulform der Bemerkungen und des Schülers müssen gleich sein,
+sonst kann das System die Bemerkungen dem Schüler nicht zuweisen
+2. Klicken Sie in die Zeile der Bemerkung, die Sie zuweisen möchten.
+3. Klicken Sie auf das Schaltsymbol
+Bereich verschoben.
+
+. Die Bemerkung wird in den rechten oberen
+
+4. Klicken Sie auf SPEICHERN.
+Hinweis
+Wenn Sie eine zugewiesene Bemerkung wieder entfernen möchten,
+klicken Sie im rechten oberen Bereich die gewünschte Bemerkung an und
+klicken auf das Schaltsymbol
+Tabelle verschoben
+
+. Die Bemerkung wird wieder in die linke
+
+1.6.2 Bemerkung individuell für einen Schüler anpassen.
+1. Navigieren Sie in der linken Liste der Bemerkungen zur Schulform der ausgewählten
+Schüler (Abb. 6).
+Achtung
+Die Schulform der Bemerkungen und des Schülers müssen gleich sein,
+sonst kann das System die Bemerkungen dem Schüler nicht zuweisen
+2. Klicken Sie in die Zeile der Bemerkung, die Sie anpassen möchten.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+8
+
+3. Klicken Sie auf das untere Schaltsymbol
+Bereich verschoben.
+
+. Die Bemerkung wird in den rechten unteren
+
+4. Ändern Sie den Text wie gewünscht. Sie können Platzhalter nutzen. Klicken Sie auf
+um eine Liste der verfügbaren Platzhalter und ihre Beschreibung zu sehen.
+
+,
+
+5. Klicken Sie auf SPEICHERN.
+Hinweis
+Wenn Sie eine schülerindividuelle Bemerkung wieder entfernen möchten,
+markieren Sie im rechten unteren Bereich den kompletten Text und drücken
+die Entf-Taste.
+
+1.7
+
+Einstufungen bearbeiten (nur IGS)
+Hinweis
+Kurseinstufungen eines Schülers für das Folgehalbjahr können Sie nur dann
+vornehmen, wenn der Schüler im aktuellen Halbjahr diese Kurse mit Einstufungen
+belegt hat.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register EINSTUFUNG und haben die gewünschten Schüler ausgewählt.
+
+Abb. 7 Webseite Schüler: Register Einstufung
+
+1. Geben Sie die Einstufungen ein.
+2. Klicken Sie auf SPEICHERN.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+9
+
+1.8
+
+Versetzung und Eignung bearbeiten
+Hinweis
+Im ersten Schulhalbjahr können nur die Felder der Bereiche EIGNUNG und
+VERSETZUNG bearbeitet werden.
+Im 2. Halbjahr können Sie auch die Felder des Bereichs QUERVERSETZUNG
+bearbeiten.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > SCHÜLER –
+Register VERSETZUNG/EIGNUNG und haben die gewünschten Schüler ausgewählt.
+
+Abb. 8 Webseite Schüler: Register Versetzung/Eignung
+
+1.8.1 Eignung
+1. Wählen Sie im Bereich EIGNUNG in den Feldern
+▪ LETZTE FESTGESTELLTE EIGNUNG,
+▪ ABSCHLUSSWUNSCH DER ELTERN und
+▪ VORAUSSICHTLICHER ABSCHLUSS (siehe auch Kapitel 1.8.4)
+die gewünschten Einträge aus.
+2. Klicken Sie auf SPEICHERN.
+1.8.2 Versetzung
+1. Geben Sie im Bereich VERSETZUNG die gewünschten Daten ein.
+Wird der Schüler
+▪ versetzt, lassen Sie den Eintrag im Feld VERSETZUNG unverändert auf Ja stehen.
+▪ nicht versetzt, ändern Sie den Eintrag im Feld VERSETZUNG auf Nein.
+Alternativ können Sie auch einen der anderen Einträge aus der Auswahlliste auswählen.
+2. Klicken Sie auf SPEICHERN.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+10
+
+Hinweis
+Auswirkung in der LUSD bei Nichtversetzung
+Der Schüler bleibt in der UV-Planungsvariante für das künftige Schuljahr in
+der aktuellen Jahrgangsstufe. Er verliert seine Klassen- und
+Kurszuordnungen. Diese müssen neu zugewiesen werden.
+Nach Aktivierung der UV-Planung zu Beginn des neuen Schuljahres erhält
+der Schüler automatisch einen Wiederholungseintrag in seiner
+Schullaufbahn.
+1.8.3 Querversetzung
+Im Bereich QUERVERSETZUNGEN können Sie Daten zur Information eintragen.
+Die eigentliche Querversetzung zwischen Schulformen der eigenen Schule wird auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG in der Registerkarte
+INTERNER SCHULFORMÜBERGANG durchgeführt.
+1.8.4 Voraussichtlicher Abschluss
+Hinweis
+Die Auswahlliste VORAUSSICHTLICHER ABSCHLUSS im Bereich EIGNUNG sehen Sie
+nur dann, wenn dem Schüler im aktuellen Halbjahr mindestens ein Kurs
+zugewiesen wurde
+Für Schüler in Abschlussjahrgängen muss ein Voraussichtlicher Abschluss eingetragen
+werden bzw. wird automatisiert vom System eingetragen. Nur mit diesem Eintrag können
+Sie Abschlüsse der Schüler bearbeiten.
+Die Auswahl der möglichen voraussichtlichen Abschlüsse ist abhängig von der Schulform
+des Schülers.
+Nach Aktivierung der UV zu Beginn des neuen Schuljahres erhalten die Schüler des
+Abschlussjahrgangs grundsätzlich für den mittleren Abschluss (Hauptschulabschluss)
+entsprechend der Schulform automatisch im Eingabefeld VORAUSSICHTLICHER ABSCHLUSS
+den Eintrag MA oder MA-AR (HQ bzw. AH). An integrierten Gesamtschulen IGS gibt es
+derzeit keine Vorbelegung des Feldes VORAUSSICHTLICHER ABSCHLUSS.
+Eine Übersicht der verschiedenen Abschlüsse für Haupt- und Realschule finden Sie in
+Kapitel 4.
+Hinweis
+In der Anleitung Haupt- und Realschulabschlüsse in der LUSD abbilden finden
+Sie weitere Informationen
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+11
+
+2
+
+Leistungen aller Schüler einer Klasse erfassen
+1. Öffnen Sie die Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN - Register
+NOTEN.
+Je nach Schulform stehen Ihnen unterschiedliche Register für die einzelnen
+Leistungstypen zur Verfügung.
+2. Wählen Sie die gewünschten Klassen über die Schaltfläche
+Eingabemaske NOTEN mit den Daten Ihrer ersten Klasse.
+
+aus. Sie sehen die
+
+Sie können nun in den einzelnen Registern die Leistungen der Klassen für das aktuelle
+Halbjahr erfassen.
+
+Abb. 9 Webseite Schüler: Register Versetzung/Eignung
+
+2.1
+
+Noten erfassen
+1. Klicken Sie in der Zeile des betroffenen Schülers in das entsprechende Feld und geben
+die Noten/Punkte über die Tastatur ein oder nutzen die Auswahlliste.
+Stellen Sie Punkten unter 10 eine 0 voran (z. B. 08).
+Hinweis
+▪ Sie können nur die Noten eingeben, die in der Auswahlliste vorkommen. Je
+nach Schulform und Stufe des Schülers sehen Sie den im System
+festgelegten Notenbereich.
+▪ Eine Änderung der Noten ist innerhalb eines Halbjahres immer möglich.
+▪ Wenn Sie die Auswahl *) verwenden, müssen Sie dem Schüler eine
+Zeugnisbemerkung zuweisen.
+▪ Die Note eines externen Kurses pflegt die externe Schule und kann von
+Ihnen auf der Seite LEISTUNGSERFASSUNG > KURSE nicht eingesehen,
+erfasst oder geändert werden! Sollte eine Änderung nötig sein, müssen
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+12
+
+Sie Kontakt mit der entsprechenden Schule aufnehmen (siehe
+SCHULNUMMER in der Spalte EXTERNER KURS auf der Seite
+LEISTUNGSERFASSUNG > SCHÜLER)
+Bedeutungen der Abkürzungen im Feld NOTE
+Abk.
+
+Bedeutung
+
+T
+
+Teilgenommen
+
+Eg
+
+Mit Erfolg teilgenommen
+
+G
+
+Mit gutem Erfolg teilgenommen
+
+-
+
+Keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+Bf
+
+Vom Sport befreit (siehe auch Seite 4)
+
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Notenfeld.
+3. Wenn Sie alle gewünschten Noten erfasst haben, klicken Sie auf die Schaltfläche
+SPEICHERN.
+
+2.2
+
+Fehlzeiten erfassen
+Hinweis
+Um Fehlzeiten eingeben zu können, müssen Sie auf der Webseite LEISTUNGEN >
+ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG die Erfassung
+der Fehlzeiten (Option klassen- oder kursweise) eingestellt haben.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN –
+Register FEHLZEITEN und haben die gewünschte Klasse ausgewählt.
+
+Abb. 10 Webseite Klassen: Register Fehlzeiten
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+13
+
+1. Klicken Sie in der Zeile des betroffenen Schülers und geben die Fehlzeiten ein.
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Eingabefeld.
+3. Wenn Sie alle Fehlzeiten erfasst haben, klicken Sie auf die Schaltfläche SPEICHERN.
+
+2.3
+
+Arbeits- und Sozialverhalten erfassen
+Hinweis
+Um hier Eingaben machen zu können, müssen Sie auf der Webseite LEISTUNGEN
+> ZEUGNISKONFIGURATION > KONFIGURATION LEISTUNGSERFASSUNG die Erfassung
+der Kopfnoten eingestellt haben.
+Haben Sie die Option Schriftliche Ergänzungen ausgewählt, werden die erfassten
+Bemerkungen beim Zeugnisdruck auf einem Beiblatt ausgegeben
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG >KLASSE –
+Register ARBEITS- UND SOZIALVERHALTEN und haben die gewünschte Klasse ausgewählt.
+
+Abb. 11 Webseite Klassen: Register Arbeits- und Sozialverhalten
+
+1. Klicken Sie in die Zeile des betroffenen Schülers und geben die Noten für das Arbeitsund Sozialverhalten bzw. ggf. die Schriftliche Ergänzung(en) ein.
+2. Mit der Tabulator-Taste (Pfeil) gelangen Sie zum nächsten Eingabefeld.
+3. Wenn Sie alle Noten und ggf. Ergänzungen erfasst haben, klicken Sie auf die
+Schaltfläche SPEICHERN.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+14
+
+2.4
+
+Bemerkungen zuweisen und bearbeiten
+Hinweis
+Die hier erscheinenden Zeugnisbemerkungen pflegen Sie – für jede Schulform!
+– auf der Webseite LEISTUNGEN > ZEUGNISKONFIGURATION >
+ZEUGNISBEMERKUNGEN.
+▪ Für Bemerkungen stehen auf dem Zeugnis maximal fünf Zeilen zur Verfügung.
+▪ Jede Bemerkung beginnt in einer neuen Zeile, d.h. es sind maximal fünf
+Bemerkungen möglich. Benötigt eine Bemerkung zwei Zeilen, reduziert sich
+die Anzahl der möglichen Bemerkungen.
+▪ Im Zeugnis werden zuerst offizielle, dann schuleigene Bemerkungen
+aufgeführt.
+Sie befinden sich auf der Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > KLASSEN –
+Register BEMERKUNGEN und haben die gewünschte Klasse ausgewählt.
+
+Abb. 12 Webseite Klassen: Register Bemerkungen
+
+Achtung
+Die Schulform der Bemerkungen und des Schülers müssen gleich sein,
+sonst kann das System die Bemerkungen dem Schüler nicht zuweisen. Eine
+Ausnahme stellen die schulformübergreifenden Zeugnisbemerkungen dar.
+1. Klicken Sie in der Tabelle ZEUGNISBEMERKUNG auf die Bemerkung, die Sie zuweisen
+möchten.
+2. Klicken Sie im Bereich SCHÜLER auf den/ die Schüler, dem/denen Sie die ausgewählte
+Bemerkung zuweisen möchten.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+15
+
+3. Klicken Sie auf das Schaltsymbol . Beim / bei den Schüler/n erhöht sich der Eintrag in
+der Spalte Anzahl um 1, bei der Zeugnisbemerkung wird die Spalte Anzahl um die
+Anzahl der Zuordnungen erhöht.
+4. Klicken Sie auf SPEICHERN.
+Hinweis
+Wenn Sie eine zugewiesene Bemerkung je Schüler wieder entfernen
+möchten…
+1. Klicken Sie in der Zeile des Schülers auf den Eintrag der Spalte
+ANZAHL.
+
+Abb. 13 Webseite Klassen: Register Bemerkungen, Bereich Schüler
+
+2. Klicken Sie auf die zu löschende Bemerkung.
+
+3. Klicken Sie auf ZUORDNUNG LÖSCHEN.
+4. Bestätigen Sie die Hinweismeldung.
+5. Klicken Sie auf ÜBERNEHMEN und speichern Sie Ihre Änderungen.
+
+Wenn Sie einer Bemerkung zugewiesene Schüler entfernen möchten…
+1. Klicken Sie in der Zeile der Bemerkung auf den Eintrag der Spalte
+ANZAHL.
+
+Abb. 14 Webseite Klassen: Register Bemerkungen, Bereich Schüler
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+16
+
+2. Klicken Sie auf die zu löschenden Schüler.
+
+3. Klicken Sie auf ZUORDNUNG LÖSCHEN.
+4. Bestätigen Sie die Hinweismeldung.
+5. Klicken Sie auf ÜBERNEHMEN und speichern Sie Ihre Änderungen.
+
+3
+
+Leistungen aller Schüler eines Kurses erfassen
+1. Öffnen Sie die Webseite LEISTUNGEN > LEISTUNGSERFASSUNG > KURSE.
+
+Hinweis
+Möchten Sie auf dieser Webseite auch die Fehlzeiten erfassen, wählen Sie
+auf der Webseite LEISTUNGEN > ZEUGNISKONFIGURATION > KONFIGURATION
+LEISTUNGSERFASSUNG im Register LUSD ALLGEMEIN in der Spalte LUSD UND
+ENC die Option kursweise in der Spalte FEHLZEITEN.
+
+Abb. 15 Webseite Kurse initial
+
+2. Wählen Sie den gewünschten Kurs aus.
+Suchoption
+
+Vorgehen
+
+Bestimmter Kurs eines
+Lehrers
+
+1. Wählen Sie im Auswahlfeld LEHRKRAFT das
+gewünschte Lehrerkürzel aus.
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+17
+
+Suchoption
+
+Vorgehen
+
+2. Wählen Sie in der Auswahlliste KURS den
+gewünschten Kurs aus.
+3. Klicken Sie auf
+. Im Bereich
+KURSINFORMATIONEN werden die Schüler des
+Kurses aufgelistet.
+▪ Schüler mit dem Kästchen
+Noteneintrag nv oder -.
+▪ Schüler mit dem Kästchen
+Noteneintrag.
+Kurs einer bestimmten
+Klasse
+
+haben den
+haben einen
+
+1. Wählen Sie im Auswahlfeld SF/BK die gewünschte
+Schulform aus.
+2. Wählen Sie in der Auswahlliste KLASSE die
+gewünschte Klasse aus.
+3. Wählen Sie in der Auswahlliste KURS den
+gewünschten Kurs aus.
+4. Klicken Sie auf
+. Im Bereich
+KURSINFORMATIONEN werden die Schüler des
+Kurses aufgelistet.
+▪ Schüler mit dem Kästchen
+Noteneintrag nv oder -.
+▪ Schüler mit dem Kästchen
+Noteneintrag.
+
+haben den
+haben einen
+
+Abb. 16 Webseite Kurse
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+18
+
+3. Klicken Sie in der Spalte NOTE in das gewünschte Feld und geben die Noten/Punkte
+direkt ein oder nutzen Sie die Auswahlliste. Punkten unter 10 wird eine 0 vorangestellt
+(z.B. 08).
+Bedeutung der Abkürzungen im Feld Note
+Abk.
+
+Bedeutung
+
+T
+
+teilgenommen
+
+E
+
+mit Erfolg teilgenommen
+
+G
+
+mit gutem Erfolg teilgenommen
+
+-
+
+keine Note
+
+*)
+
+Bemerkung: Weisen Sie dem Schüler auf der Seite LEISTUNGSERFASSUNG >
+SCHÜLER im Register BEMERKUNGEN eine Bemerkung zu.
+
+bf
+
+Vom Sport befreit (siehe Seite 4)
+
+4. Geben Sie Fehlstunden direkt in den Feldern GES.FSTD. (gesamte Fehlstunden) und
+UNE.FSTD. (unentschuldigte Fehlstunden) ein.
+5. Klicken Sie auf SPEICHERN.
+
+4
+
+Übersicht H+R Abschlüsse nach Schulformen
+Schulform. Voraussichtlicher Abschluss - Beschreibung
+
+H
+
+R
+
+Voraussichtlicher
+Abschluss - Kürzel
+
+Hauptschulabschluss
+
+HA
+
+Qualifizierender Hauptschulabschluss
+
+HQ
+
+Mittlerer Abschluss-H10
+
+MA-H10
+
+Mittlerer Abschluss
+
+MA
+
+Hauptschulabschluss
+
+HA
+
+Qualifizierender Hauptschulabschluss
+
+HQ
+
+Mittlerer Abschluss
+
+MA
+
+Hauptschulabschluss-IGS
+
+HA-IGS
+
+Qualifizierender Hauptschulabschluss-IGS
+
+HQ-IGS
+
+Mittlerer Abschluss-IGS
+
+MA-IGS
+
+IGS
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+19
+
+Schulform. Voraussichtlicher Abschluss - Beschreibung
+
+Voraussichtlicher
+Abschluss - Kürzel
+
+Hauptschulabschluss-AH
+
+HA-AH
+
+qualifizierender Hauptschulabschluss-AH
+
+HQ-AH
+
+Mittlerer Abschluss-AR
+
+MA-AR
+
+Hauptschulabschluss
+
+HA
+
+qualifizierender Hauptschulabschluss
+
+HQ
+
+Mittlerer Abschluss
+
+MA
+
+Hauptschulabschluss
+
+HA
+
+Qualifizierender Hauptschulabschluss
+
+HQ
+
+Mittlerer Abschluss
+
+MA
+
+AH
+
+AR
+
+FS
+
+MSPB
+
+MSMB
+
+HMKB | LUSD | Leistungen in der LUSD erfassen | Version: 2.1 | Letzter Stand: 19.11.2025
+
+20
+
+

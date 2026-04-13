@@ -1,0 +1,413 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+Aufgenommene Schulanfänger, die doch
+nicht die Schule besuchen werden
+
+Version: 1.4
+Letzter Stand: 08.05.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden
+1
+
+2
+
+3
+
+5
+
+Fall 1: Der Schüler ist Kandidat und soll erst im nächsten Schuljahr Ihre Schule besuchen .. 5
+1.1
+
+Rückstellung eintragen ................................................................................................ 5
+
+1.2
+
+Korrektur der Zieldaten ................................................................................................ 7
+
+Fall 2: Sie haben den Schüler im aktuellen Schuljahr aktiviert, er wird aber erst im nächsten
+Schuljahr Ihre Schule besuchen ........................................................................................... 7
+2.1
+
+Zurückstellung eintragen.............................................................................................. 7
+
+2.2
+
+Schüler ehemalig setzen.............................................................................................. 9
+
+Fall 3: Sie haben einen Schüler im aktuellen Schuljahr aktiviert. Er wird Ihre Schule aber nie
+besuchen und war bisher auch an keiner anderen hessischen Schule aktiv. ...................... 10
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulfähigkeit: Eintragen der Zurückstellung....................................................... 5
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung in den Kindergarten oder nach Zu
+Hause ............................................................................................................................... 6
+Abb. 3 Webseite Kandidaten bearbeiten: Zieldaten ergänzen/ändern ............................................ 7
+Abb. 4 Webseite Schulfähigkeit: Eintragen der Zurückstellung....................................................... 8
+Abb. 5 Webseite Schulfähigkeit: Eintragen der Zurückstellung in den Kindergarten oder nach Zu
+Hause ............................................................................................................................... 9
+Abb. 6 Bericht Schüler-Historie ...................................................................................................... 9
+Abb. 7 Webseite Abgänger ............................................................................................................ 9
+Abb. 8 Webseite Abgänger: Eintragen des Freigabedatums ........................................................ 10
+Abb. 9 Webseite Abgänger: Hinweismeldung .............................................................................. 10
+Abb. 10 Webseite Schülerstammdaten: Eintrag Doppelt im Feld Geburtsort ................................ 11
+Abb. 11 Webseite Schülerstammdaten: Ruhen der Schulpflicht dauerhaft ................................... 11
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+3
+
+Zu diesem Dokument
+Diese Anleitung beschreibt den Umgang mit potentiellen Schulanfängern, die zum aktuellen Halbjahr in die LUSD aufgenommen und eventuell auch schon aktiviert wurden, die aber an keinem
+Unterricht teilnehmen werden.
+Dies können Kinder sein, die
+ noch nicht schulpflichtig sind (also vorzeitig eingeschult werden sollten) oder
+ schulpflichtig sind, aber in den Kindergarten oder nach Hause zurückgestellt werden.
+Diese Anleitung beschreibt nicht den Umgang mit schulpflichtigen Kindern, die in einen der folgenden Unterrichte zurückgestellt werden:
+ in eine Vorklasse,
+ in einen Vorlaufkurs,
+ in eine Intensivklasse,
+ in einen schulischen Sprachkurs bzw. in einen schulischen Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses.
+Hierzu finden Sie eigene Anleitungen unter https://schulehessen.de/lusdanleitungen.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+4
+
+Aufgenommene Schulanfänger, die doch nicht die Schule besuchen
+werden
+1
+
+Fall 1: Der Schüler ist Kandidat und soll erst im nächsten Schuljahr Ihre
+Schule besuchen
+
+1.1
+
+Rückstellung eintragen
+1. Tragen Sie gegebenenfalls eine Rückstellung des Kandidaten auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT ein.
+Hinweis
+Dies betrifft nur schulpflichtige Kinder, die entweder in den KINDERGARTEN
+oder nach ZU HAUSE zurückgestellt werden! Zur Eintragung der Zurückstellungen in eine Vor- oder Intensivklasse, in einen Vorlauf- oder schulischen
+Sprachkurs beachten Sie die gesonderten Anleitungen.
+
+1.1.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Abb. 1 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT einen
+der folgenden Einträge aufweist: Offen, Empfehlung Zurückstellung oder Zurückstellung.
+4. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+5
+
+1.1.2 Register ZURÜCKSTELLUNG
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus:
+ Feld ZURÜCKSTELLUNG:
+ Kindergarten oder
+ Zu Hause.
+ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum des Antrags oder der Anhörung der Eltern.
+ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES VORLAUFKURSES:
+
+Dieses Feld bleibt leer.
+ Feld VORZEITIGE EINSCHULUNG (gemäß VOBGM § 9 (6)):
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung in den Kindergarten oder nach Zu
+Hause
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+6
+
+Hinweis
+Die Felder
+ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+1.2
+
+und
+
+.
+
+Korrektur der Zieldaten
+1. Korrigieren Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN, Register K. MIT ZIELDATEN, das Zielhalbjahr des Kandidaten, indem Sie das
+nächste Schuljahr auswählen.
+
+Abb. 3 Webseite Kandidaten bearbeiten: Zieldaten ergänzen/ändern
+
+Hinweis auf einen Vorteil
+Sie brauchen die Daten des Schülers bei der Aufnahme im nächsten Jahr
+nicht mehr neu einzugeben, da Ihnen der Schüler bereits als Kandidat zur
+Verfügung steht.
+
+2
+
+Fall 2: Sie haben den Schüler im aktuellen Schuljahr aktiviert, er wird
+aber erst im nächsten Schuljahr Ihre Schule besuchen
+
+2.1
+
+Zurückstellung eintragen
+Tragen Sie gegebenenfalls eine Rückstellung des Schülers auf der Webseite SCHÜLER
+> SCHÜLERBASISDATEN > SCHULFÄHIGKEIT ein.
+(Bei nicht schulpflichtigen Kindern diesen Schritt bitte überspringen und mit Kapitel 2.2
+beginnen).
+Hinweis
+Kapitel 2.1 betrifft nur schulpflichtige Kinder, die entweder in den KINDERGARTEN oder nach ZU HAUSE zurückgestellt werden! Zur Eintragung der Zurückstellungen in eine Vor- oder Intensivklasse, in einen Vorlauf- oder schulischen Sprachkurs beachten Sie die gesonderten Anleitungen.
+
+2.1.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+7
+
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Abb. 4 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+Hinweis
+Wenn ein Schüler im Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld
+SCHULFÄHIGKEIT den Eintrag Schulfähig aufweist, wird er nicht im Register
+ZURÜCKSTELLUNG angezeigt!
+4. Klicken Sie auf
+
+und
+
+.
+
+2.1.2 Register ZURÜCKSTELLUNG
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus:
+ Feld ZURÜCKSTELLUNG:
+ Kindergarten oder
+ Zu Hause.
+ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum des Antrags oder der Anhörung der Eltern.
+ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES VORLAUFKURSES:
+
+Dieses Feld bleibt leer.
+ Feld VORZEITIGE EINSCHULUNG (gemäß VOBGM § 9 (6)):
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+8
+
+ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 5 Webseite Schulfähigkeit: Eintragen der Zurückstellung in den Kindergarten oder nach Zu
+Hause
+
+2.2
+
+Schüler ehemalig setzen
+1. Rufen Sie für den Schüler den Bericht EXTRAS > BERICHTE > UNTERRICHT > LEISTUNGEN
+> SCHÜLER – HISTORIE auf und notieren Sie sich das Eintrittsdatum.
+
+Abb. 6 Bericht Schüler-Historie
+
+2. Rufen Sie den Schüler auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER -Register AKTIVE über das Feld NACHNAME/EINZELBEARBEITUNG auf.
+
+Abb. 7 Webseite Abgänger
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+9
+
+Hinweis
+Falls ein internes Kandidatenverhältnis vorliegt, beenden Sie dieses zunächst
+auf der Seite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN –
+Register KV BEENDEN.
+3. Tragen Sie im Feld FREIGABE ZUM das Datum des Tages nach dem Eintrittsdatum ein.
+
+Abb. 8 Webseite Abgänger: Eintragen des Freigabedatums
+
+4. Klicken Sie auf
+
+.
+
+5. Klicken Sie in der folgenden Hinweismeldung auf
+
+.
+
+Abb. 9 Webseite Abgänger: Hinweismeldung
+
+Der ausgewählte Schüler wird auf EHEMALIG gesetzt und ist auf der Seite ABGÄNGER nicht
+mehr aufgeführt.
+Sie können den Schüler wieder auf der Seite SCHÜLER > KANDIDATENVERFAHREN > AUFNEHMEN / EINSCHULEN finden und neu als Kandidat aufnehmen.
+Hinweis auf einen Vorteil
+ Für das aktuelle Halbjahr: Durch den Status EHEMALIG wird der Schüler
+von der Statistik nicht als aktiver Schüler gezählt.
+ Für das kommende Schuljahr: Da die Daten des Schülers in der LUSD
+gespeichert sind, können Sie ihn auf der Seite SCHÜLER > KANDIDATENVERFAHREN > AUFNEHMEN / EINSCHULEN finden und neu aufnehmen
+
+3
+
+Fall 3: Sie haben einen Schüler im aktuellen Schuljahr aktiviert. Er wird
+Ihre Schule aber nie besuchen und war bisher auch an keiner anderen
+hessischen Schule aktiv.
+Sie haben einen Schüler aufgenommen, der voraussichtlich nie an Ihre Schule kommen
+wird. Sie möchten, dass der Schüler aus der LUSD entfernt wird.
+Aktivieren Sie den Schüler (bei Kandidaten funktioniert der folgende Prozess nicht).
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+10
+
+Tragen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+im Feld GEBURTSORT das Wort Doppelt ein und klicken auf
+.
+
+Abb. 10 Webseite Schülerstammdaten: Eintrag Doppelt im Feld Geburtsort
+
+Anschließend setzen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULPFLICHT im Bereich RUHEN DER SCHULPFLICHT den Haken bei DAUERHAFT und klicken
+auf
+.
+
+Abb. 11 Webseite Schülerstammdaten: Ruhen der Schulpflicht dauerhaft
+
+Hinweis auf einen Vorteil
+Der Schüler wird im nächsten nächtlichen Job komplett aus der Datenbank
+entfernt
+Achtung
+Schüler, die bereits eine Historie mit Noten, Abschlüssen usw. haben, dürfen
+nicht gelöscht werden! Ihre Historie würde sonst mitgelöscht!
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+11
+
+Hinweis auf einen Vorteil
+Wurde bei einem Schüler versehentlich zuerst oder alleine die Schulpflicht
+auf dauerhaft ruhend gesetzt, ohne den Geburtsort „Doppelt“ einzutragen,
+ wird der Schüler nicht gelöscht, sondern lediglich sofort ehemalig.
+ wird der Schüler durch die Statistik als Schüler mit dauerhaft ruhender
+Schulpflicht gewertet.
+Gehen Sie in diesem Fall wie folgt vor:
+1. Warten Sie zunächst einen Tag ab. Schüler können nicht am gleichen Tag
+ehemalig gesetzt und wieder aktiviert werden.
+2. Nehmen Sie den ehemalig gewordenen Schüler erneut auf.
+3. Aktivieren Sie diesen Schüler.
+4. Warten Sie erneut einen Tag ab.
+5. Tragen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN im Feld GEBURTSORT das Wort DOPPELT ein und klicken auf
+.
+6. Setzen Sie auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULPFLICHT im Bereich RUHEN DER SCHULPFLICHT den Haken bei DAUERHAFT
+und klicken auf
+.
+Der Schüler wird im nächsten nächtlichen Job komplett aus der Datenbank
+entfernt.
+
+HMKB | LUSD | Aufgenommene Schulanfänger, die doch nicht die Schule besuchen werden | Letzter Stand: 08.05.2024
+
+12
+
+

@@ -1,0 +1,546 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Berichte und Abfragen
+Berichte und Abfragen erstellen und ausgeben
+
+Version: 2.0
+Letzter Stand: 08.08.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe und vorausgesetzte Kenntnisse.................................................................................... 4
+LUSD-Anwenderunterstützung....................................................................................................... 4
+
+LUSD Berichte und Abfragen
+
+6
+
+1
+
+Was unterscheidet die LUSD-Standardberichte von den Individuellen Berichten? ................ 6
+
+2
+
+Einen Bericht ausgeben ........................................................................................................ 6
+
+LUSD-Abfragen
+3
+
+9
+
+Einen individuellen Bericht erstellen...................................................................................... 9
+3.1
+
+Schritt 1: Individuellen Bericht anlegen und Kategorie auswählen ............................. 10
+
+3.2
+
+Schritt 3: Filter auswählen .......................................................................................... 11
+
+3.3
+
+Schritt 2: Beschreibung hinzufügen (optional) ............................................................ 13
+
+3.4
+
+Schritt 3: Abfragefelder hinzufügen ............................................................................ 13
+
+4
+
+Eine Abfrage bearbeiten ..................................................................................................... 14
+
+5
+
+Daten für einen individuellen Bericht suchen und den Bericht erstellen............................... 14
+
+Abbildungsverzeichnis
+Abb. 1 LUSD-Onlinehilfe: Beispiel .................................................................................................. 6
+Abb. 2 Webseite Klassen: Berichtsaufruf über den Kopfbereich einer Webseite ............................ 7
+Abb. 3 Webseite Standardberichte: Aufruf der Berichte ................................................................. 7
+Abb. 4 Webseite Individuelle Berichte: Webseitenübersicht ........................................................... 9
+Abb. 5 Webseite Individuelle Berichte: Filterauswahl ................................................................... 11
+Abb. 6 Webseite Individuelle Berichte: Abfragefelder hinzufügen................................................. 13
+Abb. 7 Webseite Individuelle Berichte: Markierter Datensatz und Schaltfläche Bearbeiten .......... 14
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+2
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Mit den LUSD-Standardberichten und LUSD–Individuellen Berichten können Sie die Daten
+Ihrer Schule in Form von Berichten oder Abfragen nutzen.
+Das vorliegende Dokument gibt einen umfassenden Überblick zu diesen Berichtsformen und
+beschreibt deren Handhabung. Folgende Inhalte lernen Sie kennen:
+▪
+▪
+▪
+▪
+
+Unterschied Abfrage / LUSD-Bericht (siehe Kapitel 1)
+Standardberichte erstellen (siehe Kapitel 2
+Individuelle Berichte erstellen, bearbeiten oder löschen (siehe Kapitel 3)
+Abfragen nach Excel exportieren (siehe Kapitel 5)
+
+Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument richtet sich an alle Benutzer, die Daten aus der LUSD in Form von
+Berichten oder Abfragen abrufen, ansehen, speichern sowie anschließend bearbeiten möchten.
+Folgende Kenntnisse werden vorausgesetzt und sind daher in dieser Anleitung nicht näher
+beschrieben:
+▪ Basiswissen zur LUSD. Hier finden Sie die Anleitungen zum LUSD-Basiswissen. Besuchen
+Sie bei Bedarf die Schulung: LUSD – Basiswissen für alle Schulen und Schulformen.
+Um mit den LUSD-Berichten zu arbeiten, empfehlen wir zudem den Besuch der Schulung LUSD –
+Dokumente und Serienbriefe in der LUSD nutzen. Das LUSD Schulungsangebot finden Sie auf der
+Webseite der Digitalen Schule Hessen.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+4
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+5
+
+LUSD Berichte und Abfragen
+1
+
+Was unterscheidet die LUSD-Standardberichte von den Individuellen
+Berichten?
+LUSD-Standardberichte
+▪ Sie enthalten vordefinierte und festgelegte Inhalte.
+▪ Sie können in unterschiedlichen Versionen und Sortierungen erstellt, angesehen und
+abspeichert werden.
+▪ Je nach Einsatzzweck des Berichtes gibt es die folgenden Ausgabeformate:
+▪
+▪
+▪
+▪
+
+PDF
+Word
+CSV
+Excel.
+
+LUSD-Individuelle Berichte
+▪ Informationen können selbst definiert und zusammengestellt werden. Dabei können Sie
+festlegen, welche Felder und somit welche Spaltenüberschriften der individuelle Bericht
+enthalten soll.
+▪ Sie werden immer als EXCEL-Datei ausgegeben.
+Hinweis
+Wenn Berichte direkt von einer Webseite aufgerufen werden können, finden Sie
+in der Online-Hilfe der Seite eine Beschreibung der passenden Berichte. Ein
+Klick auf den Berichtsnamen öffnet einen Beispielbericht.
+
+Abb. 1 LUSD-Onlinehilfe: Beispiel
+
+2
+
+Einen Bericht ausgeben
+Mit den folgenden Schritten erstellen Sie einen Bericht und geben diesen aus:
+1. Öffnen Sie die Webseite EXTRAS > BERICHTE > STANDARDBERICHTE (Abb. 3 2). Alternativ
+können Sie den passenden Bericht direkt von einer Webseite heraus aufrufen. Im
+Kopfbereich sind im Auswahlfeld BERICHT alle Berichte wählbar, die zu dieser Webseite
+ausgegeben werden können (Abb. 3)
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+6
+
+Abb. 2 Webseite Klassen: Berichtsaufruf über den Kopfbereich einer Webseite
+
+2. Wählen Sie dazu einen Bericht über das Auswahlmenü aus. Sie verlassen die Webseite
+und werden direkt zum ausgewählten Bericht auf der Webseite EXTRAS BERICHTE >
+STANDARDBERICHTE weitergeleitet.
+
+Abb. 3 Webseite Standardberichte: Aufruf der Berichte
+
+3. Klicken Sie im Bereich BERICHTE auf das Schaltsymbol
+oder , um die Baumstruktur
+zu erweitern oder zu reduzieren. Wählen Sie alternativ die Schaltfläche
+, um alle Berichte anzuzeigen. Ein Klick auf die Schaltfläche
+reduziert die
+Anzeige auf die Hauptpunkte. Alternativ können Sie den Berichtsnamen auch in die
+Eingabezeile der Schnellauswahl eingeben.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+7
+
+4. Klicken Sie den gewünschten Berichtsnamen an. Rechts oben über dem Bereich
+BERICHTSPARAMETER erscheint der Berichtstitel. z.B. BERICHTSPARAMETER
+SCHÜLERLISTE. Abhängig vom Bericht erscheinen in den Bereichen AUSGABEFORMAT
+und WEITERE PARAMETER mögliche Optionen.
+5. Falls vorhanden, klicken Sie auf die Schaltfläche
+und wählen im jeweiligen
+Suchdialog die gewünschten Daten aus. Rechts erscheint die Anzahl der ausgewählten
+Datensätze.
+6. Klicken Sie im Bereich AUSGABEFORMAT auf die gewünschte Option. Rechts erscheint
+das Kürzel des Ausgabeformates.
+Mögliche Ausgabeformate sind:
+Symbol
+
+Ausgabeformat des LUSD-Berichts
+PDF
+WORD
+EXCEL
+CSV
+
+7. Füllen Sie im Bereich WEITERE PARAMETER mindestens alle mit * versehenen Felder
+(Pflichtfelder) aus oder wählen in vorhandenen Auswahllisten den gewünschten Eintrag
+aus. Datumsfelder können Sie durch Eingabe des Datums (ohne Punkt) oder durch Klick
+auf das Schaltsymbol KALENDER AUFRUFEN füllen.
+8. Klicken Sie auf die Schaltfläche
+
+.
+
+Der Bericht wird Ihnen zum Download angeboten.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+8
+
+LUSD-Abfragen
+Individuelle Berichte können Sie auf der Webseite EXTRAS > BERICHTE > INDIVIDUELLE BERICHTE
+(Abb. 4) erstellen.
+
+Abb. 4 Webseite Individuelle Berichte: Webseitenübersicht
+
+Mit den LUSD–Individuellen Berichten können Sie zu verschiedenen Datenquellen beliebig viele
+eigene Abfragen erstellen.
+
+3
+
+Einen individuellen Bericht erstellen
+Über EXTRAS > BERICHTE > INDIVIDUELLE BERICHTE wird die Webseite für die Individuellen
+Berichte geöffnet. Diese Webseite dient dem Datenexport aus der LUSD zur weiteren
+Verwendung in externen Programmen.
+Über verschiedene mögliche Abfragefelder werden die Daten zu einer Kategorie für die
+Ausgabe aussortiert.
+Hinweise
+▪ Verwenden Sie wenn möglich Filterkriterien.
+▪ Beachten Sie, dass Abfragen vor der Anwendung gespeichert werden
+müssen.
+▪ Speichern Sie eine Datenabfragetabelle zur weiteren Verwendung, um die
+Abfrage nicht immer neu generieren zu müssen.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+9
+
+Beachten Sie die Notwendigkeit der vorherigen Schüler- bzw. Kursauswahl in
+den Datenquellen Schüler, Schüler-Kompakt und Kurse.
+Die Erstellung eines neuen individuellen Berichts erfolgt in mehreren Schritten:
+
+3.1
+
+Schritt 1: Individuellen Bericht anlegen und Kategorie auswählen
+1. Klicken Sie auf die Schaltlfäche HINZUFÜGEN. Es öffnet sich das Dialogfenster
+INDIVIDUELLEN BERICHT HINZUFÜGEN. Das Register BERICHTSINFORMATIONEN ist dabei
+aktiv gesetzt.
+2. Geben Sie im Feld BEZEICHNUNG* eine gewünschte Bezeichnung des individuellen
+Berichts ein.
+3. Wählen Sie über die Auswahlliste KATEGORIE* die gewünschte Kategorie aus.
+Hinweis
+Ohne Angabe einer Bezeichnung ist das Übernehmen der Eintragungen nicht
+möglich. Verwenden Sie eindeutige Namen, um bei vielen Abfragen den
+Überblick nicht zu verlieren.
+Die Wahl der Kategorie ist für die Ausgabe der gewünschten Daten
+entscheidend.
+In den verschiedenen Kategorien kommen möglicherweise die gleichen
+Abfragefelder vor, allerdings in unterschiedlichen Kombinationen mit anderen
+Abfragefeldern.
+Um die Auswahl möglicher Datenfelder für einen individuellen Bericht übersichtlich zu
+halten, werden Ihnen diese neun Kategorien angeboten:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+ABGÄNGER
+BETRIEBE
+KANDIDATEN
+KURSE
+PERSONAL
+SCHÜLER
+SCHÜLER-DETAILS
+SCHÜLER-KOMPAKT
+SCHULKONFERENZ
+Hinweis
+Die Kategorien müssen beim Hinzufügen eines neuen Individuellen Berichts über
+das Auswahlmenü festgelegt werden
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+10
+
+3.2
+
+Schritt 3: Filter auswählen
+In einigen Kategorien (z.B. SCHÜLER) stehen zudem verschiedene Filter zur Verfügung,
+dadurch wird im Abfrageergebnis die Datenmenge gefiltert. Wenn es einen möglichen Filter
+gibt, kann der Filterüber die Auswahlliste Filter* ausgewählt werden. Bestätigen Sie Ihre
+Auswahl durch übernehmen.
+Hinweis
+Filter sind sinnvoll, wenn Sie sich das Aussortieren bestimmter Daten in den
+erstellten EXCEL-Dateien ersparen möchten. Die EXCEL-Datei enthält dann nur
+noch die Datensätze für die ausgewählten Schüler, die den gewählten
+Filterkriterien entsprechen.
+
+Abb. 5 Webseite Individuelle Berichte: Filterauswahl
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+11
+
+Die folgende Tabelle gibt eine Übersicht über die möglichen Kategorien mit den
+zugehörigen Filtern:
+Kategorie
+
+mögliche Filter
+
+Abgänger
+
+keine Filter
+
+Betriebe
+
+allen Betrieben mit Praktikanten von ? bis
+?
+
+Inhalt der Kategorie
+
+Schüler-BetriebsBeziehungsdaten für
+Praktikums- bzw.
+Ausbildungsbetriebe
+
+Kandidaten keine Filter
+Kurse
+
+keine Filter
+
+Schüler-KursBeziehungsdaten für den
+erteilten Unterricht.
+
+Personal
+
+keine Filter
+
+Personaldaten für in der
+LUSD geführtes Personal
+
+Schüler
+
+▪ alle Abiturienten
+▪ alle ausländischen Schüler
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+alle deutschen Schüler
+alle männlichen Schüler
+alle Schüler mit Mahnungen
+alle Schüler mit Praktikum von ? bis ?
+alle weiblichen Schüler
+Geburtsdatum von ? bis ?
+nur Postempfänger
+nur sorgeberechtigte Ansprechpartner
+
+Schüler-Daten aus den
+Schülerstamm- und
+Unterrichtsdaten
+
+SchülerDetails
+
+alle Schüler mit Mahnungen
+
+SchülerKompakt
+
+keine Filter
+
+ausgewählte Schüler-Daten
+als verkleinerte Version der
+Kategorie Schüler. Ideal für
+einfachere Abfragen mit
+hohen Schülerzahlen.
+
+Schulkonferenz
+
+alle Schulkonferenzmitglieder der
+Mitgliedsart ?
+
+Daten zu den Mitgliedern der
+Schulkonferenz
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+12
+
+3.3
+
+Schritt 2: Beschreibung hinzufügen (optional)
+Im Textfeld BESCHREIBUNG können Sie eine optionale Beschreibung des gewünschten
+individuellen Berichts hinzufügen. Da die Abfragen für alle Benutzer der LUSD an Ihrer
+Schule sichtbar sind, sollten Sie zusätzlich zum Namen noch eine Beschreibung für die
+Abfrage hinzufügen, aus der z.B. ersichtlich wird, was mit dieser Abfrage erreicht werden
+soll und für welche Weiterverarbeitung die Abfrage vorgesehen ist.
+
+3.4
+
+Schritt 3: Abfragefelder hinzufügen
+1. Nach den grundlegenden Festlegungen der Berichtsinformationen klicken Sie auf die
+Schaltfläche
+. Es öffnet sich die Registerkarte ABFRAGEFELDER. Das Register
+enthält auf der linken Seite die aus der LUSD ausgebbaren Datenfelder, die unter
+MÖGLICHE ABFRAGEFELDER aufgelistet sind. Die rechte Seite mit dem Titel GEWÄHLTE
+ABFRAGEFELDER zeigt die Felder, die auf der linken Seite mit einem Haken versehen
+wurden und danach mit dem Schaltsymbol
+in der Mitte zwischen den Listen nach
+rechts übertragen wurden.
+2. Wenn Sie alle Felder auf der rechten Listenseite unter GEWÄHLTE ABFRAGEFELDER
+aufgeführt haben, die Sie benötigen, klicken Sie auf die Schaltfläche
+, um
+die Abfrage in die Tabelle der individuellen Berichte zu übernehmen.
+3. Durch einen Klick auf die Schaltfläche
+abgespeichert.
+
+wird der individuelle Bericht
+
+Abb. 6 Webseite Individuelle Berichte: Abfragefelder hinzufügen
+
+Achtung:
+Die Schaltfläche
+schließt den Dialog INDIVIDUELLEN BERICHT
+HINZUFÜGEN ohne Nachfrage, ob die Daten gespeichert oder verworfen werden
+sollen.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+13
+
+Über die beiden Schaltflächen
+können Sie die Reihenfolge der
+ausgewählten Abfragefelder anpassen. Je nach gewählter Reihenfolge
+erscheinen die Abfragefelder dann in der ausgegebenen Excel-Tabelle.
+
+4
+
+Eine Abfrage bearbeiten
+Erstellte individuelle Berichte können bearbeitet werden.
+1. Klicken Sie dazu einen individuellen Bericht an. Der entsprechende Datensatz ist blau
+markiert und das Kontrollkästchen vor dem individuellen Bericht ist angehakt.
+2. Klicken Sie auf die Schaltfläche
+
+, um den Bearbeitungsbereich zu öffnen.
+
+Abb. 7 Webseite Individuelle Berichte: Markierter Datensatz und Schaltfläche Bearbeiten
+
+5
+
+Daten für einen individuellen Bericht suchen und den Bericht erstellen
+1. Wählen Sie aus der Tabelle ÜBERSICHT INDIVIDUELLE BERICHTE den gewünschten Bericht
+aus, indem Sie den Datensatz anklicken. Der Datensatz ist dann eingefärbt und das
+Kontrollkästchen vor dem Datensatz ist angehakt.
+2. Klicken Sie in der Spalte SUCHE auf das Schaltsymbol
+. Daraufhin öffnet sich ein
+entsprechendes Dialogfenster zur Suche. Je nach gewählter Kategorie öffnet sich dabei
+die KURSSUCHE, PERSONALSUCHE oder die SCHÜLERSUCHE.
+3. Suchen und übernehmen Sie die gewünschten Datensätze für Ihren individuellen
+Bericht. Die Anzahl der übernommenen Datensätze erscheint neben der Lupe.
+4. Durch einen Klick auf das Schaltsymbol
+in der Spalte ERSTELLEN können Sie nun mit
+der selektierten Abfrage die gewünschten Daten aus der Kategorie in eine MicrosoftExcel-Tabelle exportieren.
+Hinweis
+Wie Sie mit LUSD-Berichten effektiv weiterarbeiten können, ist Thema unserer
+Schulung Daten aus der LUSD effektiv verwenden.
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+14
+
+HMKB | LUSD | Berichte und Abfragen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+15
+
+

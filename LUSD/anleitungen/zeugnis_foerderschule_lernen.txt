@@ -1,0 +1,93 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zeugniserstellung im Bildungsgang
+Förderschwerpunkt Lernen
+Förderschulen
+
+1
+
+Zusammenfassung
+Diese Kurzanleitung beschreibt die Zeugniserstellung im Bildungsgang Förderschwerpunkt
+Lernen für Förderschulen bei Schülern mit der Schulform FS/LER/*.
+
+2
+
+Leistungserfassung vorbereiten durch LUSD-Administrator
+1. Richten Sie mind. 24h im Voraus den LUSD-Zugriff über Schul-ID für die
+Klassenlehrkräfte ein, die die Leistungen erfassen sollen. Eine Anleitung dazu finden Sie
+hier: Leistungserfassung vorbereiten (Schul-ID Hessen).
+2. Prüfen Sie unter UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER im Register
+KURSNOTEN für alle Schüler ab der Mittelstufe ob alle Kurse aufgelistet sind, die später
+als Fächer im Zeugnis erscheinen sollen. Falls z.B. bei WPU-Kursen anstatt der
+Kursbezeichnung das Thema erscheinen soll, muss dies unter UNTERRICHT > UVBEARBEITUNG > KURSBEARBEITUNG für den jeweiligen WPU-Kurs eingestellt werden.
+
+3
+
+Leistungen erfassen durch die Klassenlehrkräfte
+Die Klassenlehrkräfte erfassen die Leistungen der Schüler über Schul-ID unter LEISTUNGEN
+> LEISTUNGSERFASSUNG > SCHÜLER.
+▪ Im Register KURSNOTEN erfassen Sie bei Schülern ab der Mittelstufe die Noten der
+einzelnen Kurse.
+▪ Im Register VERBALBEURTEILUNGEN erfassen Sie die Verbalbeurteilungen für die
+einzelnen Fächer.
+▪ Bei Schülern der Grundstufe können Sie im Dialogfenster VERBALBEURTEILUNG
+BEARBEITEN für den Bereich RELIGION/ETHIK wählen, was von beidem im Zeugnis
+
+angezeigt werden soll.
+▪ Bei Schülern ab der Mittelstufe wird dies durch die Schüler-Kurszuordnung gesteuert.
+Bei Schülern der Berufsorientierungsstufe erfassen Sie die Note für die
+Berufsorientierung im entsprechenden Textfeld (Note: 2).
+
+HMKB | LUSD | Zeugniserstellung im Bildungsgang Förderschwerpunkt Lernen - Förderschulen | Version: 1.1 | 30.01.2026
+
+1
+
+▪ Ist die Zeichenanzahl hier zu hoch , wird in der Grundstufe das Halbjahreszeugnis und
+Übergangszeugnis auf mehr als zwei Seiten gedruckt. Bei der Mittelstufe und der
+Berufsorientierungsstufe erscheint im Zeugnisdokument die Fehlermeldung: „Es können
+nicht alle Daten angezeigt werden, da die erfassten Beurteilungen zu viele Zeichen
+enthalten."
+Damit die Zeugnisse auf jeweils zwei Seiten ausgegeben werden, beachten Sie bitte
+folgende Angaben:
+▪ Grundstufe: Max. 512 Zeichen pro Fach, 2 Wahlkurse
+▪ Mittelstufe: Max. 512 Zeichen pro Fach, 2 Wahlpflichtkurse und 2 Wahlkurse
+▪ Berufsorientierungsstufe: Max. 450 Zeichen pro Fach, 2 Wahlpflichtkurse und 2
+Wahlkurse
+▪ Für Schüler ab der Mittelstufe erfassen Sie die Noten für Arbeits- und Sozialverhalten
+im Register ARBEITS- UND SOZIALVERHALTEN, Texte hierzu aber im Register
+VERBALBEURTEILUNGEN.
+▪ Außer bei Abschluss- oder Abgangszeugnissen erfassen Sie die Fehlzeiten im Register
+FEHLZEITEN vor Zeugnisdruck. Pflegen Sie bei Bedarf Bemerkungen im Register
+BEMERKUNGEN PFLEGEN (sparsam verwenden, da es viel Platz benötigt).
+▪ Pflegen Sie im Register VERSETZUNG/EIGNUNG die Felder LETZTE FESTGESTELLTE
+EIGNUNG Lernen und VERSETZUNG Ja.
+▪ Sollten Sie auch das Beiblatt zur Projektprüfung drucken wollen, erfassen Sie die
+entsprechenden Verbalbeurteilungen im Register PROJEKTPRÜFUNG LER.
+▪ Weitere Informationen finden Sie in der Anleitung Von der Leistungserfassung bis zum
+Zeugnis.
+
+4
+
+Drucken der Zeugnisse durch den LUSD-Administrator
+Auf der Seite LEISTUNGEN > ZEUGNISSE > ZEUGNIS ERSTELLEN werden die Zeugnisdateien
+für den Ausdruck vorbereitet und ausgegeben.
+1. Im Register ZEUGNIS ZUWEISEN weisen Sie den Schülern das gewünschte Zeugnis zu.
+Geben Sie hierbei das Datum der Zeugniskonferenz und das Datum der
+Zeugnisausgabe an. (1. Zeugnis Halbjahreszeugnis bzw. Abschluss-, Abgangszeugnis;
+2. Zeugnis Schulwechselzeugnis; 3. Zeugnis Beiblatt Projektprüfung)
+2. Generieren Sie die Zeugnisdatei im Register ZEUGNIS GENERIEREN.
+3. Nach einer kurzen Wartezeit können Sie die erzeugte .pdf-Datei im Reiter ZEUGNISDATEI
+ABRUFEN herunterladen.
+4. Prüfen Sie die ausgegebene Zeugnisdatei auf Schlüssigkeit, Fächer, WPU,
+Bemerkungen, Fehlzeiten, Zweiseitigkeit (Vorder-Rückseite), Layout.
+5. Legen Sie die Zeugnisdatei auf Ihrem Verwaltungsrechner sinnvoll ab.
+6. Drucken Sie die Zeugnisse.
+
+HMKB | LUSD | Zeugniserstellung im Bildungsgang Förderschwerpunkt Lernen - Förderschulen | Version: 1.1 | 30.01.2026
+
+1
+
+

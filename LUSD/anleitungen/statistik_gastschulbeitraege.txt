@@ -1,0 +1,215 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Datenpflege zur Erhebung der Gastschulbeiträge
+Daten zur Erhebung der Gastschulbeiträge für Teilzeitberufsschüler und Schüler des
+Berufsgrundbildungsjahres in kooperativer Form in der LUSD pflegen
+
+1
+
+Vorwort
+Zur Berechnung der Gastschulbeiträge ist in der Regel der Wohnort der Schüler
+entscheidend. Bei Schülern der Teilzeitberufsschulformen (BST, BSBT) sowie des
+Berufsgrundbildungsjahres in kooperativer Form (BGJK) wird jedoch nicht die
+Schüleradresse, sondern die Adresse des Ausbildungsbetriebs für die Berechnung der
+Gastschulbeiträge herangezogen. Wenn Schüler ihre Ausbildung im aktuellen
+Ausbildungsjahr an mehreren Ausbildungsbetrieben oder verschiedenen Filialen eines
+Betriebs durchlaufen, gilt jeweils der Betriebs- oder Filialstandort als ausschlaggebend, an
+dem die Schüler die meiste Zeit ihrer Ausbildung verbringen.
+Die vorliegende Anleitung beschreibt, wie die entsprechenden Daten (Ausbildungsort/betrieb/-beruf) in der LUSD gepflegt werden. Sie richtet sich an LUSD-Benutzer, die für die
+Pflege der Ausbildungsberufe und der Ausbildungsbetriebe der Schüler zuständig sind.
+Basiskenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser
+Anleitung nicht näher beschrieben.
+Hinweis
+Der Datenabzug zur Ermittlung der Gastschulbeiträge erfolgt am 01.11. eines
+jeden Jahres. Die gesetzliche Grundlage für die Gastschulbeiträge findet sich
+im HschG §163.
+
+2
+
+Datenerfassung vorbereiten
+
+2.1
+
+Ausbildungsbetriebe in das Schulumfeld einpflegen
+1. Prüfen Sie auf der Seite SCHULE > SCHULUMFELD > BETRIEBE, ob Sie alle für Ihre
+Bildungsgänge relevanten Ausbildungsbetriebe erfasst haben.
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+1
+
+Abb. 1 Webseite Betriebe
+
+Sie können auf dieser Seite
+▪ neue Betriebe anlegen (
+
+),
+
+▪ Angaben zu bereits erfassten Betrieben ändern (
+▪ einzelne Betriebe löschen (
+
+) oder
+
+).
+
+Hinweis
+Bevor Sie Ihren Schülern Ausbildungsbetriebe zuweisen können, müssen
+diese Betriebe in das Schulumfeld eingepflegt sein.
+
+2.2
+
+Den Ausbildungsberuf erfassen
+Der Ausbildungsberuf des Schülers wird auf der Seite SCHÜLER > SCHÜLERBASISDATEN >
+QUALIFIKATIONEN, im Register EIGNUNG/ABSCHLÜSSE/BERUFE erfasst (Abb. 1Abb. 2).
+1. Um den Ausbildungsberuf eines Schülers hinzuzufügen, klicken Sie auf
+selektieren Sie den gewünschten Schüler.
+
+und
+
+Abb. 2 Webseite Qualifikationen: Register Eignung/Abschlüsse/Berufe
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+2
+
+2. Klicken Sie auf die Schaltfläche HINZUFÜGEN. Im Bereich BERUFE öffnet sich das
+Dialogfenster BERUF HINZUFÜGEN.
+
+Abb. 3 Webseite Qualifikationen: Erfassung des Ausbildungsberufs
+
+3. Wählen Sie im Auswahlfeld den Beruf des Schülers aus, tragen Sie das Datum des
+Ausbildungsbeginns ein und klicken Sie auf die Schaltfläche SPEICHERN.
+Hinweis
+Falls Sie den gewünschten Ausbildungsberuf nicht im Auswahlfeld finden…
+1. Prüfen Sie auf der Seite SCHULE > SCHULUMFELD > BERUFE, ob
+dieser Beruf an Ihrer Schule aktiviert ist.
+2. Wählen Sie auf dieser Seite zunächst eine
+Schulform/Bildungskombination (SF/BK) aus. Es wird daraufhin
+eine Liste der möglichen Berufe dieser SF/BK angezeigt.
+3. Einzelne Berufe aktivieren Sie, indem Sie das Kontrollkästchen vor
+dem Beruf in der Spalte SCHULBEZOGENE BERUFE anwählen (Abb.
+4).
+4. Bestätigen Sie die Auswahl durch Klick auf die Schaltfläche
+SPEICHERN
+
+Abb. 4 Webseite Berufe: Das Aktivieren von Berufen
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+3
+
+2.3
+
+Den Ausbildungsbetrieb erfassen
+1. Rufen Sie die Seite SCHÜLER > SCHÜLERBASISDATEN > BETRIEBE/PRAKTIKA auf (Abb. 5).
+Über die Schülersuche
+selektieren Sie Schüler und weisen diesen individuell
+▪ neue Ausbildungsbetriebe zu (
+
+),
+
+▪ ändern Angaben zu bereits erfassten Betrieben (
+▪ löschen einzelne Ausbildungsbetriebe (
+
+) oder
+).
+
+Abb. 5 Webseite Berufe: Erfassen des Ausbildungsbetriebes
+
+2. Klicken Sie auf die Schaltfläche HINZUFÜGEN. Das Dialogfenster ZUORDNUNG BETRIEB
+HINZUFÜGEN (Abb. 6) wird geöffnet.
+
+Abb. 6 Webseite Berufe: Das Dialogfenster Betrieb hinzufügen
+
+3. Öffnen Sie in diesem Dialogfenster durch Klicken auf
+BETRIEB AUSWÄHLEN (Abb. 7).
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+das weitere Dialogfenster
+
+4
+
+Abb. 7 Webseite Berufe: Das Dialogfenster Betrieb auswählen
+
+4. Im Dialogfenster BETRIEB AUSWÄHLEN wählen Sie den gewünschten Betrieb aus. Dabei
+können Sie im Feld EINRICHTUNG Betriebe nach Namensbestandteilen oder
+vollständigem Namen suchen. Falls Sie an Ihrer Schule Einträge für Branchen haben,
+können Sie auch eine Vorauswahl nach einzelnen Branchen treffen.
+5. Mit einem Klick auf die Schaltfläche ÜBERNEHMEN werden Ihre Angaben in das
+Dialogfenster ZUORDNUNG BETRIEB HINZUFÜGEN übernommen (Abb. 8).
+
+Abb. 8 Webseite Berufe: Das Dialogfenster Zuordnung Betrieb hinzufügen mit ausgefüllten
+Betriebsdaten
+
+Hinweis
+Achten Sie darauf, dass im Auswahlfeld ART DER BEZIEHUNG* der Eintrag
+Ausbildungsbetrieb ausgewählt ist. (Abb. 8)
+Das Feld VON* ist ein Pflichtfeld. Tragen Sie hier das Datum des
+Ausbildungsbeginns an diesem Betrieb ein.
+Überprüfen Sie, ob die Adresse des Ausbildungsbetriebs korrekt ist. Bei
+Betrieben mit mehreren Filialen kann es leicht zu Verwechslungen kommen.
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+5
+
+6. Nachdem alle Angaben korrekt eingetragen sind, klicken Sie auf ÜBERNEHMEN, um auf
+die Seite SCHÜLER > SCHÜLERBASISDATEN > BETRIEBE/PRAKTIKA zu gelangen (Abb. 5).
+Bestätigen Sie die Einträge der Daten durch Klick auf SPEICHERN.
+7. Falls einem Schüler mehrere Ausbildungsbetriebe zugewiesen sind, markieren Sie den
+Ausbildungsbetrieb, an dem der Schüler den überwiegenden Teil der Ausbildung
+durchlaufen hat, mit einem Haken im Feld STANDARDBEZIEHUNGEN. Nur der angehakte
+Betrieb wird für die Gastschulstatistik herangezogen.
+8. Zum Ändern der Standardbeziehung wählen Sie die den entsprechenden Betrieb durch
+Anwahl der Zeile aus, klicken auf BEARBEITEN. Das Dialogfester BETRIEB BEARBEITEN
+wird geöffnet.
+9. Setzen Sie den Haken bei STANDARDBEZIEHUNG und bestätigen durch Klick auf
+ÜBERNEHMEN. Die Webseite SCHÜLER > SCHÜLERBASISDATEN > BETRIEBE/PRAKTIKA öffnet
+sich erneut. Bestätigen Sie die Auswahl durch SPEICHERN.
+
+Abb. 9 Webseite Betriebe/Praktika: Die Standardbeziehung zu einem Ausbildungsbetrieb festlegen
+
+Hinweis
+Beim Speichern einer neuen Standardbeziehung wird automatisch die alte
+Standardbeziehung zu einem Betrieb gelöscht.
+
+3
+
+Vollständigkeit der Angaben prüfen
+Zur Kontrolle, ob allen Schüler die korrekten Ausbildungsbetriebe zugewiesen wurden,
+können Sie sich auf der Seite EXTRAS > BERICHTE > STANDARDBERICHTE > ALLG. LISTEN den
+Bericht SCHÜLER > ALLG. LISTEN > BETRIEBSBEZIEHUNG ausgeben lassen (Abb. 10).
+
+Abb. 10 Webseite Betriebsbeziehung: Die Parameter für den Bericht Betriebsbeziehung
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+6
+
+Dieser Bericht zeigt aus vorher gewählten Klassen diejenigen aktiven Schüler an, die eine
+ausgewählte Betriebsbeziehung zu einem Betrieb eingetragen haben. Wählen Sie im
+Auswahlfeld ART DER BEZIEHUNG* den Eintrag Ausbildungsbetrieb.
+Achtung
+Sie müssen in das Feld BEGINN DER BETRIEBSBEZIEHUNG ein Datum
+eintragen! Es werden alle Betriebsbeziehungen angezeigt, die am
+eingetragenen Datum oder danach begonnen haben. Wenn Sie kein Datum
+eintragen, enthält der Bericht keine Einträge.
+
+4
+
+Schüler ohne gültige Betriebsbeziehung feststellen
+Auf der Webseite EXTRAS > AUFGABENLISTE in der REGELGRUPPE STAMMDATEN können Sie
+feststellen, ob Schüler keine aktuelle Betriebsbeziehung haben. Die Schüler ohne Betrieb
+werden in der Kategorie MUSS-AUFF. angeführt.
+
+Abb. 11 Webseite Aufgabenliste: Muss-Aufforderung Schüler ohne Betrieb
+
+HMKB | LUSD | Datenpflege zur Erhebung der Gastschulbeiträge | Version: 2.0 | 14.01.2026
+
+7
+
+

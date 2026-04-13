@@ -1,0 +1,433 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zurückstellung aus
+entwicklungsbedingten Gründen
+Zurückstellung von Kindern, die noch nicht den für den Schulbesuch erforderlichen
+körperlichen, geistigen und seelischen Entwicklungsstand haben
+
+Version: 1.1
+Letzter Stand: 03.06.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................ 4
+Zielgruppe ...................................................................................................................................... 5
+Vorausgesetzte Kenntnisse ............................................................................................................ 5
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Zurückstellung aus entwicklungsbedingen Gründen
+1
+
+7
+
+Zurückstellung in der LUSD eintragen ................................................................................... 7
+1.1
+
+Register Sprachkenntnisse/Schulfähigkeit.................................................................... 7
+
+1.2
+
+Register Zurückstellung................................................................................................ 8
+
+2
+
+Zurückstellung in eine Vorklasse ........................................................................................... 9
+
+3
+
+Zurückstellung in den Kindergarten / nach zu Hause............................................................. 9
+3.1
+
+4
+
+Zieldaten der zurückgestellten Kandidaten ändern ....................................................... 9
+
+Berichte ............................................................................................................................... 10
+4.1
+
+Bericht: Zurückstellung Schulreife – Voraussetzungen ............................................... 10
+
+4.2
+
+Bericht: Zurückstellung Schulreife – Berichtsparameter ............................................. 10
+
+4.3
+
+Zurückstellung Schulreife – Rechtsbehelfsbelehrung und Unterschriftenfeld .............. 12
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+7
+
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+8
+
+Abb. 3 Webseite Kandidaten bearbeiten: Zieldaten ergänzen
+
+9
+
+Abb. 4 Webseite Berichte: Berichtsparam. Zurückstell. Entwicklungsstand HSchG § 58 Abs. 3
+
+11
+
+Abb. 5 Bericht bei Zurückstellung: Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3)
+
+11
+
+Abb. 6 Bericht bei Zurückstellung: Kindergarten
+
+12
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Diese Anleitung beschreibt den Umgang mit potentiellen Schulanfängern (schulpflichtigen
+Kindern),
+„die noch nicht den für den Schulbesuch erforderlichen körperlichen, geistigen und seelischen
+Entwicklungsstand haben“ (HSchG § 58 Abs. 3)
+und daher entweder
+ in eine Vorklasse,
+ in einen Kindergarten oder
+ nach zu Hause
+zurückgestellt werden.
+Rechtliche Grundlagen
+HSchG § 58
+„(3) Schulpflichtige Kinder, die noch nicht den für den Schulbesuch erforderlichen körperlichen,
+geistigen und seelischen Entwicklungsstand haben, können auf Antrag der Eltern oder nach deren
+Anhörung unter schulpsychologischer Beteiligung und Beteiligung des schulärztlichen Dienstes
+von der Schulleiterin oder dem Schulleiter für ein Jahr von der Teilnahme am Unterricht der
+Grundschule oder der Förderschule zurückgestellt werden. Die Zeit der Zurückstellung wird nicht
+auf die Dauer der Schulpflicht angerechnet.“
+„(4) Mit Zustimmung der Eltern können diese Kinder Vorklassen (§ 18) besuchen, wenn dies zur
+Förderung ihrer Entwicklung angebracht und nach Lage der Verhältnisse möglich ist. Die
+Entscheidung trifft die Schulleiterin oder der Schulleiter.“
+
+Bitte beachten Sie, dass es in dieser Anleitung nicht um folgende Sachverhalte geht:
+ Aufnahme in den Vorlaufkurs
+Dies betrifft Kinder, bei denen im Rahmen des Schulaufnahmeverfahrens festgestellt
+wird, dass sie nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen und die daher verpflichtet sind, in dem Schuljahr, das dem
+Beginn der Schulpflicht vorausgeht, einen Vorlaufkurs zu besuchen.
+Beachten Sie hierzu bitte die Anleitung Aufnahme in den Vorlaufkurs.
+ Zurückstellung aus sprachlichen Gründen
+Dies betrifft schulpflichtige Kinder, die nicht über die für den Schulbesuch erforderlichen
+deutschen Sprachkenntnisse verfügen und daher entweder
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+4
+
+ in einen schulischen Sprachkurs organisatorisch im Rahmen des
+Vorlaufkurses,
+ in eine Vorklasse,
+ in eine Intensivklasse oder
+ in einen schulischen Sprachkurs
+zurückgestellt werden.
+Beachten Sie hierzu bitte die Anleitung Zurückstellung aus sprachlichen Gründen.
+
+Zielgruppe
+Diese Anleitung richtet sich an LUSD-Benutzer, die Schulanfänger in die LUSD aufnehmen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+
+
+
+
+
+Der Umgang mit
+der Schüleraufnahme,
+der Schüler-, Kurs- und Klassensuche,
+der Kursbearbeitung.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+5
+
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+6
+
+Zurückstellung aus entwicklungsbedingen Gründen
+1
+
+Zurückstellung in der LUSD eintragen
+Sobald feststeht, dass ein Kind an Ihrer Schule vom Schulbesuch zurückgestellt werden
+soll, müssen Sie die Zurückstellung des Kindes auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULFÄHIGKEIT eintragen.
+Tragen Sie die Zurückstellung mit den in den folgenden Kapitel beschriebenen Daten
+ein:
+
+1.1
+
+Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Abb. 1 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT einen
+der folgenden Einträge aufweist: Offen, Empfehlung Zurückstellung oder
+Zurückstellung.
+
+4. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+7
+
+1.2
+
+Register Zurückstellung
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus:
+ Feld ZURÜCKSTELLUNG:
+ Vorklasse Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3)
+ Kindergarten oder
+ Zu Hause.
+ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum der Anhörung der Eltern.
+ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, in dem die Vorklasse eingerichtet wird.
+ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+8
+
+Hinweis
+Die Felder
+ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+2
+
+und
+
+.
+
+Zurückstellung in eine Vorklasse
+Für die Zurückstellung in eine Vorklasse sind umfangreichere Arbeiten in der LUSD nötig
+(Pflege der Schulbasisdaten, Einrichten der Klassen und Kurse der Vorklasse, Pflege der
+Schülerdaten).
+Beachten Sie hierfür bitte die gesonderte Anleitung Aufnahme in die Vorklasse.
+
+3
+
+Zurückstellung in den Kindergarten / nach zu Hause
+
+3.1
+
+Zieldaten der zurückgestellten Kandidaten ändern
+Ändern Sie die Zieldaten der Kinder, die Sie
+ in den Kindergarten oder
+ nach zu Hause
+zurückstellen möchten, auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN.
+
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das neue Zielhalbjahr sowie die
+Zielschulform G und die Zielstufe 01/1 aus.
+
+Abb. 3 Webseite Kandidaten bearbeiten: Zieldaten ergänzen
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+9
+
+Hinweis auf einen Vorteil
+Sie brauchen die Daten des Schülers bei der Aufnahme im nächsten Jahr
+nicht mehr neu einzugeben, da Ihnen der Schüler bereits als Kandidat zur
+Verfügung steht.
+Hinweis
+Sollten Sie Schüler, die in den Kindergarten oder nach zu Hause
+zurückgestellt werden sollen, bereits aktiv gesetzt haben, beachten Sie bitte
+die Anleitung Aufgenommene Schulanfänger, die doch nicht die Schule
+besuchen werden (Fall 2).
+
+4
+
+Berichte
+Auf der Webseite EXTRAS > BERICHTE > SCHÜLER > GRUNDSCHULE finden Sie den Bericht
+ZURÜCKSTELLUNG ENTWICKLUNGSSTAND HSCHG §58 ABS. 3.
+Mit diesem Bericht steht Ihnen ein Anschreiben an die Ansprechpartner eines Schülers zur
+Verfügung, in dem Sie mitteilen, dass das Kind aus entwicklungsbedingten Gründen für ein
+Schuljahr vom Schulbesuch zurückgestellt wird.
+
+4.1
+
+Bericht: Zurückstellung Schulreife – Voraussetzungen
+Voraussetzung für den Bericht ist, dass Sie auf der Seite SCHÜLER > SCHULBASISDATEN >
+SCHULFÄHIGKEIT Im Register ZURÜCKSTELLUNG folgende Einträge für den Schüler
+vorgenommen haben.
+ In der Spalte ZURÜCKSTELLUNG ist einer der folgenden Einträge ausgewählt:
+ Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3),
+ Kindergarten oder
+ Zu Hause.
+ Die Spalte ANTRAG/ANHÖRUNG DER ELTERN wurde mit einem Datum befüllt.
+
+4.2
+
+Spalte
+
+Anmerkungen
+
+Antrag/Anhörung der Eltern
+
+Tragen Sie hier das Datum ein, an dem die Eltern
+zur Zurückstellung angehört wurden. Das Datum
+findet sich anschließend im Kopf des
+Anschreibens.
+
+Bericht: Zurückstellung Schulreife – Berichtsparameter
+Um auf der Seite EXTRAS > BERICHTE > SCHÜLER > GRUNDSCHULE – ZURÜCKSTELLUNG
+SCHULREIFE den Bericht generieren zu können, müssen Sie im Bereich W EITERE
+PARAMETER das Pflicht-Freitextfeld BEGRÜNDUNG* befüllen.
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+10
+
+Freitextfeld
+
+Anmerkung
+
+Begründung*
+
+Hier tragen Sie bitte die Begründung für die Zurückstellung ein.
+Der Eintrag wird anschließend im Bericht unter Begründung
+aufgeführt.
+
+Abb. 4 Webseite Berichte: Berichtsparam. Zurückstell. Entwicklungsstand HSchG § 58 Abs. 3
+
+Abb. 5 Bericht bei Zurückstellung: Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3)
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+11
+
+Abb. 6 Bericht bei Zurückstellung: Kindergarten
+
+4.3
+
+Zurückstellung Schulreife – Rechtsbehelfsbelehrung und Unterschriftenfeld
+Im Bereich der RECHTSBEHELFSBELEHRUNG wird das der Schule zugehörige Schulamt mit
+Anschrift ausgegeben.
+Im UNTERSCHRIFTENFELD wird, je nach eingetragenem Geschlecht, SCHULLEITERIN oder
+SCHULLEITER ausgegeben.
+
+HMKB | LUSD | Zurückstellung aus entwicklungsbedingten Gründen | Version: 1.1 | Letzter Stand: 03.06.2024
+
+12
+
+

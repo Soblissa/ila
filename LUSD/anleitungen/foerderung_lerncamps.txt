@@ -1,0 +1,154 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Lerncamps und Deutsch als Bildungssprache
+abbilden
+1
+
+Zusammenfassung
+Die Anleitung beschreibt, wie Sie die Teilnahme Ihrer Schüler an folgenden
+Fördermaßnahmen in der LUSD abbilden:
+▪ Zentrale Ostercamps
+▪ Lerncamps in den Ferien
+▪ DAS - Fit für die Zukunft - Deutsch als Bildungssprache
+
+2
+
+Allgemeine Informationen
+
+2.1
+
+Zentrale Ostercamps (ZOC)
+In Kooperation mit einem Träger organisiert das Hessische Ministerium für Kultus, Bildung
+und Chancen an vier Standorten zentrale Ostercamps.
+In gut ausgestatteten Jugendherbergen und Jugendbildungsstätten erhalten 240
+versetzungsgefährdete Haupt-, Real- und Gesamtschulschülerinnen und -schüler der 8.
+Klassen zwei Wochen lang in den Osterferien die Gelegenheit, ihre schulischen
+Leistungen zu verbessern und sich in gemeinsamen Lernwerkstätten für gute
+Schulabschlüsse fit zu machen.
+Nähere Informationen finden Sie auf folgender Webseite des Hessischen Ministeriums für
+Kultus, Bildung und Chancen https://kultusministerium.hessen.de/Programme-undProjekte/Zentrale-Ostercamps
+
+2.2
+
+Lerncamps in den Ferien (LIF)
+Öffentliche Schulen in Hessen haben die Möglichkeit, kurzzeitpädagogische Maßnahmen
+zur Kompensation von Lernrückständen von Schülern durchzuführen.
+In den Ferien können alle Bildungsgänge und Schulformen in Hessen ein vom Land
+Hessen finanziertes Lerncamp für Schüler der eigenen Schule anbieten.
+
+HMKB | LUSD | Lerncamps und Deutsch als Bildungssprache abbilden | Version: 1.1 | 07.10.2025
+
+1
+
+Nähre Informationen finden Sie auf folgender Webseite des Hessischen Ministeriums für
+Kultus, Bildung und Chancen:
+https://kultusministerium.hessen.de/programme-undprojekte/lerncampshessen.de/Programme-und-Projekte/Lerncamp
+
+2.3
+
+Fit für die Zukunft – Deutsch als Bildungssprache (DAS)
+„DaS! Fit für die Zukunft – Deutsch als Bildungssprache“ richtet sich sowohl an
+Zuwanderer und Flüchtlinge in Intensivklassen und -kursen, als auch an Kinder und
+Jugendliche in Regelklassen, die ihre Deutschkenntnisse verbessern möchten.
+Das Programm zur Sprachförderung eignet sich als Ergänzung zu regulären schulischen
+Sprachfördermaßnahmen.
+Hinweis
+Auskünfte zu weiteren Informationen und Bewerbungen richten Sie bitte an:
+Hessisches Kultusministerium
+Referat IV.3
+Florian Dierschke
+Luisenplatz 10
+65185 Wiesbaden
+Telefon: +49 611 368-6010
+E-Mail: lerncamp@kultus.hessen.de
+
+3
+
+Teilnahme „Ostercamp zentral (ZOC)“
+Die Teilnahme eines Schülers an einem zentralen Ostercamp erfassen Sie auf der
+Webseite SCHÜLER > SCHÜLER-BASISDATEN > HALBJ./SEM.-DATEN im Bereich
+FÖRDERUNGEN - SONSTIGE FÖRDERUNGEN.
+
+Abb. 1 Webseite Halbj./Sem.-Daten
+
+HMKB | LUSD | Lerncamps und Deutsch als Bildungssprache abbilden | Version: 1.1 | 07.10.2025
+
+2
+
+1. Wählen Sie den gewünschten Schüler über die Schülersuche aus.
+2. Klicken Sie im unteren Bereich SONSTIGE FÖRDERUNGEN auf HINZUFÜGEN.
+3. Tragen Sie im Dialogfenster SONSTIGE FÖRDERUNG HINZUFÜGEN/BEARBEITEN in den
+Feldern VON und BIS den für die Förderung zutreffenden Zeitraum ein.
+4. Wählen Sie im Auswahlfeld FÖRDERUNGSART den Eintrag ZOC Ostercamp zentral aus.
+
+Abb. 2 Webseite Halbj./Sem.-Daten: Sonstige Förderung hinzufügen/bearbeiten Ostercamp zentral
+
+5. Im Feld BEMERKUNG können Sie optional eine kurze Bemerkung zur Förderung
+eintragen.
+6. Klicken Sie auf ÜBERNEHMEN und anschließen auf SPEICHERN.
+7. Um die Teilnahme weiterer Schüler anzulegen, wechseln Sie zum nächsten Schüler
+und wiederholen Sie die Schritte 2 bis 6.
+
+4
+
+Teilnahme „Lerncamps in den Ferien (LIF)“
+Die Teilnahme eines Schülers an einem Lerncamp erfassen Sie auf der Webseite
+SCHÜLER > SCHÜLER-BASISDATEN > HALBJ./SEM.-DATEN im Bereich FÖRDERUNGEN SONSTIGE FÖRDERUNGEN.
+
+Abb. 3 Webseite Halbj./Sem.-Daten
+
+HMKB | LUSD | Lerncamps und Deutsch als Bildungssprache abbilden | Version: 1.1 | 07.10.2025
+
+3
+
+1. Wählen Sie den gewünschten Schüler über die Schülersuche aus.
+2. Klicken Sie im unteren Bereich SONSTIGE FÖRDERUNGEN auf HINZUFÜGEN.
+3. Tragen Sie im Dialogfenster SONSTIGE FÖRDERUNG HINZUFÜGEN/BEARBEITEN in den
+Feldern VON und BIS den für die Förderung zutreffenden Zeitraum ein.
+4. Wählen Sie im Auswahlfeld FÖRDERUNGSART den Eintrag LIF Lerncamp in den Ferien
+aus.
+
+Abb. 4 Halbj./Sem.-Daten: Sonstige Förderung hinzufügen/bearbeiten LIF Lerncamp in den Ferien
+
+5. Im Feld BEMERKUNG können Sie optional eine kurze Bemerkung zur Förderung
+eintragen.
+6. Klicken Sie auf ÜBERNEHMEN und anschließen auf SPEICHERN.
+7. Um die Teilnahme weiterer Schüler anzulegen, wechseln Sie zum nächsten Schüler
+und wiederholen Sie die Schritte 2 bis 6.
+
+5
+
+Teilnahme „Fit für die Zukunft – Deutsch als Bildungssprache“
+Die Teilnahme eines Schülers am Programm „Fit für die Zukunft – Deutsch als
+Bildungssprache“, erfassen Sie auf der Webseite SCHÜLER > SCHÜLER-BASISDATEN >
+HALBJ./SEM.-DATEN im Bereich FÖRDERUNGEN - SONSTIGE FÖRDERUNGEN
+
+Abb. 5 Webseite Halbj./Sem.-Daten
+
+HMKB | LUSD | Lerncamps und Deutsch als Bildungssprache abbilden | Version: 1.1 | 07.10.2025
+
+4
+
+1. Wählen Sie den gewünschten Schüler über die Schülersuche aus.
+2. Klicken Sie im unteren Bereich SONSTIGE FÖRDERUNGEN auf HINZUFÜGEN.
+3. Tragen Sie im Dialogfenster SONSTIGE FÖRDERUNG HINZUFÜGEN/BEARBEITEN in den
+Feldern VON und BIS den für die Förderung zutreffenden Zeitraum ein.
+4. Wählen Sie im Auswahlfeld FÖRDERUNGSART den Eintrag DAS – Fit für die Zukunft –
+Deutsch als Bildungssprache aus.
+
+Abb. 6 Sonstige Förderung hinzufügen/bearbeiten
+
+5. Im Feld BEMERKUNG können Sie optional eine kurze Bemerkung zur Förderung
+eintragen.
+6. Klicken Sie auf ÜBERNEHMEN und anschließen auf SPEICHERN.
+7. Um die Teilnahme weiterer Schüler anzulegen, wechseln Sie zum nächsten Schüler
+und wiederholen Sie die Schritte 2 bis 6.
+
+HMKB | LUSD | Lerncamps und Deutsch als Bildungssprache abbilden | Version: 1.1 | 07.10.2025
+
+5
+
+

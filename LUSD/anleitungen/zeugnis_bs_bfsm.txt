@@ -1,0 +1,277 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zweijährige Höhere Berufsfachschule [BFSM] (Stand
+01.02.2023)
+Hinweise und Zeugnisbeispiele
+
+1
+
+Zeugnisformulare
+
+Zeugnisart
+
+Format
+
+Beispielzeugnis
+
+Halbjahreszeugnis
+
+A4
+
+Siehe Kapitel 7.1
+
+Abgangszeugnis
+
+A4
+
+Siehe Kapitel 7.2, 7.3
+
+Abschlusszeugnis
+
+A3
+
+Siehe Kapitel 7.4
+
+Schulischer Teil FHR und Fachhochschulreife nur Kurse der
+Kursart Z (D, E, M)
+
+A4
+
+Siehe Kapitel 7.5
+
+2
+
+Kursmerkmale
+
+Zeugnisart
+
+Kursart
+
+Fächer des allgemeinen Lernbereichs
+
+P
+
+Fächer des berufsbildenden Lernbereichs
+
+P
+
+Fächer des Wahlunterrichts
+
+F
+
+Fächer des Wahlunterrichts (Zusatzunterricht
+Fachhochschulreife)
+
+F
+
+3
+
+Differenzierung Kursoption
+
+BR
+
+ZUF
+
+Zeugnisdaten
+
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Beginn Schulbesuch
+
+Automatisch aus Schullaufbahn
+
+Zeugnisdatum in allen Zeugnissen
+
+Ausgabe Datum
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+1
+
+Datum im Zeugnis
+
+Datum in Zeugniszuweisung
+
+Ende Schulbesuch Abgangszeugnis
+
+Ausgabe Datum
+
+Ende Schulbesuch Abschlusszeugnis
+
+Abschluss-Prüfung Datum
+
+4
+
+Noteneingabe
+
+Note
+
+Eingabe
+
+Gesamtnote auf Grundlage der Lernfelder
+
+Gesamtnote beruflicher Bereich
+
+Nur für Halbjahres- und Abgangszeugnisse
+(Note mit einer Nachkommastelle)
+Gesamtnote beruflicher Bereich nach Prüfung
+
+Endnote/Prüfungsnote
+
+In Abgangs- und Abschlusszeugnissen
+(Note mit einer Nachkommastelle)
+Durchschnittsnote Fachhochschulreife
+
+Durchschnittsnote Fachhochschulreife.
+
+(Note mit einer Nachkommastelle)
+Nur für BFSM/FRSK Fremdsprachensekretariat
+
+1. Fremdsprache
+
+Note Englisch
+(Note mit einer Nachkommastelle)
+Note Französisch/Spanisch je nach Kursen
+
+2. Fremdsprache
+
+Franz. LFFA - LFFD oder Spanisch LFSA - LFSD
+(Note mit einer Nachkommastelle)
+
+5
+
+Abschlüsse
+
+Ein Abbruch (vorzeitiges Verlassen des Bildungsganges) ist in jeder Stufe möglich.
+Stufe
+
+Mögliche Abschlüsse
+
+11/2
+
+Gleichstellung mit mittlerem Abschluss (GYM8)
+
+12/2
+
+▪ Abschluss
+▪ Schulischer Teil der Fachhochschulreife
+▪ Fachhochschulreife
+▪ Kein Abschluss (nach Beendigung des Bildungsganges)
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+2
+
+6
+
+Hinweise
+▪ Fächer des allgemeinen Lernbereichs und des Wahlunterrichts werden in den Zeugnissen
+nur angezeigt, wenn entsprechende Kurse belegt wurden.
+▪ Alle Lernfelder des berufsbezogenen Unterrichts werden angezeigt. Zur Noteneingabe ist
+die Anlage entsprechender Kurse erforderlich.
+▪ Ausnahme: In BFSM/FRSK/---- werden die Lernfelder LFEA - LFED, LFFA - LFFD, LFSA LFSD nur dann angezeigt, wenn entsprechende Kurse belegt wurden.
+▪ In Abgangs- und Abschlusszeugnissen werden die historischen Themen- und
+Aufgabenfeldnoten des Schuljahres übernommen. Wurde z. B. in der Stufe 12/2 keine
+Bewertung erfasst, wird die Bewertung aus 12/1 im Zeugnis ausgewiesen.
+▪ In Abgangszeugnissen bei vorzeitigem Ausscheiden, d. h. ohne Teilnahme an der
+Abschlussprüfung, darf bei der Zeugniszuweisung kein Abschluss-Prüfung Datum
+eingetragen werden.
+▪ Wenn bei der Erstellung eines Abgangszeugnisses in der Zeugniszuweisung das
+Abschluss-Prüfung Datum gesetzt ist, wird unter der Gesamtnote der Text „(auf der
+Grundlage der Vornote und der Noten der Abschlussprüfung)“ ausgegeben, wird kein
+Abschluss-Prüfung Datum eingetragen, wird unter der Gesamtnote der Text „(auf der
+Grundlage der Lernfelder)“ ausgegeben. Des Weiteren kommt durch den Eintrag dieses
+Datums der Unterschriftenblock mit der/dem Prüfungsvorsitzende(n) je nach Eintrag unter
+UNTERRICHT > ZEUGNISKONFIGURATION > ZEUGNISFORMULARE.
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+3
+
+7
+
+Beispielzeugnisse
+
+7.1
+
+Beispiel Halbjahreszeugnis
+
+Abb. 1 Beispiel: Halbjahreszeugnis
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+4
+
+Abb. 2 Beispiel: Halbjahreszeugnis
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+5
+
+7.2
+
+Beispiel Abgangszeugnis (mit Prüfung)
+
+Abb. 3 Beispiel: Abgangszeugnis (mit Prüfung)
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+6
+
+Abb. 4 Beispiel: Abgangszeugnis (mit Prüfung)
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+7
+
+7.3
+
+Beispiel Abgangszeugnis (ohne Prüfung)
+
+Abb. 5 Beispiel: Abgangszeugnis (ohne Prüfung)
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+8
+
+Abb. 6 Beispiel: Abgangszeugnis (ohne Prüfung)
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+9
+
+7.4
+
+Beispiele Abschlusszeugnis
+
+Abb. 7 Beispiel: Abschlusszeugnis
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+10
+
+Abb. 8 Beispiel: Abschlusszeugnis
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+11
+
+7.5
+
+Beispiel Zusatzzeugnis
+
+Abb. 9 Beispiel: Zusatzzeugnis
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+12
+
+Abb. 10 Beispiel: Zusatzzeugnis
+
+HMKB | LUSD | Zweijährige Höhere Berufsfachschule [BFSM] (Stand 01.02.2023)
+
+13
+
+

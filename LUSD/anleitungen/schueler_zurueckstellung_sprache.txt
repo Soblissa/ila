@@ -1,0 +1,1599 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Zurückstellung aus
+sprachlichen Gründen
+Zurückstellung von schulpflichtigen Kindern pflegen, die nicht über die für
+den Schulbesuch erforderlichen deutschen Sprachkenntnisse verfügen.
+
+Version: 2.0
+Letzter Stand: 08.08.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+6
+
+Inhalt dieses Dokuments ................................................................................................................ 6
+Rechtliche Grundlagen .................................................................................................................. 6
+Zielgruppe ...................................................................................................................................... 7
+Vorausgesetzte Kenntnisse ........................................................................................................... 7
+LUSD-Anwenderunterstützung....................................................................................................... 8
+1
+
+2
+
+3
+
+4
+
+Zurückstellung in einen schulischen Sprachkurs organisatorisch im Rahmen eines
+Vorlaufkurses ........................................................................................................................ 9
+1.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Vorlaufkurs) ................................. 9
+
+1.2
+
+Zurückstellung in der LUSD eintragen (Vorlaufkurs) .................................................. 10
+
+1.3
+
+Zurückgestellte Kinder einer Vorlaufkurs-Klasse hinzufügen ..................................... 12
+
+1.4
+
+Zurückgestellte Kinder den Kursen der Vorlaufkurs-Klasse zuweisen ........................ 13
+
+Zurückstellung in eine Vorklasse......................................................................................... 14
+2.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Vorklasse) ................................. 14
+
+2.2
+
+Zurückstellung in der LUSD eintragen (Vorklasse)..................................................... 14
+
+2.3
+
+Zurückgestellte Kinder einer Vorklasse hinzufügen .................................................... 17
+
+2.4
+
+Zurückgestellte Kinder den Kursen der Vorklasse zuweisen ...................................... 17
+
+Zurückstellung in eine Intensivklasse .................................................................................. 18
+3.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Intensivklasse) .......................... 18
+
+3.2
+
+Zurückstellung in der LUSD eintragen (Intensivklasse) .............................................. 19
+
+3.3
+
+Zurückgestellte Kinder einer Intensivklasse hinzufügen ............................................. 21
+
+3.4
+
+Zurückgestellte Kinder den Kursen der Intensivklasse zuweisen ............................... 21
+
+Zurückstellung in einen schulischen Sprachkurs (SSK) ...................................................... 22
+4.1
+
+Schulbasisdaten für den schulischen Sprachkurs (SSK) vorbereiten ......................... 22
+
+4.2
+
+Zieldaten der zurückgestellten Kandidaten pflegen .................................................... 24
+
+4.3
+
+Zurückstellung in der LUSD eintragen (SSK) ............................................................. 25
+
+4.4
+
+Klassen für den Schulischen Sprachkurs einrichten ................................................... 27
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+2
+
+5
+
+4.5
+
+Zurückgestellte Kinder der Schulischen Sprachkurs – Klasse hinzufügen.................. 28
+
+4.6
+
+Kurs für die Schulischen Sprachkurs – Klasse einrichten........................................... 28
+
+4.7
+
+Zurückgestellte Kinder den Kursen der Schulischen Sprachkurs - Klasse hinzufügen 29
+
+Berichte .............................................................................................................................. 30
+5.1
+
+Bericht: Zurückstellung Sprache ................................................................................ 30
+
+Variante 2: Zurückstellung in einen Unterricht einer anderen Schule
+6
+
+35
+
+Pflege der Daten in der LUSD ............................................................................................. 35
+6.1
+
+Zurückstellung in der LUSD eintragen ....................................................................... 35
+
+6.2
+
+Kind an die andere Schule abgeben .......................................................................... 35
+
+6.3
+
+Zurückgestellte Schüler kommen nach Beendigung des Unterrichtes an Ihre Schule
+zurück ........................................................................................................................ 37
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Kandidaten: Zieldaten bearbeiten
+
+9
+
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+10
+
+Abb. 3 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+12
+
+Abb. 4 Webseite Klassenbildung: Schüler der Klasse hinzufügen
+
+12
+
+Abb. 5 Webseite Schüler-Kurszuordnung: Kandidaten den Kursen zufügen
+
+13
+
+Abb. 6 Webseite Statusverwaltung: Aktivieren der Kandidaten
+
+13
+
+Abb. 7 Webseite Kandidaten bearbeiten: Dialogfenster Zieldaten bearbeiten
+
+14
+
+Abb. 8 Webseite Schulfähigkeit: Eintrag d. Zurückstellung im Register Sprachkenntnisse/Schulfähigkeit
+
+15
+
+Abb. 9 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+16
+
+Abb. 10 Webseite Klassenbildung: Register Kandidaten - Kinder der Vorklasse hinzufügen
+
+17
+
+Abb. 11 Webseite Klassenzuordnung: Register Kandidaten - Schüler-Kurszuordnung
+
+17
+
+Abb. 12 Webseite Statusverwaltung: Register Schüler – Aktiv. der Kandidaten
+
+18
+
+Abb. 13 Webseite Kandidaten bearbeiten: Zieldaten bearbeiten
+
+19
+
+Abb. 14 Webseite Schulfähigkeit: Eintrag d. Zurückstellung i. Register Sprachkenntnisse/Schulfähigkeit
+
+20
+
+Abb. 15 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+21
+
+Abb. 16 Webseite Klassenbildung: Kinder der Intensivklasse hinzufügen
+
+21
+
+Abb. 17 Webseite Schüler-Kurszuordnung
+
+22
+
+Abb. 18 Webseite Schulform: SSK als schulbezogene Schulform anlegen
+
+23
+
+Abb. 19 Webseite Stufen/Semester: SSK mit Stufen/Semestern und Halbjahren anlegen
+
+23
+
+Abb. 20 Webseite Stundentafel: Eintrag zum Fach DAZ in der Stundentafel für die Schulform SSK
+
+23
+
+Abb. 21 Webseite Stundentafel: Stundentafel für die Schulform SSK (Beispiel)
+
+24
+
+Abb. 22 Webseite Kandidaten bearbeiten: Eintrag der Zieldaten
+
+25
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+3
+
+Abb. 23 Webseite Statusverwaltung: Interner Schulformübergang
+
+25
+
+Abb. 24 Webseite Statusverwaltung: Informationen zum Kandidaten
+
+25
+
+Abb. 25 Webseite Schulfähigkeit: Eintrag der Zurückstellung i. Reg. Sprachkenntnisse/Schulfähigkeit
+
+26
+
+Abb. 26 Webseite Schulfähigkeit: Eintrag der Zurückstellung im Register Zurückstellung
+
+27
+
+Abb. 27 Webseite Klassenbildung: Klasse/n für die Schulform SSK hinzufügen
+
+28
+
+Abb. 28 Webseite Klassenbildung: Hinzufügen der Schüler zur Klasse
+
+28
+
+Abb. 29 Webseite Kursbearbeitung: DAZ-Kurs für die Schulform SSK anlegen
+
+28
+
+Abb. 30 Webseite Schüler-Kurszuordnung: Zurückgestellte Schüler dem Kurs zuordnen
+
+29
+
+Abb. 31 Webseite Statusverwaltung: Aktivierung der Kandidaten
+
+29
+
+Abb. 32 Webseite Schulfähigkeit, Reg. Sprachkenntnisse/Schulfähigkeit: Eintrag im Feld Maßnahme der
+Zurückstellung
+30
+Abb. 33 Webseite Schulfähigkeit, Reg. Zurückstellung: Eintrag in der Spalte Maßnahme der
+Zurückstellung
+
+31
+
+Abb. 34 Webseite Schulfähigkeit: Datum Anhörung der Eltern / Datum des Zurückstellungsbescheides
+
+31
+
+Abb. 35 Webseite Berichte: Berichtsparameter Zurückstellung Sprache
+
+32
+
+Abb. 36 Bericht: Zurückstellung Sprache – Version Intensivklasse
+
+33
+
+Abb. 37 Bericht: Zurückstellung Sprache – Version Schulischer Sprachkurs
+
+34
+
+Abb. 38 Bericht: Zurückstellung Sprache – Version Vorklasse
+
+34
+
+Abb. 39 Webseite Abgänger: Dialogfeld Wunsch-Schule hinzufügen
+
+36
+
+Abb. 40 Webseite Abgänger: Hinweismeldung Wunsch-Stufe erscheint unplausibel
+
+36
+
+Abb. 41 Webseite Abgänger: Anlage des Kandidatenverhältnis
+
+37
+
+Abb. 42 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1 eintragen.
+
+37
+
+Abb. 43 Webseite Statusverwaltung: Schüler aktiv setzen
+
+38
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+4
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+5
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Diese Anleitung beschreibt den Umgang mit potentiellen Schulanfängern (schulpflichtigen
+Kindern), die nicht über die für den Schulbesuch erforderlichen deutschen Sprachkenntnisse
+verfügen und daher entweder
+▪
+▪
+▪
+▪
+
+in einen schulischen Sprachkurs organisatorisch im Rahmen des Vorlaufkurses,
+in eine Vorklasse,
+in eine Intensivklasse oder
+in einen schulischen Sprachkurs
+
+zurückgestellt werden sollen.
+
+Rechtliche Grundlagen
+„Schulpflichtige Kinder, die nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen, können von der Schulleiterin oder dem Schulleiter nach Anhörung der
+Eltern für ein Jahr von der Teilnahme am Unterricht zurückgestellt werden … Sie sind verpflichtet,
+einen schulischen Sprachkurs zu besuchen… Eine Vorklasse kann besucht werden, wenn ihr
+Besuch nach Lage der Verhältnisse möglich und eine angemessene Förderung zu erwarten ist.“
+(HSchG § 58 Abs. 6).
+„Schulpflichtige Kinder, die nach § 58 Abs. 5 [neu: 6] des Hessischen Schulgesetzes von der
+Teilnahme am Unterricht zurückgestellt werden, sind zum Besuch eines schulischen Sprachkurses
+verpflichtet. Der schulische Sprachkurs kann in der zuständigen oder einer anderen Grundschule
+stattfinden. Er umfasst in der Regel 15 bis 20 Wochenstunden und mindestens 8 Kinder. Die
+Möglichkeit zur Teilnahme an zusätzlichen schulischen Veranstaltungen bleibt unberührt.“
+(VOGSV § 53, Abs. 1).
+„Der Besuch einer Vorklasse nach § 58 Abs. 6 Satz 4 des Hessischen Schulgesetzes kann für
+schulpflichtige Kinder, die nach § 58 Abs. 6 Satz 1 des Hessischen Schulgesetzes zurückgestellt
+werden, dann angeordnet werden, wenn dadurch eine angemessene Förderung zu erwarten ist.“
+(VOGSV § 53, Abs. 2).
+„Wird kein schulischer Sprachkurs und Unterricht der Vorklasse angeboten, gilt der Besuch einer
+Intensivklasse nach § 50 als gleichwertige Maßnahme“ (VOGSV § 53, Abs. 4).
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+6
+
+Zurückstellung in…
+
+Schulform des zurückgestellten
+Kindes
+
+Kapitel / Seite
+
+Schulischen Sprachkurs
+organisatorisch im Rahmen
+des Vorlaufkurses
+
+Vorlaufkurs (VLK)
+
+Kap. 1
+
+Vorklasse
+
+Vorklasse (VG)
+
+Kap. 2
+
+Intensivklasse
+
+Intensivklasse (NDHS/PS)
+
+Kap. 3
+
+Schulischer Sprachkurs
+
+Schulischer Sprachkurs (SSK)
+
+Kap. 4
+
+Achtung
+Bitte beachten Sie, dass es in dieser Anleitung nicht um Kinder geht,
+▪ bei denen bei der Schulanmeldung im Rahmen des Schulaufnahmeverfahrens
+festgestellt wird, dass sie nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen und
+▪ die daher verpflichtet sind, in dem Schuljahr, das dem Beginn der Schulpflicht
+vorausgeht, einen Vorlaufkurs, d.h. einen schulischen Deutschkurs zur Vorbereitung
+auf den Schulanfang, zu besuchen.
+Beachten Sie hierzu bitte die LUSD-Anleitung: Aufnahme in den Vorlaufkurs..
+
+Zielgruppe
+Diese Anleitung richtet sich an LUSD-Benutzer, die Schulanfänger in die LUSD aufnehmen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+▪ der Schüleraufnahme,
+▪ der Schüler-, Kurs- und Klassensuche,
+▪ der Kursbearbeitung.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+7
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+8
+
+Variante 1: Zurückstellung in einen Unterricht der eigenen Schule
+
+1
+
+Zurückstellung in einen schulischen Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses
+Wenn Ihre Schule
+▪ für nach HSchG § 58 Abs. 6 zurückgestellte schulpflichtige Kinder keinen eigenen
+schulischen Sprachkurs anbieten kann und
+▪ keine Vorklasse, aber einen Vorlaufkurs eingerichtet hat, gehen Sie wie folgt vor.
+
+1.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Vorlaufkurs)
+Pflegen Sie die Zieldaten der zurückgestellten Kinder, die bei Ihnen einen schulischen
+Sprachkurs organisatorisch im Rahmen eines Vorlaufkurses besuchen werden, auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN bearbeiten.
+Das gilt sowohl für Kinder Ihrer Schule als auch für Kinder, die von anderen Schulen als
+Kandidaten an Ihre Schule abgegeben wurden.
+1. Wählen Sie die gewünschten Kandidaten über
+
+aus.
+
+2. Klicken Sie auf
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das ZIELHALBJAHR sowie die
+Zielschulform VLK und die Zielstufe 00/1 aus.
+
+Abb. 1 Webseite Kandidaten: Zieldaten bearbeiten
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+9
+
+1.2
+
+Zurückstellung in der LUSD eintragen (Vorlaufkurs)
+Achtung
+Bitte beachten Sie, dass die Teilnahme am Vorlaufkurs für Kinder,
+▪ bei denen bei der Schulanmeldung im Rahmen des Schulaufnahmeverfahrens
+festgestellt wird, dass sie nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen und
+▪ die daher verpflichtet sind, in dem Schuljahr, das dem Beginn der Schulpflicht
+vorausgeht, einen Vorlaufkurs, d.h. einen schulischen Deutschkurs zur Vorbereitung
+auf den Schulanfang, zu besuchen
+auf der Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT anders abgebildet wird.
+Beachten Sie hierzu bitte die Anleitung: Aufnahme in den Vorlaufkurs.
+1. Tragen Sie für das Kind auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULFÄHIGKEIT die Zurückstellung mit den in den folgenden Kapiteln beschriebenen
+Daten ein.
+
+1.2.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+4. Wählen Sie im Feld MAßNAHME DER ZURÜCKSTELLUNG den Eintrag Schulischer
+Sprachkurs organisatorisch im Rahmen eines Vorlaufkurses.
+
+Abb. 2 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+5. Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+10
+
+6. Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+7. Klicken Sie auf
+
+und
+
+.
+
+1.2.2 Register Zurückstellung
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT den
+Eintrag Zurückstellung aufweist!
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus (sofern noch nicht geschehen):
+▪ Feld MAßNAHME DER ZURÜCKSTELLUNG: Schulischer Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses
+▪ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum der Anhörung der Eltern.
+▪ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+▪ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, an dem der schulische Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses stattfindet.
+▪ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+▪ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+11
+
+Abb. 3 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+Hinweis
+Die Felder
+▪ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+▪ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+1.3
+
+und
+
+.
+
+Zurückgestellte Kinder einer Vorlaufkurs-Klasse hinzufügen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+zurückgestellten Kinder der gewünschten Klasse zu.
+
+Abb. 4 Webseite Klassenbildung: Schüler der Klasse hinzufügen
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+12
+
+1.4
+
+Zurückgestellte Kinder den Kursen der Vorlaufkurs-Klasse zuweisen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform VLK bei einem Fach das
+Häkchen bei KLASSENKURS gesetzt haben, werden alle Kinder der Klasse
+automatisch dem dazugehörigen Kurs zugeordnet.
+1. Falls in der Stundentafel kein Häkchen bei KLASSENKURS gesetzt wurde, dann weisen
+Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+zurückgestellten Kinder den gewünschten Kursen zu.
+
+Abb. 5 Webseite Schüler-Kurszuordnung: Kandidaten den Kursen zufügen
+
+Hinweis
+Sobald die Kinder am Unterricht des Vorlaufkurses (VLK) teilnehmen,
+aktivieren Sie sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+Abb. 6 Webseite Statusverwaltung: Aktivieren der Kandidaten
+
+Hinweis
+Hinweise zur Anlage von Vorlaufkurs-Klassen / Kursen der VorlaufkursKlassen finden Sie im auch in der Anleitung: Aufnahme in den Vorlaufkurs.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+13
+
+2
+
+Zurückstellung in eine Vorklasse
+Wenn Ihre Schule
+▪ für nach HSchG § 58 Abs. 6 zurückgestellte schulpflichtige Kinder keinen eigenen
+schulischen Sprachkurs anbieten kann, aber
+▪ eine Vorklasse eingerichtet hat, gehen Sie wie folgt vor.
+
+2.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Vorklasse)
+Pflegen Sie die Zieldaten der Kinder, die bei Ihnen eine Vorklasse besuchen werden, auf
+der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN.
+Das gilt sowohl für Kinder Ihrer Schule als auch für Kinder, die von anderen Schulen als
+Kandidaten an Ihre Schule abgegeben wurden.
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das ZIELHALBJAHR sowie die
+Zielschulform VG und die Zielstufe 00/1 aus.
+
+Abb. 7 Webseite Kandidaten bearbeiten: Dialogfenster Zieldaten bearbeiten
+
+2.2
+
+Zurückstellung in der LUSD eintragen (Vorklasse)
+Achtung
+Bitte beachten Sie, dass die Zurückstellung von Kindern, die in eine
+Vorklasse zurückgestellt werden, weil sie
+„noch nicht den für den Schulbesuch erforderlichen körperlichen, geistigen
+und seelischen Entwicklungsstand haben“ (HSchG § 58 Abs. 3),
+auf der Seite SCHÜLER>SCHÜLERBASISDATEN > SCHULFÄHIGKEIT anders
+abgebildet wird.
+Beachten Sie hierzu bitte die LUSD-Anleitung: Aufnahme in die Vorklasse.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+14
+
+1. Tragen Sie für das Kind auf der Webseite SCHÜLER>SCHÜLERBASISDATEN >
+SCHULFÄHIGKEIT die Zurückstellung mit den in den folgenden Kapiteln beschriebenen
+Daten ein.
+2.2.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+4. Wählen Sie im Feld MAßNAHME DER ZURÜCKSTELLUNG den Eintrag Vorklasse (deutsche
+Sprachkenntnisse HSchG § 58 Abs. 6).
+
+Abb. 8 Webseite Schulfähigkeit: Eintrag d. Zurückstellung im Register Sprachkenntnisse/
+Schulfähigkeit
+
+5. Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+6. Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+7. Klicken Sie auf
+
+und
+
+.
+
+2.2.2 Register Zurückstellung
+1. Öffnen Sie das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers wird
+in der Ergebnistabelle aufgeführt.
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT den
+Eintrag Zurückstellung aufweist!
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+15
+
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet sich
+
+3. Wählen Sie in den Feldern folgende Einträge aus (sofern noch nicht geschehen):
+▪ Feld MAßNAHME DER ZURÜCKSTELLUNG: Wählen Sie hier den Eintrag Vorklasse
+(deutsche Sprachkenntnisse HSchG § 58 Abs. 6).
+▪ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum der Anhörung der Eltern.
+▪ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+▪ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, in der die Vorklasse eingerichtet wird.
+▪ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+▪ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 9 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+Hinweis
+Die Felder
+▪ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+▪ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+und
+
+.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+16
+
+2.3
+
+Zurückgestellte Kinder einer Vorklasse hinzufügen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+zurückgestellten Kinder der gewünschten Klasse zu.
+
+Abb. 10 Webseite Klassenbildung: Register Kandidaten - Kinder der Vorklasse hinzufügen
+
+2.4
+
+Zurückgestellte Kinder den Kursen der Vorklasse zuweisen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform Vorklassen (VG) bei einem Fach
+das Häkchen bei KLASSENKURS gesetzt haben, werden alle Kinder der Klasse
+automatisch dem dazugehörigen Kurs zugeordnet.
+1. Falls in der Stundentafel kein Häkchen bei KLASSENKURS gesetzt wurde, dann weisen
+Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+zurückgestellten Kinder den gewünschten Kursen zu.
+
+Abb. 11 Webseite Klassenzuordnung: Register Kandidaten - Schüler-Kurszuordnung
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+17
+
+Hinweis
+Sobald die Kinder am Unterricht der Vorklasse (VG) teilnehmen, aktivieren
+Sie sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+Abb. 12 Webseite Statusverwaltung: Register Schüler – Aktiv. der Kandidaten
+
+Hinweise zur Anlage von Vorklassen / Kursen der Vorklasse finden Sie im
+auch in der LUSD-Anleitung Aufnahme in die Vorklasse.
+
+3
+
+Zurückstellung in eine Intensivklasse
+Wenn Ihre Schule
+▪ für nach HSchG § 58 Abs. 6 zurückgestellte schulpflichtige Kinder keinen schulischen
+Sprachkurs anbieten kann und
+▪ keine Vorklasse, aber eine Intensivklasse eingerichtet hat, gehen Sie wie folgt vor.
+
+3.1
+
+Zieldaten der zurückgestellten Kandidaten pflegen (Intensivklasse)
+Pflegen Sie die Zieldaten der zurückgestellten Kinder, die bei Ihnen eine Intensivklasse
+besuchen werden, auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN.
+Das gilt sowohl für Kinder Ihrer Schule als auch für Kinder, die von anderen Schulen als
+Kandidaten an Ihre Schule abgegeben wurden.
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das ZIELHALBJAHR sowie die
+Zielschulform NDHS und die Zielstufe -/1 aus.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+18
+
+Abb. 13 Webseite Kandidaten bearbeiten: Zieldaten bearbeiten
+
+3.2
+
+Zurückstellung in der LUSD eintragen (Intensivklasse)
+Achtung
+Beachten Sie bitte, dass Seiteneinsteiger anders in der LUSD abgebildet
+werden. Alle Informationen entnehmen Sie bitte der Anleitung: Erfassen von
+Seiteneinsteigern (NDHS).
+Bei Seiteneinsteigern handelt es sich um schulpflichtige oder schulbesuchsberechtigte Kinder und Jugendliche
+▪ mit keinen oder nur geringen Deutschkenntnissen, die innerhalb der
+letzten vier Jahre aus dem Ausland nach Deutschland zugezogen sind
+▪ mit einem Alter von 10 Jahren oder jünger, die bereits länger als 4 Jahre in
+Deutschland leben und trotzdem über keine oder nur geringe
+Deutschkenntnisse verfügen
+die in das deutsche Schulsystem integriert werden müssen.
+1. Tragen Sie für das Kind auf der Webseite
+SCHÜLER>SCHÜLERBASISDATEN>SCHULFÄHIGKEIT die Zurückstellung mit den in den
+folgenden Kapiteln beschriebenen Daten ein.
+
+3.2.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster Sprachkenntnisse/Schulfähigkeit bearbeiten.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+4. Wählen Sie im Feld MAßNAHME DER ZURÜCKSTELLUNG den Eintrag Intensivklasse.
+5. Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+6. Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+19
+
+Abb. 14 Webseite Schulfähigkeit: Eintrag d. Zurückstellung i. Register Sprachkenntnisse/Schulfähigkeit
+
+7. Klicken Sie auf
+
+und
+
+.
+
+3.2.2 Register Zurückstellung
+1. Öffnen Sie das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers wird
+in der Ergebnistabelle aufgeführt.
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT den
+Eintrag Zurückstellung aufweist!
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+das Bearbeitungsfenster Zurückstellung bearbeiten.
+
+. Es öffnet sich
+
+3. Wählen Sie in den Felder folgende Einträge aus (sofern noch nicht geschehen):
+▪
+▪
+▪
+▪
+
+Feld MAßNAHME DER ZURÜCKSTELLUNG: Wählen Sie hier den Eintrag Intensivklasse.
+Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum der Anhörung der Eltern.
+Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, in der die Intensivklasse eingerichtet wird.
+▪ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld nicht zu bearbeiten.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+▪ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld nicht zu bearbeiten.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+20
+
+Abb. 15 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+Hinweis
+Die Felder
+▪ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+▪ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+3.3
+
+und
+
+.
+
+Zurückgestellte Kinder einer Intensivklasse hinzufügen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+zurückgestellten Kinder der gewünschten Klasse zu.
+
+Abb. 16 Webseite Klassenbildung: Kinder der Intensivklasse hinzufügen
+
+3.4
+
+Zurückgestellte Kinder den Kursen der Intensivklasse zuweisen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform NDHS bei einem Fach das
+Häkchen bei KLASSENKURS gesetzt haben, werden alle Kinder der Klasse
+automatisch dem dazugehörigen Kurs zugeordnet.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+21
+
+2. Falls in der Stundentafel kein Häkchen bei KLASSENKURS gesetzt wurde, dann weisen
+Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+zurückgestellten Kinder den gewünschten Kursen zu.
+
+Abb. 17 Webseite Schüler-Kurszuordnung
+
+Hinweis
+Sobald die Kinder am Unterricht der Intensivklasse (NDHS/PS) teilnehmen,
+aktivieren Sie sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+Hinweise zur Anlage von Intensivklassen / Kursen der Intensivklassen finden
+Sie auch in der LUSD-Anleitung: Erfassen von Seiteneinsteigern (NDHS)
+
+4
+
+Zurückstellung in einen schulischen Sprachkurs (SSK)
+Wenn Ihre Schule für nach HSchG § 58 Abs. 6 zurückgestellte schulpflichtige Kinder einen
+schulischen Sprachkurs anbietet, gehen Sie wie in den folgenden Kapiteln beschrieben
+vor.
+
+4.1
+
+Schulbasisdaten für den schulischen Sprachkurs (SSK) vorbereiten
+Hinweis
+Aus technischen Gründen wird der schulische Sprachkurs (SSK) in der LUSD
+als Schulform abgebildet.
+Um in der LUSD einen schulischen Sprachkurs (SSK) abbilden zu können, sind zunächst
+die nachfolgend beschriebenen Voraussetzungen zu erfüllen.
+1. Fügen Sie auf der Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im Bereich
+SCHULBEZOGENE SCHULFORMEN die Schulform SCHULISCHER SPRACHKURS (SSK) hinzu.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+22
+
+Abb. 18 Webseite Schulform: SSK als schulbezogene Schulform anlegen
+
+2. Setzen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER für die
+Schulform SSK die entsprechenden Häkchen für die Stufen und Halbjahre.
+
+Abb. 19 Webseite Stufen/Semester: SSK mit Stufen/Semestern und Halbjahren anlegen
+
+3. Legen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL die
+gewünschten Einträge für die Schulform SSK für beide Halbjahre an.
+Im Initialzustand ist die Stundentafel für die SF SSK leer.
+
+Abb. 20 Webseite Stundentafel: Eintrag zum Fach DAZ in der Stundentafel für die Schulform SSK
+
+Feld
+
+Eintrag
+
+Kursart
+
+P
+
+Fach*
+
+DAZ - Deutsch als Zweitsprache
+
+Klassenkurs
+
+angehakt
+
+Std/HJ*
+
+Tragen Sie hier die Stunden pro Halbjahr ein.
+Grundlage hierfür ist die Stundenzahl in der Zuweisung Ihrer Schule.
+
+Wo/HJ*
+
+Die hier angezeigten Stunden werden automatisch auf Basis des Eintrag im
+Feld STD/HJ* errechnet.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+23
+
+Abb. 21 Webseite Stundentafel: Stundentafel für die Schulform SSK (Beispiel)
+
+4.2
+
+Zieldaten der zurückgestellten Kandidaten pflegen
+Sobald feststeht, welche Kinder bei Ihnen einen Schulischen Sprachkurs besuchen werden,
+pflegen Sie die Zieldaten dieser Kinder auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN.
+Das gilt sowohl für die Kinder Ihrer Schule als auch für die Kinder, die von anderen Schulen
+als Kandidaten an Ihre Schule abgegeben wurden.
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor den Schülern, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das gewünschte Zielhalbjahr sowie
+die Zielschulform SSK und die Zielstufe 00/1 aus (Abb. 22).
+Hinweis
+Aus technischen Gründen wird der schulische Sprachkurs (SSK) in der LUSD
+als Schulform abgebildet.
+Hinweis
+
+Für Kinder mit Kandidatenstatus angenommen
+Sofern für ein Kind mit Kandidatenstatus ANGENOMMEN als Zielschulform GFLX, E
+oder VG eingetragen ist, ändern Sie auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > KANDIDATEN BEARBEITEN die Zielschulform auf SSK und
+die Zielstufe auf 00/1.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+24
+
+Abb. 22 Webseite Kandidaten bearbeiten: Eintrag der Zieldaten
+
+Hinweis
+
+Für Kinder mit Schülerstatus: aktiv
+Sollte ein Kind bereits für die Schulform G, GFLX, E oder VG aktiv gesetzt sein,
+ändern Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG - Register INTERNER SCHULFORMÜBERGANG die Zielschulform
+auf SSK und die Zielstufe auf 00/1.
+
+Abb. 23 Webseite Statusverwaltung: Interner Schulformübergang
+
+Abb. 24 Webseite Statusverwaltung: Informationen zum Kandidaten
+
+4.3
+
+Zurückstellung in der LUSD eintragen (SSK)
+Tragen Sie für das Kind auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULFÄHIGKEIT die Zurückstellung ein.
+
+4.3.1 Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+25
+
+4. Wählen Sie im Feld MAßNAHME DER ZURÜCKSTELLUNG den Eintrag Schulischer
+Sprachkurs.
+
+Abb. 25 Webseite Schulfähigkeit: Eintrag der Zurückstellung i. Reg. Sprachkenntnisse/Schulfähigkeit
+
+5. Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+6. Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+7. Klicken Sie auf
+
+und
+
+.
+
+4.3.2 Register Zurückstellung
+1. Öffnen Sie das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers wird
+in der Ergebnistabelle aufgeführt.
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT den
+Eintrag Zurückstellung aufweist!
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet sich
+
+3. Wählen Sie in den Felder folgende Einträge aus (sofern noch nicht geschehen):
+▪ Feld MAßNAHME DER ZURÜCKSTELLUNG: Wählen Sie hier den Eintrag Schulischer
+Sprachkurs.
+▪ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum der Anhörung der Eltern.
+▪ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+26
+
+▪ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, in der der Schulische Sprachkurs eingerichtet wird.
+▪ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+▪ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+▪ Bei Kandidaten ist das Feld deaktiviert.
+▪ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 26 Webseite Schulfähigkeit: Eintrag der Zurückstellung im Register Zurückstellung
+
+Hinweis
+Die Felder
+▪ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+▪ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+4.4
+
+und
+
+.
+
+Klassen für den Schulischen Sprachkurs einrichten
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+benötigte Anzahl Klassen für die Schulform SSK an.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+27
+
+Abb. 27 Webseite Klassenbildung: Klasse/n für die Schulform SSK hinzufügen
+
+4.5
+
+Zurückgestellte Kinder der Schulischen Sprachkurs – Klasse hinzufügen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+Kinder der gewünschten Klasse zu.
+
+Abb. 28 Webseite Klassenbildung: Hinzufügen der Schüler zur Klasse
+
+4.6
+
+Kurs für die Schulischen Sprachkurs – Klasse einrichten
+Hinweis
+Falls Sie in der Stundentafel der Schulform SSK beim Fach DAZ das
+Häkchen bei KLASSENKURS gesetzt haben (Abb. 21), wird automatisch ein
+Klassenkurs generiert, wenn Sie eine Klasse anlegen.
+1. Falls in der Stundentafel bei KLASSENKURS kein Häkchen gesetzt wurde oder die Klasse
+bereits vorher bestand, legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+KURSBEARBEITUNG den benötigten DAZ-Kurs für den Schulischen Sprachkurs (SSK) an.
+
+Abb. 29 Webseite Kursbearbeitung: DAZ-Kurs für die Schulform SSK anlegen
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+28
+
+4.7
+
+Zurückgestellte Kinder den Kursen der Schulischen Sprachkurs - Klasse hinzufügen
+Hinweis
+Falls Sie in der Stundentafel der Schulform SSK beim Fach DAZ das
+Häkchen bei KLASSENKURS gesetzt haben (Abb. 21), werden automatisch alle
+Kinder der Klasse dem DAZ-Kurs zugeordnet.
+1. Falls in der Stundentafel bei KLASSENKURS kein Häkchen gesetzt wurde, weisen Sie auf
+der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG die
+zurückgestellten Kinder dem gewünschten Kurs zu.
+
+Abb. 30 Webseite Schüler-Kurszuordnung: Zurückgestellte Schüler dem Kurs zuordnen
+
+Hinweis
+
+Sobald die Kinder am Unterricht im Schulischen Sprachkurs teilnehmen,
+aktivieren Sie die Schüler auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+Abb. 31 Webseite Statusverwaltung: Aktivierung der Kandidaten
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+29
+
+5
+
+Berichte
+
+5.1
+
+Bericht: Zurückstellung Sprache
+Unter dem Pfad: EXTRAS > BERICHTE > SCHÜLER > GRUNDSCHULE finden Sie den Bericht
+ZURÜCKSTELLUNG SPRACHE.
+Mit diesem Bericht steht Ihnen ein Anschreiben an die Ansprechpartner eines Schülers zur
+Verfügung, in dem Sie mitteilen, dass das Kind aus sprachlichen Gründen für ein Schuljahr
+vom Schulbesuch zurückgestellt wird.
+
+5.1.1 Bericht: Zurückstellung Sprache - Voraussetzungen
+Voraussetzungen für den Bericht:
+1. Sie haben für den / die betroffenen Schüler auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULFÄHIGKEIT
+▪ im Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT oder
+▪ im Register ZURÜCKSTELLUNG
+im Feld / in der Spalte MAßNAHME DER ZURÜCKSTELLUNG einen der folgenden Einträge
+gewählt:
+▪
+▪
+▪
+▪
+
+VORKLASSE (DEUTSCHE SPRACHKENNTNISSE HSCHG § 58 ABS. 6)
+SCHULISCHER SPRACHKURS ORGANISATORISCH IM RAHMEN EINES VORLAUFKURSES
+INTENSIVKLASSE
+SCHULISCHER SPRACHKURS
+
+Abb. 32 Webseite Schulfähigkeit, Reg. Sprachkenntnisse/Schulfähigkeit: Eintrag im Feld Maßnahme der
+Zurückstellung
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+30
+
+Abb. 33 Webseite Schulfähigkeit, Reg. Zurückstellung: Eintrag in der Spalte Maßnahme der
+Zurückstellung
+
+Je nach Eintragung im Feld / in der Spalte MAßNAHME DER ZURÜCKSTELLUNG werden drei
+verschiedene Versionen des Berichtes erzeugt (siehe Kap. 5.1.3).
+Eintrag im Feld / in der Spalte Maßnahme der
+Zurückstellung
+
+Berichtsversion
+
+Vorklasse (deutsche Sprachkenntnisse HSchG §
+58 Abs. 6)
+
+Vorklasse
+
+Schulischer Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses
+
+Schulischer Sprachkurs
+
+Intensivklasse
+
+Intensivklasse
+
+Schulischer Sprachkurs
+
+Schulischer Sprachkurs
+
+2. Sie haben auf der gleichen Seite im gleichen Register die Spalten/Felder
+▪ ANTRAG/ANHÖRUNG DER ELTERN und
+▪ ZURÜCKSTELLUNGSBESCHEID
+mit einem Datum befüllt.
+
+Abb. 34 Webseite Schulfähigkeit: Datum Anhörung der Eltern / Datum des Zurückstellungsbescheides
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+31
+
+Felder
+
+Anmerkungen
+
+Antrag/Anhörung der
+Eltern
+
+Tragen Sie hier das Datum ein, an dem die Eltern zur
+Zurückstellung angehört wurden.
+Das Datum findet sich anschließend im Kopf des
+Anschreibens.
+Tragen Sie hier das Datum ein, das der Bericht als
+Datum tragen soll.
+
+Zurückstellungsbescheid
+Das Datum findet sich anschließend als Datum des
+Anschreibens.
+5.1.2 Bericht: Zurückstellung Sprache – Berichtsparameter
+Um auf der Seite EXTRAS > BERICHTE > STANDARDBERICHTE > SCHÜLER > GRUNDSCHULE –
+ZURÜCKSTELLUNG SPRACHE den Bericht generieren zu können, müssen Sie im Bereich
+WEITERE PARAMETER die beiden Pflicht-Freitextfelder BEGRÜNDUNG* und ZIELSCHULE*
+füllen.
+Freitextfeld
+
+Anmerkung
+
+Hier tragen Sie bitte die Begründung für die Zurückstellung ein.
+Begründung*
+
+Der Eintrag wird anschließend im Bericht unter BEGRÜNDUNG
+aufgeführt.
+Hier tragen Sie bitte die Schule ein, in der die Intensivklasse / der
+schulische Sprachkurs / die Vorklasse stattfindet.
+
+Zielschule*
+
+Der Eintrag wird anschließend im Bericht als Schule der
+Intensivklasse / des schulischen Sprachkurses / der Vorklasse
+aufgeführt.
+
+Abb. 35 Webseite Berichte: Berichtsparameter Zurückstellung Sprache
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+32
+
+5.1.3 Bericht: Zurückstellung Sprache – Versionen
+Es gibt drei Versionen des Berichtes.
+Die Version, die generiert wird, richtet sich nach dem Eintrag, den Sie auf der Seite
+SCHÜLER > SCHÜLERBASISDATEN > SCHULFÄHIGKEIT
+▪ im Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT oder
+▪ im Register ZURÜCKSTELLUNG
+im Feld / in der Spalte MAßNAHME DER ZURÜCKSTELLUNG ausgewählt haben.
+Eintrag im Feld / in der Spalte Maßnahme der
+Zurückstellung
+
+Berichtsversion
+
+Vorklasse (deutsche Sprachkenntnisse HSchG §
+58 Abs. 6)
+
+Vorklasse
+
+Schulischer Sprachkurs organisatorisch im
+Rahmen eines Vorlaufkurses
+
+Schulischer Sprachkurs
+
+Intensivklasse
+
+Intensivklasse
+
+Schulischer Sprachkurs
+
+Schulischer Sprachkurs
+
+Berichtsversion Intensivklasse
+
+Abb. 36 Bericht: Zurückstellung Sprache – Version Intensivklasse
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+33
+
+Berichtsversion Schulischer Sprachkurs
+
+Abb. 37 Bericht: Zurückstellung Sprache – Version Schulischer Sprachkurs
+
+Berichtsversion Vorklasse
+
+Abb. 38 Bericht: Zurückstellung Sprache – Version Vorklasse
+
+5.1.4 Zurückstellung Sprache – Rechtsbehelfsbelehrung und Unterschriftenfeld
+Im Bereich der RECHTSBEHELFSBELEHRUNG wird das der Schule zugehörige Schulamt mit
+Anschrift ausgegeben. Im UNTERSCHRIFTENFELD wird, je nach eingetragenem Geschlecht,
+Schulleiterin oder Schulleiter ausgegeben.
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+34
+
+Variante 2: Zurückstellung in einen Unterricht einer anderen Schule
+6
+
+Pflege der Daten in der LUSD
+
+6.1
+
+Zurückstellung in der LUSD eintragen
+Sobald feststeht, dass ein Kind Ihrer Schule zurückgestellt wird, müssen Sie die
+Zurückstellung des Kindes auf der Webseite SCHÜLER>SCHÜLERBASISDATEN>
+SCHULFÄHIGKEIT eintragen.
+Nähere Informationen entnehmen Sie bitte den in der Tabelle angegebenen Kapiteln.
+
+6.2
+
+Zurückstellung in…
+
+Kapitel / Seite
+
+Schulischer Sprachkurs organisatorisch im Rahmen des
+Vorlaufkurses
+
+Kap. 1.2
+
+Vorklasse
+
+Kap. 2.2
+
+Intensivklasse
+
+Kap. 3.2
+
+Schulischer Sprachkurs
+
+Kap. 4.3
+
+Kind an die andere Schule abgeben
+Hinweis
+Im Folgenden wird beschrieben, wie Sie ein zurückgestelltes Kind beispielsweise
+in die Vorklasse einer anderen Schule abgeben.
+Falls Sie das Kind in einen Vorlaufkurs, eine Intensivklasse oder einen
+schulischen Sprachkurs einer anderen Schule abgeben möchten, gehen Sie
+entsprechend vor (siehe Schritt 5).
+Wenn Ihre Schule keine Vorklasse anbietet, müssen Sie die betroffenen Kinder im
+Kandidatenverfahren an die Schule abgeben, an dem sie die Vorklasse besuchen werden.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER >
+Register K. M. SD-R das entsprechende Kind aus.
+2. Tragen Sie als Freigabedatum den 31.07. des laufenden Schuljahres ein.
+3. Klicken Sie unter W-SCHULE auf die Schaltfläche
+
+.
+
+4. Wählen Sie im Dialogfenster WUNSCH-SCHULE HINZUFÜGEN in der Auswahlliste WUNSCHSCHULE* die gewünschte Schule aus.
+5. Geben Sie die gewünschten Daten ein.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+35
+
+Zurückstellung in…
+
+Ziel-Schulform
+
+Zielstufe
+
+Schulischer Sprachkurs organisatorisch im
+Rahmen des Vorlaufkurses
+
+VLK
+
+00/1
+
+Vorklasse
+
+VG
+
+00/1
+
+Intensivklasse
+
+NDHS/PS
+
+-/1
+
+Schulischer Sprachkurs bei Zurückstellung nach
+VOGSV § 53 (1)
+
+SSK
+
+00/1
+
+6. Ändern Sie die Priorität auf 1.
+
+Abb. 39 Webseite Abgänger: Dialogfeld Wunsch-Schule hinzufügen
+
+7. Klicken Sie auf
+
+.
+
+8. Klicken Sie im folgenden Hinweis auf
+
+.
+
+Abb. 40 Webseite Abgänger: Hinweismeldung Wunsch-Stufe erscheint unplausibel
+
+9. Klicken Sie auf
+
+.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+36
+
+Abb. 41 Webseite Abgänger: Anlage des Kandidatenverhältnis
+
+6.3
+
+Zurückgestellte Schüler kommen nach Beendigung des Unterrichtes an Ihre Schule
+zurück
+
+6.3.1 Zurückgestellte Schüler als Kandidaten annehmen und mit Zieldaten versehen
+Zurückgestellte Schüler, die an einer anderen Schule an einem Unterricht teilgenommen
+haben und danach an Ihre Schule wechseln möchten, werden von der anderen Schule über
+das Kandidatenverfahren an Ihre Schule abgegeben.
+Diese Kandidaten bearbeiten Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN.
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+aus.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN die gewünschten Einträge in den
+Feldern ZIEL-HALBJAHR*, ZIEL-SF/BK* und ZIEL-STUFE/SEM* aus.
+
+Abb. 42 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1 eintragen.
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+37
+
+6.3.2 Schüler aktiv setzen
+1. Sobald die Schüler am Unterricht der Grundschule teilnehmen, setzen Sie diese auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register SCHÜLER
+aktiv.
+
+Abb. 43 Webseite Statusverwaltung: Schüler aktiv setzen
+
+Hessisches Kultusministerium | LUSD | Zurückstellung aus sprachlichen Gründen | Version: 2.0 | Letzter Stand: 08.08.2025
+
+38
+
+

@@ -1,0 +1,297 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Beiblatt der Kompetenzen im
+Fach Deutsch erstellen
+Für Grundschulen
+
+Version: 2.0
+Letzter Stand: 11.02.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Fachlicher Hintergrund ................................................................................................................... 4
+Vorbemerkung ................................................................................................................................ 4
+Zielgruppe ...................................................................................................................................... 4
+Vorausgesetzte Kenntnisse ............................................................................................................ 4
+LUSD-Anwenderunterstützung ....................................................................................................... 5
+
+Beiblatt der Kompetenzen im Fach Deutsch
+1
+
+6
+
+Beiblatt der Kompetenzen erstellen ....................................................................................... 6
+1.1
+
+Kompetenzen auswählen und bewerten ....................................................................... 6
+
+1.2
+
+Zeugnisse zuweisen und generieren ............................................................................ 9
+
+Abbildungsverzeichnis
+Abb. 1 Leistungserfassung Schüler: Register Kompetenzen
+
+6
+
+Abb. 2 Leistungserfassung Schüler: Auswahl bestimmter Kompetenzen
+
+7
+
+Abb. 3 Leistungserfassung Schüler: Register Kompetenzen, Bewertung ausgewählter Kompetenzen
+
+7
+
+Abb. 4 Kurzinfo zur Stufe 5
+
+8
+
+Abb. 5 Leistungserfassung Schüler: Register Kompetenzen, Freitextfeld
+
+8
+
+Abb. 6 Register Zeugnis erstellen Bearbeitungsfenster Zuweisung bearbeiten
+
+9
+
+Abb. 7 Register Zeugnis erstellen: Auswahl Zeugnisart und Ausgabedatum
+
+9
+
+Abb. 9 Beiblatt der Kompetenzen im Fach Deutsch: Beispiel PDF-Dokument
+
+10
+
+Abb. 10 Beiblatt der Kompetenzen im Fach Deutsch: Beispiel PDF-Dokument Variante mit Bemerkung
+
+11
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+3
+
+Zu diesem Dokument
+Fachlicher Hintergrund
+VOBGM § 14 Absatz 4: 1Im Fach Deutsch sind im Zeugnis die Leistungen der Schülerin oder des
+Schülers bezogen auf die Kompetenzbereiche des Kerncurriculums in der jeweils geltenden
+Fassung näher zu erläutern, in den Jahrgangsstufen 2 bis 4 erfolgt dies im Abschnitt
+"Bemerkungen und erforderlichenfalls auf einem ergänzenden Beiblatt“". 2Der Schülerin oder dem
+Schüler soll dabei eine ermutigende Perspektive für die weitere Entwicklung eröffnet werden.
+
+Vorbemerkung
+Dem zuständigen Fachreferat III.A.1 des HMKB ist die in der Verordnung geschilderte Intention der
+ermutigenden Perspektive besonders wichtig. Die ermutigende Perspektive kann dadurch in dem
+Beiblatt realisiert werden, dass hier keine offensichtlichen Bewertungen vorgenommen werden,
+sondern dass die Kompetenzen im Sinne von Verbalbeurteilungen gewürdigt werden.
+In der LUSD besteht die Möglichkeit, ein Beiblatt mit fünf Kompetenzstufen, die durch ausgefüllte
+oder nicht ausgefüllte Kreissegmente dargestellt werden („Kuchenmodell“) dargestellt werden.
+Auch wenn dies eher eine herkömmliche Art einer Bewertung erinnert, kann die ermutigende
+Perspektive auch bei dieser Variante durch eine entsprechende Auswahl der Kompetenzen
+realisiert werden.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender in Grundschulen, die Schüler bzw. ihre
+Kompetenzen im Fach Deutsch in der LUSD beurteilen möchten.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+▪ der Schülersuche.
+▪ der Generierung und dem Abruf von Zeugnissen.
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+4
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+▪ Anleitungen
+▪ Fortbildungsangebote
+▪ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+▪
+über die Seite kontakt-helpdesk.hessen.de oder
+▪ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+5
+
+Beiblatt der Kompetenzen im Fach Deutsch
+1
+
+Beiblatt der Kompetenzen erstellen
+
+1.1
+
+Kompetenzen auswählen und bewerten
+1. Navigieren Sie zur Seite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER.
+2. Suchen Sie in der Schülersuche die betroffenen Schüler.
+3. Klicken Sie auf das Register KOMPETENZEN.
+
+Abb. 1 Leistungserfassung Schüler: Register Kompetenzen
+
+Tipp
+Die Kompetenzen sind in Gruppen unterteilt. Im Beispiel (Abb. 1) werden die
+Kompetenzen im Fach Deutsch den Kompetenzgruppen Sprechen und
+Zuhören und Schreiben zugeordnet.
+4. Setzen Sie Haken in den Kontrollkästchen unter der Spalte Zeugnis Nr., um die
+gewünschten Kompetenzen für die Zeugnisse auszuwählen.
+5. Entfernen Sie die Haken bei unerwünschten Kompetenzen, die nicht im Beiblatt
+dargestellt werden sollen.
+Die ausgewählten Kompetenzen werden auf dem Beiblatt dargestellt.
+Hinweis
+Beachten Sie, dass nur 17 Kompetenzen auf einer Seite im Beiblatt
+dargestellt werden können.
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+6
+
+Abb. 2 Leistungserfassung Schüler: Auswahl bestimmter Kompetenzen
+
+6. Klicken Sie einen der runden Optionsschalter an, um der Kompetenz eine
+Kompetenzstufe zuzuordnen.
+
+Abb. 3 Leistungserfassung Schüler: Register Kompetenzen, Bewertung ausgewählter Kompetenzen
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+7
+
+Tipp
+Die Bedeutung der Kompetenzstufen ist durch die entsprechende
+Kurzinformation ersichtlich:
+
+Abb. 4 Kurzinfo zur Stufe 5
+
+Wählen Sie die letzte Stufe 1 (0 %) aus, wird die Kompetenzbeschreibung im
+Beiblatt dargestellt, aber kein passendes Kreisdiagramm ausgeben. Ein
+leeres Kreisdiagramm ist im Sinne einer ermutigenden Perspektive nicht
+vorgesehen. Wählen Sie in diesem Fall eine andere Kompetenz für Ihre
+Bewertung aus.
+
+7. Erfassen Sie ggf. zusätzliche Bemerkungen in dem Freitextfeld ZUSÄTZLICHE
+BEMERKUNGEN ZUR LERNGELEGENHEIT.
+Hinweis
+Berücksichtigen Sie den Platz, den dieser Freitext einnimmt. Wählen Sie ggf.
+weniger Kompetenzen, damit alles auf einer Seite dargestellt wird.
+
+Abb. 5 Leistungserfassung Schüler: Register Kompetenzen, Freitextfeld
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+8
+
+1.2
+
+Zeugnisse zuweisen und generieren
+1. Navigieren Sie zur Seite UNTERRICHT > ZEUGNISSE > ZEUGNIS ERSTELLEN.
+2. Klicken Sie im Register ZEUGNIS ZUWEISEN auf den Optionsschalter NAME zur
+Namenssuche.
+3. Wählen Sie den oder die Schüler aus und klicken Sie auf
+Alternativ können Sie auch nach Klassen suchen.
+
+.
+
+Abb. 6 Register Zeugnis erstellen Bearbeitungsfenster Zuweisung bearbeiten
+
+4. Übernehmen Sie im Feld 2. ZEUGNIS aus der Auswahlliste, den Eintrag Beiblatt
+Kompetenzen Deutsch.
+5. Befüllen Sie das Feld AUSGABE DAT.* mit dem Datum der Zeugnisausgabe.
+
+Abb. 7 Register Zeugnis erstellen: Auswahl Zeugnisart und Ausgabedatum
+
+Hinweis
+Bei Auswahl des Beiblatts erscheint ganz rechts ein neues Feld ZEUNGNISNR.
+Dieses Feld ist automatisiert mit dem Eintrag 1 befüllt. Lassen Sie diesen
+Eintrag unverändert, wenn Sie das erste Beiblatt des Halbjahres generieren
+möchten. Handelt es sich um ein anderes Jahr, wählen Sie eine andere
+passende Nummer.
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+9
+
+6. Klicken Sie auf
+
+und
+
+.
+
+7. Generieren und rufen Sie das Beiblatt ab, wie in der Anleitung Zeugnisse erstellen in der
+LUSD beschrieben.
+Sie erhalten folgendes PDF-Dokument:
+
+Abb. 8 Beiblatt der Kompetenzen im Fach Deutsch: Beispiel PDF-Dokument
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+10
+
+Variante mit einer zusätzlichen Bemerkung und einer Kompetenz weniger
+
+Abb. 9 Beiblatt der Kompetenzen im Fach Deutsch: Beispiel PDF-Dokument Variante mit Bemerkung
+
+HMKB | LUSD | Beiblatt der Kompetenzen im Fach Deutsch erstellen | Version: 2.0 | Letzter Stand: 11.02.2025
+
+11
+
+

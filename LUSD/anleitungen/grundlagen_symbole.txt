@@ -1,0 +1,375 @@
+Symbole in der LUSD zum Anklicken (Schaltsymbole)
+Symbol Bedeutung
+Eingeben der mündlichen Prüfungsergebnisse.
+Erfassen der zusätzlichen mündlichen Prüfungen.
+Erfassen der schriftlichen Prüfungsergebnisse.
+Erstanmeldung eines Schülers zum Abitur.
+Auswählen der Prüfungsfächer eines Schülers.
+Zulassen eines Schülers zur mündlichen Prüfung.
+Zulassen eines Schülers zur schriftlichen Prüfung.
+
+Webseite
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+Abitur
+
+Abrufen der generierten Zeugnisse.
+Blättert zur ersten Seite.
+Zeigt weitere Informationen an (Aufklappen).
+Verbirgt die weiteren Informationen (Zuklappen).
+Blättert zur letzten Seite.
+Blättert zur nächsten Seite.
+Blättert zur vorherigen Seite.
+Blättert zum nächsten Datensatz.
+Blättert vor zu nicht sichtbaren Registern.
+Blättert zum vorherigen Datensatz.
+Blättert zurück zu nicht sichtbaren Registern.
+Bearbeiten der Pflichtstundenzahl.
+
+Schule > Personal >
+Personal bearbeiten
+
+Erweitert die Anzeige einer Ebene in der
+Ebenenauswahl.
+Reduziert die Anzeige einer Ebene in der
+Ebenenauswahl.
+Anmeldung
+
+Einloggen in die LUSD.
+Entfernt die ausgewählten Daten aus der Zuordnung.
+Fügt die ausgewählten Daten der Zuordnung hinzu.
+Filtert die Datensätze nach den eingestellten Kriterien.
+(Aufgabenliste)
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+Seite 1 von 6
+
+Symbol Bedeutung
+Setzt den Fokus auf das aktuelle Datum.
+
+Webseite
+Dashbord > Kalender
+
+Klappt die Liste der Untermenüpunkte auf.
+Klappt die Liste der Untermenüpunkte zu.
+
+Zeigt weitere Informationen an.
+
+Schule > Assistenten > UVPlanung
+Schule > Assistenten > UVPlanung
+Schule > Assistenten > UVPlanung
+Dashboard
+
+Ändert die Menüdarstellung.
+
+Dashboard
+
+Blendet den Monatskalender aus.
+
+Dashbord > Kalender
+
+Blendet den Monatskalender ein.
+
+Dashbord > Kalender
+
+Zeigt den nächsten Monat an.
+
+Dashbord > Kalender
+
+Zeigt den vorherigen Monat an.
+
+Dashbord > Kalender
+
+Ermöglicht die Bearbeitung der Lehrerstundenzahl.
+Übernimmt die geänderte Lehrerstundenzahl.
+Verwirft die geänderte Lehrerstundenzahl.
+
+Öffnet die Auswahlliste.
+Öffnet das Dialogfenster zur Suche einer PostleitzahlOrt-Kombination.
+Fügt einen neuen Termin hinzu.
+Ermöglicht die Anlage eines neuen Termins im
+Kalender.
+
+Dashbord > Kalender
+
+Verändert die Sortierfolge.
+Verändert die Sortierfolge.
+Zeigt die ausgewählten Daten in einer Übersichtsliste
+an.
+Zeigt den Kalender an.
+Zeigt weitere nützliche Informationen an.
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+Seite 2 von 6
+
+Symbole in der LUSD zur Information
+Symbol Bedeutung
+Webseite
+Unterricht > Abschlüsse >
+Schriftliche Prüfungsergebnisse sind erfasst. Anwahl
+Abitur
+des Buttons „Zusätzliche mündliche Prüfung“ nur
+möglich, wenn vier blaue Striche vorhanden sind.
+Anwahl des Buttons „Abiturabschluss“ nur möglich,
+wenn vier blaue oder vier gelbe Striche vorhanden sind.
+Unterricht > Abschlüsse >
+Prüfungsfächer sind erfasst, Schüler ist zum Abitur
+Abitur
+angemeldet.
+Unterricht > Abschlüsse >
+Belegungsprüfung erfolgreich.
+FHR-FOS
+Unterricht > Abschlüsse >
+Hinweismeldung, welche Kurse fehlen.
+FHR-FOS
+Unterricht > Abschlüsse >
+Schriftliche Prüfungen sind erfasst.
+FHR-FOS
+Keine Zulassung zum Abitur aufgrund der Noten von Q1 Unterricht > Abschlüsse >
+Abitur
+-Q3.
+
+Rücktritt von der Prüfung gemäß §27 (2).
+Zum mündlichen Abitur zugelassen - aufgrund der
+Ergebnisse Q1-Q4.
+Mündliche Prüfung ist ausgewählt.
+
+Unterricht > Abschlüsse >
+FHR-FOS
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+FHR-FOS
+Unterricht > Abschlüsse >
+Abitur
+
+Zum mündlichen Abitur zugelassen ohne Erfassung der
+schriftlichen Leistungen.
+Prüfung nicht bestanden, mündliche Prüfung notwendig. Unterricht > Abschlüsse >
+Prüfung bestanden, mündliche Prüfung notwendig.
+Keine Zulassung zum mündlichen Abitur aufgrund der
+Noten von Q1 - Q4.
+Mündliche Prüfungen sind eingetragen.
+
+FHR-FOS
+Unterricht > Abschlüsse >
+FHR-FOS
+Unterricht > Abschlüsse >
+Abitur
+Unterricht > Abschlüsse >
+FHR-FOS
+Unterricht > Abschlüsse >
+Abitur
+
+Zusatzprüfung angesetzt. Wird nach Anwahl des
+Buttons „Zusätzliche mündliche Prüfungen“ eine
+Eintragung für eine Zusatzprüfung oder Nachprüfung
+vorgenommen, ändert sich der Abiturstatus zu 4 Balken
+in gelb. Von diesem Status aus geht es weiter wie mit
+dem Status 4 Balken in blau.
+Abiturabschluss - nach Eingabe aller mündlichen Noten Unterricht > Abschlüsse >
+Abitur
+und erfolgreicher Berechnung der Endnote ist das
+Abitur abgeschlossen.
+FOS Abschluss zuerkannt.
+Abiturabschluss – nicht bestanden.
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+Unterricht > Abschlüsse >
+FHR-FOS
+Unterricht > Abschlüsse >
+Abitur
+
+Seite 3 von 6
+
+Symbol Bedeutung
+FOS Prüfung nicht bestanden.
+
+Webseite
+Unterricht > Abschlüsse >
+FHR-FOS
+
+Zeigt Fehler an.
+Kennzeichnung vor einer Kursnote unter 05 Punkten.
+
+Unterricht > Abschlüsse >
+Abitur
+
+Ein Bericht wird im CSV-Format ausgegeben
+(entspricht dem Excel-Format).
+Ein Bericht wird im EXCEL-Format ausgegeben.
+Ein Bericht wird im HTML-Format ausgegeben.
+Ein Bericht wird im PDF-Format ausgegeben.
+Ein Bericht wird im WORD-Format ausgegeben.
+Freiwilliger Kurs
+Grundkurs
+Leistungskurs
+Pflichtkurs
+Wahlpflichtkurs
+Klassenweise Erfassung von Noten.
+Kursweise Erfassung von Noten.
+Kennzeichnung des Prüfungsfaches
+
+Unterricht > Abschlüsse >
+Abitur
+
+Prüfungsfach 1
+Prüfungsfach 2
+Prüfungsfach 3
+Prüfungsfach 4
+Prüfungsfach 5
+Noch keine Prüfung durchgeführt.
+Nicht zugelassen zur Qualifikationsphase.
+Zugelassen zur Qualifikationsphase.
+Zugelassen zur Qualifikationsphase mit
+Konferenzbeschluss.
+Zugelassen zur Qualifikationsphase, wobei ein Fach
+unter 05 Punkten ausgeglichen wurde.
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+Unterricht > Datenprüfung
+> Zulassung
+Qualifikationsphase
+Unterricht
+> Datenprüfung
+> Zulassung
+Qualifikationsphase
+Unterricht
+> Datenprüfung
+> Zulassung
+Qualifikationsphase
+Unterricht
+> Datenprüfung
+> Zulassung
+Qualifikationsphase
+Unterricht > Datenprüfung
+> Zulassung
+Qualifikationsphase
+
+Seite 4 von 6
+
+Symbol Bedeutung
+Webseite
+Unterricht
+> Datenprüfung
+Zugelassen zur Qualifikationsphase, wobei zwei Fächer
+> Zulassung
+unter 05 Punkten ausgeglichen wurden.
+Qualifikationsphase
+
+Unterricht > Abschlüsse >
+Qualifizierender Hauptschulabschluss zuerkannt Hauptschule
+wurde automatisch auf Grund des Notenbildes
+vergeben.
+Gemeldet – Prüfungshalbjahre sind bekannt, noch nicht Unterricht > Abschlüsse >
+Abitur
+zugelassen.
+Ungeprüft - noch keine Prüfung des Notenbildes erfolgt Unterricht > Abschlüsse >
+Mittlerer Abschluss
+oder Noten fehlen.
+Ungeprüft - noch keine Prüfung des Notenbildes erfolgt Unterricht > Abschlüsse >
+Realschule /Hauptschule
+oder Noten fehlen.
+Unterricht > Datenprüfung
+Die Prüfung ergab Fehler bei der Kursbelegung.
+> Belegungsprüfung
+Unterricht > Datenprüfung
+Eine Kursbelegungsprüfung wurde noch nicht
+> Belegungsprüfung
+durchgeführt.
+Unterricht > Abschlüsse >
+Hauptschulabschluss zuerkannt - automatisch
+vergeben, wenn laut Notenbild der Hauptschulabschluss Hauptschule
+in der einfachen Form erreicht und der Qualifizierende
+Hauptschulabschluss nicht erreicht wird.
+Mittlerer Abschluss zuerkannt - automatisch vergeben, Unterricht > Abschlüsse >
+Realschule
+wenn laut Notenbild der Mittlere Abschluss in der
+einfachen Form erreicht und der Qualifizierende Mittlere
+Abschluss nicht erreicht wird.
+Unterricht > Zeugnis >
+Ein Zeugnis ist bereit zum Download.
+Zeugnisabruf
+
+Nicht gemeldet, es müssen die vier Prüfungs-Halbjahre Unterricht > Abschlüsse >
+Abitur
+gewählt werden (geschieht automatisch nach den
+Eintragungen in den Dialogfenstern Erstmeldung und
+Prüfungsfächer).
+Unterricht > Abschlüsse >
+Noch nicht bearbeitet.
+FHR-FOS
+Unterricht > Abschlüsse >
+Kein Hauptschulabschluss erreicht - automatisch
+vergeben, wenn laut Notenbild der Hauptschulabschluss Realschule /Hauptschule
+nicht erreicht wird.
+Unterricht > Abschlüsse >
+Kein Mittlerer Abschluss erreicht - automatisch
+Realschule /Mittlerer
+vergeben, wenn laut Notenbild der Mittlere Abschluss
+Abschluss
+nicht erreicht wird.
+Unterricht > Datenprüfung
+Die Prüfung ergab Warnhinweise!
+
+Ein Zeugnis wird noch nicht zum Download
+bereitgestellt.
+Ein Zeugnis wird zum Download vorbereitet.
+Qualifizierender mittlerer Abschluss zuerkannt automatisch auf Grund des Notenbildes vergeben.
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+> Belegungsprüfung
+Unterricht > Zeugnis >
+Zeugnisabruf
+Unterricht > Zeugnis >
+Zeugnisabruf
+Unterricht > Abschlüsse >
+Mittlerer Abschluss
+
+Seite 5 von 6
+
+Symbol Bedeutung
+Mittlerer Abschluss laut Konferenzbeschluss - manuell
+vergeben: Laut Notenbild wurde der Qualifizierende
+Mittlerer Abschluss erreicht, aber von der
+Klassenkonferenz auf Mittleren Abschluss
+Erscheint, wenn eine Stufe einer neu hinzugefügten
+Schulform in der Stundentafel aktiviert wird.
+
+Symbole in der LUSD
+
+Stand: 01.08.2020
+
+Webseite
+Unterricht > Abschlüsse >
+Mittlerer Abschluss
+
+Seite 6 von 6
+
+

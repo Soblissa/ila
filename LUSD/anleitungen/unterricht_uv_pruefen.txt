@@ -1,0 +1,579 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Daten der aktuellen UV prüfen
+und anpassen
+
+Version: 1.0
+Letzter Stand: 09.09.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Zweck dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse .......................................... 4
+LUSD-Anwenderunterstützung .......................................................................................................4
+
+Daten der aktuellen UV prüfen und anpassen
+1
+
+2
+
+6
+
+Schulform- und Stufenzugehörigkeit der Schüler prüfen und korrigieren ............................... 6
+1.1
+
+Schüler intern in eine (andere) Schulform- und Stufe versetzen (= interner
+Schulformübergang) .....................................................................................................6
+
+1.2
+
+Schüler in eine andere Stufe versetzen (= Stufenwechsel)........................................... 8
+
+Klassenzugehörigkeit von Schülern und Klassenlehrern prüfen und korrigieren .................... 9
+2.1
+
+Schüler der richtigen Klasse zuordnen .........................................................................9
+
+2.2
+
+Einer Klasse den richtigen Klassenlehrer zuweisen ................................................... 10
+
+3
+
+Klassen auf Mehrfachkurse in einem Fach prüfen und korrigieren ...................................... 11
+
+4
+
+Kurseigenschaften und Kurszuordnungen prüfen und korrigieren ....................................... 11
+
+5
+
+4.1
+
+Eigenschaften von Kursen anpassen ......................................................................... 12
+
+4.2
+
+Schüler einem anderen Kurs zuordnen ...................................................................... 14
+
+4.3
+
+Individuelle Kurseigenschaften eines Schülers anpassen .......................................... 15
+
+4.4
+
+Individuelle Kurseigenschaften mehrerer Schüler gleichzeitig anpassen .................... 16
+
+Lehrkraft eines Kurses ändern ............................................................................................17
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+3
+
+Zu diesem Dokument
+Zweck dieses Dokuments, Zielgruppe und vorausgesetzte Kenntnisse
+Das vorliegende Dokument beschreibt, wie Sie zu Beginn eines Halbjahres die Unterrichtsdaten in
+Bezug auf Schüler, Lehrkräfte, Klassen und Kurse kontrollieren und korrigieren können.
+ Schüler:
+ Zuordnung zu Schulform, Stufe, Klasse und Kursen.
+ Vergabe von schülerindividuellen Kursmerkmalen.
+ Lehrkräfte:
+ Zuordnung zu Klassen und Kursen.
+ Klassen:
+ Zuordnung von Schülern und Klassenlehrern.
+ Mehrfachkurse in einem Fach verhindern.
+ Kurse:
+ Kurseigenschaften.
+ Lehrer- und Schüler-Kurs-Zugehörigkeit.
+Die Anleitung richtet sich an LUSD-Nutzer, die die Unterrichtsdaten ihrer Schule zu Beginn eines
+Halbjahes prüfen und korrigieren möchten.
+Folgende Kenntnisse im Umgang mit der LUSD werden vorausgesetzt und daher in dieser
+Anleitung nicht näher beschrieben:
+ Der Umgang mit der Schüler-, Kurs- und Klassensuche sowie der Selektion.
+ Der Umgang mit der Erstellung von Berichten.
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+4
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMKB IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+5
+
+Daten der aktuellen UV prüfen und anpassen
+1
+
+Schulform- und Stufenzugehörigkeit der Schüler prüfen und korrigieren
+Über die Schülersuche können Sie Schüler nach Schulform und Stufe selektieren und so
+prüfen, ob die Schüler den korrekten Schulformen und Stufen zugeordnet sind.
+Für eventuell nötige Korrekturen gibt es zwei Verfahren:
+ Schüler intern in eine (andere) Schulform- und Stufe versetzen (= interner
+Schulformübergang) (siehe Kapitel 1.1).
+ Schüler in eine andere Stufe versetzen (= Stufenwechsel) (siehe Kapitel 1.2.)
+
+1.1
+
+Schüler intern in eine (andere) Schulform- und Stufe versetzen (= interner
+Schulformübergang)
+Beim Internen Schulformübergang versetzen Sie einen oder mehrere Schüler der eigenen
+Schule gleichzeitig in eine (andere) Schulform Ihrer Schule – bei Bedarf mit Stufenwechsel.
+So werden auch Schulform und Stufe einem Schülers zugewiesen, der Schulform und
+Stufe beim Halbjahreswechsel „verloren“ hat (z. B. ehemalige Schüler der SF VLK).
+Hinweis
+Beim Wechsel von einer Schulform mit Notentyp NOTE zu einer Schulform mit
+Notentyp PUNKTE (oder umgekehrt), werden die Noten der verbleibenden Kurse
+in diesem Halbjahr auf NV geändert.
+
+Achtung bei Wechsel im aktuellen Halbjahr
+ Die Schüler verlieren ihre Klassenzugehörigkeit und Klassenkurse.
+ Die Schüler behalten nur ihre stufen- oder schulformübergreifenden Kurse.
+ Die Schüler müssen nach dem internen Schulformübergang ihren neuen
+Klassen und Kursen zugeordnet werden.
+
+1. Öffnen Sie die Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG REGISTER INTERNER SCHULFORMÜBERGANG.
+aus. Sie sehen
+2. Wählen Sie die gewünschten Schüler über die SCHÜLERSUCHE
+die ausgewählten Schüler in der Tabelle INTERNER SCHULFORMÜBERGANG mit ihrer
+aktuellen Schulform und Stufe (Abb. 1).
+3. Klicken Sie in die Kontrollkästchen vor den Schülern, die Sie in dieselbe Schulform und
+Stufe übernehmen möchten.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+6
+
+Abb. 1 Webseite Statusverwaltung: Register Interner Schulformübergang
+
+4. Klicken Sie auf das Symbol
+.
+Es erscheint das Dialogfenster INFORMATIONEN ZUM ÜBERGANG (Abb. 2).
+
+Abb. 2 Dialogfenster Informationen zum Übergang: Übergang inkl. Stufenwechsel
+
+5. Klicken Sie in das Kästchen vor dem Feld AKTUELLES HALBJAHR.
+6. Wählen Sie in den Feldern WUNSCHSCHULFORM und WUNSCHSTUFE die gewünschten
+Einträge aus.
+Hinweis
+Benötigte Schulformen erstellen Sie auf der Webseite SCHULE >
+SCHULBASISDATEN > SCHULFORMEN.
+Die zu den Schulformen gehörenden Stufen/Semester pflegen Sie auf der
+Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+7
+
+7. Klicken Sie auf ÜBERNEHMEN. Die Tabelle INTERNER SCHULFORMÜBERGANG wird
+aktualisiert und zeigt die Zieldaten an.
+8. Klicken Sie auf SPEICHERN.
+
+1.2
+
+Schüler in eine andere Stufe versetzen (= Stufenwechsel)
+Beim Stufenwechsel versetzen Sie Schüler der eigenen Schule gleichzeitig in eine andere
+Stufe ihrer aktuellen Schulform.
+Achtung bei Wechsel im aktuellen Halbjahr
+ Die Schüler verlieren ihre Klassenzugehörigkeit und Klassenkurse.
+ Die Schüler behalten nur ihre stufen- und schulformübergreifenden Kurse.
+ Die Schüler müssen ihren neuen Klassen und Kursen zugeordnet werden.
+ Das Abitur der Schüler wird gelöscht. Dies stellt sicher, dass keine Altwerte
+auf Marken, Berichten und Zeugnissen angezeigt werden.
+
+1. Öffnen Sie die Seite Unterricht > UV-Bearbeitung > Stufenwechsel.
+
+Abb. 3 Webseite Stufenwechsel: Stufenwechsel mit Schülerauswahl
+
+Hinweis
+Die Zielschulform können Sie auf dieser Webseite nicht ändern. Über die
+Auswahlliste ZIELSCHULFORM grenzen Sie lediglich ein, für welchen Teil der
+ausgewählten Schüler der Stufenwechsel erfolgen soll
+2. Wählen Sie die gewünschten Schüler mit gleicher Schulform entweder über die
+MEHRFACHAUSWAHl und hier mithilfe der entsprechenden Einträge in den Auswahllisten
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+8
+
+für Schulformbildungskombination (SF/BK*), Stufe und Semester (ST/SEM*) und
+KLASSE aus. Anschließend klicken sie auf
+. Oder verwenden Sie die
+EINZELAUSWAHL und suchen den Schüler anhand seines Namens.
+Die betroffenen Schüler werden in der Tabelle angezeigt.
+3. Wählen Sie in der Auswahlliste ST/SEM neu die Stufe, in die die ausgewählten Schüler
+wechseln sollen.
+4. Klicken Sie auf SPEICHERN .
+5. Klicken Sie auf SCHLIEßEN.
+
+2
+
+Klassenzugehörigkeit von Schülern und Klassenlehrern prüfen und
+korrigieren
+Hinweis
+Prüfen Sie,
+ ob die Schüler den richtigen Klassen zugeordnet sind.
+ ob den Klassen jeweils der richtige Klassenlehrer zugeordnet ist.
+Wir empfehlen folgendes Vorgehen:
+Erstellen Sie auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE >
+SCHULE > KLASSEN Klassenlisten für die entsprechenden Klassen.
+Anhand dieser Listen können Sie prüfen, welche Schüler in einer Klasse sind und
+wer der jeweilige Klassenlehrer ist.
+
+2.1
+
+Schüler der richtigen Klasse zuordnen
+Möchten Sie Schüler einer anderen Klasse zuordnen, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG (Abb. 4).
+Das Register AKTIVE ist ausgewählt.
+aus.
+2. Wählen Sie im Bereich SCHÜLERAUSWAHL die gewünschten Schüler über
+Die ausgewählten Schüler werden mit der aktuellen Klasse und Schulform angezeigt.
+3. Wählen Sie im Bereich KLASSENÜBERSICHT die gewünschten Klassen über
+aus. Die ausgewählten Klassen werden mit Angabe der Schülerzahl angezeigt.
+4. Markieren Sie im Bereich SCHÜLERAUSWAHL die Schüler, die Sie einer anderen Klasse
+zuweisen wollen. Die Zeilen werden blau hervorgehoben.
+5. Markieren Sie im Bereich KLASSENÜBERSICHT die Klasse, in die die Schüler wechseln
+sollen. Die Zeile wird blau hervorgehoben.
+6. Klicken Sie auf das Symbol
+. Die ausgewählten Schüler werden der ausgewählten
+Klasse zugeordnet. Die Tabellen werden aktualisiert.
+7. Klicken Sie auf SPEICHERN.
+8. Klicken Sie auf SCHLIEßEN.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+9
+
+Abb. 4 Webseite Klassenbildung
+
+Hinweis
+Sobald Sie einen Schüler einer Klasse zuweisen, bekommt er automatisch
+alle Klassenkurse
+
+2.2
+
+Einer Klasse den richtigen Klassenlehrer zuweisen
+Möchten Sie einer Klasse den richtigen Klassenlehrer zuweisen, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG (Abb. 4).
+2. Wählen Sie im Bereich KLASSENÜBERSICHT die gewünschte Klasse über
+Die ausgewählte Klasse wird mit Angabe der Schülerzahl angezeigt.
+
+aus.
+
+3. Markieren Sie die Klasse, die Sie bearbeiten möchten.
+4. Klicken Sie auf BEARBEITEN. Es erscheint das Dialogfenster KLASSE ÄNDERN (Abb. 5).
+5. Wählen Sie in der Auswahlliste KLASSENLEHRER* den gewünschten Eintrag aus.
+6. Klicken Sie auf ÜBERNEHMEN.
+7. Klicken Sie auf SPEICHERN und dann auf SCHLIEßEN.
+
+Abb. 5 Dialogfenster Klasse ändern
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+10
+
+3
+
+Klassen auf Mehrfachkurse in einem Fach prüfen und korrigieren
+Hinweis
+Um zu vermeiden, dass im Bereich Pflichtfächer auf den Zeugnissen in einem
+Fach mehrere Kurse erscheinen, prüfen Sie in der aktuellen UV, ob Sie Klassen
+mit Mehrfachkursen in einem Fach haben.
+Wir empfehlen folgendes Vorgehen:
+Erstellen Sie auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE >
+UNTERRICHT > KURSE den Bericht Unterrichtsverteilung für die aktuelle UV*.
+Anhand dieser Liste können Sie – für jede Schulform – die Kurse aller Stufen und
+Klassen prüfen.
+Haben Sie in einer Klasse mehrere Kurse in einem Fach, gehen Sie wie folgt vor:
+1. Führen Sie auf der Webseite UNTERRICHT > DATENPRÜFUNGEN > BELEGUNGSPRÜFUNG
+nacheinander für alle Schüler eine Kursbelegungsprüfung durch.
+2. Drucken Sie im Anschluss den Bericht MELDUNGSÜBERSICHT aus.
+3. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURSZUORDNUNG.
+Das Register AKTIVE ist ausgewählt.
+4. Wählen Sie im Bereich SCHÜLERAUSWAHL die gewünschten Schüler über
+die mehrere Kurse in einem Fach haben.
+
+aus,
+
+5. Klicken Sie auf den Namen des Schülers. Das Dialogfenster KURSE DES SCHÜLERS wird
+geöffnet.
+6. Markieren Sie die doppelten Kurse, die Sie löschen möchten.
+7. Klicken Sie auf LÖSCHEN.
+8. Klicken Sie auf SPEICHERN und anschließend auf SCHLIEßEN.
+
+4
+
+Kurseigenschaften und Kurszuordnungen prüfen und korrigieren
+Hinweis
+Um zu gewährleisten, dass Sie die weiteren Arbeitsschritte der
+Leistungserfassung mit dem ENC bearbeiten können, prüfen Sie bitte,
+ ob den Pflicht-, Wahlpflicht- und freiwilligen Kursen der Abschlussklassen die
+richtigen Eigenschaften – Kursart (KA), Kursoption (KO) und eventuelle
+Kursdifferenzierungen (KD) – zugewiesen sind.
+ ob die Schüler den richtigen Kursen zugeordnet sind.
+ ob den Kursen die richtigen Lehrer zugewiesen sind.
+Wir empfehlen folgendes Vorgehen:
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+11
+
+Erstellen Sie auf der Webseite EXTRAS > BERICHTE > STANDARDBERICHTE >
+UNTERRICHT > KURSE > KURSLISTEN Listen für die entsprechenden Kurse in der
+Version*: MIT SCHÜLERINDIVIDUELLEN KURSEIGENSCHAFTEN.
+Anhand dieser Listen können Sie prüfen:
+ welche Kurseigenschaften ein Kurs hat.
+ welche Schüler – mit welchen individuellen Kurseigenschaften – zu einem
+Kurs gehören.
+ welcher Lehrer einem Kurs zugeordnet ist..
+
+4.1
+
+Eigenschaften von Kursen anpassen
+Möchten Sie die Eigenschaften von Kursen ändern, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG.
+2. Wählen Sie die gewünschten Kurse über
+ÜBERNEHMEN.
+
+aus und klicken auf die Schaltfläche
+
+3. Die ausgewählten Kurse werden im Bereich KURSBEARBEITUNG angezeigt (Abb. 6).
+
+Abb. 6 Webseite Kursbearbeitung
+
+4. Nehmen Sie einen oder mehrere Kurse mit Klick ins Kontrollkästchen vor dem Kurs in
+die Bearbeitung.
+ Haben Sie einen Kurs ausgewählt, nehmen Sie im Dialogfenster KURS BEARBEITEN
+(Abb. 7) die gewünschten Änderungen vor.
+ Haben Sie mehrere Kurse ausgewählt, klicken Sie im Dialogfenster KURS BEARBEITEN
+in das Kontrollkästchen vor dem zu bearbeitenden Datenfeld. Das Eingabefenster
+wird freigegeben (Abb. 8).
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+12
+
+Achtung
+Die Änderungen werden für alle gewählten Kurse übernommen.
+Wenn Sie Felder zur Bearbeitung markieren, aber keine Daten
+eingeben, bleiben diese Felder nach dem Schließen des Dialogfensters
+bei allen zuvor ausgewählten Kursen leer!
+Hinweis
+Sollen Fächer nicht im Zeugnis erscheinen, tragen Sie im Feld FACH die
+Option: TUT (= Tutoren- oder Klassenlehrerkurse) ein.
+Soll nur das Thema (ohne Fach) im Zeugnis erscheinen, klicken Sie in
+das Kontrollkästchen vor NUR THEMA IM ZEUGNIS ANZEIGEN.
+
+Abb. 7 Dialogfenster Kurs bearbeiten: Kursdeteils für einen Kurs bearbeiten
+
+Abb. 8 Dialogfenster Kurs bearbeiten: Kursdetails für mehrere Kurse gleichzeitig bearbeiten
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+13
+
+5. Klicken Sie auf ÜBERNEHMEN. Die Tabelle KURSBEARBEITUNG wird aktualisiert.
+6. Klicken Sie auf SPEICHERN.
+7. Klicken Sie auf SCHLIEßEN.
+
+4.2
+
+Schüler einem anderen Kurs zuordnen
+Möchten Sie einen Schüler einem anderen Kurs zuordnen, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURS-ZUORDNUNG.
+Das Register AKTIVE ist ausgewählt.
+aus.
+2. Wählen Sie im Bereich SCHÜLERAUSWAHL die gewünschten Schüler über
+Die ausgewählten Schüler werden mit der aktuellen Klasse und Schulform angezeigt
+(Abb. 9).
+3. Wählen Sie im Bereich KURSAUSWAHL die gewünschten Kurse über
+ausgewählten Kurse werden angezeigt (Abb. 9).
+
+aus. Die
+
+4. Markieren Sie im Bereich SCHÜLERAUSWAHL die Schüler, die Sie einem anderen Kurs
+zuweisen möchten.
+5. Markieren Sie im Bereich KURSAUSWAHL den/die Kurs/e, in den/die Sie die Schüler
+versetzen möchten.
+6. Klicken auf das Symbol
+
+.
+
+Hinweis
+Haben Sie mehrere Schüler und Kurse ausgewählt, werden alle
+ausgewählten Schüler allen ausgewählten Kursen zugeordnet.
+7. Klicken Sie auf SPEICHERN.
+8. Klicken Sie auf SCHLIEßEN.
+
+Abb. 9 Webseite Schüler-Kurs-Zuordnung
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+14
+
+4.3
+
+Individuelle Kurseigenschaften eines Schülers anpassen
+Möchten Sie die individuellen Kurseigenschaften eines Schülers ändern, gehen Sie wie
+folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURS-ZUORDNUNG.
+Das Register Aktive ist ausgewählt.
+2. Wählen Sie im Bereich SCHÜLERAUSWAHL den gewünschten Schüler über
+Der Schüler wird mit der aktuellen Klasse und Schulform angezeigt.
+
+aus.
+
+3. Klicken Sie auf den Schülernamen. Es erscheint das Dialogfenster KURSE DES
+SCHÜLERS.
+
+Abb. 10 Dialogfenster Kurse des Schülers
+
+4. Markieren Sie den gewünschten Kurs.
+5. Klicken Sie auf BEARBEITEN.
+Das Dialogfenster erweitert sich nach rechts um den Bereich KURSEIGENSCHAFTEN
+SCHÜLER.
+
+Abb. 11 Dialogfenster Kurseigenschaften Schüler: Erweiterung Kurseigenschaften Schüler
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+15
+
+6. Geben Sie die individuellen Kurseigenschaften des Schülers ein.
+7. Klicken Sie auf ÜBERNEHMEN.
+8. Klicken Sie auf SPEICHERN.
+9. Klicken Sie auf SCHLIEßEN.
+
+4.4
+
+Individuelle Kurseigenschaften mehrerer Schüler gleichzeitig anpassen
+Möchten Sie die individuellen Kurseigenschaften mehrerer Schüler gleichzeitig ändern,
+gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLER-KURS-ZUORDNUNG.
+Das Register Aktive ist ausgewählt.
+2. Wählen Sie im Bereich KURSAUSWAHL den gewünschten Kurs über
+Kurs wird mit der Schüleranzahl (= Spalte ANZ.) angezeigt (Abb. 9).
+
+aus. Der
+
+3. Klicken Sie auf die Schülerzahl des Kurses. Es erscheint das Dialogfenster SCHÜLER IM
+KURS.
+
+Abb. 12 Dialogfenster Schüler im Kurs
+
+4. Markieren Sie die gewünschten Schüler.
+5. Klicken Sie auf BEARBEITEN. Das Dialogfenster erweitert sich nach rechts um den
+Bereich KURSEIGENSCHAFTEN SCHÜLER.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+16
+
+Abb. 13 Dialogfenster Schüler im Kurs: Kurseigenschaften Schüler
+
+6. Geben Sie die individuellen Kurseigenschaften der Schüler ein.
+7. Klicken Sie auf Übernehmen.
+8. Klicken Sie auf SPEICHERN.
+9. Klicken Sie auf SCHLIEßEN.
+
+5
+
+Lehrkraft eines Kurses ändern
+Möchten Sie einem Kurs einer anderen Lehrkraft zuweisen, gehen Sie wie folgt vor:
+1. Öffnen Sie die Webseite UNTERRICHT > UV-BEARBEITUNG > LEHRKRÄFTE-KURSZUORDNUNG.
+
+Abb. 14 Webseite Lehrkräfte-Kurs-Zuordnung
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+17
+
+2. Im linken Bereich LEHRKRÄFTE markieren Sie die Lehrkraft, die Sie bestimmten Kursen
+zuordnen möchten. Klicken Sie bei Bedarf auf die Anzahl der UV-Stunden, um sich die
+Kurse anzeigen zu lassen, die der markierten Lehrkraft bereits zugeordnet sind.
+3. Im rechten Bereich KURSE markieren Sie den Kurs, dem Sie die Lehrkraft zuordnen
+möchten. Klicken Sie bei Bedarf auf ANZ.L. um sich die Lehrkraft oder die Lehrkräfte
+anzeigen zu lassen, die dem markierten Kurs bereits zugeordnet sind.
+4. Klicken Sie auf
+
+. Die Lehrkraft wurde dem Kurs zugeordnet, die Zahl im Feld ANZ.L.
+hat sich um 1 erhöht.
+Hinweis
+Sind dem Kurs nun zwei Lehrkräfte zugeordnet, müssen Sie durch Klick auf
+die Zahl im Feld ANZ.L. des Kurses das Dialogfenster LEHRKRÄFTE IM KURS
+öffnen und hier eine Lehrkraft als HAUPTLEHRER (HL) festlegen.
+Möchten Sie eine Lehrkraft aus dem Kurs entfernen, markieren Sie ihn und
+klicken auf
+
+.
+
+5. Klicken Sie auf ÜBERNEHMEN.
+6. Klicken Sie auf SPEICHERN.
+7. Klicken Sie auf SCHLIEßEN.
+
+HMKB | LUSD | Daten der aktuellen UV prüfen und anpassen | Version: 1.0 | Letzter Stand: 09.09.2025
+
+18
+
+

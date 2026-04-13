@@ -1,0 +1,998 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Aufnahme von Schülern in die
+Vorklasse
+
+Version: 2.4
+Letzter Stand: 08.05.2024
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+1
+
+Inhalt dieses Dokuments ................................................................................................................ 1
+Zielgruppe ...................................................................................................................................... 1
+Vorausgesetzte Kenntnisse ........................................................................................................... 2
+LUSD-Anwenderunterstützung....................................................................................................... 2
+
+Variante 1: Ihre Schule bietet eine Vorklasse an
+
+2
+
+1
+
+Schulbasisdaten für die Vorklasse (VG) vorbereiten ............................................................. 2
+
+2
+
+Zieldaten der Schüler der Vorklasse (VG) anlegen ............................................................... 3
+
+3
+
+Klassen und Kurse für die Vorklasse einrichten .................................................................... 5
+
+4
+
+5
+
+3.1
+
+Klassen für die Schulform VG einrichten ...................................................................... 5
+
+3.2
+
+Kinder einer VG-Klasse hinzufügen ............................................................................. 5
+
+3.3
+
+Kurse für die Schulform VG einrichten ......................................................................... 5
+
+3.4
+
+Kinder den Kursen der Schulform VG zuweisen .......................................................... 6
+
+Zurückstellung in die Vorklasse in der LUSD eintragen ......................................................... 7
+4.1
+
+Register Sprachkenntnisse/Schulfähigkeit ................................................................... 7
+
+4.2
+
+Register Zurückstellung ............................................................................................... 8
+
+Daten der Schüler nach Beendigung der Vorklasse pflegen ................................................. 9
+5.1
+
+Variante 1: Der Schüler bleibt nach dem Besuch der Vorklasse an Ihrer Schule.......... 9
+
+5.2
+
+Variante 2: Der Schüler wechselt an eine andere hessische Schule .......................... 10
+
+5.3
+
+Variante 3: Der Schüler wechselt an eine Schule außerhalb Hessens / an eine
+Privatschule ohne LUSD ............................................................................................ 11
+
+Variante 2: Kinder Ihrer Schule besuchen die Vorklasse einer anderen Schule
+6
+
+7
+
+13
+
+Zurückstellung in die Vorklasse in der LUSD eintragen ....................................................... 13
+6.1
+
+Register Sprachkenntnisse/Schulfähigkeit ................................................................. 13
+
+6.2
+
+Register Zurückstellung ............................................................................................. 13
+
+Kind an die Schule mit Vorklasse abgeben ......................................................................... 15
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+2
+
+8
+
+9
+
+Schüler kommen nach Beendigung der Vorklasse an Ihre Schule ...................................... 16
+8.1
+
+Schüler als Kandidaten annehmen und mit Zieldaten versehen ................................. 16
+
+8.2
+
+Schüler aktiv setzen ................................................................................................... 17
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers ...................................18
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schulformen: Schulform VG als schulbezogene Schulform anlegen
+
+2
+
+Abb. 2 Webseite Stufen/Semester: Schulform VG mit Stufen/Semestern und Halbjahren anlegen
+
+2
+
+Abb. 3 Webseite Stundentafel: Initial-Stundentafel für die SF VG
+
+3
+
+Abb. 4 Webseite Stundentafel: Beispiel für das Hinzufügen eines Faches für die Schulform Vorklasse
+
+3
+
+Abb. 5 Webseite Kandidaten bearbeiten: Zieldaten bearbeiten
+
+4
+
+Abb. 6 Webseite Statusverwaltung: Interner Schulformübergang
+
+4
+
+Abb. 7 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+4
+
+Abb. 8 Webseite Klassenbildung: Klasse/n für die Schulform VG hinzufügen
+
+5
+
+Abb. 9 Webseite Klassenbildung: Kinder der oder den Klassen hinzufügen
+
+5
+
+Abb. 10 Webseite Kursbearbeitung: Einen Kurs für die Schulform VG anlegen
+
+6
+
+Abb. 11 Webseite Schüler-Kurszuordnung
+
+6
+
+Abb. 12 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+7
+
+Abb. 13 Webseite Schulfähigkeit: Eintrag der Zurückstellung im Register Zurückstellung
+
+8
+
+Abb. 14 Webseite Statusverwaltung: Interner Schulformübergang
+
+9
+
+Abb. 15 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+10
+
+Abb. 16 Webseite Abgänger: Auswahl der Abgänger, Eintrag des Freigabedatums
+
+10
+
+Abb. 17 Webseite Abgäner: Wunsch-Schule hinzufügen
+
+11
+
+Abb. 18 Webseite Statusverwaltung: Schüler ehemalig setzen
+
+12
+
+Abb. 19 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+13
+
+Abb. 20 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+14
+
+Abb. 21 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+15
+
+Abb. 22 Webseite Abgänger: Hinweismeldung
+
+16
+
+Abb. 23 Webseite Abgänger: Anlage des Kandidatenverhältnis
+
+16
+
+Abb. 24 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1 eintragen.
+
+17
+
+Abb. 25 Webseite Statusverwaltung: Schüler aktiv setzen
+
+17
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+3
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+0
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Der Besuch einer Vorklasse kann für ein schulpflichtiges Kind aus zwei Gründen erforderlich sein.
+Das Kind…
+ hat noch nicht den für den Schulbesuch erforderlichen körperlichen, geistigen und seelischen
+Entwicklungsstand.
+ verfügt noch nicht über die für den Schulbesuch erforderlichen deutschen Sprachkenntnisse.
+Entwicklungsstand
+„Schulpflichtige Kinder, die noch nicht den für den Schulbesuch erforderlichen körperlichen,
+geistigen und seelischen Entwicklungsstand haben, können … für ein Jahr von der Teilnahme am
+Unterricht der Grundschule oder der Förderschule zurückgestellt werden“ (HSchG § 58 Abs. 3).
+„Mit Zustimmung der Eltern können diese Kinder Vorklassen (§ 18) besuchen, wenn dies zur
+Förderung ihrer Entwicklung angebracht und nach Lage der Verhältnisse möglich ist. Die
+Entscheidung trifft die Schulleiterin oder der Schulleiter“ (HSchG § 58 Abs. 4).
+
+Deutsche Sprachkenntnisse
+„Schulpflichtige Kinder, die nicht über die für den Schulbesuch erforderlichen deutschen
+Sprachkenntnisse verfügen, können … für ein Jahr von der Teilnahme am Unterricht zurückgestellt
+werden. … Sie sind verpflichtet, einen schulischen Sprachkurs zu besuchen. … Eine Vorklasse
+kann besucht werden, wenn ihr Besuch nach Lage der Verhältnisse möglich und eine
+angemessene Förderung zu erwarten ist“ (HSchG § 58 Abs. 6).
+
+Das vorliegende Dokument beschreibt, welche Daten im Rahmen der Einrichtung einer Vorklasse
+an Grundschule (VG) in der LUSD zu pflegen sind.
+Bei der Datenpflege sind folgende Varianten zu unterscheiden:
+ Die Vorklasse (VG) wird an Ihrer Schule eingerichtet (siehe Kapitel 1 f.)
+ An Ihrer Schule angemeldete Kinder besuchen die Vorklasse an einer anderen Schule. Die
+Kinder müssen hierfür an die andere Schule abgegeben werden (siehe Kapitel 6 f.)
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwender, die in der LUSD Schüler in eine Vorklasse (VG)
+aufnehmen und bearbeiten möchten.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+1
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und sind daher in dieser Anleitung nicht näher
+beschrieben:
+Der Umgang mit
+
+
+
+
+
+
+
+
+
+dem Einrichten einer schulbezogenen Schulform/Bildungskombination,
+dem Pflegen der Stundentafel, je Schulform und Stufe/Semester,
+der Schüleraufnahme in die LUSD,
+der Schüler-, Kurs- und Klassensuche,
+der Kursbearbeitung,
+dem internen Schulformwechsel,
+der Statusverwaltung und
+der Erstellung von Berichten (z.B. Kurslisten).
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Angebote
+Auf der Webseite https://lusdinfo.hessen.de finden Sie alle wichtigen
+Unterstützungsangebot rund um die LUSD. Darunter
+ Anleitungen
+ Fortbildungsangebote
+ FAQs
+Helpdesk
+Bei Fragen rund um die HMBK IT-Anwendungen steht ihnen der Helpdesk zur Verfügung:
+
+
+über die Seite kontakt-helpdesk.hessen.de oder
+ telefonisch unter +49 611 340 1570.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+2
+
+Variante 1: Ihre Schule bietet eine Vorklasse an
+1
+
+Schulbasisdaten für die Vorklasse (VG) vorbereiten
+Hinweis
+Aus technischen Gründen wird die Vorklasse an Grundschulen (VG) in der
+LUSD als Schulform abgebildet.
+Um in der LUSD eine Vorklasse (VG) abbilden zu können, sind zunächst die nachfolgend
+beschriebenen Voraussetzungen zu erfüllen.
+1. Prüfen Sie auf Webseite SCHULE > SCHULBASISDATEN > SCHULFORMEN im Bereich
+SCHULBEZOGENE SCHULFORMEN, ob die Schulform Vorklasse an Grundschulen (VG)
+vorhanden ist. Wenn nicht, fügen Sie diese hinzu.
+
+Abb. 1 Webseite Schulformen: Schulform VG als schulbezogene Schulform anlegen
+
+2. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUFEN/SEMESTER, ob für
+die Schulform VG die entsprechenden Häkchen für die Stufen und Halbjahre gesetzt
+sind. Passen Sie die Häkchen bei Bedarf an.
+
+Abb. 2 Webseite Stufen/Semester: Schulform VG mit Stufen/Semestern und Halbjahren anlegen
+
+3. Prüfen Sie auf der Webseite SCHULE > SCHULBASISDATEN > STUNDENTAFEL die
+gewünschten Einträge für die Schulform VG für beide Halbjahre. Im Initialzustand
+finden Sie in der LUSD folgende Stundentafel für die SF VG:
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+2
+
+Abb. 3 Webseite Stundentafel: Initial-Stundentafel für die SF VG
+
+Da für den Unterricht in der Vorklasse keine feste Stundentafel vorgegeben ist, sind Sie in
+der Anlage der Fächer frei. Ein Hinzufügen, Bearbeiten und Löschen von Fächern ist
+möglich.
+
+Abb. 4 Webseite Stundentafel: Beispiel für das Hinzufügen eines Faches für die Schulform Vorklasse
+
+Hinweis
+Sollten Fächer, die in der VG unterrichtet werden sollen, nicht für die
+Stundentafel auswählbar sein, so können Sie sich die Fächer auf der
+Webseite SCHULE > SCHULBASISDATEN > FÄCHER als schulbezogene Fächer
+zuordnen.
+
+2
+
+Zieldaten der Schüler der Vorklasse (VG) anlegen
+Sobald feststeht, welche Kinder bei Ihnen eine Vorklasse besuchen werden, pflegen Sie die
+Zieldaten dieser Kinder auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN.
+Das gilt sowohl für Kinder Ihrer Schule als auch für Kinder, die von anderen Schulen als
+Kandidaten an Ihre Schule abgegeben wurden.
+Wählen Sie die gewünschten Kandidaten über
+
+aus.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+3
+
+Klicken Sie auf
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN das Zielhalbjahr sowie die
+Zielschulform VG und die Zielstufe 00/1 aus.
+Hinweis
+Für Kandidaten mit Kandidatenstatus: angenommen
+
+Sofern für ein Kind mit Kandidatenstatus angenommen als Zielschulform G eingetragen
+ist, ändern Sie die Zielschulform auf VG und die Zielstufe auf 00/1.
+
+Abb. 5 Webseite Kandidaten bearbeiten: Zieldaten bearbeiten
+
+Hinweis
+Für Schüler mit Schülerstatus: aktiv
+
+Sollte ein Kind bereits für die Schulform G aktiv gesetzt sein, ändern Sie auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG > Register
+INTERNER SCHULFORMÜBERGANG die Zielschulform auf VG und die Zielstufe auf 00/1.
+
+Abb. 6 Webseite Statusverwaltung: Interner Schulformübergang
+
+Abb. 7 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+4
+
+3
+
+Klassen und Kurse für die Vorklasse einrichten
+Um Klassen und Kurse für die Vorklasse einzurichten,…
+ sind für das aktuelle Halbjahr die nötigen Schritte in den Kapiteln 3.1 bis 3.4
+beschrieben.
+ für das kommende Halbjahr gehen Sie auf die Webseite Schule > Assistenten > UVPlanung und wählen dort die gewünsche UV-Planungsvariante aus. Führen Sie dort die
+nötigen Schritte analog zu der Beschreibung in den Kapitel 3.1 bis 3.4 aus.
+
+3.1
+
+Klassen für die Schulform VG einrichten
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+benötigte Anzahl Klassen für die Schulform VG an.
+
+Abb. 8 Webseite Klassenbildung: Klasse/n für die Schulform VG hinzufügen
+
+3.2
+
+Kinder einer VG-Klasse hinzufügen
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG die
+Kinder der gewünschten Klasse zu.
+
+Abb. 9 Webseite Klassenbildung: Kinder der oder den Klassen hinzufügen
+
+3.3
+
+Kurse für die Schulform VG einrichten
+1. Legen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KURSBEARBEITUNG die
+benötigten Kurse für die Schulform VG an.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+5
+
+Abb. 10 Webseite Kursbearbeitung: Einen Kurs für die Schulform VG anlegen
+
+2. Fahren Sie in gleicher Weise in den anderen Kursen der Stundentafel fort.
+
+3.4
+
+Kinder den Kursen der Schulform VG zuweisen
+Hinweis
+Wenn Sie in der Stundentafel der Schulform VG bei einem Fach das
+Häkchen bei KLASSENKURS gesetzt haben, werden alle Kinder der Klasse
+automatisch dem dazugehörigen Kurs zugeordnet.
+1. Weisen Sie auf der Webseite UNTERRICHT > UV-BEARBEITUNG > SCHÜLERKURSZUORDNUNG die Kinder den gewünschten Kursen zu.
+
+Abb. 11 Webseite Schüler-Kurszuordnung
+
+Hinweis
+Sobald die Kinder am Unterricht der Vorklasse (VG) teilnehmen, aktivieren
+Sie sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+STATUSVERWALTUNG.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+6
+
+4
+
+Zurückstellung in die Vorklasse in der LUSD eintragen
+Sobald feststeht, dass ein Kind an Ihrer Schule eine Vorklasse besuchen wird, müssen Sie
+die Zurückstellung des Kindes auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHULFÄHIGKEIT eintragen bzw. kontrollieren.
+
+4.1
+
+Das Kind, das die Vorklasse an Ihrer Schule
+besucht, wurde…
+
+Dann müssen Sie…
+
+… von Ihnen in die LUSD aufgenommen.
+
+… die nachfolgenden Schritte durchführen.
+
+… von einer anderen Schule in die LUSD
+aufgenommen und als Kandidat an Sie
+abgegeben.
+
+… die Eintragungen der abgebenden
+Schule, anhand der nachfolgenden Schritte
+kontrollieren und gegebenenfalls abändern.
+
+Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Abb. 12 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+Hinweis
+Ein Schüler wird im Register ZURÜCKSTELLUNG nur angezeigt, wenn er im
+Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld SCHULFÄHIGKEIT einen
+der folgenden Einträge aufweist: Offen, Empfehlung Zurückstellung oder
+Zurückstellung.
+4. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+7
+
+4.2
+
+Register Zurückstellung
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus:
+ Feld ZURÜCKSTELLUNG: Je nach Grund der Zurückstellung in die Vorklasse wählen Sie
+aus der Auswahlliste
+ Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3) oder
+ Vorklasse (deutsche Sprachkenntnisse HSchG § 58 Abs. 6)
+ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum des Antrags / der Anhörung der Eltern.
+ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule der Vorklasse (in diesem Fall wählen Sie Ihre eigene Schule
+aus).
+ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 13 Webseite Schulfähigkeit: Eintrag der Zurückstellung im Register Zurückstellung
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+8
+
+Hinweis
+Die Felder
+ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+4. Klicken Sie auf
+
+5
+
+und
+
+.
+
+Daten der Schüler nach Beendigung der Vorklasse pflegen
+Je nachdem, ob die Schüler weiter an Ihrer Schule unterrichtet werden oder ob sie an eine
+andere Schule wechseln, sind unterschiedliche Arbeitsschritte in der LUSD nötig.
+
+5.1
+
+Variante 1: Der Schüler bleibt nach dem Besuch der Vorklasse an Ihrer Schule
+Datenpflege im 2. Schulhalbjahr der Vorklasse
+Um eine korrekte UV-Planung erstellen zu können, sollten Sie im zweiten Schulhalbjahr der
+Vorklasse für die Kinder, die an Ihrer Schule bleiben, den jeweils passenden internen
+Schulformübergang eintragen.
+Die Kinder des Vorklasse werden dann in der UV-Planung gemeinsam mit den aktuellen
+Kandidaten der entsprechenden Schulform und Stufe (01/1) berücksichtigt.
+Nach Beendigung des Vorklasse muss ein Kind von der Schulform Vorklasse (VG) in die
+Schulform Grundschule (G) wechseln.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+die gewünschten Kinder über
+aus.
+2. Klicken Sie auf das Register INTERNER SCHULFORMÜBERGANG.
+3. Markieren Sie die Schüler und klicken Sie auf
+
+.
+
+Abb. 14 Webseite Statusverwaltung: Interner Schulformübergang
+
+4. Wählen Sie im Dialogfenster INFORMATIONEN ZUM ÜBERGANG die gewünschten Einträge
+in den Feldern HALBJAHR, W UNSCHSCHULFORM und W UNSCHSTUFE aus.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+9
+
+Abb. 15 Webseite Statusverwaltung: Informationen zum internen Schulformübergang
+
+Hinweis
+Sobald die Schüler am Unterricht teilnehmen, aktivieren Sie die Schüler an
+Ihrer Schule.
+
+5.2
+
+Variante 2: Der Schüler wechselt an eine andere hessische Schule
+Datenpflege im 2. Schulhalbjahr der Vorklasse
+Wechselt ein Schüler, der an Ihrer Schule eine Vorklasse besucht hat, an eine andere
+hessische Schule, sollten Sie ihn im zweiten Schulhalbjahr der Vorklasse in der LUSD als
+Abgänger an die andere Schule eintragen.
+Das ermöglicht der anderen Schule, eine korrekte UV-Planung erstellen zu können, da sie
+den Schüler als Kandidat mit der entsprechenden Wunsch-Schulform und Wunsch-Stufe (z.
+B. 01/1) sieht und entsprechend in ihrer UV-Planung berücksichtigen kann.
+Wählen Sie im zweiten Schulhalbjahr der Vorklasse auf der Webseite SCHÜLER >
+KANDIDATENVERFAHREN > ABGÄNGER den entsprechenden Schüler aus.
+Tragen Sie als Freigabedatum den 31.07. des laufenden Schuljahres ein.
+
+Abb. 16 Webseite Abgänger: Auswahl der Abgänger, Eintrag des Freigabedatums
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+10
+
+Klicken Sie unter W-SCHULE auf die Schaltfläche
+
+.
+
+Abb. 17 Webseite Abgäner: Wunsch-Schule hinzufügen
+
+4. Wählen Sie in den Feldern W UNSCH-SCHULE*, W-SF* und W-ST/SEM* die gewünschten
+Einträge aus.
+5. Klicken Sie auf
+
+5.3
+
+und
+
+.
+
+Variante 3: Der Schüler wechselt an eine Schule außerhalb Hessens / an eine
+Privatschule ohne LUSD
+Wechselt ein Schüler, der an Ihrer Schule eine Vorklasse besucht hat, an eine Schule
+außerhalb Hessens oder an eine Privatschule in Hessen, die keine LUSD verwendet,
+müssen Sie ihn in der LUSD zum Ende des Schuljahres auf den Schülerstatus EHEMALIG
+setzen.
+Gehen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG
+und öffnen Sie das Register SCHÜLER.
+Klicken Sie auf den Optionsschalter FREIGEBEN.
+Wählen Sie im Feld SF/BK den Eintrag VG und im Feld ST/SEM den Eintrag 00/2 aus.
+Klicken Sie auf
+
+.
+
+5. Setzen Sie in der Ergebnisliste ein Häkchen vor den entsprechenden Kindern.
+6. Tragen Sie im Feld Freigabedatum den 31.07. des aktuellen Schuljahres ein.
+7. Klicken Sie auf
+8. Klicken Sie auf
+
+.
+.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+11
+
+Abb. 18 Webseite Statusverwaltung: Schüler ehemalig setzen
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+12
+
+Variante 2: Kinder Ihrer Schule besuchen die Vorklasse einer
+anderen Schule
+6
+
+Zurückstellung in die Vorklasse in der LUSD eintragen
+Sobald feststeht, dass ein Kind Ihrer Schule eine Vorklasse besuchen wird, müssen Sie
+die Zurückstellung des Kindes in die Vorklasse auf der Webseite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULFÄHIGKEIT eintragen.
+
+6.1
+
+Register Sprachkenntnisse/Schulfähigkeit
+1. Suchen und übernehmen Sie den betroffenen Schüler in das Register
+SPRACHKENNTNISSE/SCHULFÄHIGKEIT.
+2. Markieren Sie den Datensatz des Schülers und klicken auf
+. Es öffnet sich
+das Bearbeitungsfenster SPRACHKENNTNISSE/SCHULFÄHIGKEIT BEARBEITEN.
+3. Wählen Sie im Feld SCHULFÄHIGKEIT den Eintrag Zurückstellung aus.
+
+Abb. 19 Webseite Schulfähigkeit: Eintragen der Zurückstellung
+
+Hinweis
+Wenn ein Schüler im Register SPRACHKENNTNISSE/SCHULFÄHIGKEIT im Feld
+SCHULFÄHIGKEIT den Eintrag Schulfähig aufweist, wird er nicht im Register
+ZURÜCKSTELLUNG angezeigt!
+4. Klicken Sie auf
+
+6.2
+
+und
+
+.
+
+Register Zurückstellung
+1. Klicken Sie auf das Register ZURÜCKSTELLUNG. Der Datensatz des betroffenen Schülers
+wird in der Ergebnistabelle aufgeführt.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+13
+
+2. Markieren Sie den Datensatz des Schülers und klicken Sie auf
+sich das Bearbeitungsfenster ZURÜCKSTELLUNG BEARBEITEN.
+
+. Es öffnet
+
+3. Wählen Sie in den Felder folgende Einträge aus:
+ Feld ZURÜCKSTELLUNG: Je nach Grund der Zurückstellung in die Vorklasse wählen Sie
+aus der Auswahlliste
+ Vorklasse (Entwicklungsstand HSchG § 58 Abs. 3) oder
+ Vorklasse (deutsche Sprachkenntnisse HSchG § 58 Abs. 6)
+ Feld ANTRAG/ANHÖRUNG DER ELTERN: Datum des Antrags oder der Anhörung der Eltern.
+ Feld ZURÜCKSTELLUNGSBESCHEID: Datum des Zurückstellungsbescheides.
+ Feld SCHULE DER VORKLASSE/INTENSIVKLASSE/DES SCHULISCHEN
+SPRACHKURSES/SCHULISCHEN SPRACHKURSES ORGANISATORISCH IM RAHMEN EINES
+VORLAUFKURSES: Schule, in der die Vorklasse eingerichtet wird.
+ Feld VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)):
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein vorzeitig eingeschulter Schüler im laufenden Schuljahr zurückgestellt
+wird, wählen Sie hier bitte den Eintrag Ja.
+ Feld NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR:
+ Bei Kandidaten ist das Feld deaktiviert.
+ Wenn ein zurückgestellter Schüler nachträglich in das laufende erste Schuljahr
+aufgenommen wird, wählen Sie hier bitte den Eintrag Ja.
+
+Abb. 20 Webseite Schulfähigkeit: Eintragen der Zurückstellung im Register Zurückstellung
+
+4. Klicken Sie auf
+
+und
+
+.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+14
+
+Hinweis
+Welche Schulen können Sie auswählen?
+In der Auswahlliste SCHULE DER VORKLASSE erscheinen die Schulen, die Sie
+auf der Webseite SCHULE > SCHULUMFELD > SCHULEN eingepflegt haben.
+Die Felder
+ VORZEITIGE EINSCHULUNG (GEMÄß VOBGM § 9 (6)) und
+ NACHTRÄGLICHE AUFNAHME IN DAS LAUFENDE ERSTE SCHULJAHR
+können nur bei aktiven oder ehemaligen Schülern bearbeitet werden.
+
+7
+
+Kind an die Schule mit Vorklasse abgeben
+Wenn Ihre Schule keine Vorklasse anbietet, müssen Sie die betroffenen Kinder im
+Kandidatenverfahren an die Schule abgeben, an dem sie die Vorklasse besuchen werden.
+1. Wählen Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN > ABGÄNGER >
+Register K. M. SD-R das entsprechende Kind aus.
+2. Tragen Sie als Freigabedatum den 31.07. des laufenden Schuljahres ein.
+3. Klicken Sie unter W-SCHULE auf die Schaltfläche
+
+.
+
+4. Wählen Sie im Dialogfenster W UNSCH-SCHULE HINZUFÜGEN in der Auswahlliste W UNSCHSCHULE* die gewünschte Schule aus.
+5. Geben Sie die gewünschten Daten ein. In Abhängigkeit der Einträge findet eine
+Validierung und Aktualisierung der Auswahllisten statt. Damit werden falsche
+Kombinationen von Schulform und Stufe verhindert.
+6. Ändern Sie die Priorität auf 1.
+
+Abb. 21 Webseite Abgänger: Wunsch-Schule hinzufügen
+
+7. Klicken Sie auf
+
+.
+
+8. Klicken Sie im folgenden Hinweis auf
+
+.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+15
+
+Abb. 22 Webseite Abgänger: Hinweismeldung
+
+9. Klicken Sie auf
+
+.
+
+Abb. 23 Webseite Abgänger: Anlage des Kandidatenverhältnis
+
+8
+
+Schüler kommen nach Beendigung der Vorklasse an Ihre Schule
+
+8.1
+
+Schüler als Kandidaten annehmen und mit Zieldaten versehen
+Schüler, die an einer anderen Schule an einer Vorklasse teilgenommen haben und danach
+an Ihre Schule wechseln möchten, werden von der anderen Schule über das
+Kandidatenverfahren an Ihre Schule abgegeben.
+Diese Kandidaten bearbeiten Sie auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN.
+1. Wählen Sie die gewünschten Kandidaten über
+2. Klicken Sie auf
+
+AUS.
+
+.
+
+3. Wechseln Sie in das Register K. MIT ZIELDATEN.
+4. Setzen Sie ein Häkchen vor die Schüler, die Sie bearbeiten möchten.
+5. Klicken Sie auf
+
+.
+
+6. Wählen Sie im Dialogfenster ZIELDATEN BEARBEITEN die gewünschten Einträge in den
+Feldern ZIEL-HALBJAHR*, ZIEL-SF/BK* und ZIEL-STUFE/SEM* aus.
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+16
+
+Abb. 24 Webseite Kandidaten bearbeiten: Zielhalbjahr, Zielschulform G und Zielstufe 01/1 eintragen.
+
+8.2
+
+Schüler aktiv setzen
+Sobald die Schüler am Unterricht der Grundschule teilnehmen, setzen Sie diese auf der
+Webseite SCHÜLER > KANDIDATENVERFAHREN > STATUSVERWALTUNG - Register SCHÜLER
+aktiv.
+
+Abb. 25 Webseite Statusverwaltung: Schüler aktiv setzen
+
+HMKB | LUSD | Aufnahme von Schülern in die Vorklasse | Version: 2.4 | Letzter Stand: 08.05.2024
+
+17
+
+9
+
+Übersicht - Kandidatenverhältnis und Schülerstatus eines Schülers
+
+Ein Schüler kann unterschiedliche Beziehungen zu einer oder mehreren Schulen haben. Die nachfolgende Übersicht beschreibt die möglichen
+Schülerstatus eines Schülers an Ihrer Schule und sein mögliches Kandidatenverhältnis zu Ihrer Schule.
+ Ein Schüler hat an Ihrer Schule einen Schülerstatus  die Datenpflege erfolgt auf der Webseite SCHÜLER > SCHÜLERBASISDATEN >
+SCHÜLERSTAMMDATEN.
+ Ein Schüler hat zu Ihrer Schule ein Kandidatenverhältnis  die Datenpflege erfolgt auf der Webseite SCHÜLER > KANDIDATENVERFAHREN >
+KANDIDATEN BEARBEITEN.
+Schülerstatus
+Kandidatenverhältnis
+auf der Webseite
+SCHÜLER > KANDIDATENVERFAHREN > KANDIDATEN
+BEARBEITEN
+
+auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHÜLERSTAMMDATEN
+Kandidat mit SD-R
+
+Kandidat ohne SD-R
+
+Aktiv
+
+Ehemalig
+
+Extern
+
+Der Schüler nimmt
+an Ihrer Schule am
+Unterricht teil.
+
+Der Schüler hat Ihre
+Schule verlassen,
+weil
+
+und
+
+ er an einer
+anderen
+hessischen
+Schule aktiv ist
+ er an einer nichthessischen
+Schule
+unterrichtet wird
+ er die Schullaufbahn beendet hat
+
+Der Schüler ist
+an einer
+anderen hessischen
+Schule aktiv
+
+SD-R = Stammdatenrecht (= Recht die Stammdaten eines Schülers zu bearbeiten)
+
+Der Schüler möchte an
+Ihre Schule wechseln.
+Sie können das Kandidatenverhältnis auf einen der folgenden Einträge setzen:
+
+
+
+
+
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Der Schüler hat an
+Ihrer Schule das Kandidatenverhältnis:
+angenommen
+und ist an keiner
+anderen hessischen
+Schule: aktiv
+oder
+Der Schüler hat einen
+Eintrag zum internen
+Schulformübergang an
+Ihrer Schule (nur in UVPlanungsvariante).
+
+Der Schüler hat zu Ihrer Schule
+ein Kandidatenverhältnis:
+
+
+
+
+
+
+ist Kandidat
+abgelehnt
+auf Warteliste
+angenommen
+desinteressiert
+
+Das Stammdatenrecht liegt bei
+der Schule, an der der Schüler
+aktiv ist
+und
+Der Schüler nimmt noch nicht
+am Unterricht Ihrer Schule teil.
+
+Ihre Schule ist
+verantwortlich für
+die Erstellung und
+Ausgabe von
+Zeugnissen
+(entfällt in der SF
+VG, da hier nach §
+10 (2) VOBGM
+keine Zeugnisse
+erteilt werden).
+
+und
+er besucht
+(zeitlich
+begrenzt)
+Kurs/e an
+Ihrer Schule.
+
+

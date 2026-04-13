@@ -1,0 +1,489 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Nichtversetzung und freiwillige
+Wiederholung
+
+Nichtversetzungen und freiwillige Wiederholungen von Schülerinnen und
+Schülern in der LUSD erfassen.
+
+Version: 1.1
+Letzter Stand: 08.09.2025
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+
+4
+
+Inhalt dieses Dokuments ................................................................................................................4
+Zielgruppe ......................................................................................................................................4
+Vorausgesetzte Kenntnisse ............................................................................................................4
+LUSD-Anwenderunterstützung .......................................................................................................5
+
+Nichtversetzung und freiwillige Wiederholung
+
+6
+
+1
+
+Wiederholungen in der LUSD ................................................................................................6
+
+2
+
+Nichtversetzung ....................................................................................................................6
+
+3
+
+4
+
+2.1
+
+Unterricht > Leistungserfassung > Schüler ...................................................................6
+
+2.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn .............................................................7
+
+Zurückstufung eines Schülers im laufenden Schuljahr ..........................................................8
+3.1
+
+Unterricht > UV-Bearbeitung > Stufenwechsel .............................................................8
+
+3.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn .............................................................8
+
+Wiederholung der ersten Jahrgangstufe eine Schulform .......................................................9
+4.1
+
+Unterricht > Leistungserfassung > Schüler ................................................................. 10
+
+4.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn ........................................................... 10
+
+Abbildungsverzeichnis
+Abb. 1 Webseite Schüler: Versetzung/Eignung
+
+7
+
+Abb. 2 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel Nichtversetzung
+
+7
+
+Abb. 3 Webseite Stufenwechsel: Auswahl der neuen Stufe
+
+8
+
+Abb. 4 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel freiwillige Wiederholung
+
+9
+
+Abb. 5 Webseite Schullaufbahn: Bereich Wiederholungen – Freiwillig angehakt.
+
+9
+
+Abb. 6 Webseite Schüler: Register Versetzung / Eignung – Versetzungseintrag nein
+
+10
+
+Abb. 7 Dialogfenster Wiederholung hinzufügen: Beispielauswahl der Felder
+
+11
+
+Abb. 8 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel Nichtversetzung
+
+11
+
+Allgemeine Hinweise
+Alle verwendeten Personennamen und Leistungsdaten in den Bildschirmfotos sind anonymisiert.
+Tatsächliche Übereinstimmungen sind zufällig und nicht beabsichtigt.
+Die Bildschirm-Ausschnitte dienen lediglich der allgemeinen Darstellung des Sachverhalts und
+können in Inhalt und Schulform von den tatsächlich bei den Benutzern des Programms
+verwendeten Daten abweichen.
+Sämtliche Personenbezeichnungen gelten gleichwohl für alle Geschlechter.
+
+Symbole
+Besondere Information zu Programmbedienung
+Ausdrücklicher Hinweis bei Aktionen, die unerwünschte Wirkungen haben könnten
+Tipp, wie die Arbeit erleichtert werden kann
+
+Typografische Konventionen
+KAPITÄLCHEN
+
+Programm-Element (z.B. Webseite, Schaltfläche, Dialogfenster, Menü,
+Menüpunkt, Tabelle, Pfadangabe etc.)
+
+Kursivschrift
+
+Vom Anwender eingegebener / gewählter Wert
+
+Blau unterstrichen
+
+Link
+
+Fettschrift
+
+Kennzeichnung von wichtigen Elementen in der Anleitung
+
+Rote Fettschrift
+
+Kennzeichnung von besonders wichtigen Elementen in der Anleitung
+
+Grüne Fettschrift
+
+Kennzeichnung von Hinweisen zur Programmbedienung
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+3
+
+Zu diesem Dokument
+Inhalt dieses Dokuments
+Auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER werden vor dem
+Schuljahreswechsel die Versetzungen eingetragen.
+Auf der Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN werden nach dem
+Schuljahreswechsel die daraus resultierenden Wiederholungen angezeigt und können manuell
+bearbeitet oder auch hinzugefügt werden.
+Bei den Wiederholungen kann es sich um Wiederholungen aufgrund einer Nichtversetzung in die
+nächst höhere Jahrgangsstufe oder um freiwillige Wiederholungen handeln.
+Das vorliegende Dokument beschreibt,
+ wie Sie die Nichtversetzung von Schülerinnen und Schülern erfassen.
+ wie Sie die freiwillige Wiederholung von Schülerinnen und Schülern pflegen.
+
+Zielgruppe
+Diese Anleitung richtet sich an alle Anwenderinnen und Anwender, die die Schülerbasisdaten
+pflegen, die Leistungen von Schülerinnen und Schülern erfassen und insbesondere die
+Schullaufbahn pflegen.
+
+Vorausgesetzte Kenntnisse
+Folgende Kenntnisse werden vorausgesetzt und werden daher in dieser Anleitung nicht näher beschrieben:
+Kenntnisse
+
+Anleitungsname
+
+Schulungsname
+
+Basiswissen zur LUSD
+
+Grundlagen
+
+LUSD - Lernen Sie die LUSD
+kennen (Basisschulung)
+
+Wissen zur Bearbeitung
+von Schülerdaten in der
+LUSD
+
+Schülermanagement
+
+LUSD – Schülermanagement.
+
+Wissen zur Bearbeitung
+von Schul- und
+Unterrichtsdaten in der
+LUSD
+
+Schulmanagement
+
+LUSD – Schul- und
+Unterrichtsmanagement
+
+Förderungen
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+4
+
+LUSD-Anwenderunterstützung
+Sollten Sie bei der Anwendung Unterstützung benötigen, gibt es dafür verschiedene Angebote:
+LUSD-Online Hilfe
+Für jede Webseite in der LUSD gibt es die passende Online-Hilfe. Sie erreichen die LUSDHilfe durch einen Klick auf
+
+.
+
+LUSD-Support
+Bei Fragen rund um die LUSD steht ihnen der Helpdesk HKM zur Verfügung:
+
+über das Kontaktformular auf der Seite https://lusdinfo.hessen.de oder
+telefonisch unter +49 611 340 1570.
+LUSD-Anleitungen
+Alle bestehenden Anleitungen zur LUSD finden Sie auf
+www.SchuleHessen.de/lusdanleitungen unter ANLEITUNGEN.
+LUSD-Fortbildung
+LUSD-Grundlagen- und Aufbau-Fortbildungen richten sich sowohl an Anfängerinnen und
+Anfänger, als auch an bereits langjährig Nutzende.
+Eine Übersicht über die anstehenden Fortbildungen finden Sie dort genauso wie auch
+Empfehlungen zur Kurswahl für unsere unterschiedlichen Zielgruppen.
+
+Fortbildungen zur LUSD | Digitale Schule Hessen.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+5
+
+Nichtversetzung und freiwillige Wiederholung
+1
+
+Wiederholungen in der LUSD
+Grundsätzlich lassen sich drei Fälle der Wiederholung einer Jahrgangsstufe
+unterscheiden:
+ Ein Schüler wird zum Schuljahresende nicht in die nächst höhere Klassenstufe versetzt.
+ Ein Schüler wird im 1. oder 2. Halbjahr eines laufenden Schuljahres um ein Jahr
+zurückgestuft im Rahmen einer freiwilligen Wiederholung.
+ Ein Schüler wiederholt freiwillig die Stufe, die die erste Stufe in seiner Schulform ist.
+Hinweis
+Eine Zurückstufung in die vorausgegangene Jahrgangsstufe ist nicht möglich,
+wenn die Stufe eines Schülers die erste seiner Schulform ist. Beispielsweise
+kann ein Schüler, der die 5. Klasse eines Gymnasiums besucht, nicht in die
+4. Klasse einer Grundschule zurückgesetzt werden.
+Die drei Fälle werden in dieser Anleitung in einzelnen Abschnitten gesondert
+beschrieben.
+
+2
+
+Nichtversetzung
+Ein Schüler wird zum Schuljahresende nicht in die nächst höhere Klassenstufe versetzt.
+Die Pflege der Versetzungsdaten erfolgt auf der Webseite UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER.
+Nach dem Schuljahreswechsel werden die auf der WEBSEITE UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER gepflegten Nichtversetzungen automatisch als
+Wiederholung auf die Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN
+übernommen.
+
+2.1
+
+Unterricht > Leistungserfassung > Schüler
+Auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER wird am
+Schuljahresende, zum Beispiel nach den Zeugniskonferenzen, im Bereich
+VERSETZUNG/EIGNUNG die Versetzung gepflegt.
+1. Navigieren Sie zur Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER.
+2. Wählen Sie die gewünschte Schülerin oder den gewünschten Schüler über die
+Schülersuche aus.
+3. Klicken Sie auf
+
+.
+
+4. Öffnen Sie das Register VERSETZUNG/EIGNUNG.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+6
+
+5. Wählen Sie im Feld VERSETZUNG den Eintrag nein.
+6. Klicken Sie auf
+
+.
+
+Abb. 1 Webseite Schüler: Versetzung/Eignung
+
+Hinweis für das folgende Schuljahr:
+ Ordnen Sie die wiederholende Schülerin oder den wiederholenden Schüler
+auf der Webseite UNTERRICHT > UV-BEARBEITUNG > KLASSENBILDUNG der
+jeweiligen neuen Klasse zu.
+ Kontrollieren Sie auf der Seite SCHÜLER-KURSZUORDNUNG die Kurse der
+Schülerin oder des Schülers auf Vollständigkeit und Richtigkeit.
+
+2.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn
+Die auf der Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER gepflegten
+Nichtversetzungen werden nach dem Schuljahreswechsel automatisch als Wiederholung
+auf die Seite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN übernommen.
+Folgende Eintragungen werden nach dem Schuljahreswechsel auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULLAUFBAHN angezeigt (Beispielfall):
+
+Abb. 2 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel Nichtversetzung
+
+2.2.1 Erläuterung des Beispielfall:
+Dieser Eintrag wird nach folgendem Fall angezeigt:
+ Ein Schüler besuchte im Schuljahr 2021/2022 in der Schulform Realschule (R) die 7.
+Klasse.
+ Er wurde zum Ende der 07/2 nicht in die Klasse 8 versetzt. Daher wiederholt der
+Schüler im Schuljahr 2022/2023 die Jahrgangsstufe 7. Der Schüler verbleibt in der
+Schulform R.
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+7
+
+ Auf der Webseite SCHULLAUFBAHN wird für den Schüler im neuen Schuljahr im Bereich
+WIEDERHOLUNGEN der in Abb. 2 dargestellte Eintrag angezeigt.
+
+3
+
+Zurückstufung eines Schülers im laufenden Schuljahr
+Ein Schüler wird im laufenden Schuljahr (1. oder 2. Halbjahr) im Rahmen einer freiwilligen
+Wiederholung zurückgestuft.
+Die Zurückstufung erfolgt manuell auf der Webseite UNTERRICHT > UV-BEARBEITUNG >
+STUFENWECHSEL.
+Der Wiederholungseintrag erfolgt automatisiert am Folgetag auf der Webseite SCHÜLER
+> SCHÜLERBASISDATEN > SCHULLAUFBAHN.
+
+3.1
+
+Unterricht > UV-Bearbeitung > Stufenwechsel
+1. Navigieren Sie zur Webseite UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL.
+2. Wählen Sie den/die gewünschte/n Schüler über die Mehrfach- oder Einzelauswahl aus.
+3. Wählen Sie für jeden Schüler im Feld ST/SEM NEU die gewünschte neue Stufe.
+4. Klicken Sie auf
+
+.
+
+Abb. 3 Webseite Stufenwechsel: Auswahl der neuen Stufe
+
+5. Bestätigen Sie den Stufenwechsel in der Hinweismeldung durch Klick auf
+
+.
+
+Hinweis für nach den Stufenwechsel:
+ Ordnen Sie die Schülerin oder den Schüler auf der Webseite UNTERRICHT
+> UV-BEARBEITUNG > KLASSENBILDUNG der jeweiligen neuen Klasse zu.
+ Kontrollieren Sie auf der Seite SCHÜLER-KURSZUORDNUNG die Kurse der
+Schülerin oder des Schülers auf Vollständigkeit und Richtigkeit
+
+3.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn
+Der auf der Webseite UNTERRICHT > UV-BEARBEITUNG > STUFENWECHSEL vorgenommene
+Stufenwechsel führt automatisiert am Folgetag zu einem Wiederholungseintrag auf der
+Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+8
+
+Folgende Eintragungen werden auf der Webseite SCHULLAUFBAHN angezeigt, für einen
+Schüler, der um ein Schuljahr zurückgestuft wurde (Beispielfall):
+
+Abb. 4 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel freiwillige Wiederholung
+
+3.2.1 Erläuterung des Beispielfall:
+Dieser Eintrag wird nach folgendem Fall angezeigt:
+ Ein Schüler besucht im Schuljahr 2022/2023 in der Schulform Realschule (R) die 7.
+Klasse.
+ Er wird im Laufe des 2. Halbjahres in die Klasse 6 zurückgestuft.
+ Daher wiederholt der Schüler im Schuljahr 2023/2024 die Jahrgangsstufe 7. Der
+Schüler verbleibt in der Schulform R.
+ Auf der Webseite SCHULLAUFBAHN wird für den Schüler im neuen Schuljahr im Bereich
+WIEDERHOLUNGEN der in Abb. 4 dargestellte Eintrag angezeigt.
+Achtung
+Der Haken im Kontrollkästchen FREIWILLIG wird nicht automatisch gesetzt!
+1. Markieren Sie den Datensatz.
+2. Klicken Sie auf
+
+.
+
+3. Klicken Sie in das Kontrollkästchen FREIWILLIG.
+4. Klicken Sie auf
+5. Klicken Sie auf
+
+.
+.
+
+Die Wiederholung des Schülers ist nun als freiwillig gekennzeichnet.
+
+Abb. 5 Webseite Schullaufbahn: Bereich Wiederholungen – Freiwillig angehakt.
+
+4
+
+Wiederholung der ersten Jahrgangstufe eine Schulform
+Ein Schüler wiederholt freiwillig die Stufe, die die erste Stufe seiner Schulform ist.
+Die Pflege der Versetzungsdaten erfolgt auf der Webseite UNTERRICHT >
+LEISTUNGSERFASSUNG > SCHÜLER (siehe Kapitel 1.3.1).
+Sie können anschließend schon vor dem Schuljahreswechsel auf der Webseite SCHÜLER
+> SCHÜLERBASISDATEN > SCHULLAUFBAHN die freiwillige Wiederholung eintragen (siehe
+Kapitel 1.3.2).
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+9
+
+4.1
+
+Unterricht > Leistungserfassung > Schüler
+1. Navigieren Sie zur Webseite UNTERRICHT > LEISTUNGSERFASSUNG > SCHÜLER.
+2. Wählen Sie die gewünschte Schülerin oder den gewünschten Schüler über die
+SCHÜLERSUCHE aus.
+3. Klicken Sie auf
+
+.
+
+4. Öffnen Sie das Register VERSETZUNG/EIGNUNG.
+5. Wählen Sie im Bereich VERSETZUNG den Eintrag nein.
+6. Klicken Sie auf
+
+.
+
+Hinweis
+Die Auswahl des Eintrags nein im Feld VERSETZUNG ist technisch bedingt.
+Die Freiwilligkeit der Wiederholung wird später auf der Seite SCHÜLER >
+SCHÜLERBASISDATEN > SCHULLAUFBAHN gekennzeichnet
+
+Abb. 6 Webseite Schüler: Register Versetzung/Eignung – Versetzungseintrag nein
+
+4.2
+
+Schüler > Schülerbasisdaten > Schullaufbahn
+1. Navigieren Sie zur Webseite SCHÜLER > SCHÜLERBASISDATEN > SCHULLAUFBAHN.
+2. Wählen Sie die gewünschte Schülerin oder den gewünschten Schüler über die
+SCHÜLERSUCHE aus.
+3. Klicken Sie auf
+
+.
+
+4. Klicken Sie im Bereich WIEDERHOLUNGEN auf
+
+.
+
+Es öffnet sich das Dialogfenster WIEDERHOLUNG HINZUFÜGEN.
+5. Wählen Sie im Feld SCHULFORM die Schulform des kommenden Schuljahrs aus.
+6. Wählen Sie als Stufe die wiederholte Stufe aus.
+7. Wählen Sie als Halbjahr das erste Halbjahr des kommenden Schuljahres.
+8. Setzen Sie im Kontrollkästchen FREIWILLIG einen Haken.
+9. Klicken Sie auf
+
+und auf
+
+.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+10
+
+Abb. 7 Dialogfenster Wiederholung hinzufügen: Beispielauswahl der Felder
+
+Hinweis
+Nach dem Schuljahreswechsel erkennt die LUSD, dass kein weiterer
+(automatisierter) Wiederholungseintrag nötig ist.
+Folgende Eintragungen werden auf der Webseite SCHULLAUFBAHN angezeigt, für einen
+Schüler, der nicht in das nächste Schuljahr versetzt wird (Beispielfall):
+
+Abb. 8 Webseite Schullaufbahn: Bereich Wiederholungen – Beispiel Nichtversetzung
+
+4.2.1 Erläuterung des Beispielfall:
+Dieser Eintrag wird nach folgendem Fall angezeigt:
+ Ein Schüler besucht im Schuljahr 2022/2023 in der Schulform Gymnasium (GYM) die 5.
+Klasse.
+ Im 2. Halbjahr der Stufe 05 (05/2) wurde eine Wiederholung im kommenden
+Schuljahr auf freiwilliger Basis eingetragen.
+ Daher wiederholt der Schüler im Schuljahr 2023/2024 die Jahrgangsstufe 5. Der
+Schüler soll in der Schulform GYM verbleiben.
+ Auf der Webseite SCHULLAUFBAHN wird für den Schüler im neuen Schuljahr im Bereich
+WIEDERHOLUNGEN der in Abb. 8 dargestellte Eintrag angezeigt.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+11
+
+Hinweis für das folgende Schuljahr:
+ Ordnen Sie den Wiederholer auf der Webseite UNTERRICHT > UVBEARBEITUNG > KLASSENBILDUNG der entsprechenden neuen Klasse zu.
+ Kontrollieren Sie auf der Seite SCHÜLER-KURSZUORDNUNG die Kurse der
+Schülerin oder des Schülers auf Vollständigkeit und Richtigkeit.
+
+Hessisches Kultusministerium | LUSD | Nichtversetzung und freiwillige Wiederholung | Version: 1.1 | 08.09.2025
+
+12
+
+

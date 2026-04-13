@@ -1,0 +1,118 @@
+Hessisches Ministerium
+für Kultus, Bildung und Chancen
+
+LUSD
+
+Webseite Datenaustauschverwaltung
+Funktionen und Bedienung der Webseite
+
+1
+
+Anlass
+Aus Gesprächen mit der Datenschutzbehörde haben sich in Bezug auf den Austausch von
+LUSD-Daten mit Fremdsystemen folgende Anforderungen an die LUSD ergeben:
+▪ Die Schulen sollen in der LUSD selbst festlegen können, mit welchen (freigegebenen)
+Fremdsystemen sie LUSD-Daten austauschen wollen.
+▪ Da die Schulleitungen die Verantwortung für die LUSD-Daten ihrer Schule tragen,
+sollen sie ihre Entscheidung für deren Austausch mit Fremdsystemen in der LUSD
+dokumentieren können.
+Zu diesem Zweck wurde in der LUSD die neue Webseite Datenaustauschverwaltung
+angelegt.
+
+2
+
+Aufruf und Funktion der Webseite Datenaustauschverwaltung
+Die Webseite DATENAUSTAUSCHVERWALTUNG finden Sie unter dem Menüpunkt
+DATENAUSTAUSCH.
+Hinweis
+Den Menüpunkt Datenaustausch sehen Sie nur dann, wenn Ihr Benutzerprofil
+die Elementarrolle Bearbeiter/in Datenaustauschverwaltung enthält.
+Das ist initial für Benutzer mit dem Profil Schulleiter/in der Fall.
+
+Abb. 1 Webseite Benutzerprofil: Elementarrolle Bearbeiter Datenaustauschverwaltung
+
+HMKB | LUSD | Webseite Datenaustauschverwaltung | Version: 1.0 | 01.09.2025
+
+1
+
+Abb. 2 Webseite Datenaustauschverwaltung: Neue Webseite
+
+Alle auf der Webseite DATENAUSTAUSCHVERWALTUNG in den jeweiligen Registern aktiv
+gesetzten Austauschpartner (Schnittstellen), können Sie danach auf der Webseite
+DATENAUSTAUSCH > EXPORT / IMPORT > STUNDENPLAN (ALT) / LITTERA bzw.
+DATENAUSTAUSCH > EXPORT / IMPORT > STUNDENPLAN 2.0 EXPORT nutzen.
+Hinweis
+Ohne Aktivierung erscheinen die Programme nicht auf den Seiten
+DATENAUSTAUSCH > EXPORT / IMPORT > STUNDENPLAN (ALT) / LITTERA bzw.
+DATENAUSTAUSCH > EXPORT / IMPORT > STUNDENPLAN 2.0 EXPORT. Die
+Aktivierung muss nur einmal vorgenommen werden.
+
+Abb. 3 Webseite Stundenplan (alt) / Littera: Leere Programmauswahl-Liste
+
+3
+
+Inhalte der Webseite Datenaustauschverwaltung
+Die Webseite Datenaustauschverwaltung enthält aktuell folgende Register (Abb. 4)
+▪ STUNDENPLANUNG ALT
+▪ BÜCHEREIVERWALTUNG ALT
+▪ ADMINISTRATION PÄD. VERWALTUNG ALT
+▪ ADMINISTRATION PÄD. VERWALTUNG NEU
+
+HMKB | LUSD | Webseite Datenaustauschverwaltung | Version: 1.0 | 01.09.2025
+
+2
+
+Abb. 4 Webseite Datenaustauschverwaltung: Register
+
+In jedem Register finden Sie die jeweiligen, aktuell zum Datenaustausch mit der LUSD
+möglichen Austauschpartner (Schnittstellen).
+Ist in der Spalte AKTIVIERUNG DURCH SCHULE ein Häkchen gesetzt, können Sie diesen
+Austauschpartner für Ihre Schule aktivieren.
+Informationen zu einem Austauschpartner erhalten Sie, indem Sie in der Spalte
+INFORMATIONEN auf das Schaltsymbol
+OK schließen Sie das Dialogfenster.
+
+klicken (Abb. 5). Mit Klick auf die Schaltfläche
+
+Abb. 5 Dialogfenster Informationen: Informationen zum Austauschpartner edunite 2.0 (Beispiel)
+
+HMKB | LUSD | Webseite Datenaustauschverwaltung | Version: 1.0 | 01.09.2025
+
+3
+
+4
+
+Aktivierung eines Austauschpartners (Schnittstelle)
+1. Klicken Sie auf das entsprechende Register, zu dem Sie einen Austauschpartner
+(Schnittstelle) aktivieren möchten (Abb. 6).
+
+Abb. 6 Webseite Datenaustauschverwaltung: Registerstruktur
+
+2. Setzen Sie in der Spalte AKTIV ein Häkchen für den Austauschpartner, den Sie
+aktivieren möchten. Hierdurch öffnet sich ein Hinweisfenster.
+
+Abb. 7 Webseite Datenaustauschverwaltung: Hinweismeldung
+
+3. Klicken Sie auf die Schaltfläche FORTFAHREN, um die Erfüllung der
+datenschutzrelevanten Voraussetzungen zu bestätigen.
+4. Im Feld GEÄNDERT DURCH sehen Sie, welcher LUSD-Nutzer die Aktivierung
+vorgenommen hat. Im Feld ZULETZT GEÄNDERT sehen Sie, wann dieser Nutzer die
+Änderung vorgenommen hat.
+
+Abb. 8 Webseite Datenaustauschverwaltung: Eintrag des Datums und des LUSD-Nutzers
+HMKB | LUSD | Webseite Datenaustauschverwaltung | Version: 1.0 | 01.09.2025
+
+4
+
+5. Bestätigen Sie die Aktivierung durch Klick auf
+.
+Die so aktivierten Austauschpartner (Schnittstellen) können Sie nun auf der Webseite
+UNTERRICHT > EXPORT / IMPORT > STUNDENPLAN / LITTERA nutzen.
+
+Abb. 9 Webseite Stundenplan / Littera: Aktivierter Austauschpartner (Schnittstelle) edunite 2.0
+
+HMKB | LUSD | Webseite Datenaustauschverwaltung | Version: 1.0 | 01.09.2025
+
+5
+
+
