@@ -145,12 +145,24 @@ Die LUSD ist über 20 Jahre gewachsen, wird kontinuierlich weiterentwickelt (3�
 
 Die Weiterentwicklung der LUSD läuft über **Azure DevOps**. Der Prozess:
 
-1. Mitarbeitende des Referats schreiben **Anwendungsanforderungen (AWA)** — strukturierte fachliche Beschreibungen dessen, was die Anwendung künftig können soll
+1. Mitarbeitende des Referats schreiben **Anwendungsanforderungen (AWA)** in Azure DevOps — strukturierte fachliche Beschreibungen dessen, was die Anwendung künftig können soll. Format und Qualität variieren je nach Team.
 2. AWAs dienen als Grundlage für die Entwicklerinnen und Entwickler
-3. Aus umgesetzten AWAs entsteht (manuell) die **Verfahrensdokumentation**
-4. Aus der Verfahrensdokumentation entstehen (manuell) die **Anwenderhilfen** für Lehrkräfte und Schulleitungen
+3. Pro AWA wird **manuell ein Testfall** erstellt und manuell abgearbeitet
+4. Aus umgesetzten AWAs entsteht (manuell) die **Verfahrensdokumentation** — als PDF gespeichert, durch Menschen aktualisiert
+5. Aus der Verfahrensdokumentation entstehen (manuell) die **Anwenderhilfen** für Lehrkräfte und Schulleitungen
 
-Ein erheblicher Teil der Referat-Kapazität fließt in diese Prozesskette. Jede AWA-Änderung zieht manuelle Nachpflege in Dokumentation und Hilfen nach sich.
+**Bekannte Schwachstellen im aktuellen Prozess:**
+
+| Problem | Auswirkung |
+|---|---|
+| Testfälle werden manuell erstellt und abgearbeitet | Sehr fehleranfällig und aufwändig |
+| Fehler im Testfall erfordern auch AWA-Anpassung | Hoher Rückkopplungsaufwand |
+| Viele Fehler werden durch Testfälle nicht abgedeckt | Qualitätsrisiko bei Releases |
+| Verfahrensdoku wird manuell aktualisiert | Verzögerungen, Inkonsistenzen |
+| AWA-Format variiert je nach Team | Uneinheitliche Qualität als Entwicklungsgrundlage |
+| KI wird im Referat noch nicht eingesetzt | Ungenutztes Effizienzpotenzial |
+
+Ein erheblicher Teil der Referat-Kapazität fließt in diese Prozesskette. Jede AWA-Änderung zieht manuelle Nachpflege in Dokumentation, Testfällen und Hilfen nach sich.
 
 ---
 
@@ -170,9 +182,9 @@ Ein erheblicher Teil der Referat-Kapazität fließt in diese Prozesskette. Jede 
 
 ### 6.2 Testfall-Generator
 
-**Problem:** Aus jeder AWA müssen Testfälle abgeleitet werden. Das geschieht heute manuell und ist fehleranfällig.
+**Problem:** Pro AWA wird manuell ein Testfall erstellt und manuell abgearbeitet. Das ist fehleranfällig in beide Richtungen: Fehler im Testfall erfordern auch AWA-Anpassungen, und viele Fehler werden durch die Testfälle gar nicht abgedeckt. Das gefährdet die Release-Qualität.
 
-**Lösung:** Ein KI-Agent der aus einer fertigen AWA automatisch Testfälle generiert — Normalfall, Sonderfall, Fehlerfall. Grundlage für strukturiertes Testen oder spätere Testautomatisierung.
+**Lösung:** Ein KI-Agent der aus einer fertigen AWA systematisch Testfälle generiert — Normalfall, Sonderfall, Fehlerfall, Grenzfall. Die Vollständigkeit ist strukturell höher als bei manueller Erstellung. Grundlage für strukturiertes Testen und perspektivisch für Testautomatisierung.
 
 **Wissensbasis:** AWA, LUSD-Prozessbeschreibungen, bestehende Testfälle als Muster
 
