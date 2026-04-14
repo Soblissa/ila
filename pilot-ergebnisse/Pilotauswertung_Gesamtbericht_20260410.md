@@ -534,7 +534,20 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 
 ### 2.1 Was wir wissen
 
-#### 2.1.1 Bewertungen
+#### 2.1.1 Geräteverteilung
+
+Aus dem Feedback-Sheet lässt sich ableiten, welche Geräte beim Geben von Feedback verwendet wurden:
+
+| Gerät | Anzahl | Anteil |
+|---|---|---|
+| PC/Desktop (Windows) | 22 | 69% |
+| iPhone | 6 | 19% |
+| Mac Desktop | 3 | 9% |
+| Android | 1 | 3% |
+
+**Befund:** Fast 80% der Rückmeldungen kamen vom Desktop — typisch für den schulischen Bürokontext. Rund 22% kamen vom Smartphone (iPhone/Android). Das bestätigt Desktop-First als richtige Designpriorität, aber Mobile darf nicht vernachlässigt werden.
+
+#### 2.1.2 Bewertungen
 
 - **32 Feedback-Einträge** insgesamt
 - **20 mit Stern-Bewertung (1–5)** | 12 ohne Rating
@@ -562,7 +575,7 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 | Förderziel | — | 2 | 3,00 |
 | **Gesamt** | | **20** | **2,70** |
 
-#### 2.1.2 Alle 27 Freitexte
+#### 2.1.3 Alle 27 Freitexte
 
 | # | Seite | Schritt | Rating | Freitext |
 |---|---|---|---|---|
@@ -594,9 +607,9 @@ Annäherungsweise berechenbar: Median 7 Minuten, 57% unter 10 Minuten. Was in di
 | 26 | Förderakte | — | — | Es fehlt aus meiner Sicht Lesetempo/flüssiges Lesen |
 | 27 | Förderplan | — | — | Förderpläne sind leicht zu erstellen, informativ und kurz |
 
-#### 2.1.3 Thematische Cluster
+#### 2.1.4 Thematische Cluster
 
-##### 2.1.3.1 Unterstützer-Feld zu eingeschränkt
+##### 2.1.4.1 Unterstützer-Feld zu eingeschränkt
 
 Nur Vater/Mutter auswählbar (6 Nennungen). BFZ, Ergotherapie, Logopädie, andere Lehrkräfte, Geschwister, Mitschüler fehlen. Pflichtfeld blockiert zusätzlich das Speichern (1 Nennung).
 
@@ -607,7 +620,7 @@ Nur Vater/Mutter auswählbar (6 Nennungen). BFZ, Ergotherapie, Logopädie, ander
 - [21] *„Die Maßnahme auch speichern können, wenn ich keine Unterstützer benenne. Im Moment muss ich auf den Unterstützer klicken, sonst kann ich nicht weitermachen."*
 - [23] *„Ich hätte gerne die BFZ-Kraft als Unterstützerin eingefügt."*
 
-##### 2.1.3.2 Maßnahmen zu unkonkret, lückenhaft, falsche Ebene
+##### 2.1.4.2 Maßnahmen zu unkonkret, lückenhaft, falsche Ebene
 
 Maßnahmen wirken wie Ziele (8 Nennungen). Fehlende Inhalte: Vorklasse, Klasse 1, Buchstaben-Laut-Ebene, Lesegeschwindigkeit, Arbeit-/Sozialverhalten, LRS, DaZ. Nur 3 Maßnahmen zur Auswahl (1 Nennung).
 
@@ -620,7 +633,7 @@ Maßnahmen wirken wie Ziele (8 Nennungen). Fehlende Inhalte: Vorklasse, Klasse 1
 - [25] *„Bei der Operation im Zahlenraum bis 100 gab es keine passende Förderung."*
 - [26] *„Es fehlt aus meiner Sicht Lesetempo/flüssiges Lesen."*
 
-##### 2.1.3.3 Keine Bearbeitungsmöglichkeit nach Speichern
+##### 2.1.4.3 Keine Bearbeitungsmöglichkeit nach Speichern
 
 Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar (3 Nennungen).
 
@@ -628,7 +641,7 @@ Einmal gespeicherte Ziele, Maßnahmen und Pläne nicht mehr editierbar (3 Nennun
 - [11] *„Leider kann ich den Plan im Nachhinein nicht mehr bearbeiten."*
 - [22] *„Hier würde ich die Maßnahme gerne löschen, funktioniert aber nicht."*
 
-##### 2.1.3.4 Fehlende Förderbereiche und Anlässe
+##### 2.1.4.4 Fehlende Förderbereiche und Anlässe
 
 Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erkrankung fehlend (3 Nennungen).
 
@@ -636,14 +649,14 @@ Lernverhalten, Sozialverhalten, Vorklasse, LRS, AD(H)S, Autismus, chronische Erk
 - [16] *„Keine Förderziele für Arbeit- und Sozialverhalten."*
 - [17] *„Bei den Anlässen fehlt LRS, RS, VM Lernen, chronische Erkrankung, Autismus, AD(H)S etc."*
 
-##### 2.1.3.5 Bedienbarkeit OK, Inhalt nicht
+##### 2.1.4.5 Bedienbarkeit OK, Inhalt nicht
 
 Navigation intuitiv — einziger durchgehender Pluspunkt (2 Nennungen). Fachlicher Inhalt enttäuscht (2 Nennungen).
 
 - [12] *„Zurechtgefunden habe ich mich gut in der Anwendung. Allerdings empfinde ich die Möglichkeiten viel zu eingeschränkt … Mein Fazit fällt daher leider sehr ernüchternd aus."* (Marion Neff)
 - [17] *„Ich finde die Handhabung sehr intuitiv und leicht, das ist sehr gelungen!!"* (Claudia Gernand)
 
-##### 2.1.3.6 Weitere Einzelpunkte
+##### 2.1.4.6 Weitere Einzelpunkte
 
 - [1] Förderung löschen / Kind „auf Null setzen" nicht möglich
 - [6] Förderplan-Layout unbeliebt
