@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    { "id": "titel", "type": "TEXT", "label": "ILA — Gesamtflow Ist-Stand (Pilotversion)", "x": 50, "y": 20, "fontSize": 22 },
+
+    { "id": "legende_titel", "type": "TEXT", "label": "LEGENDE", "x": 50, "y": 80, "fontSize": 11 },
+    { "id": "legende_screen", "type": "ROUNDED_RECTANGLE", "label": "Screen\n(eigene Seite)", "x": 50, "y": 110, "width": 160, "height": 55, "fillColor": "blue", "textColor": "white" },
+    { "id": "legende_modal", "type": "PARALLELOGRAM", "label": "Modal\n(Popup)", "x": 230, "y": 110, "width": 160, "height": 55, "fillColor": "blue", "textColor": "white" },
+    { "id": "legende_entscheidung", "type": "DIAMOND", "label": "Entscheidung", "x": 410, "y": 110, "width": 160, "height": 55, "fillColor": "orange", "textColor": "white" },
+    { "id": "legende_abschluss", "type": "ROUNDED_RECTANGLE", "label": "Abschluss", "x": 590, "y": 110, "width": 160, "height": 55, "fillColor": "green", "textColor": "white" },
+    { "id": "legende_eskalation", "type": "ROUNDED_RECTANGLE", "label": "Eskalation", "x": 770, "y": 110, "width": 160, "height": 55, "fillColor": "red", "textColor": "white" },
+    { "id": "legende_hilfe", "type": "ROUNDED_RECTANGLE", "label": "Hilfsfunktion", "x": 950, "y": 110, "width": 160, "height": 55, "fillColor": "gray", "textColor": "white" },
+    { "id": "legende_fp", "type": "ROUNDED_RECTANGLE", "label": "Förderplan", "x": 1130, "y": 110, "width": 160, "height": 55, "fillColor": "purple", "textColor": "white" },
+
+    { "id": "label_col1", "type": "TEXT", "label": "EINSTIEG", "x": 50, "y": 240, "fontSize": 12 },
+    { "id": "label_col2", "type": "TEXT", "label": "NEUE FÖRDERUNG", "x": 450, "y": 240, "fontSize": 12 },
+    { "id": "label_col3", "type": "TEXT", "label": "FÖRDERAKTE", "x": 1050, "y": 240, "fontSize": 12 },
+    { "id": "label_col4", "type": "TEXT", "label": "FÖRDERZIEL & BEARBEITUNG", "x": 1450, "y": 240, "fontSize": 12 },
+    { "id": "label_col5", "type": "TEXT", "label": "ABSCHLUSS", "x": 2000, "y": 240, "fontSize": 12 },
+
+    { "id": "start", "type": "ELLIPSE", "label": "Lehrkraft\nöffnet ila", "x": 50, "y": 280, "width": 200, "height": 80, "fillColor": "darkBlue", "textColor": "white" },
+    { "id": "dashboard", "type": "ROUNDED_RECTANGLE", "label": "Startseite\nSchülerübersicht", "x": 50, "y": 440, "width": 220, "height": 80, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "wizard_neue_foerderung", "type": "PARALLELOGRAM", "label": "Modal Wizard\nNeue Förderung\n(3 Schritte)", "x": 450, "y": 280, "width": 240, "height": 90, "fillColor": "blue", "textColor": "white" },
+    { "id": "w_schritt1", "type": "PARALLELOGRAM", "label": "Schritt 1\nSchüler suchen", "x": 450, "y": 440, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "w_schritt2", "type": "PARALLELOGRAM", "label": "Schritt 2\nAnlass wählen", "x": 450, "y": 580, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "w_schritt3", "type": "PARALLELOGRAM", "label": "Schritt 3\nZusammenfassung", "x": 450, "y": 720, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "foerderakte", "type": "ROUNDED_RECTANGLE", "label": "Förderakte\nSchülerübersicht", "x": 1050, "y": 280, "width": 240, "height": 80, "fillColor": "blue", "textColor": "white" },
+    { "id": "foerderplan", "type": "ROUNDED_RECTANGLE", "label": "Förderplan\nerstellen / anzeigen", "x": 1050, "y": 440, "width": 240, "height": 70, "fillColor": "purple", "textColor": "white" },
+    { "id": "modal_fp_ziele", "type": "PARALLELOGRAM", "label": "Modal\nFörderziele zuordnen", "x": 1050, "y": 580, "width": 240, "height": 70, "fillColor": "purple", "textColor": "white" },
+    { "id": "notizen", "type": "ROUNDED_RECTANGLE", "label": "Notizen\n(Hilfsfunktion)", "x": 1050, "y": 720, "width": 240, "height": 70, "fillColor": "gray", "textColor": "white" },
+
+    { "id": "stepper_fz", "type": "PARALLELOGRAM", "label": "Modal Stepper\nFörderziel hinzufügen\n(3 Schritte)", "x": 1450, "y": 280, "width": 240, "height": 90, "fillColor": "blue", "textColor": "white" },
+    { "id": "fz_s1", "type": "PARALLELOGRAM", "label": "Schritt 1\nFörderbereich", "x": 1450, "y": 440, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "fz_s2", "type": "PARALLELOGRAM", "label": "Schritt 2\nLernausgangslage", "x": 1450, "y": 580, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "fz_s3", "type": "PARALLELOGRAM", "label": "Schritt 3\nZusammenfassung", "x": 1450, "y": 720, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "fz_detail", "type": "ROUNDED_RECTANGLE", "label": "Förderziel\nMaßnahmen & Verlauf", "x": 1450, "y": 860, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "modal_notiz", "type": "PARALLELOGRAM", "label": "Modal\nNotiz erfassen", "x": 1450, "y": 1000, "width": 240, "height": 70, "fillColor": "gray", "textColor": "white" },
+    { "id": "modal_eval", "type": "PARALLELOGRAM", "label": "Modal\nFörderziel evaluieren", "x": 1450, "y": 1140, "width": 240, "height": 70, "fillColor": "blue", "textColor": "white" },
+    { "id": "entscheidung", "type": "DIAMOND", "label": "Entscheidung\nnach Evaluation", "x": 1450, "y": 1280, "width": 240, "height": 90, "fillColor": "orange", "textColor": "white" },
+
+    { "id": "weiterfoerdern", "type": "ROUNDED_RECTANGLE", "label": "Weiterfördern\n(neue Runde)", "x": 2000, "y": 280, "width": 220, "height": 70, "fillColor": "green", "textColor": "white" },
+    { "id": "abschliessen", "type": "ROUNDED_RECTANGLE", "label": "Förderung\nabschließen", "x": 2000, "y": 430, "width": 220, "height": 70, "fillColor": "green", "textColor": "white" },
+    { "id": "eskalieren", "type": "ROUNDED_RECTANGLE", "label": "Eskalieren\nBSLRR / VM / SOPÄDFÖ", "x": 2000, "y": 580, "width": 220, "height": 70, "fillColor": "red", "textColor": "white" }
+  ],
+  "connectors": [
+    { "from": "start", "to": "dashboard" },
+    { "from": "dashboard", "to": "wizard_neue_foerderung" },
+    { "from": "dashboard", "to": "foerderakte" },
+    { "from": "wizard_neue_foerderung", "to": "w_schritt1" },
+    { "from": "w_schritt1", "to": "w_schritt2" },
+    { "from": "w_schritt2", "to": "w_schritt3" },
+    { "from": "w_schritt3", "to": "foerderakte" },
+    { "from": "foerderakte", "to": "foerderplan" },
+    { "from": "foerderplan", "to": "modal_fp_ziele" },
+    { "from": "foerderakte", "to": "notizen" },
+    { "from": "foerderakte", "to": "stepper_fz" },
+    { "from": "stepper_fz", "to": "fz_s1" },
+    { "from": "fz_s1", "to": "fz_s2" },
+    { "from": "fz_s2", "to": "fz_s3" },
+    { "from": "fz_s3", "to": "fz_detail" },
+    { "from": "fz_detail", "to": "modal_notiz" },
+    { "from": "fz_detail", "to": "modal_eval" },
+    { "from": "modal_eval", "to": "entscheidung" },
+    { "from": "entscheidung", "to": "weiterfoerdern" },
+    { "from": "entscheidung", "to": "abschliessen" },
+    { "from": "entscheidung", "to": "eskalieren" }
+  ]
+}
