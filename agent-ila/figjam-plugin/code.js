@@ -49,7 +49,7 @@ async function buildFlow(spec) {
 
       } else if (node.type === 'TEXT') {
         shape = figma.createText();
-        await figma.loadFontAsync({ family: 'Inter', style: 'Bold' });
+        for (const s of ['Regular','Medium','SemiBold','Bold']) { try { await figma.loadFontAsync({ family: 'Inter', style: s }); } catch(e) {} }
         shape.characters = node.label || '';
         shape.fontSize = node.fontSize || 14;
         shape.x = node.x || 0;
@@ -66,7 +66,7 @@ async function buildFlow(spec) {
         shape.y = node.y || 0;
 
         // Text
-        await figma.loadFontAsync({ family: 'Inter', style: 'Bold' });
+        for (const s of ['Regular','Medium','SemiBold','Bold']) { try { await figma.loadFontAsync({ family: 'Inter', style: s }); } catch(e) {} }
         shape.text.characters = node.label || '';
         shape.text.fontSize = node.fontSize || 13;
 
