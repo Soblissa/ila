@@ -1,0 +1,25 @@
+{
+  "screen_name": "Foerderplan_Initial_v2",
+  "page": "Agent-Entwürfe",
+  "size": "desktop",
+  "components": [
+    {
+      "component_id": "58:24478",
+      "name": "Navigation Bar Main",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "component_id": "116:83187",
+      "name": "Navigation Bar Content",
+      "x": 240,
+      "y": 0
+    },
+    {
+      "component_id": "58:24530",
+      "name": "Page Heading Plan",
+      "x": 240,
+      "y": 64
+    }
+  ]
+}
