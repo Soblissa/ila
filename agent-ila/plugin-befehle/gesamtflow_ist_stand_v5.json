@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    { "id": "legende_screen",    "type": "ROUNDED_RECTANGLE", "label": "Screen (eigene Seite)",      "x": 50,   "y": 30,  "width": 260, "height": 55, "fillColor": "blue",     "textColor": "white" },
+    { "id": "legende_modal",     "type": "ROUNDED_RECTANGLE", "label": "Modal (Popup / Schritt)",    "x": 330,  "y": 30,  "width": 260, "height": 55, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "legende_abschluss", "type": "ROUNDED_RECTANGLE", "label": "Abschluss",                  "x": 610,  "y": 30,  "width": 200, "height": 55, "fillColor": "green",    "textColor": "white" },
+
+    { "id": "startseite",        "type": "ROUNDED_RECTANGLE", "label": "Startseite\nSchülerübersicht & Willkommen",      "x": 50,   "y": 150, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_schueler",        "type": "ROUNDED_RECTANGLE", "label": "Modal: Schüler suchen",                          "x": 430,  "y": 110, "width": 280, "height": 65, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_anlass",          "type": "ROUNDED_RECTANGLE", "label": "Modal: Anlass wählen",                           "x": 430,  "y": 200, "width": 280, "height": 65, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bestaetigung",    "type": "ROUNDED_RECTANGLE", "label": "Modal: Auswahl bestätigen",                      "x": 430,  "y": 290, "width": 280, "height": 65, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte_leer",  "type": "ROUNDED_RECTANGLE", "label": "Förderakte\n(noch keine Ziele)",                 "x": 800,  "y": 150, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_fz_s1",           "type": "ROUNDED_RECTANGLE", "label": "Modal: Förderbereich wählen\n(Schritt 1/3)",     "x": 1190, "y": 80,  "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_fz_s2",           "type": "ROUNDED_RECTANGLE", "label": "Modal: Lernausgangslage\n(Schritt 2/3)",         "x": 1190, "y": 175, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_fz_s3",           "type": "ROUNDED_RECTANGLE", "label": "Modal: Zusammenfassung\n(Schritt 3/3)",          "x": 1190, "y": 270, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte_ziele", "type": "ROUNDED_RECTANGLE", "label": "Förderakte\n(mit Förderzielen)",                 "x": 1600, "y": 150, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "fz_detail",         "type": "ROUNDED_RECTANGLE", "label": "Förderziel-Detail\n(Status: In Planung)",        "x": 2000, "y": 80,  "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+    { "id": "massnahmen",        "type": "ROUNDED_RECTANGLE", "label": "Maßnahmen auswählen\n& Unterstützer festlegen",  "x": 2000, "y": 230, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+    { "id": "fz_durchfuehrung",  "type": "ROUNDED_RECTANGLE", "label": "Förderziel\n(Status: In Durchführung)",          "x": 2000, "y": 380, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_notizen",         "type": "ROUNDED_RECTANGLE", "label": "Modal: Notizen\nanzeigen & hinzufügen",          "x": 2000, "y": 530, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "m_eval_s1",         "type": "ROUNDED_RECTANGLE", "label": "Modal: Evaluation\nErgebnis wählen (1/3)",       "x": 2400, "y": 310, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_eval_s2",         "type": "ROUNDED_RECTANGLE", "label": "Modal: Evaluation\nBegründung eingeben (2/3)",   "x": 2400, "y": 405, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_eval_s3",         "type": "ROUNDED_RECTANGLE", "label": "Modal: Evaluation\nPrüfen & Speichern (3/3)",    "x": 2400, "y": 500, "width": 300, "height": 70, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "fz_evaluiert",      "type": "ROUNDED_RECTANGLE", "label": "Förderziel\n(nach Evaluation)",                  "x": 2000, "y": 680, "width": 300, "height": 80, "fillColor": "blue",     "textColor": "white" },
+    { "id": "foerderplan",       "type": "ROUNDED_RECTANGLE", "label": "Förderplan\nerstellen & speichern",              "x": 2000, "y": 830, "width": 300, "height": 80, "fillColor": "green",    "textColor": "white" }
+  ],
+  "connectors": [
+    { "from": "startseite",       "to": "m_schueler" },
+    { "from": "m_schueler",       "to": "m_anlass" },
+    { "from": "m_anlass",         "to": "m_bestaetigung" },
+    { "from": "m_bestaetigung",   "to": "foerderakte_leer" },
+    { "from": "foerderakte_leer", "to": "m_fz_s1" },
+    { "from": "m_fz_s1",          "to": "m_fz_s2" },
+    { "from": "m_fz_s2",          "to": "m_fz_s3" },
+    { "from": "m_fz_s3",          "to": "foerderakte_ziele" },
+    { "from": "foerderakte_ziele","to": "fz_detail" },
+    { "from": "fz_detail",        "to": "massnahmen" },
+    { "from": "massnahmen",        "to": "fz_durchfuehrung" },
+    { "from": "fz_durchfuehrung", "to": "m_notizen" },
+    { "from": "fz_durchfuehrung", "to": "m_eval_s1" },
+    { "from": "m_eval_s1",        "to": "m_eval_s2" },
+    { "from": "m_eval_s2",        "to": "m_eval_s3" },
+    { "from": "m_eval_s3",        "to": "fz_evaluiert" },
+    { "from": "fz_evaluiert",     "to": "foerderplan" }
+  ]
+}
