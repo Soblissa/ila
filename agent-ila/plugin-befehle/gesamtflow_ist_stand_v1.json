@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    { "id": "start", "type": "ELLIPSE", "label": "Start\nLehrkraft öffnet ila", "x": 600, "y": 50, "width": 180, "height": 80, "fillColor": "darkBlue", "textColor": "white" },
+
+    { "id": "dashboard", "type": "ROUNDED_RECTANGLE", "label": "Startseite\nSchülerübersicht", "x": 500, "y": 200, "width": 220, "height": 70, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "neue_foerderung", "type": "ROUNDED_RECTANGLE", "label": "Neue Förderung\nanlegen", "x": 200, "y": 360, "width": 200, "height": 70, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "schueler_suchen", "type": "ROUNDED_RECTANGLE", "label": "Schritt 1\nSchüler suchen", "x": 200, "y": 500, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "anlass", "type": "ROUNDED_RECTANGLE", "label": "Schritt 2\nAnlass wählen", "x": 200, "y": 630, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "zusammenfassung", "type": "ROUNDED_RECTANGLE", "label": "Schritt 3\nZusammenfassung", "x": 200, "y": 760, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "foerderakte", "type": "ROUNDED_RECTANGLE", "label": "Förderakte\nÜbersicht Schüler", "x": 800, "y": 360, "width": 200, "height": 70, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "fz_hinzufuegen", "type": "ROUNDED_RECTANGLE", "label": "Förderziel\nhinzufügen", "x": 800, "y": 500, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "schritt1_bereich", "type": "ROUNDED_RECTANGLE", "label": "Schritt 1\nFörderbereich wählen", "x": 800, "y": 630, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "schritt2_lernausgangslage", "type": "ROUNDED_RECTANGLE", "label": "Schritt 2\nLernausgangslage", "x": 800, "y": 760, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "schritt3_zusammenfassung", "type": "ROUNDED_RECTANGLE", "label": "Schritt 3\nZusammenfassung", "x": 800, "y": 890, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "fz_detail", "type": "ROUNDED_RECTANGLE", "label": "Förderziel\nBearbeiten & Maßnahmen", "x": 1100, "y": 500, "width": 200, "height": 70, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "evaluation", "type": "ROUNDED_RECTANGLE", "label": "Förderziel\nEvaluieren", "x": 1100, "y": 650, "width": 200, "height": 60, "fillColor": "blue", "textColor": "white" },
+
+    { "id": "entscheidung", "type": "DIAMOND", "label": "Entscheidung\nnach Evaluation", "x": 1100, "y": 790, "width": 200, "height": 80, "fillColor": "orange", "textColor": "white" },
+
+    { "id": "weiterfoerdern", "type": "ROUNDED_RECTANGLE", "label": "Weiterfördern\n(neue Runde)", "x": 900, "y": 960, "width": 180, "height": 60, "fillColor": "green", "textColor": "white" },
+
+    { "id": "abschliessen", "type": "ROUNDED_RECTANGLE", "label": "Förderung\nabschließen", "x": 1150, "y": 960, "width": 180, "height": 60, "fillColor": "green", "textColor": "white" },
+
+    { "id": "eskalieren", "type": "ROUNDED_RECTANGLE", "label": "Eskalieren\n(BSLRR / VM / SOPÄDFÖ)", "x": 1380, "y": 960, "width": 200, "height": 60, "fillColor": "red", "textColor": "white" },
+
+    { "id": "foerderplan", "type": "ROUNDED_RECTANGLE", "label": "Förderplan\nerstellen", "x": 500, "y": 500, "width": 200, "height": 60, "fillColor": "purple", "textColor": "white" },
+
+    { "id": "notizen", "type": "ROUNDED_RECTANGLE", "label": "Notizen\nerfassen", "x": 500, "y": 630, "width": 200, "height": 60, "fillColor": "gray", "textColor": "white" }
+  ],
+  "connectors": [
+    { "from": "start", "to": "dashboard" },
+    { "from": "dashboard", "to": "neue_foerderung" },
+    { "from": "dashboard", "to": "foerderakte" },
+    { "from": "neue_foerderung", "to": "schueler_suchen" },
+    { "from": "schueler_suchen", "to": "anlass" },
+    { "from": "anlass", "to": "zusammenfassung" },
+    { "from": "zusammenfassung", "to": "foerderakte" },
+    { "from": "foerderakte", "to": "fz_hinzufuegen" },
+    { "from": "foerderakte", "to": "foerderplan" },
+    { "from": "foerderakte", "to": "notizen" },
+    { "from": "fz_hinzufuegen", "to": "schritt1_bereich" },
+    { "from": "schritt1_bereich", "to": "schritt2_lernausgangslage" },
+    { "from": "schritt2_lernausgangslage", "to": "schritt3_zusammenfassung" },
+    { "from": "schritt3_zusammenfassung", "to": "fz_detail" },
+    { "from": "fz_detail", "to": "evaluation" },
+    { "from": "evaluation", "to": "entscheidung" },
+    { "from": "entscheidung", "to": "weiterfoerdern" },
+    { "from": "entscheidung", "to": "abschliessen" },
+    { "from": "entscheidung", "to": "eskalieren" }
+  ]
+}

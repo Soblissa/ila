@@ -1,0 +1,9 @@
+{
+  "name": "ILA Flow Builder",
+  "id": "ila-flow-builder",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figjam"],
+  "permissions": ["currentuser"]
+}

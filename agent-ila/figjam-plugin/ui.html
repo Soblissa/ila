@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { font-family: sans-serif; padding: 16px; margin: 0; font-size: 13px; }
+    h2 { font-size: 15px; margin: 0 0 12px 0; }
+    textarea {
+      width: 100%; height: 300px; font-family: monospace;
+      font-size: 11px; padding: 8px; box-sizing: border-box;
+      border: 1px solid #ccc; border-radius: 4px; resize: vertical;
+    }
+    button {
+      margin-top: 10px; padding: 8px 16px; background: #18a0fb;
+      color: white; border: none; border-radius: 4px; cursor: pointer;
+      font-size: 13px; width: 100%;
+    }
+    button:hover { background: #0d8de8; }
+    #status { margin-top: 10px; padding: 8px; border-radius: 4px; font-size: 12px; display: none; }
+    #status.ok { background: #e3f9e5; color: #1a7a2a; display: block; }
+    #status.error { background: #fde8e8; color: #c0392b; display: block; }
+    #status.info { background: #e8f4fd; color: #1a5a8a; display: block; }
+  </style>
+</head>
+<body>
+  <h2>ILA Flow Builder</h2>
+  <textarea id="json" placeholder='JSON hier einfügen...'></textarea>
+  <button onclick="buildFlow()">Flow erstellen</button>
+  <div id="status"></div>
+
+  <script>
+    function buildFlow() {
+      const raw = document.getElementById('json').value.trim();
+      const status = document.getElementById('status');
+      if (!raw) {
+        status.className = 'error';
+        status.textContent = 'Bitte JSON eingeben.';
+        return;
+      }
+      let spec;
+      try {
+        spec = JSON.parse(raw);
+      } catch(e) {
+        status.className = 'error';
+        status.textContent = 'Ungültiges JSON: ' + e.message;
+        return;
+      }
+      status.className = 'info';
+      status.textContent = 'Flow wird erstellt...';
+      parent.postMessage({ pluginMessage: { type: 'build', spec } }, '*');
+    }
+
+    window.onmessage = (event) => {
+      const msg = event.data.pluginMessage;
+      if (!msg) return;
+      const status = document.getElementById('status');
+      if (msg.type === 'done') {
+        status.className = 'ok';
+        status.textContent = '✓ ' + msg.message;
+      } else if (msg.type === 'error') {
+        status.className = 'error';
+        status.textContent = '✗ ' + msg.message;
+      } else if (msg.type === 'progress') {
+        status.className = 'info';
+        status.textContent = msg.message;
+      }
+    };
+  </script>
+</body>
+</html>
