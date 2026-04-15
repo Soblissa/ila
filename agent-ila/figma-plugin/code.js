@@ -126,18 +126,25 @@ async function buildScreen(spec) {
   figma.ui.postMessage({ type: "status", message: "Füge Komponenten ein..." });
 
   for (const compSpec of spec.components) {
-    // Node-ID direkt wenn angegeben
+    // Node-ID direkt wenn angegeben (unterstützt nodeId UND component_id)
     let component = null;
-    if (compSpec.nodeId) {
+    const directId = compSpec.nodeId || compSpec.component_id;
+    if (directId) {
       try {
-        const node = await figma.getNodeByIdAsync(compSpec.nodeId);
-        if (node) component = node;
-      } catch(e) {}
+        const node = await figma.getNodeByIdAsync(directId);
+        if (node) {
+          component = node;
+        } else {
+          errors.push(`ID ${directId} für "${compSpec.name}" nicht gefunden — versuche Namenssuche`);
+        }
+      } catch(e) {
+        errors.push(`Fehler bei ID ${directId}: ${e.message}`);
+      }
     }
     if (!component) component = await findComponentByName(compSpec.name);
 
     if (!component) {
-      errors.push(`Komponente nicht gefunden: "${compSpec.name}"`);
+      errors.push(`Komponente "${compSpec.name}" nicht gefunden (ID: ${directId || 'keine'})`);
       continue;
     }
 
