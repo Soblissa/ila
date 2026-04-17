@@ -1,0 +1,22 @@
+{
+  "page": "BSLRR",
+  "nodes": [
+    { "id": "startseite",   "type": "SQUARE", "label": "Startseite\nSchülerübersicht",        "x": 50,   "y": 400, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_schueler",   "type": "SQUARE", "label": "Modal:\nSchüler suchen",              "x": 350,  "y": 280, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_anlass",     "type": "SQUARE", "label": "Modal:\nAnlass BSLRR wählen",         "x": 350,  "y": 500, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "m_s1",         "type": "SQUARE", "label": "Schritt 1:\nFörderbereich wählen",    "x": 700,  "y": 60,  "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s2",         "type": "SQUARE", "label": "Schritt 2:\nAntrag erfassen",         "x": 700,  "y": 280, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s3",         "type": "SQUARE", "label": "Schritt 3:\nBisherige Förderungen",   "x": 700,  "y": 500, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s4",         "type": "SQUARE", "label": "Schritt 4:\nLernausgangslage",        "x": 700,  "y": 720, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5",         "type": "SQUARE", "label": "Schritt 5:\nRechtsbezug & Maßnahmen","x": 700,  "y": 940, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_1",       "type": "SQUARE", "label": "Schritt 5.1:\nMaßnahmen wählen",     "x": 950,  "y": 940, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_2",       "type": "SQUARE", "label": "Schritt 5.2:\nEigene Maßnahme",      "x": 1200, "y": 940, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s6",         "type": "SQUARE", "label": "Schritt 6:\nDauer",                  "x": 700,  "y": 1160,"fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s7",         "type": "SQUARE", "label": "Schritt 7:\nZusammenfassung",        "x": 700,  "y": 1380,"fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderplan",  "type": "SQUARE", "label": "Förderplan\nerstellen",               "x": 1450, "y": 400, "fillColor": "blue",     "textColor": "white" }
+  ],
+  "connectors": []
+}
