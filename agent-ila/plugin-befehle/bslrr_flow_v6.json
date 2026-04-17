@@ -1,0 +1,34 @@
+{
+  "page": "BSLRR",
+  "nodes": [
+    { "id": "legende_screen",    "type": "SQUARE", "label": "Screen (eigene Seite)",    "x": 50,  "y": 30, "fillColor": "blue",     "textColor": "white" },
+    { "id": "legende_modal",     "type": "SQUARE", "label": "Modal (Popup / Schritt)",  "x": 350, "y": 30, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "startseite",       "type": "SQUARE", "label": "Startseite\nSchülerübersicht",        "x": 50,  "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "m_schueler",       "type": "SQUARE", "label": "Modal:\nSchüler suchen",              "x": 50,  "y": 400, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_anlass",         "type": "SQUARE", "label": "Modal:\nAnlass BSLRR wählen",         "x": 50,  "y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "m_s1",             "type": "SQUARE", "label": "Schritt 1:\nFörderbereich wählen",    "x": 500, "y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s2",             "type": "SQUARE", "label": "Schritt 2:\nAntrag erfassen",         "x": 800, "y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s3",             "type": "SQUARE", "label": "Schritt 3:\nBisherige Förderungen",   "x": 1100,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s4",             "type": "SQUARE", "label": "Schritt 4:\nLernausgangslage",        "x": 1400,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5",             "type": "SQUARE", "label": "Schritt 5:\nRechtsbezug & Maßnahmen", "x": 1700,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_1",           "type": "SQUARE", "label": "Schritt 5.1:\nMaßnahmen wählen",      "x": 2000,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_2",           "type": "SQUARE", "label": "Schritt 5.2:\nEigene Maßnahme",       "x": 2300,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s6",             "type": "SQUARE", "label": "Schritt 6:\nDauer",                   "x": 2600,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s7",             "type": "SQUARE", "label": "Schritt 7:\nZusammenfassung",          "x": 2900,"y": 600, "fillColor": "lightGray","textColor": "darkBlue" }
+  ],
+  "connectors": [
+    { "from": "startseite",  "to": "m_schueler" },
+    { "from": "m_schueler",  "to": "m_anlass" },
+    { "from": "m_anlass",    "to": "m_s1" },
+    { "from": "m_s1",        "to": "m_s2" },
+    { "from": "m_s2",        "to": "m_s3" },
+    { "from": "m_s3",        "to": "m_s4" },
+    { "from": "m_s4",        "to": "m_s5" },
+    { "from": "m_s5",        "to": "m_s5_1" },
+    { "from": "m_s5_1",      "to": "m_s5_2" },
+    { "from": "m_s5_2",      "to": "m_s6" },
+    { "from": "m_s6",        "to": "m_s7" }
+  ]
+}
