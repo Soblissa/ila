@@ -2,6 +2,33 @@
   "page": "Individuelle Förderung",
   "nodes": [
     {
+      "id": "legende_screen",
+      "type": "SQUARE",
+      "label": "Screen (eigene Seite)",
+      "x": 50,
+      "y": 30,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "legende_modal",
+      "type": "SQUARE",
+      "label": "Modal (Popup / Schritt)",
+      "x": 350,
+      "y": 30,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "legende_abschluss",
+      "type": "SQUARE",
+      "label": "Abschluss",
+      "x": 650,
+      "y": 30,
+      "fillColor": "green",
+      "textColor": "white"
+    },
+    {
       "id": "startseite",
       "type": "SQUARE",
       "label": "Startseite\nSchülerübersicht",
@@ -173,78 +200,5 @@
       "textColor": "white"
     }
   ],
-  "connectors": [
-    {
-      "from": "startseite",
-      "to": "m_schueler"
-    },
-    {
-      "from": "m_schueler",
-      "to": "m_anlass"
-    },
-    {
-      "from": "m_anlass",
-      "to": "m_bestaetigung"
-    },
-    {
-      "from": "m_bestaetigung",
-      "to": "foerderakte_leer"
-    },
-    {
-      "from": "foerderakte_leer",
-      "to": "m_fz_s1"
-    },
-    {
-      "from": "m_fz_s1",
-      "to": "m_fz_s2"
-    },
-    {
-      "from": "m_fz_s2",
-      "to": "m_fz_s3"
-    },
-    {
-      "from": "m_fz_s3",
-      "to": "foerderakte_ziele"
-    },
-    {
-      "from": "foerderakte_ziele",
-      "to": "fz_detail"
-    },
-    {
-      "from": "fz_detail",
-      "to": "massnahmen"
-    },
-    {
-      "from": "massnahmen",
-      "to": "fz_durchfuehrung"
-    },
-    {
-      "from": "fz_durchfuehrung",
-      "to": "m_notizen"
-    },
-    {
-      "from": "fz_durchfuehrung",
-      "to": "m_eval_s1"
-    },
-    {
-      "from": "m_eval_s1",
-      "to": "m_eval_s2"
-    },
-    {
-      "from": "m_eval_s2",
-      "to": "m_eval_s3"
-    },
-    {
-      "from": "m_eval_s3",
-      "to": "fz_evaluiert"
-    },
-    {
-      "from": "fz_evaluiert",
-      "to": "foerderplan"
-    },
-    {
-      "from": "foerderplan",
-      "to": "abschluss"
-    }
-  ]
+  "connectors": []
 }

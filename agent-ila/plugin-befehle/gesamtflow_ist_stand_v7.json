@@ -1,33 +1,6 @@
 {
   "nodes": [
     {
-      "id": "legende_screen",
-      "type": "SQUARE",
-      "label": "Screen (eigene Seite)",
-      "x": 50,
-      "y": 30,
-      "fillColor": "blue",
-      "textColor": "white"
-    },
-    {
-      "id": "legende_modal",
-      "type": "SQUARE",
-      "label": "Modal (Popup / Schritt)",
-      "x": 330,
-      "y": 30,
-      "fillColor": "lightGray",
-      "textColor": "darkBlue"
-    },
-    {
-      "id": "legende_abschluss",
-      "type": "SQUARE",
-      "label": "Abschluss",
-      "x": 610,
-      "y": 30,
-      "fillColor": "green",
-      "textColor": "white"
-    },
-    {
       "id": "startseite",
       "type": "SQUARE",
       "label": "Startseite\nSchülerübersicht & Willkommen",
