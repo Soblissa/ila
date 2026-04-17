@@ -1,0 +1,48 @@
+{
+  "page": "BSLRR",
+  "nodes": [
+    { "id": "legende_screen",    "type": "SQUARE", "label": "Screen (eigene Seite)",    "x": 50,   "y": 30,  "fillColor": "blue",     "textColor": "white" },
+    { "id": "legende_modal",     "type": "SQUARE", "label": "Modal (Popup / Schritt)",  "x": 350,  "y": 30,  "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "legende_abschluss", "type": "SQUARE", "label": "Abschluss",                "x": 650,  "y": 30,  "fillColor": "green",    "textColor": "white" },
+
+    { "id": "startseite",       "type": "SQUARE", "label": "Startseite\nSchülerübersicht & Willkommen",                  "x": 50,   "y": 180, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_schueler",       "type": "SQUARE", "label": "Modal: Schüler suchen",                                      "x": 430,  "y": 130, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_anlass",         "type": "SQUARE", "label": "Modal: Anlass wählen\n→ BSLRR auswählen",                    "x": 430,  "y": 330, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bestaetigung",   "type": "SQUARE", "label": "Modal: Auswahl bestätigen",                                  "x": 430,  "y": 530, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte",      "type": "SQUARE", "label": "Förderakte\n(BSLRR-Prozess startet)",                        "x": 850,  "y": 180, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_bslrr_s1",       "type": "SQUARE", "label": "Modal Wizard: Schritt 1\nFörderbereiche wählen\n(Lesen / Rechtschreiben / Rechnen)", "x": 1300, "y": 100,  "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_anlass",   "type": "SQUARE", "label": "Modal Wizard: Anlass\nBSLRR beschreiben",                    "x": 1300, "y": 320, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s2",       "type": "SQUARE", "label": "Modal Wizard: Schritt 2\nAntrag\n(Datum & Dokumente)",       "x": 1300, "y": 520, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s3",       "type": "SQUARE", "label": "Modal Wizard: Schritt 3\nBisherige Förderungen",             "x": 1300, "y": 720, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s4",       "type": "SQUARE", "label": "Modal Wizard: Schritt 4\nLernausgangslage",                  "x": 1300, "y": 920, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s5",       "type": "SQUARE", "label": "Modal Wizard: Schritt 5\nRechtsbezug & Maßnahmen",           "x": 1300, "y": 1120, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s5_1",     "type": "SQUARE", "label": "Modal Wizard: Schritt 5.1\nEigene Maßnahme erstellen",       "x": 1300, "y": 1320, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s6",       "type": "SQUARE", "label": "Modal Wizard: Schritt 6\nDauer",                             "x": 1300, "y": 1520, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_bslrr_s7",       "type": "SQUARE", "label": "Modal Wizard: Schritt 7\nZusammenfassung",                   "x": 1300, "y": 1720, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte_bslrr","type": "SQUARE", "label": "Förderakte\n(BSLRR erfasst)",                               "x": 1800, "y": 180, "fillColor": "blue",     "textColor": "white" },
+    { "id": "foerderplan",      "type": "SQUARE", "label": "Förderplan\nerstellen & speichern",                          "x": 1800, "y": 500, "fillColor": "blue",     "textColor": "white" },
+    { "id": "abschluss",        "type": "SQUARE", "label": "Abschluss",                                                  "x": 1800, "y": 800, "fillColor": "green",    "textColor": "white" }
+  ],
+  "connectors": [
+    { "from": "startseite",       "to": "m_schueler" },
+    { "from": "m_schueler",       "to": "m_anlass" },
+    { "from": "m_anlass",         "to": "m_bestaetigung" },
+    { "from": "m_bestaetigung",   "to": "foerderakte" },
+    { "from": "foerderakte",      "to": "m_bslrr_s1" },
+    { "from": "m_bslrr_s1",       "to": "m_bslrr_anlass" },
+    { "from": "m_bslrr_anlass",   "to": "m_bslrr_s2" },
+    { "from": "m_bslrr_s2",       "to": "m_bslrr_s3" },
+    { "from": "m_bslrr_s3",       "to": "m_bslrr_s4" },
+    { "from": "m_bslrr_s4",       "to": "m_bslrr_s5" },
+    { "from": "m_bslrr_s5",       "to": "m_bslrr_s5_1" },
+    { "from": "m_bslrr_s5_1",     "to": "m_bslrr_s6" },
+    { "from": "m_bslrr_s6",       "to": "m_bslrr_s7" },
+    { "from": "m_bslrr_s7",       "to": "foerderakte_bslrr" },
+    { "from": "foerderakte_bslrr","to": "foerderplan" },
+    { "from": "foerderplan",      "to": "abschluss" }
+  ]
+}
