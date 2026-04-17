@@ -1,0 +1,11 @@
+{
+  "page": "Test Squares",
+  "nodes": [
+    { "id": "test1", "type": "SQUARE", "label": "Modal: Schritt 1\nFörderbereiche wählen\n(Lesen / RS / Rechnen)", "x": 50, "y": 50, "fillColor": "lightGray", "textColor": "darkBlue" },
+    { "id": "test2", "type": "SQUARE", "label": "Screen\nFörderakte\n(BSLRR startet)", "x": 400, "y": 50, "fillColor": "blue", "textColor": "white" },
+    { "id": "test3", "type": "ROUNDED_RECTANGLE", "label": "Modal: Schritt 1\nFörderbereiche wählen\n(Lesen / RS / Rechnen)", "x": 50, "y": 300, "width": 300, "height": 80, "fillColor": "lightGray", "textColor": "darkBlue" }
+  ],
+  "connectors": [
+    { "from": "test1", "to": "test2" }
+  ]
+}

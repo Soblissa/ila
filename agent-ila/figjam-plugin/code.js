@@ -60,8 +60,10 @@ async function buildFlow(spec) {
         shape = figma.createShapeWithText();
         shape.shapeType = node.type || 'ROUNDED_RECTANGLE';
 
-        // Größe
-        shape.resize(node.width || 200, node.height || 60);
+        // Größe: nur setzen wenn explizit angegeben
+        if (node.width && node.height) {
+          shape.resize(node.width, node.height);
+        }
         shape.x = node.x || 0;
         shape.y = node.y || 0;
 
