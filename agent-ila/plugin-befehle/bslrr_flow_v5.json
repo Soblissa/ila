@@ -1,0 +1,45 @@
+{
+  "page": "BSLRR",
+  "nodes": [
+    { "id": "legende_screen",    "type": "SQUARE", "label": "Screen (eigene Seite)",    "x": 50,   "y": 30, "fillColor": "blue",     "textColor": "white" },
+    { "id": "legende_modal",     "type": "SQUARE", "label": "Modal (Popup / Schritt)",  "x": 350,  "y": 30, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "legende_abschluss", "type": "SQUARE", "label": "Abschluss",                "x": 650,  "y": 30, "fillColor": "green",    "textColor": "white" },
+
+    { "id": "startseite",       "type": "SQUARE", "label": "Startseite\nSchülerübersicht",               "x": 50,   "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "m_start",          "type": "SQUARE", "label": "Modal:\nSchüler suchen &\nAnlass BSLRR wählen", "x": 50,   "y": 450, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte",      "type": "SQUARE", "label": "Förderakte\n(BSLRR-Wizard startet)",          "x": 1000, "y": 200, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "m_s1",             "type": "SQUARE", "label": "Schritt 1:\nFörderbereich wählen",            "x": 1000, "y": 450, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s2",             "type": "SQUARE", "label": "Schritt 2:\nAntrag erfassen",                 "x": 1000, "y": 700, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s3",             "type": "SQUARE", "label": "Schritt 3:\nBisherige Förderungen",           "x": 1000, "y": 950, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s4",             "type": "SQUARE", "label": "Schritt 4:\nLernausgangslage",                "x": 1000, "y": 1200, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "m_s5",             "type": "SQUARE", "label": "Schritt 5:\nRechtsbezug & Maßnahmen",        "x": 1000, "y": 1450, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_1",           "type": "SQUARE", "label": "Schritt 5.1:\nMaßnahmen auswählen",           "x": 1350, "y": 1450, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s5_2",           "type": "SQUARE", "label": "Schritt 5.2:\nEigene Maßnahme erstellen",     "x": 1700, "y": 1450, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "m_s6",             "type": "SQUARE", "label": "Schritt 6:\nDauer",                           "x": 1000, "y": 1700, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_s7",             "type": "SQUARE", "label": "Schritt 7:\nZusammenfassung",                 "x": 1000, "y": 1950, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte_2",    "type": "SQUARE", "label": "Förderakte\n(BSLRR erfasst)",                 "x": 2200, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "foerderplan",      "type": "SQUARE", "label": "Förderplan\nerstellen",                       "x": 3400, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "abschluss",        "type": "SQUARE", "label": "Abschluss",                                   "x": 4600, "y": 200, "fillColor": "green",    "textColor": "white" }
+  ],
+  "connectors": [
+    { "from": "startseite",    "to": "m_start" },
+    { "from": "m_start",       "to": "foerderakte" },
+    { "from": "foerderakte",   "to": "m_s1" },
+    { "from": "m_s1",          "to": "m_s2" },
+    { "from": "m_s2",          "to": "m_s3" },
+    { "from": "m_s3",          "to": "m_s4" },
+    { "from": "m_s4",          "to": "m_s5" },
+    { "from": "m_s5",          "to": "m_s5_1" },
+    { "from": "m_s5_1",        "to": "m_s5_2" },
+    { "from": "m_s5_2",        "to": "m_s6" },
+    { "from": "m_s6",          "to": "m_s7" },
+    { "from": "m_s7",          "to": "foerderakte_2" },
+    { "from": "foerderakte_2", "to": "foerderplan" },
+    { "from": "foerderplan",   "to": "abschluss" }
+  ]
+}
