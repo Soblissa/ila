@@ -1,0 +1,259 @@
+{
+  "page": "Individuelle Förderung",
+  "nodes": [
+    {
+      "id": "startseite",
+      "type": "SQUARE",
+      "label": "Startseite\nSchülerübersicht",
+      "x": 50,
+      "y": 200,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "m_schueler",
+      "type": "SQUARE",
+      "label": "Modal:\nSchüler suchen",
+      "x": 50,
+      "y": 420,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_anlass",
+      "type": "SQUARE",
+      "label": "Modal:\nAnlass wählen",
+      "x": 50,
+      "y": 620,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_bestaetigung",
+      "type": "SQUARE",
+      "label": "Modal:\nAuswahl bestätigen",
+      "x": 50,
+      "y": 820,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "foerderakte_leer",
+      "type": "SQUARE",
+      "label": "Förderakte\n(noch keine Ziele)",
+      "x": 600,
+      "y": 200,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "m_fz_s1",
+      "type": "SQUARE",
+      "label": "Modal:\nFörderbereich wählen\n(Schritt 1/3)",
+      "x": 600,
+      "y": 420,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_fz_s2",
+      "type": "SQUARE",
+      "label": "Modal:\nLernausgangslage\n(Schritt 2/3)",
+      "x": 600,
+      "y": 620,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_fz_s3",
+      "type": "SQUARE",
+      "label": "Modal:\nZusammenfassung\n(Schritt 3/3)",
+      "x": 600,
+      "y": 820,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "foerderakte_ziele",
+      "type": "SQUARE",
+      "label": "Förderakte\n(mit Förderzielen)",
+      "x": 1150,
+      "y": 200,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "fz_detail",
+      "type": "SQUARE",
+      "label": "Förderziel\n(in Planung)",
+      "x": 1150,
+      "y": 420,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "z_massnahmen",
+      "type": "SQUARE",
+      "label": "Maßnahmen\nauswählen",
+      "x": 1500,
+      "y": 420,
+      "fillColor": "orange",
+      "textColor": "white"
+    },
+    {
+      "id": "z_unterstuetzer",
+      "type": "SQUARE",
+      "label": "Unterstützer\nfestlegen",
+      "x": 1800,
+      "y": 420,
+      "fillColor": "orange",
+      "textColor": "white"
+    },
+    {
+      "id": "fz_durchfuehrung",
+      "type": "SQUARE",
+      "label": "Förderziel\n(In Durchführung)",
+      "x": 1150,
+      "y": 820,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "m_notizen",
+      "type": "SQUARE",
+      "label": "Modal:\nNotizen",
+      "x": 1150,
+      "y": 1020,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_eval_s1",
+      "type": "SQUARE",
+      "label": "Modal:\nEvaluation\nErgebnis (1/3)",
+      "x": 1700,
+      "y": 820,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_eval_s2",
+      "type": "SQUARE",
+      "label": "Modal:\nEvaluation\nBegründung (2/3)",
+      "x": 2000,
+      "y": 820,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "m_eval_s3",
+      "type": "SQUARE",
+      "label": "Modal:\nEvaluation\nPrüfen (3/3)",
+      "x": 2300,
+      "y": 820,
+      "fillColor": "lightGray",
+      "textColor": "darkBlue"
+    },
+    {
+      "id": "fz_evaluiert",
+      "type": "SQUARE",
+      "label": "Förderziel\n(nach Evaluation)",
+      "x": 1700,
+      "y": 200,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "foerderplan",
+      "type": "SQUARE",
+      "label": "Förderplan\nerstellen",
+      "x": 2250,
+      "y": 200,
+      "fillColor": "blue",
+      "textColor": "white"
+    },
+    {
+      "id": "abschluss",
+      "type": "SQUARE",
+      "label": "Abschluss",
+      "x": 2800,
+      "y": 200,
+      "fillColor": "green",
+      "textColor": "white"
+    }
+  ],
+  "connectors": [
+    {
+      "from": "startseite",
+      "to": "m_schueler"
+    },
+    {
+      "from": "m_schueler",
+      "to": "m_anlass"
+    },
+    {
+      "from": "m_anlass",
+      "to": "m_bestaetigung"
+    },
+    {
+      "from": "m_bestaetigung",
+      "to": "foerderakte_leer"
+    },
+    {
+      "from": "foerderakte_leer",
+      "to": "m_fz_s1"
+    },
+    {
+      "from": "m_fz_s1",
+      "to": "m_fz_s2"
+    },
+    {
+      "from": "m_fz_s2",
+      "to": "m_fz_s3"
+    },
+    {
+      "from": "m_fz_s3",
+      "to": "foerderakte_ziele"
+    },
+    {
+      "from": "foerderakte_ziele",
+      "to": "fz_detail"
+    },
+    {
+      "from": "fz_detail",
+      "to": "fz_detail"
+    },
+    {
+      "from": "fz_detail",
+      "to": "fz_durchfuehrung"
+    },
+    {
+      "from": "fz_durchfuehrung",
+      "to": "m_notizen"
+    },
+    {
+      "from": "fz_durchfuehrung",
+      "to": "m_eval_s1"
+    },
+    {
+      "from": "m_eval_s1",
+      "to": "m_eval_s2"
+    },
+    {
+      "from": "m_eval_s2",
+      "to": "m_eval_s3"
+    },
+    {
+      "from": "m_eval_s3",
+      "to": "fz_evaluiert"
+    },
+    {
+      "from": "fz_evaluiert",
+      "to": "foerderplan"
+    },
+    {
+      "from": "foerderplan",
+      "to": "abschluss"
+    }
+  ]
+}
