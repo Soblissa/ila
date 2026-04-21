@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "startseite",
+      "type": "SQUARE",
+      "label": "Startseite\nSchülerübersicht",
+      "x": 200,
+      "y": 200,
+      "color": "darkBlue"
+    },
+    {
+      "id": "m_schueler",
+      "type": "SQUARE",
+      "label": "Modal:\nSchüler suchen",
+      "x": 200,
+      "y": 420,
+      "color": "blue"
+    },
+    {
+      "id": "foerderakte",
+      "type": "SQUARE",
+      "label": "Förderakte\n(Schüler-Zentrale)",
+      "x": 200,
+      "y": 640,
+      "color": "darkBlue"
+    },
+    {
+      "id": "ph_ifoe",
+      "type": "SQUARE",
+      "label": "→ Individuelle\nFörderung\n[Platzhalter]",
+      "x": -350,
+      "y": 900,
+      "color": "gray"
+    },
+    {
+      "id": "ph_bslrr",
+      "type": "SQUARE",
+      "label": "→ BSLRR\n[Platzhalter]",
+      "x": 200,
+      "y": 900,
+      "color": "gray"
+    },
+    {
+      "id": "vm_start",
+      "type": "SQUARE",
+      "label": "VM SöPädFö\nanlegen",
+      "x": 750,
+      "y": 900,
+      "color": "blue"
+    },
+    {
+      "id": "vm_anlass",
+      "type": "SQUARE",
+      "label": "Modal:\nAnlass VM SöPädFö\nwählen",
+      "x": 750,
+      "y": 1120,
+      "color": "blue"
+    },
+    {
+      "id": "vm_foerderart",
+      "type": "SQUARE",
+      "label": "Schritt 1:\nFörderart wählen\n(Förderangebot\noder Beratungsangebot)",
+      "x": 750,
+      "y": 1340,
+      "color": "blue"
+    },
+    {
+      "id": "vm_schwerpunkt",
+      "type": "SQUARE",
+      "label": "Schritt 2:\nFörderschwerpunkt\nwählen",
+      "x": 750,
+      "y": 1560,
+      "color": "blue"
+    },
+    {
+      "id": "vm_einrichtung",
+      "type": "SQUARE",
+      "label": "Schritt 3:\nFördernde Einrichtung\n(auftragnehmende Schule)",
+      "x": 750,
+      "y": 1780,
+      "color": "blue"
+    },
+    {
+      "id": "vm_zeitraum",
+      "type": "SQUARE",
+      "label": "Schritt 4:\nZeitraum\nfestlegen",
+      "x": 750,
+      "y": 2000,
+      "color": "blue"
+    },
+    {
+      "id": "vm_zusammenfassung",
+      "type": "SQUARE",
+      "label": "Schritt 5:\nZusammenfassung\n& Bestätigung",
+      "x": 750,
+      "y": 2220,
+      "color": "blue"
+    },
+    {
+      "id": "vm_foerderakte_aktiv",
+      "type": "SQUARE",
+      "label": "Förderakte\n(VM aktiv)",
+      "x": 750,
+      "y": 2440,
+      "color": "darkBlue"
+    }
+  ],
+  "connectors": []
+}
