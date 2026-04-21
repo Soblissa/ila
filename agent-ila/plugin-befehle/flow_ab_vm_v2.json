@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    { "id": "startseite",        "type": "SQUARE", "label": "Startseite\nSchülerübersicht",               "x": 50,   "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "m_schueler",        "type": "SQUARE", "label": "Modal:\nSchüler suchen",                     "x": 50,   "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "m_anlass",          "type": "SQUARE", "label": "Modal:\nAnlass wählen",                      "x": 50,   "y": 630, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "foerderakte",       "type": "SQUARE", "label": "Förderakte\n(Schüler-Zentrale)",              "x": 600,  "y": 200, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "ph_ifoe",           "type": "SQUARE", "label": "Individuelle\nFörderung\n[Platzhalter]",     "x": 600,  "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "ph_bslrr",          "type": "SQUARE", "label": "BSLRR\n[Platzhalter]",                       "x": 600,  "y": 630, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "ph_vm",             "type": "SQUARE", "label": "VM SöPädFö\n→ siehe unten",                  "x": 600,  "y": 830, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_anlegen",        "type": "SQUARE", "label": "VM SöPädFö\nanlegen\n(PF 01)",               "x": 1150, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "vm_m_anlass",       "type": "SQUARE", "label": "Modal:\nAnlass VM SöPädFö\nwählen",          "x": 1150, "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_foerderart",     "type": "SQUARE", "label": "Schritt 1:\nFörderart wählen",               "x": 1700, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "vm_m_foerderangebot","type": "SQUARE","label": "Modal:\nSöPäd Förderangebot\nan allg. Schule","x": 1700, "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+    { "id": "vm_m_beratungsangebot","type": "SQUARE","label": "Modal:\nSöPäd Beratungsangebot\nals VM",   "x": 1700, "y": 630, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_schwerpunkt",    "type": "SQUARE", "label": "Schritt 2:\nFörderschwerpunkt\nwählen",      "x": 2250, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "vm_m_schwerpunkt",  "type": "SQUARE", "label": "Modal:\nFörderschwerpunkt\n(Tabelle)",       "x": 2250, "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_einrichtung",    "type": "SQUARE", "label": "Schritt 3:\nFördernde Einrichtung\nwählen",  "x": 2800, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "vm_m_einrichtung",  "type": "SQUARE", "label": "Modal:\nAuftragnehmende\nSchule wählen",     "x": 2800, "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_zeitraum",       "type": "SQUARE", "label": "Schritt 4:\nZeitraum\nfestlegen",            "x": 3350, "y": 200, "fillColor": "blue",     "textColor": "white" },
+    { "id": "vm_m_zeitraum",     "type": "SQUARE", "label": "Modal:\nZeitraum\neingeben",                 "x": 3350, "y": 430, "fillColor": "lightGray","textColor": "darkBlue" },
+
+    { "id": "vm_zusammenfassung","type": "SQUARE", "label": "Schritt 5:\nZusammenfassung\n& Bestätigung", "x": 3900, "y": 200, "fillColor": "blue",     "textColor": "white" },
+
+    { "id": "vm_foerderakte_aktiv","type": "SQUARE","label": "Förderakte\n(VM aktiv)",                    "x": 4450, "y": 200, "fillColor": "blue",     "textColor": "white" }
+  ],
+  "connectors": []
+}
