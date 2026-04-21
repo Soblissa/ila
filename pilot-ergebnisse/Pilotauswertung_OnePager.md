@@ -3,41 +3,57 @@
 
 ---
 
-## Was wir gemessen haben
+## Datenbasis
 
-133 Lehrkräfte, Schulleitungen und Verwaltungsmitarbeitende haben ila über 60 Tage genutzt. Ausgewertet wurden 15.344 Datensätze aus dem Nutzerverhalten, 32 In-App-Feedbacks sowie 19 ausgefüllte Abschlussfragebögen.
+133 Nutzer · 312 bearbeitete Schüler · 15.344 erfasste Datensätze
+Auswertungsquellen: Nutzerverhalten (anonymisiert) · In-App-Feedback · Abschlussumfrage (19 TN)
 
 ---
 
-## Was die Daten zeigen
+## Nutzungsverhalten
 
-**Nutzung:** 335 Förderungen wurden angelegt, 176 Förderpläne erstellt. 82 % der Pläne entstehen direkt nach Anlage der Förderung — der Workflow funktioniert. Technische Stabilität und Bedienbarkeit werden durchgängig positiv bewertet (Ø 3,85 von 4).
+- 335 Förderungen angelegt · 176 Förderpläne erstellt (65 % der Nutzer)
+- 82 % der Förderpläne entstehen direkt nach Anlage der Förderung — der Workflow funktioniert
+- Häufigste Anlässe: Drohendes Leistungsversagen (48 %), Teilnahme an bes. Fördermaßnahme (41 %)
+- Meistgenutzte Förderbereiche: Rechtschreiben (29 %), Kognition (26 %), Rechnen (21 %)
+- Klasse 0 (Vorklasse): meistgenutzter Jahrgang (4.526 Einträge) — bei nur 17 Nutzern
+- 57 % der Nutzer waren nur einmal in der App · 57 % unter 10 Minuten Nutzungsdauer
 
-**Fachlicher Inhalt:** Hier liegt der größte Handlungsbedarf. Der Tiefstwert des gesamten Fragebogens: Ø 2,15 bei der Frage, ob die Förderziele ausreichen — 8 von 13 Lehrkräften verneinen das. Die eigenen Maßnahmen (235 eindeutige Texte, 140 davon mehrfach von verschiedenen Lehrkräften verwendet) sind ein direkter Hinweis auf Lücken im Katalog.
+---
 
-**Top-3-Probleme aus dem Feedback:**
-- Unterstützer-Feld zu eingeschränkt (nur Vater/Mutter, 6 Nennungen)
-- Maßnahmen zu unkonkret und lückenhaft — wirken wie Ziele, nicht wie Handlungsschritte (8 Nennungen)
-- Keine Bearbeitungsmöglichkeit nach dem Speichern
+## Feedback (In-App · Ø 2,7 von 5)
+
+**Top-3-Kritikpunkte aus 27 Freitexten:**
+
+- **Unterstützer-Feld zu eingeschränkt** — nur Vater/Mutter auswählbar; BFZ, Ergotherapie, Logopädie, andere Lehrkräfte fehlen (6 Nennungen)
+- **Maßnahmen unkonkret, lückenhaft, falsche Ebene** — wirken wie Ziele statt Handlungsschritte; Vorklasse, Klasse 1, LRS, DaZ nicht abgedeckt (8 Nennungen)
+- **Fehlende Förderbereiche und Anlässe** — Lernverhalten, Sozialverhalten, LRS, AD(H)S, Autismus nicht vorhanden (3 Nennungen)
+
+*Hinweis: 101 von 133 Nutzern haben kein Feedback abgegeben.*
+
+---
+
+## Abschlussumfrage (19 Teilnehmende)
+
+- Technik positiv bewertet · Fachlicher Nutzen gespalten
+- Schulleitung bewertet durchgängig besser als Lehrkräfte (bei "Arbeit erleichtert": 3,60 vs. 2,62)
+- **Tiefstwert gesamt: Ø 2,15** — 8 von 13 Lehrkräften: Förderziele reichen nicht aus
 
 ---
 
 ## Fazit
 
-Wir haben den Nerv der Schulen getroffen. Die Bereitschaft, das System zu nutzen und Förderprozesse digital abzubilden, ist da. Was die Schulen jetzt einfordern: mehr Tiefe — konkretere Maßnahmen, mehr Förderbereiche, mehr Funktionen rund um den Förderplan. Die Grundlage ist solide. Der nächste Schritt ist inhaltliche Stärke.
+ila trifft einen echten Bedarf — und die Schulen wollen tiefer gehen. Die Akzeptanz ist da, der Workflow funktioniert. Was fehlt: fachliche Tiefe bei Maßnahmen, Förderbereichen und Unterstützerfeld. Die eigenen Maßnahmen der Lehrkräfte (235 eindeutige Texte, 140 mehrfach verwendet) sind ein direkter Hinweis auf Kataloglücken — und eine fertige Vorlage für die Weiterentwicklung.
 
 ---
 
-## Was das für die Roadmap bedeutet
+## Roadmap-Impulse
 
-| Priorität | Maßnahme |
-|---|---|
-| Hoch | Maßnahmenkatalog überarbeiten (Lücken aus Pilotnachweisen schließen) |
-| Hoch | Bearbeitbarkeit nach Speichern ermöglichen |
-| Hoch | Unterstützer-Feld erweitern |
-| Mittel | Förderbereiche und Anlässe ergänzen (LRS, DaZ, AD(H)S, Vorklasse) |
-| Mittel | Förderplan-Layout verbessern |
-| Ausbaustufe 2 | Kollegialer Austausch, Dokumentenablage, Kalender/Erinnerung |
+- Maßnahmenkatalog überarbeiten (Lücken aus Pilotdaten schließen)
+- Unterstützer-Feld erweitern
+- Bearbeitbarkeit nach Speichern ermöglichen
+- Förderbereiche und Anlässe ergänzen (LRS, DaZ, AD(H)S, Vorklasse)
+- Förderplan-Layout verbessern
 
 ---
-*Vollständiger Bericht: `pilot-ergebnisse/Pilotauswertung_Gesamtbericht_20260410.md`*
+*Vollständiger Bericht: pilot-ergebnisse/Pilotauswertung_Gesamtbericht_20260410.md*
