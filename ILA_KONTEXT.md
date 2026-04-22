@@ -47,9 +47,18 @@
 - **31.03.2026:** Figma API Token eingerichtet (`/etc/openclaw/users/user1.env`), Design Specs analysiert (155 Komponenten, 24 Seiten), Plugin-Anforderungen dokumentiert
 - **31.03.2026:** Agentencharta von Turiya gelesen (`ila/agent-ila/agentencharta-turyia-chefkoch.md`)
 - **31.03.2026:** BOOTSTRAP.md gelöscht
-- Turiya läuft auf **demselben Server** (Linux-User: `turyia`, Port: 19870, loopback)
-- Direktverbindung Turiya ↔ Cheko: technisch noch nicht vollständig gelöst (gateway token mismatch) — Torsten muss abschließen
+- Turiya läuft inzwischen auf einem **anderen Server** (wurde neu aufgesetzt, nicht mehr auf demselben Server wie Cheko)
+- Direktverbindung Turiya ↔ Cheko: noch offen — SSH-Zugang zu Turiyas Server war geplant
 - Figma-Seiten im HMKB-Account: ~15 Dateien (BSLRR, Kalender, Neue Förderung, Förderziel, Förderakte, Design Specs AS 1.0+2.0, Discovery, Vision, Szenarien, Förderplan)
+- **06.04.2026:** Neuer Figma-Token erstellt (alle Berechtigungen gesetzt) — Token liegt in `/etc/openclaw/users/user1.env` als `FIGMA_TOKEN`
+- **06.04.2026:** `ILA Agent Workspace` Datei angelegt (Key: `sMBmRwfjOE9EMWKnTTqNOl`)
+- **06.04.2026:** Frank-Agent eingerichtet: Bot `@Franks_Klaus_bot`, Läuft auf `user2`, Repo: `github.com/Soblissa/Franks_Klaus`, Anthropic API-Key separat, Brave API eingerichtet
+- **06.04.2026:** Brave Search API Key eingetragen — läuft für alle Agenten (Key in `user1.env`)
+- **06.04.2026:** SOUL.md ergänzt: "Denkt out of the box, reflektiert, bereit sich weiterzuentwickeln"
+- **07.04.2026:** Figma Plugin v4 gebaut — 155 Komponenten aus L-Screens, kein `loadAllPagesAsync` mehr, Komponenten-Index direkt eingebettet
+- **07.04.2026:** Sebastians Bot `@FelgesBot` (Bernd) gestartet, Sebastian gepairt
+- Semantische Suche: noch nicht eingerichtet — Torsten muss das machen ("genauso wie Turiya")
+- Figma-Plugin: Navigation Bar funktioniert mit Node-ID `58:24478`, alle L-Screen-Komponenten in `component-library-full.json`
 
 ## 4. Technisches Setup
 
