@@ -154,7 +154,12 @@ Kein separater Anlass-Screen mehr — Prozesse starten direkt von der Förderakt
 | OnePager Pilotauswertung | `ila/pilot-ergebnisse/Pilotauswertung_OnePager.docx` |
 | Kompetenzen & Maßnahmen | `ila/Kompetenzen und Maßnahmen/` |
 | ARIS Prozessmodelle | `ila/fachlichkeit/` |
-| VM-Prozess Dokument | `ila/fachlichkeit/Aufgaben im Prozess - Vorbeugende Maßnahmen BFZ durchführen.docx` |
+| VM-Prozess durchführen | `ila/fachlichkeit/Aufgaben im Prozess - Vorbeugende Maßnahmen BFZ durchführen.docx` |
+| VM-Prozess abschließen | `ila/fachlichkeit/Aufgaben im Prozess - Vorbeugende Maßnahmen BFZ abschließen.docx` |
+| SöPädFö FDS beauftragen | `ila/fachlichkeit/Aufgaben im Prozess - Entscheidungsverfahren zum Anspruch auf SOPÄDFÖ durchführen - FDS beauftragen.docx` |
+| SöPädFö FDS erstellen | `ila/fachlichkeit/Aufgaben im Prozess - Entscheidungsverfahren zum Anspruch auf SOPÄDFÖ durchführen - FDS erstellen.docx` |
+| SöPädFö Förderausschuss | `ila/fachlichkeit/Aufgaben im Prozess - Entscheidungsverfahren zum Anspruch auf SOPÄDFÖ durchführen - Förderausschuss durchführen.docx` |
+| Kompetenzen überfachlich (Sebastians v5) | `ila/Kompetenzen und Maßnahmen/überfachliche Kompetenzen Vorklasse und Grundstufe Klassenstufe 0 bis 4 Version 5.xlsx` |
 | Figma Design-Analyse | `ila/agent-ila/figma-analyse-design-specs-2026-03-31.md` |
 | UI-Wording-Regeln | `ila/fachlichkeit/ui-wording-regeln-v1.md` |
 | Begriffsmodell | `ila/fachlichkeit/begriffsmodell-v1.md` |
