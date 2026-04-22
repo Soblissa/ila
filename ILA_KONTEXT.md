@@ -4,6 +4,15 @@
 
 ---
 
+## 0. Architektur (wichtig!)
+
+- **LUSD** = Lehrer- und Schülerdatenbank Hessen — über 20 Jahre gewachsene Kernanwendung, Monolith + mehrere eigene Microservices
+- **ila** = Teilanwendung der LUSD, besteht aus **2 Microservices** (Backend + Frontend), bezieht Schülerstammdaten aus der LUSD
+- **Umgebung:** Azure DevOps, AWAs (Anwendungsanforderungen) als Grundlage für Entwickler
+- **Verfahrensdoku:** Aktuell händisch erstellt, als PDF gespeichert, von Menschen gepflegt
+- **Testfälle:** Händisch pro AWA erstellt, sehr fehleranfällig
+- **C-LLM-Ziele für LUSD:** AWA-Assistent, Testfall-Generator, Verfahrensdoku-Generator, Anwenderhilfen-Generator, LUSD-Wissensassistent, Change-Impact-Analyse
+
 ## 1. Was ist ILA / diSAF?
 
 - **ILA = diSAF** — ein und dasselbe Produkt. Nie verwechseln.
@@ -57,8 +66,24 @@
 - **06.04.2026:** SOUL.md ergänzt: "Denkt out of the box, reflektiert, bereit sich weiterzuentwickeln"
 - **07.04.2026:** Figma Plugin v4 gebaut — 155 Komponenten aus L-Screens, kein `loadAllPagesAsync` mehr, Komponenten-Index direkt eingebettet
 - **07.04.2026:** Sebastians Bot `@FelgesBot` (Bernd) gestartet, Sebastian gepairt
+- **13.04.2026:** Repo aufgeräumt — kein freischwebendes Dokument mehr, alles in Ordnern
+- **13.04.2026:** Bernd (linux-user `sebastian`) hat Schreibzugriff auf ila-Repo, Repo geklont unter `/home/sebastian/ila/`, Git-Identity: `Bernd <bernd@ila-agent.local>`
+- **13.04.2026:** LUSD-Ordner angelegt, Bernd hat 95 LUSD-Anleitungsdateien eingecheckt
+- **13.04.2026:** C-LLM-Dokument ausgebaut (Abschnitte 1–6, LUSD-Anwendungsfälle, Ausgangslage HMKB)
+- **13.04.2026:** Dirk Lenz freigeschaltet für `@ila_chefkoch_bot`, Anschreiben formuliert
+- **14.04.2026:** Figma-Datei "ILA Agent Workspace" heißt eigentlich **"ila _ Design Specs - Agent-Entwürfe"** (Tab in der Design Specs Datei)
+- **14.04.2026:** Plugin-Pfad auf Sarahs Rechner: `C:\Users\sbonh\OneDrive - Kuubera UG\Business\Automagia\ila\plugin\`
+- **14.04.2026:** Yves ist raus — wir machen das zu zweit
+- **15.04.2026:** Plugin-Bug gefunden: JSON-Feld `component_id` vs. `nodeId` Mismatch — gefixt, aber Fehlerausgabe noch nicht verifiziert
+- **15.04.2026:** Erfolgreicher Test: Förderplan-Screen (3 Komponenten) gebaut — Navigation Bar Main, Navigation Bar Content, Page Heading Plan
+- Aktuelle Node-IDs (verifiziert 15.04):
+  - Navigation Bar Main: `116:80916`
+  - Navigation Bar Content: `116:83187`
+  - Page Heading Plan: `1:116020`
+  - Förderplan Screen: `5:43555`
+- Figma-Plugin: 2 verbleibende Fehler sind wahrscheinlich Warnungen ohne visuelle Auswirkung
 - Semantische Suche: noch nicht eingerichtet — Torsten muss das machen ("genauso wie Turiya")
-- Figma-Plugin: Navigation Bar funktioniert mit Node-ID `58:24478`, alle L-Screen-Komponenten in `component-library-full.json`
+- Figma-Plugin Hot-Reload: aktiviert — `code.js` speichern → Plugin startet neu
 
 ## 4. Technisches Setup
 
