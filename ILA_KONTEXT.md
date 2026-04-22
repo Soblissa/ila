@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-04-22*
+*Letzte Aktualisierung: 2026-04-22 (ergänzt um Chat-Verlauf 22.03.–31.03.2026)*
 
 ---
 
@@ -37,7 +37,21 @@
 
 ---
 
-## 3. Technisches Setup
+## 3. Entstehungsgeschichte (wichtig für Kontext)
+
+- **22.03.2026:** Erste Session. Name zunächst "Chefkoch" (Sarahs Spitzname), dann zu **Cheko** umbenannt — Kollegen fanden "ILA-Imperator" zu provokant
+- **23.03.2026:** SOUL.md bearbeitet — Humor (trocken/warm), Fachbegriffe erklären, Vorschläge zurückhalten
+- **23.03.2026:** Figma-Anbindung: eigenes Plugin bauen (kein MCP als Primärweg), Figma Professional (16 USD/Monat) beschlossen
+- **24.03.2026:** Anthropic API Tier 1 → Tier 2 Upgrade + Credits aufgeladen
+- **25.03.2026:** Figma Professional-Account (s.bonhoff@kuubera.de) gekauft, Design Specs von HMKB-Account exportiert
+- **31.03.2026:** Figma API Token eingerichtet (`/etc/openclaw/users/user1.env`), Design Specs analysiert (155 Komponenten, 24 Seiten), Plugin-Anforderungen dokumentiert
+- **31.03.2026:** Agentencharta von Turiya gelesen (`ila/agent-ila/agentencharta-turyia-chefkoch.md`)
+- **31.03.2026:** BOOTSTRAP.md gelöscht
+- Turiya läuft auf **demselben Server** (Linux-User: `turyia`, Port: 19870, loopback)
+- Direktverbindung Turiya ↔ Cheko: technisch noch nicht vollständig gelöst (gateway token mismatch) — Torsten muss abschließen
+- Figma-Seiten im HMKB-Account: ~15 Dateien (BSLRR, Kalender, Neue Förderung, Förderziel, Förderakte, Design Specs AS 1.0+2.0, Discovery, Vision, Szenarien, Förderplan)
+
+## 4. Technisches Setup
 
 ### Figma API
 - **Token:** `/etc/openclaw/users/user1.env` → `FIGMA_TOKEN`
