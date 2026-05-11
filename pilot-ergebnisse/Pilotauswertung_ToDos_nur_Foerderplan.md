@@ -1,0 +1,22 @@
+# Pilotauswertung — ToDos nur zum Förderplan
+
+- Unterstützer-Feld erweitern
+- Unterstützer-Feld nicht nur auf Vater/Mutter beschränken
+- Pflichtlogik beim Unterstützer-Feld überarbeiten
+- Bearbeiten gespeicherter Förderpläne ermöglichen
+- Druckfunktion für Förderpläne sichtbar und nutzbar machen
+- Förderpläne inhaltlich aussagekräftiger machen
+- Förderplan-Layout überarbeiten
+- Förderplan-Darstellung grundsätzlich prüfen
+- Förderziele insgesamt auf fachliche Reichweite prüfen
+- Förderziele für Lehrkräfte praxistauglicher machen
+- Förderziele für Vorklasse ergänzen
+- Förderziele für Arbeits- und Sozialverhalten ergänzen
+- Druckbutton sichtbarer machen
+- Uhrzeit auf Elterndokument prüfen bzw. ggf. entfernen
+- zusätzliche Felder im Plan prüfen
+- Feld „Ausgangssituation“ zusätzlich zu Stärken prüfen
+- Stärken-Feld klarer anleiten
+- Stärken-Feld stärker strukturieren
+- unterscheiden helfen zwischen echter Stärke, Lernausgangslage und Pflichtbefüllung
+- Grammatik-/Namensdarstellung im Förderplan korrigieren („s am Nachnamen“)
