@@ -7,16 +7,26 @@
 
 ## 1. Ausgangslage
 
-Sowohl die **LUSD** (Lehrer- und Schülerdatenbank Hessen) als auch **ila** werden in **Azure DevOps (ADO)** entwickelt. Die fachliche Grundlage bilden dabei die in ADO gepflegten Anforderungen.
+**ila** ist ein Teil der **LUSD** (Lehrer- und Schülerdatenbank Hessen). Der Entwicklungsprozess läuft in **Azure DevOps (ADO)**.
 
-Im praktischen Entwicklungsprozess entstehen aus diesen Anforderungen mehrere weitere Artefakte, insbesondere:
-- **User Stories**
-- **Akzeptanzkriterien**
-- **Testfälle**
-- perspektivisch auch Ansätze zur **Testautomatisierung**
-- sowie mittelbar Dokumentation und Anwenderunterstützung
+Der fachliche Ablauf ist dabei grundsätzlich wie folgt:
+1. Es gibt eine **fachliche Anforderung**.
+2. Daraus wird eine **User Story** formuliert.
+3. Diese User Story wird von den **UX-Kollegen** in Abstimmung mit den fachlichen Expertinnen und Experten in **Akzeptanzkriterien** übersetzt.
+4. Die Akzeptanzkriterien werden von der Entwicklung umgesetzt.
+5. Die **Testfälle** prüfen, ob die Akzeptanzkriterien erfüllt sind.
 
-Der heutige Zustand ist in vielen Organisationen davon geprägt, dass diese Artefakte zwar eng zusammenhängen, aber oft mit hohem manuellem Aufwand erstellt, überarbeitet und aufeinander abgestimmt werden. Genau hier liegt ein relevanter Hebel für ein Corporate LLM (unternehmenseigenes großes Sprachmodell).
+Ein Beispiel für diesen Ablauf ist:
+- fachliche Anforderung: Die Lernausgangslage eines Kindes soll in einem Textfeld beschrieben werden können.
+- User Story: *Als berechtigter Nutzer möchte ich für ein Kind die Lernausgangslage beschreiben, um die passende Förderung festlegen zu können.*
+
+Wichtig ist dabei die saubere fachliche Trennung:
+- Die User Story entsteht aus der **fachlichen Anforderung**.
+- Die **Akzeptanzkriterien** konkretisieren die User Story für Design und Entwicklung.
+- Aus den **Akzeptanzkriterien** sollen die **Testfälle** abgeleitet werden.
+- Aus den **Akzeptanzkriterien** sollen perspektivisch auch **Dokumentationsformen** abgeleitet werden.
+
+Genau in dieser Prozesskette liegt ein relevanter Hebel für ein Corporate LLM (unternehmenseigenes großes Sprachmodell).
 
 ---
 
@@ -24,15 +34,23 @@ Der heutige Zustand ist in vielen Organisationen davon geprägt, dass diese Arte
 
 Der zentrale Gedanke dieses Vorhabens lautet:
 
-> **Azure DevOps wird zur führenden fachlichen Quelle im Entwicklungsprozess.**
+> **Azure DevOps wird zur führenden Quelle im Entwicklungsprozess von ila.**
 
-Das bedeutet nicht, dass ADO die einzige Wissensquelle der Organisation ist. Relevante weitere Quellen wie Erlasse, Prozessbeschreibungen, bestehende Dokumentation oder Fachkonzepte bleiben notwendig.
+Das bedeutet im vorliegenden Kontext:
+- fachliche Anforderungen,
+- User Stories,
+- Akzeptanzkriterien
+- und daraus abgeleitete Artefakte
 
-Für den operativen Entwicklungsprozess soll jedoch gelten:
+werden in einem zusammenhängenden Prozess in ADO geführt.
 
-> **Was in ADO fachlich beschrieben und freigegeben ist, dient als maßgeblicher Ausgangspunkt für die Ableitung weiterer Entwicklungs- und Qualitätssicherungsartefakte.**
+Der stärkste Hebel liegt dabei nicht in der freien Ableitung beliebiger Inhalte aus Anforderungen, sondern in der systematischen Weiterverarbeitung der **Akzeptanzkriterien**.
 
-ADO wird damit zur **Single Source of Truth** im engeren Sinne des Entwicklungsprozesses.
+Für den operativen Entwicklungsprozess soll daher gelten:
+
+> **Was in ADO fachlich beschrieben, als User Story formuliert und in Akzeptanzkriterien konkretisiert ist, dient als maßgeblicher Ausgangspunkt für Testfälle und weitere Dokumentationsformen.**
+
+ADO wird damit zur **Single Source of Truth** im engeren Sinne dieses Entwicklungsprozesses.
 
 ---
 
@@ -40,17 +58,17 @@ ADO wird damit zur **Single Source of Truth** im engeren Sinne des Entwicklungsp
 
 Im vorliegenden Kontext bedeutet **Single Source of Truth**:
 
-- Anforderungen werden zentral in **ADO** gepflegt.
-- Fachliche Änderungen werden dort strukturiert beschrieben.
-- Aus diesen Inhalten werden weitere Artefakte systematisch abgeleitet.
-- Änderungen an Anforderungen können gezielt auf ihre Auswirkungen in Test und Qualitätssicherung geprüft werden.
+- die fachliche Anforderung wird in ADO nachvollziehbar überführt,
+- daraus wird eine User Story erstellt,
+- diese wird in Akzeptanzkriterien übersetzt,
+- und die Akzeptanzkriterien bilden die verbindliche Grundlage für Test und Dokumentation.
 
 Die zentrale Annahme lautet:
 
-**Je strukturierter und vollständiger Anforderungen in ADO vorliegen, desto besser lassen sich nachgelagerte Arbeitsschritte unterstützen, standardisieren und teilweise automatisieren.**
+**Je strukturierter und vollständiger User Stories und insbesondere Akzeptanzkriterien in ADO vorliegen, desto besser lassen sich nachgelagerte Arbeitsschritte unterstützen, standardisieren und teilweise automatisieren.**
 
 Damit verschiebt sich der Fokus weg von allgemeiner KI-Nutzung hin zu einem klaren Prozessnutzen:
-- bessere Anforderungsqualität
+- bessere Qualität bei User Stories und Akzeptanzkriterien
 - konsistentere Testbasis
 - weniger manuelle Doppelarbeit
 - bessere Nachvollziehbarkeit bei Änderungen
@@ -61,51 +79,52 @@ Damit verschiebt sich der Fokus weg von allgemeiner KI-Nutzung hin zu einem klar
 
 Für das Vorhaben sind zunächst drei Hauptanwendungsfälle besonders relevant.
 
-### 4.1 Unterstützung bei der Erstellung von Anforderungen für die Entwicklung
+### 4.1 Unterstützung bei der Erstellung von User Stories und Akzeptanzkriterien
 
 #### Ausgangsproblem
-Die Erstellung fachlich tragfähiger Anforderungen ist aufwändig. Besonders kritisch sind dabei:
+Die Überführung einer fachlichen Anforderung in eine tragfähige User Story und anschließend in belastbare Akzeptanzkriterien ist aufwändig. Besonders kritisch sind dabei:
 - unklare Formulierungen
 - uneinheitliche Struktur
 - fehlende Abgrenzungen
 - unvollständige Akzeptanzkriterien
 - zu wenig berücksichtigte Sonder- und Fehlerfälle
 
-Diese Schwächen wirken sich direkt auf Entwicklung, Test und Abnahme aus.
+Diese Schwächen wirken sich direkt auf Design, Entwicklung, Test und Abnahme aus.
 
 #### Ziel
-Ein Corporate LLM soll Mitarbeitende bei der Erstellung qualitativ hochwertiger Anforderungen in ADO unterstützen.
+Ein Corporate LLM soll Mitarbeitende bei der Überführung fachlicher Anforderungen in qualitativ hochwertige **User Stories** und **Akzeptanzkriterien** in ADO unterstützen.
 
 #### Konkret bedeutet das
 Aus einer fachlichen Beschreibung oder einem ersten Entwurf kann das System Vorschläge erzeugen für:
 - eine **sauber formulierte User Story**
 - passende **Akzeptanzkriterien**
-- eine erste Struktur der Anforderung
 - fehlende fachliche Präzisierungen
 - mögliche Sonderfälle und Fehlerfälle
+- offene Rückfragen zur fachlichen Schärfung
 
 #### Beispielhafte Unterstützung
-Aus einer freien Beschreibung wie
-> „Im BSLRR-Prozess sollen eingegebene Daten jederzeit gespeichert werden können“
+Aus einer freien fachlichen Beschreibung wie
+> „Die Lernausgangslage eines Kindes soll in einem Textfeld beschrieben werden können“
 
 würde das System einen strukturierten Vorschlag erzeugen für:
-- User Story
-- Akzeptanzkriterien
+- eine User Story im vereinbarten Format
+- dazu passende Akzeptanzkriterien
 - fachliche Randbedingungen
-- offene Rückfragen
+- offene Klärungspunkte
 
 #### Nutzen
-- höhere Einheitlichkeit von Anforderungen
-- weniger Nachschärfung zwischen Fachlichkeit und Entwicklung
+- höhere Einheitlichkeit bei User Stories
+- bessere Qualität der Akzeptanzkriterien
+- weniger Nachschärfung zwischen Fachlichkeit, UX und Entwicklung
 - bessere Prüfbarkeit
-- bessere Grundlage für nachgelagerte Testableitung
+- bessere Grundlage für nachgelagerte Testableitung und Dokumentation
 
 ---
 
-### 4.2 Ableitung von Testfällen aus Anforderungen und Akzeptanzkriterien
+### 4.2 Ableitung von Testfällen aus Akzeptanzkriterien
 
 #### Ausgangsproblem
-Testfälle werden häufig manuell aus Anforderungen abgeleitet. Das ist fehleranfällig und stark von Erfahrung, Zeit und persönlicher Gründlichkeit abhängig.
+Testfälle werden häufig manuell aus Akzeptanzkriterien abgeleitet. Das ist fehleranfällig und stark von Erfahrung, Zeit und persönlicher Gründlichkeit abhängig.
 
 Typische Probleme sind:
 - offensichtliche Fälle werden getestet, Randfälle fehlen
@@ -114,10 +133,10 @@ Typische Probleme sind:
 - bei Änderungen müssen Testfälle manuell gesucht und angepasst werden
 
 #### Ziel
-Ein Corporate LLM soll aus den in ADO hinterlegten Anforderungen und Akzeptanzkriterien systematisch Testfälle vorschlagen.
+Ein Corporate LLM soll aus den in ADO hinterlegten Akzeptanzkriterien systematisch Testfälle vorschlagen.
 
 #### Konkret bedeutet das
-Das System kann zu einer Anforderung Testfälle ableiten für:
+Das System kann zu einem Satz von Akzeptanzkriterien Testfälle ableiten für:
 - **Normalfälle**
 - **Sonderfälle**
 - **Fehlerfälle**
@@ -131,24 +150,24 @@ Das System kann zu einer Anforderung Testfälle ableiten für:
 - Zeitersparnis bei der Erstformulierung von Testfällen
 
 #### Besonderer Mehrwert
-Wenn Anforderungen und Akzeptanzkriterien bereits in ADO sauber strukturiert vorliegen, entsteht eine direkte Linie:
+Wenn User Story und Akzeptanzkriterien bereits in ADO sauber strukturiert vorliegen, entsteht eine direkte Linie:
 
-**Anforderung in ADO → Akzeptanzkriterien → vorgeschlagene Testfälle**
+**fachliche Anforderung → User Story → Akzeptanzkriterien in ADO → vorgeschlagene Testfälle**
 
-Genau diese Kette ist für einen ADO-zentrierten KI-Einsatz besonders attraktiv.
+Für die eigentliche Testableitung sind dabei die **Akzeptanzkriterien** der entscheidende Bezugspunkt.
 
 ---
 
 ### 4.3 Perspektivisch: Unterstützung der Testautomatisierung
 
 #### Ausgangsproblem
-Zwischen fachlicher Anforderung und automatisiertem Test liegt heute oft ein deutlicher Übersetzungsaufwand. Fachliche Aussagen müssen in technische Testlogik übertragen werden.
+Zwischen Akzeptanzkriterien, Testfall und automatisiertem Test liegt heute oft ein deutlicher Übersetzungsaufwand. Fachliche Aussagen müssen in technische Testlogik übertragen werden.
 
 #### Ziel
 Ein Corporate LLM soll perspektivisch helfen, die Brücke zwischen fachlich formulierten Anforderungen und einer möglichen Testautomatisierung zu verkürzen.
 
 #### Konkret denkbare Unterstützung
-Aus Anforderungen und Testfällen könnten vorbereitet oder vorgeschlagen werden:
+Aus Akzeptanzkriterien und Testfällen könnten vorbereitet oder vorgeschlagen werden:
 - testbare Szenarien
 - strukturierte Testfalllogiken
 - Vorlagen für automatisierbare Testskripte
@@ -172,27 +191,27 @@ Realistisch und sinnvoll ist zunächst:
 
 ## 5. Zielbild des Prozesses
 
-Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort von Anforderungen ist, sondern der **aktive Ausgangspunkt für Folgeprozesse**.
+Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die durchgängige Weiterverarbeitung fachlicher Inhalte**.
 
 Ein mögliches Zielbild lautet:
 
 ```text
-Fachliche Idee / Änderungsbedarf
+Fachliche Anforderung
         ↓
-Corporate LLM unterstützt Formulierung in ADO
+Corporate LLM unterstützt die Formulierung der User Story in ADO
         ↓
-Strukturierte User Story + Akzeptanzkriterien in ADO
+UX + Fachlichkeit übersetzen in Akzeptanzkriterien
         ↓
-Corporate LLM leitet Testfälle ab
+Corporate LLM leitet aus den Akzeptanzkriterien Testfälle ab
         ↓
-Fachliche und technische Prüfung
+Entwicklung setzt Akzeptanzkriterien um
         ↓
-Entwicklung
+Test prüft Akzeptanzkriterien
         ↓
-Perspektivisch Unterstützung bei Testautomatisierung
+Perspektivisch Ableitung von Dokumentationsformen und Unterstützung bei Testautomatisierung
 ```
 
-Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht mehr isoliert entstehen, sondern in einer nachvollziehbaren Kette aufeinander aufbauen.
+Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht isoliert entstehen, sondern in einer nachvollziehbaren Kette aufeinander aufbauen.
 
 ---
 
@@ -201,22 +220,21 @@ Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht mehr isoliert ent
 Damit dieser Ansatz tragfähig ist, müssen mehrere Bedingungen erfüllt sein.
 
 ### 6.1 Mindeststruktur in ADO
-Die Anforderungen in ADO müssen so formuliert sein, dass sie systematisch ausgewertet werden können. Dazu gehören mindestens:
-- fachliches Ziel
-- betroffene Rolle oder Nutzergruppe
-- gewünschtes Verhalten der Anwendung
+Die Inhalte in ADO müssen so formuliert sein, dass sie systematisch ausgewertet werden können. Dazu gehören mindestens:
+- fachliche Anforderung
+- User Story im vereinbarten Format
 - Akzeptanzkriterien
 - erkennbare Sonder- oder Fehlerfälle
 
 ### 6.2 Einheitlicheres Vorgehen bei User Stories und Akzeptanzkriterien
-Wenn Teams Anforderungen sehr unterschiedlich formulieren, sinkt die Qualität der automatischen Unterstützung. Deshalb wäre mittelfristig ein Mindeststandard sinnvoll.
+Wenn User Stories und Akzeptanzkriterien sehr unterschiedlich formuliert werden, sinkt die Qualität der automatischen Unterstützung. Deshalb wäre mittelfristig ein Mindeststandard sinnvoll.
 
 ### 6.3 Menschliche Prüfung bleibt zwingend
 Das LLM darf Vorschläge machen, aber keine fachliche Freigabe ersetzen. Verantwortung bleibt bei den fachlich zuständigen Personen.
 
 ### 6.4 Rückverfolgbarkeit
 Es muss nachvollziehbar bleiben:
-- aus welcher ADO-Anforderung ein Testfall abgeleitet wurde,
+- aus welcher User Story und welchen Akzeptanzkriterien ein Testfall abgeleitet wurde,
 - welche Version zugrunde lag,
 - und ob der Vorschlag durch Menschen angepasst wurde.
 
@@ -233,7 +251,7 @@ Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die drei Hauptanw
 Eine bessere Anforderung wirkt sich unmittelbar auf Entwicklung, Test und Qualität aus.
 
 ### 7.2 Gute fachliche Anschlussfähigkeit
-User Stories, Akzeptanzkriterien und Testfälle gehören bereits heute zusammen. Das Vorhaben baut also auf einem bestehenden Arbeitszusammenhang auf und erfindet keinen künstlichen KI-Fall.
+Fachliche Anforderung, User Story, Akzeptanzkriterien und Testfälle gehören bereits heute zusammen. Das Vorhaben baut also auf einem bestehenden Arbeitszusammenhang auf und erfindet keinen künstlichen KI-Fall.
 
 ### 7.3 Begrenzter und nachvollziehbarer Startpunkt
 Statt ein Corporate LLM zunächst als allgemeines Wissenssystem für alles zu denken, beginnt man mit einem klar umrissenen Prozessschritt mit hohem Nutzen.
@@ -252,7 +270,7 @@ Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf
 Für die erste Pilotierung erscheint folgender Zuschnitt sinnvoll:
 
 ### Pilotfokus Stufe 1
-**Unterstützung bei der Erstellung von User Stories und Akzeptanzkriterien in ADO**
+**Unterstützung bei der Erstellung von User Stories auf Basis fachlicher Anforderungen sowie bei der Formulierung von Akzeptanzkriterien in ADO**
 
 Warum?
 - höchster Hebel am Anfang der Kette
@@ -260,7 +278,7 @@ Warum?
 - gute Voraussetzung für alles Weitere
 
 ### Pilotfokus Stufe 2
-**Ableitung von Testfällen aus freigegebenen Anforderungen**
+**Ableitung von Testfällen aus freigegebenen Akzeptanzkriterien**
 
 Warum?
 - direkt anschlussfähig
@@ -278,23 +296,207 @@ Warum?
 
 ## 9. Vorläufige Schlussfolgerung
 
-Ein Corporate LLM entfaltet im vorliegenden Kontext seinen größten Nutzen nicht als allgemeiner Chat-Assistent, sondern als **prozessnahes Arbeitswerkzeug im ADO-basierten Entwicklungsprozess**.
+Ein Corporate LLM entfaltet im vorliegenden Kontext seinen größten Nutzen nicht als allgemeiner Chat-Assistent, sondern als **prozessnahes Arbeitswerkzeug im ADO-basierten Entwicklungsprozess von ila**.
 
 Der strategisch sinnvollste Einstieg ist daher:
 
-> **ADO als Single Source of Truth für Anforderungen stärken und darauf aufbauend KI-Unterstützung für User Stories, Akzeptanzkriterien und Testfälle etablieren.**
+> **ADO als Single Source of Truth für den Zusammenhang von fachlicher Anforderung, User Story, Akzeptanzkriterien und daraus abgeleiteten Testfällen zu stärken.**
 
 Damit entsteht ein klarer, fachlich anschlussfähiger und schrittweise ausbaubarer Anwendungsrahmen.
 
 Die eigentliche Stärke des Vorhabens liegt nicht im Sprachmodell an sich, sondern in der besseren Verbindung von:
-- Anforderung
-- Qualitätskriterium
+- fachlicher Anforderung
+- User Story
+- Akzeptanzkriterien
 - Testlogik
-- perspektivisch Testautomatisierung
+- perspektivisch Dokumentationsformen und Testautomatisierung
 
 ---
 
-## 10. Offene Fragen für die nächste Iteration
+## 10. Technische Anforderungen an ein Corporate LLM
+
+Für den vorliegenden Anwendungsfall genügt kein allgemeiner KI-Chat. Erforderlich ist eine technisch und organisatorisch abgesicherte Plattform, die in den bestehenden Entwicklungsprozess eingebettet werden kann.
+
+Ausgangspunkt ist dabei die Annahme, dass rund **60 Mitarbeitende** mit der LUSD arbeiten und perspektivisch ganz oder teilweise von einer solchen Lösung profitieren könnten. Nicht alle werden dieselben Funktionen benötigen. Daraus folgt, dass die Lösung sowohl skalierbar als auch rollenbasiert aufgebaut sein muss.
+
+### 10.1 Zielarchitektur
+
+Für den beschriebenen Einsatzfall werden mindestens vier technische Bausteine benötigt:
+
+1. **LLM-Zugriffsschicht**  
+   Zugriff auf ein oder mehrere Sprachmodelle über eine kontrollierte und datenschutzkonforme Schnittstelle.
+
+2. **Wissensschicht**  
+   Anbindung an freigegebene Quellen, insbesondere:
+   - **Azure DevOps (ADO)**
+   - freigegebene LUSD-Dokumentation
+   - Anleitungen
+   - Release-Informationen
+   - Rollen- und Berechtigungskonzepte
+   - weitere freigegebene Fachunterlagen
+
+3. **Anwendungslogik**  
+   Fachliche Vorlagen und Workflows für klar definierte Aufgaben, zum Beispiel:
+   - fachliche Anforderung in User Story überführen
+   - Akzeptanzkriterien strukturieren
+   - Testfälle aus Akzeptanzkriterien ableiten
+   - Dokumentationsformen vorbereiten
+
+4. **Sicherheits- und Rechteebene**  
+   Rollenbasierte Zugriffskontrolle, Protokollierung, Bereichstrennung und kontrollierter Zugriff auf Quellen.
+
+### 10.2 Hardware und Betriebsmodell
+
+#### Empfohlener Einstieg
+
+Für den vorliegenden Anwendungsfall ist ein Einstieg mit **gehosteten Sprachmodellen** und einer eigenen, abgesicherten Fachlogik am sinnvollsten.
+
+In diesem Fall wird keine große eigene KI-Hardware für das Sprachmodell benötigt. Benötigt wird vielmehr Infrastruktur für:
+- Anwendungsschicht
+- Benutzerverwaltung
+- Dokumentenverarbeitung
+- Indexierung und semantische Suche
+- Datenhaltung
+- Protokollierung und Monitoring
+
+Für eine erste belastbare Lösung mit etwa 60 potenziellen Nutzerinnen und Nutzern erscheint folgende Größenordnung realistisch:
+- **1-2 Anwendungsserver**
+- **1 Datenbankserver**
+- **1 Such- oder Indexierungsdienst**
+- gesicherter Dateispeicher für Dokumente, Indizes und Protokolle
+- Trennung von Test- und Produktivumgebung
+
+Als grobe Ausgangsgröße erscheint für die Anwendungsschicht eine Ausstattung in der Größenordnung von etwa:
+- **8-16 vCPU**
+- **32-64 GB RAM**
+pro Instanz sinnvoll.
+
+Eine **GPU** ist in diesem Modell nicht zwingend erforderlich, solange das eigentliche Sprachmodell extern und rechtskonform betrieben wird.
+
+#### Nicht empfohlener Einstieg
+
+Ein vollständiger **Eigenbetrieb lokaler Modelle** wäre technisch deutlich aufwändiger. Dafür wären zusätzlich erforderlich:
+- GPU-Server mit hohem VRAM
+- eigener Modellbetrieb
+- zusätzliche Betriebs- und Wartungskompetenz
+- aufwändigeres Performance- und Lastmanagement
+
+Für den fachlichen Einstieg in den beschriebenen Anwendungsfall erscheint dies nicht verhältnismäßig.
+
+### 10.3 Agenten und Funktionsmodule
+
+Für dieses Vorhaben sind **Agenten** sinnvoll, allerdings nicht als frei agierende Systeme, sondern als **klar begrenzte Spezial-Assistenten**.
+
+Sinnvolle Module wären insbesondere:
+
+#### User-Story-Assistent
+- Eingabe: fachliche Anforderung
+- Ausgabe: strukturierte User Story im vereinbarten Format
+
+#### Akzeptanzkriterien-Assistent
+- Eingabe: User Story
+- Ausgabe: strukturierte Akzeptanzkriterien, Sonderfälle, Fehlerfälle, offene Rückfragen
+
+#### Testfall-Assistent
+- Eingabe: Akzeptanzkriterien
+- Ausgabe: Testfälle mit Testschritten und erwarteten Ergebnissen
+
+#### Dokumentations-Assistent
+- Eingabe: Akzeptanzkriterien und umgesetzte Funktion
+- Ausgabe: Entwürfe für Anwenderhilfe, Kurzbeschreibung, Release-Hinweise oder weitere Dokumentationsformen
+
+#### Impact-Assistent
+- Eingabe: geänderte User Story oder geänderte Akzeptanzkriterien
+- Ausgabe: Hinweise auf betroffene Testfälle, Dokumentationsbausteine und Folgeprüfungen
+
+Wichtig ist dabei: Diese Assistenten sollen **Vorschläge erzeugen**, aber keine fachliche oder organisatorische Freigabe ersetzen.
+
+### 10.4 Anforderungen aus der LUSD-Perspektive
+
+Die im Repo vorliegenden LUSD-Unterlagen zeigen, dass die technische Lösung folgende Besonderheiten des Fachkontextes berücksichtigen muss:
+
+#### Rollen und Berechtigungen
+Die LUSD arbeitet bereits heute mit einem differenzierten Rollen- und Berechtigungskonzept. Daraus folgt für ein Corporate LLM:
+- rollenbasierter Zugriff auf Funktionen und Inhalte
+- restriktive Vergabe von Berechtigungen
+- Trennung unterschiedlicher Nutzergruppen
+- Zugriff nur auf freigegebene Inhalte
+
+#### Kontextabhängige Anwenderunterstützung
+Die LUSD verfügt bereits über:
+- Online-Hilfen pro Webseite
+- Anleitungen
+- FAQs
+- Support- und Helpdesk-Strukturen
+- Fortbildungsangebote
+
+Das Corporate LLM sollte diese Struktur nicht ersetzen, sondern sinnvoll ergänzen. Antworten sollten deshalb möglichst:
+- kontextbezogen,
+- rollenbezogen,
+- quellenbezogen
+- und anschlussfähig an bestehende Hilfestrukturen
+sein.
+
+#### Heterogene Dokumentbestände
+Im LUSD-Bestand liegen bereits unterschiedliche Dokumenttypen vor, darunter:
+- PDF
+- Word
+- Excel
+- Textdateien
+- Release-Dokumente
+- Anleitungen
+
+Die Plattform muss deshalb in der Lage sein:
+- unterschiedliche Dokumenttypen zu verarbeiten,
+- Inhalte zu indexieren,
+- Metadaten zu verwalten,
+- Versionen zu unterscheiden,
+- und nach Thema, Zielgruppe oder Dokumenttyp zu filtern.
+
+### 10.5 Technische Muss-Anforderungen
+
+Aus dem beschriebenen Vorhaben ergeben sich mindestens folgende Muss-Anforderungen:
+
+- **EU-Hosting** oder gleichwertig rechtskonforme Betriebsform
+- **AVV** mit eingesetzten Anbietern
+- **kein Training mit Organisationsdaten**
+- **rollenbasierte Zugriffskontrolle**
+- **Quellenbezug pro Antwort**
+- **Anbindung an ADO**
+- **Anbindung an freigegebene Dokumentenquellen**
+- **semantische Suche**
+- **Versionierung**
+- **Auditierbarkeit und Protokollierung**
+- **Trennung von Test- und Produktivumgebung**
+- **API-Schnittstellen** für die Integration in bestehende Systeme
+
+### 10.6 Sinnvolle Zusatzanforderungen
+
+Zusätzlich sinnvoll wären:
+- mehrere Modelloptionen über eine Oberfläche
+- Vorlagenbibliothek für wiederkehrende Aufgaben
+- Feedbackfunktion zur Bewertung von Vorschlägen
+- Export in nutzbare Formate, zum Beispiel Word, Markdown oder Testfalltabellen
+- Freigabe- und Prüfschritte für erzeugte Inhalte
+- Bereichs- oder Mandantentrennung bei unterschiedlichen Nutzergruppen
+
+### 10.7 Technische Empfehlung
+
+Für den beschriebenen Anwendungsfall erscheint folgende technische Linie am sinnvollsten:
+
+> **Keine isolierte KI-Einzellösung, sondern eine abgesicherte Plattform mit ADO-Anbindung, Dokumentenindex, rollenbasiertem Zugriff und klar begrenzten Spezial-Assistenten.**
+
+Der Einstieg sollte dabei **nicht** über lokalen Vollbetrieb großer Modelle erfolgen, sondern über eine kontrollierte Plattformarchitektur mit extern betriebenem, datenschutzkonform eingebundenem Sprachmodell.
+
+So bleibt der Fokus auf dem eigentlichen Nutzen:
+- bessere User Stories
+- bessere Akzeptanzkriterien
+- bessere Testfälle
+- bessere Dokumentationsgrundlagen
+
+---
+
+## 11. Offene Fragen für die nächste Iteration
 
 1. Wie sehen die derzeitigen Anforderungen in ADO konkret aus?
 2. Wie stark unterscheiden sich User Stories und Akzeptanzkriterien aktuell zwischen Teams?
