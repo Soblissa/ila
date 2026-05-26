@@ -226,30 +226,59 @@ Der relevante technische Einstiegspunkt des Corporate LLM liegt dabei nicht am B
 
 ---
 
-## 6. Voraussetzungen für den Ansatz
+## 6. Erster Analyseauftrag für die LUSD
 
-Damit dieser Ansatz tragfähig ist, müssen mehrere Bedingungen erfüllt sein.
+Für die **LUSD** kann nicht vorausgesetzt werden, dass die Inhalte in ADO bereits heute einheitlich, vollständig und in einer Form vorliegen, die sofort systematisch weiterverarbeitet werden kann. Gerade deshalb liegt ein wesentlicher erster Nutzen eines Corporate LLM in der **Analyse des bestehenden ADO-Bestands**.
 
-### 6.1 Mindeststruktur in ADO
-Die Inhalte in ADO müssen so formuliert sein, dass sie systematisch ausgewertet werden können. Dazu gehören mindestens:
-- User Story im vereinbarten Format
-- Akzeptanzkriterien
-- erkennbare Sonder- oder Fehlerfälle
+Der erste Auftrag des Systems wäre damit nicht primär die direkte Standardisierung neuer Inhalte, sondern zunächst die strukturierte Auswertung dessen, was in der **LUSD** bereits vorhanden ist.
 
-### 6.2 Einheitlicheres Vorgehen bei User Stories und Akzeptanzkriterien
-Wenn User Stories und Akzeptanzkriterien sehr unterschiedlich formuliert werden, sinkt die Qualität der automatischen Unterstützung. Deshalb wäre mittelfristig ein Mindeststandard sinnvoll.
+### 6.1 Ziel des ersten Analyseauftrags
 
-### 6.3 Menschliche Prüfung bleibt zwingend
-Das LLM darf Vorschläge machen, aber keine fachliche Freigabe ersetzen. Verantwortung bleibt bei den fachlich zuständigen Personen.
+Das Corporate LLM soll den vorhandenen ADO-Bestand der LUSD systematisch auswerten, um:
+- wiederkehrende Muster in User Stories zu erkennen,
+- Unterschiede in Formulierungsweisen und Detaillierungsgraden sichtbar zu machen,
+- typische Strukturen von Akzeptanzkriterien zu identifizieren,
+- Lücken, Unschärfen und Inkonsistenzen zu erkennen,
+- häufige fachliche oder sprachliche Schwächen zu benennen,
+- und daraus Empfehlungen für eine künftig bessere Strukturierbarkeit abzuleiten.
 
-### 6.4 Rückverfolgbarkeit
-Es muss nachvollziehbar bleiben:
-- aus welcher User Story und welchen Akzeptanzkriterien ein Testfall abgeleitet wurde,
-- welche Version zugrunde lag,
-- und ob der Vorschlag durch Menschen angepasst wurde.
+Gerade bei der LUSD ist das relevant, weil von einem historisch gewachsenen Bestand mit unterschiedlichen Autoren, unterschiedlichen fachlichen Zuschnitten und unterschiedlichen Qualitätsniveaus auszugehen ist.
 
-### 6.5 Klare Begrenzung des Systems
-Das LLM darf keine neue Fachlichkeit erfinden. Es soll strukturieren, ableiten, auf Lücken hinweisen und Vorschläge formulieren, aber nicht eigenständig fachpolitische Entscheidungen treffen.
+### 6.2 Konkrete Fragestellungen für die Analyse
+
+Ein erster Analyseauftrag an ein Corporate LLM könnte für die LUSD zum Beispiel lauten:
+- Welche Typen von User Stories kommen im ADO-Bestand der LUSD wiederholt vor?
+- Welche Formulierungen oder Muster werden häufig verwendet?
+- Welche Bestandteile sind regelmäßig vorhanden und welche fehlen oft?
+- Wie stark unterscheiden sich Akzeptanzkriterien zwischen Themenfeldern oder Teams?
+- Welche Formulierungen eignen sich als gute Vorlage für künftige User Stories?
+- Wo gibt es auffällige Unschärfen, Widersprüche oder Auslassungen?
+
+### 6.3 Erwarteter Nutzen dieses ersten Schritts
+
+Dieser erste Analyseschritt hätte für die LUSD mehrere Vorteile:
+- Der vorhandene ADO-Bestand wird überhaupt erst systematisch durchschaubar.
+- Gute Muster können identifiziert und für die weitere Arbeit nutzbar gemacht werden.
+- Schwächen im Bestand werden nicht nur vermutet, sondern konkret benannt.
+- Empfehlungen für ein einheitlicheres Vorgehen können auf realem Material aufsetzen.
+- Die spätere Ableitung von Testfällen, Dokumentationsformen oder weiteren Unterstützungsleistungen kann auf einer belastbareren Grundlage erfolgen.
+
+### 6.4 Bedeutung für das weitere Vorgehen
+
+Für die LUSD sollte das Corporate LLM daher zunächst nicht so gedacht werden, als läge bereits ein sauber standardisierter ADO-Bestand vor. Realistischer und fachlich sinnvoller ist ein zweistufiges Vorgehen:
+
+1. **Analyse des bestehenden ADO-Bestands der LUSD**
+2. **Ableitung von Empfehlungen, Standards und späteren Unterstützungsfunktionen**
+
+Menschliche Prüfung bleibt dabei zwingend erforderlich. Das Corporate LLM soll Muster erkennen, Vorschläge machen und Auffälligkeiten sichtbar machen, aber keine fachliche Bewertung oder Freigabe ersetzen.
+
+### 6.5 Hinweis für die weitere Schärfung des Gesamttextes
+
+Im weiteren Verlauf sollte das Gesamtdokument noch einmal systematisch daraufhin geprüft werden,
+- was spezifisch für die **LUSD** gilt,
+- was spezifisch für **ila** als modernes Teilprodukt der LUSD gilt,
+- was perspektivisch für **zukünftige Teilprodukte der LUSD im ila-Stil** gelten könnte,
+- und was als gemeinsamer Kern für alle diese Kontexte gilt.
 
 ---
 
