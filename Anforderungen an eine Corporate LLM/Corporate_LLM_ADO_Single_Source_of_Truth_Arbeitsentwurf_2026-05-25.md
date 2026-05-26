@@ -196,31 +196,31 @@ Der erste Auftrag des Systems wäre damit nicht primär die direkte Standardisie
 
 ### 6.1 Ziel des ersten Analyseauftrags
 
-Das Corporate LLM soll den vorhandenen ADO-Bestand der LUSD systematisch auswerten, um:
-- wiederkehrende Muster in User Stories zu erkennen,
-- Unterschiede in Formulierungsweisen und Detaillierungsgraden sichtbar zu machen,
-- typische Strukturen von Akzeptanzkriterien zu identifizieren,
-- Lücken, Unschärfen und Inkonsistenzen zu erkennen,
-- häufige fachliche oder sprachliche Schwächen zu benennen,
-- und daraus Empfehlungen für eine künftig bessere Strukturierbarkeit abzuleiten.
+Das Corporate LLM soll den vorhandenen ADO-Bestand der LUSD systematisch auswerten, um insbesondere die vorhandenen **Akzeptanzkriterien** besser zu verstehen. Dabei soll es:
+- wiederkehrende Muster in Akzeptanzkriterien erkennen,
+- Unterschiede in Formulierungsweisen und Detaillierungsgraden sichtbar machen,
+- typische Strukturen von Akzeptanzkriterien identifizieren,
+- Lücken, Unschärfen und Inkonsistenzen erkennen,
+- häufige fachliche oder sprachliche Schwächen benennen,
+- und daraus Empfehlungen für eine künftig bessere Strukturierbarkeit ableiten.
 
 Gerade bei der LUSD ist das relevant, weil von einem historisch gewachsenen Bestand mit unterschiedlichen Autoren, unterschiedlichen fachlichen Zuschnitten und unterschiedlichen Qualitätsniveaus auszugehen ist.
 
 ### 6.2 Konkrete Fragestellungen für die Analyse
 
 Ein erster Analyseauftrag an ein Corporate LLM könnte für die LUSD zum Beispiel lauten:
-- Welche Typen von User Stories kommen im ADO-Bestand der LUSD wiederholt vor?
+- Welche Typen von Akzeptanzkriterien kommen im ADO-Bestand der LUSD wiederholt vor?
 - Welche Formulierungen oder Muster werden häufig verwendet?
 - Welche Bestandteile sind regelmäßig vorhanden und welche fehlen oft?
 - Wie stark unterscheiden sich Akzeptanzkriterien zwischen Themenfeldern oder Teams?
-- Welche Formulierungen eignen sich als gute Vorlage für künftige User Stories?
+- Welche Formulierungen eignen sich als gute Vorlage für künftige Akzeptanzkriterien?
 - Wo gibt es auffällige Unschärfen, Widersprüche oder Auslassungen?
 
 ### 6.3 Erwarteter Nutzen dieses ersten Schritts
 
 Dieser erste Analyseschritt hätte für die LUSD mehrere Vorteile:
 - Der vorhandene ADO-Bestand wird überhaupt erst systematisch durchschaubar.
-- Gute Muster können identifiziert und für die weitere Arbeit nutzbar gemacht werden.
+- Gute Muster in Akzeptanzkriterien können identifiziert und für die weitere Arbeit nutzbar gemacht werden.
 - Schwächen im Bestand werden nicht nur vermutet, sondern konkret benannt.
 - Empfehlungen für ein einheitlicheres Vorgehen können auf realem Material aufsetzen.
 - Die spätere Ableitung von Testfällen, Dokumentationsformen oder weiteren Unterstützungsleistungen kann auf einer belastbareren Grundlage erfolgen.
@@ -229,33 +229,25 @@ Dieser erste Analyseschritt hätte für die LUSD mehrere Vorteile:
 
 Für die LUSD sollte das Corporate LLM daher zunächst nicht so gedacht werden, als läge bereits ein sauber standardisierter ADO-Bestand vor. Realistischer und fachlich sinnvoller ist ein zweistufiges Vorgehen:
 
-1. **Analyse des bestehenden ADO-Bestands der LUSD**
+1. **Analyse des bestehenden ADO-Bestands der LUSD mit Schwerpunkt auf den Akzeptanzkriterien**
 2. **Ableitung von Empfehlungen, Standards und späteren Unterstützungsfunktionen**
 
 Menschliche Prüfung bleibt dabei zwingend erforderlich. Das Corporate LLM soll Muster erkennen, Vorschläge machen und Auffälligkeiten sichtbar machen, aber keine fachliche Bewertung oder Freigabe ersetzen.
 
-### 6.5 Hinweis für die weitere Schärfung des Gesamttextes
-
-Im weiteren Verlauf sollte das Gesamtdokument noch einmal systematisch daraufhin geprüft werden,
-- was spezifisch für die **LUSD** gilt,
-- was spezifisch für **ila** als modernes Teilprodukt der LUSD gilt,
-- was perspektivisch für **zukünftige Teilprodukte der LUSD im ila-Stil** gelten könnte,
-- und was als gemeinsamer Kern für alle diese Kontexte gilt.
-
 ---
 
-## 7. Warum dieser Fokus sinnvoll ist
+## 7. Warum dieser Fokus für LUSD und ila sinnvoll ist
 
-Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die drei Hauptanwendungsfälle ist für einen Einstieg besonders geeignet, weil hier ein klarer, messbarer Nutzen entsteht.
+Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die beschriebenen Anwendungsfälle ist für **ila** und perspektivisch auch für die **LUSD** besonders geeignet, weil hier ein klarer und messbarer Nutzen entsteht.
 
-### 7.1 Direkte Hebelwirkung
-Eine bessere Anforderung wirkt sich unmittelbar auf Entwicklung, Test und Qualität aus.
+### 7.1 Direkte Hebelwirkung in ila
+Bei ila sind User Stories, Design, Akzeptanzkriterien, Entwicklung und Test bereits eng miteinander verzahnt. Verbesserungen bei der Qualität und Weiterverarbeitung der Akzeptanzkriterien wirken sich deshalb unmittelbar auf Entwicklung, Test und Dokumentation aus.
 
-### 7.2 Gute fachliche Anschlussfähigkeit
-Fachliche Anforderung, User Story, Akzeptanzkriterien und Testfälle gehören bereits heute zusammen. Das Vorhaben baut also auf einem bestehenden Arbeitszusammenhang auf und erfindet keinen künstlichen KI-Fall.
+### 7.2 Analyse- und Standardisierungspotenzial in der LUSD
+Für die LUSD liegt der Nutzen zunächst stärker in der Analyse des bestehenden ADO-Bestands. Gerade dort kann ein Corporate LLM helfen, Muster in Akzeptanzkriterien zu erkennen, Unterschiede sichtbar zu machen und Empfehlungen für ein einheitlicheres Vorgehen abzuleiten.
 
-### 7.3 Begrenzter und nachvollziehbarer Startpunkt
-Statt ein Corporate LLM zunächst als allgemeines Wissenssystem für alles zu denken, beginnt man mit einem klar umrissenen Prozessschritt mit hohem Nutzen.
+### 7.3 Gemeinsamer Nutzen für beide Kontexte
+Sowohl für ila als auch für die LUSD gilt: Der größte Nutzen entsteht dort, wo Akzeptanzkriterien nicht nur geschrieben, sondern systematisch weiterverarbeitet werden können, zum Beispiel für Testfälle, Dokumentationsformen oder perspektivisch für integrierte Anwenderunterstützung.
 
 ### 7.4 Anschlussfähigkeit für spätere Ausbaustufen
 Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf:
@@ -263,6 +255,7 @@ Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf
 - Anwenderhilfen
 - Change-Impact-Analysen
 - integrierte Unterstützung direkt in ila
+- übertragbare Standards für weitere Teilprodukte der LUSD
 
 ---
 
@@ -271,12 +264,12 @@ Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf
 Für die erste Pilotierung erscheint folgender Zuschnitt sinnvoll:
 
 ### Pilotfokus Stufe 1
-**Unterstützung bei der Erstellung von User Stories auf Basis fachlicher Anforderungen sowie bei der Formulierung von Akzeptanzkriterien in ADO**
+**Analyse des bestehenden ADO-Bestands mit Schwerpunkt auf Akzeptanzkriterien, zunächst vor allem für die LUSD**
 
 Warum?
-- höchster Hebel am Anfang der Kette
-- direkte Verbesserung der Eingangsqualität
-- gute Voraussetzung für alles Weitere
+- realistischer Einstieg in einen historisch gewachsenen Bestand
+- gute Grundlage für spätere Standards
+- direkte Sicht auf Muster, Schwächen und Unterschiede
 
 ### Pilotfokus Stufe 2
 **Ableitung von Testfällen aus freigegebenen Akzeptanzkriterien**
@@ -285,13 +278,15 @@ Warum?
 - direkt anschlussfähig
 - gut prüfbar
 - messbarer Qualitätsgewinn
+- Akzeptanzkriterien sind der entscheidende fachliche Bezugspunkt für die Umsetzung in Code
 
 ### Perspektive Stufe 3
-**Vorbereitung von Testautomatisierung**
+**Ableitung weiterer Artefakte aus Akzeptanzkriterien, insbesondere Dokumentationsformen und perspektivisch Unterstützung bei Testautomatisierung**
 
 Warum?
-- fachlich attraktiv, aber komplexer
-- sinnvoll erst dann, wenn Anforderungs- und Testfallqualität stabiler geworden sind
+- fachlich folgerichtig
+- anschlussfähig an den bestehenden Entwicklungsprozess
+- sinnvoll erst dann, wenn Analyse und Struktur der Akzeptanzkriterien belastbarer geworden sind
 
 ---
 
