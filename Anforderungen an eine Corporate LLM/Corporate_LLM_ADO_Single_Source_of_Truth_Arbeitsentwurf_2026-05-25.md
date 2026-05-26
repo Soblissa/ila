@@ -11,10 +11,11 @@
 
 Der fachliche Ablauf ist dabei grundsätzlich wie folgt:
 1. Es gibt eine **fachliche Anforderung**.
-2. Daraus wird eine **User Story** formuliert.
-3. Diese User Story wird von den **UX-Kollegen** in Abstimmung mit den fachlichen Expertinnen und Experten in **Akzeptanzkriterien** übersetzt.
-4. Die Akzeptanzkriterien werden von der Entwicklung umgesetzt.
-5. Die **Testfälle** prüfen, ob die Akzeptanzkriterien erfüllt sind.
+2. Daraus wird eine **User Story** formuliert (PO und Fachlichkeit)
+3. Diese User Story wird von den **UX-Kollegen** in Abstimmung mit den fachlichen Expertinnen und Experten in ein **Figma Design** übersetzt
+4. Parallel werden durch Fachlichkeit / PO die **Akzeptanzkriterien** entwickelt
+5. Die Akzeptanzkriterien werden von der Entwicklung umgesetzt.
+6. Die **Testfälle** prüfen, ob die Akzeptanzkriterien erfüllt sind.
 
 Ein Beispiel für diesen Ablauf ist:
 - fachliche Anforderung: Die Lernausgangslage eines Kindes soll in einem Textfeld beschrieben werden können.
@@ -22,7 +23,7 @@ Ein Beispiel für diesen Ablauf ist:
 
 Wichtig ist dabei die saubere fachliche Trennung:
 - Die User Story entsteht aus der **fachlichen Anforderung**.
-- Die **Akzeptanzkriterien** konkretisieren die User Story für Design und Entwicklung.
+- Die **Akzeptanzkriterien** basieren auf dem entwickelten Design und konkretisieren die User Story für die Entwicklung.
 - Aus den **Akzeptanzkriterien** sollen die **Testfälle** abgeleitet werden.
 - Aus den **Akzeptanzkriterien** sollen perspektivisch auch **Dokumentationsformen** abgeleitet werden.
 
@@ -37,18 +38,13 @@ Der zentrale Gedanke dieses Vorhabens lautet:
 > **Azure DevOps wird zur führenden Quelle im Entwicklungsprozess von ila.**
 
 Das bedeutet im vorliegenden Kontext:
-- fachliche Anforderungen,
-- User Stories,
-- Akzeptanzkriterien
-- und daraus abgeleitete Artefakte
-
-werden in einem zusammenhängenden Prozess in ADO geführt.
+Alle Artefakte werden aus den fachliche Anforderungen (User Stories / kzeptanzkriterien) im ADO abgeleitet
 
 Der stärkste Hebel liegt dabei nicht in der freien Ableitung beliebiger Inhalte aus Anforderungen, sondern in der systematischen Weiterverarbeitung der **Akzeptanzkriterien**.
 
 Für den operativen Entwicklungsprozess soll daher gelten:
 
-> **Was in ADO fachlich beschrieben, als User Story formuliert und in Akzeptanzkriterien konkretisiert ist, dient als maßgeblicher Ausgangspunkt für Testfälle und weitere Dokumentationsformen.**
+> **Was im ADO als User Story formuliert und in Akzeptanzkriterien konkretisiert ist, dient als maßgeblicher Ausgangspunkt für Testfälle und weitere Dokumentationsformen.**
 
 ADO wird damit zur **Single Source of Truth** im engeren Sinne dieses Entwicklungsprozesses.
 
