@@ -5,6 +5,8 @@
 
 ---
 
+# Teil 1: Anwendung und fachlicher Nutzen
+
 ## 1. Ausgangslage
 
 **ila** ist ein Teil der **LUSD** (Lehrer- und Schülerdatenbank Hessen). Der Entwicklungsprozess läuft in **Azure DevOps (ADO)**.
@@ -307,6 +309,8 @@ Die eigentliche Stärke des Vorhabens liegt nicht im Sprachmodell an sich, sonde
 - perspektivisch Dokumentationsformen und Testautomatisierung
 
 ---
+
+# Teil 2: Technische Umsetzung und notwendige Voraussetzungen
 
 ## 10. Technische Anforderungen an ein Corporate LLM
 
