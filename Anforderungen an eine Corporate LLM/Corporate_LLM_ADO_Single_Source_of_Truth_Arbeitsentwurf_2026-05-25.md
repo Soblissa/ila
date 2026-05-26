@@ -1,5 +1,5 @@
 # Corporate LLM für ADO-basierte Entwicklungsprozesse
-## Arbeitsentwurf mit Schwerpunkt auf ila als Teilanwendung der LUSD
+## Arbeitsentwurf mit Schwerpunkt auf ila als Ausgangspunkt und der Übertragbarkeit auf die LUSD
 
 *Stand: 2026-05-25 | Arbeitsfassung zur iterativen Überarbeitung*
 
@@ -35,10 +35,10 @@ Genau in dieser Prozesskette liegt ein relevanter Hebel für ein Corporate LLM (
 
 Der zentrale Gedanke dieses Vorhabens lautet:
 
-> **Azure DevOps wird zur Single Source of Truth im Entwicklungsprozess von ila und allen anhänginge Artefakten .**
+> **Azure DevOps wird zur Single Source of Truth für die im Entwicklungsprozess von ila entstehenden Artefakte, insbesondere für User Stories, Akzeptanzkriterien und daraus abgeleitete Folgeartefakte.**
 
 Das bedeutet im vorliegenden Kontext:
-Alle Artefakte (zum Beispiel Dokumentationen / integrierte, KI basierte Anwenderunterstützung) werden aus den fachlichen Anforderungen (User Stories / Akzeptanzkriterien) im ADO abgeleitet.
+Alle relevanten Folgeartefakte, zum Beispiel Testfälle, Dokumentationsbausteine oder integrierte KI-basierte Anwenderunterstützung, werden aus den in ADO gepflegten User Stories und Akzeptanzkriterien abgeleitet.
 
 Der stärkste Hebel liegt dabei nicht in der freien Ableitung beliebiger Inhalte aus Anforderungen, sondern in der systematischen Weiterverarbeitung der **Akzeptanzkriterien**.
 
@@ -81,7 +81,9 @@ Gerade an dieser Stelle können Probleme entstehen:
 Diese Schwächen wirken sich direkt auf die nachgelagerte Entwicklung von Design, Akzeptanzkriterien, Test und Abnahme aus.
 
 #### Ziel
-Ein Corporate LLM soll dabei unterstützen, aus einer fachlich beschriebenen Anforderung eine **klar formulierte User Story** im vereinbarten Format zu erstellen. in Ila können das die Portfolios sein, Anforderungen aus der Verordnung u. v. m. 
+Ein Corporate LLM soll dabei unterstützen, aus einer fachlich beschriebenen Anforderung eine **klar formulierte User Story** im vereinbarten Format zu erstellen.
+
+Im Fall von ila können solche vorgelagerten fachlichen Beschreibungen zum Beispiel aus Portfolios, Verordnungen oder anderen fachlichen Quellen stammen.
 
 #### Konkret bedeutet das
 Aus einer fachlichen Beschreibung oder einem ersten Entwurf kann das System Vorschläge erzeugen für:
@@ -111,7 +113,7 @@ Zum Beispiel:
 
 Wichtig ist dabei:
 
-> Das Corporate LLM setzt **nicht** bei der Entstehung der fachlichen Anforderung an, sondern bei ihrer **Übersetzung in eine bearbeitbare User Story** für den weiteren Prozess in ADO, insbesondere die Erstellung der AKzeptanzkriterien als Grundlage für die Entwicklung
+> Das Corporate LLM setzt **nicht** bei der Entstehung der fachlichen Anforderung an, sondern bei ihrer **Übersetzung in eine bearbeitbare User Story** für den weiteren Prozess in ADO, insbesondere für die anschließende Entwicklung der Akzeptanzkriterien als Grundlage für die Umsetzung.
 
 ---
 
@@ -127,7 +129,7 @@ Typische Probleme sind:
 - bei Änderungen müssen Testfälle manuell gesucht und angepasst werden
 
 #### Ziel
-Ein Corporate LLM soll aus den in ADO hinterlegten Akzeptanzkriterien systematisch Testfälle auf Basis eines eingespielten (üerbareitete) testkonzepzts. 
+Ein Corporate LLM soll aus den in ADO hinterlegten Akzeptanzkriterien systematisch Testfälle ableiten, orientiert an einem eingespielten beziehungsweise überarbeiteten Testkonzept.
 
 Dabei geht es nicht um freie Testformulierung, sondern um die strukturierte Übersetzung der bereits entwickelten Akzeptanzkriterien in prüfbare Testlogik.
 
@@ -180,7 +182,7 @@ Realistisch und sinnvoll ist zunächst:
 
 ## 5. Zielbild des Prozesses
 
-Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die strukturierte Weiterverarbeitung von User Stories und Akzeptanzkriterien** sowie später benötigter Artefakte verschiedener Formate wie zum Beispiel eine integrierte, KI basierte Anwenderuntestützung 
+Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die strukturierte Weiterverarbeitung von User Stories und Akzeptanzkriterien** sowie für daraus abgeleitete Artefakte in unterschiedlichen Formaten, zum Beispiel Testfälle, Dokumentationsbausteine oder eine integrierte KI-basierte Anwenderunterstützung.
 
 Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht isoliert entstehen, sondern in einer nachvollziehbaren Kette aufeinander aufbauen. Der relevante technische Einstiegspunkt des Corporate LLM liegt dabei nicht am Beginn der fachlichen Idee, sondern ab dem Moment, in dem eine User Story für den weiteren Entwicklungsprozess vorliegt.
 
