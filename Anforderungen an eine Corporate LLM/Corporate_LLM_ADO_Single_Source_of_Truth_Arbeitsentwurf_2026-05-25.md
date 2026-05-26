@@ -190,7 +190,30 @@ Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht isoliert entstehe
 
 ---
 
-## 6. Erster Analyseauftrag für die LUSD
+## 6. Warum dieser Fokus für LUSD und ila sinnvoll ist
+
+Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die beschriebenen Anwendungsfälle ist für **ila** und perspektivisch auch für die **LUSD** besonders geeignet, weil hier ein klarer und messbarer Nutzen entsteht.
+
+### 7.1 Direkte Hebelwirkung in ila
+Bei ila sind User Stories, Design, Akzeptanzkriterien, Entwicklung und Test bereits eng miteinander verzahnt. Verbesserungen bei der Qualität und Weiterverarbeitung der Akzeptanzkriterien wirken sich deshalb unmittelbar auf Entwicklung, Test und Dokumentation aus.
+
+### 7.2 Analyse- und Standardisierungspotenzial in der LUSD
+Für die LUSD liegt der Nutzen zunächst stärker in der Analyse des bestehenden ADO-Bestands. Gerade dort kann ein Corporate LLM helfen, Muster in Akzeptanzkriterien zu erkennen, Unterschiede sichtbar zu machen und Empfehlungen für ein einheitlicheres Vorgehen abzuleiten.
+
+### 7.3 Gemeinsamer Nutzen für beide Kontexte
+Sowohl für ila als auch für die LUSD gilt: Der größte Nutzen entsteht dort, wo Akzeptanzkriterien nicht nur geschrieben, sondern systematisch weiterverarbeitet werden können, zum Beispiel für Testfälle, Dokumentationsformen oder perspektivisch für integrierte Anwenderunterstützung.
+
+### 7.4 Anschlussfähigkeit für spätere Ausbaustufen
+Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf:
+- Dokumentation
+- Anwenderhilfen
+- Change-Impact-Analysen
+- integrierte Unterstützung direkt in ila
+- übertragbare Standards für weitere Teilprodukte der LUSD
+
+---
+
+## 7. Erster Analyseauftrag für die LUSD
 
 Für die **LUSD** kann nicht vorausgesetzt werden, dass die Inhalte in ADO bereits heute einheitlich, vollständig und in einer Form vorliegen, die sofort systematisch weiterverarbeitet werden kann. Gerade deshalb liegt ein wesentlicher erster Nutzen eines Corporate LLM in der **Analyse des bestehenden ADO-Bestands**.
 
@@ -235,29 +258,6 @@ Für die LUSD sollte das Corporate LLM daher zunächst nicht so gedacht werden, 
 2. **Ableitung von Empfehlungen, Standards und späteren Unterstützungsfunktionen**
 
 Menschliche Prüfung bleibt dabei zwingend erforderlich. Das Corporate LLM soll Muster erkennen, Vorschläge machen und Auffälligkeiten sichtbar machen, aber keine fachliche Bewertung oder Freigabe ersetzen.
-
----
-
-## 7. Warum dieser Fokus für LUSD und ila sinnvoll ist
-
-Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die beschriebenen Anwendungsfälle ist für **ila** und perspektivisch auch für die **LUSD** besonders geeignet, weil hier ein klarer und messbarer Nutzen entsteht.
-
-### 7.1 Direkte Hebelwirkung in ila
-Bei ila sind User Stories, Design, Akzeptanzkriterien, Entwicklung und Test bereits eng miteinander verzahnt. Verbesserungen bei der Qualität und Weiterverarbeitung der Akzeptanzkriterien wirken sich deshalb unmittelbar auf Entwicklung, Test und Dokumentation aus.
-
-### 7.2 Analyse- und Standardisierungspotenzial in der LUSD
-Für die LUSD liegt der Nutzen zunächst stärker in der Analyse des bestehenden ADO-Bestands. Gerade dort kann ein Corporate LLM helfen, Muster in Akzeptanzkriterien zu erkennen, Unterschiede sichtbar zu machen und Empfehlungen für ein einheitlicheres Vorgehen abzuleiten.
-
-### 7.3 Gemeinsamer Nutzen für beide Kontexte
-Sowohl für ila als auch für die LUSD gilt: Der größte Nutzen entsteht dort, wo Akzeptanzkriterien nicht nur geschrieben, sondern systematisch weiterverarbeitet werden können, zum Beispiel für Testfälle, Dokumentationsformen oder perspektivisch für integrierte Anwenderunterstützung.
-
-### 7.4 Anschlussfähigkeit für spätere Ausbaustufen
-Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf:
-- Dokumentation
-- Anwenderhilfen
-- Change-Impact-Analysen
-- integrierte Unterstützung direkt in ila
-- übertragbare Standards für weitere Teilprodukte der LUSD
 
 ---
 
