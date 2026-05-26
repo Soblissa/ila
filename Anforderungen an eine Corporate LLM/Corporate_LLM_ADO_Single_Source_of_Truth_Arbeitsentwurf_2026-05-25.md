@@ -1,5 +1,5 @@
 # Corporate LLM für ADO-basierte Entwicklungsprozesse
-## Arbeitsentwurf mit Schwerpunkt ADO als Single Source of Truth
+## Arbeitsentwurf mit Schwerpunkt ADO als Single Source of Truth mit Schwerpunkt auf ila als Teilanwendung der LUSD
 
 *Stand: 2026-05-25 | Arbeitsfassung zur iterativen Überarbeitung*
 
