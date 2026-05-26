@@ -54,8 +54,8 @@ ADO wird damit zur **Single Source of Truth** im engeren Sinne dieses Entwicklun
 
 Im vorliegenden Kontext bedeutet **Single Source of Truth**:
 
-- die fachliche Anforderung wird in ADO nachvollziehbar überführt,
-- daraus wird eine User Story erstellt,
+- die fachliche Anforderung ist vorgelagert und entsteht außerhalb von ADO,
+- in ADO wird daraus eine User Story erstellt,
 - diese wird in Akzeptanzkriterien übersetzt,
 - und die Akzeptanzkriterien bilden die verbindliche Grundlage für Test und Dokumentation.
 
@@ -75,27 +75,29 @@ Damit verschiebt sich der Fokus weg von allgemeiner KI-Nutzung hin zu einem klar
 
 Für das Vorhaben sind zunächst drei Hauptanwendungsfälle besonders relevant.
 
-### 4.1 Unterstützung bei der Erstellung von User Stories und Akzeptanzkriterien
+### 4.1 Unterstützung bei der Erstellung von User Stories
 
 #### Ausgangsproblem
-Die Überführung einer fachlichen Anforderung in eine tragfähige User Story und anschließend in belastbare Akzeptanzkriterien ist aufwändig. Besonders kritisch sind dabei:
-- unklare Formulierungen
-- uneinheitliche Struktur
-- fehlende Abgrenzungen
-- unvollständige Akzeptanzkriterien
-- zu wenig berücksichtigte Sonder- und Fehlerfälle
+Fachliche Anforderungen entstehen zunächst außerhalb von ADO. Sie werden von den beteiligten Personen beschrieben, diskutiert und fachlich eingeordnet. Für die weitere Bearbeitung im Entwicklungsprozess müssen diese Anforderungen in eine verständliche und einheitliche **User Story** übersetzt werden.
 
-Diese Schwächen wirken sich direkt auf Design, Entwicklung, Test und Abnahme aus.
+Gerade an dieser Stelle können Probleme entstehen:
+- uneinheitliche Formulierungen
+- unklare Zielbeschreibung
+- fehlender Nutzerbezug
+- unpräziser fachlicher Nutzen
+- zu frühe Vermischung von Fachlichkeit und Lösungsidee
+
+Diese Schwächen wirken sich direkt auf die nachgelagerte Entwicklung von Design, Akzeptanzkriterien, Test und Abnahme aus.
 
 #### Ziel
-Ein Corporate LLM soll Mitarbeitende bei der Überführung fachlicher Anforderungen in qualitativ hochwertige **User Stories** und **Akzeptanzkriterien** in ADO unterstützen.
+Ein Corporate LLM soll dabei unterstützen, aus einer fachlich beschriebenen Anforderung eine **klar formulierte User Story** im vereinbarten Format zu erstellen.
 
 #### Konkret bedeutet das
 Aus einer fachlichen Beschreibung oder einem ersten Entwurf kann das System Vorschläge erzeugen für:
 - eine **sauber formulierte User Story**
-- passende **Akzeptanzkriterien**
-- fehlende fachliche Präzisierungen
-- mögliche Sonderfälle und Fehlerfälle
+- eine sprachliche Strukturierung der fachlichen Beschreibung
+- die Benennung des relevanten Nutzers oder der relevanten Rolle
+- die präzise Formulierung des fachlichen Nutzens
 - offene Rückfragen zur fachlichen Schärfung
 
 #### Beispielhafte Unterstützung
@@ -104,16 +106,21 @@ Aus einer freien fachlichen Beschreibung wie
 
 würde das System einen strukturierten Vorschlag erzeugen für:
 - eine User Story im vereinbarten Format
-- dazu passende Akzeptanzkriterien
 - fachliche Randbedingungen
 - offene Klärungspunkte
 
+Zum Beispiel:
+> *Als berechtigter Nutzer möchte ich für ein Kind die Lernausgangslage beschreiben, um die passende Förderung festlegen zu können.*
+
 #### Nutzen
 - höhere Einheitlichkeit bei User Stories
-- bessere Qualität der Akzeptanzkriterien
-- weniger Nachschärfung zwischen Fachlichkeit, UX und Entwicklung
-- bessere Prüfbarkeit
-- bessere Grundlage für nachgelagerte Testableitung und Dokumentation
+- klarerer Übergang von Fachlichkeit in den Entwicklungsprozess
+- weniger sprachliche Unschärfen
+- bessere Grundlage für die anschließende Entwicklung von Design und Akzeptanzkriterien
+
+Wichtig ist dabei:
+
+> Das Corporate LLM setzt **nicht** bei der Entstehung der fachlichen Anforderung an, sondern bei ihrer **Übersetzung in eine bearbeitbare User Story** für den weiteren Prozess in ADO.
 
 ---
 
@@ -139,18 +146,22 @@ Das System kann zu einem Satz von Akzeptanzkriterien Testfälle ableiten für:
 - **Grenzfälle**
 - gegebenenfalls Vorbedingungen und erwartete Ergebnisse
 
+Dabei geht es nicht um freie Testformulierung, sondern um die strukturierte Übersetzung der bereits entwickelten Akzeptanzkriterien in prüfbare Testlogik.
+
 #### Nutzen
 - höhere Testabdeckung
 - konsistentere Testfallstruktur
-- bessere Rückverfolgbarkeit zwischen Anforderung und Test
+- bessere Rückverfolgbarkeit zwischen Akzeptanzkriterium und Testfall
 - Zeitersparnis bei der Erstformulierung von Testfällen
 
 #### Besonderer Mehrwert
 Wenn User Story und Akzeptanzkriterien bereits in ADO sauber strukturiert vorliegen, entsteht eine direkte Linie:
 
-**fachliche Anforderung → User Story → Akzeptanzkriterien in ADO → vorgeschlagene Testfälle**
+**User Story → Akzeptanzkriterien in ADO → vorgeschlagene Testfälle**
 
 Für die eigentliche Testableitung sind dabei die **Akzeptanzkriterien** der entscheidende Bezugspunkt.
+
+Perspektivisch gilt dasselbe auch für Dokumentationsformen: Auch sie sollten nicht frei formuliert, sondern möglichst aus den Akzeptanzkriterien abgeleitet werden.
 
 ---
 
@@ -187,7 +198,7 @@ Realistisch und sinnvoll ist zunächst:
 
 ## 5. Zielbild des Prozesses
 
-Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die durchgängige Weiterverarbeitung fachlicher Inhalte**.
+Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die strukturierte Weiterverarbeitung von User Stories und Akzeptanzkriterien**.
 
 Ein mögliches Zielbild lautet:
 
@@ -196,7 +207,9 @@ Fachliche Anforderung
         ↓
 Corporate LLM unterstützt die Formulierung der User Story in ADO
         ↓
-UX + Fachlichkeit übersetzen in Akzeptanzkriterien
+UX übersetzt die User Story in ein Figma Design
+        ↓
+Fachlichkeit / PO entwickeln parallel die Akzeptanzkriterien
         ↓
 Corporate LLM leitet aus den Akzeptanzkriterien Testfälle ab
         ↓
@@ -209,6 +222,8 @@ Perspektivisch Ableitung von Dokumentationsformen und Unterstützung bei Testaut
 
 Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht isoliert entstehen, sondern in einer nachvollziehbaren Kette aufeinander aufbauen.
 
+Der relevante technische Einstiegspunkt des Corporate LLM liegt dabei nicht am Beginn der fachlichen Idee, sondern ab dem Moment, in dem eine User Story für den weiteren Entwicklungsprozess vorliegt.
+
 ---
 
 ## 6. Voraussetzungen für den Ansatz
@@ -217,7 +232,6 @@ Damit dieser Ansatz tragfähig ist, müssen mehrere Bedingungen erfüllt sein.
 
 ### 6.1 Mindeststruktur in ADO
 Die Inhalte in ADO müssen so formuliert sein, dass sie systematisch ausgewertet werden können. Dazu gehören mindestens:
-- fachliche Anforderung
 - User Story im vereinbarten Format
 - Akzeptanzkriterien
 - erkennbare Sonder- oder Fehlerfälle
@@ -296,12 +310,11 @@ Ein Corporate LLM entfaltet im vorliegenden Kontext seinen größten Nutzen nich
 
 Der strategisch sinnvollste Einstieg ist daher:
 
-> **ADO als Single Source of Truth für den Zusammenhang von fachlicher Anforderung, User Story, Akzeptanzkriterien und daraus abgeleiteten Testfällen zu stärken.**
+> **ADO als Single Source of Truth für den Zusammenhang von User Story, Akzeptanzkriterien und daraus abgeleiteten Testfällen zu stärken.**
 
 Damit entsteht ein klarer, fachlich anschlussfähiger und schrittweise ausbaubarer Anwendungsrahmen.
 
 Die eigentliche Stärke des Vorhabens liegt nicht im Sprachmodell an sich, sondern in der besseren Verbindung von:
-- fachlicher Anforderung
 - User Story
 - Akzeptanzkriterien
 - Testlogik
@@ -333,7 +346,7 @@ Für den beschriebenen Einsatzfall werden mindestens vier technische Bausteine b
 
 3. **Anwendungslogik**  
    Fachliche Vorlagen und Workflows für klar definierte Aufgaben, zum Beispiel:
-   - fachliche Anforderung in User Story überführen
+   - fachlich beschriebene Anforderungen in User Stories überführen
    - Akzeptanzkriterien strukturieren
    - Testfälle aus Akzeptanzkriterien ableiten
    - Dokumentationsformen vorbereiten
@@ -386,8 +399,8 @@ Für dieses Vorhaben sind **Agenten** sinnvoll, allerdings nicht als frei agiere
 Sinnvolle Module wären insbesondere:
 
 #### User-Story-Assistent
-- Eingabe: fachliche Anforderung
-- Ausgabe: strukturierte User Story im vereinbarten Format
+- Eingabe: fachlich beschriebene Anforderung außerhalb von ADO
+- Ausgabe: strukturierte User Story im vereinbarten Format für ADO
 
 #### Akzeptanzkriterien-Assistent
 - Eingabe: User Story
