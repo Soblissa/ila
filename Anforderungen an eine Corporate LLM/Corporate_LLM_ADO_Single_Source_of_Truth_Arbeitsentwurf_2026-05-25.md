@@ -5,6 +5,14 @@
 
 ---
 
+## Einleitung
+
+Ein **Corporate LLM** (Corporate Large Language Model, unternehmenseigenes großes Sprachmodell) ist kein von Grund auf neu trainiertes eigenes Modell, sondern ein **privater, DSGVO-konformer KI-Arbeitsbereich**, der auf bestehenden Sprachmodellen aufsetzt und diese mit dem eigenen Organisationswissen verbindet. Grundlage dafür ist die Einbindung freigegebener interner Wissensquellen, die dem Modell als zusätzlicher Kontext bereitgestellt werden.
+
+Wie bereits im früheren Dokument *„Was ist ein Corporate LLM?“* beschrieben, liegt der eigentliche Mehrwert nicht in einem allgemeinen KI-Chat, sondern in der Verbindung von Sprachmodell, organisationsspezifischem Wissen, klaren Rollen und definierten Anwendungsfällen.
+
+Für den hier beschriebenen Anwendungsfall bedeutet das: Das Corporate LLM soll nicht allgemein beliebige Fragen beantworten, sondern gezielt den ADO-basierten Entwicklungsprozess rund um **ila** und perspektivisch auch die **LUSD** unterstützen.
+
 # Teil 1: Anwendung und fachlicher Nutzen
 
 ## 1. Ausgangslage
