@@ -5,17 +5,21 @@
 
 ---
 
-## Einleitung
+# Teil 1: Einleitung
+
+## 1. Einordnung eines Corporate LLM
 
 Ein **Corporate LLM** (Corporate Large Language Model, unternehmenseigenes großes Sprachmodell) ist kein von Grund auf neu trainiertes eigenes Modell, sondern ein **privater, DSGVO-konformer KI-Arbeitsbereich**, der auf bestehenden Sprachmodellen aufsetzt und diese mit dem eigenen Organisationswissen verbindet. Grundlage dafür ist die Einbindung freigegebener interner Wissensquellen, die dem Modell als zusätzlicher Kontext bereitgestellt werden.
 
-Wie bereits im früheren Dokument *„Was ist ein Corporate LLM?“* beschrieben, liegt der eigentliche Mehrwert nicht in einem allgemeinen KI-Chat, sondern in der Verbindung von Sprachmodell, organisationsspezifischem Wissen, klaren Rollen und definierten Anwendungsfällen.
+Der eigentliche Mehrwert liegt dabei nicht in einem allgemeinen KI-Chat, sondern in der Verbindung von Sprachmodell, organisationsspezifischem Wissen, klaren Rollen und definierten Anwendungsfällen.
 
 Für den hier beschriebenen Anwendungsfall bedeutet das: Das Corporate LLM soll nicht allgemein beliebige Fragen beantworten, sondern gezielt den ADO-basierten Entwicklungsprozess rund um **ila** und perspektivisch auch die **LUSD** unterstützen.
 
-# Teil 1: Anwendung und fachlicher Nutzen
+---
 
-## 1. Ausgangslage
+# Teil 2: Anwendung und fachlicher Nutzen
+
+## 2. Ausgangslage
 
 **ila** ist ein Teil der **LUSD** (Lehrer- und Schülerdatenbank Hessen). Der Entwicklungsprozess läuft in **Azure DevOps (ADO)**.
 
@@ -41,7 +45,7 @@ Genau in dieser Prozesskette liegt ein relevanter Hebel für ein Corporate LLM (
 
 ---
 
-## 2. Strategischer Kern
+## 3. Strategischer Kern
 
 Der zentrale Gedanke dieses Vorhabens lautet:
 
@@ -60,7 +64,7 @@ ADO wird damit zur **Single Source of Truth** im engeren Sinne dieses Entwicklun
 
 ---
 
-## 3. Zentrale Annahme
+## 4. Zentrale Annahme
 
 **Je klarer, strukturierter und vollständiger User Stories und insbesondere Akzeptanzkriterien in ADO vorliegen, desto besser lassen sich nachgelagerte Arbeitsschritte unterstützen, standardisieren und teilweise automatisieren.**
 
@@ -72,11 +76,11 @@ Damit liegt der Fokus weniger auf allgemeiner KI-Nutzung sondern auf einem klare
 
 ---
 
-## 4. Hauptanwendungsfälle
+## 5. Hauptanwendungsfälle
 
 Für das Vorhaben sind zunächst drei Hauptanwendungsfälle besonders relevant.
 
-### 4.1 Unterstützung bei der Erstellung von User Stories
+### 5.1 Unterstützung bei der Erstellung von User Stories
 
 #### Ausgangsproblem
 Fachliche Anforderungen entstehen zunächst außerhalb von ADO. Sie werden von den beteiligten Personen beschrieben, diskutiert und fachlich eingeordnet. Für die weitere Bearbeitung im Entwicklungsprozess müssen diese Anforderungen in eine verständliche und einheitliche **User Story** übersetzt werden.
@@ -127,7 +131,7 @@ Wichtig ist dabei:
 
 ---
 
-### 4.2 Ableitung von Testfällen aus Akzeptanzkriterien
+### 5.2 Ableitung von Testfällen aus Akzeptanzkriterien
 
 #### Ausgangsproblem
 Testfälle werden häufig manuell aus Akzeptanzkriterien abgeleitet. Das ist fehleranfällig und stark von Erfahrung, Zeit und persönlicher Gründlichkeit abhängig.
@@ -158,8 +162,9 @@ Für die eigentliche Testableitung sind dabei die **Akzeptanzkriterien** der ent
 
 Perspektivisch gilt dasselbe auch für Dokumentationsformen: Auch sie sollten nicht frei formuliert, sondern möglichst aus den Akzeptanzkriterien abgeleitet werden.
 
+---
 
-### 4.3 Perspektivisch: Unterstützung der Testautomatisierung
+### 5.3 Perspektivisch: Unterstützung der Testautomatisierung
 
 #### Ausgangsproblem
 Zwischen Akzeptanzkriterien, Testfall und automatisiertem Test liegt heute oft ein deutlicher Übersetzungsaufwand. Fachliche Aussagen müssen in technische Testlogik übertragen werden.
@@ -190,7 +195,7 @@ Realistisch und sinnvoll ist zunächst:
 
 ---
 
-## 5. Zielbild des Prozesses
+## 6. Zielbild des Prozesses
 
 Das Zielbild ist ein Entwicklungsprozess, in dem ADO nicht nur Ablageort ist, sondern der **aktive Ausgangspunkt für die strukturierte Weiterverarbeitung von User Stories und Akzeptanzkriterien** sowie für daraus abgeleitete Artefakte in unterschiedlichen Formaten, zum Beispiel Testfälle, Dokumentationsbausteine oder eine integrierte KI-basierte Anwenderunterstützung.
 
@@ -198,7 +203,7 @@ Der wesentliche Mehrwert liegt darin, dass die Artefakte nicht isoliert entstehe
 
 ---
 
-## 6. Warum dieser Fokus für LUSD und ila sinnvoll ist
+## 7. Warum dieser Fokus für LUSD und ila sinnvoll ist
 
 Der Schwerpunkt auf **ADO als Single Source of Truth** und auf die beschriebenen Anwendungsfälle ist für **ila** und perspektivisch auch für die **LUSD** besonders geeignet, weil hier ein klarer und messbarer Nutzen entsteht.
 
@@ -221,13 +226,13 @@ Wenn der Ansatz funktioniert, kann er später erweitert werden, zum Beispiel auf
 
 ---
 
-## 7. Erster Analyseauftrag für die LUSD
+## 8. Erster Analyseauftrag für die LUSD
 
 Für die **LUSD** kann nicht vorausgesetzt werden, dass die Inhalte in ADO bereits heute einheitlich, vollständig und in einer Form vorliegen, die sofort systematisch weiterverarbeitet werden kann. Gerade deshalb liegt ein wesentlicher erster Nutzen eines Corporate LLM in der **Analyse des bestehenden ADO-Bestands**.
 
 Der erste Auftrag des Systems wäre damit nicht primär die direkte Standardisierung neuer Inhalte, sondern zunächst die strukturierte Auswertung dessen, was in der **LUSD** bereits vorhanden ist.
 
-### 6.1 Ziel des ersten Analyseauftrags
+### 8.1 Ziel des ersten Analyseauftrags
 
 Das Corporate LLM soll den vorhandenen ADO-Bestand der LUSD systematisch auswerten, um insbesondere die vorhandenen **Akzeptanzkriterien** besser zu verstehen. Dabei soll es:
 - wiederkehrende Muster in Akzeptanzkriterien erkennen,
@@ -239,7 +244,7 @@ Das Corporate LLM soll den vorhandenen ADO-Bestand der LUSD systematisch auswert
 
 Gerade bei der LUSD ist das relevant, weil von einem historisch gewachsenen Bestand mit unterschiedlichen Autoren, unterschiedlichen fachlichen Zuschnitten und unterschiedlichen Qualitätsniveaus auszugehen ist.
 
-### 6.2 Konkrete Fragestellungen für die Analyse
+### 8.2 Konkrete Fragestellungen für die Analyse
 
 Ein erster Analyseauftrag an ein Corporate LLM könnte für die LUSD zum Beispiel lauten:
 - Welche Typen von Akzeptanzkriterien kommen im ADO-Bestand der LUSD wiederholt vor?
@@ -249,7 +254,7 @@ Ein erster Analyseauftrag an ein Corporate LLM könnte für die LUSD zum Beispie
 - Welche Formulierungen eignen sich als gute Vorlage für künftige Akzeptanzkriterien?
 - Wo gibt es auffällige Unschärfen, Widersprüche oder Auslassungen?
 
-### 6.3 Erwarteter Nutzen dieses ersten Schritts
+### 8.3 Erwarteter Nutzen dieses ersten Schritts
 
 Dieser erste Analyseschritt hätte für die LUSD mehrere Vorteile:
 - Der vorhandene ADO-Bestand wird überhaupt erst systematisch durchschaubar.
@@ -258,7 +263,7 @@ Dieser erste Analyseschritt hätte für die LUSD mehrere Vorteile:
 - Empfehlungen für ein einheitlicheres Vorgehen können auf realem Material aufsetzen.
 - Die spätere Ableitung von Testfällen, Dokumentationsformen oder weiteren Unterstützungsleistungen kann auf einer belastbareren Grundlage erfolgen.
 
-### 6.4 Bedeutung für das weitere Vorgehen
+### 8.4 Bedeutung für das weitere Vorgehen
 
 Für die LUSD sollte das Corporate LLM daher zunächst nicht so gedacht werden, als läge bereits ein sauber standardisierter ADO-Bestand vor. Realistischer und fachlich sinnvoller ist ein zweistufiges Vorgehen:
 
@@ -266,37 +271,6 @@ Für die LUSD sollte das Corporate LLM daher zunächst nicht so gedacht werden, 
 2. **Ableitung von Empfehlungen, Standards und späteren Unterstützungsfunktionen**
 
 Menschliche Prüfung bleibt dabei zwingend erforderlich. Das Corporate LLM soll Muster erkennen, Vorschläge machen und Auffälligkeiten sichtbar machen, aber keine fachliche Bewertung oder Freigabe ersetzen.
-
----
-
-## 8. Vorläufige Empfehlung für das weitere Vorgehen
-
-Für die erste Pilotierung erscheint folgender Zuschnitt sinnvoll:
-
-### Pilotfokus Stufe 1
-**Analyse des bestehenden ADO-Bestands mit Schwerpunkt auf Akzeptanzkriterien, zunächst vor allem für die LUSD**
-
-Warum?
-- realistischer Einstieg in einen historisch gewachsenen Bestand
-- gute Grundlage für spätere Standards
-- direkte Sicht auf Muster, Schwächen und Unterschiede
-
-### Pilotfokus Stufe 2
-**Ableitung von Testfällen aus freigegebenen Akzeptanzkriterien**
-
-Warum?
-- direkt anschlussfähig
-- gut prüfbar
-- messbarer Qualitätsgewinn
-- Akzeptanzkriterien sind der entscheidende fachliche Bezugspunkt für die Umsetzung in Code
-
-### Perspektive Stufe 3
-**Ableitung weiterer Artefakte aus Akzeptanzkriterien, insbesondere Dokumentationsformen und perspektivisch Unterstützung bei Testautomatisierung**
-
-Warum?
-- fachlich folgerichtig
-- anschlussfähig an den bestehenden Entwicklungsprozess
-- sinnvoll erst dann, wenn Analyse und Struktur der Akzeptanzkriterien belastbarer geworden sind
 
 ---
 
@@ -318,15 +292,13 @@ Die eigentliche Stärke des Vorhabens liegt nicht im Sprachmodell an sich, sonde
 
 ---
 
-# Teil 2: Technische Umsetzung und notwendige Voraussetzungen
+# Teil 3: Technische Umsetzung und Voraussetzungen
 
-## 10. Technische Anforderungen an ein Corporate LLM
+## 10. Technische Zielarchitektur
 
 Für den vorliegenden Anwendungsfall genügt kein allgemeiner KI-Chat. Erforderlich ist eine technisch und organisatorisch abgesicherte Plattform, die in den bestehenden Entwicklungsprozess eingebettet werden kann.
 
 Ausgangspunkt ist dabei die Annahme, dass rund **60 Mitarbeitende** mit der LUSD arbeiten und perspektivisch ganz oder teilweise von einer solchen Lösung profitieren könnten. Nicht alle werden dieselben Funktionen benötigen. Daraus folgt, dass die Lösung sowohl skalierbar als auch rollenbasiert aufgebaut sein muss.
-
-### 10.1 Zielarchitektur
 
 Für den beschriebenen Einsatzfall werden mindestens vier technische Bausteine benötigt:
 
@@ -352,21 +324,41 @@ Für den beschriebenen Einsatzfall werden mindestens vier technische Bausteine b
 4. **Sicherheits- und Rechteebene**  
    Rollenbasierte Zugriffskontrolle, Protokollierung, Bereichstrennung und kontrollierter Zugriff auf Quellen.
 
-### 10.2 Hardware und Betriebsmodell
+---
 
-#### Empfohlener Einstieg
+## 11. Betriebsvarianten, Hardware und Hosting
 
-Für den vorliegenden Anwendungsfall ist ein Einstieg mit **gehosteten Sprachmodellen** und einer eigenen, abgesicherten Fachlogik am sinnvollsten.
+### 11.1 Variante A: Hosting und Betrieb in eigener Verantwortung
 
-In diesem Fall wird keine große eigene KI-Hardware für das Sprachmodell benötigt. Benötigt wird vielmehr Infrastruktur für:
-- Anwendungsschicht
-- Benutzerverwaltung
-- Dokumentenverarbeitung
-- Indexierung und semantische Suche
-- Datenhaltung
-- Protokollierung und Monitoring
+Eine mögliche Variante ist, dass Hosting und Betrieb durch den Auftraggeber selbst oder durch einen von ihm gesteuerten Dienstleister erfolgen.
 
-Für eine erste belastbare Lösung mit etwa 60 potenziellen Nutzerinnen und Nutzern erscheint folgende Größenordnung realistisch:
+Vorteile:
+- höhere Steuerbarkeit
+- größere technische Unabhängigkeit
+- flexible Auswahl von Komponenten
+
+Nachteile:
+- höherer Betriebsaufwand
+- mehr Eigenverantwortung für Sicherheit, Wartung und Skalierung
+- zusätzlicher Bedarf an technischem Know-how
+
+### 11.2 Variante B: Hosting und Betrieb durch die HZD
+
+Da die bestehende Infrastruktur derzeit durch die **HZD** (Hessische Zentrale für Datenverarbeitung) bereitgestellt wird, ist eine zweite, naheliegende Variante das Hosting und der Betrieb durch die HZD.
+
+Vorteile:
+- bessere Anschlussfähigkeit an die bestehende Infrastruktur
+- Einbettung in vorhandene Betriebs- und Sicherheitsstrukturen
+- naheliegende Betriebsform im Behördenkontext
+
+Nachteile:
+- stärkere Abhängigkeit von bestehenden Rahmenbedingungen
+- geringere technische Beweglichkeit bei Architektur und Komponentenwahl
+- zusätzlicher Abstimmungsbedarf mit dem Betreiber
+
+### 11.3 Hardware und Skalierung
+
+Für eine erste belastbare Lösung mit etwa 60 potenziellen Nutzerinnen und Nutzern erscheint bei Nutzung gehosteter Sprachmodelle folgende Größenordnung realistisch:
 - **1-2 Anwendungsserver**
 - **1 Datenbankserver**
 - **1 Such- oder Indexierungsdienst**
@@ -380,56 +372,76 @@ pro Instanz sinnvoll.
 
 Eine **GPU** ist in diesem Modell nicht zwingend erforderlich, solange das eigentliche Sprachmodell extern und rechtskonform betrieben wird.
 
-#### Nicht empfohlener Einstieg
-
 Ein vollständiger **Eigenbetrieb lokaler Modelle** wäre technisch deutlich aufwändiger. Dafür wären zusätzlich erforderlich:
 - GPU-Server mit hohem VRAM
 - eigener Modellbetrieb
 - zusätzliche Betriebs- und Wartungskompetenz
 - aufwändigeres Performance- und Lastmanagement
 
-Für den fachlichen Einstieg in den beschriebenen Anwendungsfall erscheint dies nicht verhältnismäßig.
+Für den fachlichen Einstieg in den beschriebenen Anwendungsfall erscheint dies derzeit nicht verhältnismäßig.
 
-### 10.3 Agenten und Funktionsmodule
+---
+
+## 12. Datenschutz und Informationssicherheit
+
+Im beschriebenen Kontext ist Datenschutz kein Nebenaspekt, sondern eine zentrale Voraussetzung.
+
+Zu berücksichtigen sind insbesondere:
+- **EU-Hosting** oder gleichwertig rechtskonforme Betriebsform
+- **AVV** mit eingesetzten Anbietern
+- **kein Training mit Organisationsdaten**
+- **Datenminimierung** bei allen eingebundenen Quellen
+- **rollenbasierte Zugriffskontrolle**
+- **Auditierbarkeit und Protokollierung**
+- **Trennung von Test- und Produktivumgebung**
+- klar geregelte Zuständigkeiten für Betrieb, Administration und Freigaben
+
+Gerade im LUSD-Kontext ist zusätzlich zu beachten, dass mit sensiblen schulischen Daten gearbeitet wird und die Lösung daher nur auf klar freigegebene Inhalte zugreifen darf.
+
+---
+
+## 13. Agenten und Funktionsmodule
 
 Für dieses Vorhaben sind **Agenten** sinnvoll, allerdings nicht als frei agierende Systeme, sondern als **klar begrenzte Spezial-Assistenten**.
 
 Sinnvolle Module wären insbesondere:
 
-#### User-Story-Assistent
+### 13.1 User-Story-Assistent
 - Eingabe: fachlich beschriebene Anforderung außerhalb von ADO
 - Ausgabe: strukturierte User Story im vereinbarten Format für ADO
 
-#### Akzeptanzkriterien-Assistent
+### 13.2 Akzeptanzkriterien-Assistent
 - Eingabe: User Story
 - Ausgabe: strukturierte Akzeptanzkriterien, Sonderfälle, Fehlerfälle, offene Rückfragen
 
-#### Testfall-Assistent
+### 13.3 Testfall-Assistent
 - Eingabe: Akzeptanzkriterien
 - Ausgabe: Testfälle mit Testschritten und erwarteten Ergebnissen
 
-#### Dokumentations-Assistent
+### 13.4 Dokumentations-Assistent
 - Eingabe: Akzeptanzkriterien und umgesetzte Funktion
 - Ausgabe: Entwürfe für Anwenderhilfe, Kurzbeschreibung, Release-Hinweise oder weitere Dokumentationsformen
 
-#### Impact-Assistent
+### 13.5 Impact-Assistent
 - Eingabe: geänderte User Story oder geänderte Akzeptanzkriterien
 - Ausgabe: Hinweise auf betroffene Testfälle, Dokumentationsbausteine und Folgeprüfungen
 
 Wichtig ist dabei: Diese Assistenten sollen **Vorschläge erzeugen**, aber keine fachliche oder organisatorische Freigabe ersetzen.
 
-### 10.4 Anforderungen aus der LUSD-Perspektive
+---
+
+## 14. Weitere technische Voraussetzungen aus der LUSD-Perspektive
 
 Die im Repo vorliegenden LUSD-Unterlagen zeigen, dass die technische Lösung folgende Besonderheiten des Fachkontextes berücksichtigen muss:
 
-#### Rollen und Berechtigungen
+### 14.1 Rollen und Berechtigungen
 Die LUSD arbeitet bereits heute mit einem differenzierten Rollen- und Berechtigungskonzept. Daraus folgt für ein Corporate LLM:
 - rollenbasierter Zugriff auf Funktionen und Inhalte
 - restriktive Vergabe von Berechtigungen
 - Trennung unterschiedlicher Nutzergruppen
 - Zugriff nur auf freigegebene Inhalte
 
-#### Kontextabhängige Anwenderunterstützung
+### 14.2 Kontextabhängige Anwenderunterstützung
 Die LUSD verfügt bereits über:
 - Online-Hilfen pro Webseite
 - Anleitungen
@@ -444,7 +456,7 @@ Das Corporate LLM sollte diese Struktur nicht ersetzen, sondern sinnvoll ergänz
 - und anschlussfähig an bestehende Hilfestrukturen
 sein.
 
-#### Heterogene Dokumentbestände
+### 14.3 Heterogene Dokumentbestände
 Im LUSD-Bestand liegen bereits unterschiedliche Dokumenttypen vor, darunter:
 - PDF
 - Word
@@ -460,25 +472,16 @@ Die Plattform muss deshalb in der Lage sein:
 - Versionen zu unterscheiden,
 - und nach Thema, Zielgruppe oder Dokumenttyp zu filtern.
 
-### 10.5 Technische Muss-Anforderungen
-
+### 14.4 Technische Muss-Anforderungen
 Aus dem beschriebenen Vorhaben ergeben sich mindestens folgende Muss-Anforderungen:
-
-- **EU-Hosting** oder gleichwertig rechtskonforme Betriebsform
-- **AVV** mit eingesetzten Anbietern
-- **kein Training mit Organisationsdaten**
-- **rollenbasierte Zugriffskontrolle**
 - **Quellenbezug pro Antwort**
 - **Anbindung an ADO**
 - **Anbindung an freigegebene Dokumentenquellen**
 - **semantische Suche**
 - **Versionierung**
-- **Auditierbarkeit und Protokollierung**
-- **Trennung von Test- und Produktivumgebung**
 - **API-Schnittstellen** für die Integration in bestehende Systeme
 
-### 10.6 Sinnvolle Zusatzanforderungen
-
+### 14.5 Sinnvolle Zusatzanforderungen
 Zusätzlich sinnvoll wären:
 - mehrere Modelloptionen über eine Oberfläche
 - Vorlagenbibliothek für wiederkehrende Aufgaben
@@ -487,13 +490,48 @@ Zusätzlich sinnvoll wären:
 - Freigabe- und Prüfschritte für erzeugte Inhalte
 - Bereichs- oder Mandantentrennung bei unterschiedlichen Nutzergruppen
 
-### 10.7 Technische Empfehlung
+---
+
+# Teil 4: Empfehlungen und Vorgehen
+
+## 15. Empfehlungen für das weitere Vorgehen
+
+Für die erste Pilotierung erscheint folgender Zuschnitt sinnvoll:
+
+### 15.1 Pilotfokus Stufe 1
+**Analyse des bestehenden ADO-Bestands mit Schwerpunkt auf Akzeptanzkriterien, zunächst vor allem für die LUSD**
+
+Warum?
+- realistischer Einstieg in einen historisch gewachsenen Bestand
+- gute Grundlage für spätere Standards
+- direkte Sicht auf Muster, Schwächen und Unterschiede
+
+### 15.2 Pilotfokus Stufe 2
+**Ableitung von Testfällen aus freigegebenen Akzeptanzkriterien**
+
+Warum?
+- direkt anschlussfähig
+- gut prüfbar
+- messbarer Qualitätsgewinn
+- Akzeptanzkriterien sind der entscheidende fachliche Bezugspunkt für die Umsetzung in Code
+
+### 15.3 Perspektive Stufe 3
+**Ableitung weiterer Artefakte aus Akzeptanzkriterien, insbesondere Dokumentationsformen und perspektivisch Unterstützung bei Testautomatisierung**
+
+Warum?
+- fachlich folgerichtig
+- anschlussfähig an den bestehenden Entwicklungsprozess
+- sinnvoll erst dann, wenn Analyse und Struktur der Akzeptanzkriterien belastbarer geworden sind
+
+---
+
+## 16. Technische Empfehlung
 
 Für den beschriebenen Anwendungsfall erscheint folgende technische Linie am sinnvollsten:
 
 > **Keine isolierte KI-Einzellösung, sondern eine abgesicherte Plattform mit ADO-Anbindung, Dokumentenindex, rollenbasiertem Zugriff und klar begrenzten Spezial-Assistenten.**
 
-Der Einstieg sollte dabei **nicht** über lokalen Vollbetrieb großer Modelle erfolgen, sondern über eine kontrollierte Plattformarchitektur mit extern betriebenem, datenschutzkonform eingebundenem Sprachmodell.
+Der Einstieg sollte dabei **nicht** über lokalen Vollbetrieb großer Modelle erfolgen, sondern über eine kontrollierte Plattformarchitektur mit extern betriebenem, datenschutzkonform eingebundenem Sprachmodell oder alternativ über eine durch die HZD betriebene Lösung, sofern diese die fachlichen und technischen Anforderungen erfüllt.
 
 So bleibt der Fokus auf dem eigentlichen Nutzen:
 - bessere User Stories
@@ -503,7 +541,7 @@ So bleibt der Fokus auf dem eigentlichen Nutzen:
 
 ---
 
-## 11. Offene Fragen für die nächste Iteration
+## 17. Offene Fragen für die nächste Iteration
 
 1. Wie sehen die derzeitigen Anforderungen in ADO konkret aus?
 2. Wie stark unterscheiden sich User Stories und Akzeptanzkriterien aktuell zwischen Teams?
