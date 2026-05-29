@@ -36,6 +36,7 @@
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
+- 🔄 Neuer Themenordner `Barrierefreiheit/` angelegt, erste hessische Anforderungen für ila zusammengetragen
 
 ### Offene TODOs
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
@@ -43,6 +44,7 @@
 - [ ] BSLRR + IFö in neuen Ansatz überführen
 - [ ] Handlungsanweisung für Sebastian und Yves schreiben
 - [ ] Steuerungs- und Freigabe-Matrix erstellen
+- [ ] Barrierefreiheits-Checkliste für ila aus hessischen Anforderungen ableiten
 
 ---
 
