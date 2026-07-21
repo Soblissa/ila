@@ -1,28 +1,40 @@
 # Rollout-Konzept diSAF (ILA)
 
 ## 1. Ziel des Rollouts
-- Was soll mit dem Rollout erreicht werden?
-- Welche Teile von diSAF gehen live?
-- Was ist der angestrebte Nutzen für die Grundschulen?
+Ziel ist die Bereitstellung der Anwendung ila für die Grundschulen in Hessen
 
 ## 2. Geplanter Rollout-Zeitpunkt
-- Geplanter Livegang:
-- Geplanter Zeitraum für Vorbereitung:
-- Geplanter Zeitraum für Nachsteuerung nach dem Livegang:
+Mit dem geplanten Release 61 (erste Märzhälfte 2027)
 
 ## 3. Zielgruppen
+
 ### 3.1 Direkte Nutzergruppen
-- Wer arbeitet aktiv mit dem System?
-- Welche Rollen gibt es?
+- Schulleitungen
+- Klassen- und Kurslehrkräfte
 
 ### 3.2 Indirekt betroffene Gruppen
-- Wer ist organisatorisch, fachlich oder technisch betroffen?
-- Wer muss informiert, aber nicht geschult werden?
+- HPLRR
+- HBDI
+- LBIT
+- SSA
+- 
 
 ## 4. Umfang des Rollouts
-- Welche Funktionen, Prozesse oder Module sind Teil des Rollouts?
-- Was ist ausdrücklich nicht Teil des ersten Rollouts?
-- Welche Übergangslösungen sind vorgesehen?
+Die geplante Ausbaustufe umfasst die Erstellung und BEarbeitung von Förderplänen auf Baisis der folgenden Anwendungsfälle
+Individuelle Förderung gemäß § 6 DSGVO
+Besondere Schweirigkeiten beim Lesen, Rechtschreiben und Rechnen
+Beauftragung (und Durchführung) einer Vorbeugenden Maßnahme gemäß
+
+Zu allen Förderprozesse gehört neben den jeweiligen Spezifika:
+Erfassung der Lernausgangslage
+Erfassung der individuellen Särken des Kindes
+BEstimmung von Förderzielen und entsprechenden Maßnahmen
+Evaluation von Förderzielen
+
+An übergreifenden Funktionen wird es ein basalaes Dokumentenmanagementsystem geben
+Eine Kommunikationsfunktion
+
+
 
 ## 5. Rollout-Strategie
 - Erfolgt der Rollout gestaffelt oder flächendeckend?
