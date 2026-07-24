@@ -1,17 +1,17 @@
-# Rollout-Konzept diSAF (ILA)
+# Rollout-Konzept 
 
 ## 1. Ziel und Zweck des Dokuments
-Ziel ist die Bereitstellung der Anwendung diSAF für die Grundschulen in Hessen.
 
-Das Dokument bündelt das Rollout-Konzept mit den zugehörigen Kommunikations- und Supportaspekten. Es beschreibt den angestrebten Livegang, die dafür notwendigen Voraussetzungen sowie die begleitenden Maßnahmen für Information, Befähigung und Unterstützung der Nutzergruppen.
+Anliegen dieses Dokumentes ist die Erfassung der relevanten Informationen zum geplanten Rollout der Anwendung ila (individuelles Lernen für Alle) an Hessischen GRundschulen sowie die Beschreibung aller für ein optimales Gelingen notwendigen Maßanhmen. Dazu gehört zum Beispiel eine gesteuerte Kommuniktion KOmmunikation im Vorfeld aber die Sicherstellung von Supportstrukturen. 
 
-## 2. Ausgangslage
-Der Livegang ist aktuell mit Release 61 in der ersten Märzhälfte 2027 vorgesehen.
+Hierfür wird das Rollout-Konzept mit den zugehörigen Kommunikations- und Supportaspekten gemeinsam gedacht. Es beschreibt den angestrebten Livegang, die dafür notwendigen Voraussetzungen sowie die begleitenden Maßnahmen für Information, Befähigung und Unterstützung der Nutzergruppen.
 
-Mit diSAF soll eine digitale Unterstützung für zentrale Prozesse der individuellen und sonderpädagogischen Förderung an Grundschulen bereitgestellt werden. Für den erfolgreichen Rollout müssen fachliche, technische und organisatorische Voraussetzungen zusammen gedacht werden.
+## 2. Ausgangslage und Zielbild
 
-## 3. Zielbild des Rollouts
-Nach dem Livegang sollen die vorgesehenen Nutzergruppen in den Grundschulen arbeitsfähig mit diSAF arbeiten können.
+Der Livegang dieser ersten, offiziellen Ausbaustufe ist aktuell mit Release 61 in der ersten Märzhälfte 2027 vorgesehen.
+Anspruch ist die Bereitstellung einer digitalen Lösung, über die Grundschulen alle Prozesse der individuellen Förderung abbilden können. 
+
+Die anviesierte Nutzergruppe soll in die Lage versetzt werden, alle derzeit papierbasierten adminnistrativen und dokumentatorischen Prozesse über ila abzubilden - dies gilt insbesondere für die Erstellung und Bearbeitung des Förderplans. 
 
 Ziel ist ein Rollout, bei dem die Anwendung technisch erreichbar, fachlich nutzbar und organisatorisch begleitet ist. Kommunikation und Support sind dabei keine nachgelagerten Themen, sondern Teil des Gesamtkonzepts.
 
@@ -21,29 +21,32 @@ Ziel ist ein Rollout, bei dem die Anwendung technisch erreichbar, fachlich nutzb
 - Klassen- und Kurslehrkräfte
 
 ### 4.2 Indirekt betroffene Gruppen
-- HPLRR
-- HBDI
-- LBIT
-- SSA
-- Abteilung Z
-- Abteilung 3
+- HPRLL (Hauptpersonalrat Lehrerinnen und Lehrer)
+- HBDI (Hessischer Beauftragter für Daten und Information)
+- LBIT (Landesbeauftragte für Barrierefreie IT=
+- SSA (Schulämter)
+- Abteilung Z HMKB
+- Abteilung 3 HMKB
 - Hessische Zentrale für Datenverarbeitung (Betrieb und Rollout)
 
 ## 5. Umfang des Rollouts
 Die geplante Ausbaustufe umfasst die Erstellung und Bearbeitung von Förderungen auf Basis der folgenden Anwendungsfälle:
-- Individuelle Förderung
+
+- Individuelle Förderung in den Bereichen Mathe, Deutsch und überfachliche Kompetenzen
 - Besondere Schwierigkeiten beim Lesen, Rechtschreiben und Rechnen (BSLRR)
-- Beauftragung und Durchführung einer Vorbeugenden Maßnahme (VM)
+- Beauftragung und Durchführung einer Vorbeugenden Maßnahme (VM) (Beratung und Förderung)
 
 Zu allen Förderprozessen gehören neben den jeweiligen Spezifika:
 - Erfassung der Lernausgangslage auf Basis der stufenspezifischen Kompetenzen des hessischen Bildungsstandards
 - Erfassung der individuellen Stärken des Kindes
+- Erfassung förderrelavanter Informationen
 - Bestimmung von Förderzielen und entsprechenden Maßnahmen
 - Evaluation von Förderzielen
 
 An übergreifenden Funktionen sind vorgesehen:
 - ein basales Dokumentenmanagementsystem (DMS)
 - eine Kommunikationsfunktion
+- Erstellung und Bearbeitung eines Förderplans inklusiver der fallabhängingen Anforderungen im Hinblick auf Beschlüsse (Klassenkonferenz) und Kennntisnahme bzw. Einwilligung (Eltern)
 
 ## 6. Rollout-Strategie
 Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die reinen Grundschulen.
