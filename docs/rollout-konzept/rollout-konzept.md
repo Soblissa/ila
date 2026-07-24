@@ -64,13 +64,16 @@ Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die r
 
 ## 8. Kommunikation zum Rollout
 ### 8.1 Ziele der Kommunikation
-- Transparenz über Umfang, Ziel und Zeitpunkt des Rollouts herstellen
-- Erwartungen an den ersten Livegang realistisch setzen
-- Nutzergruppen rechtzeitig auf ihre Aufgaben und Möglichkeiten vorbereiten
+
+Direkte Nutzergruppen (Lehrkräfte und Schulleitungen) benötigen konkrete Informationen zu Nutzen, Zugang und Nutzung. Sie sollten frühzeitig abgeholt und dafür gewonnen werden, die Anwendung zu nutzen bei g
+  
+Für die indirekt betroffene Gruppen gilt es vor allem Transparenz Rolle, Zuständigkeit und Auswirkungen des Rollouts
+Transparenz im eigenen Haus und den nachgeordneten Behörden über Umfang, Ziel und Zeitpunkt des Rollouts herstellen
+- Erwartungen im eigenen Haus und den nachgeordneten Behörden an den ersten Livegang realistisch setzen
+- Nutzergruppen rechtzeitig informieren und "interessieren", dafür gewinnen, die Anwendung zu nutzen
 
 ### 8.2 Zielgruppen und Botschaften
-- direkte Nutzergruppen benötigen konkrete Informationen zu Nutzen, Zugang und Nutzung
-- indirekt betroffene Gruppen benötigen Klarheit über Rolle, Zuständigkeit und Auswirkungen des Rollouts
+
 
 ### 8.3 Formate und Kanäle
 - noch festzulegen
