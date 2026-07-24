@@ -52,16 +52,12 @@ An übergreifenden Funktionen sind vorgesehen:
 Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die reinen Grundschulen.
 
 ## 7. Voraussetzungen für den Livegang
-### 7.1 Fachliche Voraussetzungen
-- fachliche Klärung der einzuführenden Prozesse und Anwendungsfälle
-- abgestimmte Nutzungslogik für die beteiligten Rollen
-
-### 7.2 Technische Voraussetzungen
+### 7.1 Technische Voraussetzungen
 - Einsatz von Keycloak zur Autorisierung
 - Einsatz von agorum core für das Dokumentenmanagementsystem
 - automatisierte Bereitstellung des Zugangs für Berechtigte über die Schul-ID als eigene Zugangskachel
 
-### 7.3 Organisatorische Voraussetzungen
+### 7.2 Organisatorische Voraussetzungen
 - Support muss frühzeitig in Zusammenarbeit mit der HZD beauftragt und sichergestellt werden
 - interne Ressourcen für den 2nd und 3rd Level Support müssen bereitstehen
 - eine interne Feedbackfunktion muss vorgesehen werden
