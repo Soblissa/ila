@@ -63,31 +63,25 @@ Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die r
 - eine interne Feedbackfunktion muss vorgesehen werden
 
 ## 8. Kommunikation zum Rollout
+
 ### 8.1 Ziele der Kommunikation
 
-Direkte Nutzergruppen (Lehrkräfte und Schulleitungen) benötigen konkrete Informationen zu Nutzen, Zugang und Nutzung. Sie sollten frühzeitig abgeholt und dafür gewonnen werden, die Anwendung zu nutzen bei g
+Direkte Nutzergruppen (Lehrkräfte und Schulleitungen) benötigen konkrete Informationen zu Nutzen, Zugang und Nutzung. Sie sollten frühzeitig abgeholt und dafür gewonnen werden, die Anwendung zu nutzen bei gleichzeitig reaistischem Erwartungsmanagement
   
-Für die indirekt betroffene Gruppen gilt es vor allem Transparenz Rolle, Zuständigkeit und Auswirkungen des Rollouts
-Transparenz im eigenen Haus und den nachgeordneten Behörden über Umfang, Ziel und Zeitpunkt des Rollouts herstellen
-- Erwartungen im eigenen Haus und den nachgeordneten Behörden an den ersten Livegang realistisch setzen
-- Nutzergruppen rechtzeitig informieren und "interessieren", dafür gewinnen, die Anwendung zu nutzen
+Für die indirekt betroffene Gruppen (das eigene Haus und nachgeordnete Behörden) gilt es vor allem Transparenz über Umfang, Ziel und Zeitpunkt des Rollouts herstellen sowie die notwendige Unterstützung herzustellen. Gleichzeitig müssen bei verschiedenen Stakeholdern verschiedene Anforderungen berücksichtig werdenherzustellen, Rolle, Zuständigkeit und 
 
-### 8.2 Zielgruppen und Botschaften
+### 8.3 Formate und Kanäle (Maßnahme) und zeitliche Taktung
+für die direkten Nutzer werden folgende Maßahmen und Zeitfenster vorgeschlagen
+- Umfrage im Frühherbst, die fachliche Partiziaptaion mit der Adressierung des Rollllouts verbindet
+- Inforeihe analog zu den erfolgreihen Veranstaltungen im Rahmen der Pilotierung im Januar und Februar 2027
+- Kommunikation über die Referatsinternen Kanäle zwischen Dezember 2026 und Februar 2027
+- Bereitstellung angepasste "Mach-Mit Kachel" mit Projektinformationen und Hinweis auf Rollout, sowie KOntaktmöglichkeit
 
 
-### 8.3 Formate und Kanäle
-- noch festzulegen
 
-### 8.4 Zeitliche Taktung
-- Kommunikation vor dem Livegang
-- Kommunikation zum Livegang
-- Kommunikation in der anschließenden Stabilisierungsphase
 
-## 9. Befähigung der Nutzer
-- Einführungen, Schulungen oder Handreichungen sind noch festzulegen
-- siehe hierzu Pilotkonzept
 
-## 10. Support zum Rollout und im Übergang in den Regelbetrieb
+## 9. Support zum Rollout und im Übergang in den Regelbetrieb
 ### 10.1 Zielbild des Supports
 - zum Rollout muss eine verlässliche Unterstützungsstruktur vorhanden sein
 - der Übergang vom Rollout in den Regelbetrieb muss klar geregelt werden
