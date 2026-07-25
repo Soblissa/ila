@@ -10,11 +10,9 @@ Hierfür wird das Rollout-Konzept mit den zugehörigen Kommunikations- und Suppo
 
 Der Livegang dieser ersten offiziellen Ausbaustufe ist aktuell mit Release 61 in der ersten Märzhälfte 2027 vorgesehen.
 
-Anspruch ist die Bereitstellung einer digitalen Lösung, über die Grundschulen alle Prozesse der individuellen Förderung abbilden können.
+Anspruch ist die Bereitstellung einer digitalen Lösung, über die Grundschulen die zentralen Prozesse der individuellen Förderung abbilden können. Die anvisierte Nutzergruppe soll in die Lage versetzt werden, die derzeit papierbasierten administrativen und dokumentatorischen Prozesse über ila abzubilden. Dies gilt insbesondere für die Erstellung und Bearbeitung des Förderplans.
 
-Die anvisierte Nutzergruppe soll in die Lage versetzt werden, alle derzeit papierbasierten administrativen und dokumentatorischen Prozesse über ila abzubilden. Dies gilt insbesondere für die Erstellung und Bearbeitung des Förderplans.
-
-Ziel ist ein Rollout, bei dem die Anwendung technisch erreichbar, fachlich nutzbar und organisatorisch begleitet ist. Kommunikation und Support sind dabei keine nachgelagerten Themen, sondern Teil des Gesamtkonzepts.
+Ziel ist ein Rollout, bei dem die Anwendung technisch erreichbar, fachlich nutzbar und organisatorisch begleitet ist. Kommunikation, Befähigung und Support sind dabei keine nachgelagerten Themen, sondern Voraussetzungen für einen tragfähigen Übergang in den Regelbetrieb.
 
 ## 3. Zielgruppen
 ### 3.1 Direkte Nutzergruppen
@@ -31,7 +29,7 @@ Ziel ist ein Rollout, bei dem die Anwendung technisch erreichbar, fachlich nutzb
 - Hessische Zentrale für Datenverarbeitung (Betrieb und Rollout)
 
 ## 4. Umfang des Rollouts
-Die geplante Ausbaustufe umfasst die Erstellung und Bearbeitung von Förderungen auf Basis der folgenden Anwendungsfälle:
+Die geplante Ausbaustufe umfasst die digitale Erstellung und Bearbeitung von Förderungen auf Basis der folgenden Anwendungsfälle:
 
 - Individuelle Förderung in den Bereichen Mathe, Deutsch und überfachliche Kompetenzen
 - Besondere Schwierigkeiten beim Lesen, Rechtschreiben und Rechnen (BSLRR)
@@ -43,11 +41,11 @@ Zu allen Förderprozessen gehören neben den jeweiligen Spezifika:
 - Erfassung förderrelevanter Informationen
 - Bestimmung von Förderzielen und entsprechenden Maßnahmen
 - Evaluation von Förderzielen
+- Erstellung und Bearbeitung eines Förderplans inklusive der fallabhängigen Anforderungen im Hinblick auf Beschlüsse (Klassenkonferenz) und Kenntnisnahme bzw. Einwilligung (Eltern)
 
 An übergreifenden Funktionen sind vorgesehen:
 - ein basales Dokumentenmanagementsystem (DMS)
 - eine Kommunikationsfunktion
-- Erstellung und Bearbeitung eines Förderplans inklusive der fallabhängigen Anforderungen im Hinblick auf Beschlüsse (Klassenkonferenz) und Kenntnisnahme bzw. Einwilligung (Eltern)
 
 ## 5. Rollout-Strategie
 Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die reinen Grundschulen.
@@ -66,9 +64,9 @@ Der Rollout erfolgt flächendeckend, beschränkt sich zunächst jedoch auf die r
 ## 7. Kommunikation zum Rollout
 
 ### 7.1 Ziele der Kommunikation
-Direkte Nutzergruppen (Lehrkräfte und Schulleitungen) benötigen konkrete Informationen zu Nutzen, Zugang und Nutzung. Sie sollten frühzeitig abgeholt und dafür gewonnen werden, die Anwendung zu nutzen, bei gleichzeitig realistischem Erwartungsmanagement.
+Die Kommunikation zum Rollout soll direkte Nutzergruppen, insbesondere Lehrkräfte und Schulleitungen, frühzeitig über Nutzen, Zugang und Nutzung der Anwendung informieren. Sie soll Akzeptanz fördern und zugleich ein realistisches Erwartungsmanagement unterstützen.
 
-Für die indirekt betroffenen Gruppen (das eigene Haus und nachgeordnete Behörden) gilt es vor allem, Transparenz über Umfang, Ziel und Zeitpunkt des Rollouts herzustellen sowie die notwendige Unterstützung sicherzustellen. Gleichzeitig müssen bei verschiedenen Stakeholdern unterschiedliche Anforderungen berücksichtigt werden.
+Für die indirekt betroffenen Gruppen, insbesondere das eigene Haus und nachgeordnete Behörden, soll Transparenz über Umfang, Ziel und Zeitpunkt des Rollouts hergestellt werden. Gleichzeitig soll die Kommunikation dazu beitragen, notwendige Unterstützung zu sichern und unterschiedliche Anforderungen der beteiligten Stakeholder frühzeitig sichtbar zu machen.
 
 ### 7.2 Formate und Kanäle
 Für die direkten Nutzer werden folgende Maßnahmen vorgeschlagen:
@@ -91,7 +89,7 @@ Für die direkten Nutzer werden folgende Maßnahmen vorgeschlagen:
 ### 8.2 Support-Struktur
 **1st Level Support: Erste Anlaufstelle für Anwender**
 
-Ein Vorteil für den Rollout besteht darin, dass für alle anmeldungsrelevanten Themen bereits ein Support etabliert ist (Schul-ID). Was darüber hinaus über die HZD angeboten werden muss, bedarf der Klärung, da es außerhalb der Anmeldung nahezu ausschließlich zu fachlichen Themen oder zu technischen Ausfällen kommen wird, die wiederum ebenfalls nicht über den 1st Level Support abgedeckt werden.
+Ein Vorteil für den Rollout besteht darin, dass für alle anmeldungsrelevanten Themen bereits ein Support etabliert ist (Schul-ID). Klärungsbedürftig ist, welche darüber hinausgehenden Leistungen über die HZD angeboten werden müssen, da jenseits der Anmeldung vor allem fachliche Fragen und technische Ausfälle zu erwarten sind, die nicht über den bestehenden Anmeldesupport abgedeckt werden.
 
 Offene Fragen:
 - Welchen Input (WDB) muss das HMKB-Team liefern?
@@ -99,11 +97,11 @@ Offene Fragen:
 
 **2nd Level Support: interne fachliche oder organisatorische Zuständigkeit**
 
-Der 2nd Level Support wird über das Projektteam erfolgen. Hier wird auf Basis der Erkenntnisse aus dem Piloten nicht von einem extrem erhöhten Ressourcenaufwand ausgegangen.
+Der 2nd Level Support wird über das Projektteam erfolgen. Auf Basis der Erkenntnisse aus dem Piloten wird dabei aktuell nicht von einem außergewöhnlich hohen zusätzlichen Ressourcenaufwand ausgegangen.
 
 **3rd Level Support: technische Bearbeitung und Fehlerbehebung**
 
-Hier greifen die etablierten Routingstrukturen.
+Für technische Störungen und Fehlerbehebungen greifen die etablierten Routingstrukturen.
 
 ### 8.3 Support-Kanäle und Erreichbarkeit
 - Es werden die Kontaktdaten des 1st Level Supports bereitgestellt.
@@ -118,6 +116,7 @@ Hier greifen die etablierten Routingstrukturen.
 - teilweise Einschränkungen bzw. Nichtverfügbarkeit einzelner technischer oder organisatorischer Voraussetzungen
 - Abhängigkeiten zu angebundenen Komponenten und beteiligten Stellen
 - unklare Abgrenzung zwischen bestehendem Anmeldesupport und weitergehendem fachlichen oder technischen Support
+- Risiko, dass Kommunikation, Befähigung und Support nicht mit derselben Verbindlichkeit vorbereitet werden wie die technische Bereitstellung
 
 ## 10. Maßnahmen zur Absicherung
 - offene technische und organisatorische Punkte müssen vor dem Livegang transparent benannt und priorisiert werden
