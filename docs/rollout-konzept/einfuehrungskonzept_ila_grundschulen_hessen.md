@@ -131,16 +131,13 @@ Für technische Störungen und Fehlerbehebungen greifen die etablierten Routings
 - Supportanfragen können in den vorgesehenen Strukturen bearbeitet werden.
 - Rückmeldungen aus der Anfangsphase werden strukturiert aufgenommen und für die Nachsteuerung genutzt.
 
-## 12. Offene Punkte
-- genaue Ausgestaltung des 1st Level Supports jenseits der Schul-ID-bezogenen Anmeldung
-- Klärung der Routingwege zwischen HZD, Projektteam und technischer Bearbeitung
-- konkrete Ausgestaltung der Kommunikationskanäle für die Schulen
-- Umfang und Form der Befähigungsangebote für die Nutzergruppen
-- Weiterentwicklung der integrierten Feedbackfunktion
-
-## 13. Nächste Schritte
-- offene technische und organisatorische Voraussetzungen klären
-- Kommunikationsmaßnahmen konkretisieren und terminieren
+## 12. Offene Punkte und nächste Schritte
+- genaue Ausgestaltung des 1st Level Supports jenseits der Schul-ID-bezogenen Anmeldung klären
+- Routingwege zwischen HZD, Projektteam und technischer Bearbeitung abstimmen
+- Kommunikationskanäle für die Schulen konkret festlegen
+- Umfang und Form der Befähigungsangebote für die Nutzergruppen definieren
+- integrierte Feedbackfunktion weiterentwickeln und Rückmeldewege festlegen
+- offene technische und organisatorische Voraussetzungen priorisieren und abschließend bewerten
+- Kommunikationsmaßnahmen konkretisieren, terminieren und vorbereiten
 - Supportstruktur einschließlich Zuständigkeiten und Routing final abstimmen
-- Feedback- und Rückmeldewege festlegen
 - Dokument nach weiterer Befüllung final abstimmen
