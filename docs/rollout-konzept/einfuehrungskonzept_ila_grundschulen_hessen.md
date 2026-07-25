@@ -112,26 +112,20 @@ Für technische Störungen und Fehlerbehebungen greifen die etablierten Routings
 - Hierfür soll die integrierte Feedbackfunktion überarbeitet werden.
 - Außerdem soll das Nutzerverhalten anonymisiert ausgewertet werden.
 
-## 9. Bekannte Abhängigkeiten und Risiken
-- teilweise Einschränkungen bzw. Nichtverfügbarkeit einzelner technischer oder organisatorischer Voraussetzungen
-- Abhängigkeiten zu angebundenen Komponenten und beteiligten Stellen
-- unklare Abgrenzung zwischen bestehendem Anmeldesupport und weitergehendem fachlichen oder technischen Support
-- Risiko, dass Kommunikation, Befähigung und Support nicht mit derselben Verbindlichkeit vorbereitet werden wie die technische Bereitstellung
+## 9. Risiken, Abhängigkeiten und Maßnahmen zur Absicherung
+- einzelne technische oder organisatorische Voraussetzungen stehen möglicherweise nicht rechtzeitig oder nicht vollständig zur Verfügung; offene Punkte müssen deshalb vor dem Livegang transparent benannt und priorisiert werden
+- der Rollout ist von angebundenen Komponenten und beteiligten Stellen abhängig; daraus resultierende Abhängigkeiten müssen frühzeitig geklärt und eng begleitet werden
+- die Abgrenzung zwischen bestehendem Anmeldesupport und weitergehendem fachlichen oder technischen Support ist aktuell noch nicht ausreichend geklärt; Supportwege und Zuständigkeiten müssen daher vor dem Rollout verbindlich festgelegt werden
+- es besteht das Risiko, dass Kommunikation, Befähigung und Support nicht mit derselben Verbindlichkeit vorbereitet werden wie die technische Bereitstellung; Kommunikationsmaßnahmen und Rückmeldewege müssen deshalb rechtzeitig terminiert, vorbereitet und ausgewertet werden
 
-## 10. Maßnahmen zur Absicherung
-- offene technische und organisatorische Punkte müssen vor dem Livegang transparent benannt und priorisiert werden
-- Supportwege und Zuständigkeiten müssen vor dem Rollout verbindlich geklärt werden
-- Kommunikationsmaßnahmen müssen rechtzeitig terminiert und vorbereitet werden
-- Rückmeldungen aus der Einführungsphase müssen eng begleitet und systematisch ausgewertet werden
-
-## 11. Erfolgskriterien
+## 10. Erfolgskriterien
 - Die Anwendung ist für die vorgesehenen Nutzergruppen technisch erreichbar und nutzbar.
 - Anmeldung und Zugang funktionieren stabil.
 - Förderpläne können im vorgesehenen Umfang erstellt und bearbeitet werden.
 - Supportanfragen können in den vorgesehenen Strukturen bearbeitet werden.
 - Rückmeldungen aus der Anfangsphase werden strukturiert aufgenommen und für die Nachsteuerung genutzt.
 
-## 12. Offene Punkte und nächste Schritte
+## 11. Offene Punkte und nächste Schritte
 - genaue Ausgestaltung des 1st Level Supports jenseits der Schul-ID-bezogenen Anmeldung klären
 - Routingwege zwischen HZD, Projektteam und technischer Bearbeitung abstimmen
 - Kommunikationskanäle für die Schulen konkret festlegen
