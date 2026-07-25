@@ -97,21 +97,24 @@ Offene Frage:
 - Sind die Routingtouren geklärt
 
 - 2nd Level Support: interne fachliche oder organisatorische Zuständigkeit
+Der 2nd Level Support wird über das Projektteam erfolgen. Hier wird auf Basis der Erkenntnisse aus dem Piloten nicht von einem extrem erhöhten Ressourcenaufwand ausgegangen
 
 - 3rd Level Support: technische Bearbeitung und Fehlerbehebung
+Hier greifen die etablierten Routingstrukturen
 
 ### 10.3 Support-Kanäle und Erreichbarkeit
-- noch festzulegen
+- Es werden die KOntaktdaten des !st Level Supports bereitsgestellt
+- Über die Anwendung (Feedbackfunktion= kann direkt Kontakt aufgenommen werden. 
 
 ### 10.4 Umgang mit direkte Rückmeldungen / integriertes Feedbackangebot
-- Rückmeldungen aus dem Rollout sollen strukturiert aufgenommen und für die Nachsteuerung nutzbar gemacht werden
+- Rückmeldungen aus dem Rollout sollen strukturiert aufgenommen und für die Nachsteuerung nutzbar gemacht werden. hier soll die integrierte Feedbackfunktion überarbeitet werden, außerdem das Nutzerverhalten anonymisiert ausgewertet werden (KI) 
 
 ## 11. Bekannte Abhängigkeiten und Risiken
 - teilweise Einschränkungen bzw. Nichtverfügbarkeit einzelner technischer oder organisatorischer Voraussetzungen?
 - Abhängigkeiten zu angebundenen Komponenten und beteiligten Stellen?
 
-
 ## 12. Maßnahmen zur Absicherung
+
 
 ## 13. Erfolgskriterien
 - Woran wird gemessen, ob der Rollout gelungen ist?
