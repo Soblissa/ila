@@ -71,7 +71,8 @@ Direkte Nutzergruppen (Lehrkräfte und Schulleitungen) benötigen konkrete Infor
 Für die indirekt betroffene Gruppen (das eigene Haus und nachgeordnete Behörden) gilt es vor allem Transparenz über Umfang, Ziel und Zeitpunkt des Rollouts herstellen sowie die notwendige Unterstützung herzustellen. Gleichzeitig müssen bei verschiedenen Stakeholdern verschiedene Anforderungen berücksichtig werdenherzustellen, Rolle, Zuständigkeit und 
 
 ### 8.3 Formate und Kanäle (Maßnahme) und zeitliche Taktung
-für die direkten Nutzer werden folgende Maßahmen und Zeitfenster vorgeschlagen
+für die direkten Nutzer werden folgende Maßahmen und Zeitfenster vorgeschlagen:
+
 - Umfrage im Frühherbst, die fachliche Partiziaptaion mit der Adressierung des Rollllouts verbindet
 - Inforeihe analog zu den erfolgreihen Veranstaltungen im Rahmen der Pilotierung im Januar und Februar 2027
 - Kommunikation über die Referatsinternen Kanäle zwischen Dezember 2026 und Februar 2027
@@ -83,29 +84,34 @@ für die direkten Nutzer werden folgende Maßahmen und Zeitfenster vorgeschlagen
 
 ## 9. Support zum Rollout und im Übergang in den Regelbetrieb
 ### 10.1 Zielbild des Supports
-- zum Rollout muss eine verlässliche Unterstützungsstruktur vorhanden sein
-- der Übergang vom Rollout in den Regelbetrieb muss klar geregelt werden
+Der Übergang vom Rollout in den Regelbetrieb muss klar geregelt werden
+Zum Rollout muss eine verlässliche Unterstützungsstruktur vorhanden sein
+
 
 ### 10.2 Support-Struktur
-- 1st Level Support: noch zu konkretisieren
+- 1st Level Support: Erste Anlaufstelle für Anwender
+Ein Vorteil für den Rollout besteht darin, das für alle anmeldungsrelevanten Themen bereits ein Support etabliert ist (Schul-ID). Was über die HZD darüber hinaus angeboeten werden (muss), bedarf der Klärung, da es ausserhalb der Anwendung nahezu ausschlißelich zu fachlichen Themen oder zu technischen Ausfällen kommen wird, die wiederum ebenfalls nicht über den 1st Level Account abgedekt werden.
+
+Offene Frage: 
+- Welchen Input (WDB) muss das HMKB Team liefern
+- Sind die Routingtouren geklärt
+
 - 2nd Level Support: interne fachliche oder organisatorische Zuständigkeit
+
 - 3rd Level Support: technische Bearbeitung und Fehlerbehebung
 
 ### 10.3 Support-Kanäle und Erreichbarkeit
 - noch festzulegen
 
-### 10.4 Umgang mit Rückmeldungen
+### 10.4 Umgang mit direkte Rückmeldungen / integriertes Feedbackangebot
 - Rückmeldungen aus dem Rollout sollen strukturiert aufgenommen und für die Nachsteuerung nutzbar gemacht werden
 
 ## 11. Bekannte Abhängigkeiten und Risiken
-- teilweise Einschränkungen bzw. Nichtverfügbarkeit einzelner technischer oder organisatorischer Voraussetzungen
-- Abhängigkeiten zu angebundenen Komponenten und beteiligten Stellen
-- Risiko eines Livegangs mit noch nicht ausreichend belastbarer Supportstruktur
+- teilweise Einschränkungen bzw. Nichtverfügbarkeit einzelner technischer oder organisatorischer Voraussetzungen?
+- Abhängigkeiten zu angebundenen Komponenten und beteiligten Stellen?
+
 
 ## 12. Maßnahmen zur Absicherung
-- offene Punkte müssen vor dem Livegang transparent benannt und priorisiert werden
-- Zwischenlösungen können dort eingesetzt werden, wo sie den fachlich vorgesehenen Zielzustand an der Oberfläche sinnvoll abbilden
-- Rückmeldungen aus der Einführungsphase müssen eng begleitet und ausgewertet werden
 
 ## 13. Erfolgskriterien
 - Woran wird gemessen, ob der Rollout gelungen ist?
