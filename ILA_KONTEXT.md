@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-04-22 (ergänzt um Chat-Verlauf 22.03.–31.03.2026)*
+*Letzte Aktualisierung: 2026-09-11 (Repo-Stand: letzter Commit 30.07.2026)*
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 2. Aktueller Projektstand (Stand: 2026-04-22)
+## 2. Aktueller Projektstand (Stand: 2026-09-11, Repo-Stand 30.07.2026)
 
 ### Was abgeschlossen ist
 - ✅ Pilotauswertung AS1 (30.01.–31.03.2026) — Gesamtbericht fertig
@@ -31,20 +31,32 @@
 - ✅ Figma Screens: Startseite, Förderakte, Förderziel, BSLRR-Flow, Nutzerfeedback u.a.
 - ✅ OnePager Pilotauswertung (Word + MD)
 - ✅ Anforderungsbeschreibung Kalender/Erinnerung/Aufgaben
+- ✅ **Auswertung Förderakte** (18.05.2026) — Fragen + Ergebnistabelle in `Förderakte/`
+- ✅ **Hessische Anforderungen Barrierefreiheit** (29.05.2026) — zusammengetragen in `Barrierefreiheit/`
+- ✅ **Corporate LLM / ADO als Single Source of Truth** — Arbeitsentwurf vom 25.05.2026, in vier Teile strukturiert (MD + Word)
+- ✅ **Lachnit-Screens SöPädFö** (13.07.2026) — 9 PNGs in `Downloads_Sarah/Lachnit_Screens_SOPAeDFO/`: Anlegen, Beratungsanlass, Zustimmung, Beauftragung, Durchführung, Maßnahmen (auch Sicht Auftragnehmende Schule), Abschließen
+- ✅ **Einführungskonzept ila Grundschulen Hessen** (21.–25.07.2026) — 11 Abschnitte, MD + Word, in `docs/rollout-konzept/`
+- ✅ **LUSD-Testautomatisierung** (30.07.2026) — Machbarkeitsstudie (Autor: Tobias Gudd, HZD Hessen), Konzept mit Corporate LLM, Management Briefing (MD + Word) in `LUSD/Testautomatisierung/`
+- ✅ **LUSD-Dokumentation** — Release-Änderungen 11 bis 41 plus Anleitungen im Ordner `LUSD/`
 
 ### Was gerade läuft
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
-- 🔄 Neuer Themenordner `Barrierefreiheit/` angelegt, erste hessische Anforderungen für ila zusammengetragen
+- 🔄 **Corporate LLM für HMKB** — Angebot in Vorbereitung, Budget max. 100.000 € über 2 Jahre. Offene Kernfrage: Anbindung ans Hessennetz. Optionen: Netzwerkfreigabe durch HZD / Colocation im HZD-Rechenzentrum / Microsoft Azure Service Principal. Stand 07.09.2026 — noch nicht im Repo dokumentiert
 
 ### Offene TODOs
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
 - [ ] FigJam-Seite anlegen für neuen Flow
 - [ ] BSLRR + IFö in neuen Ansatz überführen
-- [ ] Handlungsanweisung für Sebastian und Yves schreiben
+- [ ] Handlungsanweisung für Sebastian schreiben (Yves ist raus)
 - [ ] Steuerungs- und Freigabe-Matrix erstellen
 - [ ] Barrierefreiheits-Checkliste für ila aus hessischen Anforderungen ableiten
+- [ ] Corporate-LLM-Angebot HMKB finalisieren — Entscheidung zur Hessennetz-Anbindung offen
+- [ ] Einführungskonzept: Abschnitt 11 „Offene Punkte und nächste Schritte" abarbeiten
+
+### Lücke im Kontext
+Zwischen dem letzten Repo-Commit (30.07.2026) und dem 11.09.2026 liegen rund sechs Wochen ohne Repo-Aktivität. Laut Sarah ist in dieser Zeit wenig passiert. Aus Sessions belegt ist nur die Corporate-LLM-Diskussion vom 07.09.2026 (siehe oben).
 
 ---
 
@@ -114,9 +126,11 @@
 - BSLRR aktuell: `bslrr_flow_v9.json`
 
 ### Git
-- Repo: `/home/user1/ila` → GitHub: `github-soblissa:Soblissa/ila`
+- Repo lokal: `/home/cheko/.openclaw/workspace/ila`
+- Remote: `git@github.com:soblissa/ila` (SSH-Schlüssel `~/.ssh/id_ed25519`, Konto Soblissa, Schreibzugriff verifiziert 11.09.2026)
 - Branch: `main`
-- Identity: `Cheko <cheko@ila-agent.local>`
+- Identity: `Cheko <cheko@ila-agent.local>` (global gesetzt 11.09.2026)
+- Hinweis: `AGENTS.md` nennt fälschlich `/home/cheko/ila` — gültig ist der Pfad oben
 
 ---
 
