@@ -38,12 +38,14 @@
 - ✅ **Einführungskonzept ila Grundschulen Hessen** (21.–25.07.2026) — 11 Abschnitte, MD + Word, in `docs/rollout-konzept/`
 - ✅ **LUSD-Testautomatisierung** (30.07.2026) — Machbarkeitsstudie (Autor: Tobias Gudd, HZD Hessen), Konzept mit Corporate LLM, Management Briefing (MD + Word) in `LUSD/Testautomatisierung/`
 - ✅ **LUSD-Dokumentation** — Release-Änderungen 11 bis 41 plus Anleitungen im Ordner `LUSD/`
+- ✅ **EIM-Anforderungssteckbrief HZD v2.3** (03.07.2026) — von Sarah am 11.09.2026 übermittelt, als Markdown abgelegt in `EIM/`. Absichtserklärung (LoI) für die Anbindung eines Fachverfahrens an die zentrale Identitätsplattform der HZD (SSO, MFA, IGA, OIDC/SAML, SCIM). Noch nicht für diSAF ausgefüllt
+- ✅ **Präsentation Corporate LLM HMKB („Keller-KI“)** — 11 Folien, neu gebaut am 11.09.2026, in `Anforderungen an eine Corporate LLM/Corporate_LLM_HMKB_Praesentation.pptx`. Reproduzierbar über `scripts/build_corporate_llm_praesentation.py`
 
 ### Was gerade läuft
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
-- 🔄 **Corporate LLM für HMKB** — Angebot in Vorbereitung, Budget max. 100.000 € über 2 Jahre. Offene Kernfrage: Anbindung ans Hessennetz. Optionen: Netzwerkfreigabe durch HZD / Colocation im HZD-Rechenzentrum / Microsoft Azure Service Principal. Stand 07.09.2026 — noch nicht im Repo dokumentiert
+- 🔄 **Corporate LLM für HMKB** — Angebot in Vorbereitung, Budget max. 100.000 € über 2 Jahre. Zweiphasenmodell: **Phase 1** (KI-Server außerhalb des Hessennetzes, manueller Dokumentenexport, ohne HZD lieferbar, ca. 80 % des Nutzens) und **Phase 2** (Server im Hessennetz, Live-Anbindung ADO + SharePoint, braucht eigenen HMKB-Serverraum oder HZD-Kooperation). Kosten 2 Jahre: 53.000–87.000 €. Hardware: NVIDIA RTX A6000 Ada 48 GB. Modelle: Mistral Small 3.2 24B (1. Wahl, EU), Qwen 2.5 32B, Llama 4 Scout. Präsentation liegt vor, Angebot noch offen
 
 ### Offene TODOs
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
@@ -52,11 +54,15 @@
 - [ ] Handlungsanweisung für Sebastian schreiben (Yves ist raus)
 - [ ] Steuerungs- und Freigabe-Matrix erstellen
 - [ ] Barrierefreiheits-Checkliste für ila aus hessischen Anforderungen ableiten
-- [ ] Corporate-LLM-Angebot HMKB finalisieren — Entscheidung zur Hessennetz-Anbindung offen
+- [ ] Corporate-LLM-Angebot HMKB finalisieren — 22 Fragen an Dirk Lenz offen (u. a. eigener Serverraum? Wer verwaltet die Microsoft-Tenants? Ausschreibungspflicht? KI-Nutzungsrichtlinie? Datenschutzbeauftragter eingebunden?)
+- [ ] Prüfen, ob der EIM-Steckbrief für diSAF ausgefüllt werden soll (Entscheidungspunkte: Hosting-Kategorie, Nutzergruppen, Vertrauensstufe Bronze/Silber/Gold, PPID oder Klardaten, Rollenmodell, Provisionierung)
 - [ ] Einführungskonzept: Abschnitt 11 „Offene Punkte und nächste Schritte" abarbeiten
 
 ### Lücke im Kontext
 Zwischen dem letzten Repo-Commit (30.07.2026) und dem 11.09.2026 liegen rund sechs Wochen ohne Repo-Aktivität. Laut Sarah ist in dieser Zeit wenig passiert. Aus Sessions belegt ist nur die Corporate-LLM-Diskussion vom 07.09.2026 (siehe oben).
+
+### Festgestellte Klarstellung (11.09.2026)
+Der EIM-Steckbrief weist Firewall-Freischaltungen den Fachverfahrensverantwortlichen zu („rechtzeitig beim IT-Betrieb zu beantragen“). Das ist eine Zuständigkeitszuweisung, **keine Zusage auf Genehmigung**. Die zugesagten „≤ 3 Arbeitstage“ gelten nur für das EIM-Onboarding, nicht für Netzfreigaben. Beantragen heißt nicht durchsetzen — und der EIM-Fall (HZD-intern, Eigeninteresse der HZD) ist nicht vergleichbar mit unserem Fall (externer Server will ins Hessennetz).
 
 ---
 
