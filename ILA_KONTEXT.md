@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-09-11 (Repo-Stand: letzter Commit 30.07.2026)*
+*Letzte Aktualisierung: 2026-09-15*
 
 ---
 
@@ -40,6 +40,7 @@
 - ✅ **LUSD-Dokumentation** — Release-Änderungen 11 bis 41 plus Anleitungen im Ordner `LUSD/`
 - ✅ **EIM-Anforderungssteckbrief HZD v2.3** (03.07.2026) — von Sarah am 11.09.2026 übermittelt, als Markdown abgelegt in `EIM/`. Absichtserklärung (LoI) für die Anbindung eines Fachverfahrens an die zentrale Identitätsplattform der HZD (SSO, MFA, IGA, OIDC/SAML, SCIM). Noch nicht für diSAF ausgefüllt
 - ✅ **Präsentation Corporate LLM HMKB („Keller-KI“)** — 11 Folien, neu gebaut am 11.09.2026, in `Anforderungen an eine Corporate LLM/Corporate_LLM_HMKB_Praesentation.pptx`. Reproduzierbar über `scripts/build_corporate_llm_praesentation.py`
+- ✅ **Nextcloud ChekoWorkspace als primärer bearbeitbarer Ausgabekanal** (15.09.2026) — kontrollierte Struktur für Eingang, aktive Themen, Entscheidungen, Freigaben, Referenzen und Archiv eingerichtet. Erste Collabora-Dokumente zu diSAF, VM SöPädFö, EIM, Corporate LLM und LUSD-Testautomatisierung aus den bereitgestellten OTT-Vorlagen erzeugt
 
 ### Was gerade läuft
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
@@ -137,6 +138,14 @@ Der EIM-Steckbrief weist Firewall-Freischaltungen den Fachverfahrensverantwortli
 - Branch: `main`
 - Identity: `Cheko <cheko@ila-agent.local>` (global gesetzt 11.09.2026)
 - Hinweis: `AGENTS.md` nennt fälschlich `/home/cheko/ila` — gültig ist der Pfad oben
+
+### Nextcloud / Collabora
+- WebDAV-Einbindung: `/home/cheko/.openclaw/workspace/nextcloud-shared`
+- Primärer Ausgabebereich: `nextcloud-shared/ChekoWorkspace/`
+- Start und Arbeitsregeln: `ChekoWorkspace/00_START/README.md`
+- Unveränderte Vorlagen: `ChekoWorkspace/40_Collabora-Vorlagen/`
+- Bearbeitbare Ausgaben werden als `.odt` aus der passenden `.ott`-Vorlage erzeugt
+- Git bleibt die technische Quelle für versionierte Projektartefakte; Nextcloud dient gemeinsamer Sichtung, Bearbeitung und Freigabe
 
 ---
 
