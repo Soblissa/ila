@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-09-15*
+*Letzte Aktualisierung: 2026-09-28*
 
 ---
 
@@ -41,6 +41,7 @@
 - ✅ **EIM-Anforderungssteckbrief HZD v2.3** (03.07.2026) — von Sarah am 11.09.2026 übermittelt, als Markdown abgelegt in `EIM/`. Absichtserklärung (LoI) für die Anbindung eines Fachverfahrens an die zentrale Identitätsplattform der HZD (SSO, MFA, IGA, OIDC/SAML, SCIM). Noch nicht für diSAF ausgefüllt
 - ✅ **Präsentation Corporate LLM HMKB („Keller-KI“)** — 11 Folien, neu gebaut am 11.09.2026, in `Anforderungen an eine Corporate LLM/Corporate_LLM_HMKB_Praesentation.pptx`. Reproduzierbar über `scripts/build_corporate_llm_praesentation.py`
 - ✅ **Nextcloud ChekoWorkspace als primärer bearbeitbarer Ausgabekanal** (15.09.2026) — kontrollierte Struktur für Eingang, aktive Themen, Entscheidungen, Freigaben, Referenzen und Archiv eingerichtet. Erste Collabora-Dokumente zu diSAF, VM SöPädFö, EIM, Corporate LLM und LUSD-Testautomatisierung aus den bereitgestellten OTT-Vorlagen erzeugt
+- ✅ **Produktbeschreibung ila sprachlich korrigiert** (28.09.2026) — Rechtschreibung, Grammatik und Lesefluss überarbeitet; Fachbegriffe und Kernaussagen beibehalten
 
 ### Was gerade läuft
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
