@@ -44,12 +44,14 @@
 - ✅ **Produktbeschreibung ila sprachlich korrigiert** (28.09.2026) — Rechtschreibung, Grammatik und Lesefluss überarbeitet; Fachbegriffe und Kernaussagen beibehalten
 
 ### Was gerade läuft
+- 🔄 **Wording-Überarbeitung der Figma Design Specs** (28.09.2026) — aktueller Stand der offiziellen Figma-Instanz soll zunächst in die Arbeitsdatei kopiert werden. Der vorhandene Screen Builder kann neue Screens aus JSON erzeugen und beim Klonen das erste Textfeld beschriften, vorhandene Design-Spec-Texte aber noch nicht systematisch auslesen und aktualisieren
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
 - 🔄 **Corporate LLM für HMKB** — Angebot in Vorbereitung, Budget max. 100.000 € über 2 Jahre. Zweiphasenmodell: **Phase 1** (KI-Server außerhalb des Hessennetzes, manueller Dokumentenexport, ohne HZD lieferbar, ca. 80 % des Nutzens) und **Phase 2** (Server im Hessennetz, Live-Anbindung ADO + SharePoint, braucht eigenen HMKB-Serverraum oder HZD-Kooperation). Kosten 2 Jahre: 53.000–87.000 €. Hardware: NVIDIA RTX A6000 Ada 48 GB. Modelle: Mistral Small 3.2 24B (1. Wahl, EU), Qwen 2.5 32B, Llama 4 Scout. Präsentation liegt vor, Angebot noch offen
 
 ### Offene TODOs
+- [ ] Figma-Plugin für die Wording-Überarbeitung erweitern: Textfelder ausgewählter Frames exportieren, Korrekturen anhand stabiler Node-IDs einlesen und nach Freigabe in der Arbeitskopie anwenden
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
 - [ ] FigJam-Seite anlegen für neuen Flow
 - [ ] BSLRR + IFö in neuen Ansatz überführen
