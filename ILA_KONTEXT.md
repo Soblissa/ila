@@ -44,7 +44,7 @@
 - ✅ **Produktbeschreibung ila sprachlich korrigiert** (28.09.2026) — Rechtschreibung, Grammatik und Lesefluss überarbeitet; Fachbegriffe und Kernaussagen beibehalten
 
 ### Was gerade läuft
-- 🔄 **Wording-Überarbeitung der Figma Design Specs** (28.09.2026) — aktueller Stand der offiziellen Figma-Instanz soll zunächst in die Arbeitsdatei kopiert werden. Der vorhandene Screen Builder kann neue Screens aus JSON erzeugen und beim Klonen das erste Textfeld beschriften, vorhandene Design-Spec-Texte aber noch nicht systematisch auslesen und aktualisieren
+- 🔄 **Wording-Überarbeitung der Figma Design Specs** (28.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Der vorhandene Screen Builder kann neue Screens aus JSON erzeugen und beim Klonen das erste Textfeld beschriften, vorhandene Design-Spec-Texte aber noch nicht systematisch auslesen und aktualisieren. API-Zugriffstest ist derzeit blockiert: In Chekos Gateway-Laufzeit fehlt `FIGMA_TOKEN`; die alte Datei `/etc/openclaw/users/user1.env` ist nur für den früheren Systemnutzer `user1` lesbar
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
