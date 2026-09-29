@@ -44,7 +44,7 @@
 - ✅ **Produktbeschreibung ila sprachlich korrigiert** (28.09.2026) — Rechtschreibung, Grammatik und Lesefluss überarbeitet; Fachbegriffe und Kernaussagen beibehalten
 
 ### Was gerade läuft
-- 🔄 **Wording-Überarbeitung der Figma Design Specs** (29.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Der vorhandene Screen Builder kann neue Screens aus JSON erzeugen und beim Klonen das erste Textfeld beschriften, vorhandene Design-Spec-Texte aber noch nicht systematisch auslesen und aktualisieren. Neuer `FIGMA_TOKEN` liegt im geschützten OpenClaw-Schlüsselspeicher und ist auf `api.figma.com` beschränkt; die unverschlüsselte Übergabedatei wurde sicher gelöscht. Der API-Lesezugriff wurde nach Aktivierung des geschützten Egress-Proxys und Gateway-Neustart am 29.09.2026 erfolgreich mit HTTP 200 verifiziert; alle 34 Seiten der Arbeitskopie sind erreichbar
+- 🔄 **Wording-Überarbeitung der Figma Design Specs** (29.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Neuer `FIGMA_TOKEN` liegt im geschützten OpenClaw-Schlüsselspeicher und ist auf `api.figma.com` beschränkt; die unverschlüsselte Übergabedatei wurde sicher gelöscht. Der API-Lesezugriff wurde am 29.09.2026 erfolgreich mit HTTP 200 verifiziert; alle 34 Seiten der Arbeitskopie sind erreichbar. **Plugin-Prüfung 29.09.2026:** Manifest und JavaScript sind syntaktisch gültig, aber der eingebettete Komponenten-Index ist nach dem Dateiimport teilweise veraltet: Von 155 hinterlegten Node-IDs sind nur 53 in der Arbeitskopie vorhanden, 102 fehlen. Der bisherige Drei-Komponenten-Test würde nur Navigation Bar Main und Navigation Bar Content finden; Page Heading Plan fehlt. Das Plugin ist daher derzeit nur teilweise funktionsfähig und benötigt einen neu erzeugten Komponenten-Index sowie die geplante Wording-Erweiterung
 - 🔄 Neuer Flow "VM SöPädFö" (Vorbeugende Maßnahme) — flow_ab_vm_v2.json fertig, v3 in Vorbereitung
 - 🔄 Neues Konzept: **Förderakte als Hub** — alle Prozesse starten von dort, kein separater Anlass-Einstieg mehr
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
@@ -52,6 +52,7 @@
 
 ### Offene TODOs
 - [ ] Figma-Plugin für die Wording-Überarbeitung erweitern: Textfelder ausgewählter Frames exportieren, Korrekturen anhand stabiler Node-IDs einlesen und nach Freigabe in der Arbeitskopie anwenden
+- [ ] Komponenten-Index des Figma-Plugins aus der neuen Design-Specs-Arbeitskopie neu erzeugen (102 von 155 bisherigen Node-IDs fehlen)
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
 - [ ] FigJam-Seite anlegen für neuen Flow
 - [ ] BSLRR + IFö in neuen Ansatz überführen
