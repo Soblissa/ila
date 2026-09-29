@@ -1,7 +1,7 @@
 # UI-Wording-Regeln — Version 1
 
-**Stand:** 2026-04-01  
-**Autor:** Cheko (ILA-Hauptagent)  
+**Stand:** 2026-09-29
+**Autor:** Cheko (ILA-Hauptagent)
 **Status:** Entwurf — zur Ergänzung durch Sebastian (Fachlichkeit) und Yves (Design)
 
 ---
@@ -118,7 +118,7 @@ Besonders bei Buttons, Navigationspunkten und Überschriften:
 | Seite mit Förderziel-Details | "Förderziel" | "Förderziel-Detail", "Card Target View" |
 | Prozess Neue Förderung, Schritt 1 | "Schüler auswählen" | "Schritt 1: Schülersuche", "Suche starten" |
 | Leerer Zustand (keine Einträge) | "Noch keine Förderziele vorhanden" | "Empty State", "Keine Daten" |
-| Fehlermeldung | "Bitte gib einen Wert ein" | "Fehler: Pflichtfeld leer", "Validation Error" |
+| Fehlermeldung | "Bitte geben Sie einen Wert ein" | "Bitte gib einen Wert ein", "Fehler: Pflichtfeld leer", "Validation Error" |
 
 ---
 
@@ -134,12 +134,46 @@ Der Lebenszyklus eines Förderziels hat drei Zustände — sowohl technisch als 
 
 ---
 
-## 7. Gendern und Anrede
+## 7. Anrede, Perspektive und Gendern
 
-**Offen — muss mit Sebastian und Sarah geklärt werden:**
+### 7.1 Direkte Ansprache
+
+Wenn die Anwendung die Nutzerin oder den Nutzer direkt anspricht, wird konsequent gesiezt:
+- ✅ „Wählen Sie einen Förderbereich aus.“
+- ✅ „Ihre Eingaben wurden gespeichert.“
+- ❌ „Wähle einen Förderbereich aus.“
+- ❌ Wechsel zwischen „Sie“ und „du“
+
+### 7.2 Persönliche Startseite und eigene Entitäten
+
+Auf der persönlichen Startseite ist eine personalisierte Begrüßung vorgesehen:
+- ✅ `Willkommen, [Nutzername]`
+
+Eigene Entitäten werden in der Navigation und in persönlichen Übersichten aus der Ich-Perspektive über ein Possessivpronomen (besitzanzeigendes Fürwort) bezeichnet:
+- ✅ „Mein Schüler“
+- ✅ „Meine Förderakten“
+
+Diese Perspektive wird nicht auf allgemeine Fachseiten, Prozesse oder Systemmeldungen übertragen.
+
+### 7.3 Ich-Perspektive bei Erklärungen
+
+Formulierungen mit „Ich …“ werden nur verwendet, wenn die Nutzerin oder der Nutzer ausdrücklich eine persönliche Erklärung, Bestätigung oder Einwilligung abgibt:
+- ✅ „Ich habe die Eltern informiert.“
+- ✅ „Ich bestätige, dass …“
+- ❌ „Ich möchte den Förderplan speichern.“ als Beschriftung einer Schaltfläche
+
+### 7.4 Systemperspektive
+
+Status-, Erfolgs- und Fehlermeldungen werden neutral aus Sicht des Systems formuliert:
+- ✅ „Der Förderplan wurde gespeichert.“
+- ✅ „Die Eingabe konnte nicht gespeichert werden.“
+- ❌ „Wir haben Ihren Förderplan gespeichert.“
+
+### 7.5 Gendern
+
+**Weiterhin offen — muss mit Sebastian und Sarah geklärt werden:**
 - Schüler/Schülerin vs. Schüler:in vs. Lernende:r
 - Lehrkraft vs. Lehrer/Lehrerin
-- Anrede in Systemnachrichten (du vs. Sie)
 
 ---
 
