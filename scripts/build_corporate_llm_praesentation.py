@@ -181,41 +181,56 @@ bullets(s, [
     ("Budgetrahmen: maximal 100.000 € über zwei Jahre", 1),
     ("", 0),
     ("Der Kern dieser Präsentation", 0, True),
-    ("Es gibt einen Weg, der sofort funktioniert — ganz ohne die HZD", 1),
-    ("Und einen Vollausbau, der ohne die HZD nicht geht", 1),
+    ("Ein Pilot ist ohne Live-Anbindung an ADO und SharePoint möglich", 1),
+    ("Vorher muss geklärt werden, ob HessenPCs die externe KI-Webadresse erreichen dürfen", 1),
+    ("Der Vollausbau im Hessennetz ist nur gemeinsam mit der HZD möglich", 1),
 ], size=15)
 notiz(s, "Wichtig: nicht mit Technik einsteigen. Der Schmerz ist bekannt — händische "
-         "Testfälle und Doku. Die Frage ans Referat lautet später: wollen wir Phase 1 "
-         "starten, ohne auf die HZD zu warten?")
+         "Testfälle und Doku. Für den Pilot sind zwei Fragen zu trennen: Er braucht keine "
+         "Live-Anbindung an ADO oder SharePoint. Der Zugriff vom HessenPC auf eine extern "
+         "betriebene Webanwendung muss aber vorab technisch und organisatorisch bestätigt werden.")
 
 # ---------------------------------------------------------------- Folie 3
-s = textfolie("Was eine „Keller-KI\u201c ist")
+s = textfolie("So erreicht die Keller-KI den HessenPC")
 leerflaeche(s)
-top = Inches(1.35)
-h = Inches(1.55)
-w = Inches(2.15)
-gap = Inches(0.18)
-left = Inches(0.5)
-for titel, zeilen, farbe in [
-    ("Das Modell", ["Die Sprach-KI selbst.", "Läuft lokal auf eigener", "Hardware — offline."], DUNKELBLAU),
-    ("Die Oberfläche", ["Ein Browser-Fenster,", "wie man es von", "Chatdiensten kennt."], DUNKELBLAU),
-    ("Die Wissens-\ndatenbank", ["Eigene Dokumente,", "durchsuchbar gemacht.", "AWAs, Handbücher, Doku."], GRUEN),
-    ("Die Agenten", ["Vorkonfigurierte Helfer", "für wiederkehrende", "Aufgaben."], GRUEN),
-]:
-    kasten(s, left, top, w, h, titel, zeilen, farbe, titel_size=13, text_size=11)
-    left += w + gap
+kasten(s, Inches(0.45), Inches(1.25), Inches(2.0), Inches(1.3),
+       "1  HessenPC",
+       ["Vorhandener Browser", "Keine lokale Installation"],
+       DUNKELBLAU, titel_size=14, text_size=11)
+kasten(s, Inches(2.75), Inches(1.25), Inches(2.35), Inches(1.3),
+       "2  Sicherer Netzweg",
+       ["Freigegebene HTTPS-Adresse", "Anmeldung und Berechtigung"],
+       ROT, titel_size=14, text_size=11)
+kasten(s, Inches(5.4), Inches(1.25), Inches(4.15), Inches(1.3),
+       "3  KI-Server",
+       ["Alle Komponenten laufen zentral", "Der HessenPC dient nur zur Bedienung"],
+       GRUEN, titel_size=14, text_size=11)
 
-tabelle(s, [
-    ["Baustein", "Software", "Lizenzkosten"],
-    ["Modellbetrieb", "Ollama", "0 € — Open Source"],
-    ["Benutzeroberfläche", "Open WebUI", "0 € — Open Source"],
-    ["Wissensdatenbank", "Qdrant (Vektordatenbank)", "0 € — Open Source"],
-    ["Dokumentensuche", "RAG-Verfahren", "0 € — Open Source"],
-], Inches(0.5), Inches(3.15), Inches(9.0), Inches(1.9), size=12,
-   spaltenbreiten=[Inches(2.6), Inches(3.6), Inches(2.8)])
-notiz(s, "RAG = die KI schlägt in den eigenen Dokumenten nach, bevor sie antwortet. "
-         "Dadurch erfindet sie deutlich weniger. Alle vier Bausteine sind Open Source — "
-         "es fallen keine Lizenzkosten an, nur Hardware und Arbeit.")
+for x, titel, text in [
+    (0.55, "Oberfläche", "Chat und Dateiupload"),
+    (2.85, "Agenten", "AWA, Testfall, Wissen"),
+    (5.15, "Wissensbasis", "Freigegebene Dokumente"),
+    (7.45, "Open-Weight-Modell", "Das eigentliche „Gehirn“"),
+]:
+    kasten(s, Inches(x), Inches(3.05), Inches(2.0), Inches(1.05),
+           titel, [text], DUNKELBLAU if x < 2.0 or x > 7.0 else GRUEN,
+           titel_size=12, text_size=10)
+
+tb = s.shapes.add_textbox(Inches(0.55), Inches(4.45), Inches(8.9), Inches(0.65)).text_frame
+tb.word_wrap = True
+p = tb.paragraphs[0]
+p.text = ("Offener Prüfpunkt für Phase 1: Darf der HessenPC die externe Webadresse erreichen "
+          "und Dokumente dorthin hochladen?")
+p.alignment = PP_ALIGN.CENTER
+p.runs[0].font.size = Pt(14)
+p.runs[0].font.bold = True
+p.runs[0].font.color.rgb = ROT
+notiz(s, "Das Open-Weight-Modell ist das sprachliche Gehirn und läuft auf dem Server. "
+         "Open WebUI ist die zentrale Weboberfläche. Berechtigte pflegen dort freigegebene "
+         "Dokumente in die Wissensbasis ein; die Dokumente werden serverseitig für die Suche "
+         "aufbereitet. Nutzende melden sich an und wählen einen vorkonfigurierten Assistenten. "
+         "Keine Installation am HessenPC ist nötig. Entscheidend ist jedoch, ob die externe "
+         "HTTPS-Adresse erreichbar und der Dokumentenupload zulässig ist.")
 
 # ---------------------------------------------------------------- Folie 4
 s = textfolie("Hardware und Modellauswahl")
@@ -302,21 +317,22 @@ s = textfolie("Zwei Wege — mit und ohne HZD")
 leerflaeche(s)
 
 kasten(s, Inches(0.45), Inches(1.3), Inches(4.4), Inches(3.55),
-       "Phase 1 — sofort startbar",
-       ["Abhängig von der HZD:  nein",
+       "Phase 1 — technisch startbar",
+       ["Live-Anbindung an HZD-Systeme:  nein",
+        "HessenPC-Zugriff:  noch zu klären",
         "",
         "KI-Server läuft außerhalb des Hessennetzes,",
         "in einem EU-Rechenzentrum, DSGVO-konform",
         "",
-        "Dokumente werden manuell exportiert und in",
-        "die Wissensdatenbank geladen",
+        "Dokumente werden manuell exportiert und über",
+        "die Weboberfläche in die Wissensbasis geladen",
         "",
         "Alle Agenten laufen vollständig:",
         "AWA-Assistent, Testfall-Generator,",
         "Wissensassistent",
         "",
-        "Ergebnisse werden manuell in ADO eingetragen",
-        "— so wie heute, nur erheblich schneller"], GRUEN, titel_size=15, text_size=11)
+        "Direkte Nutzung am HessenPC nur, wenn die",
+        "externe HTTPS-Adresse freigegeben ist"], GRUEN, titel_size=15, text_size=11)
 
 kasten(s, Inches(5.15), Inches(1.3), Inches(4.4), Inches(3.55),
        "Phase 2 — Vollausbau",
@@ -338,15 +354,15 @@ kasten(s, Inches(5.15), Inches(1.3), Inches(4.4), Inches(3.55),
 tb = s.shapes.add_textbox(Inches(0.45), Inches(4.95), Inches(9.1), Inches(0.4)).text_frame
 tb.word_wrap = True
 p = tb.paragraphs[0]
-p.text = "Phase 1 liefert rund 80 % des Nutzens — und ist vollständig unabhängig lieferbar."
+p.text = "Phase 1 liefert rund 80 % des fachlichen Nutzens — sobald der HessenPC-Zugriff geklärt ist."
 p.alignment = PP_ALIGN.CENTER
 p.runs[0].font.size = Pt(13)
 p.runs[0].font.bold = True
 p.runs[0].font.color.rgb = DUNKELBLAU
-notiz(s, "Kernbotschaft der Präsentation. Phase 1 ist kein Kompromiss und keine "
-         "Notlösung, sondern ein vollwertiger erster Schritt. Phase 2 ist ein Ziel, "
-         "kein Versprechen — sie hängt an einer Entscheidung, die weder das Referat "
-         "noch wir allein treffen können.")
+notiz(s, "Kernbotschaft der Präsentation. Phase 1 braucht keine Live-Verbindung zu ADO "
+         "oder SharePoint. Sie ist aber nur am HessenPC nutzbar, wenn die externe, "
+         "authentifizierte HTTPS-Webadresse erreichbar ist und der Datei-Upload erlaubt wird. "
+         "Phase 2 bleibt ein Ziel und erfordert die HZD.")
 
 # ---------------------------------------------------------------- Folie 8
 s = textfolie("Was sich konkret ändert")
@@ -414,25 +430,28 @@ bullets(s, [
      "alles über die HZD?", 1),
     ("Wer verwaltet die Microsoft-Tenants des HMKB: das Haus selbst oder die HZD?", 1),
     ("Wer ist der IT-Ansprechpartner für dieses Vorhaben?", 1),
+    ("Dürfen HessenPCs eine externe, authentifizierte HTTPS-Webanwendung aufrufen?", 1),
+    ("Dürfen freigegebene Dokumente vom HessenPC dorthin hochgeladen werden?", 1),
     ("Besteht eine Ausschreibungspflicht?", 1),
     ("Gibt es bereits eine KI-Nutzungsrichtlinie im Haus?", 1),
     ("Wurde das Vorhaben mit dem Datenschutzbeauftragten besprochen?", 1),
     ("Bis wann soll das Angebot vorliegen?", 1),
     ("", 0),
     ("Vorschlag für das weitere Vorgehen", 0, True),
-    ("Entscheidung des Referats: Phase 1 starten, ohne auf die HZD zu warten", 1),
+    ("HessenPC-Zugang kurzfristig mit der zuständigen IT verbindlich klären", 1),
+    ("Danach Entscheidung des Referats über den Start von Phase 1", 1),
     ("Parallel klären, ob Phase 2 mittelfristig realistisch ist", 1),
     ("Nach den Antworten: verbindliches Angebot mit Zeitplan", 1),
-], size=14)
-notiz(s, "Abschluss mit einer konkreten Entscheidungsfrage, nicht mit einem "
-         "Ausblick. Das Referat soll heute nicht Phase 2 beschließen — es soll "
-         "entscheiden, ob Phase 1 beginnen darf.")
+], size=12)
+notiz(s, "Abschluss mit einer konkreten Klärungs- und Entscheidungsfolge. Das Referat "
+         "soll Phase 2 heute nicht beschließen. Vor einer Entscheidung über Phase 1 "
+         "muss der Zugriff vom HessenPC auf die externe Webanwendung bestätigt sein.")
 
 # ---------------------------------------------------------------- Folie 11
 s = titelfolie("Die Kernaussage in einem Satz",
-               "Wir können sofort anfangen — ohne die HZD, innerhalb des Budgets, "
-               "mit rund 80 % des Nutzens.\nAlles Weitere ist eine politische "
-               "Entscheidung, keine technische.")
+               "Der Pilot braucht keine Live-Anbindung an ADO oder SharePoint und "
+               "bleibt im Budget.\nVor dem Start muss nur noch verbindlich geklärt "
+               "werden, wie der HessenPC die KI-Webanwendung erreicht.")
 notiz(s, "Schlussfolie. Bewusst kurz halten und stehen lassen.")
 
 os.makedirs(OUTDIR, exist_ok=True)

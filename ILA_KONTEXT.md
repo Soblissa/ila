@@ -51,6 +51,7 @@
 - 🔄 Neue FigJam-Datei: `ila_Flow_ab_VM` (noch anzulegen)
 - 🔄 **Corporate LLM für HMKB** — Angebot in Vorbereitung, Budget max. 100.000 € über 2 Jahre. Zweiphasenmodell: **Phase 1** (KI-Server außerhalb des Hessennetzes, manueller Dokumentenexport, ohne HZD lieferbar, ca. 80 % des Nutzens) und **Phase 2** (Server im Hessennetz, Live-Anbindung ADO + SharePoint, braucht eigenen HMKB-Serverraum oder HZD-Kooperation). Kosten 2 Jahre: 53.000–87.000 €. Hardware: NVIDIA RTX A6000 Ada 48 GB. Modelle: Mistral Small 3.2 24B (1. Wahl, EU), Qwen 2.5 32B, Llama 4 Scout. Präsentation liegt vor, Angebot noch offen
 - 🔄 **Cloud-Souveränitätsassessment für die Keller-KI** (30.09.2026) — die von der HZD vorgestellten 48 Kriterien passen zum Cloud Sovereignty Framework der EU-Kommission. Kriterienstruktur, Anbieter-Mindestanforderungen und ein vorläufiges Anwendungsassessment für Phase 1 wurden in `Anforderungen an eine Corporate LLM/Cloud-Souveraenitaetsassessment_Keller-KI_Entwurf_2026-09-30.md` dokumentiert. Arbeitshypothese: mindestens SEAL-2, für HMKB-Regelbetrieb SEAL-3 anstreben; C5 Typ 2 bleibt eigener Sicherheitsnachweis und ist nicht mit dem Souveränitätsniveau gleichzusetzen
+- 🔄 **Corporate-LLM-Präsentation: HessenPC-Zugang nachgeschärft** (30.09.2026) — ein Open-Weight-Modell, Weboberfläche, Wissensbasis und Agenten laufen zentral auf dem KI-Server; am HessenPC ist keine Installation nötig. Der Zugriff erfordert jedoch eine erreichbare, freigegebene HTTPS-Webadresse. Für Phase 1 muss deshalb geklärt werden, ob HessenPCs die extern betriebene Webanwendung aufrufen und freigegebene Dokumente dorthin hochladen dürfen. Die bisherige Aussage „vollständig ohne HZD“ ist bis zu dieser Klärung nicht belastbar
 
 ### Offene TODOs
 - [ ] Figma-Plugin für die Wording-Überarbeitung erweitern: Textfelder ausgewählter Frames exportieren, Korrekturen anhand stabiler Node-IDs einlesen und nach Freigabe in der Arbeitskopie anwenden
@@ -62,6 +63,7 @@
 - [ ] Steuerungs- und Freigabe-Matrix erstellen
 - [ ] Barrierefreiheits-Checkliste für ila aus hessischen Anforderungen ableiten
 - [ ] Corporate-LLM-Angebot HMKB finalisieren — 22 Fragen an Dirk Lenz offen (u. a. eigener Serverraum? Wer verwaltet die Microsoft-Tenants? Ausschreibungspflicht? KI-Nutzungsrichtlinie? Datenschutzbeauftragter eingebunden?)
+- [ ] HessenPC-Zugang für Corporate-LLM-Phase 1 klären: externe HTTPS-Webadresse erreichbar/freigabefähig? Authentifizierung möglich? Upload freigegebener Dokumente zulässig?
 - [ ] Namen und Version des von der HZD gezeigten Cloud-Assessment-Werkzeugs bestätigen; klären, ob es das EU-Framework unverändert oder mit hessischen Zusatzkriterien verwendet
 - [ ] Cloud-Anbieter für die Keller-KI benennen und dessen Nachweise beschaffen; danach das 48-Kriterien-Assessment mit belastbarer Punktzahl und SEAL-Einstufung durchführen
 - [ ] Prüfen, ob der EIM-Steckbrief für diSAF ausgefüllt werden soll (Entscheidungspunkte: Hosting-Kategorie, Nutzergruppen, Vertrauensstufe Bronze/Silber/Gold, PPID oder Klardaten, Rollenmodell, Provisionierung)
