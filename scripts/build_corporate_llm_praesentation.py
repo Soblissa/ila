@@ -183,13 +183,14 @@ bullets(s, [
     ("", 0),
     ("Der Kern dieser Präsentation", 0, True),
     ("Ein Pilot ist ohne Live-Anbindung an ADO und SharePoint möglich", 1),
-    ("Vorher muss geklärt werden, ob HessenPCs die externe KI-Webadresse erreichen dürfen", 1),
+    ("HessenPCs erreichen die Weboberfläche über ihre bestehende Internetverbindung", 1),
     ("Der Vollausbau im Hessennetz ist nur gemeinsam mit der HZD möglich", 1),
 ], size=15)
 notiz(s, "Wichtig: nicht mit Technik einsteigen. Der Schmerz ist bekannt — händische "
          "Testfälle und Doku. Für den Pilot sind zwei Fragen zu trennen: Er braucht keine "
-         "Live-Anbindung an ADO oder SharePoint. Der Zugriff vom HessenPC auf eine extern "
-         "betriebene Webanwendung muss aber vorab technisch und organisatorisch bestätigt werden.")
+         "Live-Anbindung an ADO oder SharePoint. Der HessenPC erreicht die extern betriebene "
+         "Webanwendung über die bestehende Internetverbindung. Vorab freizugeben sind die "
+         "konkrete Domain, die Anmeldung und der Dokumenten-Upload.")
 
 # ---------------------------------------------------------------- Folie 3
 s = textfolie("So erreicht die Keller-KI den HessenPC")
@@ -220,8 +221,8 @@ for x, titel, text in [
 tb = s.shapes.add_textbox(Inches(0.55), Inches(4.45), Inches(8.9), Inches(0.65)).text_frame
 tb.word_wrap = True
 p = tb.paragraphs[0]
-p.text = ("Offener Prüfpunkt für Phase 1: Darf der HessenPC die externe Webadresse erreichen "
-          "und Dokumente dorthin hochladen?")
+p.text = ("Voraussetzung für Phase 1: Domain, Anmeldung und Upload freigegebener Dokumente "
+          "müssen zugelassen sein.")
 p.alignment = PP_ALIGN.CENTER
 p.runs[0].font.size = Pt(14)
 p.runs[0].font.bold = True
@@ -320,7 +321,7 @@ leerflaeche(s)
 kasten(s, Inches(0.45), Inches(1.3), Inches(4.4), Inches(3.55),
        "Phase 1 — technisch startbar",
        ["Live-Anbindung an HZD-Systeme:  nein",
-        "HessenPC-Zugriff:  noch zu klären",
+        "Zugriff:  HessenPC über das Internet",
         "",
         "KI-Server läuft außerhalb des Hessennetzes,",
         "in einem EU-Rechenzentrum, DSGVO-konform",
@@ -332,8 +333,8 @@ kasten(s, Inches(0.45), Inches(1.3), Inches(4.4), Inches(3.55),
         "AWA-Assistent, Testfall-Generator,",
         "Wissensassistent",
         "",
-        "Direkte Nutzung am HessenPC nur, wenn die",
-        "externe HTTPS-Adresse freigegeben ist"], GRUEN, titel_size=15, text_size=11)
+        "Standardfreigaben bleiben erforderlich:",
+        "Domain, Anmeldung und Dokumenten-Upload"], GRUEN, titel_size=15, text_size=11)
 
 kasten(s, Inches(5.15), Inches(1.3), Inches(4.4), Inches(3.55),
        "Phase 2 — Vollausbau",
@@ -355,15 +356,16 @@ kasten(s, Inches(5.15), Inches(1.3), Inches(4.4), Inches(3.55),
 tb = s.shapes.add_textbox(Inches(0.45), Inches(4.95), Inches(9.1), Inches(0.4)).text_frame
 tb.word_wrap = True
 p = tb.paragraphs[0]
-p.text = "Phase 1 liefert rund 80 % des fachlichen Nutzens — sobald der HessenPC-Zugriff geklärt ist."
+p.text = "Phase 1 liefert rund 80 % des fachlichen Nutzens — erreichbar über den Browser am HessenPC."
 p.alignment = PP_ALIGN.CENTER
 p.runs[0].font.size = Pt(13)
 p.runs[0].font.bold = True
 p.runs[0].font.color.rgb = DUNKELBLAU
 notiz(s, "Kernbotschaft der Präsentation. Phase 1 braucht keine Live-Verbindung zu ADO "
-         "oder SharePoint. Sie ist aber nur am HessenPC nutzbar, wenn die externe, "
-         "authentifizierte HTTPS-Webadresse erreichbar ist und der Datei-Upload erlaubt wird. "
-         "Phase 2 bleibt ein Ziel und erfordert die HZD.")
+         "oder SharePoint. Der HessenPC erreicht die Weboberfläche über seine bestehende "
+         "Internetverbindung. Domain, Authentifizierung und Datei-Upload müssen im normalen "
+         "IT- und Sicherheitsverfahren freigegeben werden. Phase 2 bleibt ein Ziel und "
+         "erfordert die HZD.")
 
 # ---------------------------------------------------------------- Folie 8
 s = textfolie("Was sich konkret ändert")
@@ -439,20 +441,20 @@ bullets(s, [
     ("Bis wann soll das Angebot vorliegen?", 1),
     ("", 0),
     ("Vorschlag für das weitere Vorgehen", 0, True),
-    ("HessenPC-Zugang kurzfristig mit der zuständigen IT verbindlich klären", 1),
+    ("Domain, Anmeldung und Dokumenten-Upload mit der zuständigen IT freigeben", 1),
     ("Danach Entscheidung des Referats über den Start von Phase 1", 1),
     ("Parallel klären, ob Phase 2 mittelfristig realistisch ist", 1),
     ("Nach den Antworten: verbindliches Angebot mit Zeitplan", 1),
 ], size=12)
-notiz(s, "Abschluss mit einer konkreten Klärungs- und Entscheidungsfolge. Das Referat "
-         "soll Phase 2 heute nicht beschließen. Vor einer Entscheidung über Phase 1 "
-         "muss der Zugriff vom HessenPC auf die externe Webanwendung bestätigt sein.")
+notiz(s, "Abschluss mit einer konkreten Freigabe- und Entscheidungsfolge. Das Referat "
+         "soll Phase 2 heute nicht beschließen. Für Phase 1 sind Domain, Authentifizierung "
+         "und Dokumenten-Upload mit der zuständigen IT abzustimmen.")
 
 # ---------------------------------------------------------------- Folie 11
 s = titelfolie("Die Kernaussage in einem Satz",
                "Der Pilot braucht keine Live-Anbindung an ADO oder SharePoint und "
-               "bleibt im Budget.\nVor dem Start muss nur noch verbindlich geklärt "
-               "werden, wie der HessenPC die KI-Webanwendung erreicht.")
+               "bleibt im Budget.\nDer Zugriff erfolgt ohne Installation über den Browser "
+               "am HessenPC; Domain, Anmeldung und Upload werden kontrolliert freigegeben.")
 notiz(s, "Schlussfolie. Bewusst kurz halten und stehen lassen.")
 
 os.makedirs(OUTDIR, exist_ok=True)
