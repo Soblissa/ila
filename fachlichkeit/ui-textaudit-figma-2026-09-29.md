@@ -7,7 +7,7 @@
 
 ## 1. Auftrag und Umfang
 
-Geprüft wurden die Texte aller 34 Seiten der Figma-Arbeitskopie. Für die sprachliche Bewertung wurden die 16 funktionalen Seiten mit dem Präfix `📐` herangezogen. Interne Komponenten-, Ebenen- und Seitennamen sind nicht Teil des Wordings.
+Geprüft wurden die Texte aller 34 Seiten der Figma-Arbeitskopie. Für die sprachliche Bewertung wurden die 15 funktionalen Seiten mit dem Präfix `📐` herangezogen. Interne Komponenten-, Ebenen- und Seitennamen sind nicht Teil des Wordings.
 
 Der automatisierte Prüflauf hat auf den funktionalen Seiten erfasst:
 
