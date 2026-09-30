@@ -160,12 +160,13 @@ def notiz(slide, text):
 # ---------------------------------------------------------------- Folie 1
 s = titelfolie(
     "Eine eigene KI für das HMKB",
-    "Corporate LLM im Eigenbetrieb — was mit und was ohne die HZD möglich ist\n"
+    "Corporate LLM unter eigener Kontrolle — was mit und was ohne die HZD möglich ist\n"
     "Referat IV. 2.1  ·  Stand: 11.09.2026",
 )
-notiz(s, "Einstieg: Wir sprechen über eine KI, die dem HMKB gehört und im eigenen Haus "
-         "läuft. Kein Cloud-Dienst, keine Daten bei Dritten. Die zentrale Frage ist nicht "
-         "'geht das technisch', sondern 'wie weit kommen wir ohne die HZD'.")
+notiz(s, "Einstieg: Wir sprechen über eine KI, die ausschließlich für das HMKB betrieben "
+         "wird. Sie nutzt keine externe KI-Schnittstelle; Betriebsort und Netzzugang hängen "
+         "von der Phase ab. Die zentrale Frage ist nicht 'geht das technisch', sondern "
+         "'welcher Zugang ist vom HessenPC realistisch'.")
 
 # ---------------------------------------------------------------- Folie 2
 s = textfolie("Worum es geht")
@@ -176,8 +177,8 @@ bullets(s, [
     ("Wissen über die LUSD steckt in Köpfen, ADO-Tickets und SharePoint-Dokumenten", 1),
     ("", 0),
     ("Der Vorschlag", 0, True),
-    ("Ein Corporate LLM — eine Sprach-KI, die dem HMKB gehört und im Eigenbetrieb läuft", 1),
-    ("Alle Daten bleiben im Haus. Kein Cloud-Anbieter, keine Weitergabe an Dritte", 1),
+    ("Ein Corporate LLM — eine Sprach-KI unter Kontrolle des HMKB", 1),
+    ("Keine Weitergabe an externe KI-Dienste; Betriebsort und Netzzugang hängen von der Phase ab", 1),
     ("Budgetrahmen: maximal 100.000 € über zwei Jahre", 1),
     ("", 0),
     ("Der Kern dieser Präsentation", 0, True),
