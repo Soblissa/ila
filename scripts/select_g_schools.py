@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create a reproducible, size-diverse sample of schools by school authority."""
+"""Create a reproducible, size-diverse sample of primary-school forms."""
 
 from __future__ import annotations
 
@@ -99,7 +99,7 @@ def main() -> None:
 
     source = load_workbook(args.source, read_only=True, data_only=True)["Schulliste"]
     rows = [tuple(r) for r in source.iter_rows(min_row=4, max_col=14, values_only=True) if r[0] is not None]
-    filtered = [r for r in rows if "G" in str(r[2]).upper()]
+    filtered = [r for r in rows if "Grund" in str(r[3])]
     by_district: dict[str, list[tuple]] = defaultdict(list)
     for row in filtered:
         by_district[str(row[4])].append(row)
@@ -129,7 +129,7 @@ def main() -> None:
     for cell in overview["D"][1:]: cell.number_format = "0.0%"
     add_table(overview, "Bezirksuebersicht")
 
-    all_g = wb.create_sheet("Alle Schulen mit G")
+    all_g = wb.create_sheet("Alle Grundschulformen")
     all_g.append(HEADERS)
     for row in sorted(filtered, key=lambda r: (str(r[4]), r[9], r[0])): all_g.append(row)
     add_table(all_g, "AlleGSchulen")
@@ -137,8 +137,8 @@ def main() -> None:
     method = wb.create_sheet("Methodik")
     notes = [
         ("Quelle", args.source.name),
-        ("Filter", "Schultyp enthält den Buchstaben G (Groß-/Kleinschreibung wird ignoriert)."),
-        ("Hinweis zum Filter", "Damit sind auch Codes wie GYM, IGS und KGS enthalten."),
+        ("Filter", "Langbezeichnung der Schulform enthält Grund; damit werden reine und kombinierte Grundschulformen erfasst."),
+        ("Enthaltene Schultypen", ", ".join(sorted({str(r[2]) for r in filtered}))),
         ("Grundgesamtheit", f"{len(filtered)} Schulen in {len(by_district)} Schulamtsbezirken."),
         ("Auswahlumfang", f"Je Schulamtsbezirk 25 bis 30 Schulen; linear nach Anzahl der gefilterten Schulen skaliert. Insgesamt {sum(map(len, selected.values()))} Schulen."),
         ("Diversität", "Je Schulamtsbezirk fünf gleich große Größenklassen anhand der Anzahl Schülerinnen und Schüler; annähernd gleiche Auswahlzahl aus jeder Größenklasse."),
