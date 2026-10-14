@@ -95,6 +95,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("source", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument("--sample-factor", type=float, default=1.0)
     args = parser.parse_args()
 
     source = load_workbook(args.source, read_only=True, data_only=True)["Schulliste"]
@@ -104,7 +105,10 @@ def main() -> None:
     for row in filtered:
         by_district[str(row[4])].append(row)
     sizes = [len(v) for v in by_district.values()]
-    targets = {district: target_count(len(items), min(sizes), max(sizes)) for district, items in by_district.items()}
+    targets = {
+        district: math.ceil(target_count(len(items), min(sizes), max(sizes)) * args.sample_factor)
+        for district, items in by_district.items()
+    }
     selected = {district: select_for_district(items, targets[district]) for district, items in by_district.items()}
 
     wb = Workbook()
@@ -140,7 +144,7 @@ def main() -> None:
         ("Filter", "Langbezeichnung der Schulform enthält Grund; damit werden reine und kombinierte Grundschulformen erfasst."),
         ("Enthaltene Schultypen", ", ".join(sorted({str(r[2]) for r in filtered}))),
         ("Grundgesamtheit", f"{len(filtered)} Schulen in {len(by_district)} Schulamtsbezirken."),
-        ("Auswahlumfang", f"Je Schulamtsbezirk 25 bis 30 Schulen; linear nach Anzahl der gefilterten Schulen skaliert. Insgesamt {sum(map(len, selected.values()))} Schulen."),
+        ("Auswahlumfang", f"Ausgangsquote je Schulamtsbezirk 25 bis 30 Schulen, linear nach Anzahl der gefilterten Schulen skaliert; angewendeter Faktor {args.sample_factor:g}. Ungerade Ergebnisse werden aufgerundet. Insgesamt {sum(map(len, selected.values()))} Schulen."),
         ("Diversität", "Je Schulamtsbezirk fünf gleich große Größenklassen anhand der Anzahl Schülerinnen und Schüler; annähernd gleiche Auswahlzahl aus jeder Größenklasse."),
         ("Reproduzierbarkeit", "Deterministische Auswahl anhand Schulamt und Schulnummer; bei unveränderten Eingangsdaten entsteht dieselbe Auswahl."),
         ("Private Schulen", "Wenn in einem Bezirk vorhanden, wird mindestens eine private Schule berücksichtigt, ohne Größenklasse oder Gesamtquote zu verändern."),
