@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-09-30*
+*Letzte Aktualisierung: 2026-10-19*
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 2. Aktueller Projektstand (Stand: 2026-09-11, Repo-Stand 30.07.2026)
+## 2. Aktueller Projektstand (Stand: 2026-10-19)
 
 ### Was abgeschlossen ist
 - ✅ Pilotauswertung AS1 (30.01.–31.03.2026) — Gesamtbericht fertig
@@ -43,6 +43,7 @@
 - ✅ **Nextcloud ChekoWorkspace als primärer bearbeitbarer Ausgabekanal** (15.09.2026) — kontrollierte Struktur für Eingang, aktive Themen, Entscheidungen, Freigaben, Referenzen und Archiv eingerichtet. Erste Collabora-Dokumente zu diSAF, VM SöPädFö, EIM, Corporate LLM und LUSD-Testautomatisierung aus den bereitgestellten OTT-Vorlagen erzeugt
 - ✅ **Produktbeschreibung ila sprachlich korrigiert** (28.09.2026) — Rechtschreibung, Grammatik und Lesefluss überarbeitet; Fachbegriffe und Kernaussagen beibehalten
 - ✅ **UI-Textaudit der Figma Design Specs** (29.09.2026) — alle 34 Seiten eingelesen, 1.243 unterschiedliche Texte auf 15 funktionalen Seiten geprüft und Konsistenzvorschläge dokumentiert in `fachlichkeit/ui-textaudit-figma-2026-09-29.md`. Keine direkte Du-Ansprache gefunden; Schwerpunkte sind der Wechsel zwischen Sie-/Ich-/Wir-Perspektive, 25 unterschiedliche Platzhaltertexte, Rechtschreibung sowie uneinheitliche Leitbegriffe. Die zunächst notierte Zahl 16 wurde am 30.09.2026 anhand der Figma-Seitenstruktur auf 15 korrigiert
+- ✅ **Barrierefreiheits-Prüfbericht diSAF analysiert** (19.10.2026) — 83-seitigen Erst-Test nach WCAG 2.2 AA und EN 301 549 vollständig ausgewertet. Ergebnis: 98 Feststellungen (72 Verstöße, 12 Bugs, 14 Empfehlungen), davon 14 hoch, 65 mittel, 8 niedrig und 11 Empfehlungen ohne Schweregrad; 0 von 12 Dialogen barrierefrei. Word-Analyse, Markdown-Quelle, Originalbericht und reproduzierbares Erzeugungsskript liegen in `Barrierefreiheit/` bzw. `scripts/build_barrierefreiheitsanalyse_2026_10_19.py`
 
 ### Was gerade läuft
 - 🔄 **Wording-Überarbeitung der Figma Design Specs** (29.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Neuer `FIGMA_TOKEN` liegt im geschützten OpenClaw-Schlüsselspeicher und ist auf `api.figma.com` beschränkt; die unverschlüsselte Übergabedatei wurde sicher gelöscht. Der API-Lesezugriff wurde am 29.09.2026 erfolgreich mit HTTP 200 verifiziert; alle 34 Seiten der Arbeitskopie sind erreichbar. **Plugin-Prüfung 29.09.2026:** Manifest und JavaScript sind syntaktisch gültig, aber der eingebettete Komponenten-Index ist nach dem Dateiimport teilweise veraltet: Von 155 hinterlegten Node-IDs sind nur 53 in der Arbeitskopie vorhanden, 102 fehlen. Der bisherige Drei-Komponenten-Test würde nur Navigation Bar Main und Navigation Bar Content finden; Page Heading Plan fehlt. Das Plugin ist daher derzeit nur teilweise funktionsfähig und benötigt einen neu erzeugten Komponenten-Index sowie die geplante Wording-Erweiterung
@@ -66,6 +67,7 @@
 - [ ] Handlungsanweisung für Sebastian schreiben (Yves ist raus)
 - [ ] Steuerungs- und Freigabe-Matrix erstellen
 - [ ] Barrierefreiheits-Checkliste für ila aus hessischen Anforderungen ableiten
+- [ ] 14 hoch gewichtete Feststellungen aus dem Barrierefreiheits-Prüfbericht priorisiert beheben; anschließend alle 12 geprüften Dialoge mit Tastatur sowie JAWS/NVDA regressionsprüfen
 - [ ] Corporate-LLM-Angebot HMKB finalisieren — 22 Fragen an Dirk Lenz offen (u. a. eigener Serverraum? Wer verwaltet die Microsoft-Tenants? Ausschreibungspflicht? KI-Nutzungsrichtlinie? Datenschutzbeauftragter eingebunden?)
 - [ ] HessenPC-Zugang für Corporate-LLM-Phase 1 klären: externe HTTPS-Webadresse erreichbar/freigabefähig? Authentifizierung möglich? Upload freigegebener Dokumente zulässig?
 - [ ] Namen und Version des von der HZD gezeigten Cloud-Assessment-Werkzeugs bestätigen; klären, ob es das EU-Framework unverändert oder mit hessischen Zusatzkriterien verwendet
