@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-10-25*
+*Letzte Aktualisierung: 2026-10-28*
 
 ---
 
@@ -45,6 +45,7 @@
 - ✅ **UI-Textaudit der Figma Design Specs** (29.09.2026) — alle 34 Seiten eingelesen, 1.243 unterschiedliche Texte auf 15 funktionalen Seiten geprüft und Konsistenzvorschläge dokumentiert in `fachlichkeit/ui-textaudit-figma-2026-09-29.md`. Keine direkte Du-Ansprache gefunden; Schwerpunkte sind der Wechsel zwischen Sie-/Ich-/Wir-Perspektive, 25 unterschiedliche Platzhaltertexte, Rechtschreibung sowie uneinheitliche Leitbegriffe. Die zunächst notierte Zahl 16 wurde am 30.09.2026 anhand der Figma-Seitenstruktur auf 15 korrigiert
 - ✅ **Barrierefreiheits-Prüfbericht diSAF analysiert** (19.10.2026) — 83-seitigen Erst-Test nach WCAG 2.2 AA und EN 301 549 vollständig ausgewertet. Ergebnis: 98 Feststellungen (72 Verstöße, 12 Bugs, 14 Empfehlungen), davon 14 hoch, 65 mittel, 8 niedrig und 11 Empfehlungen ohne Schweregrad; 0 von 12 Dialogen barrierefrei. Word-Analyse, Markdown-Quelle, Originalbericht und reproduzierbares Erzeugungsskript liegen in `Barrierefreiheit/` bzw. `scripts/build_barrierefreiheitsanalyse_2026_10_19.py`
 - ✅ **Anschreiben zur Rollout-Umfrage sprachlich korrigiert** (25.10.2026) — ausschließlich Rechtschreibung, Grammatik und Zeichensetzung berichtigt; Inhalt, Aussage und Aufbau unverändert gelassen
+- ✅ **Kritische Verstöße und Bugs aus dem Barrierefreiheits-Prüfbericht separat dokumentiert** (28.10.2026) — ausschließlich die 14 im Originalbericht mit Schweregrad „Hoch“ ausgewiesenen Feststellungen (13 Verstöße, 1 Bug) mit betroffenen Seiten, Prüfschritten und Korrekturhinweisen zusammengestellt. Versionierte Markdown-Quelle in `Barrierefreiheit/Kritische_Verstosse_Bugs_Pruefbericht_Barrierefreiheit_diSAF_2026-10-28.md`; bearbeitbares ODT im Nextcloud-Themenordner `10_Aktive-Themen/10_ILA-diSAF/30_Barrierefreiheit/`; reproduzierbare Erzeugung über `scripts/build_kritische_barrierefreiheitsbefunde_2026_10_28.py`
 
 ### Was gerade läuft
 - 🔄 **Wording-Überarbeitung der Figma Design Specs** (29.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Neuer `FIGMA_TOKEN` liegt im geschützten OpenClaw-Schlüsselspeicher und ist auf `api.figma.com` beschränkt; die unverschlüsselte Übergabedatei wurde sicher gelöscht. Der API-Lesezugriff wurde am 29.09.2026 erfolgreich mit HTTP 200 verifiziert; alle 34 Seiten der Arbeitskopie sind erreichbar. **Plugin-Prüfung 29.09.2026:** Manifest und JavaScript sind syntaktisch gültig, aber der eingebettete Komponenten-Index ist nach dem Dateiimport teilweise veraltet: Von 155 hinterlegten Node-IDs sind nur 53 in der Arbeitskopie vorhanden, 102 fehlen. Der bisherige Drei-Komponenten-Test würde nur Navigation Bar Main und Navigation Bar Content finden; Page Heading Plan fehlt. Das Plugin ist daher derzeit nur teilweise funktionsfähig und benötigt einen neu erzeugten Komponenten-Index sowie die geplante Wording-Erweiterung
