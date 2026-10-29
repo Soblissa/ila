@@ -114,6 +114,21 @@ def main() -> None:
             worksheet.cell(target_row, 10, visible_address)
             filled_column_j += 1
 
+    # Add the new address column after the two existing email columns. Existing
+    # columns K:S are shifted to L:T and retain their contents.
+    worksheet.insert_cols(11, 1)
+    filled_column_k = 0
+    for target_row in range(1, worksheet.max_row + 1):
+        number = school_number(worksheet.cell(target_row, 2).value)
+        if number is None:
+            continue
+        worksheet.cell(
+            target_row,
+            11,
+            f"Schulleitung({number})@schule.hessen.de",
+        )
+        filled_column_k += 1
+
     args.output.parent.mkdir(parents=True, exist_ok=True)
     workbook.save(args.output)
 
@@ -135,6 +150,7 @@ def main() -> None:
     print(f"final_rows={worksheet.max_row}")
     print(f"filled_column_i={filled_column_i}")
     print(f"filled_column_j={filled_column_j}")
+    print(f"filled_column_k={filled_column_k}")
     print("districts=" + ",".join(f"{key}:{district_counts[key]}" for key in sorted(district_counts)))
     print("size_bands=" + ",".join(f"{key}:{band_counts[key]}" for key in sorted(band_counts)))
 
