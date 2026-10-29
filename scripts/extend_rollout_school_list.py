@@ -109,12 +109,9 @@ def main() -> None:
         if worksheet.cell(target_row, 9).value is None:
             worksheet.cell(target_row, 9, f"poststelle{number}@schule.hessen.de")
             filled_column_i += 1
-        if worksheet.cell(target_row, 10).value is None:
-            worksheet.cell(
-                target_row,
-                10,
-                f'=\"Schule(\"&B{target_row}&\")@schule.hessen.de\"',
-            )
+        visible_address = f"Schule({number})@schule.hessen.de"
+        if worksheet.cell(target_row, 10).value != visible_address:
+            worksheet.cell(target_row, 10, visible_address)
             filled_column_j += 1
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
