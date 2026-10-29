@@ -100,6 +100,23 @@ def main() -> None:
         worksheet.cell(target_row, 3, str(row[1]).strip())
         worksheet.cell(target_row, 6, str(row[4]).strip())
 
+    filled_column_i = 0
+    filled_column_j = 0
+    for target_row in range(1, worksheet.max_row + 1):
+        number = school_number(worksheet.cell(target_row, 2).value)
+        if number is None:
+            continue
+        if worksheet.cell(target_row, 9).value is None:
+            worksheet.cell(target_row, 9, f"poststelle{number}@schule.hessen.de")
+            filled_column_i += 1
+        if worksheet.cell(target_row, 10).value is None:
+            worksheet.cell(
+                target_row,
+                10,
+                f'=\"Schule(\"&B{target_row}&\")@schule.hessen.de\"',
+            )
+            filled_column_j += 1
+
     args.output.parent.mkdir(parents=True, exist_ok=True)
     workbook.save(args.output)
 
@@ -119,6 +136,8 @@ def main() -> None:
     print(f"existing_rows={start_row - 1}")
     print(f"added_rows={len(selected)}")
     print(f"final_rows={worksheet.max_row}")
+    print(f"filled_column_i={filled_column_i}")
+    print(f"filled_column_j={filled_column_j}")
     print("districts=" + ",".join(f"{key}:{district_counts[key]}" for key in sorted(district_counts)))
     print("size_bands=" + ",".join(f"{key}:{band_counts[key]}" for key in sorted(band_counts)))
 
