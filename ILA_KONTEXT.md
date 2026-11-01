@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-10-29*
+*Letzte Aktualisierung: 2026-11-01*
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 2. Aktueller Projektstand (Stand: 2026-10-25)
+## 2. Aktueller Projektstand (Stand: 2026-11-01)
 
 ### Was abgeschlossen ist
 - ✅ Pilotauswertung AS1 (30.01.–31.03.2026) — Gesamtbericht fertig
@@ -49,6 +49,7 @@
 - ✅ **Rollout-Adressliste um 300 reine Grundschulen ergänzt** (29.10.2026) — bestehende Liste mit 284 Zeilen um 300 bislang nicht enthaltene Schulen der Schulform `G` erweitert. Je der 15 Schulamtsbezirke wurden 20 Schulen ausgewählt, jeweils vier aus fünf bezirksinternen Größenklassen. Für alle 584 Zeilen sind die E-Mail-Adresse in Spalte I (`poststelle[Schulnummer]@schule.hessen.de`), die anonymisierte Adresse in Spalte J (`Schule[Schulnummer]@schule.hessen.de`) und eine neu eingefügte Schulleitungsadresse in Spalte K (`Schulleitung[Schulnummer]@schule.hessen.de`) als sichtbare feste Werte vollständig eingetragen; eckige Klammern kennzeichnen hier nur den Platzhalter und stehen nicht in den tatsächlichen Adressen. Die bisherigen Spalten K bis S wurden unverändert nach L bis T verschoben. Ergebnis: `Schulauswahl/Adressen_Rollout_Umfrage_erweitert_300_reine_Grundschulen.xlsx`; reproduzierbare Erzeugung: `scripts/extend_rollout_school_list.py`
 
 ### Was gerade läuft
+- 🔄 **Letztes Release vor dem Rollout / AWA-Ziel bis 15.12.2026** (01.11.2026) — bis zum Stichtag sollen noch folgende Funktionalitäten in AWAs überführt werden: Restarbeiten Förderplan einschließlich Fertigstellung der zugehörigen AWAs in der laufenden Woche (Yves), Hoch- und Herunterladen von Dokumenten (Yves), integriertes Feedbackangebot (Yves) sowie VM-Prozess bis zur Annahme durch die durchführende Schule einschließlich Berechtigung der Förderlehrkraft (Silke). Anschließend folgen Designanpassungen, Barrierefreiheit, technische AWAs sowie die Vorbereitung von Einführungshilfen, Kommunikation und Support
 - 🔄 **Wording-Überarbeitung der Figma Design Specs** (29.09.2026) — aktueller Stand der offiziellen Figma-Instanz wurde als lokale `.fig`-Datei exportiert und in Sarahs Instanz importiert. Neue Arbeitskopie: `ila _ Design Specs`, Datei-Key `mGVoWdSLQzFABJlEzOQPRn`. Neuer `FIGMA_TOKEN` liegt im geschützten OpenClaw-Schlüsselspeicher und ist auf `api.figma.com` beschränkt; die unverschlüsselte Übergabedatei wurde sicher gelöscht. Der API-Lesezugriff wurde am 29.09.2026 erfolgreich mit HTTP 200 verifiziert; alle 34 Seiten der Arbeitskopie sind erreichbar. **Plugin-Prüfung 29.09.2026:** Manifest und JavaScript sind syntaktisch gültig, aber der eingebettete Komponenten-Index ist nach dem Dateiimport teilweise veraltet: Von 155 hinterlegten Node-IDs sind nur 53 in der Arbeitskopie vorhanden, 102 fehlen. Der bisherige Drei-Komponenten-Test würde nur Navigation Bar Main und Navigation Bar Content finden; Page Heading Plan fehlt. Das Plugin ist daher derzeit nur teilweise funktionsfähig und benötigt einen neu erzeugten Komponenten-Index sowie die geplante Wording-Erweiterung
 - ✅ **Wording-Audit als bearbeitbare Dokumente aufbereitet** (30.09.2026) — Auditbericht und entwicklerorientierter Umsetzungskatalog als ODT im Nextcloud-Themenordner `10_Aktive-Themen/10_ILA-diSAF/50_Wording-Audit/`. Der versionierte Umsetzungskatalog liegt zusätzlich unter `fachlichkeit/ui-wording-umsetzungskatalog-figma-2026-09-30.md`. Er enthält 2.435 eindeutige Änderungsgruppen mit 10.489 Figma-Fundstellen auf 14 betroffenen Seiten; wiederholte Komponenteninstanzen sind je Seite, Section, Screen/Frame und Ist-Text zusammengefasst. Fachlich offene Blindtexte sind ausdrücklich blockiert statt erfunden
 - ✅ **Auswahl allgemeinbildender Schulen mit Grundschulanteil erstellt** (14.10.2026) — Quelldatei Schuljahr 2025/2026 mit 1.847 Schulen ausgewertet. Enthalten sind die sieben Grundschulformen `G`, `GF`, `GH`, `GHR`, `GHRF`, `GR` und `MSSG`; die Grundgesamtheit umfasst 1.142 Schulen. Je der 15 Schulamtsbezirke wurden abhängig von der Bezirksgröße 25 bis 30 Schulen ausgewählt, insgesamt 412. Die Auswahl ist innerhalb jedes Bezirks gleichmäßig über fünf Größenklassen nach Anzahl der Schülerinnen und Schüler geschichtet und reproduzierbar. Ergebnis: `Schulauswahl/Auswahl_Grundschulformen_SJ_25-26.xlsx`. Zusätzlich wurde eine halbierte Stichprobe mit aufgerundeten Bezirksquoten von 13 bis 15 Schulen erstellt, insgesamt 209: `Schulauswahl/Auswahl_Grundschulformen_halbe_Stichprobe_SJ_25-26.xlsx`. Erzeugung: `scripts/select_g_schools.py`
@@ -62,6 +63,11 @@
   - Sarah bestätigt am 30.09.2026: HessenPCs kommen aus dem Hessennetz ins Internet. Damit ist die grundsätzliche technische Erreichbarkeit einer extern gehosteten Weboberfläche plausibel. Zu prüfen bleiben die konkrete Domainfreigabe, Authentifizierung und insbesondere die Zulässigkeit von Dokumenten-Uploads aus dem Hessennetz
 
 ### Offene TODOs
+- [ ] Bis 15.12.2026: Restarbeiten Förderplan in AWAs abschließen; zugehörige AWAs möglichst in der laufenden Woche fertigstellen (Yves)
+- [ ] Bis 15.12.2026: Hoch- und Herunterladen von Dokumenten in AWAs überführen (Yves)
+- [ ] Bis 15.12.2026: integriertes Feedbackangebot in AWAs überführen (Yves)
+- [ ] Bis 15.12.2026: VM-Prozess bis zur Annahme durch die durchführende Schule einschließlich Berechtigung der Förderlehrkraft in AWAs überführen (Silke)
+- [ ] Nach Abschluss der funktionalen AWAs: Designanpassungen, Barrierefreiheit und technische AWAs bearbeiten sowie Einführungshilfen, Kommunikation und Support vorbereiten
 - [ ] Figma-Plugin für die Wording-Überarbeitung erweitern: Textfelder ausgewählter Frames exportieren, Korrekturen anhand stabiler Node-IDs einlesen und nach Freigabe in der Arbeitskopie anwenden
 - [ ] Komponenten-Index des Figma-Plugins aus der neuen Design-Specs-Arbeitskopie neu erzeugen (102 von 155 bisherigen Node-IDs fehlen)
 - [ ] flow_ab_vm_v3 bauen (neue Struktur: Förderakte als Hub)
