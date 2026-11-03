@@ -93,6 +93,9 @@ Zwischen dem letzten Repo-Commit (30.07.2026) und dem 11.09.2026 liegen rund sec
 ### Festgestellte Klarstellung (11.09.2026)
 Der EIM-Steckbrief weist Firewall-Freischaltungen den Fachverfahrensverantwortlichen zu („rechtzeitig beim IT-Betrieb zu beantragen“). Das ist eine Zuständigkeitszuweisung, **keine Zusage auf Genehmigung**. Die zugesagten „≤ 3 Arbeitstage“ gelten nur für das EIM-Onboarding, nicht für Netzfreigaben. Beantragen heißt nicht durchsetzen — und der EIM-Fall (HZD-intern, Eigeninteresse der HZD) ist nicht vergleichbar mit unserem Fall (externer Server will ins Hessennetz).
 
+### Festgestellte Klarstellung (03.11.2026)
+Ein Zugang zu diSAF über das Schulportal ist **nicht geplant**. Die Umfrageaussage „Ich wünsche mir einen Zugang zu ila über das Schulportal“ erhebt lediglich eine Präferenz der Befragten und erlaubt keine Aussage über die geplante Zugangsarchitektur. Daraus darf insbesondere nicht abgeleitet werden, das Schulportal sei als einziger oder möglicher Zugang vorgesehen.
+
 ### Wording-Entscheidung (29.09.2026)
 
 - Direkte Ansprache konsequent mit „Sie“, „Ihr“ und „Ihre“
