@@ -1,6 +1,6 @@
 # ILA_KONTEXT.md — Checos ILA-Briefing
 *Pflichtlektüre bei jedem ILA-Thema. Immer zuerst lesen.*
-*Letzte Aktualisierung: 2026-11-01*
+*Letzte Aktualisierung: 2026-11-03*
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 2. Aktueller Projektstand (Stand: 2026-11-01)
+## 2. Aktueller Projektstand (Stand: 2026-11-03)
 
 ### Was abgeschlossen ist
 - ✅ Pilotauswertung AS1 (30.01.–31.03.2026) — Gesamtbericht fertig
@@ -47,6 +47,7 @@
 - ✅ **Anschreiben zur Rollout-Umfrage sprachlich korrigiert** (25.10.2026) — ausschließlich Rechtschreibung, Grammatik und Zeichensetzung berichtigt; Inhalt, Aussage und Aufbau unverändert gelassen
 - ✅ **Kritische Verstöße und Bugs aus dem Barrierefreiheits-Prüfbericht separat dokumentiert** (28.10.2026) — ausschließlich die 14 im Originalbericht mit Schweregrad „Hoch“ ausgewiesenen Feststellungen (13 Verstöße, 1 Bug) mit betroffenen Seiten, Prüfschritten und Korrekturhinweisen zusammengestellt. Versionierte Markdown-Quelle in `Barrierefreiheit/Kritische_Verstosse_Bugs_Pruefbericht_Barrierefreiheit_diSAF_2026-10-28.md`; bearbeitbares ODT im Nextcloud-Themenordner `10_Aktive-Themen/10_ILA-diSAF/30_Barrierefreiheit/`; reproduzierbare Erzeugung über `scripts/build_kritische_barrierefreiheitsbefunde_2026_10_28.py`
 - ✅ **Rollout-Adressliste um 300 reine Grundschulen ergänzt** (29.10.2026) — bestehende Liste mit 284 Zeilen um 300 bislang nicht enthaltene Schulen der Schulform `G` erweitert. Je der 15 Schulamtsbezirke wurden 20 Schulen ausgewählt, jeweils vier aus fünf bezirksinternen Größenklassen. Für alle 584 Zeilen sind die E-Mail-Adresse in Spalte I (`poststelle[Schulnummer]@schule.hessen.de`), die anonymisierte Adresse in Spalte J (`Schule[Schulnummer]@schule.hessen.de`) und eine neu eingefügte Schulleitungsadresse in Spalte K (`Schulleitung[Schulnummer]@schule.hessen.de`) als sichtbare feste Werte vollständig eingetragen; eckige Klammern kennzeichnen hier nur den Platzhalter und stehen nicht in den tatsächlichen Adressen. Die bisherigen Spalten K bis S wurden unverändert nach L bis T verschoben. Ergebnis: `Schulauswahl/Adressen_Rollout_Umfrage_erweitert_300_reine_Grundschulen.xlsx`; reproduzierbare Erzeugung: `scripts/extend_rollout_school_list.py`
+- ✅ **Projektordner für die Umfrage Rollout 2027 angelegt** (03.11.2026) — versionierter Ordner `Umfrage Rollout 2027/` im GitHub-Repository erstellt
 
 ### Was gerade läuft
 - 🔄 **Letztes Release vor dem Rollout / AWA-Ziel bis 15.12.2026** (01.11.2026) — bis zum Stichtag sollen noch folgende Funktionalitäten in AWAs überführt werden: Restarbeiten Förderplan einschließlich Fertigstellung der zugehörigen AWAs in der laufenden Woche (Yves), Hoch- und Herunterladen von Dokumenten (Yves), integriertes Feedbackangebot (Yves) sowie VM-Prozess bis zur Annahme durch die durchführende Schule einschließlich Berechtigung der Förderlehrkraft (Silke). Anschließend folgen Designanpassungen, Barrierefreiheit, technische AWAs sowie die Vorbereitung von Einführungshilfen, Kommunikation und Support
